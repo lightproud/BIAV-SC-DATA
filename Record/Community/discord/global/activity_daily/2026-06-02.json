@@ -1,10 +1,11 @@
 {
   "date": "2026-06-02",
-  "messages": 27966,
+  "messages": 32111,
   "unique_authors": 583,
-  "reactions_total": 2319,
-  "attachments": 1448,
+  "reactions_total": 2780,
+  "attachments": 1654,
   "channel_activity": {
+    "🔸morimens-game-chat": 4145,
     "🔸general-chat": 3320,
     "🔸game-question": 6868,
     "🔸綜合討論": 4263,
@@ -78,12 +79,16 @@
     "Team building advice for Saya? Here’s my full roster": 2
   },
   "hourly_activity": {
-    "4": 1218,
-    "5": 1809,
-    "6": 1689,
-    "7": 1174,
-    "8": 1076,
-    "9": 1242,
+    "0": 2135,
+    "1": 1765,
+    "2": 1517,
+    "3": 1581,
+    "4": 2012,
+    "5": 2313,
+    "6": 1964,
+    "7": 1467,
+    "8": 1605,
+    "9": 1508,
     "10": 806,
     "11": 1133,
     "12": 1831,
@@ -97,17 +102,11 @@
     "20": 793,
     "21": 698,
     "22": 892,
-    "23": 879,
-    "0": 1731,
-    "1": 1497,
-    "2": 1193,
-    "3": 1093
+    "23": 879
   },
   "message_types": {
-    "19": 613,
-    "0": 1629,
-    "20": 1,
-    "23": 1
+    "0": 2361,
+    "19": 1784
   },
   "top_reacted_messages": [
     {
@@ -117,6 +116,14 @@
       "author": "asecana",
       "reactions": 16,
       "channel": "Big hearts"
+    },
+    {
+      "id": "1511268087075307520",
+      "channel_id": "1170692781216378960",
+      "content": "sex is horrifying?",
+      "author": "lavache.",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1511411016112799754",
@@ -175,6 +182,14 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1511241862810177647",
+      "channel_id": "1170692781216378960",
+      "content": "First thing I see",
+      "author": "guava3442",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1511348018123898931",
       "channel_id": "1131839817982947429",
       "content": "終於突破1000k了☝️ 🤓",
@@ -231,6 +246,14 @@
       "channel": "The Joys Of Cooking - Seafarer Edition"
     },
     {
+      "id": "1511263103403425802",
+      "channel_id": "1170692781216378960",
+      "content": "just started A1C7, freaky ass chapter intro",
+      "author": "soup0.9",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1511398431053053962",
       "channel_id": "1131839817982947429",
       "content": "~~而且我阿拉衣服的價格出來了非常的這個那個所以我暫且不課你遊跟1999了~~",
@@ -243,30 +266,6 @@
       "channel_id": "1131839817982947429",
       "content": "",
       "author": "yi000607",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1511515956072026242",
-      "channel_id": "1131839874132090890",
-      "content": "打了快一小時",
-      "author": "n28250976",
-      "reactions": 6,
-      "channel": "🔸阵容构建"
-    },
-    {
-      "id": "1511216667966046349",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "akkom730",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1511217058258489434",
-      "channel_id": "1131839817982947429",
-      "content": "還溢出600黑印氣死我了",
-      "author": "ahuahuahua",
       "reactions": 6,
       "channel": "🔸綜合討論"
     }

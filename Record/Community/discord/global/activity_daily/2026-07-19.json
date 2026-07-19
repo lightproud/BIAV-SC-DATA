@@ -1,39 +1,47 @@
 {
   "date": "2026-07-19",
-  "messages": 2566,
+  "messages": 3724,
   "unique_authors": 181,
-  "reactions_total": 129,
-  "attachments": 161,
+  "reactions_total": 276,
+  "attachments": 234,
   "channel_activity": {
-    "🔸綜合討論": 399,
+    "🔸綜合討論": 843,
+    "🔸剧情交流": 15,
+    "🔸相位对弈": 10,
+    "🔸课间休息闲聊": 91,
+    "🔸日本語チャンネル": 2,
+    "🔸deutscher-chatraum": 26,
+    "🔸chaîne-française": 4,
+    "🔸русский-канал": 55,
+    "🔸phòng-chat-tiếng-việt": 228,
+    "🔸canal-português": 23,
+    "🔸ruang-obrolan-indonesia": 245,
+    "🔸ห้องสนทนาภาษาไทย": 110,
+    "🔸traphase": 11,
+    "🔸lore-chat": 34,
+    "🔸lets-count": 9,
+    "🔸team-building": 156,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "🔸game-question": 1739,
+    "🔸机器人命令┊bot-commands": 33,
+    "相位私密午歇時間與蘿坦機制": 2,
+    "寻找成就": 2,
+    "Please rework how Propagation Caro works for the future units": 2,
+    "V2.5.1.0 停服维护公告": 11,
+    "Winkle ☕": 3,
+    "jollibee thais": 6,
+    "How exalting on Tawil feels like": 2,
+    "V2.5.2 全新唤醒体✦庞托斯┊New Awakener✦Pontos┊신규 각성체✦폰토스": 1,
+    "Is Miryam still meta?": 9,
     "🔸阵容构建": 1,
-    "🔸剧情交流": 9,
-    "🔸课间休息闲聊": 89,
     "🔸한국어-채팅방": 13,
-    "🔸chaîne-française": 3,
-    "🔸русский-канал": 16,
-    "🔸phòng-chat-tiếng-việt": 49,
     "🔸canal-español": 13,
-    "🔸canal-português": 5,
-    "🔸ruang-obrolan-indonesia": 53,
-    "🔸ห้องสนทนาภาษาไทย": 41,
-    "🔸traphase": 10,
-    "🔸lore-chat": 28,
-    "🔸lets-count": 5,
-    "🔸team-building": 132,
-    "🔸邀请码互助┊swap-invitation-codes": 4,
-    "🔸game-question": 1643,
     "🔸忘却前夜┊morimens-tv": 1,
-    "🔸机器人命令┊bot-commands": 22,
     "打算開一個圖樓可能圖之後就丟這裡了": 1,
-    "寻找成就": 1,
     "由烏哈希的覺醒無法解當下的封印": 3,
     "手機讀不到steam帳號": 4,
     "想要24生日做給守密人的時裝，可以顯示在鑰令動畫": 1,
     "Potential improvements for Hameln": 2,
-    "Please rework how Propagation Caro works for the future units": 1,
-    "V2.5.1.0 停服维护公告": 5,
-    "jollibee thais": 4,
     "Complete Team Builder and Unit Database Resource": 1,
     "【English Translation】Opinions Collection": 2,
     "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 1,
@@ -41,6 +49,11 @@
     "1528249757821304942": 1
   },
   "hourly_activity": {
+    "9": 206,
+    "10": 270,
+    "11": 105,
+    "12": 366,
+    "13": 221,
     "0": 183,
     "1": 213,
     "2": 236,
@@ -49,16 +62,22 @@
     "5": 139,
     "6": 203,
     "7": 439,
-    "8": 250,
-    "9": 10
+    "8": 250
   },
   "message_types": {
-    "0": 1832,
-    "19": 711,
-    "20": 22,
-    "21": 1
+    "19": 249,
+    "0": 901,
+    "20": 8
   },
   "top_reacted_messages": [
+    {
+      "id": "1528378990258163752",
+      "channel_id": "1131839817982947429",
+      "content": "39天400",
+      "author": "angbak",
+      "reactions": 12,
+      "channel": "🔸綜合討論"
+    },
     {
       "id": "1528281256780107876",
       "channel_id": "1131839817982947429",
@@ -74,6 +93,54 @@
       "author": "encyoverride",
       "reactions": 6,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528381902166429816",
+      "channel_id": "1131839817982947429",
+      "content": "<:Helot_slack_off:1459092159465521184> 我114天才第一次打425",
+      "author": "gensono0609",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528334055702134855",
+      "channel_id": "1528334055702134855",
+      "content": "https://x.com/SaminDraws/status/2078772296987140364?s=20",
+      "author": "samin_",
+      "reactions": 5,
+      "channel": "Winkle ☕"
+    },
+    {
+      "id": "1528342827975835689",
+      "channel_id": "1131839817982947429",
+      "content": "沒那麼簡單",
+      "author": "souri.10244",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528344112917643406",
+      "channel_id": "1131839817982947429",
+      "content": "第一次聽到阿遙這麼失心瘋的高分貝尖叫",
+      "author": "souri.10244",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528375551457493022",
+      "channel_id": "1131839817982947429",
+      "content": "怎麼不是大水母男守",
+      "author": "heikwok",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528329263596699810",
+      "channel_id": "1300659603993923644",
+      "content": "<@474412169249947669> con chó này nó scale kinh quá cắn của em mất 3 cái dr:)))",
+      "author": "hoangziet.",
+      "reactions": 4,
+      "channel": "🔸phòng-chat-tiếng-việt"
     },
     {
       "id": "1528308696466194593",
@@ -92,131 +159,75 @@
       "channel": "由烏哈希的覺醒無法解當下的封印"
     },
     {
+      "id": "1528334502521340015",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528335271287066657",
+      "channel_id": "1131839817982947429",
+      "content": "C過癲狂列車的列表",
+      "author": "water_heart",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528342072019521536",
+      "channel_id": "1131839817982947429",
+      "content": "還有…15小時…融災結算…",
+      "author": "a_wei3797",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528343870063251486",
+      "channel_id": "1131839817982947429",
+      "content": "阿遙的圖",
+      "author": "souri.10244",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528348710306709514",
+      "channel_id": "1131839817982947429",
+      "content": "僅限星空",
+      "author": "roselia_millsage_avemujica",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528349048858480700",
+      "channel_id": "1131839817982947429",
+      "content": "撕我幣",
+      "author": "roselia_millsage_avemujica",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528379935108894760",
+      "channel_id": "1131839817982947429",
+      "content": "应该花了最少40小时",
+      "author": "angbak",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528382938243272825",
+      "channel_id": "1131839817982947429",
+      "content": "我不到950就400了",
+      "author": "akkom730",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
       "id": "1528303428260859945",
       "channel_id": "1131839817982947429",
       "content": "~~虽然她是我妈，但我觉得他这人有一点邪恶罢了~~<:Helot_slack_off:1459092159465521184>",
       "author": "hanzhishi._46481",
       "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528303904872337579",
-      "channel_id": "1131839817982947429",
-      "content": "的确。自从抛弃忘却前夜我开始玩起数织。好玩。",
-      "author": "encyoverride",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528308622747242688",
-      "channel_id": "1131839817982947429",
-      "content": "~~你看起很失望喔老登~~<:Helot_slack_off:1459092159465521184>",
-      "author": "hanzhishi._46481",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528279655797231636",
-      "channel_id": "1326453763355185215",
-      "content": "||B-67 is the identification assigned to a man who met the Mi-Go in The Whispere",
-      "author": "_venush",
-      "reactions": 3,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1528229000747679898",
-      "channel_id": "1131839817982947429",
-      "content": "早安 今天是考完試的第一天 腦子跟皮谷都很空虛，有誰能填滿我……",
-      "author": "yi000607",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528247365566468247",
-      "channel_id": "1131839817982947429",
-      "content": "~~有的，我到现在还没破~~<:Helot_slack_off:1459092159465521184>",
-      "author": "hanzhishi._46481",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528299743653003355",
-      "channel_id": "1131839817982947429",
-      "content": "不知道",
-      "author": "kemomimi_",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528303858747445368",
-      "channel_id": "1131839817982947429",
-      "content": "~~那我唤醒母爱~~<:Helot_slack_off:1459092159465521184>",
-      "author": "hanzhishi._46481",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528311843544760430",
-      "channel_id": "1173463482503536711",
-      "content": "迟点整理一份金单看看",
-      "author": "cs001092",
-      "reactions": 2,
-      "channel": "🔸剧情交流"
-    },
-    {
-      "id": "1528193447104610334",
-      "channel_id": "1300659718653476925",
-      "content": "Obrigado pelo incentivo amigo <:Kath_cool:1447714576413233315>",
-      "author": "nistarin",
-      "reactions": 2,
-      "channel": "🔸canal-português"
-    },
-    {
-      "id": "1528301141757001808",
-      "channel_id": "1300659802455674972",
-      "content": "หวังอะไรกับเน็ตห้าง",
-      "author": "c4ria",
-      "reactions": 2,
-      "channel": "🔸ห้องสนทนาภาษาไทย"
-    },
-    {
-      "id": "1528234565930455050",
-      "channel_id": "1433513650299076780",
-      "content": "I'd consider picking up some Brown WoDs\n\nRecommended\n- Frenzy, Emerge, Gluttony\n",
-      "author": "snorlax01",
-      "reactions": 2,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1528198436124491856",
-      "channel_id": "1528198436124491856",
-      "content": "<@1198497578703126648> couldnt decide if a normal outfit or a fanservice outfit ",
-      "author": "hikarimew",
-      "reactions": 2,
-      "channel": "jollibee thais"
-    },
-    {
-      "id": "1528200288513691728",
-      "channel_id": "1131839817982947429",
-      "content": "？",
-      "author": "watermelon_322717",
-      "reactions": 1,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528247458319306752",
-      "channel_id": "1131839817982947429",
-      "content": "我來破",
-      "author": "ahuahuahua",
-      "reactions": 1,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528255071174000851",
-      "channel_id": "1131839817982947429",
-      "content": "好像忍耐上限翻倍嗎🤔",
-      "author": "yi000607",
-      "reactions": 1,
       "channel": "🔸綜合討論"
     }
   ]
