@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-08",
+  "archived_at": "2026-07-09T00:06:32.362467+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Steam论坛] WOD ARCHIVES RUINED",
+      "summary": "I find it really sad how greedy the devs are for raising the price of one of the best bundles the game offers in every version; It used to include a +12 wheel at an affordable price of 980 Silver Prime, but now, with the new version, they’ve raised the price to 1,680 Silver Prime just by adding a few cores basically forcing you to top up $30 in the game, or in other cases $31, for a bundle that was previously perfectly fine and available at a good price of $15.  ːsteamthumbsdownː...",
+      "source": "steam_discussion",
+      "time": "2026-07-08T05:24:40+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/573793962962281878/",
+      "engagement": 10,
+      "is_hot": true,
+      "author": "PoofNi",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] Invitation Code if anyone can !!",
+      "summary": "Z323T1DHSL",
+      "source": "steam_discussion",
+      "time": "2026-07-08T15:47:41+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/573794767997174473/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "mikey",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}

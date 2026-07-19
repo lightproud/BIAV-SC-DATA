@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-09",
+  "messages": 9,
+  "unique_authors": 2,
+  "reactions_total": 1,
+  "attachments": 0,
+  "channel_activity": {
+    "general-discussion": 9
+  },
+  "hourly_activity": {
+    "13": 9
+  },
+  "message_types": {
+    "0": 8,
+    "19": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1513899624052822128",
+      "channel_id": "1402941858606219294",
+      "content": "yeah, AA like doubles the text length which forces the X/3 to scroll offscreen",
+      "author": "arkaether",
+      "reactions": 1,
+      "channel": "general-discussion"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2024-09-08",
+  "archived_at": "2026-07-19T08:15:28.027784+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 我个人感觉很好玩，不需要氪金也可以抽到很多角色，关卡也不会很难",
+      "summary": "我个人感觉很好玩，不需要氪金也可以抽到很多角色，关卡也不会很难",
+      "source": "google_play",
+      "time": "2024-09-07T20:40:26",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_TW#gp-ff4435b1-9e20-4943-87f9-9f67f47e2fb7",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "K. X_",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 我个人感觉很好玩，不需要氪金也可以抽到很多角色，关卡也不会很难",
+      "summary": "我个人感觉很好玩，不需要氪金也可以抽到很多角色，关卡也不会很难",
+      "source": "google_play",
+      "time": "2024-09-07T20:40:26",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_HK#gp-ff4435b1-9e20-4943-87f9-9f67f47e2fb7",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "K. X_",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

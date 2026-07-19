@@ -1,0 +1,38 @@
+{
+  "date": "2024-07-06",
+  "archived_at": "2026-07-19T02:30:25.553041+00:00",
+  "source": "appstore",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "很喜欢",
+      "summary": "三年内玩过最好玩的卡牌游戏，希望能一直做下去",
+      "source": "appstore",
+      "time": "2024-07-06T08:13:52-07:00",
+      "url": "https://apps.apple.com/hk/app/id6447354150?see-all=reviews#as-11462871638",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "aufuebdks",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    },
+    {
+      "title": "很喜欢",
+      "summary": "三年内玩过最好玩的卡牌游戏，希望能一直做下去",
+      "source": "appstore",
+      "platform_region": "hk",
+      "lang": "",
+      "time": "2024-07-06T08:13:52-07:00",
+      "url": "",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "aufuebdks",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    }
+  ],
+  "region": "global"
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-16",
+  "archived_at": "2026-07-19T05:52:47.944132+00:00",
+  "source": "appstore",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Amazing game",
+      "summary": "One of the best gacha games out there. The devs are incredibly talented and generous.",
+      "source": "appstore",
+      "time": "2026-06-16T02:49:31-07:00",
+      "url": "https://apps.apple.com/au/app/id6447354150?see-all=reviews#as-14188874283",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Temiiiiiiii88",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "au",
+      "region": "global"
+    },
+    {
+      "title": "Amazing game",
+      "summary": "One of the best gacha games out there. The devs are incredibly talented and generous.",
+      "source": "appstore",
+      "time": "2026-06-16T02:49:31-07:00",
+      "url": "https://apps.apple.com/au/app/id6447354150?see-all=reviews",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Temiiiiiiii88",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "au"
+    }
+  ],
+  "region": "global"
+}

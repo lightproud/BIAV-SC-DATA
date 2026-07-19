@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-17",
+  "archived_at": "2026-07-19T08:15:28.031099+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 Советую эту игру всем любителям мрачной",
+      "summary": "Советую эту игру всем любителям мрачной эстетики и необычных гача-механик)) Сама скачала её ради коллаборации с новеллой Saya no Uta, но в итоге влюбилась в геймплей: боевая система на картах требует тактического мышления и действительно затягивает. К ф2п игрокам тут относятся на удивление лояльно — донат не давит, играется комфортно. На фоне однотипных проектов вроде игр Хойоверс эта игра стала для меня настоящим глотком свежего воздуха!!",
+      "source": "google_play",
+      "time": "2026-07-16T20:07:51",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-5c05a9f6-bc60-4266-a7b3-46ceb449d3f4",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Тома",
+      "tags": [],
+      "lang": "ru",
+      "platform_region": "ru",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 I love this game! 10/10 But although it'",
+      "summary": "I love this game! 10/10 But although it's a wonderful game, I suggest re-writing the old and rushed chapters due to the game almost hitting EOS. Like chapter 7 & 8. I also recommend buffing the old characters like daffodil and buff the ultra realm.",
+      "source": "google_play",
+      "time": "2026-07-17T13:19:56",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-9499052d-7197-4179-a623-55626662f8ee",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Eulyn Lolol",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

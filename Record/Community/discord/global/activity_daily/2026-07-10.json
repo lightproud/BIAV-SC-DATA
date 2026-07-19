@@ -1,0 +1,256 @@
+{
+  "date": "2026-07-10",
+  "messages": 10966,
+  "unique_authors": 315,
+  "reactions_total": 1020,
+  "attachments": 608,
+  "channel_activity": {
+    "🔸general-chat": 3560,
+    "🔸綜合討論": 817,
+    "🔸剧情交流": 5,
+    "🔸课间休息闲聊": 373,
+    "🔸交友频道": 2,
+    "🔸deutscher-chatraum": 109,
+    "🔸chaîne-française": 156,
+    "🔸русский-канал": 157,
+    "🔸canal-español": 55,
+    "🔸canal-português": 85,
+    "🔸ruang-obrolan-indonesia": 785,
+    "🔸ห้องสนทนาภาษาไทย": 465,
+    "🔸traphase": 73,
+    "🔸lore-chat": 1532,
+    "🔸lets-count": 11,
+    "🔸team-building": 604,
+    "🔸game-question": 1548,
+    "🔸机器人命令┊bot-commands": 49,
+    "Potential improvements for Hameln": 5,
+    "doreposting / unserious doodles / doreyap": 1,
+    "V2.3.1 「朵尔·灵性重生」简约幻衣，可在邀请活动中获取┊Get Basic Skin \"Doll: Gnostic Reshape\" from the New Invitation Event!": 2,
+    "🔸阵容构建": 15,
+    "🔸晒卡分享": 2,
+    "🔸相位对弈": 11,
+    "🔸한국어-채팅방": 12,
+    "🔸phòng-chat-tiếng-việt": 397,
+    "🔸频道建议┊server-suggestions": 14,
+    "🔸邀请码互助┊swap-invitation-codes": 11,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 2,
+    "Crappy MS Paint Sorel Art": 1,
+    "这个那个": 5,
+    "Sign in screen not appearing": 2,
+    "可以把通關記錄刪掉嗎": 3,
+    "✅「已回答」這次不是死的 是活的了": 3,
+    "✅「Answered」Incorrect spelling": 3,
+    "Rewards for playing the side modes outside of season rewards": 1,
+    "有關喚醒體的界域的問題": 3,
+    "✅「Answered」rework Sabotage mechanic": 1,
+    "關於日服沒有好友上限這事": 1,
+    "✅「Answered」Spellbound doesnt work. Why is Lily poison worse than prebuff?": 1,
+    "Please rework how Propagation Caro works for the future units": 1,
+    "V2.5.1.0 停服维护公告": 13,
+    "守密人頭像┊game avatars": 1,
+    ":man_detective: 相位對弈：對戰表情 ┊ Emotes": 1,
+    "Crappy Sorel MS paint art": 1,
+    "Xu 💛": 3,
+    "sneep": 1,
+    "Nefraea + Arachne Posting (Weekly)": 17,
+    "morimens team generator!!": 33,
+    "Guides for complete Beginners (Part 3 out now)": 2,
+    "【English Translation】Opinions Collection": 2,
+    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 6,
+    "1524949563054751814": 2
+  },
+  "hourly_activity": {
+    "11": 513,
+    "12": 310,
+    "13": 597,
+    "14": 675,
+    "15": 1106,
+    "16": 698,
+    "17": 187,
+    "18": 333,
+    "19": 333,
+    "20": 142,
+    "21": 250,
+    "22": 575,
+    "23": 215,
+    "0": 587,
+    "1": 380,
+    "2": 634,
+    "3": 210,
+    "4": 277,
+    "5": 317,
+    "6": 273,
+    "7": 375,
+    "8": 310,
+    "9": 824,
+    "10": 845
+  },
+  "message_types": {
+    "0": 1050,
+    "19": 741,
+    "20": 6
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1525110284010786816",
+      "channel_id": "1131839817982947429",
+      "content": "有沒有大佬可以帶帶我",
+      "author": "water_heart",
+      "reactions": 13,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1525070313107488868",
+      "channel_id": "1525070313107488868",
+      "content": "https://x.com/SaminDraws/status/2075507823434244124?s=20",
+      "author": "samin_",
+      "reactions": 8,
+      "channel": "Xu 💛"
+    },
+    {
+      "id": "1525059046443454474",
+      "channel_id": "1525059046443454474",
+      "content": "",
+      "author": "wraithdust",
+      "reactions": 8,
+      "channel": "sneep"
+    },
+    {
+      "id": "1525045371921891338",
+      "channel_id": "1131839817982947429",
+      "content": "[Jump to original message](https://discord.com/channels/@me/1131839817982947429/",
+      "author": "Make it a Quote",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1525168285505683627",
+      "channel_id": "1131839817982947429",
+      "content": "他喜歡盲眼play",
+      "author": "akkom730",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1524951851424808970",
+      "channel_id": "1326453763355185215",
+      "content": "\"May the silver key guide me\" \n\n*Wheelchair starts moving towards the bathroom*",
+      "author": "eresh69",
+      "reactions": 7,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1525050224740139158",
+      "channel_id": "1131839817982947429",
+      "content": "[Jump to original message](https://discord.com/channels/@me/1131839817982947429/",
+      "author": "Make it a Quote",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1525058008458068060",
+      "channel_id": "1131839817982947429",
+      "content": "有大佬可以草死我嗎",
+      "author": "ahuahuahua",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1525088906956111993",
+      "channel_id": "1131839817982947429",
+      "content": "<:Brown_think:1459080117308620996> 從你id來看你本來就該屬於這",
+      "author": "arr5721",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1525097528335270039",
+      "channel_id": "1131839817982947429",
+      "content": "即将进入黄衣之王的剧院，守密人们请遵循以下规则：\n\n1。每回合只有第一次灵知觉醒是真的，如果你发现你手中有多余的觉醒牌请不要使用，那是黄衣之王的陷阱\n\n2。剧院",
+      "author": "polkarain",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1525115880923598949",
+      "channel_id": "1131839817982947429",
+      "content": "有大佬可以帶帶我打融災嗎",
+      "author": "ahuahuahua",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1525165562945077378",
+      "channel_id": "1131839817982947429",
+      "content": "~~Consider這個字意思不就是可能不會改嘛~~",
+      "author": "ahuahuahua",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1525166187334340749",
+      "channel_id": "1131839817982947429",
+      "content": "我要去發第四篇關回放的有問了",
+      "author": "ahuahuahua",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1525183175641272462",
+      "channel_id": "1131839817982947429",
+      "content": "這是安樂死嗎",
+      "author": "ernest_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1525019981329334363",
+      "channel_id": "1300659662311526512",
+      "content": "<:Ramona_breakinto:1468258544452370483>",
+      "author": "duxadidus",
+      "reactions": 6,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1525065180566917160",
+      "channel_id": "1326453763355185215",
+      "content": "i mean if we think about disollution may just be happening in real life, we just",
+      "author": "yorusakurai",
+      "reactions": 6,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1525069578974138408",
+      "channel_id": "1326453763355185215",
+      "content": "so bigbooba male Thais or twinky slut Tawil or Your Misty Mommy Next Door N are ",
+      "author": "_venush",
+      "reactions": 6,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1525080175975333972",
+      "channel_id": "1400750050208125010",
+      "content": "i alr have 1",
+      "author": "lapisstephie",
+      "reactions": 5,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1525235907110895696",
+      "channel_id": "1300659552701648960",
+      "content": "🍾🥂\n<@188420519530463233>",
+      "author": "gedo1743",
+      "reactions": 5,
+      "channel": "🔸chaîne-française"
+    },
+    {
+      "id": "1525243124174033007",
+      "channel_id": "1496819686699040860",
+      "content": "been a while since i've finished one big sketchbook page, bear with me if it loo",
+      "author": "glitzy_x",
+      "reactions": 5,
+      "channel": "doreposting / unserious doodles / doreyap"
+    }
+  ]
+}

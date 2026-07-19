@@ -1,0 +1,38 @@
+{
+  "date": "2025-02-04",
+  "archived_at": "2026-07-19T02:30:25.516502+00:00",
+  "source": "appstore",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "星星",
+      "summary": "超級棒我在嗶哩嗶哩上刷到的這款遊戲感覺畫風非常好看就下了裏面劇情也非常好看人物塑造也非常好",
+      "source": "appstore",
+      "time": "2025-02-03T22:00:44-07:00",
+      "url": "https://apps.apple.com/hk/app/id6447354150?see-all=reviews#as-12268532455",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "铃铃铃九",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    },
+    {
+      "title": "星星",
+      "summary": "超級棒我在嗶哩嗶哩上刷到的這款遊戲感覺畫風非常好看就下了裏面劇情也非常好看人物塑造也非常好",
+      "source": "appstore",
+      "platform_region": "hk",
+      "lang": "",
+      "time": "2025-02-03T22:00:44-07:00",
+      "url": "",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "铃铃铃九",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    }
+  ],
+  "region": "global"
+}

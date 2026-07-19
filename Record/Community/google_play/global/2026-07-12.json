@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-12",
+  "archived_at": "2026-07-19T08:15:28.031627+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 such a good game, i cant believe it does",
+      "summary": "such a good game, i cant believe it doesn't have more players!",
+      "source": "google_play",
+      "time": "2026-07-12T02:37:17",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-a329a3b0-6f5a-4bb0-ab21-1d3218ba17e3",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Kikou",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 been playing this for a year and a half",
+      "summary": "been playing this for a year and a half or more the game play is tedious but fun the character pull is very generous It's simple and neat and I could tell all the budget goes to the art style The story or lore of this game has given me so much emotions that I could express my love for this game in short it's amazing",
+      "source": "google_play",
+      "time": "2026-07-12T15:24:18",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-dc9319f3-70d3-4540-8efb-dc3193e71f51",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Troy Garcia",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

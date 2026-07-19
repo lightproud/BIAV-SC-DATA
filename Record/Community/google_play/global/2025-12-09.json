@@ -1,0 +1,37 @@
+{
+  "date": "2025-12-09",
+  "archived_at": "2026-07-19T08:15:27.852977+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 สำหรับตัวเกมคือดีเลย จะมีระบบแปลที่จะงงๆ",
+      "summary": "สำหรับตัวเกมคือดีเลย จะมีระบบแปลที่จะงงๆนิดหน่อย แต่หลังๆนี้ดูจะดีขึ้นนะ พัฒนาต่อไปนะฮะ ผมจะคอย support แก้ไข: ผมอยากให้มีเลือกปรับพวกเรื่องกราฟฟิกให้ต่ำกว่านี้อีกหน่อย หรือเลือกปิดเอฟเฟกต์บางอย่างได้เพราะมือถือผมมันไม่ค่อยดีสักเท่าไหร่แล้วผมงบน้อยเลยต้องเล่นเครื่องนี้ก่อน เพราะเวลาผมเล่นแล้วถ้าใช้สกิลบางตัวมันเด้งออกเลย แล้วก็บางด่านมั่นแลคจนสู้ไม่ได้เลยอยากให้มีปรับกราฟฟิกต่ำลงกว่านี้เพราะผมปรับต่ำสุดแล้วมันก็ไม่หาย แต่โดยรวมทุกอย่างดีหมดแล้ว พัฒนาต่อไปนะฮะ ของคุณสำหรับเกมดีๆ",
+      "source": "google_play",
+      "time": "2025-12-09T10:02:11",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=th#gp-552099c9-c1d2-4e4b-9b0c-37472558c01a",
+      "engagement": 11,
+      "is_hot": false,
+      "author": "Hydgngsbnh Khzvnfs",
+      "tags": [],
+      "lang": "th",
+      "platform_region": "th",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 Keeping trying to reconnect, not my conn",
+      "summary": "Keeping trying to reconnect, not my connection fault.",
+      "source": "google_play",
+      "time": "2025-12-08T20:09:31",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=it#gp-e52634a0-5adb-4858-ac8e-2e51333a8590",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Simone Savino",
+      "tags": [],
+      "lang": "it",
+      "platform_region": "it",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-21",
+  "archived_at": "2026-07-19T08:15:28.034069+00:00",
+  "source": "google_play",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 fun game. very cool story and graphics.",
+      "summary": "fun game. very cool story and graphics.",
+      "source": "google_play",
+      "time": "2026-06-21T06:48:52",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-f00c488f-80ed-4afd-82fb-9a898e803371",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Jupiter D",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 i love this game style and how much this",
+      "summary": "i love this game style and how much this game f2p i love it so much",
+      "source": "google_play",
+      "time": "2026-06-21T03:35:48",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-2a4d90b9-c550-456f-ab87-2fe0ea0774b7",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Emiya Tsuki",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 this game type of respect your brain str",
+      "summary": "this game type of respect your brain strategy, good graphic.. if you like dark ambient try this one mate, BGM? sheesh its makes me shivering at my spine...",
+      "source": "google_play",
+      "time": "2026-06-21T13:09:57",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-1c599a8a-57ef-480a-9714-5f8731adc84c",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "han",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★2 Não gostei do estilo de combate",
+      "summary": "Não gostei do estilo de combate",
+      "source": "google_play",
+      "time": "2026-06-20T22:23:53",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=pt#gp-ac672408-f9da-41cd-961f-18ee0b13c8eb",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Wanessa",
+      "tags": [],
+      "lang": "pt",
+      "platform_region": "br",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

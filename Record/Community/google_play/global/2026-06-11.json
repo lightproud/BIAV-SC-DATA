@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-11",
+  "archived_at": "2026-07-19T08:15:27.893284+00:00",
+  "source": "google_play",
+  "item_count": 5,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 我无论换哪一种登录方式都无法登录。你们为什么要弄得这么麻烦？真是令人恶心的软件。",
+      "summary": "我无论换哪一种登录方式都无法登录。你们为什么要弄得这么麻烦？真是令人恶心的软件。",
+      "source": "google_play",
+      "time": "2026-06-11T13:12:02",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-b47a4125-902e-4e08-ad74-9027eed035b5",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "黑衬白",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Best Anime Style Card Game Ever!",
+      "summary": "Best Anime Style Card Game Ever!",
+      "source": "google_play",
+      "time": "2026-06-10T21:23:13",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-d6df4806-5084-471c-bdf6-6e81b01bbda0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Sophia",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 game hay mỗi tội về sau hơi khó",
+      "summary": "game hay mỗi tội về sau hơi khó",
+      "source": "google_play",
+      "time": "2026-06-11T15:46:43",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=vi#gp-5e06aac3-493a-476c-871e-8a26beab41e1",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Nguyễn Chí Linh",
+      "tags": [],
+      "lang": "vi",
+      "platform_region": "vn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 100 % Recomendado",
+      "summary": "100 % Recomendado",
+      "source": "google_play",
+      "time": "2026-06-10T17:01:34",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-29a76008-82f1-462d-8e89-bf8cc92a031a",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Lord Drago",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "es",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Gioco molto bello, consigliato da un mio",
+      "summary": "Gioco molto bello, consigliato da un mio amico e devo dire che sembra molto interessante. Continuerò.",
+      "source": "google_play",
+      "time": "2026-06-11T14:41:09",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=it#gp-1e7af763-e971-4f9f-8bee-1787aa01dd03",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Mariano De Gennaro",
+      "tags": [],
+      "lang": "it",
+      "platform_region": "it",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

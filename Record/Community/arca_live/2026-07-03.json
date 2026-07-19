@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-03",
+  "archived_at": "2026-07-11T02:38:15.586444+00:00",
+  "source": "arca_live",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "뉴비가 이 집 보법이 다르다고 확신한 포인트",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-07-02T23:52:21.000Z",
+      "url": "https://arca.live/b/forgettingeve/175695024",
+      "engagement": 921,
+      "is_hot": true,
+      "author": "신채민",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    },
+    {
+      "title": "풀돌 기념 뫼엥 그림",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-07-02T17:24:11.000Z",
+      "url": "https://arca.live/b/forgettingeve/175684544",
+      "engagement": 846,
+      "is_hot": true,
+      "author": "신채민",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    },
+    {
+      "title": "엿날리는 뽀리끄스",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-07-03T12:31:14.000Z",
+      "url": "https://arca.live/b/forgettingeve/175765027",
+      "engagement": 466,
+      "is_hot": true,
+      "author": "물해파리",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    },
+    {
+      "title": "레이아 낙서하던 거",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-07-03T03:12:12.000Z",
+      "url": "https://arca.live/b/forgettingeve/175709409",
+      "engagement": 384,
+      "is_hot": true,
+      "author": "욶횘",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    }
+  ]
+}

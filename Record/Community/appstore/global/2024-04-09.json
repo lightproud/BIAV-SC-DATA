@@ -1,0 +1,82 @@
+{
+  "date": "2024-04-09",
+  "archived_at": "2026-07-19T02:30:25.635678+00:00",
+  "source": "appstore",
+  "item_count": 5,
+  "items": [
+    {
+      "title": "超维空间闪退严重",
+      "summary": "一进超维空间就闪退，修复了好几遍还是不行，一局8回合能闪退三四次，最近都不玩超维了",
+      "source": "appstore",
+      "time": "2024-04-09T06:20:06-07:00",
+      "url": "https://apps.apple.com/hk/app/id6447354150?see-all=reviews#as-11138794090",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "momo5771",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    },
+    {
+      "title": "超维空间闪退严重",
+      "summary": "一进超维空间就闪退，修复了好几遍还是不行，一局8回合能闪退三四次，最近都不玩超维了",
+      "source": "appstore",
+      "platform_region": "hk",
+      "lang": "",
+      "time": "2024-04-09T06:20:06-07:00",
+      "url": "",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "momo5771",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    },
+    {
+      "title": "避雷游戏厂商",
+      "summary": "抽卡数据造假",
+      "source": "appstore",
+      "time": "2024-04-08T21:57:29-07:00",
+      "url": "https://apps.apple.com/hk/app/id6447354150?see-all=reviews#as-11137659147",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "死去的代号鸢",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    },
+    {
+      "title": "避雷游戏厂商",
+      "summary": "抽卡数据造假",
+      "source": "appstore",
+      "platform_region": "hk",
+      "lang": "",
+      "time": "2024-04-08T21:57:29-07:00",
+      "url": "",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "死去的代号鸢",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    },
+    {
+      "title": "人物上线之后改技能",
+      "summary": "环大陆上线就是好啊，诈骗起来没有阻碍",
+      "source": "appstore",
+      "platform_region": "hk",
+      "lang": "",
+      "time": "2024-04-08T20:35:16-07:00",
+      "url": "",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "策划死啦",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    }
+  ],
+  "region": "global"
+}

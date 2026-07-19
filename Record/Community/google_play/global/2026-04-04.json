@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-04",
+  "archived_at": "2026-07-19T08:15:28.021457+00:00",
+  "source": "google_play",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 nice",
+      "summary": "nice",
+      "source": "google_play",
+      "time": "2026-04-04T15:53:55",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-cb6a4275-e58b-4883-8e5a-034d4f1e0d41",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "占有欲",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 玩了几下 卡卡的 但是剧情真的好看❤️",
+      "summary": "玩了几下 卡卡的 但是剧情真的好看❤️",
+      "source": "google_play",
+      "time": "2026-04-03T16:58:27",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-72c7795c-b48c-4283-8e6b-2b8b10bb1d72",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Trevis Tan Weguan",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 O jogo Gacha mais incrível que eu joguei",
+      "summary": "O jogo Gacha mais incrível que eu joguei, tudo é LINDO, PERFEITO, as artes, a história, os personagens, a gameplay, é tudo simplesmente muito bem feito e cheio de carinho dos deve, e o sistema de Gacha é bem generoso!",
+      "source": "google_play",
+      "time": "2026-04-04T11:02:02",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=pt#gp-7cc9495f-a5d8-45e7-94d6-af99f53fd675",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Heitor Ribeiro",
+      "tags": [],
+      "lang": "pt",
+      "platform_region": "br",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

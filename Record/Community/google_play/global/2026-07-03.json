@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-03",
+  "archived_at": "2026-07-19T08:15:27.901807+00:00",
+  "source": "google_play",
+  "item_count": 5,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 esse jogo é muito difícil. só isso",
+      "summary": "esse jogo é muito difícil. só isso",
+      "source": "google_play",
+      "time": "2026-07-02T22:55:21",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=pt#gp-aa6db3d0-ffc8-4c35-b040-88c088807910",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Gabriele Santos vaz",
+      "tags": [],
+      "lang": "pt",
+      "platform_region": "br",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 story nya angst",
+      "summary": "story nya angst",
+      "source": "google_play",
+      "time": "2026-07-03T02:31:54",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-665ceb31-7a13-45f0-a915-2bff927ca33d",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "reisya aulia",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 game nya bagus, niat banget sistem gacha",
+      "summary": "game nya bagus, niat banget sistem gacha gacor dan juga ramah F2P dari segi reward juga udah oke tapi menurutku mungkin bisa diperbanyak tutorial gameplay, soalnya banyak banget mekanik yang ga di kasih tutorial tapi ya oke aja sih terus kalau bisa waktu per banner dikurangin aja, overall baguss buat orang yang mau coba game yang santai ini game bagus dan recommended, ramah buat pemula dengan reward bejibun. entah kenapa game sebagus ini underated, coba deh",
+      "source": "google_play",
+      "time": "2026-07-03T03:11:46",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-55c69b7b-3832-42fe-bcb4-8b3ec78cee39",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Awis",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Really good game with a gameplay somewha",
+      "summary": "Really good game with a gameplay somewhat similar to slay the spire. The gacha aspect is free to play friendly, and progression is not hard. I love the art personally, and the stories are also really well written (I cried in some of them). I think the only thing that needs improvement is the UI of the loading screen and the combat screen, since there is no button feedback so if you clicked a button and it's loading you don't actually know that it's loading.",
+      "source": "google_play",
+      "time": "2026-07-03T07:53:37",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-76011579-765b-4aa8-9924-c12b460b9403",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ethan B (Potatoooo)",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 One of the best games I've ever played!",
+      "summary": "One of the best games I've ever played! The gameplay offers a ton of content, with a variety of mechanics, game modes, and challenges that keep things fresh. It's also very F2P friendly. The art style and soundtrack are immaculate, and the story is genuinely PEAK. Overall, it's a game I can see myself playing for years and not get bored, just because I REALLY REALLY LIKE it.",
+      "source": "google_play",
+      "time": "2026-07-03T13:26:55",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-87d2f581-8a36-47c4-8b94-8b796e9f1aaf",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Alexander Joshua Santos",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

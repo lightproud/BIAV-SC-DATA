@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-26",
+  "archived_at": "2026-07-19T08:15:28.033542+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 The most generous gacha I've played.",
+      "summary": "The most generous gacha I've played.",
+      "source": "google_play",
+      "time": "2026-06-26T06:54:25",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-61a37276-7b16-4db9-8392-01c8103d5b11",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Cecil H.Y.",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 спасибо дорогие разрабы за эту шикарную",
+      "summary": "спасибо дорогие разрабы за эту шикарную игру, я счастлива",
+      "source": "google_play",
+      "time": "2026-06-26T10:49:52",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-3662e104-eff6-4322-9489-a0cc984ae653",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Karai",
+      "tags": [],
+      "lang": "ru",
+      "platform_region": "ru",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

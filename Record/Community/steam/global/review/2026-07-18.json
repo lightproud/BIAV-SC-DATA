@@ -1,0 +1,82 @@
+{
+  "date": "2026-07-18",
+  "archived_at": "2026-07-19T08:15:27.917415+00:00",
+  "source": "steam",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[正面] Lovecraft+beach episode, collab of the century",
+      "summary": "Lovecraft+beach episode, collab of the century",
+      "source": "steam_review",
+      "time": "2026-07-17T21:50:36+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198080223591/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198080223591",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 845,
+        "votes_up": 0,
+        "timestamp_created": 1784325036
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 太好玩了我一口气狂玩六小时",
+      "summary": "太好玩了我一口气狂玩六小时",
+      "source": "steam_review",
+      "time": "2026-07-18T12:31:51+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199019429221/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199019429221",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 386,
+        "votes_up": 0,
+        "timestamp_created": 1784377911
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 好玩爱玩",
+      "summary": "好玩爱玩",
+      "source": "steam_review",
+      "time": "2026-07-18T15:51:37+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199545915309/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199545915309",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1823,
+        "votes_up": 0,
+        "timestamp_created": 1784389897
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

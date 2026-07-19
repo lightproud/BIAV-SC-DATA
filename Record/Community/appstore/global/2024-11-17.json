@@ -1,0 +1,38 @@
+{
+  "date": "2024-11-17",
+  "archived_at": "2026-07-19T02:30:25.551832+00:00",
+  "source": "appstore",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "网络太卡",
+      "summary": "你们的网络真的好卡可不可以优化一下！！！！！！！！",
+      "source": "appstore",
+      "time": "2024-11-17T07:49:27-07:00",
+      "url": "https://apps.apple.com/hk/app/id6447354150?see-all=reviews#as-11960838812",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "不研究永动机不改名",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    },
+    {
+      "title": "网络太卡",
+      "summary": "你们的网络真的好卡可不可以优化一下！！！！！！！！",
+      "source": "appstore",
+      "platform_region": "hk",
+      "lang": "",
+      "time": "2024-11-17T07:49:27-07:00",
+      "url": "",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "不研究永动机不改名",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    }
+  ],
+  "region": "global"
+}

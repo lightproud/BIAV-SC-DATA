@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-12",
+  "archived_at": "2026-07-13T12:02:14.512298+00:00",
+  "source": "steam",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Steam论坛] Bug if both me and the enemy has tentacles",
+      "summary": "My tentacle attack animation at the end of turn doesn't show and I don't think they actually hit when the enemy has tentacles.",
+      "source": "steam_discussion",
+      "time": "2026-07-11T19:04:33+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/577172807462561106/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Victor66",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] 新人请教个问题，如何看人物是什么稀有度的？",
+      "summary": "比如SR，SSR，，在哪看？",
+      "source": "steam_discussion",
+      "time": "2026-07-12T03:22:54+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/577172807462582975/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Tao zi",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] Black screen after logo",
+      "summary": "if you had this problem i fixed by > Browse local files then just delete the top folder idk it just worked",
+      "source": "steam_discussion",
+      "time": "2026-07-12T13:31:14+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/577172807462609230/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Righteous Player",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}

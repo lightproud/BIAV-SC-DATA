@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-06",
+  "archived_at": "2026-07-07T10:23:49.613187+00:00",
+  "source": "steam",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "[Steam论坛] Invitation Code",
+      "summary": "1D1EGZ10U1",
+      "source": "steam_discussion",
+      "time": "2026-07-06T12:36:42+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/603039786130771940/",
+      "engagement": 204,
+      "is_hot": true,
+      "author": "Znye",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] WOD ARCHIVES RUINED",
+      "summary": "I find it really sad how greedy the devs are for raising the price of one of the best bundles the game offers in every version; It used to include a +12 wheel at an affordable price of 980 Silver Prime, but now, with the new version, they’ve raised the price to 1,680 Silver Prime just by adding a few cores basically forcing you to top up $30 in the game, or in other cases $31, for a bundle that was previously perfectly fine and available at a good price of $15.  ːsteamthumbsdownː...",
+      "source": "steam_discussion",
+      "time": "2026-07-05T20:46:51+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/573793962962281878/",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "PoofNi",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] Invite code for anyone who wants",
+      "summary": "SCNLGVWJMZ\nI am level 60+ if it matters.",
+      "source": "steam_discussion",
+      "time": "2026-07-06T11:22:21+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/573794767996996319/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Victor66",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] Possible bug when finishing character stories",
+      "summary": "Twice until now, these last 2 weeks, the game became nonresponsive at the last part of the story, where you get the Posse. I got it, but I had to shut down the game first, as it wouldn't recover at all, not even after waiting for 15 minutes.",
+      "source": "steam_discussion",
+      "time": "2026-07-06T11:19:36+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/573794767996996143/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Victor66",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}

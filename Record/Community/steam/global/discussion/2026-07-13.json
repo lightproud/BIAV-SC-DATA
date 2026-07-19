@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-13",
+  "archived_at": "2026-07-14T08:02:29.837322+00:00",
+  "source": "steam",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Steam论坛] Invitation code :)",
+      "summary": "HKG334J7EI",
+      "source": "steam_discussion",
+      "time": "2026-07-12T21:34:15+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/573793658843942622/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Dyrnwyn",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] 新人请教个问题，如何看人物是什么稀有度的？",
+      "summary": "比如SR，SSR，，在哪看？",
+      "source": "steam_discussion",
+      "time": "2026-07-13T02:15:25+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/577172807462582975/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Tao zi",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] invitation code! get 300 silver",
+      "summary": "G2BR7JTNT6 ːLunar_Tearː",
+      "source": "steam_discussion",
+      "time": "2026-07-12T18:20:39+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/577172807462629972/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "✧˖°.",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}

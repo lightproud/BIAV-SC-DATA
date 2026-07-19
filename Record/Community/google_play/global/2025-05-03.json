@@ -1,0 +1,37 @@
+{
+  "date": "2025-05-03",
+  "archived_at": "2026-07-19T08:15:28.026211+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 好",
+      "summary": "好",
+      "source": "google_play",
+      "time": "2025-05-03T07:59:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_TW#gp-e1393cc4-cac4-4739-be2c-ca4165c7327c",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "徐兆良阿彌陀佛",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 好",
+      "summary": "好",
+      "source": "google_play",
+      "time": "2025-05-03T07:59:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_HK#gp-e1393cc4-cac4-4739-be2c-ca4165c7327c",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "徐兆良阿彌陀佛",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

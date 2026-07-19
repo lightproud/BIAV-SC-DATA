@@ -1,0 +1,37 @@
+{
+  "date": "2026-01-04",
+  "archived_at": "2026-07-19T08:15:27.869714+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 un jeu soigné ça se voit et c'est plaisa",
+      "summary": "un jeu soigné ça se voit et c'est plaisant. Si vous aimez le tour par tour, le tout couplé à de belles musiques, voix en jap et animations quali, saupoudré d'une atmosphère dark fantasy, foncez !! Il y a même le texte en fr, bien que j'utilise celui en eng, celui-ci étant à un stade mieux traduit",
+      "source": "google_play",
+      "time": "2026-01-04T01:12:38",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=fr#gp-858f26a1-3099-4605-a5d8-5d5252a6dfa9",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "ssonyan",
+      "tags": [],
+      "lang": "fr",
+      "platform_region": "fr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 o jogo apenas baixou os dados e nem me d",
+      "summary": "o jogo apenas baixou os dados e nem me deixou criar a conta na tela inicial porque fechou o que é bem triste porque o jogo parece bom",
+      "source": "google_play",
+      "time": "2026-01-04T13:00:25",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=pt#gp-aa802f81-df01-420c-99b1-492d0cd67eaa",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Daniel Silva Carvalho",
+      "tags": [],
+      "lang": "pt",
+      "platform_region": "br",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

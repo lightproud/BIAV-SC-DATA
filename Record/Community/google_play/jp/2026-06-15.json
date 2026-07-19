@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-15",
+  "archived_at": "2026-07-19T08:15:27.915569+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 ストーリーが深くて戦闘システムも面白いいいゲーム",
+      "summary": "ストーリーが深くて戦闘システムも面白いいいゲーム",
+      "source": "google_play",
+      "time": "2026-06-15T07:48:23",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-5aa92f00-6b79-4f68-b924-a5233ee19e64",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ハルマルかも",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "jp",
+      "region": "jp"
+    },
+    {
+      "title": "[Google Play 好评] ★5 過酷な物語にほんの少しの光が味わい深い",
+      "summary": "過酷な物語にほんの少しの光が味わい深い",
+      "source": "google_play",
+      "time": "2026-06-15T00:59:17",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-d9fcb19d-5b45-417e-a927-5e56c4cf4c2c",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "御先狐",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "jp",
+      "region": "jp"
+    }
+  ],
+  "region": "jp"
+}

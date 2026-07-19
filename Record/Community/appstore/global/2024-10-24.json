@@ -1,0 +1,38 @@
+{
+  "date": "2024-10-24",
+  "archived_at": "2026-07-19T02:30:25.629840+00:00",
+  "source": "appstore",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "好评",
+      "summary": "游戏5星，时不时进战斗黑屏扣1星",
+      "source": "appstore",
+      "time": "2024-10-24T05:34:37-07:00",
+      "url": "https://apps.apple.com/hk/app/id6447354150?see-all=reviews#as-11869256908",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "轨迹d",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    },
+    {
+      "title": "好评",
+      "summary": "游戏5星，时不时进战斗黑屏扣1星",
+      "source": "appstore",
+      "platform_region": "hk",
+      "lang": "",
+      "time": "2024-10-24T05:34:37-07:00",
+      "url": "",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "轨迹d",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    }
+  ],
+  "region": "global"
+}

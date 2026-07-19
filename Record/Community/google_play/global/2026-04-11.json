@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-11",
+  "archived_at": "2026-07-19T08:15:28.051914+00:00",
+  "source": "google_play",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 Peak, dari segi apapun sudah bagus mungk",
+      "summary": "Peak, dari segi apapun sudah bagus mungkin tinggal bugnya aja",
+      "source": "google_play",
+      "time": "2026-04-11T04:10:20",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-1cff146b-4800-4014-b520-f37a8866bce6",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Tadashi Aizen",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 Gioco veramente bello e godibile nel suo",
+      "summary": "Gioco veramente bello e godibile nel suo genere. ovviamente è lontano dall'essere perfetto ma siamo sulla buona strada! complimenti agli autori e alla fatica che ci stanno mettendo per continuare a supportare il gioco nella sua completezza. adoro molto l'atmosfera, oppressiva e cupa. un piccolo suggerimento: durante i dialoghi quando si sta palesando una creatura o un umano si stra trasformando, datemi un immagine visiva, così avrà più impatto esattamente come il boss del prologo!",
+      "source": "google_play",
+      "time": "2026-04-11T00:05:53",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=it#gp-90f26139-05ca-4dab-8570-810a368d0f5f",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Dario Masini",
+      "tags": [],
+      "lang": "it",
+      "platform_region": "it",
+      "region": "global"
+    },
+    {
+      "source": "google_play",
+      "time": "2026-04-09T07:33:17",
+      "lang": "en",
+      "title": "[Google Play 好评] ★5 Great game, interesting and at times dif",
+      "summary": "Great game, interesting and at times difficult gameplay. Story is actually not bad and they really do lean into the horror and take it seriously. Character designs are interesting and unique. And it's very generous for a gacha game which is nice!",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk",
+      "author": "Michael Peyton-Lebed",
+      "engagement": 0
+    }
+  ],
+  "region": "global"
+}

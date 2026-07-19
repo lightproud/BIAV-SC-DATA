@@ -1,0 +1,37 @@
+{
+  "date": "2025-11-23",
+  "archived_at": "2026-07-19T08:15:27.849527+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 已经玩了两周，我不太会玩攻略，只会一味的收集人物，没氪金一分钱，爆率很良心，SS",
+      "summary": "已经玩了两周，我不太会玩攻略，只会一味的收集人物，没氪金一分钱，爆率很良心，SSR图鉴已经收集了一大半，常驻池差三个全齐，有7个限定人物，有一些靠任务就可以获得限定，并且限定时间很长，不用太着急肝。",
+      "source": "google_play",
+      "time": "2025-11-23T03:45:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-7e5d5b34-2469-43e7-a3a5-aef0113363ac",
+      "engagement": 14,
+      "is_hot": false,
+      "author": "米歇尔",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 art và cốt truyện đều rất ổn,nh đồ hoạ h",
+      "summary": "art và cốt truyện đều rất ổn,nh đồ hoạ hiệu ứng kỹ năng của nhân vật chưa đủ woww đối với t,và mong game cải thiện dịch thuật nữa,dịch chối quá🥹",
+      "source": "google_play",
+      "time": "2025-11-23T06:12:34",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=vi#gp-f9c408b7-72e9-4ce6-b63f-743fd27580b4",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "Tham Thu",
+      "tags": [],
+      "lang": "vi",
+      "platform_region": "vn",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

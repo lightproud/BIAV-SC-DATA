@@ -1,0 +1,37 @@
+{
+  "date": "2025-01-30",
+  "archived_at": "2026-07-19T08:15:27.882705+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 中评] ★3 玩手機遊戲本來就是為了方便碎片化時間。你們斷線重連的功能太差了。經常玩到一局到一",
+      "summary": "玩手機遊戲本來就是為了方便碎片化時間。你們斷線重連的功能太差了。經常玩到一局到一半，或者BOSS戰需要中途離開時重連不上。玩到一半的進度全無了",
+      "source": "google_play",
+      "time": "2025-01-30T01:56:41",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_TW#gp-5964050a-4ee4-440d-8947-87937feda164",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Tom Tam",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 中评] ★3 玩手機遊戲本來就是為了方便碎片化時間。你們斷線重連的功能太差了。經常玩到一局到一",
+      "summary": "玩手機遊戲本來就是為了方便碎片化時間。你們斷線重連的功能太差了。經常玩到一局到一半，或者BOSS戰需要中途離開時重連不上。玩到一半的進度全無了",
+      "source": "google_play",
+      "time": "2025-01-30T01:56:41",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_HK#gp-5964050a-4ee4-440d-8947-87937feda164",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Tom Tam",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

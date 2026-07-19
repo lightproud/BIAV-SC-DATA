@@ -1,0 +1,38 @@
+{
+  "date": "2024-12-01",
+  "archived_at": "2026-07-19T02:30:25.551571+00:00",
+  "source": "appstore",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "真的是一款美术和文案都非常好的游戏😭😭",
+      "summary": "弥萨格真的是一个美好的大家庭",
+      "source": "appstore",
+      "time": "2024-11-30T20:08:36-07:00",
+      "url": "https://apps.apple.com/hk/app/id6447354150?see-all=reviews#as-12011772675",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "osnaisn",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    },
+    {
+      "title": "真的是一款美术和文案都非常好的游戏😭😭",
+      "summary": "弥萨格真的是一个美好的大家庭",
+      "source": "appstore",
+      "platform_region": "hk",
+      "lang": "",
+      "time": "2024-11-30T20:08:36-07:00",
+      "url": "",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "osnaisn",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    }
+  ],
+  "region": "global"
+}

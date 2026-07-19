@@ -1,0 +1,17 @@
+{
+  "date": "2026-06-28",
+  "messages": 2,
+  "unique_authors": 1,
+  "reactions_total": 0,
+  "attachments": 0,
+  "channel_activity": {
+    "general-discussion": 2
+  },
+  "hourly_activity": {
+    "23": 2
+  },
+  "message_types": {
+    "0": 2
+  },
+  "top_reacted_messages": []
+}

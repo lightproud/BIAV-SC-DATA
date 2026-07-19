@@ -1,0 +1,38 @@
+{
+  "date": "2024-08-29",
+  "archived_at": "2026-07-19T02:30:25.552311+00:00",
+  "source": "appstore",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "评论",
+      "summary": "不错的游戏，美工动画都是max。很喜欢",
+      "source": "appstore",
+      "time": "2024-08-29T07:50:30-07:00",
+      "url": "https://apps.apple.com/hk/app/id6447354150?see-all=reviews#as-11666268468",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Dt999q",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    },
+    {
+      "title": "评论",
+      "summary": "不错的游戏，美工动画都是max。很喜欢",
+      "source": "appstore",
+      "platform_region": "hk",
+      "lang": "",
+      "time": "2024-08-29T07:50:30-07:00",
+      "url": "",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Dt999q",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    }
+  ],
+  "region": "global"
+}

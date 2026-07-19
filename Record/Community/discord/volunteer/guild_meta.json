@@ -1,0 +1,270 @@
+{
+  "guild_id": "1402537664619479100",
+  "updated_at": "2026-07-19T08:32:46.852441+00:00",
+  "channels": [
+    {
+      "id": "1402537664619479101",
+      "name": "Landing",
+      "type": 4,
+      "parent_id": null,
+      "position": 0,
+      "topic": ""
+    },
+    {
+      "id": "1402537664619479102",
+      "name": "welcome-and-roles",
+      "type": 0,
+      "parent_id": "1402537664619479101",
+      "position": 0,
+      "topic": null
+    },
+    {
+      "id": "1402537664619479103",
+      "name": "links-and-resources",
+      "type": 0,
+      "parent_id": "1402537664619479101",
+      "position": 2,
+      "topic": "Find important links and resources here."
+    },
+    {
+      "id": "1402537664619479104",
+      "name": "Text Channels",
+      "type": 4,
+      "parent_id": null,
+      "position": 1,
+      "topic": ""
+    },
+    {
+      "id": "1402537664619479105",
+      "name": "spanish-español",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 15,
+      "topic": null
+    },
+    {
+      "id": "1402537664619479106",
+      "name": "portuguese-português",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 16,
+      "topic": null
+    },
+    {
+      "id": "1402537664619479107",
+      "name": "vietnamese-tiếng-việt",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 17,
+      "topic": null
+    },
+    {
+      "id": "1402537665051623477",
+      "name": "russian-русский",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 14,
+      "topic": null
+    },
+    {
+      "id": "1402538040253087766",
+      "name": "english-english",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 21,
+      "topic": null
+    },
+    {
+      "id": "1402538077880188969",
+      "name": "moderators",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 6,
+      "topic": null
+    },
+    {
+      "id": "1402539609107464212",
+      "name": "french-français",
+      "type": 0,
+      "parent_id": "1408409956767760486",
+      "position": 25,
+      "topic": null
+    },
+    {
+      "id": "1402539647124639837",
+      "name": "bahasa-indonesia",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 18,
+      "topic": null
+    },
+    {
+      "id": "1402539718205505717",
+      "name": "thai-ภาษาไทย",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 19,
+      "topic": null
+    },
+    {
+      "id": "1402539746718122074",
+      "name": "german-deutsch",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 20,
+      "topic": null
+    },
+    {
+      "id": "1402539769401049150",
+      "name": "japanese-日本語",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 22,
+      "topic": null
+    },
+    {
+      "id": "1402539814628360253",
+      "name": "korean-한국어",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 23,
+      "topic": null
+    },
+    {
+      "id": "1402941858606219294",
+      "name": "general-discussion",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 8,
+      "topic": "Discuss general questions here! Please try to keep your conversation in English or use the translator bot."
+    },
+    {
+      "id": "1404748432328888401",
+      "name": "questions-and-feedback",
+      "type": 15,
+      "parent_id": "1402537664619479104",
+      "position": 10,
+      "topic": "Have questions about the project? Need to reach out to the staff/moderators? Open an issue here!"
+    },
+    {
+      "id": "1406970664145129473",
+      "name": "self-introductions",
+      "type": 0,
+      "parent_id": "1402537664619479101",
+      "position": 1,
+      "topic": null
+    },
+    {
+      "id": "1407641395891535883",
+      "name": "announcements",
+      "type": 0,
+      "parent_id": "1402537664619479101",
+      "position": 3,
+      "topic": null
+    },
+    {
+      "id": "1408291767207591976",
+      "name": "contribution-log",
+      "type": 15,
+      "parent_id": "1402537664619479104",
+      "position": 12,
+      "topic": "IF YOU SUBMITTED A PULL REQUEST ON GITHUB: \nYou don't necessarily have to log your contribution here. We can see who submitted what!\n\nIF YOU EDITED ON GOOGLE DOCS:\nAside from descriptions of what you did,\nPlease make sure to submit **a list of NAMES** for us to log, so we know what to add to the thank-you list!"
+    },
+    {
+      "id": "1408409956767760486",
+      "name": "FR",
+      "type": 4,
+      "parent_id": null,
+      "position": 2,
+      "topic": ""
+    },
+    {
+      "id": "1408410269503455286",
+      "name": "🔗liens-et-infos",
+      "type": 0,
+      "parent_id": "1408409956767760486",
+      "position": 27,
+      "topic": null
+    },
+    {
+      "id": "1408421749858500648",
+      "name": "sujets-à-discuter",
+      "type": 15,
+      "parent_id": "1408409956767760486",
+      "position": 26,
+      "topic": "Forum pour héberger tous les sujets un peu délicats qui demandent une concertation."
+    },
+    {
+      "id": "1416615133479960647",
+      "name": "project-coordination",
+      "type": 0,
+      "parent_id": "1402537664619479101",
+      "position": 5,
+      "topic": null
+    },
+    {
+      "id": "1416934774525788180",
+      "name": "relevant-forwards",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 9,
+      "topic": null
+    },
+    {
+      "id": "1418372456376176760",
+      "name": "playtest-questions-old",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 24,
+      "topic": null
+    },
+    {
+      "id": "1419429157779280035",
+      "name": "how-to-contribute",
+      "type": 0,
+      "parent_id": "1402537664619479101",
+      "position": 4,
+      "topic": null
+    },
+    {
+      "id": "1420303333809197126",
+      "name": "playtest-questions",
+      "type": 15,
+      "parent_id": "1402537664619479104",
+      "position": 13,
+      "topic": "Any questions about gameplay functions that need concrete answers, no matter how small. Every little bit helps us all get a little closer to an accurate translation.\n# Please do not answer questions without absolute certainty or, ideally, evidence.\nAnswers may be effectively taken as gospel, and used to update gameplay text."
+    },
+    {
+      "id": "1446619934565204231",
+      "name": "coordination-uploads",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 11,
+      "topic": "(CLICK HERE FOR FILE UPLOADING GUIDELINES)\n————————————————————————————————\n**The only information I __NEED__ is:**\n- Whether your contribution was __Translation__ or __Proofreading__;\n  - It's __Translation__ if you referenced another language (CN, EN, or Gameplay Functions).\n  - It's __Proofreading__ if you only referenced your own language.\n- The name(s) of __ANY OTHER VOLUNTEER__ that contributed any effort to that contribution."
+    },
+    {
+      "id": "1481583783634534550",
+      "name": "traditionalchinese-繁體中文",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 24,
+      "topic": null
+    },
+    {
+      "id": "1520927797961298110",
+      "name": "staff-discussion",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 7,
+      "topic": null
+    },
+    {
+      "id": "1523627042451750912",
+      "name": "korean-한국어",
+      "type": 0,
+      "parent_id": "1402537664619479104",
+      "position": 28,
+      "topic": null
+    }
+  ]
+}

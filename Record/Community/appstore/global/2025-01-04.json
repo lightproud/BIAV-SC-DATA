@@ -1,0 +1,38 @@
+{
+  "date": "2025-01-04",
+  "archived_at": "2026-07-19T02:30:25.551024+00:00",
+  "source": "appstore",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "可以可以",
+      "summary": "校貓走了，好",
+      "source": "appstore",
+      "time": "2025-01-04T02:51:13-07:00",
+      "url": "https://apps.apple.com/hk/app/id6447354150?see-all=reviews#as-12143314037",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "好耶超人",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    },
+    {
+      "title": "可以可以",
+      "summary": "校貓走了，好",
+      "source": "appstore",
+      "platform_region": "hk",
+      "lang": "",
+      "time": "2025-01-04T02:51:13-07:00",
+      "url": "",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "好耶超人",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    }
+  ],
+  "region": "global"
+}

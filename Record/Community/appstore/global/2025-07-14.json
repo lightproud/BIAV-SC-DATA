@@ -1,0 +1,53 @@
+{
+  "date": "2025-07-14",
+  "archived_at": "2026-07-19T02:30:25.620799+00:00",
+  "source": "appstore",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Best Gacha Game",
+      "summary": "When slay the spire meats gacha you get this master piece. Extremely generous , engaging , challenging game. No stupid 80-90 pity instead 30 YES 30. try it out now !",
+      "source": "appstore",
+      "time": "2025-07-14T10:17:10-07:00",
+      "url": "https://apps.apple.com/de/app/id6447354150?see-all=reviews#as-12891388550",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "NoGameNoLifeo",
+      "tags": [],
+      "lang": "de",
+      "platform_region": "de",
+      "region": "global"
+    },
+    {
+      "title": "I miss my turn",
+      "summary": "Ong I would pay just to have it back I miss the heart of the cards and whipping out the most supreme strat just to win :(",
+      "source": "appstore",
+      "platform_region": "us",
+      "lang": "",
+      "time": "2025-07-13T19:47:36-07:00",
+      "url": "",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Nigga191",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    },
+    {
+      "title": "Best Gacha Game",
+      "summary": "When slay the spire meats gacha you get this master piece. Extremely generous , engaging , challenging game. No stupid 80-90 pity instead 30 YES 30. try it out now !",
+      "source": "appstore",
+      "platform_region": "de",
+      "lang": "",
+      "time": "2025-07-14T10:17:10-07:00",
+      "url": "",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "NoGameNoLifeo",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    }
+  ],
+  "region": "global"
+}

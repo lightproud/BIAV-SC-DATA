@@ -1,0 +1,226 @@
+{
+  "1402537664619479102": {
+    "name": "welcome-and-roles",
+    "type": "text",
+    "parent_id": "1402537664619479101",
+    "dir": "19479102",
+    "status": "active"
+  },
+  "1402537664619479103": {
+    "name": "links-and-resources",
+    "type": "text",
+    "parent_id": "1402537664619479101",
+    "dir": "19479103",
+    "status": "active"
+  },
+  "1402537664619479105": {
+    "name": "spanish-español",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "19479105",
+    "status": "active"
+  },
+  "1402537664619479106": {
+    "name": "portuguese-português",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "19479106",
+    "status": "active"
+  },
+  "1402537664619479107": {
+    "name": "vietnamese-tiếng-việt",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "19479107",
+    "status": "active"
+  },
+  "1402537665051623477": {
+    "name": "russian-русский",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "51623477",
+    "status": "active"
+  },
+  "1402538040253087766": {
+    "name": "english-english",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "53087766",
+    "status": "active"
+  },
+  "1402538077880188969": {
+    "name": "moderators",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "80188969",
+    "status": "active"
+  },
+  "1402539609107464212": {
+    "name": "french-français",
+    "type": "text",
+    "parent_id": "1408409956767760486",
+    "dir": "07464212",
+    "status": "active"
+  },
+  "1402539647124639837": {
+    "name": "bahasa-indonesia",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "24639837",
+    "status": "active"
+  },
+  "1402539718205505717": {
+    "name": "thai-ภาษาไทย",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "05505717",
+    "status": "active"
+  },
+  "1402539746718122074": {
+    "name": "german-deutsch",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "18122074",
+    "status": "active"
+  },
+  "1402539769401049150": {
+    "name": "japanese-日本語",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "01049150",
+    "status": "active"
+  },
+  "1402539814628360253": {
+    "name": "korean-한국어",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "28360253",
+    "status": "active"
+  },
+  "1402941858606219294": {
+    "name": "general-discussion",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "06219294",
+    "status": "active"
+  },
+  "1404748432328888401": {
+    "name": "questions-and-feedback",
+    "type": "forum",
+    "parent_id": "1402537664619479104",
+    "dir": "28888401",
+    "status": "active"
+  },
+  "1406970664145129473": {
+    "name": "self-introductions",
+    "type": "text",
+    "parent_id": "1402537664619479101",
+    "dir": "45129473",
+    "status": "active"
+  },
+  "1407641395891535883": {
+    "name": "announcements",
+    "type": "text",
+    "parent_id": "1402537664619479101",
+    "dir": "91535883",
+    "status": "active"
+  },
+  "1408291767207591976": {
+    "name": "contribution-log",
+    "type": "forum",
+    "parent_id": "1402537664619479104",
+    "dir": "07591976",
+    "status": "active"
+  },
+  "1408410269503455286": {
+    "name": "🔗liens-et-infos",
+    "type": "text",
+    "parent_id": "1408409956767760486",
+    "dir": "03455286",
+    "status": "active"
+  },
+  "1408421749858500648": {
+    "name": "sujets-à-discuter",
+    "type": "forum",
+    "parent_id": "1408409956767760486",
+    "dir": "58500648",
+    "status": "active"
+  },
+  "1416615133479960647": {
+    "name": "project-coordination",
+    "type": "text",
+    "parent_id": "1402537664619479101",
+    "dir": "79960647",
+    "status": "active"
+  },
+  "1416934774525788180": {
+    "name": "relevant-forwards",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "25788180",
+    "status": "active"
+  },
+  "1418372456376176760": {
+    "name": "playtest-questions-old",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "76176760",
+    "status": "active"
+  },
+  "1419429157779280035": {
+    "name": "how-to-contribute",
+    "type": "text",
+    "parent_id": "1402537664619479101",
+    "dir": "79280035",
+    "status": "active"
+  },
+  "1420303333809197126": {
+    "name": "playtest-questions",
+    "type": "forum",
+    "parent_id": "1402537664619479104",
+    "dir": "09197126",
+    "status": "active"
+  },
+  "1446619934565204231": {
+    "name": "coordination-uploads",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "65204231",
+    "status": "active"
+  },
+  "1481583783634534550": {
+    "name": "traditionalchinese-繁體中文",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "34534550",
+    "status": "active"
+  },
+  "1520927797961298110": {
+    "name": "staff-discussion",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "61298110",
+    "status": "active"
+  },
+  "1523627042451750912": {
+    "name": "korean-한국어",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "51750912",
+    "status": "active"
+  },
+  "1481487827626889388": {
+    "name": "",
+    "type": "unknown",
+    "parent_id": "",
+    "dir": "26889388",
+    "status": "orphan"
+  },
+  "1481967323492515932": {
+    "name": "",
+    "type": "unknown",
+    "parent_id": "",
+    "dir": "92515932",
+    "status": "orphan"
+  }
+}

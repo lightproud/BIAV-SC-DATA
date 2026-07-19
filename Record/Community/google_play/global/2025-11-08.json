@@ -1,0 +1,37 @@
+{
+  "date": "2025-11-08",
+  "archived_at": "2026-07-19T08:15:27.870007+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 проверка обновления ресурсов.. и на этом",
+      "summary": "проверка обновления ресурсов.. и на этом вся игра дальше ничего не происходит ,никакая загрузка не происходит ,включения впн ,переустановка и тд бесполезно. одна звезда,и удаление ,мусор хранить не по мне.",
+      "source": "google_play",
+      "time": "2025-11-07T19:03:14",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-6f047393-e373-485d-9321-09791052df0d",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Dexter",
+      "tags": [],
+      "lang": "ru",
+      "platform_region": "ru",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 joguei a maior parte deste jogo no pc (v",
+      "summary": "joguei a maior parte deste jogo no pc (via Steam), e posso dizer q é um jogo muito bom. o estilo de arte no combate lembrou helltaker, mas mesmo assim, um ótimo game. recomendo!!",
+      "source": "google_play",
+      "time": "2025-11-08T02:41:17",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=pt#gp-67d6a4fd-ef40-456f-8995-04ac80563ad1",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Eduardo Francisco Bertoli Mancia",
+      "tags": [],
+      "lang": "pt",
+      "platform_region": "br",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

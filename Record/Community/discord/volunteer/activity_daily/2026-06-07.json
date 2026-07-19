@@ -1,0 +1,17 @@
+{
+  "date": "2026-06-07",
+  "messages": 1,
+  "unique_authors": 1,
+  "reactions_total": 0,
+  "attachments": 3,
+  "channel_activity": {
+    "english-english": 1
+  },
+  "hourly_activity": {
+    "17": 1
+  },
+  "message_types": {
+    "0": 1
+  },
+  "top_reacted_messages": []
+}

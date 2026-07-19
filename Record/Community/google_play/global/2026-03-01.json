@@ -1,0 +1,37 @@
+{
+  "date": "2026-03-01",
+  "archived_at": "2026-07-19T08:15:28.052187+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★4 Muy buen juego, buena historia solo el p",
+      "summary": "Muy buen juego, buena historia solo el problema es el modelo beta en idioma español,de ahí en adelante todo es muy bueno,",
+      "source": "google_play",
+      "time": "2026-03-01T06:02:05",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-12082ece-9d4f-4958-a0c7-e49d6bea93ff",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Luis Enrique Vazquez Hernández",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "es",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 great game with majestic designs",
+      "summary": "great game with majestic designs",
+      "source": "google_play",
+      "time": "2026-02-28T18:09:59",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=it#gp-c5da7535-830f-4224-9f0d-1e3267915d9c",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Jiwoo Lee",
+      "tags": [],
+      "lang": "it",
+      "platform_region": "it",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

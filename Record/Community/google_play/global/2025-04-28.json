@@ -1,0 +1,79 @@
+{
+  "date": "2025-04-28",
+  "archived_at": "2026-07-19T08:15:27.868440+00:00",
+  "source": "google_play",
+  "item_count": 5,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 game rất hay. tôi là người đang học tiến",
+      "summary": "game rất hay. tôi là người đang học tiếng trung mà không biết chọn game nào may mắn gặp con game này có tiếng Trung Quốc và tiếng Việt nữa. game rất hay và nhân vật rất đẹp. mọi thứ đều rất ổn",
+      "source": "google_play",
+      "time": "2025-04-27T17:25:44",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=vi#gp-d531b167-2360-4153-a931-cd7d6e602fe7",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Ghét Tôi ghét Toán",
+      "tags": [],
+      "lang": "vi",
+      "platform_region": "vn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Прекрасная игра, жаль что не такая попул",
+      "summary": "Прекрасная игра, жаль что не такая популярная. Красивые персонажи, довольно щедрая гача (Только недавно скачала, но уже имеется приличное количество персонажей), интересный сюжет и неплохая боёвка. Правда, перевод не очень, но это не сильно мне мешает",
+      "source": "google_play",
+      "time": "2025-04-27T18:08:58",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-05c3b442-525c-4943-97b0-f090335cb502",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Ясука Такая",
+      "tags": [],
+      "lang": "ru",
+      "platform_region": "ru",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 j'adore le style de Londres 1920 avec l'",
+      "summary": "j'adore le style de Londres 1920 avec l'ambiance lourde et pesante. comme les nouvelles de H.P.Lovecraft.",
+      "source": "google_play",
+      "time": "2025-04-27T18:47:04",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=fr#gp-9c933c33-619c-4211-a788-8dc83b1b1ed4",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "David Boidin",
+      "tags": [],
+      "lang": "fr",
+      "platform_region": "fr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Incredible, one of the best games so far",
+      "summary": "Incredible, one of the best games so far.",
+      "source": "google_play",
+      "time": "2025-04-28T05:32:26",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=de#gp-834714c0-1c2d-4de8-a649-245cd9551c9b",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Giovanny Caraballo",
+      "tags": [],
+      "lang": "de",
+      "platform_region": "de",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 5/5 one of the best games 🙌🏻",
+      "summary": "5/5 one of the best games 🙌🏻",
+      "source": "google_play",
+      "time": "2025-04-27T16:01:22",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=de#gp-8fe36ce4-226f-4ceb-81f1-5e2bf38a4661",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Nishi TK",
+      "tags": [],
+      "lang": "de",
+      "platform_region": "de",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

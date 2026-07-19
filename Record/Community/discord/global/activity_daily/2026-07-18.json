@@ -1,0 +1,257 @@
+{
+  "date": "2026-07-18",
+  "messages": 6612,
+  "unique_authors": 276,
+  "reactions_total": 916,
+  "attachments": 322,
+  "channel_activity": {
+    "🔸綜合討論": 2548,
+    "🔸剧情交流": 91,
+    "🔸课间休息闲聊": 124,
+    "🔸한국어-채팅방": 11,
+    "🔸deutscher-chatraum": 12,
+    "🔸chaîne-française": 23,
+    "🔸русский-канал": 11,
+    "🔸phòng-chat-tiếng-việt": 250,
+    "🔸canal-español": 44,
+    "🔸canal-português": 58,
+    "🔸ruang-obrolan-indonesia": 211,
+    "🔸ห้องสนทนาภาษาไทย": 130,
+    "🔸traphase": 79,
+    "🔸lore-chat": 348,
+    "🔸lets-count": 14,
+    "🔸team-building": 1125,
+    "🔸邀请码互助┊swap-invitation-codes": 16,
+    "🔸game-question": 1332,
+    "🔸忘却前夜┊morimens-tv": 2,
+    "🔸机器人命令┊bot-commands": 32,
+    "💕": 1,
+    "心是无底的深渊": 1,
+    "【繪圖】放點摸魚": 1,
+    "想要24生日做給守密人的時裝，可以顯示在鑰令動畫": 3,
+    "[Minor] Agrippa E2 inconsistency": 1,
+    "💭「Processing」Game freeze upon finishing an event story": 6,
+    "Potential improvements for Hameln": 11,
+    "Please rework how Propagation Caro works for the future units": 1,
+    "V2.5.1.0 停服维护公告": 10,
+    "Nymphaea": 2,
+    "How exalting on Tawil feels like": 2,
+    "Aigis & Brown 🧀": 2,
+    "Tawil 🪶": 2,
+    "morimens team generator!!": 6,
+    "Complete Team Builder and Unit Database Resource": 2,
+    "Español Traducción - Recopilación de Retroalimentación": 2,
+    "【English Translation】Opinions Collection": 3,
+    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 7,
+    "Need Advice": 36,
+    "Account progression": 2,
+    "Help Needed to procced into Act 2": 3,
+    "I need help clearing arc1 ch8": 3,
+    "Help with Train (Madness)": 3,
+    "I'd appreciate some help with team building and advice on who to invest in long term": 6,
+    "【Newcomer Help】Forum Introduction": 23,
+    "1528069391965622472": 1,
+    "🔸晒卡分享": 3,
+    "🔸游戏问题": 2,
+    "蓋個圖樓": 2,
+    "说话的对象称号错误": 1,
+    "Arsen's Doodle corner": 1,
+    "Paid Packs Value Guide": 1,
+    "1527829790118121614": 1
+  },
+  "hourly_activity": {
+    "8": 164,
+    "9": 201,
+    "10": 123,
+    "11": 177,
+    "12": 537,
+    "13": 403,
+    "14": 665,
+    "15": 521,
+    "16": 273,
+    "17": 265,
+    "18": 226,
+    "19": 221,
+    "21": 77,
+    "22": 41,
+    "23": 60,
+    "20": 252,
+    "0": 193,
+    "1": 165,
+    "2": 541,
+    "3": 299,
+    "4": 414,
+    "5": 297,
+    "6": 392,
+    "7": 105
+  },
+  "message_types": {
+    "0": 2835,
+    "19": 1259,
+    "20": 11,
+    "4": 1,
+    "21": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1528051915009691900",
+      "channel_id": "1131839817982947429",
+      "content": "我會喝水",
+      "author": "roselia_millsage_avemujica",
+      "reactions": 11,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1527884557146259557",
+      "channel_id": "1131839817982947429",
+      "content": "我又不是狗",
+      "author": "ahuahuahua",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528036428439621682",
+      "channel_id": "1131839817982947429",
+      "content": "有沒有大佬可以帶帶我",
+      "author": "water_heart",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528076893495099594",
+      "channel_id": "1131839817982947429",
+      "content": "好像說二十萬日幣<:Brown_think:1459080117308620996>",
+      "author": "yusi4172",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528017574376374424",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528043691359338626",
+      "channel_id": "1131839817982947429",
+      "content": "封鎖（X）\n特別關照（O）",
+      "author": "souri.10244",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528121157679579480",
+      "channel_id": "1300659718653476925",
+      "content": "Terminei o desein da boneca na qual eu tenho a maior queda neste joguinho",
+      "author": "rob3033",
+      "reactions": 8,
+      "channel": "🔸canal-português"
+    },
+    {
+      "id": "1528136899900735701",
+      "channel_id": "1528136899900735701",
+      "content": "https://x.com/lavenderjun0/status/2078524262219149325",
+      "author": "lavenderjun0",
+      "reactions": 8,
+      "channel": "Nymphaea"
+    },
+    {
+      "id": "1528021209374134343",
+      "channel_id": "1131839817982947429",
+      "content": "小知識\n跨越疼痛給的護盾是能吃到護盾加成的\n所以實際上三疊的數值是8.05%最大生命的護盾\n有其他護盾乘區會更高",
+      "author": "water_heart",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528035580242559147",
+      "channel_id": "1131839817982947429",
+      "content": "因為，我沒差啊",
+      "author": "under_bright_light",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528066492904767509",
+      "channel_id": "1131839817982947429",
+      "content": "校貓做了反應，那就是說要嘛是對方找上門、要嘛是EN覺得億點像",
+      "author": "arachnids_nacha",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528076337074405529",
+      "channel_id": "1131839817982947429",
+      "content": "<@1301601632374624277>",
+      "author": "ponponnyaru",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528085625796956243",
+      "channel_id": "1173463482503536711",
+      "content": "",
+      "author": "gensono0609",
+      "reactions": 7,
+      "channel": "🔸剧情交流"
+    },
+    {
+      "id": "1528091521893793943",
+      "channel_id": "1528091521893793943",
+      "content": "",
+      "author": "cooked_chicken99",
+      "reactions": 7,
+      "channel": "How exalting on Tawil feels like"
+    },
+    {
+      "id": "1528007149895155743",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "annabelle0868",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528045438710583376",
+      "channel_id": "1131839817982947429",
+      "content": "~~眾所周知我是一個容易接納他人意見的人~~",
+      "author": "yusi4172",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528048843810275338",
+      "channel_id": "1131839817982947429",
+      "content": "# 我兩年前退坑是因為校貓把披薩餅從個人攜帶變成編隊攜帶，害我把超完美的蕾婭披薩餅刪掉了，從而退坑了",
+      "author": "under_bright_light",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528036165561618532",
+      "channel_id": "1131839817982947429",
+      "content": "~~我的帳號好熱門~~",
+      "author": "yusi4172",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528051168016597114",
+      "channel_id": "1131839817982947429",
+      "content": "他剛剛語音說感覺吃了會降智",
+      "author": "souri.10244",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528077142586294332",
+      "channel_id": "1131839817982947429",
+      "content": "那我去抽了",
+      "author": "ahuahuahua",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

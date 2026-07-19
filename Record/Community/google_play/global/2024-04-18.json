@@ -1,0 +1,37 @@
+{
+  "date": "2024-04-18",
+  "archived_at": "2026-07-19T08:15:27.896917+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 抄袭重返未来的吧",
+      "summary": "抄袭重返未来的吧",
+      "source": "google_play",
+      "time": "2024-04-18T14:46:49",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_TW#gp-d4a5bbf3-aa69-4b38-8ade-f527ca81368e",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "_TG Dre",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 抄袭重返未来的吧",
+      "summary": "抄袭重返未来的吧",
+      "source": "google_play",
+      "time": "2024-04-18T14:46:49",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_HK#gp-d4a5bbf3-aa69-4b38-8ade-f527ca81368e",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "_TG Dre",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

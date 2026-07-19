@@ -1,0 +1,51 @@
+{
+  "date": "2026-06-25",
+  "archived_at": "2026-07-19T08:15:27.899026+00:00",
+  "source": "google_play",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 absolute cinema",
+      "summary": "absolute cinema",
+      "source": "google_play",
+      "time": "2026-06-24T21:38:58",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-00a74bc0-96d8-4bc2-ad53-d3590a747ddf",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "merc",
+      "tags": [],
+      "lang": "ru",
+      "platform_region": "ru",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Eu amei 10/10, os personagens e a histór",
+      "summary": "Eu amei 10/10, os personagens e a história te predem muito, mas o que me fez ficar foi à tradução (mesmo não sendo perfeita, eu pontuaria que tem 98% de precisão).",
+      "source": "google_play",
+      "time": "2026-06-25T07:19:38",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=pt#gp-fb94c239-92f1-47bd-89e5-c3a299c5789d",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Aline",
+      "tags": [],
+      "lang": "pt",
+      "platform_region": "br",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 中评] ★3 Love the generosity, but the longer you",
+      "summary": "Love the generosity, but the longer you play the more you realized they aren't giving out all of those pulls for fun. The endgames demand bunch of teams, the normal mode is too hard, team building is very confusing, and for a game to give characters like candy, they sure don't give enough beginner materials to upgrade them",
+      "source": "google_play",
+      "time": "2026-06-25T14:23:36",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-9d34d226-c65b-49cc-86c3-4052eb8a396d",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Remsly Carpina",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

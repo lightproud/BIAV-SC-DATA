@@ -1,0 +1,37 @@
+{
+  "date": "2026-03-18",
+  "archived_at": "2026-07-19T08:15:28.047955+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 die Sterne der Charakter auf den Bildern",
+      "summary": "die Sterne der Charakter auf den Bildern Schrecken mich schon ab kb 100 copies zu Farmen",
+      "source": "google_play",
+      "time": "2026-03-17T19:27:06",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=de#gp-0c2c3256-fe06-45a4-9559-027ec3a9ca45",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Dimka1989",
+      "tags": [],
+      "lang": "de",
+      "platform_region": "de",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 beautifull game design and the best char",
+      "summary": "beautifull game design and the best character design ever",
+      "source": "google_play",
+      "time": "2026-03-17T16:35:45",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=de#gp-99fad247-057b-4e37-a8ac-2167d3ad72e0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Luisa Silberer",
+      "tags": [],
+      "lang": "de",
+      "platform_region": "de",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

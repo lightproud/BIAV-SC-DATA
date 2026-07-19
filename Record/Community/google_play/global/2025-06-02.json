@@ -1,0 +1,37 @@
+{
+  "date": "2025-06-02",
+  "archived_at": "2026-07-19T08:15:27.913489+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 0 баланса, играть вообще не возможно. Те",
+      "summary": "0 баланса, играть вообще не возможно. Тебе выпадает персонаж только за 100+круток",
+      "source": "google_play",
+      "time": "2025-06-02T08:44:47",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-cfed91ae-4506-4a61-a0b2-b819c8333b0b",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Сергей Якимович",
+      "tags": [],
+      "lang": "ru",
+      "platform_region": "ru",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 体验还行，但我希望福利多一点，并且希望大招能加个很好的cg动画，风格确实不错",
+      "summary": "体验还行，但我希望福利多一点，并且希望大招能加个很好的cg动画，风格确实不错",
+      "source": "google_play",
+      "time": "2025-06-01T18:57:41",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-9cfd1555-dbfe-4e5e-9c2f-24279d0d0d92",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "付九龙",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

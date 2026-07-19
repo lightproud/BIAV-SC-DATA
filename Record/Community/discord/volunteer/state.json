@@ -1,0 +1,487 @@
+{
+  "channels": {
+    "1402537664619479102": {
+      "last_message_id": "1402639573225312398",
+      "name": "welcome-and-roles",
+      "cold_started": true,
+      "empty_months": [
+        "2025-09",
+        "2025-10",
+        "2025-11",
+        "2025-12",
+        "2026-01",
+        "2026-02",
+        "2026-03",
+        "2026-04",
+        "2026-05"
+      ],
+      "last_historical_message_id": "1411863124377600000",
+      "last_historical_month": "2025-08"
+    },
+    "1402537664619479103": {
+      "last_message_id": "1498160784222589121",
+      "name": "links-and-resources",
+      "cold_started": true,
+      "empty_months": [
+        "2025-11",
+        "2025-12",
+        "2026-01",
+        "2026-02",
+        "2026-05"
+      ],
+      "last_historical_message_id": "1411863124377600000",
+      "last_historical_month": "2025-08"
+    },
+    "1402537664619479105": {
+      "last_historical_message_id": "1499560987852800000",
+      "last_historical_month": "2026-05",
+      "forbidden": true,
+      "name": "spanish-español"
+    },
+    "1402537664619479106": {
+      "last_historical_message_id": "1499560987852800000",
+      "last_historical_month": "2026-05",
+      "forbidden": true,
+      "name": "portuguese-português"
+    },
+    "1402537664619479107": {
+      "last_historical_message_id": "1499560987852800000",
+      "last_historical_month": "2026-05",
+      "forbidden": true,
+      "name": "vietnamese-tiếng-việt"
+    },
+    "1402537665051623477": {
+      "last_historical_message_id": "1499560987852800000",
+      "last_historical_month": "2026-05",
+      "forbidden": true,
+      "name": "russian-русский"
+    },
+    "1402538040253087766": {
+      "last_message_id": "1517592899984822396",
+      "name": "english-english",
+      "cold_started": true,
+      "last_historical_message_id": "1411863124377600000",
+      "last_historical_month": "2025-08",
+      "empty_months": [
+        "2026-02",
+        "2026-04"
+      ]
+    },
+    "1402538077880188969": {
+      "last_historical_message_id": "1499560987852800000",
+      "last_historical_month": "2026-05",
+      "forbidden": true,
+      "name": "moderators"
+    },
+    "1402539609107464212": {
+      "last_historical_message_id": "1499560987852800000",
+      "last_historical_month": "2026-05",
+      "forbidden": true,
+      "name": "french-français"
+    },
+    "1402539647124639837": {
+      "last_historical_message_id": "1499560987852800000",
+      "last_historical_month": "2026-05",
+      "forbidden": true,
+      "name": "bahasa-indonesia"
+    },
+    "1402539718205505717": {
+      "last_historical_message_id": "1499560987852800000",
+      "last_historical_month": "2026-05",
+      "forbidden": true,
+      "name": "thai-ภาษาไทย"
+    },
+    "1402539746718122074": {
+      "last_historical_message_id": "1499560987852800000",
+      "last_historical_month": "2026-05",
+      "forbidden": true,
+      "name": "german-deutsch"
+    },
+    "1402539769401049150": {
+      "last_historical_message_id": "1499560987852800000",
+      "last_historical_month": "2026-05",
+      "forbidden": true,
+      "name": "japanese-日本語"
+    },
+    "1402539814628360253": {
+      "last_historical_message_id": "1499560987852800000",
+      "last_historical_month": "2026-05",
+      "forbidden": true,
+      "name": "korean-한국어"
+    },
+    "1402941858606219294": {
+      "last_message_id": "1524284711269171210",
+      "name": "general-discussion",
+      "cold_started": true,
+      "last_historical_message_id": "1411863124377600000",
+      "last_historical_month": "2025-08",
+      "empty_months": [
+        "2026-02"
+      ]
+    },
+    "1406970664145129473": {
+      "last_message_id": "1493615398489165937",
+      "name": "self-introductions",
+      "cold_started": true,
+      "empty_months": [
+        "2025-10",
+        "2025-11",
+        "2025-12",
+        "2026-01",
+        "2026-02",
+        "2026-05"
+      ],
+      "last_historical_message_id": "1411863124377600000",
+      "last_historical_month": "2025-08"
+    },
+    "1407641395891535883": {
+      "last_message_id": "1523527561085325322",
+      "name": "announcements",
+      "cold_started": true,
+      "empty_months": [
+        "2026-01",
+        "2026-02",
+        "2026-05"
+      ],
+      "last_historical_message_id": "1411863124377600000",
+      "last_historical_month": "2025-08"
+    },
+    "1408410269503455286": {
+      "last_historical_message_id": "1499560987852800000",
+      "last_historical_month": "2026-05",
+      "forbidden": true,
+      "name": "🔗liens-et-infos"
+    },
+    "1416615133479960647": {
+      "last_message_id": "1519597820376776844",
+      "name": "project-coordination",
+      "cold_started": true,
+      "last_historical_message_id": "1411863124377600000",
+      "last_historical_month": "2025-08",
+      "empty_months": [
+        "2026-02"
+      ]
+    },
+    "1416934774525788180": {
+      "last_message_id": "1454938089154941031",
+      "name": "relevant-forwards",
+      "cold_started": true,
+      "empty_months": [
+        "2025-10",
+        "2026-01",
+        "2026-02",
+        "2026-03",
+        "2026-04",
+        "2026-05"
+      ],
+      "last_historical_message_id": "1411863124377600000",
+      "last_historical_month": "2025-08"
+    },
+    "1418372456376176760": {
+      "last_historical_message_id": "1499560987852800000",
+      "last_historical_month": "2026-05",
+      "forbidden": true,
+      "name": "playtest-questions-old"
+    },
+    "1419429157779280035": {
+      "last_message_id": "1448551984188751983",
+      "name": "how-to-contribute",
+      "cold_started": true,
+      "empty_months": [
+        "2025-09",
+        "2025-10",
+        "2025-11",
+        "2026-01",
+        "2026-02",
+        "2026-03",
+        "2026-04",
+        "2026-05"
+      ],
+      "last_historical_message_id": "1411863124377600000",
+      "last_historical_month": "2025-08"
+    },
+    "1446619934565204231": {
+      "last_message_id": "1510275424632963153",
+      "name": "coordination-uploads",
+      "cold_started": true,
+      "last_historical_message_id": "1411863124377600000",
+      "last_historical_month": "2025-08",
+      "empty_months": [
+        "2026-01",
+        "2026-02"
+      ]
+    },
+    "1481583783634534550": {
+      "last_historical_message_id": "1499560987852800000",
+      "last_historical_month": "2026-05",
+      "forbidden": true,
+      "name": "traditionalchinese-繁體中文"
+    },
+    "thread:1417045058862977025": {
+      "last_message_id": "1485538263208034416"
+    },
+    "thread:1495453080370680138": {
+      "last_message_id": "1498699279156641844"
+    },
+    "thread:1489000337582063797": {
+      "last_message_id": "1494978106224541707"
+    },
+    "thread:1415016526179864576": {
+      "last_message_id": "1485390037632815277"
+    },
+    "thread:1458231430491672748": {
+      "last_message_id": "1465334469559849216"
+    },
+    "thread:1462611910938722355": {
+      "last_message_id": "1463791981254803508"
+    },
+    "thread:1456451816320667809": {
+      "last_message_id": "1456451816320667809"
+    },
+    "thread:1453266203794735229": {
+      "last_message_id": "1453269118005284987"
+    },
+    "thread:1436202469402345563": {
+      "last_message_id": "1439960756329255003"
+    },
+    "thread:1454683620978462863": {
+      "last_message_id": "1455048990860247255"
+    },
+    "thread:1445631871802150974": {
+      "last_message_id": "1445632005294395505"
+    },
+    "thread:1420091516944126085": {
+      "last_message_id": "1420118410188161116"
+    },
+    "thread:1440215966956126238": {
+      "last_message_id": "1440215966956126238"
+    },
+    "thread:1437270403587248229": {
+      "last_message_id": "1440183612942188615"
+    },
+    "thread:1418891370801922089": {
+      "last_message_id": "1432646721103597773"
+    },
+    "thread:1429690851432464488": {
+      "last_message_id": "1431582654360457256"
+    },
+    "thread:1419179851272814602": {
+      "last_message_id": "1420250141260124160"
+    },
+    "thread:1417375201124946023": {
+      "last_message_id": "1420123818256502834"
+    },
+    "thread:1416652703659982970": {
+      "last_message_id": "1416969262244827258"
+    },
+    "thread:1415647961777442887": {
+      "last_message_id": "1415896778003189850"
+    },
+    "thread:1415576509124710400": {
+      "last_message_id": "1415577121656541184"
+    },
+    "thread:1412323326826774548": {
+      "last_message_id": "1412330980580003912"
+    },
+    "thread:1407612759574577254": {
+      "last_message_id": "1407656670951379107"
+    },
+    "thread:1409232320657100954": {
+      "last_message_id": "1409233486920941578"
+    },
+    "thread:1408140948420165632": {
+      "last_message_id": "1408686135198351380"
+    },
+    "thread:1408434957638045849": {
+      "last_message_id": "1408435153935667261"
+    },
+    "thread:1408421964799803685": {
+      "last_message_id": "1408423196797046856"
+    },
+    "thread:1408193037313511548": {
+      "last_message_id": "1408205124601385001"
+    },
+    "thread:1416853158562500649": {
+      "last_message_id": "1417408701500887081"
+    },
+    "thread:1418207838588637184": {
+      "last_message_id": "1418211889774854247"
+    },
+    "thread:1418425109122908342": {
+      "last_message_id": "1418439292295843932"
+    },
+    "thread:1410020401731342466": {
+      "last_message_id": "1410021187303637186"
+    },
+    "thread:1414364333726765056": {
+      "last_message_id": "1414392108822958141"
+    },
+    "thread:1414792563646398516": {
+      "last_message_id": "1415152750114766968"
+    },
+    "thread:1415131966529081528": {
+      "last_message_id": "1415972125428154389"
+    },
+    "thread:1407818401107410994": {
+      "last_message_id": "1407818401107410994"
+    },
+    "thread:1410335567815905330": {
+      "last_message_id": "1414922141136060466"
+    },
+    "thread:1406996874061152286": {
+      "last_message_id": "1407277607921254482"
+    },
+    "thread:1407003693592870993": {
+      "last_message_id": "1407589533238689853"
+    },
+    "thread:1407928126427758733": {
+      "last_message_id": "1407948349096853554"
+    },
+    "thread:1408095995535032400": {
+      "last_message_id": "1408118458364854472"
+    },
+    "thread:1408260952163487767": {
+      "last_message_id": "1408293078355284019"
+    },
+    "thread:1408252685211271248": {
+      "last_message_id": "1408297176534089891"
+    },
+    "thread:1408389499926478868": {
+      "last_message_id": "1408412329137143848"
+    },
+    "thread:1408332779497721940": {
+      "last_message_id": "1408468395258544189"
+    },
+    "thread:1409041465757274112": {
+      "last_message_id": "1409362000147910656"
+    },
+    "thread:1408429441088225393": {
+      "last_message_id": "1409362324980236389"
+    },
+    "thread:1408765320465879121": {
+      "last_message_id": "1409363302529892483"
+    },
+    "thread:1409244176851144854": {
+      "last_message_id": "1409363558621249700"
+    },
+    "thread:1409573476309667950": {
+      "last_message_id": "1409583466944659527"
+    },
+    "thread:1407785080025383157": {
+      "last_message_id": "1409764796307472458"
+    },
+    "thread:1409985520687120475": {
+      "last_message_id": "1409986054014107700"
+    },
+    "thread:1409601556851982417": {
+      "last_message_id": "1410114127040479232"
+    },
+    "thread:1412533191155122316": {
+      "last_message_id": "1412536037523066930"
+    },
+    "thread:1408091523026911343": {
+      "last_message_id": "1408277366517661757"
+    },
+    "thread:1408440557016973433": {
+      "last_message_id": "1408528040690188341"
+    },
+    "thread:1409915895270215690": {
+      "last_message_id": "1410173540325392394"
+    },
+    "thread:1506230338656010260": {
+      "last_message_id": "1506248424339804241"
+    },
+    "thread:1419075028099535042": {
+      "last_message_id": "1419075052208525322"
+    },
+    "thread:1483026045132214385": {
+      "last_message_id": "1483651882164551791"
+    },
+    "thread:1464157747032494110": {
+      "last_message_id": "1483025930094903297"
+    },
+    "thread:1445722221820772422": {
+      "last_message_id": "1446039128150900922"
+    },
+    "thread:1408313795985670144": {
+      "last_message_id": "1431231099010285762"
+    },
+    "thread:1429802285365465148": {
+      "last_message_id": "1430875887993229362"
+    },
+    "thread:1418267870898552872": {
+      "last_message_id": "1430396153547198534"
+    },
+    "thread:1408302426833817662": {
+      "last_message_id": "1422201315525918840"
+    },
+    "thread:1414912367690514522": {
+      "last_message_id": "1417442818728656939"
+    },
+    "thread:1408500575045292183": {
+      "last_message_id": "1419296581299077231"
+    },
+    "thread:1418505682075910145": {
+      "last_message_id": "1418876338412060792"
+    },
+    "thread:1408497218004189201": {
+      "last_message_id": "1417954171688063027"
+    },
+    "thread:1408432819885310064": {
+      "last_message_id": "1417756635887304715"
+    },
+    "thread:1415196228219834389": {
+      "last_message_id": "1415452853606027274"
+    },
+    "thread:1408422026875768842": {
+      "last_message_id": "1415135001107890307"
+    },
+    "thread:1410486353166336081": {
+      "last_message_id": "1411820509368422420"
+    },
+    "thread:1411187742548955167": {
+      "last_message_id": "1411187742548955167"
+    },
+    "thread:1410020319196086393": {
+      "last_message_id": "1410169346604662864"
+    },
+    "thread:1408510311811645540": {
+      "last_message_id": "1408680600076025899"
+    },
+    "thread:1408410092105240576": {
+      "last_message_id": "1408410092105240576"
+    },
+    "thread:1421974900742164500": {
+      "last_message_id": "1424802909358657627"
+    },
+    "thread:1424985163737202758": {
+      "last_message_id": "1425012336422293595"
+    },
+    "thread:1421176794677252106": {
+      "last_message_id": "1421354676422578307"
+    },
+    "thread:1420307427978379325": {
+      "last_message_id": "1420856575706271815"
+    },
+    "thread:1481487827626889388": {
+      "last_message_id": "1481842689623199836"
+    },
+    "thread:1481967323492515932": {
+      "last_message_id": "1481967837688889374"
+    },
+    "thread:1520284206175883284": {
+      "last_message_id": "1520379974996070552"
+    },
+    "1520927797961298110": {
+      "forbidden": true,
+      "name": "chat-with-staff"
+    },
+    "1523627042451750912": {
+      "forbidden": true,
+      "name": "korean-한국어"
+    }
+  },
+  "historical_month": null,
+  "last_run": "2026-07-19T08:32:52.160651+00:00",
+  "history_backfill_complete": true
+}

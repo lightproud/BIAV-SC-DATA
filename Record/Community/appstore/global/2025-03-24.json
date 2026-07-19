@@ -1,0 +1,38 @@
+{
+  "date": "2025-03-24",
+  "archived_at": "2026-07-19T02:30:25.561951+00:00",
+  "source": "appstore",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "An amazing game",
+      "summary": "Finally not a brain dead gacha game. All characters are unique. Love the music and art type.\nTranslation could be better.",
+      "source": "appstore",
+      "time": "2025-03-24T06:02:22-07:00",
+      "url": "https://apps.apple.com/ca/app/id6447354150?see-all=reviews#as-12458614923",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Marcus Nico",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "ca",
+      "region": "global"
+    },
+    {
+      "title": "Best game",
+      "summary": "Love this",
+      "source": "appstore",
+      "platform_region": "us",
+      "lang": "",
+      "time": "2025-03-24T05:01:17-07:00",
+      "url": "",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Keeper 2133",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    }
+  ],
+  "region": "global"
+}

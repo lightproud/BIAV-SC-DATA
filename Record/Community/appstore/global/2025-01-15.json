@@ -1,0 +1,38 @@
+{
+  "date": "2025-01-15",
+  "archived_at": "2026-07-19T02:30:25.516897+00:00",
+  "source": "appstore",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "好玩",
+      "summary": "很有意思",
+      "source": "appstore",
+      "time": "2025-01-14T22:11:04-07:00",
+      "url": "https://apps.apple.com/hk/app/id6447354150?see-all=reviews#as-12186123922",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "wren0123",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    },
+    {
+      "title": "好玩",
+      "summary": "很有意思",
+      "source": "appstore",
+      "platform_region": "hk",
+      "lang": "",
+      "time": "2025-01-14T22:11:04-07:00",
+      "url": "",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "wren0123",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    }
+  ],
+  "region": "global"
+}

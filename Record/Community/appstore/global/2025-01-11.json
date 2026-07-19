@@ -1,0 +1,38 @@
+{
+  "date": "2025-01-11",
+  "archived_at": "2026-07-19T05:52:47.970084+00:00",
+  "source": "appstore",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Game crash a lot on iPhone 12",
+      "summary": "Crash",
+      "source": "appstore",
+      "time": "2025-01-11T04:15:47-07:00",
+      "url": "https://apps.apple.com/sg/app/id6447354150?see-all=reviews#as-12170984389",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Hauybvn",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "sg",
+      "region": "global"
+    },
+    {
+      "title": "Game crash a lot on iPhone 12",
+      "summary": "Crash",
+      "source": "appstore",
+      "platform_region": "sg",
+      "lang": "",
+      "time": "2025-01-11T04:15:47-07:00",
+      "url": "",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Hauybvn",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    }
+  ],
+  "region": "global"
+}

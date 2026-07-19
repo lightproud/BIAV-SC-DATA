@@ -1,0 +1,37 @@
+{
+  "date": "2025-06-09",
+  "archived_at": "2026-07-19T08:15:27.906772+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 das Game ist mega allein die pull Animat",
+      "summary": "das Game ist mega allein die pull Animationen und die Story haben mich gepackt, was mir auch richtig gefällt ist der Art style das Game Play die Musik uff einfach alles und das Game gönnt richtig ich besitze schon drei Teams mit Acht 5 Star Charakteren also es gönnt richtig",
+      "source": "google_play",
+      "time": "2025-06-08T23:05:25",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=de#gp-c4bee8db-a1d6-4649-8dec-07b88b040b6c",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Alice Cortez",
+      "tags": [],
+      "lang": "de",
+      "platform_region": "de",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 лучшая игра!",
+      "summary": "лучшая игра!",
+      "source": "google_play",
+      "time": "2025-06-09T13:55:06",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-f75afd9e-1323-427d-b72f-78b695c3f817",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Власовы",
+      "tags": [],
+      "lang": "ru",
+      "platform_region": "ru",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

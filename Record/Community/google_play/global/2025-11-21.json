@@ -1,0 +1,51 @@
+{
+  "date": "2025-11-21",
+  "archived_at": "2026-07-19T08:15:27.880019+00:00",
+  "source": "google_play",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 excellent jeu, j'ai moi aussi rencontré",
+      "summary": "excellent jeu, j'ai moi aussi rencontré quelques problemes lors de linstallation du jeu mais jai decide de le faire pendant la nuit lorsque je dormais pour quil puisse sinstaller en prenant son temps. le jeu est incroyable sur le plan audio-visuel et sur le plan du gameplay (systeme gacha et combat avec un systeme de cartes et de mana) vaut vraiment le détour",
+      "source": "google_play",
+      "time": "2025-11-21T00:30:03",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=fr#gp-171c091a-a6ae-4a7c-b1cb-719cbcb50d3e",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Zéphyra",
+      "tags": [],
+      "lang": "fr",
+      "platform_region": "fr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 отличная для тех кого достали все милые",
+      "summary": "отличная для тех кого достали все милые гаса игры и хотят чего то серьёзного",
+      "source": "google_play",
+      "time": "2025-11-21T15:26:15",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-eae66fbb-8eb4-492d-82d7-65ce905d405b",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Daniil Mikhaeli",
+      "tags": [],
+      "lang": "ru",
+      "platform_region": "ru",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 好好好",
+      "summary": "好好好",
+      "source": "google_play",
+      "time": "2025-11-21T01:45:38",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-21777ae8-9a85-4294-b042-2a605e273375",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "曾显峰",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

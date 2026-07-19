@@ -1,0 +1,51 @@
+{
+  "date": "2026-03-09",
+  "archived_at": "2026-07-19T08:15:27.900750+00:00",
+  "source": "google_play",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 이제야 결제를 할수있숴..",
+      "summary": "이제야 결제를 할수있숴..",
+      "source": "google_play",
+      "time": "2026-03-09T14:19:52",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-1f9f1774-9aba-4622-a4f1-0a0661162f1e",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "이이 (빕비)",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 너무 취향인 게임이라 바로 질러버렸네요. 세계관이 확장돼서 오래 갔으면",
+      "summary": "너무 취향인 게임이라 바로 질러버렸네요. 세계관이 확장돼서 오래 갔으면 좋겠어요. 번역만 잘해주면 더 지를듯",
+      "source": "google_play",
+      "time": "2026-03-09T03:41:24",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-33aa6b43-8867-416e-9971-4d0b4e049b85",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Seong Jun Park",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 só estou no início ainda, mas a estética",
+      "summary": "só estou no início ainda, mas a estética e os design dos personagens é incrível, além do sistema de combate ser bem interessante, com oportunidade pra combos muito legais, 10/10",
+      "source": "google_play",
+      "time": "2026-03-09T14:21:28",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=pt#gp-12ec1e7c-e934-4f20-9119-88aedcfdbc80",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Natan De Souza Ferreira",
+      "tags": [],
+      "lang": "pt",
+      "platform_region": "br",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

@@ -1,0 +1,393 @@
+{
+  "date": "2026-06-08",
+  "archived_at": "2026-06-09T10:28:57.368404+00:00",
+  "source": "reddit",
+  "item_count": 25,
+  "items": [
+    {
+      "title": "Welcome to my Mythag Uni c:",
+      "summary": "Totally stealing &quot;Welcome to my Chaldea&quot; FGO concept yes These teams might not be the best out there but I love them; I&#39;d love seeing other peoples Unis too !  &#32; submitted by &#32;  /u/Independent-Baby-577   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T15:35:14+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1u0bdze/welcome_to_my_mythag_uni_c/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/Independent-Baby-577",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/h4pkm4ajv26h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bbf54e199a4fe87c0a3d586d9acf48901ceab274",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Leonora sketch",
+      "summary": "&#32; submitted by &#32;  /u/hyd_geaaa   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T12:36:40+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1u06njx/leonora_sketch/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/hyd_geaaa",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/jl9ntgs1026h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=79dd2c48a0df63df50eb1f5cdbc2f4c5ba42f919",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "this game is difficult to understand",
+      "summary": "Hi there, sorry if my english ain&#39;t smooth, I&#39;m working on it. I just began this game, all about it feels so well-crafted, world, musics, art, gameplay. I really appreciate my experience, and I feel like the game doesn&#39;t force me to fully understand the gameplay to advance in the story. I&#39;ve somewhat grasped that it&#39;s important to have one big dps (like hamelin/pandia), one or two damage support (like saya), and one or two Shield/heal support (karen, I never used her). But I can&#39;t understand what card is better, and what is worst.  I searched tierlist, but I didn&#39;t understand them, so I&#39;m coming here to ask few advices. I&#39;m chapter 2, I have these cards, and my squad looks like this. Do you know what which cards should I absolutely aim for ? Or what cards I already have would do better in my squad ?  &#32; submitted by &#32;  /u/Old-Firefighter9599   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T15:59:59+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1u0c2t0/this_game_is_difficult_to_understand/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/Old-Firefighter9599",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/yrbywyfpx26h1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=d086518435f771b875137a5e9160e8b011688258",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "What is the consensus on Saya’s rouse? Do you use it?",
+      "summary": "I find it makes things too difficult to make the extra aliemus gain worth it so I just opt not to play it anymore. Are any of you having a different experience? Are there particular comps in which the perception warp effect doesn’t matter too much?  &#32; submitted by &#32;  /u/SittingDuck394   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T12:57:47+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1u0753f/what_is_the_consensus_on_sayas_rouse_do_you_use_it/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/SittingDuck394",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Calculating average cost on different banners available in anniversary",
+      "summary": "Edit 1 - Entirely updated the write up with the help of AI as previous one became a mess I’ve been crunching the numbers to determine which banner offers the best long-term value in Morimens. This is a mathematical breakdown of the expected costs for our anniversary banner structures. The Mathematical Foundation With a 3.02% SSR rate and a 30-pull hard pity, we use the truncated geometric distribution formula to find the average cost per SSR: Formula: E = [1 - (1 - p)N] / p p (Rate): 0.0302 N (Hard Pity): 30 Result: ~19.92, which we will round to 20 pulls per SSR. Now coming to individual banners -   Echoing Wishes Banner  This banner pools SSRs (Awakeners and Wheels). If you pull the same type twice in a row, the 3rd SSR is guaranteed to be the other type. Since we need one of each (A and W), we stop as soon as we have one of each. AW or WA: These are the &quot;lucky&quot; paths where you get both in 2 SSRs. Each has a 25% chance (0.5 * 0.5 = 0.25). AA+W or WW+A: These are the &quot;pity&quot; paths where you hit the same type twice, forcing the 3rd to be the one you need. Each has a 25% chance (0.5 * 0.5 * 1.0 = 0.25). Note: We stop at 3 SSRs because the &quot;anti-streak&quot; rule makes it impossible to pull the same type a 3rd time. Calculation: (60 * 0.25) + (60 * 0.25) + (90 * 0.25) + (90 * 0.25) = 75 pulls.  Targeted Rerun Banner  These banners separate the Awakener and the Wheel. Limited Wheel (50/50): Average cost = 30 pulls. Limited Character (33% Rate-up): Pity 1 (33.3%): Simply the flat rate-up chance. This takes 20 pulls average Pity 2 (22.2%): You must fail the first (2/3) AND pass the second (1/3). (2/3 * 1/3 = 2/9 ≈ 22.2%). This scenarios will take 40 pulls on average. Pity 3 (44.4%): You must fail the first (2/3) AND fail the second (2/3), meaning you are now forced to hit the guarantee. (2/3 * 2/3 = 4/9 ≈ 44.4%). This scenario will take 60 pulls on average TOTAL AVG Pulls - - - 42.2 Combined Expected Cost: 30 (Wheel) + 42.2 (Awakener) = ~72.2 pull",
+      "source": "reddit",
+      "time": "2026-06-08T08:27:09+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1u01wox/calculating_average_cost_on_different_banners/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/Then-Scale-9476",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "A Poet, a Singer, a Gambler and a walking Inferno - My favourite team so far 🥰",
+      "summary": "The first team, that really &quot;clicked&quot; for me. So far shredding the early story chapters while being 10+ levels lower than recommended. Now I need to go rescue Lily... May the silver key guide us! 💜  &#32; submitted by &#32;  /u/WeWillBe_FinallyFree   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-07T22:39:08+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1tzqb6k/a_poet_a_singer_a_gambler_and_a_walking_inferno/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/WeWillBe_FinallyFree",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/j2uk553ttx5h1.jpg?width=140&amp;height=101&amp;auto=webp&amp;s=b7a4fc1491fdb5e99daf4cd10c4fea36d26105e8",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "New player and uncertain what to do with what's left of the rotating banner!",
+      "summary": "First off apologies in advance since I&#39;ve noticed there&#39;s been a lot of these recently! I&#39;m not sure if I should be going for anything left on the rotating banners and would like some help. So far I&#39;ve been using Jenkin/Winkle/Horla/Ogier to get through the story which has been going pretty well, I love firing a billion rats at everything, but I&#39;m not sure both what to do about other teams and what I could grab for Jenkin with what&#39;s left. My Aequor feels especially small with only 3 units and from what I understand my only Caro DPS in Uvhash is kinda meh? I started playing three days ago so it means all that&#39;s left is Pickman, Pollux, GMurphy, Mouchette, Xu, Vortice and Arachne. Would I be better saving for proper re-runs or is there anything left that I should focus on?  &#32; submitted by &#32;  /u/PitLordIsMyHusbando   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T08:29:46+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1u01y4r/new_player_and_uncertain_what_to_do_with_whats/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/PitLordIsMyHusbando",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/lceke7a0r06h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=246624dab05d994a9eb02c27f8063f7ad73ea30c",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Accidentally finished HSR with a meme team",
+      "summary": "I literally have no idea what I&#39;m doing but okay 😭😭😭 (mhm yes chicken wingssss-)   &#32; submitted by &#32;  /u/Samlosthersanity   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T09:42:56+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1u0364q/accidentally_finished_hsr_with_a_meme_team/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/Samlosthersanity",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/cebe1yew416h1.jpg?width=140&amp;height=63&amp;auto=webp&amp;s=a7c28b76b9847599c8db1aa2897c811e8ff3a5a6",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Help me improve my shield team",
+      "summary": "I find this shield team very comfy and nice to play, but it&#39;s pretty slow. I only started seriously getting into team building recently, and I could use some advice on how to improve it. The strategy is simple: Alva and Sanga both give you tons of DEF, and their damage scales with DEF. Nautila is there to provide Aliemus and even more DEF. Caecus... is the one I am thinking of replacing, since his contributions don&#39;t feel essential, but idk who should take his place. Alva and Sanga&#39;s DEF scaling damage is not that good, I realized, and on the long run counter and tentacle damage do almost as much as them. Perhaps instead of focusing on producing even more DEF, I should add some poison units? Any advice is welcome. Thank you in advance!  &#32; submitted by &#32;  /u/International_Poem   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T07:03:13+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1u00gtr/help_me_improve_my_shield_team/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/International_Poem",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/qhg51w9ib06h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fecd38d9c548a9fd7c7163b30d97f1448d3f17e7",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Can someone give me a list of all mommy units in the game.",
+      "summary": "When I say mommy units I meant voicelines not character design, like Miryam and Thais​​​​​​​​. I&#39;m planning on creating my dream team.​​  &#32; submitted by &#32;  /u/NoAtmosphere9209   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-07T22:59:24+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1tzqrn4/can_someone_give_me_a_list_of_all_mommy_units_in/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/NoAtmosphere9209",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Pollux/GMurphy/Mouchette OE?",
+      "summary": "Among these 3 units, which would benefit the most from having OE? For further context, I have Kath, Castor, and GDoll OE, and I tend to gravitate towards a team of Kath/Castor/Clem/Arachne Thank you!  &#32; submitted by &#32;  /u/parallelArmistice   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T15:55:29+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1u0by9q/polluxgmurphymouchette_oe/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/parallelArmistice",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "God ryker? Pls help",
+      "summary": "Im trying to build a god ryker team comp as i thought it wld be super fun to run him as a dps. My current team is ryker, hameln, salv and faint. But right now my salv is out dpsing my ryker like crazy and ryker&#39;s damage is lowk buns. How do i fix this? Any recommendations?  &#32; submitted by &#32;  /u/skarticus   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T07:56:27+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1u01dih/god_ryker_pls_help/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/skarticus",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "First D-Zone 300 points as a new F2P player (NOT A GUIDE)",
+      "summary": "This isn&#39;t a guide or a post asking for help, all teams are self-made and some of them makes no sense lol. Pulled Mouchette on Kaleido banner today on SSR awakener pity and decided to go for the full clear before reset. Hopefully this shows that you don&#39;t need a lot of investment(character dupes/wheels) to get that first 300 points, but that being said having a good pool of limited characters is definitely recommended (Arachne my love carried 2 waves by herself).  &#32; submitted by &#32;  /u/ShockinglyNotTaken   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-07T22:29:46+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1tzq3dc/first_dzone_300_points_as_a_new_f2p_player_not_a/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/ShockinglyNotTaken",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/pphk5ljvox5h1.png?width=140&amp;height=53&amp;auto=webp&amp;s=fe5f3702f229ec9033addd7c53930095f7132216",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Is it better to continue pulling or save?",
+      "summary": "My next is guaranteed wod  &#32; submitted by &#32;  /u/jadhanshsnajsakak   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T14:34:05+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1u09p25/is_it_better_to_continue_pulling_or_save/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/jadhanshsnajsakak",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/780rnkgzk26h1.jpg?width=140&amp;height=64&amp;auto=webp&amp;s=ab79f700b26ab6604504c4486dacbefd51391a16",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Welcome to my Mythag Uni c:",
+      "summary": "Totally stealing &quot;Welcome to my Chaldea&quot; FGO concept yes These teams might not be the best out there but I love them; I&#39;d love seeing other peoples Unis too !  &#32; submitted by &#32;  /u/Independent-Baby-577   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T15:35:14+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1u0bdze/welcome_to_my_mythag_uni_c/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Independent-Baby-577",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Leonora sketch",
+      "summary": "&#32; submitted by &#32;  /u/hyd_geaaa   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T12:36:40+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1u06njx/leonora_sketch/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/hyd_geaaa",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "this game is difficult to understand",
+      "summary": "Hi there, sorry if my english ain&#39;t smooth, I&#39;m working on it. I just began this game, all about it feels so well-crafted, world, musics, art, gameplay. I really appreciate my experience, and I feel like the game doesn&#39;t force me to fully understand the gameplay to advance in the story. I&#39;ve somewhat grasped that it&#39;s important to have one big dps (like hamelin/pandia), one or two damage support (like saya), and one or two Shield/heal support (karen, I never used her). But I can&#39;t understand what card is better, and what is worst.  I searched tierlist, but I didn&#39;t understand them, so I&#39;m coming here to ask few advices. I&#39;m chapter 2, I have these cards, and my squad looks like this. Do you know what which cards should I absolutely aim for ? Or what cards I already have would do better in my squad ?  &#32; submitted by &#32;  /u/Old-Firefighter9599   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T15:59:59+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1u0c2t0/this_game_is_difficult_to_understand/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Old-Firefighter9599",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "What is the consensus on Saya’s rouse? Do you use it?",
+      "summary": "I find it makes things too difficult to make the extra aliemus gain worth it so I just opt not to play it anymore. Are any of you having a different experience? Are there particular comps in which the perception warp effect doesn’t matter too much?  &#32; submitted by &#32;  /u/SittingDuck394   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T12:57:47+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1u0753f/what_is_the_consensus_on_sayas_rouse_do_you_use_it/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/SittingDuck394",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Calculating average cost on different banners available in anniversary",
+      "summary": "Edit 1 - Entirely updated the write up with the help of AI as previous one became a mess I’ve been crunching the numbers to determine which banner offers the best long-term value in Morimens. This is a mathematical breakdown of the expected costs for our anniversary banner structures. The Mathematical Foundation With a 3.02% SSR rate and a 30-pull hard pity, we use the truncated geometric distribution formula to find the average cost per SSR: Formula: E = [1 - (1 - p)N] / p p (Rate): 0.0302 N (Hard Pity): 30 Result: ~19.92, which we will round to 20 pulls per SSR. Now coming to individual banners -   Echoing Wishes Banner  This banner pools SSRs (Awakeners and Wheels). If you pull the same type twice in a row, the 3rd SSR is guaranteed to be the other type. Since we need one of each (A and W), we stop as soon as we have one of each. AW or WA: These are the &quot;lucky&quot; paths where you get both in 2 SSRs. Each has a 25% chance (0.5 * 0.5 = 0.25). AA+W or WW+A: These are the &quot;pity&quot; paths where you hit the same type twice, forcing the 3rd to be the one you need. Each has a 25% chance (0.5 * 0.5 * 1.0 = 0.25). Note: We stop at 3 SSRs because the &quot;anti-streak&quot; rule makes it impossible to pull the same type a 3rd time. Calculation: (60 * 0.25) + (60 * 0.25) + (90 * 0.25) + (90 * 0.25) = 75 pulls.  Targeted Rerun Banner  These banners separate the Awakener and the Wheel. Limited Wheel (50/50): Average cost = 30 pulls. Limited Character (33% Rate-up): Pity 1 (33.3%): Simply the flat rate-up chance. This takes 20 pulls average Pity 2 (22.2%): You must fail the first (2/3) AND pass the second (1/3). (2/3 * 1/3 = 2/9 ≈ 22.2%). This scenarios will take 40 pulls on average. Pity 3 (44.4%): You must fail the first (2/3) AND fail the second (2/3), meaning you are now forced to hit the guarantee. (2/3 * 2/3 = 4/9 ≈ 44.4%). This scenario will take 60 pulls on average TOTAL AVG Pulls - - - 42.2 Combined Expected Cost: 30 (Wheel) + 42.2 (Awakener) = ~72.2 pulls. Summary Comparison Banner Type Avg. Cost (Both) Echoing Wishes ~75 Pulls Targeted Rerun ~72.2 Pulls TL;DR Echoing Wishes is slightly more expensive on average (~75 vs ~72.2), but is a good banner as it let&#39;s you target a specific collection that are missing or very op units that compensate for slightly high cost of pulls. Also the fail outs are better with additional limited awakener or wod instead of a standard SSR items.  &#32; submitted by &#32;  /u/Then-Scale-9476   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T08:27:09+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1u01wox/calculating_average_cost_on_different_banners/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Then-Scale-9476",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "New player and uncertain what to do with what's left of the rotating banner!",
+      "summary": "First off apologies in advance since I&#39;ve noticed there&#39;s been a lot of these recently! I&#39;m not sure if I should be going for anything left on the rotating banners and would like some help. So far I&#39;ve been using Jenkin/Winkle/Horla/Ogier to get through the story which has been going pretty well, I love firing a billion rats at everything, but I&#39;m not sure both what to do about other teams and what I could grab for Jenkin with what&#39;s left. My Aequor feels especially small with only 3 units and from what I understand my only Caro DPS in Uvhash is kinda meh? I started playing three days ago so it means all that&#39;s left is Pickman, Pollux, GMurphy, Mouchette, Xu, Vortice and Arachne. Would I be better saving for proper re-runs or is there anything left that I should focus on?  &#32; submitted by &#32;  /u/PitLordIsMyHusbando   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T08:29:46+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1u01y4r/new_player_and_uncertain_what_to_do_with_whats/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/PitLordIsMyHusbando",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Accidentally finished HSR with a meme team",
+      "summary": "I literally have no idea what I&#39;m doing but okay 😭😭😭 (mhm yes chicken wingssss-)   &#32; submitted by &#32;  /u/Samlosthersanity   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T09:42:56+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1u0364q/accidentally_finished_hsr_with_a_meme_team/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Samlosthersanity",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Help me improve my shield team",
+      "summary": "I find this shield team very comfy and nice to play, but it&#39;s pretty slow. I only started seriously getting into team building recently, and I could use some advice on how to improve it. The strategy is simple: Alva and Sanga both give you tons of DEF, and their damage scales with DEF. Nautila is there to provide Aliemus and even more DEF. Caecus... is the one I am thinking of replacing, since his contributions don&#39;t feel essential, but idk who should take his place. Alva and Sanga&#39;s DEF scaling damage is not that good, I realized, and on the long run counter and tentacle damage do almost as much as them. Perhaps instead of focusing on producing even more DEF, I should add some poison units? Any advice is welcome. Thank you in advance!  &#32; submitted by &#32;  /u/International_Poem   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T07:03:13+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1u00gtr/help_me_improve_my_shield_team/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/International_Poem",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Pollux/GMurphy/Mouchette OE?",
+      "summary": "Among these 3 units, which would benefit the most from having OE? For further context, I have Kath, Castor, and GDoll OE, and I tend to gravitate towards a team of Kath/Castor/Clem/Arachne Thank you!  &#32; submitted by &#32;  /u/parallelArmistice   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T15:55:29+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1u0by9q/polluxgmurphymouchette_oe/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/parallelArmistice",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "God ryker? Pls help",
+      "summary": "Im trying to build a god ryker team comp as i thought it wld be super fun to run him as a dps. My current team is ryker, hameln, salv and faint. But right now my salv is out dpsing my ryker like crazy and ryker&#39;s damage is lowk buns. How do i fix this? Any recommendations?  &#32; submitted by &#32;  /u/skarticus   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T07:56:27+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1u01dih/god_ryker_pls_help/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/skarticus",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Is it better to continue pulling or save?",
+      "summary": "My next is guaranteed wod  &#32; submitted by &#32;  /u/jadhanshsnajsakak   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-06-08T14:34:05+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1u09p25/is_it_better_to_continue_pulling_or_save/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/jadhanshsnajsakak",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ]
+}

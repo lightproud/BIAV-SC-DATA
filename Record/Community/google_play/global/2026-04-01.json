@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-01",
+  "archived_at": "2026-07-19T08:15:27.850124+00:00",
+  "source": "google_play",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 เกมมันดีนะ แต่ที่มันดึงผู้เล่นใหม่ไม่ได้",
+      "summary": "เกมมันดีนะ แต่ที่มันดึงผู้เล่นใหม่ไม่ได้น่าจะเรื่อง ขนาดเกมตอนติดตั้งนี่แหละ ขาจรเลยไม่แวะมาเพราะลงนานไป ต้องสำรองพื้นที่เท่าตัวอีก ถ้าแบ่งเป็นช่วงไป น่าจะดีกว่า ลดภาระเรื่องความจำ",
+      "source": "google_play",
+      "time": "2026-04-01T03:53:50",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=th#gp-3fa85b57-6673-4517-a6d6-b3432b9c84a3",
+      "engagement": 10,
+      "is_hot": false,
+      "author": "アキラソリザワ",
+      "tags": [],
+      "lang": "th",
+      "platform_region": "th",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 약관 동의에서부터 로그인이 안됨",
+      "summary": "약관 동의에서부터 로그인이 안됨",
+      "source": "google_play",
+      "time": "2026-03-31T16:00:55",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-72551565-56a8-47b4-b0ab-4c8dfc2b58e2",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Hj 27",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 아직 정식번역이 짧아서 아쉬움 슬더스류 좋아하고 서브컬쳐류도 관심있다면",
+      "summary": "아직 정식번역이 짧아서 아쉬움 슬더스류 좋아하고 서브컬쳐류도 관심있다면 두개를 섞어놓은 이겜 적극추천",
+      "source": "google_play",
+      "time": "2026-04-01T12:05:27",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-ed9fcde5-d266-4115-a39c-53d2d45e9c72",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Arkintoes",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-26",
+  "archived_at": "2026-07-19T08:15:27.918283+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Steam新闻] 📜 V2.5.2 Version Outlook",
+      "summary": "",
+      "source": "official",
+      "time": "2026-06-26T12:55:18+00:00",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165553820",
+      "engagement": 0,
+      "is_hot": true,
+      "author": "lqx02483534",
+      "tags": [
+        "Community Announcements"
+      ],
+      "region": "global",
+      "archive_subtype": "news",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam新闻] 🎧 V2.5.2 Radio Drama - Addiction",
+      "summary": "\"The fouler the suffering, the more it becomes a reward to filthy little things like you.\"\"Your wretched savior is not coming... Kneel. Offer yourself to the ocean.\"✦ Pontos VA: Junichi Suwabe",
+      "source": "official",
+      "time": "2026-06-26T12:51:50+00:00",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165553804",
+      "engagement": 0,
+      "is_hot": true,
+      "author": "Mythag Staff",
+      "tags": [
+        "Community Announcements"
+      ],
+      "region": "global",
+      "archive_subtype": "news",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "news"
+}

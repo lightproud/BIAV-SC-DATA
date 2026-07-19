@@ -1,0 +1,23 @@
+{
+  "date": "2026-03-04",
+  "archived_at": "2026-07-19T08:15:27.913018+00:00",
+  "source": "google_play",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 Кто что то скажет но игра бомба!",
+      "summary": "Кто что то скажет но игра бомба!",
+      "source": "google_play",
+      "time": "2026-03-04T07:03:01",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-7fe92ea3-f576-4f05-9cc8-bf02b31217ee",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Belembo",
+      "tags": [],
+      "lang": "ru",
+      "platform_region": "ru",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

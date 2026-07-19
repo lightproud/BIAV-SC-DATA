@@ -1,0 +1,38 @@
+{
+  "date": "2026-01-09",
+  "archived_at": "2026-07-19T02:30:25.620633+00:00",
+  "source": "appstore",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Awesome game!",
+      "summary": "I love this game! I wish this game would get more attention. Iam a player from germany and a big fan. The music, the art, the gamestyle is just chefs kiss. Very generous with freebies, the most generous gacha game I have ever played! Please keep up the good work!",
+      "source": "appstore",
+      "time": "2026-01-08T23:13:08-07:00",
+      "url": "https://apps.apple.com/de/app/id6447354150?see-all=reviews#as-13612090560",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Inagoeoqmfmd",
+      "tags": [],
+      "lang": "de",
+      "platform_region": "de",
+      "region": "global"
+    },
+    {
+      "title": "Awesome game!",
+      "summary": "I love this game! I wish this game would get more attention. Iam a player from germany and a big fan. The music, the art, the gamestyle is just chefs kiss. Very generous with freebies, the most generous gacha game I have ever played! Please keep up the good work!",
+      "source": "appstore",
+      "platform_region": "de",
+      "lang": "",
+      "time": "2026-01-08T23:13:08-07:00",
+      "url": "",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Inagoeoqmfmd",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    }
+  ],
+  "region": "global"
+}

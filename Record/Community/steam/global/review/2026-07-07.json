@@ -1,0 +1,250 @@
+{
+  "date": "2026-07-07",
+  "archived_at": "2026-07-08T12:23:29.277831+00:00",
+  "source": "steam",
+  "item_count": 10,
+  "items": [
+    {
+      "title": "[正面] It's Peak",
+      "summary": "It's Peak",
+      "source": "steam_review",
+      "time": "2026-07-07T02:30:32+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198045465352/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198045465352",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 424,
+        "votes_up": 1,
+        "timestamp_created": 1783391432
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] muito cool",
+      "summary": "muito cool",
+      "source": "steam_review",
+      "time": "2026-07-06T16:22:56+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199584687700/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199584687700",
+      "tags": [
+        "brazilian"
+      ],
+      "language": "brazilian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 152,
+        "votes_up": 0,
+        "timestamp_created": 1783354976
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] very good",
+      "summary": "very good",
+      "source": "steam_review",
+      "time": "2026-07-06T18:34:43+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199768239385/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199768239385",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 32428,
+        "votes_up": 0,
+        "timestamp_created": 1783362883
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 没吃过sh的可以试一下，无限逼氪，nt出金概率，歪两次才能有保底，还必须吃满得到。资源扣扣搜搜而且打...",
+      "summary": "没吃过sh的可以试一下，无限逼氪，nt出金概率，歪两次才能有保底，还必须吃满得到。资源扣扣搜搜而且打一关耗时非常长。想当M的可以试试被这游戏调的感觉",
+      "source": "steam_review",
+      "time": "2026-07-06T17:59:52+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199482720848/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199482720848",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 691,
+        "votes_up": 0,
+        "timestamp_created": 1783360792
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] Very decent game that I can't recommend at the cur...",
+      "summary": "Very decent game that I can't recommend at the current time.\nEvery stage is pretty much a mini roguelite where you collect relics and power up your party's cards, and then you fight the final boss.\nThe different factions and synergies were pretty interesting.\nThere even is a pvp mode where each character has a different card for this mode.\nThe devs are also pretty generous with pulls.\n\nAs for the negative points, only the prologue has any voice acting, aside from combat.\nThe story was unreadable to me, because the text were very obviously machine-translated and did not make any sense.\nThe skill cards and mechanics are also machine translated and were inconsistent in some places.\nI couldn't get invested in the story or character, since I had no idea what was going on, and the bosses were starting to get unreasonably hard, so I just dipped, would not recommend unless they actually get human translation for everything.",
+      "source": "steam_review",
+      "time": "2026-07-06T20:05:17+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198803467446/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198803467446",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 2473,
+        "votes_up": 0,
+        "timestamp_created": 1783368317
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] When I first downloaded this game I wan't expectin...",
+      "summary": "When I first downloaded this game I wan't expecting anything amazing, but I'm glad I was wrong!\r\n\r\nThis game is great and scratches that card game itch I keep having. The game is similar to other card games on Steam (mainly Slay the Spire), but it adds progression and gacha mechanics into the mix. The game doesn't feel overly monetized or pay to win though, as I've had a very nice f2p experience, and have been able to progress at a pretty good rate. \r\n\r\nThe art and the feel of the game are also very good plus the game also just always has something to do. So I definitively recommend trying this game if you like card games, especially since it's free!",
+      "source": "steam_review",
+      "time": "2026-07-06T19:57:12+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198834659734/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198834659734",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2408,
+        "votes_up": 0,
+        "timestamp_created": 1783367832
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] It is a little bit criminal that this game is free...",
+      "summary": "It is a little bit criminal that this game is free to play. One of the most appealing interfaces and atmospheres that I have found.",
+      "source": "steam_review",
+      "time": "2026-07-06T19:56:56+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198018386467/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198018386467",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 197,
+        "votes_up": 0,
+        "timestamp_created": 1783367816
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Buen arte e historia, puedes llegar a armar un equ...",
+      "summary": "Buen arte e historia, puedes llegar a armar un equipo roto algo fácil, lo recomiendo para quitar el aburrimiento",
+      "source": "steam_review",
+      "time": "2026-07-07T01:11:05+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198800122301/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198800122301",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 37,
+        "votes_up": 0,
+        "timestamp_created": 1783386665
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 好玩٩(•̤̀ᵕ•̤́๑)",
+      "summary": "好玩٩(•̤̀ᵕ•̤́๑)",
+      "source": "steam_review",
+      "time": "2026-07-07T07:35:31+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199193197269/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199193197269",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 803,
+        "votes_up": 0,
+        "timestamp_created": 1783409731
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 呵呵积怨已久那必须给个差评了。角色设计很有意思。剧情额剧情还凑合吧，主线除了基本没怎么get到，随便...",
+      "summary": "呵呵积怨已久那必须给个差评了。角色设计很有意思。剧情额剧情还凑合吧，主线除了基本没怎么get到，随便看看得了，早期支线还是有点意思的，其实我感觉水平太飘忽了要不是我推剧情可爱我真不想说剧情还可以。最近的剧情也越来越绷了，为啥那么多男嘉豪角色出点相对人性化的男的谢谢，还有星辰篇二章开始疯狂塞学长梦女内容啥意思？全世界智商不变守密人智商下降100%是吗？那你赢了，你的ml内容又短又难吃，你反复堆词赋魅的梦向npc转正角色我没有一毛钱兴趣，只觉得莫名其妙。那我问你守密人对这个学长突如其来汹涌的爱到底是为啥呢？忘却篇他们有见面超过三次吗？我也不是对学长有意见只是感觉这操作也太神人了吧。这俩保持正常前后辈关系对剧情有任何影响吗？哪怕你说这个过程里守密人跟学长逐渐拉近关系我也不说啥了，这总得有个循序渐进的过程吧。而且剧情需要他们关系那么莫名其妙的亲近吗？星辰篇二章明明是医生主场，结果一大半内容全是这个男的原生家庭那个男的原生家庭，我请问了？到最后讲医生的内容只有第三段的那一部分，前面的内容删掉完全没影响啊，没感受到情绪也没看出来有什么伏笔。我真劝你们一句要是文案组里有梦女就赶紧开了吧，实在是影响剧情观感，有空给npc贴膜不如多修修剧情连贯性吧，前因全靠猜哇靠真的太绝了。",
+      "source": "steam_review",
+      "time": "2026-07-07T13:07:38+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199196242989/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199196242989",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 26028,
+        "votes_up": 0,
+        "timestamp_created": 1783429658
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

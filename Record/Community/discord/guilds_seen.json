@@ -1,0 +1,30 @@
+{
+  "probed_at": "2026-06-17T07:31:29.014630+00:00",
+  "bot_guild_count": 3,
+  "guilds": [
+    {
+      "id": "1377475512716234902",
+      "name": "【公式】忘却前夜サーバー",
+      "registered": false,
+      "role": null
+    },
+    {
+      "id": "1131791637933199470",
+      "name": "Morimens",
+      "registered": true,
+      "role": "global · 官方/Global，归档至 data/discord/ 根目录"
+    },
+    {
+      "id": "1402537664619479100",
+      "name": "Morimens Volunteer Translators",
+      "registered": true,
+      "role": "volunteer · 志愿者服务器，归档至 guilds/{id}/"
+    }
+  ],
+  "unregistered": [
+    {
+      "id": "1377475512716234902",
+      "name": "【公式】忘却前夜サーバー"
+    }
+  ]
+}

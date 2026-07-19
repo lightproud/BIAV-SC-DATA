@@ -1,0 +1,38 @@
+{
+  "date": "2024-09-17",
+  "archived_at": "2026-07-19T02:30:25.552160+00:00",
+  "source": "appstore",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "好遊戲",
+      "summary": "畫風和故事都很不錯，出了PC版後更好了，畫質細膩，也可以有時間慢慢打過關",
+      "source": "appstore",
+      "time": "2024-09-16T21:55:58-07:00",
+      "url": "https://apps.apple.com/hk/app/id6447354150?see-all=reviews#as-11732747548",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "仁餘",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    },
+    {
+      "title": "好遊戲",
+      "summary": "畫風和故事都很不錯，出了PC版後更好了，畫質細膩，也可以有時間慢慢打過關",
+      "source": "appstore",
+      "platform_region": "hk",
+      "lang": "",
+      "time": "2024-09-16T21:55:58-07:00",
+      "url": "",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "仁餘",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    }
+  ],
+  "region": "global"
+}

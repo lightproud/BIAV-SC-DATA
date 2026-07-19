@@ -1,0 +1,51 @@
+{
+  "date": "2026-02-13",
+  "archived_at": "2026-07-19T02:30:25.621138+00:00",
+  "source": "appstore",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "💘",
+      "summary": "The best designs i’ve ever seen",
+      "source": "appstore",
+      "time": "2026-02-12T16:40:08-07:00",
+      "url": "https://apps.apple.com/fr/app/id6447354150?see-all=reviews#as-13742882684",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Reineceleste",
+      "tags": [],
+      "lang": "fr",
+      "platform_region": "fr",
+      "region": "global"
+    },
+    {
+      "title": "💘",
+      "summary": "The best designs i’ve ever seen",
+      "source": "appstore",
+      "platform_region": "fr",
+      "lang": "",
+      "time": "2026-02-12T16:40:08-07:00",
+      "url": "",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Reineceleste",
+      "tags": [],
+      "content_type": "text",
+      "media_url": ""
+    },
+    {
+      "title": "💘",
+      "summary": "The best designs i’ve ever seen",
+      "source": "appstore",
+      "time": "2026-02-12T16:40:08-07:00",
+      "url": "https://apps.apple.com/fr/app/id6447354150?see-all=reviews",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Reineceleste",
+      "tags": [],
+      "lang": "fr",
+      "platform_region": "fr"
+    }
+  ],
+  "region": "global"
+}

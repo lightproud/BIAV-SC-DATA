@@ -1,0 +1,1286 @@
+{
+  "guild_id": "1131791637933199470",
+  "updated_at": "2026-07-19T09:00:48.071145+00:00",
+  "channels": [
+    {
+      "id": "1131791637933199471",
+      "name": "🔵 官方资讯┊OFFICIAL ANNOUNCEMENTS",
+      "type": 4,
+      "parent_id": null,
+      "position": 3,
+      "topic": ""
+    },
+    {
+      "id": "1131791637933199472",
+      "name": "活動訊息",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 135,
+      "topic": "一些你意想不到的资讯会在这里分享哦！"
+    },
+    {
+      "id": "1131796304050262126",
+      "name": "官方佈告（已停止使用）",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 140,
+      "topic": null
+    },
+    {
+      "id": "1131837874078232597",
+      "name": "🔸新生守则┊rules",
+      "type": 0,
+      "parent_id": null,
+      "position": 0,
+      "topic": "请各位守密人阅读弥萨格大学DC频道新生守则"
+    },
+    {
+      "id": "1131838787706699807",
+      "name": "禮包兌換碼",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 130,
+      "topic": "遊戲禮包兌換碼都會在這裡唷"
+    },
+    {
+      "id": "1131839770545365072",
+      "name": "🔵其他语言┊ ADDITIONAL LANGUAGES",
+      "type": 4,
+      "parent_id": null,
+      "position": 11,
+      "topic": ""
+    },
+    {
+      "id": "1131839817982947429",
+      "name": "🔸綜合討論",
+      "type": 0,
+      "parent_id": "1355149654068691124",
+      "position": 48,
+      "topic": "您可以在此處談論一切遊戲相關的內容！"
+    },
+    {
+      "id": "1131839874132090890",
+      "name": "🔸阵容构建",
+      "type": 0,
+      "parent_id": "1355149654068691124",
+      "position": 49,
+      "topic": "编队搭配內容可隨時随时在此频道讨论唷~"
+    },
+    {
+      "id": "1131840077237067837",
+      "name": "遊戲問題及bug回報",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 133,
+      "topic": null
+    },
+    {
+      "id": "1131840478267064320",
+      "name": "繪圖",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 137,
+      "topic": null
+    },
+    {
+      "id": "1132942133632974990",
+      "name": "🤖垃圾邮件机器人┊spam-bot",
+      "type": 0,
+      "parent_id": null,
+      "position": 3,
+      "topic": null
+    },
+    {
+      "id": "1166623241293545492",
+      "name": "discord社群建議",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 132,
+      "topic": null
+    },
+    {
+      "id": "1168734000827863070",
+      "name": "校貓問答（已停止使用）",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 141,
+      "topic": "校貓會將所有能夠分享的信息放在這裡哦！"
+    },
+    {
+      "id": "1170692781216378960",
+      "name": "🔸morimens-game-chat",
+      "type": 0,
+      "parent_id": "1433512102714413146",
+      "position": 24,
+      "topic": "These rules are designed to keep the channel focused and easy to read, ensuring that only relevant game information is posted.\n\n1. Stay 100% On-Topic\n\nThis channel is strictly for in-game chat, updates, and related discussion.\nDo not post: Memes, general greetings, off-topic conversations, self-promotion, or anything that isn't directly related to the current game topic.\n\n2. No Toxicity or Rage\n\nThis channel is for factual game chat, not venting frustration or blaming other members. Keep the tone helpful and positive. Take personal conflicts to DMs or another channel.\n\n3. Follow Server-Wide Rules\n\nAll general server rules (no hate speech, no NSFW content, be respectful, etc.) are still in effect here.\n\n4. Follow Moderator Directions\n\nIf a moderator moves your message to a different channel or asks you to stop an off-topic discussion, please comply immediately.\n\nConsequences: Off-topic messages will be deleted, and repeated violations may result in timeouts or a ban from the server."
+    },
+    {
+      "id": "1170913498579095634",
+      "name": "影片",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 136,
+      "topic": null
+    },
+    {
+      "id": "1171394049970798602",
+      "name": "世界觀-喚醒體介紹",
+      "type": 15,
+      "parent_id": "1511303613408870511",
+      "position": 134,
+      "topic": null
+    },
+    {
+      "id": "1173463482503536711",
+      "name": "🔸剧情交流",
+      "type": 0,
+      "parent_id": "1355149654068691124",
+      "position": 50,
+      "topic": "期待与各位守密人开启各种剧情和唤醒体的讨论！"
+    },
+    {
+      "id": "1174179624096378930",
+      "name": "🔸游戏攻略",
+      "type": 15,
+      "parent_id": "1355090412821418119",
+      "position": 38,
+      "topic": null
+    },
+    {
+      "id": "1174182796424650843",
+      "name": "攻略投遞專區（已停止使用）",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 142,
+      "topic": "各位守密人可在此處投稿攻略以及進行任意討論~\n我們會定期抽選部分優質攻略上傳至「優質攻略專區」\n期待大家的投稿！！"
+    },
+    {
+      "id": "1174185304027045969",
+      "name": "🔸同人创作",
+      "type": 15,
+      "parent_id": "1355149143739203624",
+      "position": 43,
+      "topic": null
+    },
+    {
+      "id": "1174983699935277147",
+      "name": "🔸晒卡分享",
+      "type": 0,
+      "parent_id": "1355149654068691124",
+      "position": 53,
+      "topic": null
+    },
+    {
+      "id": "1177574564440588308",
+      "name": "彌薩格大學茶話會",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 126,
+      "topic": null
+    },
+    {
+      "id": "1179386963871150211",
+      "name": "🔸彌薩格大學委員會",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 121,
+      "topic": "成為【彌薩格大學委員會】一員有以下職責需要執行，還需要各位守密人的一起監督和協助~\n1.按照社群規定守護好頻道氛圍及環境，防止頻道受融蝕侵蝕~\n2.做好守密人發佈內容的搬運及整理，需將攻略&同人二創作品等搬運至指定頻道並做好整理\n3.每個月會定期對【彌薩格大學委員會】成員進行月度回顧，若存在疏忽責任或被舉報違規且證實存在，有可能被扣除當月福利獎勵甚至剔除成員身份喔~\n\n福利獎勵：每月5000銀芯+1000源液~\n會於每月月底通過遊戲郵件發放~"
+    },
+    {
+      "id": "1179405846673883186",
+      "name": "🔸调查心得",
+      "type": 15,
+      "parent_id": "1355149654068691124",
+      "position": 57,
+      "topic": "守密人可以在此频道发帖讨论各种关卡心得~"
+    },
+    {
+      "id": "1179745906283773952",
+      "name": "入學典禮",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 131,
+      "topic": null
+    },
+    {
+      "id": "1179761516032032819",
+      "name": "茶話會特邀前輩",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 139,
+      "topic": null
+    },
+    {
+      "id": "1180087318506393630",
+      "name": "喚醒體搭配分享活動",
+      "type": 15,
+      "parent_id": "1511303613408870511",
+      "position": 138,
+      "topic": "【喚醒體搭配分享活動】開啟！\n各位守密人可於此處分享喚醒體搭配~"
+    },
+    {
+      "id": "1180437373012672522",
+      "name": "🔸欢乐梗图",
+      "type": 0,
+      "parent_id": "1355149654068691124",
+      "position": 56,
+      "topic": null
+    },
+    {
+      "id": "1180845276823564288",
+      "name": "🔸有問必答┊official-q-a",
+      "type": 15,
+      "parent_id": "1355086706163974316",
+      "position": 23,
+      "topic": "**有問必答：**守密人可以在這裡反饋遊戲BUG、建議等，我們會認真解答；\n\n**Official Q&A：**Keepers can report game bugs, suggestions, etc. here, and we will answer them seriously;"
+    },
+    {
+      "id": "1180850818509971466",
+      "name": "🔸相位对弈",
+      "type": 0,
+      "parent_id": "1355149654068691124",
+      "position": 52,
+      "topic": null
+    },
+    {
+      "id": "1181135756958371881",
+      "name": "🔸遊戲公告┊game-announcement",
+      "type": 15,
+      "parent_id": "1131791637933199471",
+      "position": 14,
+      "topic": "**遊戲公告：**專門用來發遊戲內的公告資訊，方便大家集中查找，了解遊戲內的變動；\n\n**Game Announcement：** It is used to send in-game announcements, so that everyone can find and understand the changes in the game;"
+    },
+    {
+      "id": "1181145177943982153",
+      "name": "🔸影片分享",
+      "type": 15,
+      "parent_id": "1355149143739203624",
+      "position": 45,
+      "topic": null
+    },
+    {
+      "id": "1181146739198140487",
+      "name": "🔸考據研究",
+      "type": 15,
+      "parent_id": "1355149143739203624",
+      "position": 44,
+      "topic": null
+    },
+    {
+      "id": "1181146813890302033",
+      "name": "🔸官方素材┊official-materials",
+      "type": 15,
+      "parent_id": "1131791637933199471",
+      "position": 19,
+      "topic": null
+    },
+    {
+      "id": "1181152750319456266",
+      "name": "🔸课间休息闲聊",
+      "type": 0,
+      "parent_id": "1355149654068691124",
+      "position": 54,
+      "topic": "各位守密人可在此处进行任意话题的闲聊~"
+    },
+    {
+      "id": "1184003940082262069",
+      "name": "🔸校貓日誌┊schoolcat’s-notes",
+      "type": 15,
+      "parent_id": "1131791637933199471",
+      "position": 18,
+      "topic": null
+    },
+    {
+      "id": "1184706567103324252",
+      "name": "幻夢深潛天梯賽",
+      "type": 15,
+      "parent_id": "1511303613408870511",
+      "position": 127,
+      "topic": null
+    },
+    {
+      "id": "1187304008356999169",
+      "name": "達芙黛爾應援活動",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 129,
+      "topic": null
+    },
+    {
+      "id": "1190246670332600401",
+      "name": "滿月慶典",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 125,
+      "topic": null
+    },
+    {
+      "id": "1194554310680391700",
+      "name": "📖彌薩格攻略研讀會",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 123,
+      "topic": "這裡是【📖彌薩格攻略研讀會】成員交流頻道~"
+    },
+    {
+      "id": "1194835209242296410",
+      "name": "🔸交友频道",
+      "type": 0,
+      "parent_id": "1355149654068691124",
+      "position": 55,
+      "topic": null
+    },
+    {
+      "id": "1205101971514728458",
+      "name": "春節活動",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 124,
+      "topic": null
+    },
+    {
+      "id": "1210870902959378474",
+      "name": "元宵節活動",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 119,
+      "topic": null
+    },
+    {
+      "id": "1214493117508755506",
+      "name": "百日慶典",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 118,
+      "topic": null
+    },
+    {
+      "id": "1230475904166133801",
+      "name": "「迎新×銀芯√」活動",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 120,
+      "topic": null
+    },
+    {
+      "id": "1241617246934007808",
+      "name": "🔸半周年活動專區",
+      "type": 15,
+      "parent_id": "1511303613408870511",
+      "position": 122,
+      "topic": null
+    },
+    {
+      "id": "1300659436804640788",
+      "name": "🔸日本語チャンネル",
+      "type": 0,
+      "parent_id": "1131839770545365072",
+      "position": 58,
+      "topic": null
+    },
+    {
+      "id": "1300659495550062592",
+      "name": "🔸한국어-채팅방",
+      "type": 0,
+      "parent_id": "1131839770545365072",
+      "position": 59,
+      "topic": null
+    },
+    {
+      "id": "1300659525812097026",
+      "name": "🔸deutscher-chatraum",
+      "type": 0,
+      "parent_id": "1131839770545365072",
+      "position": 61,
+      "topic": "📢 Hinweis: Damit Sie Ihre sprachspezifischen Kanäle nicht verpassen, gehen Sie bitte so schnell wie möglich zu <id:customize> und wählen Sie Ihre Sprachrolle aus. Wir werden zukünftig die Kanalausblendung implementieren. Sie sehen dann nur noch die Kanäle, die den von Ihnen ausgewählten Rollen entsprechen."
+    },
+    {
+      "id": "1300659552701648960",
+      "name": "🔸chaîne-française",
+      "type": 0,
+      "parent_id": "1131839770545365072",
+      "position": 60,
+      "topic": null
+    },
+    {
+      "id": "1300659580446969918",
+      "name": "🔸русский-канал",
+      "type": 0,
+      "parent_id": "1131839770545365072",
+      "position": 62,
+      "topic": null
+    },
+    {
+      "id": "1300659603993923644",
+      "name": "🔸phòng-chat-tiếng-việt",
+      "type": 0,
+      "parent_id": "1131839770545365072",
+      "position": 63,
+      "topic": null
+    },
+    {
+      "id": "1300659662311526512",
+      "name": "🔸canal-español",
+      "type": 0,
+      "parent_id": "1131839770545365072",
+      "position": 66,
+      "topic": null
+    },
+    {
+      "id": "1300659718653476925",
+      "name": "🔸canal-português",
+      "type": 0,
+      "parent_id": "1131839770545365072",
+      "position": 65,
+      "topic": null
+    },
+    {
+      "id": "1300659753197764688",
+      "name": "🔸ruang-obrolan-indonesia",
+      "type": 0,
+      "parent_id": "1131839770545365072",
+      "position": 64,
+      "topic": null
+    },
+    {
+      "id": "1300659802455674972",
+      "name": "🔸ห้องสนทนาภาษาไทย",
+      "type": 0,
+      "parent_id": "1131839770545365072",
+      "position": 67,
+      "topic": null
+    },
+    {
+      "id": "1304022107847659520",
+      "name": "🔸art-and-memes",
+      "type": 15,
+      "parent_id": "1355149143739203624",
+      "position": 46,
+      "topic": "The original [media-corner] channel"
+    },
+    {
+      "id": "1304022827824844842",
+      "name": "🔸guides",
+      "type": 15,
+      "parent_id": "1355090412821418119",
+      "position": 41,
+      "topic": "The original [gameplay-discussion] channel"
+    },
+    {
+      "id": "1304023203252801599",
+      "name": "🔸story-discussion",
+      "type": 15,
+      "parent_id": "1433512102714413146",
+      "position": 31,
+      "topic": null
+    },
+    {
+      "id": "1316744385118998529",
+      "name": "🔸【超越維度的祝福】認領專區",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 128,
+      "topic": null
+    },
+    {
+      "id": "1324573371349860352",
+      "name": "🔸pvp-tournament",
+      "type": 0,
+      "parent_id": "1433512102714413146",
+      "position": 32,
+      "topic": null
+    },
+    {
+      "id": "1326453691527594035",
+      "name": "🔸traphase",
+      "type": 0,
+      "parent_id": "1433512102714413146",
+      "position": 29,
+      "topic": "Here you can share your thoughts and views about Traphase!"
+    },
+    {
+      "id": "1326453763355185215",
+      "name": "🔸lore-chat",
+      "type": 0,
+      "parent_id": "1433512102714413146",
+      "position": 28,
+      "topic": "Welcome to the lore channel! This space is dedicated to exploring the  universe of Morimems. To keep things fun and focused for everyone, please follow these guidelines:\n\nStay On Topic: This channel is only for discussing the official storyline, established facts, fan theories, and history of our shared universe. Please use the #general-chat or a specific off-topic channel for other conversations.\n\nUse Spoiler Tags Generously: Be considerate of those who aren't caught up. Use Discord's built-in spoiler tags (||type your text here||) for any information that reveals plot points, endings, or secrets, especially those from recent updates or releases.\n\nRespectful Debates Only: It's okay to disagree about interpretations or theories. Debate the facts respectfully, but do not attack the person you're debating.\n\nStandard Server Rules Apply: Remember all general server rules and the official Discord Community Guidelines are still in effect here.\n\nListen to Moderators: The staff is here to help keep the peace. Ple"
+    },
+    {
+      "id": "1350027302205001779",
+      "name": "🔸翻译反馈┊mistranslation",
+      "type": 15,
+      "parent_id": "1355086706163974316",
+      "position": 22,
+      "topic": null
+    },
+    {
+      "id": "1351755074040496228",
+      "name": "💬mythag-university-committee",
+      "type": 0,
+      "parent_id": "1508074298236211270",
+      "position": 5,
+      "topic": null
+    },
+    {
+      "id": "1354754985119846581",
+      "name": "🔸服务器公告┊server-announcement",
+      "type": 0,
+      "parent_id": "1131791637933199471",
+      "position": 15,
+      "topic": null
+    },
+    {
+      "id": "1355085076500578363",
+      "name": "🔸活动资讯┊event-information",
+      "type": 15,
+      "parent_id": "1131791637933199471",
+      "position": 17,
+      "topic": "**活动资讯：**会在这里发社区活动、唤醒体宣传、娱乐互动等资讯。\n\n**Event Information：**Information on community activities, awaker promotion, entertainment interactions, etc. will be posted here."
+    },
+    {
+      "id": "1355086706163974316",
+      "name": "🔵反馈&建议┊FEEDBACK & SUGGESTIONS",
+      "type": 4,
+      "parent_id": null,
+      "position": 4,
+      "topic": ""
+    },
+    {
+      "id": "1355090412821418119",
+      "name": "🔵游戏帮助┊GAME HELP",
+      "type": 4,
+      "parent_id": null,
+      "position": 7,
+      "topic": ""
+    },
+    {
+      "id": "1355094251775459399",
+      "name": "🔸礼包码┊gift-codes",
+      "type": 5,
+      "parent_id": "1131791637933199471",
+      "position": 16,
+      "topic": null
+    },
+    {
+      "id": "1355149143739203624",
+      "name": "🔵影画长廊┊GALLERY",
+      "type": 4,
+      "parent_id": null,
+      "position": 8,
+      "topic": ""
+    },
+    {
+      "id": "1355149654068691124",
+      "name": "🔵中文聊天",
+      "type": 4,
+      "parent_id": null,
+      "position": 9,
+      "topic": ""
+    },
+    {
+      "id": "1355607635147362554",
+      "name": "🔵全球┊ GLOBAL",
+      "type": 4,
+      "parent_id": null,
+      "position": 12,
+      "topic": ""
+    },
+    {
+      "id": "1355609481886826536",
+      "name": "دردشة-عامة",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 70,
+      "topic": null
+    },
+    {
+      "id": "1355609693073969392",
+      "name": "دليل-اللعبة",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 71,
+      "topic": null
+    },
+    {
+      "id": "1355610161842098469",
+      "name": "一般聊天",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 72,
+      "topic": null
+    },
+    {
+      "id": "1355610239050711232",
+      "name": "游戏指南",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 73,
+      "topic": null
+    },
+    {
+      "id": "1355610353370665375",
+      "name": "一般聊天",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 74,
+      "topic": null
+    },
+    {
+      "id": "1355610435084353717",
+      "name": "遊戲指南",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 75,
+      "topic": null
+    },
+    {
+      "id": "1355610586876084336",
+      "name": "algemene-chat",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 76,
+      "topic": null
+    },
+    {
+      "id": "1355610715175780562",
+      "name": "spelgids",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 77,
+      "topic": null
+    },
+    {
+      "id": "1355617858767294666",
+      "name": "discussion-générale",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 79,
+      "topic": null
+    },
+    {
+      "id": "1355617966070300762",
+      "name": "guide-du-jeu",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 82,
+      "topic": null
+    },
+    {
+      "id": "1355618342781845584",
+      "name": "allgemeiner-chat",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 84,
+      "topic": null
+    },
+    {
+      "id": "1355619870569529467",
+      "name": "spielanleitung",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 85,
+      "topic": null
+    },
+    {
+      "id": "1355622323029413989",
+      "name": "צאט-כללי",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 87,
+      "topic": null
+    },
+    {
+      "id": "1355622592005931170",
+      "name": "מדריך-משחק",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 90,
+      "topic": null
+    },
+    {
+      "id": "1355622856225980637",
+      "name": "सामान्य-बातचीत",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 91,
+      "topic": null
+    },
+    {
+      "id": "1355623188708458767",
+      "name": "गेम-निर्देशिका",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 93,
+      "topic": null
+    },
+    {
+      "id": "1355623778956083442",
+      "name": "obrolan-umum",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 95,
+      "topic": null
+    },
+    {
+      "id": "1355624136247869751",
+      "name": "panduan-permainan",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 97,
+      "topic": null
+    },
+    {
+      "id": "1355624407896428674",
+      "name": "chiacchierata-generale",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 99,
+      "topic": null
+    },
+    {
+      "id": "1355624604118417528",
+      "name": "guida-al-gioco",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 102,
+      "topic": null
+    },
+    {
+      "id": "1355624803603578980",
+      "name": "一般的なチャット",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 103,
+      "topic": null
+    },
+    {
+      "id": "1355625161717711029",
+      "name": "ゲームガイド",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 80,
+      "topic": null
+    },
+    {
+      "id": "1355625604199743689",
+      "name": "일반-채팅",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 81,
+      "topic": null
+    },
+    {
+      "id": "1355625824161759382",
+      "name": "게임-가이드",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 83,
+      "topic": null
+    },
+    {
+      "id": "1355626220661772508",
+      "name": "pangkalahatang-chat",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 86,
+      "topic": null
+    },
+    {
+      "id": "1355626481367126026",
+      "name": "gabay-sa-laro",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 88,
+      "topic": null
+    },
+    {
+      "id": "1355626663576211527",
+      "name": "czat-ogólny",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 89,
+      "topic": null
+    },
+    {
+      "id": "1355626833931927754",
+      "name": "przewodnik-po-grze",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 92,
+      "topic": null
+    },
+    {
+      "id": "1355627119216033792",
+      "name": "bate-papo-geral",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 94,
+      "topic": null
+    },
+    {
+      "id": "1355627327370821703",
+      "name": "guia-do-jogo",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 96,
+      "topic": null
+    },
+    {
+      "id": "1355627760974037163",
+      "name": "bate-papo-geral",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 98,
+      "topic": null
+    },
+    {
+      "id": "1355628090243551331",
+      "name": "guia-do-jogo",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 100,
+      "topic": null
+    },
+    {
+      "id": "1355628273207345322",
+      "name": "общий-чат",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 101,
+      "topic": null
+    },
+    {
+      "id": "1355628524014272582",
+      "name": "руководство-по-игре",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 104,
+      "topic": null
+    },
+    {
+      "id": "1355628675319468304",
+      "name": "charla-general",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 105,
+      "topic": null
+    },
+    {
+      "id": "1355628872988758116",
+      "name": "guía-del-juego",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 106,
+      "topic": null
+    },
+    {
+      "id": "1355629411281666150",
+      "name": "allmän-chatt",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 107,
+      "topic": null
+    },
+    {
+      "id": "1355629622540111872",
+      "name": "spelguide",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 108,
+      "topic": null
+    },
+    {
+      "id": "1355629796507254794",
+      "name": "genel-sohbet",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 111,
+      "topic": null
+    },
+    {
+      "id": "1355629973964198158",
+      "name": "oyun-rehberi",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 112,
+      "topic": null
+    },
+    {
+      "id": "1355630588094320661",
+      "name": "🔸lets-count",
+      "type": 0,
+      "parent_id": "1437857872011726879",
+      "position": 36,
+      "topic": null
+    },
+    {
+      "id": "1355631357312635111",
+      "name": "game-guide",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 78,
+      "topic": null
+    },
+    {
+      "id": "1355631663366803586",
+      "name": "trò-chuyện-chung",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 113,
+      "topic": null
+    },
+    {
+      "id": "1355631764130889778",
+      "name": "hướng-dẫn-trò-chơi",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 114,
+      "topic": null
+    },
+    {
+      "id": "1355632527263404032",
+      "name": "การสนทนาทั่วไป",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 109,
+      "topic": null
+    },
+    {
+      "id": "1355632743764987945",
+      "name": "คู่มือเกม",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 110,
+      "topic": null
+    },
+    {
+      "id": "1356008444615983256",
+      "name": "🌎┊select-language",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 68,
+      "topic": null
+    },
+    {
+      "id": "1356020305448931560",
+      "name": "global-chat",
+      "type": 0,
+      "parent_id": "1355607635147362554",
+      "position": 69,
+      "topic": null
+    },
+    {
+      "id": "1356200054276493444",
+      "name": "🔸新人帮助",
+      "type": 15,
+      "parent_id": "1355090412821418119",
+      "position": 39,
+      "topic": "新玩家可以在这里发帖求助，老玩家也可在此发布适合新手玩家的攻略贴、前期游戏建议等内容，以帮助新玩家上手游戏~\n\n🎁我们会给热心帮助新玩家的守密人掉落**神秘奖励**哟~"
+    },
+    {
+      "id": "1356200968311803956",
+      "name": "🔸newcomer-help",
+      "type": 15,
+      "parent_id": "1355090412821418119",
+      "position": 42,
+      "topic": "New players can post here for help, and veteran players can also post strategy posts and early game suggestions for novice players to help new players get started with the game~\n\n🎁We will give **mysterious rewards** to the keepers who are enthusiastic about helping new players~"
+    },
+    {
+      "id": "1356538084828647546",
+      "name": "🔸翻译器教程┊translator-tutorial",
+      "type": 0,
+      "parent_id": null,
+      "position": 2,
+      "topic": null
+    },
+    {
+      "id": "1385040039448412170",
+      "name": "🔸频道建议┊server-suggestions",
+      "type": 0,
+      "parent_id": "1355086706163974316",
+      "position": 21,
+      "topic": null
+    },
+    {
+      "id": "1400749543288475770",
+      "name": "🔸team-building",
+      "type": 0,
+      "parent_id": "1433512102714413146",
+      "position": 27,
+      "topic": "You can discuss game team building related content here🫶 \n\nBefore speaking, please familiarize yourself with the channel rules. Any unfriendly behavior will be dealt with according to the rules. You can also @official staff-正式校工 to report any violations."
+    },
+    {
+      "id": "1400750050208125010",
+      "name": "🔸general-chat",
+      "type": 0,
+      "parent_id": "1433512102714413146",
+      "position": 25,
+      "topic": "You can discuss topics outside of Morimens here, such as life, weather, anime, food... according to your preferences, but please be mindful of speaking in a friendly manner❤️ \n\nBefore speaking, please familiarize yourself with the channel rules. Any unfriendly behavior will be dealt with according to the rules. You can also @official staff-正式校工 to report any violations."
+    },
+    {
+      "id": "1405837769212821554",
+      "name": "🔸邀请码互助┊swap-invitation-codes",
+      "type": 0,
+      "parent_id": "1355090412821418119",
+      "position": 40,
+      "topic": "「弥萨格入学邀约」活动互助群，大家可以在这里分享邀请码。\n活动详细介绍见下方链接。\n\n「Mythag Enrollment Invite」 activity mutual assistance group, where you can share invitation codes.\nActivity details are available below.\n🔗https://discord.com/channels/1131791637933199470/1405128568035606568\n\n⚠请不要在本频道用无意义内容刷屏\n⚠Please do not flood the screen with meaningless content on this channel"
+    },
+    {
+      "id": "1407293732310614109",
+      "name": "🌍community-interpreter",
+      "type": 0,
+      "parent_id": "1508074298236211270",
+      "position": 10,
+      "topic": null
+    },
+    {
+      "id": "1426837316533747823",
+      "name": "🐱light’s-nest",
+      "type": 0,
+      "parent_id": "1433512102714413146",
+      "position": 30,
+      "topic": "This channel is mainly for casual personal shares from producer Light. It’s neither an official announcement nor a formal dev log."
+    },
+    {
+      "id": "1433512102714413146",
+      "name": "🔵MORIMENS CHAT (ENGLISH)",
+      "type": 4,
+      "parent_id": null,
+      "position": 5,
+      "topic": ""
+    },
+    {
+      "id": "1433513650299076780",
+      "name": "🔸game-question",
+      "type": 0,
+      "parent_id": "1433512102714413146",
+      "position": 26,
+      "topic": "1. Stay 100% On-Topic\n\nThis channel is strictly for asking and answering game-related questions. Please take general discussions, memes, or other topics to their designated channels.\n\n2. Be Patient and Respectful\nOur community is here to help voluntarily. Be patient when waiting for a response, and treat everyone with respect. \n\n3. Follow Server-Wide Rules\n\nAll general server rules (no hate speech, no NSFW content, be respectful, etc.) are still in effect here.\n\n4. No Cheating or Piracy Discussions\nDo not ask for or share information about game hacks, cheats, exploits, or pirated content. These discussions are strictly prohibited across the entire server. \n\nConsequences: Messages that violate these rules may be removed, and repeat offenders could face timeouts or further moderation action."
+    },
+    {
+      "id": "1434416909822197872",
+      "name": "🔵语音聊天┊VOICE CHAT",
+      "type": 4,
+      "parent_id": null,
+      "position": 10,
+      "topic": ""
+    },
+    {
+      "id": "1434418887478476942",
+      "name": "🔸自助餐厅┊Cafeteria",
+      "type": 2,
+      "parent_id": "1434416909822197872",
+      "position": 0,
+      "topic": ""
+    },
+    {
+      "id": "1434419184992915508",
+      "name": "🔸图书馆┊Library",
+      "type": 2,
+      "parent_id": "1434416909822197872",
+      "position": 1,
+      "topic": ""
+    },
+    {
+      "id": "1434419541097844746",
+      "name": "🔸健身房┊Gymnasium",
+      "type": 2,
+      "parent_id": "1434416909822197872",
+      "position": 2,
+      "topic": ""
+    },
+    {
+      "id": "1434420255630950533",
+      "name": "🔸计算机实验室┊Computer Lab",
+      "type": 2,
+      "parent_id": "1434416909822197872",
+      "position": 3,
+      "topic": ""
+    },
+    {
+      "id": "1435483703114596503",
+      "name": "🔸忘却前夜┊morimens-tv",
+      "type": 0,
+      "parent_id": "1355149143739203624",
+      "position": 47,
+      "topic": null
+    },
+    {
+      "id": "1435487123250872371",
+      "name": "🔸游戏问题",
+      "type": 0,
+      "parent_id": "1355149654068691124",
+      "position": 51,
+      "topic": null
+    },
+    {
+      "id": "1435488403960631357",
+      "name": "🔸friend-request",
+      "type": 0,
+      "parent_id": "1437857872011726879",
+      "position": 35,
+      "topic": "This channel is dedicated to connecting with other members of our mobile gaming community! Please follow these simple rules to keep things organized and helpful for everyone:\n\nRules for Posting:\n\nBe Specific: Please clearly state your UID and give a screenshot of your Keepers Archive. You may access this by clicking your in-game avatar found in the top left of the main menu.\n\nNo Spamming: Only post your request once. Do not repeatedly paste your information.\n\nStay Relevant: This channel is strictly for friend requests. \n\nDo not post general chat, game results, or off-topic content here.\n\nBe Respectful: All server rules apply here. Be polite when adding others and interacting with posts."
+    },
+    {
+      "id": "1436097679653601340",
+      "name": "🔸两周年纪念反馈┊2yr-anniv-feedback",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 117,
+      "topic": null
+    },
+    {
+      "id": "1436576905401991329",
+      "name": "🎞️content-creator",
+      "type": 0,
+      "parent_id": null,
+      "position": 4,
+      "topic": null
+    },
+    {
+      "id": "1436766905628098632",
+      "name": "🔸游戏常见问题解答┊game-faq",
+      "type": 0,
+      "parent_id": "1355090412821418119",
+      "position": 37,
+      "topic": null
+    },
+    {
+      "id": "1436913827571695898",
+      "name": "🔸机器人命令┊bot-commands",
+      "type": 0,
+      "parent_id": "1437857872011726879",
+      "position": 33,
+      "topic": null
+    },
+    {
+      "id": "1437760064470646844",
+      "name": "🔸flex",
+      "type": 0,
+      "parent_id": "1437857872011726879",
+      "position": 34,
+      "topic": "This is your dedicated spot to show off your achievements, lucky pulls, and some bragging rights.\n\nWhat you can \"flex\" here:\n🏆 Achievements & Milestones: Hit a new rank? Finally beat that tough level? Let us know!\n\n💎 Gacha Pulls: Did you finally snag that ultra-rare character/item? Share your luck (or commiserate over a bad pull)!\n\n⚔️ Highlights & Screenshots: Post your best gameplay moments.\n\n🎉 Event Progress: Show off how far you've gotten in the current event.\n\nA couple of quick rules for the channel:\n\nBe respectful: Celebrate others' wins and be kind when they share their losses.\n\nKeep it clean: Follow all general <#1131837874078232597> \n\nNo spamming: Use this channel for sharing content, not constant chatter (we have designated channels for this)."
+    },
+    {
+      "id": "1437857872011726879",
+      "name": "🔵GRAVEYARD",
+      "type": 4,
+      "parent_id": null,
+      "position": 6,
+      "topic": ""
+    },
+    {
+      "id": "1440338135434268783",
+      "name": "📝audit-log",
+      "type": 0,
+      "parent_id": "1508074298236211270",
+      "position": 8,
+      "topic": null
+    },
+    {
+      "id": "1440851754311749733",
+      "name": "🔵MOD MAIL",
+      "type": 4,
+      "parent_id": null,
+      "position": 2,
+      "topic": ""
+    },
+    {
+      "id": "1440851755603722270",
+      "name": "✉️modmail-log",
+      "type": 0,
+      "parent_id": "1508074298236211270",
+      "position": 7,
+      "topic": null
+    },
+    {
+      "id": "1453650039493754981",
+      "name": "🎄圣诞限时活动┊christmas-activities",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 116,
+      "topic": null
+    },
+    {
+      "id": "1481134325033472060",
+      "name": "volunteer-onboarding",
+      "type": 0,
+      "parent_id": "1508074298236211270",
+      "position": 11,
+      "topic": null
+    },
+    {
+      "id": "1486019364682465372",
+      "name": "🔸erica-playground",
+      "type": 0,
+      "parent_id": "1511303613408870511",
+      "position": 115,
+      "topic": null
+    },
+    {
+      "id": "1491277200651980831",
+      "name": "📚mythag-research-group丨弥萨格课题组",
+      "type": 0,
+      "parent_id": "1508074298236211270",
+      "position": 9,
+      "topic": null
+    },
+    {
+      "id": "1495781942619144212",
+      "name": "N厨杯-N'sChefCup",
+      "type": 2,
+      "parent_id": "1355607635147362554",
+      "position": 4,
+      "topic": ""
+    },
+    {
+      "id": "1508073533979234324",
+      "name": "cases-repository",
+      "type": 15,
+      "parent_id": "1508074298236211270",
+      "position": 6,
+      "topic": "This repository will contain the info (screenshots, message links, reports etc) of users. To better share info, preserve proof and build cases for them.\nUse the Tags to indicate their statuses, and forward or link the logs after actions have been taken."
+    },
+    {
+      "id": "1508074298236211270",
+      "name": "📌 Mod Team",
+      "type": 4,
+      "parent_id": null,
+      "position": 1,
+      "topic": ""
+    },
+    {
+      "id": "1508175196928999584",
+      "name": "🚫auto-ban-channel",
+      "type": 0,
+      "parent_id": null,
+      "position": 1,
+      "topic": "**WARNING, DON'T POST IMAGES IN THIS CHANNEL OR YOU WILL BE AUTOMATICALLY BANNED.\nTHIS IS AN ANTI-SPAM CHANNEL**"
+    },
+    {
+      "id": "1509389887080632330",
+      "name": "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives",
+      "type": 0,
+      "parent_id": "1131791637933199471",
+      "position": 20,
+      "topic": null
+    },
+    {
+      "id": "1511303613408870511",
+      "name": "💾 尘封回忆丨Sealed Memories",
+      "type": 4,
+      "parent_id": null,
+      "position": 13,
+      "topic": ""
+    },
+    {
+      "id": "1514971342632386640",
+      "name": "F.R.K.",
+      "type": 2,
+      "parent_id": "1355607635147362554",
+      "position": 5,
+      "topic": ""
+    }
+  ]
+}

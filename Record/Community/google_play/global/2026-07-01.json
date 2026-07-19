@@ -1,0 +1,51 @@
+{
+  "date": "2026-07-01",
+  "archived_at": "2026-07-19T08:15:28.032965+00:00",
+  "source": "google_play",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 great game,and the collabs?perfect,i lov",
+      "summary": "great game,and the collabs?perfect,i love saya no uta.really deserve more attention.Good work and keep improving",
+      "source": "google_play",
+      "time": "2026-06-30T19:30:16",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-87b4ee78-c611-4707-8682-63e17401920c",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Akmal",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 this game is way too good, its totally d",
+      "summary": "this game is way too good, its totally different from all the usual gacha games! the story is actually different and unique and i really love it. gameplay: 8.9/10 characters: 10/10 voice acting: 10/10 story: 10/10 optimization pc: 10/10 optimization mobile: 7.5/10 overall a very good game.",
+      "source": "google_play",
+      "time": "2026-07-01T15:50:38",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-b3e4a24f-856e-48d0-8ea8-9c5022ce7c6b",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "chibu squish",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 peak game",
+      "summary": "peak game",
+      "source": "google_play",
+      "time": "2026-07-01T09:29:20",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=fr#gp-3029aa0d-5b35-4d8e-bea3-124f6105ae6a",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Hamza",
+      "tags": [],
+      "lang": "fr",
+      "platform_region": "fr",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

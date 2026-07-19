@@ -1,0 +1,37 @@
+{
+  "date": "2024-11-24",
+  "archived_at": "2026-07-19T08:15:27.894967+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 好遊都倒的話，大概率這世上都沒甚麼值得留下，乾脆讓上帝倒翻整支融蝕得了",
+      "summary": "好遊都倒的話，大概率這世上都沒甚麼值得留下，乾脆讓上帝倒翻整支融蝕得了",
+      "source": "google_play",
+      "time": "2024-11-24T05:57:30",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_TW#gp-a24777f2-00a2-4189-85b5-d8b31ceed0c2",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Marmot Ginga",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 好遊都倒的話，大概率這世上都沒甚麼值得留下，乾脆讓上帝倒翻整支融蝕得了",
+      "summary": "好遊都倒的話，大概率這世上都沒甚麼值得留下，乾脆讓上帝倒翻整支融蝕得了",
+      "source": "google_play",
+      "time": "2024-11-24T05:57:30",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_HK#gp-a24777f2-00a2-4189-85b5-d8b31ceed0c2",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Marmot Ginga",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

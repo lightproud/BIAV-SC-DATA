@@ -1,0 +1,37 @@
+{
+  "date": "2025-04-11",
+  "archived_at": "2026-07-19T08:15:27.909250+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 Très bon jeu et c'est original, une peti",
+      "summary": "Très bon jeu et c'est original, une petite pépite",
+      "source": "google_play",
+      "time": "2025-04-10T22:49:14",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=fr#gp-26709fd9-cd58-436a-ae0d-4520f47c1026",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Aupetit Anthony",
+      "tags": [],
+      "lang": "fr",
+      "platform_region": "fr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Game hay",
+      "summary": "Game hay",
+      "source": "google_play",
+      "time": "2025-04-11T12:14:27",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=vi#gp-85d96d7e-a22a-41b4-97e3-a70fb66c51c7",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Phuoc Thuan",
+      "tags": [],
+      "lang": "vi",
+      "platform_region": "vn",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}
