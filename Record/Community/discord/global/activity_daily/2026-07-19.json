@@ -1,41 +1,44 @@
 {
   "date": "2026-07-19",
-  "messages": 3724,
+  "messages": 6030,
   "unique_authors": 181,
-  "reactions_total": 276,
-  "attachments": 234,
+  "reactions_total": 514,
+  "attachments": 319,
   "channel_activity": {
-    "🔸綜合討論": 843,
-    "🔸剧情交流": 15,
-    "🔸相位对弈": 10,
-    "🔸课间休息闲聊": 91,
+    "🔸綜合討論": 1431,
+    "🔸阵容构建": 6,
+    "🔸剧情交流": 19,
+    "🔸相位对弈": 13,
+    "🔸课间休息闲聊": 95,
+    "🔸한국어-채팅방": 15,
+    "🔸deutscher-chatraum": 42,
+    "🔸русский-канал": 62,
+    "🔸phòng-chat-tiếng-việt": 432,
+    "🔸canal-español": 20,
+    "🔸canal-português": 328,
+    "🔸ruang-obrolan-indonesia": 392,
+    "🔸ห้องสนทนาภาษาไทย": 251,
+    "🔸lore-chat": 90,
+    "🔸lets-count": 12,
+    "🔸team-building": 176,
+    "🔸邀请码互助┊swap-invitation-codes": 6,
+    "🔸game-question": 2508,
+    "🔸机器人命令┊bot-commands": 43,
+    "Ryker": 1,
+    "V2.5.1.0 停服维护公告": 16,
+    "Winkle ☕": 4,
+    "Nefraea + Arachne Posting (Weekly)": 4,
+    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 2,
+    "Is Miryam still meta?": 10,
     "🔸日本語チャンネル": 2,
-    "🔸deutscher-chatraum": 26,
     "🔸chaîne-française": 4,
-    "🔸русский-канал": 55,
-    "🔸phòng-chat-tiếng-việt": 228,
-    "🔸canal-português": 23,
-    "🔸ruang-obrolan-indonesia": 245,
-    "🔸ห้องสนทนาภาษาไทย": 110,
     "🔸traphase": 11,
-    "🔸lore-chat": 34,
-    "🔸lets-count": 9,
-    "🔸team-building": 156,
-    "🔸邀请码互助┊swap-invitation-codes": 5,
-    "🔸game-question": 1739,
-    "🔸机器人命令┊bot-commands": 33,
     "相位私密午歇時間與蘿坦機制": 2,
     "寻找成就": 2,
     "Please rework how Propagation Caro works for the future units": 2,
-    "V2.5.1.0 停服维护公告": 11,
-    "Winkle ☕": 3,
     "jollibee thais": 6,
     "How exalting on Tawil feels like": 2,
     "V2.5.2 全新唤醒体✦庞托斯┊New Awakener✦Pontos┊신규 각성체✦폰토스": 1,
-    "Is Miryam still meta?": 9,
-    "🔸阵容构建": 1,
-    "🔸한국어-채팅방": 13,
-    "🔸canal-español": 13,
     "🔸忘却前夜┊morimens-tv": 1,
     "打算開一個圖樓可能圖之後就丟這裡了": 1,
     "由烏哈希的覺醒無法解當下的封印": 3,
@@ -49,11 +52,16 @@
     "1528249757821304942": 1
   },
   "hourly_activity": {
+    "13": 308,
+    "14": 526,
+    "15": 584,
+    "16": 479,
+    "17": 546,
+    "18": 84,
     "9": 206,
     "10": 270,
     "11": 105,
     "12": 366,
-    "13": 221,
     "0": 183,
     "1": 213,
     "2": 236,
@@ -65,11 +73,19 @@
     "8": 250
   },
   "message_types": {
-    "19": 249,
-    "0": 901,
-    "20": 8
+    "0": 1700,
+    "19": 601,
+    "20": 5
   },
   "top_reacted_messages": [
+    {
+      "id": "1528402733223121099",
+      "channel_id": "1131839817982947429",
+      "content": "大佬可以帶帶我嗎",
+      "author": "water_heart",
+      "reactions": 13,
+      "channel": "🔸綜合討論"
+    },
     {
       "id": "1528378990258163752",
       "channel_id": "1131839817982947429",
@@ -87,11 +103,83 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1528449542167728199",
+      "channel_id": "1131839817982947429",
+      "content": "我上輩子怕是不止不簽聯絡簿，還把別人的聯絡簿燒了吧",
+      "author": "arachnids_nacha",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528450108402958487",
+      "channel_id": "1131839817982947429",
+      "content": "明天如果不是混沌戒指我就當群友飛機杯；如果明天是混沌戒指我就當群友肉便器",
+      "author": "yi000607",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528404850054791350",
+      "channel_id": "1131839817982947429",
+      "content": "返了十五萬銀芯",
+      "author": "yusi4172",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528411686661259335",
+      "channel_id": "1131839817982947429",
+      "content": "我還想吃屎…… 越吃越香",
+      "author": "yi000607",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528414530760343712",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "nemu_s_t_a_r",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528426564167929997",
+      "channel_id": "1131839817982947429",
+      "content": "坐牢结束",
+      "author": "ponponnyaru",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528450983569395824",
+      "channel_id": "1131839817982947429",
+      "content": "好\n# 抽卡台！",
+      "author": "yusi4172",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
       "id": "1528306933138849873",
       "channel_id": "1131839817982947429",
       "content": "吼吼吼到了",
       "author": "encyoverride",
       "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528427689067942018",
+      "channel_id": "1131839817982947429",
+      "content": "虽然我上上个星期和这个星期也是这么说()",
+      "author": "kemomimi_",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528428149564506202",
+      "channel_id": "1131839817982947429",
+      "content": "我",
+      "author": "ahuahuahua",
+      "reactions": 5,
       "channel": "🔸綜合討論"
     },
     {
@@ -111,123 +199,43 @@
       "channel": "Winkle ☕"
     },
     {
-      "id": "1528342827975835689",
-      "channel_id": "1131839817982947429",
-      "content": "沒那麼簡單",
-      "author": "souri.10244",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528344112917643406",
-      "channel_id": "1131839817982947429",
-      "content": "第一次聽到阿遙這麼失心瘋的高分貝尖叫",
-      "author": "souri.10244",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528375551457493022",
-      "channel_id": "1131839817982947429",
-      "content": "怎麼不是大水母男守",
-      "author": "heikwok",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528329263596699810",
-      "channel_id": "1300659603993923644",
-      "content": "<@474412169249947669> con chó này nó scale kinh quá cắn của em mất 3 cái dr:)))",
-      "author": "hoangziet.",
-      "reactions": 4,
-      "channel": "🔸phòng-chat-tiếng-việt"
-    },
-    {
-      "id": "1528308696466194593",
-      "channel_id": "1131839817982947429",
-      "content": "100萬觸發",
-      "author": "roselia_millsage_avemujica",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528280420192485396",
-      "channel_id": "1528280420192485396",
-      "content": "如題\n油汙的覺醒描述是不受封印影響,正常而言是被封印的當下使用能夠將封印解開並且能夠使用狂氣\n\n但你們上次修完夢遊後直接讓他沒法當回合直接解掉\n\n\n麻煩修回去\n",
-      "author": "foxcatfurry",
-      "reactions": 4,
-      "channel": "由烏哈希的覺醒無法解當下的封印"
-    },
-    {
-      "id": "1528334502521340015",
+      "id": "1528396515205316619",
       "channel_id": "1131839817982947429",
       "content": "",
       "author": "water_heart",
-      "reactions": 3,
+      "reactions": 4,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1528335271287066657",
+      "id": "1528405308009877685",
       "channel_id": "1131839817982947429",
-      "content": "C過癲狂列車的列表",
-      "author": "water_heart",
-      "reactions": 3,
+      "content": "¿",
+      "author": "yusi4172",
+      "reactions": 4,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1528342072019521536",
+      "id": "1528410138854035586",
       "channel_id": "1131839817982947429",
-      "content": "還有…15小時…融災結算…",
-      "author": "a_wei3797",
-      "reactions": 3,
+      "content": "擊敗我怎麼會記得我已經存進去的東西",
+      "author": "yusi4172",
+      "reactions": 4,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1528343870063251486",
+      "id": "1528412321787936919",
       "channel_id": "1131839817982947429",
-      "content": "阿遙的圖",
-      "author": "souri.10244",
-      "reactions": 3,
+      "content": "<:Brown_think:1459080117308620996>",
+      "author": "yusi4172",
+      "reactions": 4,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1528348710306709514",
+      "id": "1528417659887026227",
       "channel_id": "1131839817982947429",
-      "content": "僅限星空",
-      "author": "roselia_millsage_avemujica",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528349048858480700",
-      "channel_id": "1131839817982947429",
-      "content": "撕我幣",
-      "author": "roselia_millsage_avemujica",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528379935108894760",
-      "channel_id": "1131839817982947429",
-      "content": "应该花了最少40小时",
-      "author": "angbak",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528382938243272825",
-      "channel_id": "1131839817982947429",
-      "content": "我不到950就400了",
-      "author": "akkom730",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528303428260859945",
-      "channel_id": "1131839817982947429",
-      "content": "~~虽然她是我妈，但我觉得他这人有一点邪恶罢了~~<:Helot_slack_off:1459092159465521184>",
-      "author": "hanzhishi._46481",
-      "reactions": 3,
+      "content": "剩我不是骨灰了...",
+      "author": "yusi4172",
+      "reactions": 4,
       "channel": "🔸綜合討論"
     }
   ]

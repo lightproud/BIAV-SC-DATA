@@ -1,10 +1,11 @@
 {
   "date": "2026-06-03",
-  "messages": 27949,
+  "messages": 28337,
   "unique_authors": 484,
-  "reactions_total": 2538,
-  "attachments": 1552,
+  "reactions_total": 2581,
+  "attachments": 1573,
   "channel_activity": {
+    "🔸morimens-game-chat": 388,
     "🔸general-chat": 3772,
     "🔸game-question": 5236,
     "🔸綜合討論": 4653,
@@ -102,6 +103,7 @@
     "1511733337088196628": 6
   },
   "hourly_activity": {
+    "0": 838,
     "16": 1596,
     "17": 1020,
     "18": 751,
@@ -110,7 +112,6 @@
     "21": 991,
     "22": 707,
     "23": 424,
-    "0": 450,
     "1": 772,
     "2": 1160,
     "3": 901,
@@ -128,8 +129,8 @@
     "15": 1945
   },
   "message_types": {
-    "0": 768,
-    "19": 248
+    "0": 264,
+    "19": 124
   },
   "top_reacted_messages": [
     {
