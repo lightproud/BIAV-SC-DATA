@@ -1,11 +1,11 @@
 {
   "date": "2026-07-18",
-  "messages": 7602,
+  "messages": 10182,
   "unique_authors": 276,
-  "reactions_total": 969,
-  "attachments": 372,
+  "reactions_total": 1107,
+  "attachments": 490,
   "channel_activity": {
-    "🔸general-chat": 990,
+    "🔸general-chat": 3570,
     "🔸綜合討論": 2548,
     "🔸剧情交流": 91,
     "🔸课间休息闲聊": 124,
@@ -61,35 +61,35 @@
     "1527829790118121614": 1
   },
   "hourly_activity": {
+    "5": 955,
+    "6": 734,
+    "7": 135,
+    "8": 224,
+    "9": 374,
+    "10": 141,
+    "11": 275,
+    "12": 617,
+    "13": 555,
+    "14": 747,
+    "15": 574,
+    "16": 524,
+    "17": 292,
+    "18": 333,
+    "19": 242,
+    "20": 295,
+    "21": 116,
+    "22": 176,
+    "23": 502,
     "0": 395,
     "1": 302,
     "2": 555,
     "3": 455,
-    "4": 664,
-    "5": 528,
-    "8": 164,
-    "9": 201,
-    "10": 123,
-    "11": 177,
-    "12": 537,
-    "13": 403,
-    "14": 665,
-    "15": 521,
-    "16": 273,
-    "17": 265,
-    "18": 226,
-    "19": 221,
-    "21": 77,
-    "22": 41,
-    "23": 60,
-    "20": 252,
-    "6": 392,
-    "7": 105
+    "4": 664
   },
   "message_types": {
-    "0": 669,
-    "19": 318,
-    "20": 3
+    "19": 864,
+    "0": 1715,
+    "20": 1
   },
   "top_reacted_messages": [
     {
@@ -99,6 +99,14 @@
       "author": "roselia_millsage_avemujica",
       "reactions": 11,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1527978659825188964",
+      "channel_id": "1400750050208125010",
+      "content": "Chibi corpo wishes you all an amazing day!",
+      "author": "thekeeper.777",
+      "reactions": 10,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1527884557146259557",
@@ -229,28 +237,20 @@
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1528036165561618532",
-      "channel_id": "1131839817982947429",
-      "content": "~~我的帳號好熱門~~",
-      "author": "yusi4172",
+      "id": "1527909517499699230",
+      "channel_id": "1400750050208125010",
+      "content": "LMAO suddenly im a cultivation master",
+      "author": "eury_illia",
       "reactions": 5,
-      "channel": "🔸綜合討論"
+      "channel": "🔸general-chat"
     },
     {
-      "id": "1528051168016597114",
-      "channel_id": "1131839817982947429",
-      "content": "他剛剛語音說感覺吃了會降智",
-      "author": "souri.10244",
+      "id": "1528079845349916743",
+      "channel_id": "1400750050208125010",
+      "content": "Tawil aura farm moment (I just HAD to make it or ill combust)",
+      "author": "cooked_chicken99",
       "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528077142586294332",
-      "channel_id": "1131839817982947429",
-      "content": "那我去抽了",
-      "author": "ahuahuahua",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
+      "channel": "🔸general-chat"
     }
   ]
 }

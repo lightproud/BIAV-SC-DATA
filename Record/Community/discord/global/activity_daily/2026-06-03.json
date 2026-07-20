@@ -1,11 +1,11 @@
 {
   "date": "2026-06-03",
-  "messages": 28337,
+  "messages": 33337,
   "unique_authors": 484,
-  "reactions_total": 2581,
-  "attachments": 1573,
+  "reactions_total": 3207,
+  "attachments": 1796,
   "channel_activity": {
-    "🔸morimens-game-chat": 388,
+    "🔸morimens-game-chat": 5388,
     "🔸general-chat": 3772,
     "🔸game-question": 5236,
     "🔸綜合討論": 4653,
@@ -103,7 +103,18 @@
     "1511733337088196628": 6
   },
   "hourly_activity": {
-    "0": 838,
+    "0": 969,
+    "1": 1295,
+    "2": 1814,
+    "3": 1287,
+    "4": 2083,
+    "5": 2409,
+    "6": 1679,
+    "7": 1797,
+    "8": 1622,
+    "9": 1866,
+    "10": 1213,
+    "11": 1474,
     "16": 1596,
     "17": 1020,
     "18": 751,
@@ -112,27 +123,24 @@
     "21": 991,
     "22": 707,
     "23": 424,
-    "1": 772,
-    "2": 1160,
-    "3": 901,
-    "4": 1463,
-    "5": 1894,
-    "6": 1440,
-    "7": 1409,
-    "8": 1212,
-    "9": 1220,
-    "10": 834,
-    "11": 1365,
     "12": 1444,
     "13": 1498,
     "14": 1383,
     "15": 1945
   },
   "message_types": {
-    "0": 264,
-    "19": 124
+    "0": 3059,
+    "19": 1941
   },
   "top_reacted_messages": [
+    {
+      "id": "1511659613798400033",
+      "channel_id": "1170692781216378960",
+      "content": "Truly the internet shouldn't be accessible by kids",
+      "author": "crowlov1",
+      "reactions": 19,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1511696870186156042",
       "channel_id": "1300659753197764688",
@@ -156,6 +164,14 @@
       "author": "_venush",
       "reactions": 17,
       "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1511639849613135982",
+      "channel_id": "1170692781216378960",
+      "content": "ok kaleido is not it",
+      "author": "zapffuchino",
+      "reactions": 15,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1511661686610726932",
@@ -246,6 +262,22 @@
       "channel": "🔸lore-chat"
     },
     {
+      "id": "1511643852782440448",
+      "channel_id": "1170692781216378960",
+      "content": "well they and everyone else really wanted slay the spire but <:Caecus_prayer:145",
+      "author": "reya.li",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1511659912307015781",
+      "channel_id": "1170692781216378960",
+      "content": "parents should parent again instead of handing their crotch goblin an ipad",
+      "author": "drmachineheart",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1511599113580445806",
       "channel_id": "1131839817982947429",
       "content": "超高校級的草貓高手",
@@ -259,38 +291,6 @@
       "content": "我只能说我有个朋友老年痴呆只会阿巴阿巴玩了茉夏后天天喊shining tornado",
       "author": "gensono0609",
       "reactions": 9,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1511554967792648202",
-      "channel_id": "1174983699935277147",
-      "content": "why................................. B.I.A.V. why!!!!!!!!!!!!!!!!!!!!",
-      "author": "blackdonut5182",
-      "reactions": 9,
-      "channel": "🔸晒卡分享"
-    },
-    {
-      "id": "1511729760479481896",
-      "channel_id": "1300659603993923644",
-      "content": "[Frog_pepeCC_worry](https://cdn.discordapp.com/emojis/1258034077802561607.webp?s",
-      "author": "bluehuong",
-      "reactions": 9,
-      "channel": "🔸phòng-chat-tiếng-việt"
-    },
-    {
-      "id": "1511588104971096155",
-      "channel_id": "1131839817982947429",
-      "content": "然后在网络上压抑",
-      "author": "gensono0609",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1511601202436116623",
-      "channel_id": "1131839817982947429",
-      "content": "不知道我改淫蕩小女孩會不會被消失🤔",
-      "author": "yi000607",
-      "reactions": 8,
       "channel": "🔸綜合討論"
     }
   ]

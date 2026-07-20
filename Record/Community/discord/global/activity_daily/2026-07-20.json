@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-20",
+  "messages": 3787,
+  "unique_authors": 285,
+  "reactions_total": 690,
+  "attachments": 183,
+  "channel_activity": {
+    "🔸綜合討論": 1057,
+    "🔸阵容构建": 3,
+    "🔸晒卡分享": 4,
+    "🔸相位对弈": 1,
+    "🔸课间休息闲聊": 19,
+    "🔸日本語チャンネル": 2,
+    "🔸한국어-채팅방": 7,
+    "🔸deutscher-chatraum": 1,
+    "🔸chaîne-française": 8,
+    "🔸русский-канал": 49,
+    "🔸phòng-chat-tiếng-việt": 307,
+    "🔸canal-español": 28,
+    "🔸canal-português": 4,
+    "🔸ruang-obrolan-indonesia": 197,
+    "🔸ห้องสนทนาภาษาไทย": 489,
+    "🔸traphase": 11,
+    "🔸lore-chat": 462,
+    "🔸lets-count": 5,
+    "🔸team-building": 266,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "🔸game-question": 700,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 24,
+    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 1,
+    "融災數值": 2,
+    "Use English translation as basis for ai Russian translation": 2,
+    "✅「Answered」Cropped image bug": 2,
+    "💭「Processing」Game freeze upon finishing an event story": 1,
+    "Please rework how Propagation Caro works for the future units": 1,
+    "V2.5.1.0 停服维护公告": 3,
+    "Nefraea + Arachne Posting (Weekly)": 4,
+    "Complete Team Builder and Unit Database Resource": 2,
+    "V2.5.3 全新唤醒体✦蚀灭·萝坦┊New Awakener✦Lotan: Cetarchon┊신규 각성체✦침식·로탄": 101,
+    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 7,
+    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1,
+    "求個融災組隊希望能打330-350": 2,
+    "回鍋想問陣容組成": 1,
+    "Is Miryam still meta?": 2,
+    "Help Needed to procced into Act 2": 1,
+    "【Newcomer Help】Forum Introduction": 3,
+    "1528676738924544100": 1
+  },
+  "hourly_activity": {
+    "0": 64,
+    "1": 275,
+    "2": 205,
+    "3": 199,
+    "4": 251,
+    "5": 368,
+    "6": 207,
+    "7": 850,
+    "8": 980,
+    "9": 388
+  },
+  "message_types": {
+    "0": 2986,
+    "19": 783,
+    "20": 16,
+    "4": 1,
+    "21": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1528663166601531514",
+      "channel_id": "1528663166601531514",
+      "content": "**V2.5.3 全新唤醒体✦蚀灭·萝坦**\n\n「想挑战我？我欣赏你的勇气，也愿意给予你被打败的荣幸。」\n「来吧，向我证明，你是依靠着怎样的力量与渴望，站在我的",
+      "author": "morimensstaff06",
+      "reactions": 82,
+      "channel": "V2.5.3 全新唤醒体✦蚀灭·萝坦┊New Awakener✦Lotan: Cetarchon┊신규 각성체✦침식·로탄"
+    },
+    {
+      "id": "1528581546955505745",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "yi000607",
+      "reactions": 11,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528627048875163698",
+      "channel_id": "1131839817982947429",
+      "content": "~~高潮前夜~~",
+      "author": "yi000607",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528615880853028865",
+      "channel_id": "1528615880853028865",
+      "content": "這次第五波羊媽的血量比上次多了三成",
+      "author": "ahuahuahua",
+      "reactions": 10,
+      "channel": "融災數值"
+    },
+    {
+      "id": "1528613450777886790",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "akalanden",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528681255485313054",
+      "channel_id": "1131839817982947429",
+      "content": "叫萝体好了啦😾",
+      "author": "ka_0414",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528593636625879150",
+      "channel_id": "1131839817982947429",
+      "content": "这次还挺简单的，一个小时就打完了（",
+      "author": "xyakoto",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528639292069642310",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "0.0._.0_0.",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528648609405468742",
+      "channel_id": "1131839817982947429",
+      "content": "那我在此收回支持忘卻一切言論",
+      "author": "nemu_s_t_a_r",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528681900716195910",
+      "channel_id": "1131839817982947429",
+      "content": "这是第五界域，神（人）域",
+      "author": "gensono0609",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528629115752546415",
+      "channel_id": "1131839817982947429",
+      "content": "只剩我是純潔的...",
+      "author": "arr5721",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528666745571774474",
+      "channel_id": "1131839817982947429",
+      "content": "第一天必拿下超限",
+      "author": "ponponnyaru",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528681055236784280",
+      "channel_id": "1131839817982947429",
+      "content": "C萝(？)",
+      "author": "ka_0414",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528626023762231337",
+      "channel_id": "1131839817982947429",
+      "content": "肛……",
+      "author": "yi000607",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528626704787181693",
+      "channel_id": "1131839817982947429",
+      "content": "我知道 我可是+36神父玩家",
+      "author": "yi000607",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528658058526589041",
+      "channel_id": "1131839817982947429",
+      "content": "艾爾瓦C",
+      "author": "0.0._.0_0.",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528666308588081152",
+      "channel_id": "1131839817982947429",
+      "content": "https://discord.com/channels/1131791637933199470/1523403691636555807 風格跟我想像差不多，除",
+      "author": "heikwok",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528668510471983215",
+      "channel_id": "1131839817982947429",
+      "content": "血希同款在自家劇情被迫害嗎😡 \n但很可惜不是血肉",
+      "author": "heikwok",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528669454744158260",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528678766208090122",
+      "channel_id": "1131839817982947429",
+      "content": "神混子",
+      "author": "navirecorbeau",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}
