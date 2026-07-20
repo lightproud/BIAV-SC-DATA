@@ -1,8 +1,8 @@
 {
   "date": "2026-07-20",
-  "archived_at": "2026-07-20T16:25:49.349853+00:00",
+  "archived_at": "2026-07-20T19:44:04.752541+00:00",
   "source": "bilibili",
-  "item_count": 17,
+  "item_count": 18,
   "items": [
     {
       "title": "【忘却前夜】7.20-8.4容灾攻略",
@@ -230,6 +230,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/9d9e6a5cd63d8ba2d58c49124ae7e8aad0b362a8.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "7.20~8.2  融灾425",
+      "summary": "今天依旧美美得吃425\n  └ 弓米粥米粥 (0赞): 鸟弟道中根本打不过",
+      "source": "bilibili",
+      "time": "2026-07-20T14:03:31+00:00",
+      "url": "https://www.bilibili.com/video/BV1NVKp6sEhy",
+      "engagement": 131,
+      "is_hot": false,
+      "author": "静寂夏至",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 130,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/b9f8253c29b84bf5e89854ef0dff3088f61473c5.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

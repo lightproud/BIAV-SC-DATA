@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-21",
+  "archived_at": "2026-07-20T19:44:04.868863+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[正面] 仅我个人而言美术画风很戳我，玩法也还行感觉养不好角色会很牢，抽角色池爆率也太高了吧我去",
+      "summary": "仅我个人而言美术画风很戳我，玩法也还行感觉养不好角色会很牢，抽角色池爆率也太高了吧我去",
+      "source": "steam_review",
+      "time": "2026-07-20T17:42:44+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198693506928/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198693506928",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 154,
+        "votes_up": 0,
+        "timestamp_created": 1784569364
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 永远铭记7/21日，25抽5个金",
+      "summary": "永远铭记7/21日，25抽5个金",
+      "source": "steam_review",
+      "time": "2026-07-20T17:37:04+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199267417258/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199267417258",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 7311,
+        "votes_up": 0,
+        "timestamp_created": 1784569024
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
