@@ -1,9 +1,124 @@
 {
   "date": "2026-07-19",
-  "archived_at": "2026-07-19T08:15:27.843042+00:00",
+  "archived_at": "2026-07-20T06:18:49.031758+00:00",
   "source": "bilibili",
-  "item_count": 5,
+  "item_count": 16,
   "items": [
+    {
+      "title": "［相位］简单轻松水母队",
+      "summary": "-\n  └ 魅影之夢幻 (2赞): 老大，问下有多个红茶的局吗。我记得有些技能还是啥的理论上钥令这玩意能复制[doge]\n  └ 东方云心 (1赞): [星绘·沐春灼华 应援装扮_铸币大头]\n  └ 熬夜秃顶腋毛依旧旺盛 (1赞): 对面这个阵容最近遇到必输😭😭我大福袋队控还是太少了，完全限制不住",
+      "source": "bilibili",
+      "time": "2026-07-19T08:40:09+00:00",
+      "url": "https://www.bilibili.com/video/BV1DVK667EEs",
+      "engagement": 732,
+      "is_hot": true,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 719,
+        "comment_count": 13,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/e25be4264c8e6063481200eade95c8c804e05c96.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜科研向】灵感大王·入药回溯时计火枪hml，算力、过牌、力量多到怎么都用不完！",
+      "summary": "-\n  └ 嘎啦嘎啦果 (8赞): 队伍核心是普娜和入药回溯时计哈姆林以及重逢心愿钥令，最好能带一张+2手牌上限的命轮，另外两个角色是可以替换的，这里只是演示一下怎么刷牌、刷灵感。\n\n这个队没有稳定虚弱，生存稍微差一点，适合打3-5落地战的多段boss。\n\n下面把哈姆林能生成灵感的3费叫灵3，打伤害的叫伤3，衍生牌上行音叫+2，下行音叫-2。诺缔拉叫ndl，凯刻斯叫kks，哈姆林叫hml，普娜叫lmn。\n\nndl的自充极差，最好能带自动回狂的命轮。\n\nkks最好+12，至少+4，暴击尽量堆高，密契用红悸最好，想要生存可以换成双子白（先出kks的防御，还可以把hml的灵3给卡成强行打出），其他密契不推荐，因为这个队走的不是一波流。sr命轮推荐使用hml的sr，有自充还有暴击率。\n\n核心手法：\n1觉hml，前期先用+2使得hml的灵3生成大量灵感，再通过重逢心愿把灵3拉回来，继续生成灵感。所有有保留的牌和lmn的3费先扣着不打，从而压缩第二轮的抽牌库。\n先过完第一轮牌库，不停地洗灵感，途中把其打防牌出了，把整个队伍的状态都做满。\n看情况可以适当出hml的伤3，赌能出虚弱易伤和偷力，甚至可以用-2来保证生存。\n当然也可以适当出lmn的3费，因为她的3费有大量的临时精通，如果再配合重逢心愿，能让静海盾变得非常非常厚。\n每轮结束之前尽量把抽牌库过到尽量只剩5张（反正最好别少于5张），以及把银钥能量给做满，这样才能使得下一回合又能把灵3拉回来继续洗灵感。\n\n爆发手法：\n以kks的3费为例。\n假设提前留了大量灵感，算力多到用不完。\n上一回合的抽牌库正好只剩5张。\n手牌上有3张hml的衍生牌，1张kks的3费。\n爆发回合，先把被hml大招上过buff的3费打出去，生效2次，消耗1费。\n再让lmn把kks的3费拉回来，使用+2，生效2次，消耗0费。\n重逢心愿再把kks的3费拉回来，使用+2，生效2次，消耗5费。\n这里共计消耗6费，生效6次。\n如果我们通过灵感又把牌库过穿到第二轮，正好又捞到了kks的3费。使用+2，生效2次，消耗5费。\n最后的理想情况是一共消耗11费，生效8次。如果算力不够，\n那么也是消耗7费，生效7次。\n哪怕对付单段boss也绰绰有余了，而且还有个5倍固伤的诺缔拉。\n  └ 凌厉彼岸 (0赞): [打call][打call][打call][打call]",
+      "source": "bilibili",
+      "time": "2026-07-19T14:24:50+00:00",
+      "url": "https://www.bilibili.com/video/BV1e4Kr6tESw",
+      "engagement": 496,
+      "is_hot": true,
+      "author": "嘎啦嘎啦果",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 494,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 1
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/e26f2be04e5380c043abb411cd61cb9f85970c85.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【mygo/沙耶の唄】假如千早爱音其实是...？ #0.5",
+      "summary": "本二创基于动画《BanG Dream! It‘s MyGO!!!!!》《BanG Dream! Ave Mujica》及游戏《沙耶の唄》进行创作，所有内容均为虚构，不涉及和反映任何现实内容，请勿过度解读。\n一定程度上脱离原著设定，OOC（Out Of Character）致歉！\n如使用素材（疑似）存在授权问题，请务必及时告知，感谢！！\n制作使用工具：\nWebGAL – 邻家码农真昼酱\nWebGAL MyGO专版 – 文韬_武略\n部分灵感来源：\n哔哩哔哩 【mygo!!!!!X沙耶の唄】假如千早爱音出了车祸\n  └ 极电民 (3赞): 应该会来个多结局吧！，某一个结局应该会不再吃药选择遵从那个声音，让这个世界变成不再需要吃药的那种形状，最后自己的眼里是正常的\n·\n特别是这些C团的人聚集起来会说些啥问题，会觉得自己错了吗？会觉得自己是不是背叛了她？\n  └ 软糯卡基咪 (1赞): [Mygo表情包_Love][Mygo表情包_Love][Mygo表情包_Love][Mygo表情包_Love][Mygo表情包_Love][Mygo表情包_Love][Mygo表情包_Love]\n  └ 哈哈哈哈-哈之都 (1赞): 我喜欢你",
+      "source": "bilibili",
+      "time": "2026-07-19T10:09:55+00:00",
+      "url": "https://www.bilibili.com/video/BV1o7Kz6RE55",
+      "engagement": 305,
+      "is_hot": true,
+      "author": "冰山风雪",
+      "tags": [
+        "音游"
+      ],
+      "metadata": {
+        "play": 300,
+        "comment_count": 5,
+        "comments_fetched": 3,
+        "danmaku": 1
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/15082b49393b0c5915eb827955cc76dda361b52e.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【沙耶之歌】只是块肉而已",
+      "summary": "-\n  └ -昆扬 (0赞): [魔法少女的魔女审判表情包_探头]\n  └ 主播你好菜啊 (0赞): 小美女[星星眼]\n  └ 哈基沙大玉 (0赞): [鸣潮2周年同人绘画_看你][鸣潮2周年同人绘画_看你]",
+      "source": "bilibili",
+      "time": "2026-07-19T10:27:49+00:00",
+      "url": "https://www.bilibili.com/video/BV1ojKz6xEdM",
+      "engagement": 289,
+      "is_hot": false,
+      "author": "薄-荷-猫",
+      "tags": [
+        "翻唱"
+      ],
+      "metadata": {
+        "play": 286,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/11663b4a3928b095d158e254940f2cbfd2878e06.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【ニコカラ/KTV字幕/无损Hi-Res】ガラスのくつ（游戏《沙耶の唄》ED）",
+      "summary": "原曲：ガラスのくつ - いとうかなこ\n作词：いとうかなこ\n作曲/编曲：村上正芳\n视频来源：忘却前夜 - 联动PV\n歌词来源：网易云音乐\n  └ -昆扬 (0赞): [魔法少女的魔女审判表情包_探头]\n  └ 川户小野 (0赞): 棒棒哒\n  └ 柊村芽衣子 (0赞): 终于有这首的卡拉OK了",
+      "source": "bilibili",
+      "time": "2026-07-19T11:07:56+00:00",
+      "url": "https://www.bilibili.com/video/BV1DYKz6yEXK",
+      "engagement": 273,
+      "is_hot": false,
+      "author": "浅鸢Saku",
+      "tags": [
+        "MV"
+      ],
+      "metadata": {
+        "play": 268,
+        "comment_count": 5,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/a72fdacab9fc3781551410c3b312fef2f5dc5853.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "杀戮尖塔2-沙耶MOD_beta0.109更新一览",
       "summary": "希望大家多多支持，反馈问题\n历经多个版本迭代，沙耶已经达成了超高的兼容性与极小的体积，仅占23mb！\n反馈q群：1053129817\n百度网盘下载链接：https://pan.baidu.com/s/1m9Ng5HE1xShu7J0P8h1Qnw?pwd=pfuc 提取码: pfuc\n夸克网盘下载链接：https://pan.quark.cn/s/db81f992dc7c?pwd=Qfcs\n  └ 迷路的鸠鸠 (1赞): [打call][巧克甜恋_加油]\n  └ 于天鱼 (0赞): [打call]\n  └ 是里克休比 (0赞): 卡面做的很好了，玩完感觉认知滤镜关不掉了。[doge]",
@@ -28,6 +143,98 @@
       "platform_region": "cn"
     },
     {
+      "title": "一觉醒来忘却数值膨胀了十倍",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-19T14:14:39+00:00",
+      "url": "https://www.bilibili.com/video/BV1bqKr6DE9p",
+      "engagement": 248,
+      "is_hot": false,
+      "author": "阁楼工作室",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 248,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/63c1cfc17517df78ad16f9d1d533f6cde7b19daa.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "你们之中有人背叛了圣女#忘却前夜",
+      "summary": "关注墨菲\n  └ 没有头的路易十六 (3赞): 这很难绷\n  └ 没有头的路易十六 (1赞): 自取",
+      "source": "bilibili",
+      "time": "2026-07-19T11:00:06+00:00",
+      "url": "https://www.bilibili.com/video/BV19bKz67EKh",
+      "engagement": 204,
+      "is_hot": false,
+      "author": "没有头的路易十六",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 202,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 1
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/5602089521c5d22b71f2830f2b10c7acd64b97d8.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "「忘却前夜」7.6融灾4-5杜饿……不是区",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-19T09:18:52+00:00",
+      "url": "https://www.bilibili.com/video/BV1uiKz6CEgv",
+      "engagement": 183,
+      "is_hot": false,
+      "author": "肉夹馍里不要放青椒",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 183,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/697dad33b74a5fc5987c7b348e4deaf2ea98eb4d.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "《忘却前夜》第二章以蜡像之名P6",
+      "summary": "-\n  └ 时间快些肘吧 (2赞): 艾继丝与鼠鼠只是开胃菜，后面刀子多着呢[doge]\n尤其是终章被刀的角色你绝对想不到是谁[doge]\n  └ 寒末殇燕灵 (1赞): 凑老鼠是前面的一个刀\n后面还会有第二个第三个的[doge]",
+      "source": "bilibili",
+      "time": "2026-07-19T10:33:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1Z2NL69Etv",
+      "engagement": 153,
+      "is_hot": false,
+      "author": "不可燃抹茶果冻",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 149,
+        "comment_count": 4,
+        "comments_fetched": 2,
+        "danmaku": 1
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/79f4fb5150d84e090735725ea06da276347c4222.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "100爆伤狂翻5倍?高配海茉夏有多夸张?",
       "summary": "-\n  └ 愛吃郭子的小孩 (1赞): 恐怖暗鼠吓哭我了[大哭]\n  └ 车轱辘轧脸上了 (0赞): 恐怖老头[大哭]\n  └ 幽缀 (0赞): 高配安卓佬有多夸张[大哭]",
       "source": "bilibili",
@@ -46,6 +253,52 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/1ba5ca51fba25ee32ab012aa45bca3f43b1d5a5d.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "疑似早期两个沙耶去用神秘绿果冻向EVE换烤鱼的珍贵录像",
+      "summary": "疑似早期两个沙耶去用神秘绿果冻向EVE换烤鱼的珍贵录像\n  └ 进击的哈基角的sama (2赞): @耕司青海瑶 [doge][doge][doge][doge]来看你耶姐带着绿果冻去买烤鱼[doge]\n  └ 进击的哈基角的sama (2赞): 不要问我为什么中间跳过了很快的一幕，因为那一幕除了故障，我原本想剪掉，但是没剪掉[笑哭][笑哭]\n  └ -昆扬 (1赞): [魔法少女的魔女审判表情包_探头]",
+      "source": "bilibili",
+      "time": "2026-07-19T11:44:15+00:00",
+      "url": "https://www.bilibili.com/video/BV1kTKz6YELc",
+      "engagement": 136,
+      "is_hot": false,
+      "author": "进击的哈基角的sama",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 127,
+        "comment_count": 9,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/f247421525871ee3ee11a0810d1ba059a14ef625.png",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "［忘却前夜］11囚魇塔庞几乎满血暴打融灾5-5阴影的忠犬",
+      "summary": "-\n  └ 小肠在蠕动 (0赞): 配置",
+      "source": "bilibili",
+      "time": "2026-07-19T12:52:48+00:00",
+      "url": "https://www.bilibili.com/video/BV1MkKr67ERr",
+      "engagement": 116,
+      "is_hot": false,
+      "author": "小肠在蠕动",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 115,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/41408364e37faccc2606c880854a35186e1e7e74.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-20",
-  "archived_at": "2026-07-20T04:18:49.516691+00:00",
+  "archived_at": "2026-07-20T06:18:49.101006+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] 比刚开始入坑的时候好玩多了，完成日活也从半小时变成半分钟，可以接受打工。总之活着就行。",
@@ -46,6 +46,30 @@
         "playtime_forever": 1852,
         "votes_up": 0,
         "timestamp_created": 1784484682
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 1、",
+      "summary": "1、",
+      "source": "steam_review",
+      "time": "2026-07-20T04:52:59+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198708541121/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198708541121",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 528,
+        "votes_up": 0,
+        "timestamp_created": 1784523179
       },
       "region": "global",
       "archive_subtype": "review",

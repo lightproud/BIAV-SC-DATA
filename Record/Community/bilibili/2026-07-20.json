@@ -1,8 +1,8 @@
 {
   "date": "2026-07-20",
-  "archived_at": "2026-07-20T04:18:49.494738+00:00",
+  "archived_at": "2026-07-20T06:18:49.031219+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 5,
   "items": [
     {
       "title": "【忘却前夜】7.20-8.4容灾攻略",
@@ -23,6 +23,98 @@
         "danmaku": 0
       },
       "media_url": "http://i1.hdslb.com/bfs/archive/03c34eebeb9dd719787052ab3d640e5f1038a2ef.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】配置能省就省，阿拉克涅逃课3-5",
+      "summary": "-\n  └ 莱星Ligh (1赞): 我的天呐阿拉大人[打call]\n  └ 嘎啦嘎啦果 (1赞): 需要阿拉克涅3启，初始狂气尽量高。\n开局要凹1费在手上，\n活不下去的话，可以把栗子换成再衍化艾瑞卡，或者多带生存命轮。\n步骤：\n全程静海。\n3t，湮灭开大，取1费出来，直接打掉，就能秒杀后面的小怪。打毛线，尽量多打，但是不要把boss秒了。\n4t，把阿拉的3费塞空间里。\n5t，法洛思可以开大消除易伤。进空间，阿拉克涅视情况，保证自己血量充沛。先打自己的3费，再把毛线全部打掉。\n6t，开钥令，防守。\n7t，阿拉取1费出来，接下来就自己玩吧。\n  └ 第零类假象 (0赞): 我太菜了，爆到10几的死扛[笑哭][笑哭][笑哭]",
+      "source": "bilibili",
+      "time": "2026-07-20T03:23:18+00:00",
+      "url": "https://www.bilibili.com/video/BV1qgK26CENm",
+      "engagement": 237,
+      "is_hot": false,
+      "author": "嘎啦嘎啦果",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 229,
+        "comment_count": 8,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/20beddf673724b7ae9bd6b26b5f230caa2e5f547.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "第四届N厨杯-第二十七日录播",
+      "summary": "第二十七日直播录播\n本日由代理代理主播直播，还望海涵",
+      "source": "bilibili",
+      "time": "2026-07-19T16:54:55+00:00",
+      "url": "https://www.bilibili.com/video/BV1ZsKC6iEer",
+      "engagement": 82,
+      "is_hot": false,
+      "author": "God7777",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 82,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/2df3521d8a74a5b8e6bdd4fecc3893f7b6567536.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "希洛沙耶1t羊",
+      "summary": "-\n  └ 烟已归 (1赞): 我了",
+      "source": "bilibili",
+      "time": "2026-07-20T03:54:36+00:00",
+      "url": "https://www.bilibili.com/video/BV1UhK26FE7u",
+      "engagement": 34,
+      "is_hot": false,
+      "author": "偶陈陈陈",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 33,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/e7d8f967f38a503b8241053887f3b44c26346b4e.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "进食....",
+      "summary": "-\n  └ SkyBigBlack (0赞): [25年度表情包_送花]\n  └ kiss1xp (0赞): [星空列车与白的旅行表情包_给心心]",
+      "source": "bilibili",
+      "time": "2026-07-20T04:14:15+00:00",
+      "url": "https://www.bilibili.com/video/BV1KQK16oEYT",
+      "engagement": 23,
+      "is_hot": false,
+      "author": "秋枳MMe",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 21,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/d1521661e5ce155944384e982d39c80957ac9121.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

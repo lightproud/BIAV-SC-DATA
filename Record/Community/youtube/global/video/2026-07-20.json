@@ -1,8 +1,8 @@
 {
   "date": "2026-07-20",
-  "archived_at": "2026-07-20T04:18:49.494915+00:00",
+  "archived_at": "2026-07-20T06:18:49.032508+00:00",
   "source": "youtube",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "Day 42 of doodling N til #Morimens gives him to me #fanart #speedpaint",
@@ -119,6 +119,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/yiqiEbSv6Mw/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "실시간)2026.07.20 Morimens 1일차 , 창모 , 디아 2(레더14) ,원휴(무꿈4",
+      "summary": "디아블로2 원스휴먼 once Human.",
+      "source": "youtube",
+      "time": "2026-07-20T05:07:04Z",
+      "url": "https://www.youtube.com/watch?v=8U-XVpvkCq8",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ARENA",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/8U-XVpvkCq8/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
