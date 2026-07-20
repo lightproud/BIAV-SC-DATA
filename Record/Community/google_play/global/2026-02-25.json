@@ -1,0 +1,37 @@
+{
+  "date": "2026-02-25",
+  "archived_at": "2026-07-20T04:18:49.500196+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★4 1.感觉主线敌人的伤害与血量膨胀太快了,一开始才30几伤害后面五六章几百,而且首",
+      "summary": "1.感觉主线敌人的伤害与血量膨胀太快了,一开始才30几伤害后面五六章几百,而且首领血量越来越血牛,可同时期唤醒体伤害护盾提升很小像蚊子腿. 2.em,我是新手才入坑十天,感觉游戏沒有攻略之类的,而平台上攻略过于碎片化,如果游戏内可以知道选什么命轮和命契就好了.",
+      "source": "google_play",
+      "time": "2026-02-25T15:03:53",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-df659cc7-c5f6-4b20-8e62-9179e12d245d",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "Kamkanliu liu",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 아주 재밌습니다 덱마다 특성이 있어서 재미가 더 좋고 퍼주는것도 많아서",
+      "summary": "아주 재밌습니다 덱마다 특성이 있어서 재미가 더 좋고 퍼주는것도 많아서 좋아요",
+      "source": "google_play",
+      "time": "2026-02-25T05:05:56",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-47f92b53-4d19-413f-b781-eaa8f798cb45",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "록타르",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

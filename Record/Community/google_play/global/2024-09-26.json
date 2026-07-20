@@ -1,0 +1,37 @@
+{
+  "date": "2024-09-26",
+  "archived_at": "2026-07-20T04:18:49.509225+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 中评] ★3 整體不是那麼好，遊玩體驗卡頓，平衡性糟糕，官方不聽取玩家意見，產能低下，做的好的",
+      "summary": "整體不是那麼好，遊玩體驗卡頓，平衡性糟糕，官方不聽取玩家意見，產能低下，做的好的方面可能是抽卡資源較多",
+      "source": "google_play",
+      "time": "2024-09-26T13:29:18",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_TW#gp-e869c460-6965-484d-8689-8d220420b259",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "雜魚パンダ",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 中评] ★3 整體不是那麼好，遊玩體驗卡頓，平衡性糟糕，官方不聽取玩家意見，產能低下，做的好的",
+      "summary": "整體不是那麼好，遊玩體驗卡頓，平衡性糟糕，官方不聽取玩家意見，產能低下，做的好的方面可能是抽卡資源較多",
+      "source": "google_play",
+      "time": "2024-09-26T13:29:18",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_HK#gp-e869c460-6965-484d-8689-8d220420b259",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "雜魚パンダ",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

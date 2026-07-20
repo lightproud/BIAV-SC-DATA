@@ -1,0 +1,37 @@
+{
+  "date": "2024-10-10",
+  "archived_at": "2026-07-20T04:18:49.506323+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 真的沒有想過劇情可以這麼好.. 我覺得這個遊戲嘛 劇情+畫風+戰鬥方式+抽卡機率",
+      "summary": "真的沒有想過劇情可以這麼好.. 我覺得這個遊戲嘛 劇情+畫風+戰鬥方式+抽卡機率... nice 啊啊啊真的很推薦！！",
+      "source": "google_play",
+      "time": "2024-10-10T11:17:53",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_TW#gp-1a14475d-95f7-42da-baa9-b3540d482204",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "風塵v",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 真的沒有想過劇情可以這麼好.. 我覺得這個遊戲嘛 劇情+畫風+戰鬥方式+抽卡機率",
+      "summary": "真的沒有想過劇情可以這麼好.. 我覺得這個遊戲嘛 劇情+畫風+戰鬥方式+抽卡機率... nice 啊啊啊真的很推薦！！",
+      "source": "google_play",
+      "time": "2024-10-10T11:17:53",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_HK#gp-1a14475d-95f7-42da-baa9-b3540d482204",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "風塵v",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2025-12-10",
+  "archived_at": "2026-07-20T04:18:49.508136+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 очень круто. Одна из нас в которую не жа",
+      "summary": "очень круто. Одна из нас в которую не жалко денег закинуть. Надеюсь появится русский перевод литературный)",
+      "source": "google_play",
+      "time": "2025-12-10T14:50:36",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-b3a5cdeb-f62a-413b-8dbf-3db2050c4395",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Никита Бурыкин",
+      "tags": [],
+      "lang": "ru",
+      "platform_region": "ru",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 A great game, very friendly to beginners",
+      "summary": "A great game, very friendly to beginners, many benefits, and a high lottery rate. I especially like its art style and worldview, it's really great!",
+      "source": "google_play",
+      "time": "2025-12-09T20:23:25",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-822355cd-3882-48cd-a050-ff2a4945160c",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "VII DieFish",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

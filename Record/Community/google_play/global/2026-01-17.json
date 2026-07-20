@@ -1,0 +1,23 @@
+{
+  "date": "2026-01-17",
+  "archived_at": "2026-07-20T04:18:49.504258+00:00",
+  "source": "google_play",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 สนุก",
+      "summary": "สนุก",
+      "source": "google_play",
+      "time": "2026-01-17T12:49:50",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=th#gp-b54206e8-5be8-414b-bc24-79e0c6d8f7a4",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Thaensak Phochai",
+      "tags": [],
+      "lang": "th",
+      "platform_region": "th",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

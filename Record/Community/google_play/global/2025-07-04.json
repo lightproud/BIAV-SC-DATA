@@ -1,0 +1,23 @@
+{
+  "date": "2025-07-04",
+  "archived_at": "2026-07-20T04:18:49.531872+00:00",
+  "source": "google_play",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 非常好玩",
+      "summary": "非常好玩",
+      "source": "google_play",
+      "time": "2025-07-03T16:18:16",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-a0f24063-691d-4e40-b628-8f0466e42969",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "hshs lll",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

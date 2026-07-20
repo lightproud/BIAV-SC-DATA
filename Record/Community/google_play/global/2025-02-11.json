@@ -1,0 +1,37 @@
+{
+  "date": "2025-02-11",
+  "archived_at": "2026-07-20T04:18:49.509080+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★4 介面粗糙，但音樂上腦，卡牌竟然玩出打擊感、爽快感；每局遊戲時長，感覺不太適合休閒",
+      "summary": "介面粗糙，但音樂上腦，卡牌竟然玩出打擊感、爽快感；每局遊戲時長，感覺不太適合休閒；組隊不同玩法差別，能提高玩法上限，有難有易，沒有一隊打天下；主線有閃光，難得會讓我忍不住看完……整體感覺良好。",
+      "source": "google_play",
+      "time": "2025-02-11T08:09:18",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_TW#gp-a8eff524-c89a-4d43-8a1a-7910744fe58c",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "HL Hung",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 介面粗糙，但音樂上腦，卡牌竟然玩出打擊感、爽快感；每局遊戲時長，感覺不太適合休閒",
+      "summary": "介面粗糙，但音樂上腦，卡牌竟然玩出打擊感、爽快感；每局遊戲時長，感覺不太適合休閒；組隊不同玩法差別，能提高玩法上限，有難有易，沒有一隊打天下；主線有閃光，難得會讓我忍不住看完……整體感覺良好。",
+      "source": "google_play",
+      "time": "2025-02-11T08:09:18",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_HK#gp-a8eff524-c89a-4d43-8a1a-7910744fe58c",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "HL Hung",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

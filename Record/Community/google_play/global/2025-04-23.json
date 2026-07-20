@@ -1,0 +1,51 @@
+{
+  "date": "2025-04-23",
+  "archived_at": "2026-07-20T04:18:49.502564+00:00",
+  "source": "google_play",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 Ich wollte das spiel erst etwas spielen",
+      "summary": "Ich wollte das spiel erst etwas spielen bevor ich das Review schreibe aber nun bin ich sicher. Das ist eins der besten gacha games die ich je gezockt habe. Ich lese zum ersten mal wirklich die story und die ist wirklich düster und schick. Der artstyle ist super geil, die helden sehr cool, man kriegt sehr viel free2play stuff... 10 stunden in und schon 8 legendarys. Das kampfsystem ist ein wenig wie slay the spire nur das jeder held besondere karten und Fähigkeiten hat, mit besonderen combos. 5/5",
+      "source": "google_play",
+      "time": "2025-04-22T20:18:38",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=de#gp-6786093a-3252-4b9b-95d5-9997d5578ed6",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "Niss Pre",
+      "tags": [],
+      "lang": "de",
+      "platform_region": "de",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 morimens MANCA L'ITALIANO",
+      "summary": "morimens MANCA L'ITALIANO",
+      "source": "google_play",
+      "time": "2025-04-22T22:21:30",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=it#gp-28f84c46-f857-4387-9b6f-16745005b1f8",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Убийца «Tribal Chief» Отчаяние",
+      "tags": [],
+      "lang": "it",
+      "platform_region": "it",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 le jeu est beau, les musiques sont bien",
+      "summary": "le jeu est beau, les musiques sont bien choisi, l'histoire donne envie malgré la traduction chat gpt assez mal faites il faudrait revoir cela pour donné plus envie au gens de s intéresser à l histoire . le système de combat est intéressant même si je n'ai teste que le Caro mon coup de cœur",
+      "source": "google_play",
+      "time": "2025-04-23T11:15:17",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=fr#gp-b5c60b44-ea1d-4415-a138-f90ffd4e2742",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Hevan Lebesson (Shinyyoei)",
+      "tags": [],
+      "lang": "fr",
+      "platform_region": "fr",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

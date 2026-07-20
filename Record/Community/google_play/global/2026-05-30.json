@@ -1,0 +1,65 @@
+{
+  "date": "2026-05-30",
+  "archived_at": "2026-07-20T04:18:49.507110+00:00",
+  "source": "google_play",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 game peak vcl",
+      "summary": "game peak vcl",
+      "source": "google_play",
+      "time": "2026-05-29T20:00:01",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=vi#gp-7af51e74-deda-483a-9528-20a797e3b5f2",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Bảo",
+      "tags": [],
+      "lang": "vi",
+      "platform_region": "vn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 网络繁忙进不去",
+      "summary": "网络繁忙进不去",
+      "source": "google_play",
+      "time": "2026-05-30T15:00:09",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-7162fc0b-7171-4522-b5f7-b3df536bc0f8",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "涂山星仄",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 可是。我真的觉得很好玩😭😭。。",
+      "summary": "可是。我真的觉得很好玩😭😭。。",
+      "source": "google_play",
+      "time": "2026-05-30T11:47:22",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-fb55161a-385f-4cce-9bf0-05613802df72",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Hikari Neko",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Amazing game specially if you like deck",
+      "summary": "Amazing game specially if you like deck building roguelike games and the story and music are bangers too 🔥🔥",
+      "source": "google_play",
+      "time": "2026-05-29T22:15:54",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-53ab6822-75fd-4815-ac61-0ea7eecd662a",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Nozeda 07",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "es",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

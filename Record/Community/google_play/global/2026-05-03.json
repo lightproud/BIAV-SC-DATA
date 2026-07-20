@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-03",
+  "archived_at": "2026-07-20T04:18:49.500512+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 Я смог зайти на аккаунт и играть, но для",
+      "summary": "Я смог зайти на аккаунт и играть, но для этого приходится включать VPN и выключать сразу, когда загрузится, а иначе не заходит. Раньше без VPN работал. В остальном всё хорошо, только русский немного корявый и текст выглядывает. В остальном всё отлично, интересно играть, награды щедрые, персонажей легко получить, с прокачкой нет никаких проблем, персонажи — отдельное искусство, они все прекрасны, очень красивые и интересные, надеюсь, что игра будет дальше развиваться и становится всё интереснее",
+      "source": "google_play",
+      "time": "2026-05-02T23:31:03",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-0e116ed7-d02b-4b41-85ed-4c83ce2214d7",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "ХУГГИ ВУГГИ",
+      "tags": [],
+      "lang": "ru",
+      "platform_region": "ru",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 cần tối ưu cho máy yếu",
+      "summary": "cần tối ưu cho máy yếu",
+      "source": "google_play",
+      "time": "2026-05-03T04:00:26",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=vi#gp-569d80bf-699e-4284-a67a-7e4b9ed5cbc8",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ki A",
+      "tags": [],
+      "lang": "vi",
+      "platform_region": "vn",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

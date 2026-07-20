@@ -1,0 +1,37 @@
+{
+  "date": "2025-01-17",
+  "archived_at": "2026-07-20T04:18:49.532625+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 以外的好玩 美術方面做得很好 支持一下",
+      "summary": "以外的好玩 美術方面做得很好 支持一下",
+      "source": "google_play",
+      "time": "2025-01-17T09:01:59",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_TW#gp-4fa6806e-ec16-4817-80e0-c75f5f750f59",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Li Y L",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 以外的好玩 美術方面做得很好 支持一下",
+      "summary": "以外的好玩 美術方面做得很好 支持一下",
+      "source": "google_play",
+      "time": "2025-01-17T09:01:59",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_HK#gp-4fa6806e-ec16-4817-80e0-c75f5f750f59",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Li Y L",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

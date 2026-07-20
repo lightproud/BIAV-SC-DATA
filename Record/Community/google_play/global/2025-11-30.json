@@ -1,0 +1,37 @@
+{
+  "date": "2025-11-30",
+  "archived_at": "2026-07-20T04:18:49.531478+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 对于新玩家无时无刻充满负反馈的游戏，开发者仿佛与玩家有仇，做出的大型活动折磨所有",
+      "summary": "对于新玩家无时无刻充满负反馈的游戏，开发者仿佛与玩家有仇，做出的大型活动折磨所有人，请让我离开好吗",
+      "source": "google_play",
+      "time": "2025-11-30T07:01:34",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-51c817c8-57d2-4608-89dd-20ab1669a7cc",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "洛资价",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 it's unfair for this game to be this goo",
+      "summary": "it's unfair for this game to be this good and unknown at the same time. the Devs are delightful and very generous, the story intriguing. the only problem was the English the English translation which was done with AI, so sometimes it was confusing, but they're working on it.",
+      "source": "google_play",
+      "time": "2025-11-30T13:46:53",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=it#gp-cd70b497-8457-4057-adb3-9e3f8136731d",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Iro",
+      "tags": [],
+      "lang": "it",
+      "platform_region": "it",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

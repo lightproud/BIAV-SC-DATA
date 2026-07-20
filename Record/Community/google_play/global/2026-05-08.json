@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-08",
+  "archived_at": "2026-07-20T04:18:49.537054+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 인생게임임 그냥 하셈",
+      "summary": "인생게임임 그냥 하셈",
+      "source": "google_play",
+      "time": "2026-05-08T00:03:50",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-a43015e9-ff52-4c32-91ef-b9c6e2a3d7df",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "박준영",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Magnificent game with magnificent develo",
+      "summary": "Magnificent game with magnificent developers. Please give this game a shot",
+      "source": "google_play",
+      "time": "2026-05-08T15:23:04",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=pt#gp-cabeadcd-013f-40a2-ab47-e7aa91cfff87",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Black Tip Bullet",
+      "tags": [],
+      "lang": "pt",
+      "platform_region": "br",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

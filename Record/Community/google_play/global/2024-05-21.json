@@ -1,0 +1,37 @@
+{
+  "date": "2024-05-21",
+  "archived_at": "2026-07-20T04:18:49.503322+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 开发商听劝，给满星",
+      "summary": "开发商听劝，给满星",
+      "source": "google_play",
+      "time": "2024-05-20T17:29:23",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_TW#gp-bf5d228e-2a31-49a9-99ec-dbe220b3928e",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Sen TAN",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 开发商听劝，给满星",
+      "summary": "开发商听劝，给满星",
+      "source": "google_play",
+      "time": "2024-05-20T17:29:23",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_HK#gp-bf5d228e-2a31-49a9-99ec-dbe220b3928e",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Sen TAN",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

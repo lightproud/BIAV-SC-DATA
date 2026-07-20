@@ -1,8 +1,8 @@
 {
   "date": "2026-07-19",
-  "archived_at": "2026-07-19T08:15:27.841678+00:00",
+  "archived_at": "2026-07-20T04:18:49.495809+00:00",
   "source": "youtube",
-  "item_count": 10,
+  "item_count": 13,
   "items": [
     {
       "title": "成長。サブ垢→本垢 #忘却前夜 #ゲーム #shorts #ショート",
@@ -107,6 +107,40 @@
       "archive_subtype": "video"
     },
     {
+      "title": "#忘卻前夜 #morimens Regional D-Effect Zone update!415 points achieved!融災415分達成!",
+      "summary": "忘卻前夜#morimens 7月6日~7月20日融災更新. Regional D-Effect Zone Update (July 6 – July 20). 已經打過的隊伍沒有變動,最後是 ...",
+      "source": "youtube",
+      "time": "2026-07-19T10:00:04Z",
+      "url": "https://www.youtube.com/watch?v=1Iz1PmTsEAc",
+      "engagement": 11,
+      "is_hot": false,
+      "author": "Noir",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/1Iz1PmTsEAc/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】通常調査「9-10」「9-11」「9-12」",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-07-19T11:05:39Z",
+      "url": "https://www.youtube.com/watch?v=b1RO1Ycb4LY",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/b1RO1Ycb4LY/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "❮忘却前夜❯❮対人戦❯自滅型幻影パの理論値",
       "summary": "",
       "source": "youtube",
@@ -170,6 +204,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/wAL1cYP_m3c/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "실시간)2026.07.20 Morimens 1일차 , 창모 , 디아 2(레더14) ,원휴(무꿈4",
+      "summary": "디아블로2 원스휴먼 once Human.",
+      "source": "youtube",
+      "time": "2026-07-19T15:07:59Z",
+      "url": "https://www.youtube.com/watch?v=8U-XVpvkCq8",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ARENA",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/8U-XVpvkCq8/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

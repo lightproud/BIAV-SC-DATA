@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-20",
+  "archived_at": "2026-07-20T04:18:49.516691+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[正面] 比刚开始入坑的时候好玩多了，完成日活也从半小时变成半分钟，可以接受打工。总之活着就行。",
+      "summary": "比刚开始入坑的时候好玩多了，完成日活也从半小时变成半分钟，可以接受打工。总之活着就行。",
+      "source": "steam_review",
+      "time": "2026-07-20T02:35:56+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199416913189/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199416913189",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 19366,
+        "votes_up": 0,
+        "timestamp_created": 1784514956
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Помесь Reverse: 1999 с Slay the Spire. Затягивает...",
+      "summary": "Помесь Reverse: 1999 с Slay the Spire. Затягивает сильно, если вы любите такие карточные игры. Без доната можно собрать как минимум одну деку до капа. Куча кодов в сети, которые подарят вам 100500 круток.\r\nПеревод конечно какашка, но все же лучше чем в 1999 ;)",
+      "source": "steam_review",
+      "time": "2026-07-19T18:11:22+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198052280042/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198052280042",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1852,
+        "votes_up": 0,
+        "timestamp_created": 1784484682
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

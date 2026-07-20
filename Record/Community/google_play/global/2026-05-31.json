@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-31",
+  "archived_at": "2026-07-20T04:18:49.512389+00:00",
+  "source": "google_play",
+  "item_count": 5,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 Game hay lắm, đồ hoạ đẹp nữa, mong game",
+      "summary": "Game hay lắm, đồ hoạ đẹp nữa, mong game ra nhiều nhân vật một xíu và mong game đừng die nha😍🥰",
+      "source": "google_play",
+      "time": "2026-05-31T13:48:13",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=vi#gp-9d94a43e-fe0f-4b29-935b-a8ef4cdb8956",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "h H",
+      "tags": [],
+      "lang": "vi",
+      "platform_region": "vn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 中评] ★3 5장에 들어가면서부터 번역이 아쉽습니다.또 보스가 40랩이라 치면 50랩",
+      "summary": "5장에 들어가면서부터 번역이 아쉽습니다.또 보스가 40랩이라 치면 50랩인 캐릭터가 있어도 클리어 하기 어렵습니다.",
+      "source": "google_play",
+      "time": "2026-05-30T17:21:39",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-10d44db0-1cf9-4410-9aad-ba12f73b9f0b",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "메론",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 สนุกมากคับพัฒนาต่อไปนะคับ",
+      "summary": "สนุกมากคับพัฒนาต่อไปนะคับ",
+      "source": "google_play",
+      "time": "2026-05-30T19:07:03",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=th#gp-b81b039e-1c48-4a4b-8202-c375bff4e6cd",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "วิรภัทร อรวิระกุล",
+      "tags": [],
+      "lang": "th",
+      "platform_region": "th",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 thank you biav studio,have survived this",
+      "summary": "thank you biav studio,have survived this far and even did a Collab with saya no uta and this is the best Collab, I hope you guys can keep it up even though I'm f2p but I really like this game and one day I will be willing to spend money on this game as a thank you for your efforts ,once again thank you biav studio",
+      "source": "google_play",
+      "time": "2026-05-31T15:48:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-832383ab-e002-4362-a9dc-370fc7b9e23c",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Itsuka Kurumi",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 Apalah gw download nih game tapi sinyal",
+      "summary": "Apalah gw download nih game tapi sinyal issue terus, gimana mau mainin baru login aja udh sinyal issue",
+      "source": "google_play",
+      "time": "2026-05-31T14:53:40",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-d0c56e37-6406-47db-88c5-116665cbd21b",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Fusaki",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

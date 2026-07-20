@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-21",
+  "archived_at": "2026-07-20T04:18:49.501576+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 Honnêtement un très bon jeu L'histoire e",
+      "summary": "Honnêtement un très bon jeu L'histoire est prenante et les designs parlent pour eux même. Probablement à jouer en anglais pour en profiter au maximum.",
+      "source": "google_play",
+      "time": "2026-05-21T02:28:35",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=fr#gp-4a912de5-11f1-4b64-8ee9-6c79d632cf5e",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Ilo '",
+      "tags": [],
+      "lang": "fr",
+      "platform_region": "fr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 great game",
+      "summary": "great game",
+      "source": "google_play",
+      "time": "2026-05-20T20:54:44",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=fr#gp-37891b2d-e8be-4911-bdc8-60847d779890",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Jasper Hill",
+      "tags": [],
+      "lang": "fr",
+      "platform_region": "fr",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

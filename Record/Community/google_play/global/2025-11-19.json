@@ -1,0 +1,37 @@
+{
+  "date": "2025-11-19",
+  "archived_at": "2026-07-20T04:18:49.532129+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 福利太小",
+      "summary": "福利太小",
+      "source": "google_play",
+      "time": "2025-11-19T08:03:01",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_TW#gp-2f98ec0b-aa7d-4edf-a3ba-1dcd59e15df0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "康振菲",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 福利太小",
+      "summary": "福利太小",
+      "source": "google_play",
+      "time": "2025-11-19T08:03:01",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_HK#gp-2f98ec0b-aa7d-4edf-a3ba-1dcd59e15df0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "康振菲",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

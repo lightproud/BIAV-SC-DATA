@@ -1,0 +1,23 @@
+{
+  "date": "2025-05-20",
+  "archived_at": "2026-07-20T04:18:49.513529+00:00",
+  "source": "google_play",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 I try to download the in-game download f",
+      "summary": "I try to download the in-game download from 3.83GB but it is only downloaded with Kb/s although I have a download speed of min. 6MB/s to max. 12MB/s please do something so that you can download faster",
+      "source": "google_play",
+      "time": "2025-05-20T15:36:10",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=de#gp-c8ba85f9-7682-4bf7-a3ed-b063df871df1",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Smart Mobgame",
+      "tags": [],
+      "lang": "de",
+      "platform_region": "de",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

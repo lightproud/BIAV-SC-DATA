@@ -1,0 +1,23 @@
+{
+  "date": "2026-02-28",
+  "archived_at": "2026-07-20T04:18:49.511657+00:00",
+  "source": "google_play",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 GOAT",
+      "summary": "GOAT",
+      "source": "google_play",
+      "time": "2026-02-28T12:23:16",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-88852840-3e2d-4bb1-9e2f-13167b430bbe",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "개살",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

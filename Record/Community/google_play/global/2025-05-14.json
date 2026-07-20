@@ -1,0 +1,23 @@
+{
+  "date": "2025-05-14",
+  "archived_at": "2026-07-20T04:18:49.502929+00:00",
+  "source": "google_play",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 Возможно, игра интересная, но я этого не",
+      "summary": "Возможно, игра интересная, но я этого не узнаю, ведь её НЕВОЗМОЖНО ЗАГРУЗИТЬ! Из 3 ГБ скачано 250 МБ за 40 минут по Wi-Fi... в общем, за серваки вам один балл.",
+      "source": "google_play",
+      "time": "2025-05-13T20:04:30",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-e08ea49e-0b2b-40a1-85f2-0104d809e273",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "Ринат Хасанов",
+      "tags": [],
+      "lang": "ru",
+      "platform_region": "ru",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

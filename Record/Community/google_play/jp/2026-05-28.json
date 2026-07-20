@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-28",
+  "archived_at": "2026-07-20T04:18:49.545597+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 最高",
+      "summary": "最高",
+      "source": "google_play",
+      "time": "2026-05-28T13:46:47",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-49947be8-14a4-4807-9ee5-ef2e454e5d63",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "arai",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "jp",
+      "region": "jp"
+    },
+    {
+      "title": "[Google Play 好评] ★5 もっと人気出ていい",
+      "summary": "もっと人気出ていい",
+      "source": "google_play",
+      "time": "2026-05-28T11:22:59",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-4b14622c-26a5-476c-9ac4-76be197f4768",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "アニ",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "jp",
+      "region": "jp"
+    }
+  ],
+  "region": "jp"
+}

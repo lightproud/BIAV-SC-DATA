@@ -1,0 +1,51 @@
+{
+  "date": "2026-05-20",
+  "archived_at": "2026-07-20T04:18:49.530873+00:00",
+  "source": "google_play",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Google Play 中评] ★3 为什么不能用台服账号啊，什么时候台服能和港澳服互通",
+      "summary": "为什么不能用台服账号啊，什么时候台服能和港澳服互通",
+      "source": "google_play",
+      "time": "2026-05-20T10:19:47",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-698da779-6764-4327-ba2c-c4a97e612fc2",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Kevin white",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 스토리 좋음...",
+      "summary": "스토리 좋음...",
+      "source": "google_play",
+      "time": "2026-05-19T16:07:46",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-45909ed3-a99a-4628-ab8f-74a0edd7c3ab",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "백진혁",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 gamenya bagus banget sumpah, dari ilustr",
+      "summary": "gamenya bagus banget sumpah, dari ilustrasi, char, sama gachanya, ini game pertama yg menurutku paling bagus sih. tapi ya, pas jaringanku masih baik-baik kok nggak bisa sih? padahal jaringan pas itu lancar aja, yah.. udah susah-susah ngumpulin char sama perak-peraknya, malah gabisa login lagi. sampe sekarang masih gabisa, katanya jaringannya ada gangguan(tapi ini jaringannya aman-aman perasaan)... dan terimakasih ya, sudah membuat game yg kayak begini, aku sukaa :3",
+      "source": "google_play",
+      "time": "2026-05-20T10:55:38",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-47fb2634-56eb-4aee-8f93-4f83ab51715e",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ryuu",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

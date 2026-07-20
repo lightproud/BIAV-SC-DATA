@@ -1,0 +1,79 @@
+{
+  "date": "2026-02-26",
+  "archived_at": "2026-07-20T04:18:49.504156+00:00",
+  "source": "google_play",
+  "item_count": 5,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 아직 번역은 덜되었지만 스토리는 재밌어요. 욕심이 나는 부분은 있지만 광",
+      "summary": "아직 번역은 덜되었지만 스토리는 재밌어요. 욕심이 나는 부분은 있지만 광산벌도 나빠지는 않네요",
+      "source": "google_play",
+      "time": "2026-02-26T02:56:52",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-2846aef1-194a-4a45-a5e1-6d147821c05d",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "문민성",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 游戏十分好玩每个角色都设计的很好我非常喜欢，但不知道为什么最近出现闪退的情况就算",
+      "summary": "游戏十分好玩每个角色都设计的很好我非常喜欢，但不知道为什么最近出现闪退的情况就算恢复也不行下载还速度变得超级慢希望早点修复问题",
+      "source": "google_play",
+      "time": "2026-02-25T19:00:53",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-509e16c9-3bda-4c9f-82df-9ea219bf3701",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Yanfeng Liu",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 I usually read reviews before playing a",
+      "summary": "I usually read reviews before playing a game, and it’s very disappointing to see that the replies to those reviews look like copy-and-paste responses. The users who left those reviews likely did so out of genuine passion and care—doesn’t responding this way come across as disregarding their sincerity and enthusiasm?",
+      "source": "google_play",
+      "time": "2026-02-26T07:05:08",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-e1299d08-1f6d-4d2f-92c2-97df6aaa1ec8",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Simon Kim",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 재밌어요",
+      "summary": "재밌어요",
+      "source": "google_play",
+      "time": "2026-02-26T05:50:54",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-bf2f2e84-e790-442d-9fbf-c6481a4838d6",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "J J",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 최고의게임",
+      "summary": "최고의게임",
+      "source": "google_play",
+      "time": "2026-02-26T02:38:36",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-b1c05c14-8a9f-49f8-ae4d-313f49f61ff5",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "나원남",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

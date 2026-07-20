@@ -1,0 +1,37 @@
+{
+  "date": "2024-05-14",
+  "archived_at": "2026-07-20T04:18:49.509559+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 幹看到喜歡的角色原本想給1星的，哭死了",
+      "summary": "幹看到喜歡的角色原本想給1星的，哭死了",
+      "source": "google_play",
+      "time": "2024-05-14T07:47:51",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_TW#gp-769c3b41-83b9-4f79-aadc-ce6ca6bf4979",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Gary O2",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 幹看到喜歡的角色原本想給1星的，哭死了",
+      "summary": "幹看到喜歡的角色原本想給1星的，哭死了",
+      "source": "google_play",
+      "time": "2024-05-14T07:47:51",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_HK#gp-769c3b41-83b9-4f79-aadc-ce6ca6bf4979",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Gary O2",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

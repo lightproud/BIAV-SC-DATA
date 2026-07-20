@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-28",
+  "archived_at": "2026-07-20T04:18:49.508839+00:00",
+  "source": "google_play",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 prob one of the most kind game towards p",
+      "summary": "prob one of the most kind game towards players who don't spend money/free to play players also I love the gameplay and the story is pretty interesting but some parts are kinda just sudden but entirely it's fine. Also thanks for all the rewards.Honestly I didn't even know there was gonna be an update",
+      "source": "google_play",
+      "time": "2026-04-28T12:20:04",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-6f89fc99-8cc9-420a-bddb-6e9d8659fb43",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Tony Wong",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 여태까지 했던 게임중 게임성은 대존잼 번역은 매우 아쉬움... 유명하지",
+      "summary": "여태까지 했던 게임중 게임성은 대존잼 번역은 매우 아쉬움... 유명하지 않아서 너무 슬픔.. 잘 됐으면 좋겠음",
+      "source": "google_play",
+      "time": "2026-04-28T08:40:19",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-87a59bff-9d96-4e7b-96c8-f6e869c92a8d",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "이영상",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 esta god",
+      "summary": "esta god",
+      "source": "google_play",
+      "time": "2026-04-27T21:14:44",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-c7b1d0a7-0c50-40e0-be80-8df44db637a1",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Monick Fuentes",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "es",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

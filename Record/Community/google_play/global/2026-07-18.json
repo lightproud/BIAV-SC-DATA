@@ -1,8 +1,8 @@
 {
   "date": "2026-07-18",
-  "archived_at": "2026-07-19T08:15:28.030694+00:00",
+  "archived_at": "2026-07-20T04:18:49.534190+00:00",
   "source": "google_play",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "[Google Play 好评] ★5 ثثثثث",
@@ -86,6 +86,20 @@
       "tags": [],
       "lang": "es",
       "platform_region": "es",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 pity is unclear, the chance of losing th",
+      "summary": "pity is unclear, the chance of losing the rate off is greater, the income is not comparable to the gacha",
+      "source": "google_play",
+      "time": "2026-07-18T13:47:43",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-057f5b99-527e-45bb-8e00-d90009083b05",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Nothing",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
       "region": "global"
     }
   ],

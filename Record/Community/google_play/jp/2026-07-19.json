@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-19",
+  "archived_at": "2026-07-20T04:18:49.543409+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 最近はアップデートでメインストーリーが進めやすくなってます。公式ディスコードで質",
+      "summary": "最近はアップデートでメインストーリーが進めやすくなってます。公式ディスコードで質問したらおすすめ編成など教えてくれます。攻略サイトは信用しないでください。あれは情報がおかしいです。",
+      "source": "google_play",
+      "time": "2026-07-18T22:50:02",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-e69b36c0-ee48-4b2b-975e-2e2fa1ee65f7",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ソロイア-soroia",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "jp",
+      "region": "jp"
+    },
+    {
+      "title": "[Google Play 好评] ★4 なかなか難しい、チーム作りが",
+      "summary": "なかなか難しい、チーム作りが",
+      "source": "google_play",
+      "time": "2026-07-18T18:43:15",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-ec482f35-12d1-4f61-8c4c-ef97bae4084c",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "阿部広和",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "jp",
+      "region": "jp"
+    }
+  ],
+  "region": "jp"
+}

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-19",
-  "archived_at": "2026-07-19T08:15:27.876103+00:00",
+  "archived_at": "2026-07-20T04:18:49.505434+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 5,
   "items": [
     {
       "title": "[Steam论坛] New Player Handbook Guide",
@@ -13,6 +13,23 @@
       "engagement": 3,
       "is_hot": false,
       "author": "SUSKIWY",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] 进不去游戏",
+      "summary": "这游戏只有我进不去吗?",
+      "source": "steam_discussion",
+      "time": "2026-07-19T09:45:59+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/4626981323674867794/",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "西柚咪",
       "tags": [
         "steam_forum"
       ],
@@ -47,6 +64,23 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Sotetsu",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] 玩起来还挺像边狱巴士的",
+      "summary": "剧情不错",
+      "source": "steam_discussion",
+      "time": "2026-07-19T09:25:42+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/578299465370255852/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "不喝冰美式",
       "tags": [
         "steam_forum"
       ],

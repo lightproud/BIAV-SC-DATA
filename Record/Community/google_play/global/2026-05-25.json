@@ -1,0 +1,51 @@
+{
+  "date": "2026-05-25",
+  "archived_at": "2026-07-20T04:18:49.507588+00:00",
+  "source": "google_play",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 Un juego que en mi opinión es excelente,",
+      "summary": "Un juego que en mi opinión es excelente, tiene una historia de estilo Lovecrafteana que es muy buena y te atrapa a medida que avanzas, incluso si no te gustan los juegos de cartas le agarras el gusto, el arte y soundtrack destacan bastante también, lo único malo podría ser la traducción en español (que está en beta así que se entiende)",
+      "source": "google_play",
+      "time": "2026-05-25T03:18:20",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-8303c504-e620-4dd2-ade7-186d7fff41df",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Valentino Agüero",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "es",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 this game is peak, people should know th",
+      "summary": "this game is peak, people should know this game exists, i think this game is on par with reverse 1999",
+      "source": "google_play",
+      "time": "2026-05-24T17:16:17",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-67dd176e-faa6-4529-88cb-0c170dcade54",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Abdullah Rizky Adam Safero",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 good story, great gameplay",
+      "summary": "good story, great gameplay",
+      "source": "google_play",
+      "time": "2026-05-24T20:26:41",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=pt#gp-e26d4d65-db02-4ca8-9005-e052058e0e9c",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Caim Perpétuo",
+      "tags": [],
+      "lang": "pt",
+      "platform_region": "br",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

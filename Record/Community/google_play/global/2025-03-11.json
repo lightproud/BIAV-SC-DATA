@@ -1,0 +1,37 @@
+{
+  "date": "2025-03-11",
+  "archived_at": "2026-07-20T04:18:49.499439+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 很好，什么都很好，包括插图，剧情以及人物线，人物背景故事这些都真的很完美，虽然每",
+      "summary": "很好，什么都很好，包括插图，剧情以及人物线，人物背景故事这些都真的很完美，虽然每次剧情过的时候有点久，但我觉得是值得的，不过能不能让威廉学长打复活赛啊，我真的很喜欢他，他从第一章陪到现在，真的很喜欢",
+      "source": "google_play",
+      "time": "2025-03-11T02:38:51",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_TW#gp-25234d37-cd4b-4db3-ba48-35b6741897be",
+      "engagement": 8,
+      "is_hot": false,
+      "author": "negl",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 很好，什么都很好，包括插图，剧情以及人物线，人物背景故事这些都真的很完美，虽然每",
+      "summary": "很好，什么都很好，包括插图，剧情以及人物线，人物背景故事这些都真的很完美，虽然每次剧情过的时候有点久，但我觉得是值得的，不过能不能让威廉学长打复活赛啊，我真的很喜欢他，他从第一章陪到现在，真的很喜欢",
+      "source": "google_play",
+      "time": "2025-03-11T02:38:51",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_HK#gp-25234d37-cd4b-4db3-ba48-35b6741897be",
+      "engagement": 8,
+      "is_hot": false,
+      "author": "negl",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

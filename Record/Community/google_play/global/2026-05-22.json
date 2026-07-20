@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-22",
+  "archived_at": "2026-07-20T04:18:49.530791+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★4 可以打开我的谷歌商店更新，但为什么打开游戏就一直无法登录谷歌账号，我是港区",
+      "summary": "可以打开我的谷歌商店更新，但为什么打开游戏就一直无法登录谷歌账号，我是港区",
+      "source": "google_play",
+      "time": "2026-05-22T05:37:31",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-8d518701-322b-4b13-8bb8-3b1594b37668",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Nol Fin",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 SO PEAK!! game terbaik yg pernah kumaini",
+      "summary": "SO PEAK!! game terbaik yg pernah kumainin btw. gacha nya lumayan, dan rajin bansos juga (sampe 250 pull wth??) dari art style juga ga kalah bagus. POKOKNYA PERFECT LAH. buat yg marah marah karena lama loading nya mending beli device baru aja",
+      "source": "google_play",
+      "time": "2026-05-22T12:26:26",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-c63c133c-de97-4368-be98-d6896d81ba15",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "airaa",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2026-01-26",
+  "archived_at": "2026-07-20T04:18:49.505858+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★2 游戏很好玩已氪，玩的比较晚希望限定角色能在进卡池。卡池太歪了",
+      "summary": "游戏很好玩已氪，玩的比较晚希望限定角色能在进卡池。卡池太歪了",
+      "source": "google_play",
+      "time": "2026-01-26T09:49:12",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-8b055cf5-e11c-4a82-9b4f-970e15ad98ce",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Kailong Ye",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 Le jeu est magnifique, ainsi que l'histo",
+      "summary": "Le jeu est magnifique, ainsi que l'histoire que je trouve prenante. Mais j'ai un souci car les annonces faites dans le jeu même sont en chinois. Et le nouveau personnage Xu, toute son histoire est en chinois également et j'ai beau mettre en français, cela ne change rien. A part ça, le jeu est très addictif. Essaye le.",
+      "source": "google_play",
+      "time": "2026-01-26T12:02:16",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=fr#gp-82f2bbcd-db7b-45db-895f-abb3c4751211",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "nessou96",
+      "tags": [],
+      "lang": "fr",
+      "platform_region": "fr",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

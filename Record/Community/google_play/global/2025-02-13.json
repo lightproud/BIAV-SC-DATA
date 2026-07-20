@@ -1,0 +1,37 @@
+{
+  "date": "2025-02-13",
+  "archived_at": "2026-07-20T04:18:49.532550+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 好玩，但在ipad 上玩閃退問題極嚴重",
+      "summary": "好玩，但在ipad 上玩閃退問題極嚴重",
+      "source": "google_play",
+      "time": "2025-02-13T11:50:32",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_TW#gp-1f8bf4c1-6653-4542-b19c-c802d83b36c6",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Daisy Yeung",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 好玩，但在ipad 上玩閃退問題極嚴重",
+      "summary": "好玩，但在ipad 上玩閃退問題極嚴重",
+      "source": "google_play",
+      "time": "2025-02-13T11:50:32",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_HK#gp-1f8bf4c1-6653-4542-b19c-c802d83b36c6",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Daisy Yeung",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}
