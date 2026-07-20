@@ -1,8 +1,8 @@
 {
   "date": "2026-07-20",
-  "archived_at": "2026-07-20T14:03:03.465288+00:00",
+  "archived_at": "2026-07-20T16:25:49.350679+00:00",
   "source": "youtube",
-  "item_count": 17,
+  "item_count": 19,
   "items": [
     {
       "title": "Day 42 of doodling N til #Morimens gives him to me #fanart #speedpaint",
@@ -158,6 +158,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "(망각전야 Morimens)본업 시작",
+      "summary": "망각전야 #Morimens #이터널리턴.",
+      "source": "youtube",
+      "time": "2026-07-20T13:56:06Z",
+      "url": "https://www.youtube.com/watch?v=1qG-aqqUtG4",
+      "engagement": 27,
+      "is_hot": false,
+      "author": "박현(Muyeong)",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/1qG-aqqUtG4/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "【忘却前夜/steam版】メインストーリーやるぜ 第Ⅵ章 ～【ローグライク/コズミックホラー系カードRPG】",
       "summary": "プロフィール 種族：妖狐 名前：庵風狐(いおりふぁんこ) ——————————————————————————— 忘却前夜 ...",
       "source": "youtube",
@@ -187,6 +204,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/DMxwWkZQguo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】忘却編　終章　9-5　から　いつもよりネタバレ注意",
+      "summary": "さすがに震える.",
+      "source": "youtube",
+      "time": "2026-07-20T15:21:07Z",
+      "url": "https://www.youtube.com/watch?v=v4M5YV8PKCo",
+      "engagement": 7,
+      "is_hot": false,
+      "author": "たこに名前を入力",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/v4M5YV8PKCo/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

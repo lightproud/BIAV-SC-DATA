@@ -1,8 +1,8 @@
 {
   "date": "2026-07-20",
-  "archived_at": "2026-07-20T14:03:03.676508+00:00",
+  "archived_at": "2026-07-20T16:25:49.469129+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "[正面] 比刚开始入坑的时候好玩多了，完成日活也从半小时变成半分钟，可以接受打工。总之活着就行。",
@@ -118,6 +118,30 @@
         "playtime_forever": 317,
         "votes_up": 0,
         "timestamp_created": 1784551197
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Absolute Cinema .",
+      "summary": "Absolute Cinema .",
+      "source": "steam_review",
+      "time": "2026-07-20T14:52:52+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198976708425/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198976708425",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 10085,
+        "votes_up": 0,
+        "timestamp_created": 1784559172
       },
       "region": "global",
       "archive_subtype": "review",

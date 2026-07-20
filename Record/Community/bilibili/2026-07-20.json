@@ -1,8 +1,8 @@
 {
   "date": "2026-07-20",
-  "archived_at": "2026-07-20T14:03:03.464798+00:00",
+  "archived_at": "2026-07-20T16:25:49.349853+00:00",
   "source": "bilibili",
-  "item_count": 9,
+  "item_count": 17,
   "items": [
     {
       "title": "【忘却前夜】7.20-8.4容灾攻略",
@@ -51,6 +51,98 @@
       "platform_region": "cn"
     },
     {
+      "title": "【忘却前夜】3启24干碎5-5羊妈，恐怖大招人！一局40个大招，纯粹的享受忍不住笑",
+      "summary": "莉莉的总治疗量居然比融朵高啊喵，每回合都能开大的莉莉太夸张了。\n  └ Sky_Jerry (0赞): 你朵还是太权威了",
+      "source": "bilibili",
+      "time": "2026-07-20T12:32:40+00:00",
+      "url": "https://www.bilibili.com/video/BV1C5Kp6XEVq",
+      "engagement": 394,
+      "is_hot": true,
+      "author": "充气兔子",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 393,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/bf825dda6a6c73b0b6f0425e98aa8c8871fd619f.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "十队轮椅的425融灾记录 7.20-8.2",
+      "summary": "水温至少比上期涨了点\n我说冰淇淋和羊妈是不是才来过不久，\n上个月才刚来，而且每次都承包难图\n  └ Goffga (1赞): 大佬喵[魔女之夜静态_美女贴贴]\n  └ 子夜微雪 (0赞): 因为上次就是用神国打冰淇淋，用杜勒打羊妈，所以这次故意换人打\n不过福袋和双鸟也该换个位置，完全忘了这俩也和上次是一样了\n其实血希还是不好打冰淇淋，球打不出去；鸟弟也不好打羊妈，流血放生了。好孩子不要学[月薪喵收藏集动态_吹浮毛]",
+      "source": "bilibili",
+      "time": "2026-07-20T10:05:51+00:00",
+      "url": "https://www.bilibili.com/video/BV1guKm6PEWu",
+      "engagement": 339,
+      "is_hot": false,
+      "author": "子夜唯雪",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 336,
+        "comment_count": 3,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/fa9f4e71d21377b34d713f245fa7a4df776c7aed.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】融灾5-5直观对比为什么阿拉克涅主c比鸟弟更好用",
+      "summary": "-\n  └ 郁少弥YUI (2赞): 最麻烦的就是鸟弟这种挑食 c，\n阿拉能吃的增益少，但是 boss 的限制也跟着吃的少。\n茉夏那种吃的多，不管怎么样都能办法避开 boss 机制吃增益打。\n鸟弟又要吃 boss 限制，又挑队友增益，自身还要成长，现在这个环境下真的不好玩\n  └ 子夜微雪 (2赞): 一方面其实鸟弟和沙耶相性并不好，肉质很影响输出牌序\n另一方面鸟弟也不好打羊妈，逃课队伍只要打200w，鸟弟这种要硬吃400w",
+      "source": "bilibili",
+      "time": "2026-07-20T08:41:19+00:00",
+      "url": "https://www.bilibili.com/video/BV1CPKU64EtD",
+      "engagement": 293,
+      "is_hot": false,
+      "author": "苍崎橙子灬",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 285,
+        "comment_count": 8,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/088537c49c18ac52a256f00bc5843ba92568081e.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【杀戮尖塔2】 MOD周报#5 魔理沙 女王 影之诗 小丑牌 沙耶之歌",
+      "summary": "数据来源于创意工坊\n  └ 儚く透明な願い (1赞): 有没有丝之歌这种不是很强的mod角色，丝之歌的额外能量做得挺有意思还符合本体玩法，挺牛逼的。\n  └ 才不是聆听酱呢 (0赞): 支持up[doge]",
+      "source": "bilibili",
+      "time": "2026-07-20T14:35:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1PaKH6pE1a",
+      "engagement": 248,
+      "is_hot": false,
+      "author": "金泽奇迹",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 246,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/3ee220bf550fb5fc40eac57da2691e239dc79c08.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "【忘却前夜】配置能省就省，阿拉克涅逃课3-5",
       "summary": "-\n  └ 莱星Ligh (1赞): 我的天呐阿拉大人[打call]\n  └ 嘎啦嘎啦果 (1赞): 需要阿拉克涅3启，初始狂气尽量高。\n开局要凹1费在手上，\n活不下去的话，可以把栗子换成再衍化艾瑞卡，或者多带生存命轮。\n步骤：\n全程静海。\n3t，湮灭开大，取1费出来，直接打掉，就能秒杀后面的小怪。打毛线，尽量多打，但是不要把boss秒了。\n4t，把阿拉的3费塞空间里。\n5t，法洛思可以开大消除易伤。进空间，阿拉克涅视情况，保证自己血量充沛。先打自己的3费，再把毛线全部打掉。\n6t，开钥令，防守。\n7t，阿拉取1费出来，接下来就自己玩吧。\n  └ 第零类假象 (0赞): 我太菜了，爆到10几的死扛[笑哭][笑哭][笑哭]",
       "source": "bilibili",
@@ -74,6 +166,75 @@
       "platform_region": "cn"
     },
     {
+      "title": "好笑吗？我只看到一个拼尽全力被粪怪战胜的萌新😭",
+      "summary": "萌新玩这游戏玩到精神状态已经快和朵尔老师一样了\n  └ 论多厨到底有几种死法 (4赞): 萌新玩塔薇吗，那很吃手法了[笑哭]\n  └ Lilia_AllAlong (2赞): 這個角度是何意味\n  └ 月绵铃 (1赞): 还有古法拍屏[吃瓜]",
+      "source": "bilibili",
+      "time": "2026-07-20T10:02:13+00:00",
+      "url": "https://www.bilibili.com/video/BV1uuKm6PEnH",
+      "engagement": 207,
+      "is_hot": false,
+      "author": "米口合氵由",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 199,
+        "comment_count": 8,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/dc32ade4e1b1af3791c3d5647587c81a2b5ac3a1.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "我告老师了",
+      "summary": "告老师啦\n别这么说\n  └ 耕司青海瑶 (1赞): [笑哭][笑哭][笑哭]\n  └ 一只小小の白毛控 (0赞): 666，沙耶区UP主，很少见了\n  └ 烨青禾 (0赞): [星星眼][星星眼]",
+      "source": "bilibili",
+      "time": "2026-07-20T05:23:06+00:00",
+      "url": "https://www.bilibili.com/video/BV1JtK16VEsW",
+      "engagement": 193,
+      "is_hot": false,
+      "author": "小龙猫大能力",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 184,
+        "comment_count": 9,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/b1067f7e566ad9239ff21b4cd9ef203ac8224f5e.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】融灾425实况",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-20T04:27:08+00:00",
+      "url": "https://www.bilibili.com/video/BV129K16sEzQ",
+      "engagement": 133,
+      "is_hot": false,
+      "author": "星咏ようむ",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 133,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/9d9e6a5cd63d8ba2d58c49124ae7e8aad0b362a8.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "［忘却前夜］大狗粪庞C大战羊妈，打了足足500万的伤害，老头还是太强了",
       "summary": "-\n  └ 水中沉浮的貓貓 (2赞): 無傷5-5[吃瓜]\n  └ 小肠在蠕动 (1赞): 操作很烂，看个思路吧",
       "source": "bilibili",
@@ -92,6 +253,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/9f8dad4fd946880ac72625648b3a6f507daf3c5e.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "忘卻前夜 Morimens 融灾7.20-8.03 超低配400 拼好队",
+      "summary": "除了淡墨超限，没有超过3启的限定。   \n\n刚抽了超限鸟弟，打的难4 ，感觉和3启鸟弟没有本质差距，所以就不算了。\n\n\nP1 1-5 3启地瓜 2启融朵 防杀蠕动\n\nP2 2-5 超限淡墨乱杀 道中被打了2次死扛状态乱七八糟\n\nP3 3-5 借+12莫夏 有专造的高配莫夏 完全不动脑乱打 丑陋不堪但是能过\n\nP4 4-4-1 2启莫斯 毫无压力 听说你锁手牌 我的输出不依赖任何手牌\n\nP5 4-4-2 超限鸟弟 1启鸟哥 2启阿拉科涅 乱杀 不要问我为什么不打难5 鸟弟从1启抽到超限能退货么\n\nP6 5-",
+      "source": "bilibili",
+      "time": "2026-07-20T14:01:22+00:00",
+      "url": "https://www.bilibili.com/video/BV1mMKp6oEAB",
+      "engagement": 104,
+      "is_hot": false,
+      "author": "party",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 104,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/19f2bf0699f50c500cdfd72f411984f1e498645e.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
