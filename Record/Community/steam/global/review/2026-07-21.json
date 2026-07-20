@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
-  "archived_at": "2026-07-20T19:44:04.868863+00:00",
+  "archived_at": "2026-07-20T22:01:25.584069+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] 仅我个人而言美术画风很戳我，玩法也还行感觉养不好角色会很牢，抽角色池爆率也太高了吧我去",
@@ -46,6 +46,30 @@
         "playtime_forever": 7311,
         "votes_up": 0,
         "timestamp_created": 1784569024
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] most gacha games have mid stories at best that you...",
+      "summary": "most gacha games have mid stories at best that you can just skip bc whatever who cares\ni NEVER skip morimens story. this game is PEAK and i love the art. gacha is also pretty fair and you get a lotta rolls\nimo its best enjoyed as a game where you play like 15-30 minutes a day, do a segment or two and log off",
+      "source": "steam_review",
+      "time": "2026-07-20T20:56:01+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198054682238/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198054682238",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 422,
+        "votes_up": 0,
+        "timestamp_created": 1784580961
       },
       "region": "global",
       "archive_subtype": "review",
