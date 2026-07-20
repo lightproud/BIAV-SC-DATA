@@ -1,8 +1,8 @@
 {
   "date": "2026-04-20",
-  "archived_at": "2026-07-20T11:45:59.267159+00:00",
+  "archived_at": "2026-07-20T14:03:03.478106+00:00",
   "source": "appstore",
-  "item_count": 1,
+  "item_count": 4,
   "items": [
     {
       "title": "Best deck building type game you’ll ever play",
@@ -16,6 +16,48 @@
       "tags": [],
       "lang": "th",
       "platform_region": "th",
+      "region": "global"
+    },
+    {
+      "title": "Best gacha game I’ve played in a while",
+      "summary": "-Theirs always a way to make you’re favorite characters meta\n-You never run out of things to do\n-You can almost always get the characters you want, limited and standard\n-Other than shared pity on the standard and limited banner, have recommended to all my friends",
+      "source": "appstore",
+      "time": "2026-04-20T04:37:15-07:00",
+      "url": "https://apps.apple.com/us/app/id6447354150?see-all=reviews#as-13977939766",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Arxtxc",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "Very nice game",
+      "summary": "good for the brain",
+      "source": "appstore",
+      "time": "2026-04-19T18:30:37-07:00",
+      "url": "https://apps.apple.com/us/app/id6447354150?see-all=reviews#as-13976701506",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "San Plus",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "Amazing!",
+      "summary": "Fun gameplay, great art and graphics, and very generous.",
+      "source": "appstore",
+      "time": "2026-04-19T18:07:07-07:00",
+      "url": "https://apps.apple.com/us/app/id6447354150?see-all=reviews#as-13976647724",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "NicknameIsAlreadyTaken :/",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],

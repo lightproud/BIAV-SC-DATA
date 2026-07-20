@@ -1,8 +1,8 @@
 {
   "date": "2026-05-15",
-  "archived_at": "2026-07-20T11:45:59.263065+00:00",
+  "archived_at": "2026-07-20T14:03:03.482456+00:00",
   "source": "appstore",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "Criminally underrated",
@@ -30,6 +30,20 @@
       "tags": [],
       "lang": "en",
       "platform_region": "sg",
+      "region": "global"
+    },
+    {
+      "title": "好玩，但是校猫滚",
+      "summary": "两颗星扣给校猫的。最终法则15命去死。",
+      "source": "appstore",
+      "time": "2026-05-14T22:25:18-07:00",
+      "url": "https://apps.apple.com/us/app/id6447354150?see-all=reviews#as-14065997482",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "不是哥们你真🦐",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],

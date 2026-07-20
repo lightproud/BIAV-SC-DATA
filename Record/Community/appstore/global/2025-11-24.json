@@ -1,9 +1,23 @@
 {
   "date": "2025-11-24",
-  "archived_at": "2026-07-20T11:45:59.300865+00:00",
+  "archived_at": "2026-07-20T14:03:03.479572+00:00",
   "source": "appstore",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
+    {
+      "title": "ITS JUST SO PEAK",
+      "summary": "ITS JUST SO PEAK 😭😭😭😭😭",
+      "source": "appstore",
+      "time": "2025-11-24T15:45:35-07:00",
+      "url": "https://apps.apple.com/us/app/id6447354150?see-all=reviews#as-13437319374",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Globbglogabgalab",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
     {
       "title": "GG",
       "summary": "Download takes forever",

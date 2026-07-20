@@ -1,0 +1,23 @@
+{
+  "date": "2026-02-01",
+  "archived_at": "2026-07-20T14:03:03.478876+00:00",
+  "source": "appstore",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "My duty",
+      "summary": "It’s my duty to advertise this game",
+      "source": "appstore",
+      "time": "2026-02-01T08:42:33-07:00",
+      "url": "https://apps.apple.com/us/app/id6447354150?see-all=reviews#as-13701499645",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "ghikjkho",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

@@ -1,8 +1,8 @@
 {
   "date": "2026-05-24",
-  "archived_at": "2026-07-20T11:45:59.265507+00:00",
+  "archived_at": "2026-07-20T14:03:03.477693+00:00",
   "source": "appstore",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "Hidden gem",
@@ -16,6 +16,20 @@
       "tags": [],
       "lang": "en",
       "platform_region": "ph",
+      "region": "global"
+    },
+    {
+      "title": "The best game I’ve played",
+      "summary": "I’m always trying to find different and new, fun gacha roleplay games and this by far is my favorite one. I’m surprised this game isn’t more popular. I just seen an add on YouTube for a song from the game and I thought I might as well look it up and download it. Now I haven’t stopped playing the game. I 100% recommend someone playing this if they like CRK (Cookie Run Kingdom) or other games similar to the looks of it. :)",
+      "source": "appstore",
+      "time": "2026-05-24T15:35:23-07:00",
+      "url": "https://apps.apple.com/us/app/id6447354150?see-all=reviews#as-14102235794",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Isabella5310",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],
