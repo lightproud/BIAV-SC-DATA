@@ -1,0 +1,37 @@
+{
+  "date": "2025-01-17",
+  "archived_at": "2026-07-20T11:45:59.256304+00:00",
+  "source": "appstore",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "好玩爱玩多玩",
+      "summary": "我只想知道阿利斯泰尔什么时候进池，会不会进池\n我好规划我的银芯，如果他真进池我就拼命攒着，确定不进我就可以当抽卡模拟器玩了",
+      "source": "appstore",
+      "time": "2025-01-17T07:40:39-07:00",
+      "url": "https://apps.apple.com/hk/app/id6447354150?see-all=reviews#as-12195590684",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "一个路过的有栖或者28🤓☝",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    },
+    {
+      "title": "Great",
+      "summary": "Tachibana is super beautiful",
+      "source": "appstore",
+      "time": "2025-01-16T21:48:59-07:00",
+      "url": "https://apps.apple.com/hk/app/id6447354150?see-all=reviews#as-12193974455",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Lique Lan",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-20",
-  "archived_at": "2026-07-20T06:18:49.033044+00:00",
+  "archived_at": "2026-07-20T11:45:59.240490+00:00",
   "source": "bahamut",
-  "item_count": 23,
+  "item_count": 24,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -102,6 +102,19 @@
       "time": "2026-07-20T04:17:26.915075+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1248&tnum=2",
       "engagement": 37,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【情報】V2.5.3 全新喚醒體✦蝕滅·蘿坦",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-07-20T11:22:25.096613+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1495&tnum=2",
+      "engagement": 35,
       "is_hot": false,
       "author": "t12345825",
       "tags": [],

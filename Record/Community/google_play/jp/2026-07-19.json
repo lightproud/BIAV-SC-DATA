@@ -1,8 +1,8 @@
 {
   "date": "2026-07-19",
-  "archived_at": "2026-07-20T06:18:49.169411+00:00",
+  "archived_at": "2026-07-20T11:45:59.382373+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 最近はアップデートでメインストーリーが進めやすくなってます。公式ディスコードで質",
@@ -27,6 +27,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "阿部広和",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "jp",
+      "region": "jp"
+    },
+    {
+      "title": "[Google Play 好评] ★5 反撃とかのエフェクトの派手な演出がほしいなぁ",
+      "summary": "反撃とかのエフェクトの派手な演出がほしいなぁ",
+      "source": "google_play",
+      "time": "2026-07-19T07:12:55",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-7f0ff0c7-8b6f-481b-a1ac-8ff076546fea",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "健一上田",
       "tags": [],
       "lang": "ja",
       "platform_region": "jp",

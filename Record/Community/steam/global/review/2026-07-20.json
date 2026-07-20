@@ -1,8 +1,8 @@
 {
   "date": "2026-07-20",
-  "archived_at": "2026-07-20T06:18:49.101006+00:00",
+  "archived_at": "2026-07-20T11:45:59.321472+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] 比刚开始入坑的时候好玩多了，完成日活也从半小时变成半分钟，可以接受打工。总之活着就行。",
@@ -70,6 +70,30 @@
         "playtime_forever": 528,
         "votes_up": 0,
         "timestamp_created": 1784523179
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] make it a no-gacha game and it would blow up, cont...",
+      "summary": "make it a no-gacha game and it would blow up, contender of STS&STS2",
+      "source": "steam_review",
+      "time": "2026-07-20T10:54:13+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198274951513/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198274951513",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 753,
+        "votes_up": 0,
+        "timestamp_created": 1784544853
       },
       "region": "global",
       "archive_subtype": "review",

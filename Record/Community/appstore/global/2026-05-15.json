@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-15",
+  "archived_at": "2026-07-20T11:45:59.263065+00:00",
+  "source": "appstore",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Criminally underrated",
+      "summary": "This is such a good game,it deserves so much more!! Designs and gameplay are super cool",
+      "source": "appstore",
+      "time": "2026-05-15T00:55:07-07:00",
+      "url": "https://apps.apple.com/au/app/id6447354150?see-all=reviews#as-14066300359",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Professional_rager",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "au",
+      "region": "global"
+    },
+    {
+      "title": "Game always stuck halfway",
+      "summary": "Very good and unique game, but please fix the issue where the game always not responding halfway",
+      "source": "appstore",
+      "time": "2026-05-14T20:26:42-07:00",
+      "url": "https://apps.apple.com/sg/app/id6447354150?see-all=reviews#as-14065758672",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Chros T",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "sg",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2025-11-17",
+  "archived_at": "2026-07-20T11:45:59.267325+00:00",
+  "source": "appstore",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "One of the best games I've played",
+      "summary": "The character designs are impressive, and their story is fascinating. I would love to interact with them more. The gacha system is okay, and I had so much fun pulling for characters. The game mechanics are very fun! Personally, I’d love to dive deeper into the main story and the characters’ pasts.",
+      "source": "appstore",
+      "time": "2025-11-16T19:01:49-07:00",
+      "url": "https://apps.apple.com/th/app/id6447354150?see-all=reviews#as-13407461974",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Mafmafion",
+      "tags": [],
+      "lang": "th",
+      "platform_region": "th",
+      "region": "global"
+    },
+    {
+      "title": "Great Game, 10/10 Artwork",
+      "summary": "Truly a great game, very fair in acquiring characters and currency! The translation is almost perfect so it’s easy to play on English aswell. The storytelling is insane and there’s no need to skip it at all.",
+      "source": "appstore",
+      "time": "2025-11-17T04:40:41-07:00",
+      "url": "https://apps.apple.com/de/app/id6447354150?see-all=reviews#as-13408815088",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "rowentw",
+      "tags": [],
+      "lang": "de",
+      "platform_region": "de",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

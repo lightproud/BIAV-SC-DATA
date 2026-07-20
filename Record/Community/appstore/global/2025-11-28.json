@@ -1,8 +1,8 @@
 {
   "date": "2025-11-28",
-  "archived_at": "2026-07-20T06:18:49.050936+00:00",
+  "archived_at": "2026-07-20T11:45:59.260771+00:00",
   "source": "appstore",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "Perfeito",
@@ -16,6 +16,20 @@
       "tags": [],
       "lang": "pt",
       "platform_region": "br",
+      "region": "global"
+    },
+    {
+      "title": "Amazing tactical card game",
+      "summary": "The story is dark, gritty and immersive. Probably one of the best stories I have experienced in gatcha. The game play is actually takes thought and is super addicting. The dailies don’t take long and are actually fun to do. I would absolutely recommend playing Morimens.",
+      "source": "appstore",
+      "time": "2025-11-28T15:25:22-07:00",
+      "url": "https://apps.apple.com/ca/app/id6447354150?see-all=reviews#as-13452485516",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "HeadHunterZanko",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "ca",
       "region": "global"
     }
   ],

@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-20",
+  "archived_at": "2026-07-20T11:45:59.321739+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam新闻] V2.5.3 New Awakener✦Lotan: Cetarchon",
+      "summary": "\"You wish to challenge me? I admire your courage, and I'll grant you the honor of being defeated.\"\"Come, show me what strength or longing brought you before me.\"✦ Lotan: Cetarchon VA: Miyazono Miumi",
+      "source": "official",
+      "time": "2026-07-20T07:22:02+00:00",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329264878",
+      "engagement": 0,
+      "is_hot": true,
+      "author": "lqx02483534",
+      "tags": [
+        "Community Announcements"
+      ],
+      "region": "global",
+      "archive_subtype": "news",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "news"
+}

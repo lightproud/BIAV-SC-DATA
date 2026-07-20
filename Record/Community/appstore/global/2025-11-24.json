@@ -1,0 +1,23 @@
+{
+  "date": "2025-11-24",
+  "archived_at": "2026-07-20T11:45:59.300865+00:00",
+  "source": "appstore",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "GG",
+      "summary": "Download takes forever",
+      "source": "appstore",
+      "time": "2025-11-23T17:49:50-07:00",
+      "url": "https://apps.apple.com/sg/app/id6447354150?see-all=reviews#as-13433831459",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Sadjipppp",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "sg",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}
