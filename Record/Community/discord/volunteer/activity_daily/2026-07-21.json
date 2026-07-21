@@ -1,21 +1,21 @@
 {
   "date": "2026-07-21",
-  "messages": 4,
+  "messages": 7,
   "unique_authors": 2,
   "reactions_total": 3,
   "attachments": 0,
   "channel_activity": {
-    "general-discussion": 3,
-    "announcements": 1
+    "announcements": 4,
+    "general-discussion": 3
   },
   "hourly_activity": {
+    "9": 3,
     "5": 2,
     "8": 1,
     "3": 1
   },
   "message_types": {
-    "19": 1,
-    "0": 2
+    "0": 3
   },
   "top_reacted_messages": [
     {
