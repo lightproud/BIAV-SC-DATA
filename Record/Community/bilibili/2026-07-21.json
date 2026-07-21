@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
-  "archived_at": "2026-07-21T08:27:30.342633+00:00",
+  "archived_at": "2026-07-21T11:08:59.785255+00:00",
   "source": "bilibili",
-  "item_count": 8,
+  "item_count": 12,
   "items": [
     {
       "title": "老大.....会不会太猎奇了..",
@@ -143,6 +143,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "看了一天肉块，终于刷到美少女了",
+      "summary": "终于cos上了沙耶\n  └ 西宫硝然 (2赞): 来啦来啦~[Cat_hightouch][暹罗猫小豆泥_来了]\n  └ 136987254 (1赞): 主播背景怎么一团红啊……用了啥特效吗\n  └ -昆扬 (1赞): [魔法少女的魔女审判表情包_探头]",
+      "source": "bilibili",
+      "time": "2026-07-21T08:47:47+00:00",
+      "url": "https://www.bilibili.com/video/BV1dPKb69Eju",
+      "engagement": 109,
+      "is_hot": false,
+      "author": "淡紫樱梦",
+      "tags": [
+        "仿妆cos"
+      ],
+      "metadata": {
+        "play": 99,
+        "comment_count": 10,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/ed9b4bbd8c826ab5a1b5ce70e7a6217af854a74b.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "【忘却前夜】主C艾尔瓦融灾2t2-5",
       "summary": "-\n  └ 嘎啦嘎啦果 (1赞): 艾尔瓦的灵塑对血肉敌人有额外加成，打5-5也行，就是羊妈一生就生一窝不带停的，不好追回合数。\n这期融灾那么多血肉敌人，和某期血肉融灾特别像，我严重怀疑sp萝坦对血肉敌人也有特攻，盲猜一个群攻+降力。",
       "source": "bilibili",
@@ -184,6 +207,75 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/d4e66e96c53925e25f8ef16f9545dd81fc5cf3a3.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】i哈tv之打击神秘产崽女（被反击做局版）",
+      "summary": "如果小骑士是最早备战四周年的角色，那我们哈姆林可能是最早备战5周年的角色（我去不早说）\n  └ 欢你喜欢大家都 (0赞): 上面显示steam第三方服务未通过\n  └ 欢你喜欢大家都 (0赞): bro我现在游戏进不去了，你怎么样？",
+      "source": "bilibili",
+      "time": "2026-07-21T08:46:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1zBKb6hEYC",
+      "engagement": 40,
+      "is_hot": false,
+      "author": "通往你幸福的花园",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 38,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/c716526b5f6c6a681ef87ed139e579f7ebbbb618.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "匂坂郁纪小可爱",
+      "summary": "-\n  └ 吐槽大会员工 (1赞): 😱😱😱😱😱\n  └ 爱白嫖视频的阿军 (1赞): [笑哭]\n  └ -昆扬 (1赞): [魔法少女的魔女审判表情包_何意味]",
+      "source": "bilibili",
+      "time": "2026-07-21T09:33:15+00:00",
+      "url": "https://www.bilibili.com/video/BV1DGKb6EEbi",
+      "engagement": 37,
+      "is_hot": false,
+      "author": "耕司青海瑶",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 22,
+        "comment_count": 15,
+        "comments_fetched": 3,
+        "danmaku": 5
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/66edc61a78685fb9220ecc084d15b13ec7486344.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "《忘却前夜》简章3-3，P1你好，猎头人夫人！",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-21T10:47:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1vHNJ6tELx",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "不可燃抹茶果冻",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 3,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/a22a639b434d50263fa68eb78ee877ea3a021043.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

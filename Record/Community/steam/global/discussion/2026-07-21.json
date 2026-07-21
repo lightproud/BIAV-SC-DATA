@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
-  "archived_at": "2026-07-21T08:27:30.343735+00:00",
+  "archived_at": "2026-07-21T11:08:59.786436+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 6,
   "items": [
     {
       "title": "[Steam论坛] Invitation Code",
@@ -30,6 +30,74 @@
       "engagement": 8,
       "is_hot": false,
       "author": "ReXert",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] 进不去游戏",
+      "summary": "这游戏只有我进不去吗?",
+      "source": "steam_discussion",
+      "time": "2026-07-21T10:05:05+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/4626981323674867794/",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "西柚咪",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] 新人请教个问题，如何看人物是什么稀有度的？",
+      "summary": "比如SR，SSR，，在哪看？",
+      "source": "steam_discussion",
+      "time": "2026-07-21T10:05:37+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/577172807462582975/",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Tao zi",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] 玩起来还挺像边狱巴士的",
+      "summary": "剧情不错",
+      "source": "steam_discussion",
+      "time": "2026-07-21T10:05:15+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/578299465370255852/",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "不喝冰美式",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] 关卡住了，每天做什么事？",
+      "summary": "进度过不去了，每天做什么呢？",
+      "source": "steam_discussion",
+      "time": "2026-07-21T10:05:28+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/578299159633894095/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Tao zi",
       "tags": [
         "steam_forum"
       ],

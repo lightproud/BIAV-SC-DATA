@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
-  "archived_at": "2026-07-21T08:27:30.341195+00:00",
+  "archived_at": "2026-07-21T11:08:59.783712+00:00",
   "source": "youtube",
-  "item_count": 13,
+  "item_count": 15,
   "items": [
     {
       "title": "Моя честная реакция на выход Генезис Лотан #morimens #cardbuilder #gacha #genshinimpact",
@@ -124,6 +124,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Morimens \\\\ Прохождение д-зоны от 20.07.26",
+      "summary": "Соцсети: Стримы на твич: https://twitch.tv/closetom Информация по стримам \\\\ Ирл контент \\\\ Общаемся по игре: ...",
+      "source": "youtube",
+      "time": "2026-07-21T10:19:58Z",
+      "url": "https://www.youtube.com/watch?v=tKhfuoyTfmM",
+      "engagement": 24,
+      "is_hot": false,
+      "author": "Closetom",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/tKhfuoyTfmM/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "【忘却前夜】忘却編　終章　9-5　から　いつもよりネタバレ注意",
       "summary": "さすがに震える.",
       "source": "youtube",
@@ -187,6 +204,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/t2G-WhAWNtM/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "#忘卻前夜 #morimens Regional D-Effect Zone Wave 5:Alert V! 融災5-5 Boss戰的部分",
+      "summary": "忘卻前夜#morimens 融災更新,7月20日~8月3號. Regional D-Effect Zone Update (July 20 – August 3). 5-5 Boss為泰旖絲,一樣進場 ...",
+      "source": "youtube",
+      "time": "2026-07-21T10:00:22Z",
+      "url": "https://www.youtube.com/watch?v=cVdCq1XaUp4",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "Noir",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/cVdCq1XaUp4/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
