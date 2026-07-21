@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-21",
+  "archived_at": "2026-07-21T05:51:20.421091+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam新闻] 🎧 V2.5.2 Radio Drama - Addiction",
+      "summary": "\"The fouler the suffering, the more it becomes a reward to filthy little things like you.\"\"Your wretched savior is not coming... Kneel. Offer yourself to the ocean.\"✦ Pontos VA: Junichi Suwabe",
+      "source": "official",
+      "time": "2026-07-21T03:24:16+00:00",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329267996",
+      "engagement": 0,
+      "is_hot": true,
+      "author": "lqx02483534",
+      "tags": [
+        "Community Announcements"
+      ],
+      "region": "global",
+      "archive_subtype": "news",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "news"
+}

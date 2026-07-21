@@ -1,8 +1,8 @@
 {
   "date": "2026-07-20",
-  "archived_at": "2026-07-21T02:29:39.765409+00:00",
+  "archived_at": "2026-07-21T05:51:20.350805+00:00",
   "source": "bilibili",
-  "item_count": 19,
+  "item_count": 20,
   "items": [
     {
       "title": "【忘却前夜】7.20-8.4容灾攻略",
@@ -230,6 +230,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/9d9e6a5cd63d8ba2d58c49124ae7e8aad0b362a8.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "融灾7.20含道中（缓慢蠕动中）当前进度1-5",
+      "summary": "感觉我越来越会玩了（）额额现在除了融灾好像没有多余能给我玩还能领点资源的了于是跑回去玩了几天单机...",
+      "source": "bilibili",
+      "time": "2026-07-20T15:36:51+00:00",
+      "url": "https://www.bilibili.com/video/BV1FrKH6jEpM",
+      "engagement": 133,
+      "is_hot": false,
+      "author": "今晚会出太阳",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 133,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/6db5d34d7839d0614bbd63c2e7c8e92d8a8a0528.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
