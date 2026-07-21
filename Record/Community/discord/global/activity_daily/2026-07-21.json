@@ -1,0 +1,241 @@
+{
+  "date": "2026-07-21",
+  "messages": 3624,
+  "unique_authors": 244,
+  "reactions_total": 527,
+  "attachments": 170,
+  "channel_activity": {
+    "🔸綜合討論": 836,
+    "🔸剧情交流": 5,
+    "🔸相位对弈": 2,
+    "🔸课间休息闲聊": 3,
+    "🔸日本語チャンネル": 2,
+    "🔸한국어-채팅방": 11,
+    "🔸deutscher-chatraum": 1,
+    "🔸chaîne-française": 1,
+    "🔸русский-канал": 59,
+    "🔸phòng-chat-tiếng-việt": 310,
+    "🔸canal-español": 63,
+    "🔸canal-português": 6,
+    "🔸ruang-obrolan-indonesia": 106,
+    "🔸ห้องสนทนาภาษาไทย": 486,
+    "🔸traphase": 14,
+    "🔸lore-chat": 88,
+    "🔸lets-count": 6,
+    "🔸team-building": 1074,
+    "🔸邀请码互助┊swap-invitation-codes": 1,
+    "🔸game-question": 426,
+    "🔸机器人命令┊bot-commands": 21,
+    "潦草的摸了": 1,
+    "我重生了，重生到忘卻前夜宣布關服的那天【多人接力抽象文】": 3,
+    "✅「Answered」 Urgent bug: NO AUDIO on iPad version (global)": 4,
+    "主線有bug": 7,
+    "Visual Bug blocking screen": 1,
+    "受祝 • 行道之骸無法消除腐朽狀態": 3,
+    "[Bug report] games crashing on entering the ultra turn": 1,
+    "空幻到期時間": 1,
+    "✅「已回答」說好不受瘋狂影響": 3,
+    "✅「已回答」寧菲亞與繁育相關bug": 6,
+    "✅「已回答」汀克特bug": 3,
+    "Potential improvements for Hameln": 1,
+    "明着削了？": 2,
+    "Can we increase Arcane Dominion runs?": 2,
+    "Vain Regrets Incorrect Fusion Generation Amount": 1,
+    "Please rework how Propagation Caro works for the future units": 2,
+    "能不能把自動戰鬥的按鈕隱藏起來": 1,
+    "V2.5.1.0 停服维护公告": 4,
+    "忘卻前夜OST：血链·希洛EP·以血洗仇": 1,
+    "kisses Leigh gently on the forehead": 2,
+    "Quick Lotan: Cetarchon Sketch!": 1,
+    "William Ink Portrait": 1,
+    "Lotan: Cetarchon": 9,
+    "Tawiwi is a patootie T^T": 1,
+    "How exalting on Tawil feels like": 2,
+    "Morimens New Player Handbook by Cheri [V2.5 UGC Contest]": 1,
+    "【English Translation】Opinions Collection": 1,
+    "V2.5.3 战至星海终焉┊Fight to the Astral Doom┊별의 바다의 종점까지 대항하라": 24,
+    "V2.5.3 全新唤醒体✦蚀灭·萝坦┊New Awakener✦Lotan: Cetarchon┊신규 각성체✦침식·로탄": 11,
+    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 3
+  },
+  "hourly_activity": {
+    "0": 120,
+    "1": 381,
+    "2": 449,
+    "3": 290,
+    "4": 753,
+    "5": 592,
+    "6": 307,
+    "7": 462,
+    "8": 244,
+    "9": 26
+  },
+  "message_types": {
+    "0": 2889,
+    "19": 711,
+    "20": 18,
+    "4": 4,
+    "6": 2
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1529020180250759318",
+      "channel_id": "1529020180250759318",
+      "content": "**V2.5.3 战至星海终焉**\n\n她从不在意对手是什么样的。\n她永远会手刃那些足够纯粹、足够强大的存在。\n「来吧，杀死我，或者，被我杀死。」\n她在兴奋！她的",
+      "author": "morimensstaff06",
+      "reactions": 36,
+      "channel": "V2.5.3 战至星海终焉┊Fight to the Astral Doom┊별의 바다의 종점까지 대항하라"
+    },
+    {
+      "id": "1528943357416575057",
+      "channel_id": "1528943357416575057",
+      "content": "两位都是我妈妈\n||感觉好适合搞水仙啊（不是）||",
+      "author": "kuyuki1145",
+      "reactions": 13,
+      "channel": "潦草的摸了"
+    },
+    {
+      "id": "1528918897162588280",
+      "channel_id": "1326453763355185215",
+      "content": "https://cdn.discordapp.com/attachments/1342142372171092052/1464948594040635516/B",
+      "author": "zier.0",
+      "reactions": 12,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1528931858111402034",
+      "channel_id": "1528931858111402034",
+      "content": "WELCOME G-LOTAN, WE'VE BEEN WAITING FOR YOU<:Leigh_love:1468258513405870121>",
+      "author": "sunstopshining",
+      "reactions": 12,
+      "channel": "Lotan: Cetarchon"
+    },
+    {
+      "id": "1528947784341000243",
+      "channel_id": "1528663166601531514",
+      "content": "Русская версия постера 🐋\n—— сделана российской организацией 【Morimens Ru Info Ch",
+      "author": "morimensstaff06",
+      "reactions": 12,
+      "channel": "V2.5.3 全新唤醒体✦蚀灭·萝坦┊New Awakener✦Lotan: Cetarchon┊신규 각성체✦침식·로탄"
+    },
+    {
+      "id": "1528976403452792872",
+      "channel_id": "1528976403452792872",
+      "content": "I drew a small portrait of William. Black and red ink on A5 paper.",
+      "author": "misstabbygrey",
+      "reactions": 8,
+      "channel": "William Ink Portrait"
+    },
+    {
+      "id": "1528987748965417030",
+      "channel_id": "1528987748965417030",
+      "content": "I am excited for this character.",
+      "author": "someone0956",
+      "reactions": 7,
+      "channel": "Quick Lotan: Cetarchon Sketch!"
+    },
+    {
+      "id": "1528945387518300333",
+      "channel_id": "1131839817982947429",
+      "content": "让我想起之前不知道谁发的无毛莱克<:Brown_think:1459080117308620996> 总之我翻出来了<:Horla_shy:1468259514",
+      "author": "ka_0414",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528952003928129626",
+      "channel_id": "1131839817982947429",
+      "content": "雖然我已經外翻了 但還是會有人要把🥵",
+      "author": "yi000607",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528959361215631450",
+      "channel_id": "1131839817982947429",
+      "content": "我打不過",
+      "author": "ahuahuahua",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528993510596804761",
+      "channel_id": "1528993510596804761",
+      "content": "UID 101023227",
+      "author": "mosske",
+      "reactions": 6,
+      "channel": "kisses Leigh gently on the forehead"
+    },
+    {
+      "id": "1529001873409966221",
+      "channel_id": "1131839817982947429",
+      "content": "已經..回不去了...",
+      "author": "heikwok",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529023025004023940",
+      "channel_id": "1131839817982947429",
+      "content": "沒有真正的腿\n沒有進腳臭榜的資格了😿",
+      "author": "heikwok",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528940788497649955",
+      "channel_id": "1131839817982947429",
+      "content": "那不叫福瑞謝謝 那是純畜生",
+      "author": "yi000607",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528941364769722418",
+      "channel_id": "1131839817982947429",
+      "content": "毕竟已经没有人类思维了<:Clem_absolute_peak:1513280497546170509>",
+      "author": "ka_0414",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528971306463395840",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528991363310551120",
+      "channel_id": "1131839817982947429",
+      "content": "我都快3萬源液還不夠嗎？嚇哭了",
+      "author": "kevin.yienwenst",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528996598292676707",
+      "channel_id": "1131839817982947429",
+      "content": "其實是中央山脈跟雪山山脈都是大小姐的個人資產",
+      "author": "roselia_millsage_avemujica",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529012824033202257",
+      "channel_id": "1131839817982947429",
+      "content": "領域展開生出一個黑洞群體亂砍出傷把對面全殺什麼的既視感",
+      "author": "heikwok",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529013013242314843",
+      "channel_id": "1131839817982947429",
+      "content": "拔刀頭髮再變白色",
+      "author": "heikwok",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

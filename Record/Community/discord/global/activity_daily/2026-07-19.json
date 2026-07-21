@@ -1,10 +1,11 @@
 {
   "date": "2026-07-19",
-  "messages": 10698,
+  "messages": 15698,
   "unique_authors": 181,
-  "reactions_total": 733,
-  "attachments": 489,
+  "reactions_total": 840,
+  "attachments": 586,
   "channel_activity": {
+    "🔸general-chat": 7420,
     "🔸綜合討論": 1622,
     "🔸阵容构建": 7,
     "🔸한국어-채팅방": 17,
@@ -16,7 +17,6 @@
     "🔸traphase": 14,
     "🔸lore-chat": 123,
     "🔸team-building": 430,
-    "🔸general-chat": 2420,
     "🔸邀请码互助┊swap-invitation-codes": 7,
     "🔸game-question": 3816,
     "🔸机器人命令┊bot-commands": 56,
@@ -55,12 +55,19 @@
     "1528249757821304942": 1
   },
   "hourly_activity": {
-    "20": 507,
-    "21": 240,
-    "22": 588,
+    "11": 258,
+    "12": 556,
+    "13": 473,
+    "14": 792,
+    "15": 1052,
+    "16": 1014,
+    "17": 987,
+    "18": 987,
+    "19": 932,
+    "20": 1277,
+    "21": 1056,
+    "22": 711,
     "23": 213,
-    "19": 431,
-    "18": 353,
     "0": 581,
     "1": 527,
     "2": 294,
@@ -71,19 +78,12 @@
     "7": 537,
     "8": 637,
     "9": 321,
-    "10": 343,
-    "11": 167,
-    "13": 308,
-    "14": 526,
-    "15": 584,
-    "16": 479,
-    "17": 546,
-    "12": 366
+    "10": 343
   },
   "message_types": {
-    "0": 3180,
-    "19": 1476,
-    "20": 12
+    "19": 2141,
+    "0": 2855,
+    "20": 4
   },
   "top_reacted_messages": [
     {
@@ -141,6 +141,14 @@
       "author": "yusi4172",
       "reactions": 7,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528516065146044639",
+      "channel_id": "1400750050208125010",
+      "content": "this match is literally unstoppable force vs immovable object",
+      "author": "simplyandy",
+      "reactions": 6,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1528411686661259335",
@@ -237,14 +245,6 @@
       "author": "yuji_taste",
       "reactions": 4,
       "channel": "🔸team-building"
-    },
-    {
-      "id": "1528396515205316619",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
     }
   ]
 }

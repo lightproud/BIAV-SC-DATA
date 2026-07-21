@@ -1,11 +1,11 @@
 {
   "date": "2026-06-03",
-  "messages": 33337,
+  "messages": 38337,
   "unique_authors": 484,
-  "reactions_total": 3207,
-  "attachments": 1796,
+  "reactions_total": 3787,
+  "attachments": 2035,
   "channel_activity": {
-    "🔸morimens-game-chat": 5388,
+    "🔸morimens-game-chat": 10388,
     "🔸general-chat": 3772,
     "🔸game-question": 5236,
     "🔸綜合討論": 4653,
@@ -103,6 +103,18 @@
     "1511733337088196628": 6
   },
   "hourly_activity": {
+    "11": 1845,
+    "12": 1810,
+    "13": 2142,
+    "14": 1781,
+    "15": 2357,
+    "16": 2017,
+    "17": 1402,
+    "18": 1080,
+    "19": 1338,
+    "20": 1620,
+    "21": 1355,
+    "22": 1132,
     "0": 969,
     "1": 1295,
     "2": 1814,
@@ -114,23 +126,11 @@
     "8": 1622,
     "9": 1866,
     "10": 1213,
-    "11": 1474,
-    "16": 1596,
-    "17": 1020,
-    "18": 751,
-    "19": 967,
-    "20": 1103,
-    "21": 991,
-    "22": 707,
-    "23": 424,
-    "12": 1444,
-    "13": 1498,
-    "14": 1383,
-    "15": 1945
+    "23": 424
   },
   "message_types": {
-    "0": 3059,
-    "19": 1941
+    "19": 1716,
+    "0": 3284
   },
   "top_reacted_messages": [
     {
@@ -166,6 +166,14 @@
       "channel": "🔸lore-chat"
     },
     {
+      "id": "1511737597700079616",
+      "channel_id": "1170692781216378960",
+      "content": "Can we eat bagel ?",
+      "author": "legendaryredz",
+      "reactions": 16,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1511639849613135982",
       "channel_id": "1170692781216378960",
       "content": "ok kaleido is not it",
@@ -198,6 +206,14 @@
       "channel": "🔸ห้องสนทนาภาษาไทย"
     },
     {
+      "id": "1511737336952786954",
+      "channel_id": "1170692781216378960",
+      "content": "and Redz too",
+      "author": "_venush",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1511697399448342568",
       "channel_id": "1300659753197764688",
       "content": "Apakah ini tanda aku harus belajar tawil juga? Tawilku nganggur karna aku ngga b",
@@ -212,6 +228,14 @@
       "author": "teenotfight",
       "reactions": 12,
       "channel": "My sketch Thais and Saya"
+    },
+    {
+      "id": "1511737279713120397",
+      "channel_id": "1170692781216378960",
+      "content": "can we sacrifice ppep",
+      "author": "_venush",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1511568149483356173",
@@ -268,30 +292,6 @@
       "author": "reya.li",
       "reactions": 9,
       "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1511659912307015781",
-      "channel_id": "1170692781216378960",
-      "content": "parents should parent again instead of handing their crotch goblin an ipad",
-      "author": "drmachineheart",
-      "reactions": 9,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1511599113580445806",
-      "channel_id": "1131839817982947429",
-      "content": "超高校級的草貓高手",
-      "author": "arachnids_nacha",
-      "reactions": 9,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1511682644901888080",
-      "channel_id": "1131839817982947429",
-      "content": "我只能说我有个朋友老年痴呆只会阿巴阿巴玩了茉夏后天天喊shining tornado",
-      "author": "gensono0609",
-      "reactions": 9,
-      "channel": "🔸綜合討論"
     }
   ]
 }
