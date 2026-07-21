@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
-  "archived_at": "2026-07-21T11:08:59.783712+00:00",
+  "archived_at": "2026-07-21T13:45:49.831845+00:00",
   "source": "youtube",
-  "item_count": 15,
+  "item_count": 18,
   "items": [
     {
       "title": "Моя честная реакция на выход Генезис Лотан #morimens #cardbuilder #gacha #genshinimpact",
@@ -141,6 +141,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "[SPEEDPAINT] Lotan: Cetarchon | Morimens",
+      "summary": "Prayge for getting GLotan Program: CSP Social Media: X : https://x.com/calcduc IG : / calcduc ✦ Track name: The Only Finale ...",
+      "source": "youtube",
+      "time": "2026-07-21T12:18:08Z",
+      "url": "https://www.youtube.com/watch?v=mkthtWHwuQk",
+      "engagement": 24,
+      "is_hot": false,
+      "author": "calc",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/mkthtWHwuQk/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "【忘却前夜】忘却編　終章　9-5　から　いつもよりネタバレ注意",
       "summary": "さすがに震える.",
       "source": "youtube",
@@ -153,6 +170,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/v4M5YV8PKCo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【Morimens】Melanjutkan Story Dunia Misterius Ini😱  [Vtuber Indonesia LIVE]",
+      "summary": "Dukung aku melalui link berikut! Trakteer: https://trakteer.id/raynards_himmelregn/gift https://sociabuzz.com/rain_a_lot ...",
+      "source": "youtube",
+      "time": "2026-07-21T12:27:14Z",
+      "url": "https://www.youtube.com/watch?v=kEWDjFyRqEw",
+      "engagement": 22,
+      "is_hot": false,
+      "author": "Rain a lot",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/kEWDjFyRqEw/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -255,6 +289,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/k_X3hryqhfE/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "MORIMENS | Parte 1 - El comienzo de una pesadilla",
+      "summary": "Bienvenidos al primer episodio de Morimens, una aventura oscura llena de misterios, criaturas inquietantes y decisiones que ...",
+      "source": "youtube",
+      "time": "2026-07-21T12:00:06Z",
+      "url": "https://www.youtube.com/watch?v=dvRt6mM8GaE",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "NivelXecreto",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/dvRt6mM8GaE/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

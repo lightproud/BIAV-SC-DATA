@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
-  "archived_at": "2026-07-21T11:08:59.785255+00:00",
+  "archived_at": "2026-07-21T13:45:49.833537+00:00",
   "source": "bilibili",
-  "item_count": 12,
+  "item_count": 14,
   "items": [
     {
       "title": "老大.....会不会太猎奇了..",
@@ -69,6 +69,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/320397d15b6f34af954c8699a3b379d1039ea514.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】7.20-8.2融灾禁区BOSS简易图鉴",
+      "summary": "虽然羊妈血量涨了一截，但整体水温感觉\n  └ 落青青青 (1赞): 感谢，在4关和5关挣扎了半天，最后默默降低到难度4，就很快乐[doge]\n  └ 黑白-看客 (0赞): 怪物图鉴是对的，实用性很高",
+      "source": "bilibili",
+      "time": "2026-07-21T11:58:59+00:00",
+      "url": "https://www.bilibili.com/video/BV1BkKh6iEq3",
+      "engagement": 166,
+      "is_hot": false,
+      "author": "花岚天音Amane",
+      "tags": [
+        "桌游棋牌"
+      ],
+      "metadata": {
+        "play": 164,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/3985d8f84013cc02d10917bb77cb71195f6dbe86.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -253,6 +276,29 @@
         "danmaku": 5
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/66edc61a78685fb9220ecc084d15b13ec7486344.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "忘却前夜，7.21融灾，水温又上升的一期",
+      "summary": "感觉3启队伍有点玩不下去了，已经需要额外的造物支撑了，拿不到固定造物和埋了差不多。\n这期主要是初始造物都强的不像话，不然我感觉道中都够你喝一壶大的。毕竟小怪伤害已经全面加强了。\n5图道中两个精英怪何意味。\n混沌三件套：酒杯，项链，照相机，我说全金选到就赢三件套。",
+      "source": "bilibili",
+      "time": "2026-07-21T13:38:10+00:00",
+      "url": "https://www.bilibili.com/video/BV1giK86QEp4",
+      "engagement": 10,
+      "is_hot": false,
+      "author": "断裂免罪符",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 10,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/4f4d68cda65861447c3c3d841ed050be403f49b3.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

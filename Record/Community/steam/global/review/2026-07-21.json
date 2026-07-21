@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
-  "archived_at": "2026-07-21T11:08:59.886206+00:00",
+  "archived_at": "2026-07-21T13:45:49.940178+00:00",
   "source": "steam",
-  "item_count": 7,
+  "item_count": 9,
   "items": [
     {
       "title": "[正面] 仅我个人而言美术画风很戳我，玩法也还行感觉养不好角色会很牢，抽角色池爆率也太高了吧我去",
@@ -166,6 +166,54 @@
         "playtime_forever": 770,
         "votes_up": 0,
         "timestamp_created": 1784608083
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 神遊",
+      "summary": "神遊",
+      "source": "steam_review",
+      "time": "2026-07-21T11:06:59+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198213328833/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198213328833",
+      "tags": [
+        "tchinese"
+      ],
+      "language": "tchinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2538,
+        "votes_up": 0,
+        "timestamp_created": 1784632019
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 好看",
+      "summary": "好看",
+      "source": "steam_review",
+      "time": "2026-07-21T10:38:31+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198794507694/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198794507694",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 535,
+        "votes_up": 0,
+        "timestamp_created": 1784630311
       },
       "region": "global",
       "archive_subtype": "review",
