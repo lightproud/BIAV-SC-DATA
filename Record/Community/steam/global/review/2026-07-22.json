@@ -1,8 +1,8 @@
 {
   "date": "2026-07-22",
-  "archived_at": "2026-07-21T19:20:14.939695+00:00",
+  "archived_at": "2026-07-21T22:04:59.255614+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] its actually pretty fun",
@@ -46,6 +46,54 @@
         "playtime_forever": 3661,
         "votes_up": 0,
         "timestamp_created": 1784652261
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 好玩",
+      "summary": "好玩",
+      "source": "steam_review",
+      "time": "2026-07-21T21:31:45+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199859431706/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199859431706",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 843,
+        "votes_up": 0,
+        "timestamp_created": 1784669505
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Absolute Peak. Story is amazing to the point i cri...",
+      "summary": "Absolute Peak. Story is amazing to the point i cried multiple times",
+      "source": "steam_review",
+      "time": "2026-07-21T20:40:42+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199366313856/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199366313856",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 10534,
+        "votes_up": 0,
+        "timestamp_created": 1784666442
       },
       "region": "global",
       "archive_subtype": "review",

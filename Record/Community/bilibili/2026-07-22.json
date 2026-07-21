@@ -1,8 +1,8 @@
 {
   "date": "2026-07-22",
-  "archived_at": "2026-07-21T19:20:14.829860+00:00",
+  "archived_at": "2026-07-21T22:04:59.149608+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "发布一些肉块",
@@ -23,6 +23,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/19c939659e12cf20d6d30d28d7665e32639983e4.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【上海视觉小说only】星光咖啡馆地大分店宣摊",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-21T20:57:57+00:00",
+      "url": "https://www.bilibili.com/video/BV1K9Ke6dEYU",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Rance様_",
+      "tags": [
+        "音游"
+      ],
+      "metadata": {
+        "play": 2,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/4d72341502eed0b492359d9167455fc5f8599104.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
