@@ -1,0 +1,88 @@
+{
+  "date": "2026-07-21",
+  "messages": 49,
+  "unique_authors": 8,
+  "reactions_total": 21,
+  "attachments": 1,
+  "channel_activity": {
+    "なんでも雑談": 36,
+    "思想汚染(うちcp)の話し": 12,
+    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 1
+  },
+  "hourly_activity": {
+    "0": 2,
+    "1": 6,
+    "2": 2,
+    "3": 39
+  },
+  "message_types": {
+    "0": 45,
+    "19": 4
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1528961315937452102",
+      "channel_id": "1377478664609857647",
+      "content": "君のこと嫌いみたい",
+      "author": "zzzorz",
+      "reactions": 9,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1528956793429032970",
+      "channel_id": "1377478664609857647",
+      "content": "リッツ完凸しました……",
+      "author": "kishinimankosumosu",
+      "reactions": 5,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1528967236726034522",
+      "channel_id": "1377478664609857647",
+      "content": "催眠なんてかかるわけないんだが！？((薄い本のタイトル",
+      "author": "aku08158",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1528936761697374361",
+      "channel_id": "1377478664609857647",
+      "content": "蓄音機解放したいから頑張る💪",
+      "author": "pei123",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1528967669783597099",
+      "channel_id": "1377478664609857647",
+      "content": "首狩りビルドマジ弱い。というかライカーの「幸運の時」 が強すぎる。",
+      "author": "aku08158",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1528968705432616971",
+      "channel_id": "1377478664609857647",
+      "content": "超次元使ってて困るのが、空間に入れたいカードを優先的に使ってたらキーチャがまじで貯まらないこと",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1528970565283610784",
+      "channel_id": "1377478664609857647",
+      "content": "多分俺の感情消えてる",
+      "author": "kishinimankosumosu",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1528970833639510047",
+      "channel_id": "1377478664609857647",
+      "content": "ダフォは1コスでダメ強じゃなくて基礎効果上がって欲しいんだよなー",
+      "author": "zzzorz",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    }
+  ]
+}
