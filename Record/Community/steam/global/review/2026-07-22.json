@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-22",
+  "archived_at": "2026-07-21T19:20:14.939695+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[正面] its actually pretty fun",
+      "summary": "its actually pretty fun",
+      "source": "steam_review",
+      "time": "2026-07-21T18:07:21+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199012911426/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199012911426",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 404,
+        "votes_up": 0,
+        "timestamp_created": 1784657241
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 构筑思路与立绘都很好，我不想多说虚的，这是我在steam上能够找到的为数不多精美二次元回合策略游戏了",
+      "summary": "构筑思路与立绘都很好，我不想多说虚的，这是我在steam上能够找到的为数不多精美二次元回合策略游戏了",
+      "source": "steam_review",
+      "time": "2026-07-21T16:44:21+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198786404669/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198786404669",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3661,
+        "votes_up": 0,
+        "timestamp_created": 1784652261
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
