@@ -1,8 +1,8 @@
 {
   "date": "2026-07-20",
-  "archived_at": "2026-07-21T05:51:20.484381+00:00",
+  "archived_at": "2026-07-21T08:27:30.457026+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 exelente juego, muy f2p",
@@ -16,6 +16,20 @@
       "tags": [],
       "lang": "es",
       "platform_region": "es",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 game tốt á mà đi xa đuối quá",
+      "summary": "game tốt á mà đi xa đuối quá",
+      "source": "google_play",
+      "time": "2026-07-20T07:56:35",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=vi#gp-5e06aac3-493a-476c-871e-8a26beab41e1",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Nguyễn Chí Linh",
+      "tags": [],
+      "lang": "vi",
+      "platform_region": "vn",
       "region": "global"
     }
   ],

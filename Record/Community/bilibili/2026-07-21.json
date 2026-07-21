@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
-  "archived_at": "2026-07-21T05:51:20.351603+00:00",
+  "archived_at": "2026-07-21T08:27:30.342633+00:00",
   "source": "bilibili",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "老大.....会不会太猎奇了..",
@@ -23,6 +23,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/2c7c09e310aa21518f0d670455b2f92d1deecc5a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "&lt;综合质量对比&gt;空境、魔夜、月姬、FSN、DDD  vs  FZ、续杀戮之姜戈，魔圆，沙耶之歌，幻灵镇魂曲",
+      "summary": "-\n  └ Sanszjy (1赞): 空境+魔夜就差不多了\n  └ acg公用号 (1赞): 魔圆拖后腿了，老虚那么多作品上个东离剑游记也行啊，魔圆在老虚作品内部进不了前5\n  └ 某断章的灾厄之海 (1赞): 牢虚算了，菌类再怎么样，还轮不到他来肘",
+      "source": "bilibili",
+      "time": "2026-07-21T01:46:01+00:00",
+      "url": "https://www.bilibili.com/video/BV1wSKt6NEPj",
+      "engagement": 344,
+      "is_hot": false,
+      "author": "某断章的灾厄之海",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 324,
+        "comment_count": 20,
+        "comments_fetched": 3,
+        "danmaku": 18
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/f16f8231fa5435e14dfed39c471a31e933be5ad6.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

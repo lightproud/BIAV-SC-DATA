@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
-  "archived_at": "2026-07-21T05:51:20.420397+00:00",
+  "archived_at": "2026-07-21T08:27:30.401761+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] 仅我个人而言美术画风很戳我，玩法也还行感觉养不好角色会很牢，抽角色池爆率也太高了吧我去",
@@ -94,6 +94,78 @@
         "playtime_forever": 4020,
         "votes_up": 0,
         "timestamp_created": 1784586414
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 邀请码AUNQEQ953F",
+      "summary": "邀请码AUNQEQ953F",
+      "source": "steam_review",
+      "time": "2026-07-21T06:26:27+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198682434006/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198682434006",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 177,
+        "votes_up": 0,
+        "timestamp_created": 1784615187
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 因为沙耶来的，不过游戏本身属于说很无聊套皮又确实打牌还好，多一个也还行没他也无所谓的。羊妈杯子那个事...",
+      "summary": "因为沙耶来的，不过游戏本身属于说很无聊套皮又确实打牌还好，多一个也还行没他也无所谓的。羊妈杯子那个事情感觉钉死耻辱柱了，没法当没发生过",
+      "source": "steam_review",
+      "time": "2026-07-21T04:48:48+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198841791640/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198841791640",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 5659,
+        "votes_up": 0,
+        "timestamp_created": 1784609328
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] d",
+      "summary": "d",
+      "source": "steam_review",
+      "time": "2026-07-21T04:28:03+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198169405066/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198169405066",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 770,
+        "votes_up": 0,
+        "timestamp_created": 1784608083
       },
       "region": "global",
       "archive_subtype": "review",
