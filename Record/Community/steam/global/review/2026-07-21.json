@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
-  "archived_at": "2026-07-20T22:01:25.584069+00:00",
+  "archived_at": "2026-07-21T02:29:39.873007+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] 仅我个人而言美术画风很戳我，玩法也还行感觉养不好角色会很牢，抽角色池爆率也太高了吧我去",
@@ -70,6 +70,30 @@
         "playtime_forever": 422,
         "votes_up": 0,
         "timestamp_created": 1784580961
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] i like so far yep",
+      "summary": "i like so far yep",
+      "source": "steam_review",
+      "time": "2026-07-20T22:26:54+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199576930008/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199576930008",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 4020,
+        "votes_up": 0,
+        "timestamp_created": 1784586414
       },
       "region": "global",
       "archive_subtype": "review",

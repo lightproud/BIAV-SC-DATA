@@ -1,8 +1,8 @@
 {
   "date": "2026-07-20",
-  "archived_at": "2026-07-20T22:01:25.476675+00:00",
+  "archived_at": "2026-07-21T02:29:39.765409+00:00",
   "source": "bilibili",
-  "item_count": 18,
+  "item_count": 19,
   "items": [
     {
       "title": "【忘却前夜】7.20-8.4容灾攻略",
@@ -276,6 +276,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/9f8dad4fd946880ac72625648b3a6f507daf3c5e.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】7.20融灾恐怖大蜘蛛一穿二羊妈",
+      "summary": "钕铜头子阿拉克涅一回合橄榄弥撒格最能生的女人（大雾）\n  └ 泡泡睡捉了 (0赞): 小龙包又在玩什么[永恒轮回·表情包_骗我吗]",
+      "source": "bilibili",
+      "time": "2026-07-20T15:24:19+00:00",
+      "url": "https://www.bilibili.com/video/BV1pBKH6EEbs",
+      "engagement": 112,
+      "is_hot": false,
+      "author": "NoMoretoForgive",
+      "tags": [
+        "电子竞技"
+      ],
+      "metadata": {
+        "play": 111,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/901ffdf804743c9b89245370fdb6cef97556220e.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
