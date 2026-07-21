@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
-  "archived_at": "2026-07-21T13:45:49.833537+00:00",
+  "archived_at": "2026-07-21T16:25:11.205543+00:00",
   "source": "bilibili",
-  "item_count": 14,
+  "item_count": 15,
   "items": [
     {
       "title": "老大.....会不会太猎奇了..",
@@ -161,6 +161,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/f10445efd3f7a281e4e826b84e2e0d3e8b906e6a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "少女的心思",
+      "summary": "乱剪的，不喜轻喷(T⌓T)\n  └ 橙粽xy爱 (2赞): 沙耶\n  └ HaibaneRenmei (1赞): 11厨狂喜[doge]",
+      "source": "bilibili",
+      "time": "2026-07-21T04:06:41+00:00",
+      "url": "https://www.bilibili.com/video/BV1swKt6TETo",
+      "engagement": 119,
+      "is_hot": false,
+      "author": "m1sakii-_-",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 116,
+        "comment_count": 3,
+        "comments_fetched": 2,
+        "danmaku": 1
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/b2f5071b9b5472eb8a7cc193d86eca38d318f681.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

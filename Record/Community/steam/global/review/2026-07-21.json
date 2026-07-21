@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
-  "archived_at": "2026-07-21T13:45:49.940178+00:00",
+  "archived_at": "2026-07-21T16:25:11.306322+00:00",
   "source": "steam",
-  "item_count": 9,
+  "item_count": 11,
   "items": [
     {
       "title": "[正面] 仅我个人而言美术画风很戳我，玩法也还行感觉养不好角色会很牢，抽角色池爆率也太高了吧我去",
@@ -214,6 +214,54 @@
         "playtime_forever": 535,
         "votes_up": 0,
         "timestamp_created": 1784630311
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 入坑40多天，在手机上玩了100个小时。冲着抽卡资源送得多，给个好评",
+      "summary": "入坑40多天，在手机上玩了100个小时。冲着抽卡资源送得多，给个好评",
+      "source": "steam_review",
+      "time": "2026-07-21T14:08:26+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199736048242/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199736048242",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 65,
+        "votes_up": 0,
+        "timestamp_created": 1784642906
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] アジア産らしく課金システムの上限がえぐい（海外は一部のプレイヤーに大量課金させる方針の為）\nしかし、...",
+      "summary": "アジア産らしく課金システムの上限がえぐい（海外は一部のプレイヤーに大量課金させる方針の為）\nしかし、無課金でそこそこ楽しんで終わるつもりならかなり楽しめる作品となっている。\nガチャチケットが割とたくさんもらえるが、どうやって貰えばいいのかが分かり辛い、頑張って探そう。\n\nストーリーがとても暗い内容で、登場人物のほとんどが「酷い目に合っている奴」か「酷い奴」の二択でありそういった部分を楽しめるならば是非お勧めしたい。",
+      "source": "steam_review",
+      "time": "2026-07-21T12:50:09+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198336102496/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198336102496",
+      "tags": [
+        "japanese"
+      ],
+      "language": "japanese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 4679,
+        "votes_up": 0,
+        "timestamp_created": 1784638209
       },
       "region": "global",
       "archive_subtype": "review",

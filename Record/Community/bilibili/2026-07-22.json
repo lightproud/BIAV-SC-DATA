@@ -1,0 +1,31 @@
+{
+  "date": "2026-07-22",
+  "archived_at": "2026-07-21T16:25:11.273816+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "发布一些肉块",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-21T16:19:17+00:00",
+      "url": "https://www.bilibili.com/video/BV1UsKY6dEXt",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "_山田涼_",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 2,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/19c939659e12cf20d6d30d28d7665e32639983e4.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
-  "archived_at": "2026-07-21T13:45:49.834254+00:00",
+  "archived_at": "2026-07-21T16:25:11.206691+00:00",
   "source": "bahamut",
-  "item_count": 26,
+  "item_count": 27,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -338,6 +338,19 @@
       "engagement": 4,
       "is_hot": false,
       "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【情報】【日服】熔燬・朵爾技能介紹(大改)",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-07-21T15:50:28.036267+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1497&tnum=1",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "kaketsuki720",
       "tags": [],
       "lang": "zh",
       "platform_region": "tw"
