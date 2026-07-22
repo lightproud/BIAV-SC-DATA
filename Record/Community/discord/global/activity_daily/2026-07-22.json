@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-22",
+  "messages": 2711,
+  "unique_authors": 236,
+  "reactions_total": 489,
+  "attachments": 138,
+  "channel_activity": {
+    "🔸綜合討論": 631,
+    "🔸阵容构建": 2,
+    "🔸晒卡分享": 1,
+    "🔸课间休息闲聊": 32,
+    "🔸交友频道": 1,
+    "🔸한국어-채팅방": 6,
+    "🔸русский-канал": 18,
+    "🔸phòng-chat-tiếng-việt": 44,
+    "🔸canal-español": 38,
+    "🔸canal-português": 37,
+    "🔸ruang-obrolan-indonesia": 86,
+    "🔸ห้องสนทนาภาษาไทย": 24,
+    "🔸traphase": 2,
+    "🔸lore-chat": 350,
+    "🔸lets-count": 4,
+    "🔸team-building": 224,
+    "🔸邀请码互助┊swap-invitation-codes": 4,
+    "🔸game-question": 1112,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 14,
+    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 1,
+    "蓋個圖樓": 2,
+    "录像回放一直超时不能使用": 1,
+    "Help! Can't create a new account/求助！无法创建新账号": 1,
+    "Request - Please lighten the requirement for the seasonal Silver rewards for Traphase": 3,
+    "TV生成的囚魇卡面错误显示": 1,
+    "Can we increase Arcane Dominion runs?": 3,
+    "✅「已回答」「未解决」氪金玩家和老玩家是否已经成为游戏前进的阻力？": 1,
+    "V2.5.1.0 停服维护公告": 1,
+    "Statement on the PV-Related Feedback": 13,
+    "Celeste ⚓": 1,
+    "Pollux Infographic for Beginners": 3,
+    "【English Translation】Opinions Collection": 2,
+    "V2.5.3 战斗吧守密人┊Ready to Fight, Keeper?┊겨루어라, 수호자여": 30,
+    "V2.5.3 战至星海终焉┊Fight to the Astral Doom┊별의 바다의 종점까지 대항하라": 1,
+    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 3,
+    "V2.5.0 命运剧院┊Theater of Fate": 5,
+    "抽奖！「秘银日冕」系列徽章 即将贩售！\"Silver Corona\" Awakener Badges Launching Soon! Share for Merchandise Giveaway!": 5,
+    "Do you guys use WoD dupe selectors on Blade of the Titan?": 2,
+    "1529328091195904111": 1
+  },
+  "hourly_activity": {
+    "0": 221,
+    "1": 298,
+    "2": 259,
+    "3": 318,
+    "4": 301,
+    "5": 85,
+    "6": 201,
+    "7": 375,
+    "8": 513,
+    "9": 140
+  },
+  "message_types": {
+    "0": 2111,
+    "19": 588,
+    "20": 9,
+    "4": 1,
+    "6": 1,
+    "21": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1529385369274023956",
+      "channel_id": "1529382823562051675",
+      "content": "Correct EN version is right here <:Karen_yum:1356083313063759922> !!!",
+      "author": "morimensstaff06",
+      "reactions": 106,
+      "channel": "V2.5.3 战斗吧守密人┊Ready to Fight, Keeper?┊겨루어라, 수호자여"
+    },
+    {
+      "id": "1529389928457306212",
+      "channel_id": "1529389928457306212",
+      "content": "We've noted and looked into the concerns that have been raised: the opening of a",
+      "author": "lightproud",
+      "reactions": 14,
+      "channel": "Statement on the PV-Related Feedback"
+    },
+    {
+      "id": "1529311330493009990",
+      "channel_id": "1131839817982947429",
+      "content": "有叫作清清梓然的大佬可以草死我嗎",
+      "author": "luna_.90",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529391427883237406",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "heikwok",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529385746945937408",
+      "channel_id": "1529385746945937408",
+      "content": "https://x.com/SaminDraws/status/2079819850851975534?s=20",
+      "author": "samin_",
+      "reactions": 9,
+      "channel": "Celeste ⚓"
+    },
+    {
+      "id": "1529382823562051675",
+      "channel_id": "1529382823562051675",
+      "content": "**V2.5.3 战斗吧守密人**\n\n地点：弥萨格大学-公共训练场⚔️\n对手：已为你随机匹配到蚀灭·萝坦\n敌方技能：力量型\n我方技能：打击、防御、？？？、？？？",
+      "author": "morimensstaff06",
+      "reactions": 9,
+      "channel": "V2.5.3 战斗吧守密人┊Ready to Fight, Keeper?┊겨루어라, 수호자여"
+    },
+    {
+      "id": "1529388740886138891",
+      "channel_id": "1529382823562051675",
+      "content": "你的打防不是很好用 我幫你換了一下",
+      "author": "water_heart",
+      "reactions": 8,
+      "channel": "V2.5.3 战斗吧守密人┊Ready to Fight, Keeper?┊겨루어라, 수호자여"
+    },
+    {
+      "id": "1529344001759510638",
+      "channel_id": "1131839817982947429",
+      "content": "我都無氪不借助戰425了他還是不願意草我",
+      "author": "ahuahuahua",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529391011132866654",
+      "channel_id": "1529389928457306212",
+      "content": "你也是真的火了，居然被抄了，總之前面忘了中間忘了後面忘了，忘卻前夜加油吧",
+      "author": "shostakovich524",
+      "reactions": 7,
+      "channel": "Statement on the PV-Related Feedback"
+    },
+    {
+      "id": "1529307035164741753",
+      "channel_id": "1326453763355185215",
+      "content": "Yo Keeper needs to pass the ball, I'm about to bench his ass",
+      "author": "zoronisnormal",
+      "reactions": 6,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1529383475155832954",
+      "channel_id": "1529382823562051675",
+      "content": "Rotan typo <:Aurita_please:1356053110375714817>",
+      "author": "_venush",
+      "reactions": 6,
+      "channel": "V2.5.3 战斗吧守密人┊Ready to Fight, Keeper?┊겨루어라, 수호자여"
+    },
+    {
+      "id": "1529340178064343172",
+      "channel_id": "1131839817982947429",
+      "content": "很少看到這麼喜歡玩忘卻的了",
+      "author": "yusi4172",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529375978802122814",
+      "channel_id": "1174983699935277147",
+      "content": "",
+      "author": "nazhigezihk",
+      "reactions": 5,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1529391237088678090",
+      "channel_id": "1529389928457306212",
+      "content": "",
+      "author": "iTranslator",
+      "reactions": 5,
+      "channel": "Statement on the PV-Related Feedback"
+    },
+    {
+      "id": "1529303011506257962",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "ahuahuahua",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529351785272053871",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "hon_ey0",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529395642764492850",
+      "channel_id": "1131839817982947429",
+      "content": "是看我們要死了來送版權費是吧哈哈哈哈哈哈哈哈",
+      "author": "hon_ey0",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529412070989238303",
+      "channel_id": "1131839817982947429",
+      "content": "我破防了",
+      "author": "heikwok",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529413497912299570",
+      "channel_id": "1131839817982947429",
+      "content": "怎麼sp鯨只有超大杯武器 本人沒有超大杯",
+      "author": "heikwok",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529413779903741973",
+      "channel_id": "1131839817982947429",
+      "content": "塔薇应该有能力收回所有碎片的扔子变成超大杯",
+      "author": "gensono0609",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "date": "2026-07-19",
-  "messages": 15698,
+  "messages": 16379,
   "unique_authors": 181,
-  "reactions_total": 840,
-  "attachments": 586,
+  "reactions_total": 855,
+  "attachments": 610,
   "channel_activity": {
-    "🔸general-chat": 7420,
+    "🔸general-chat": 8101,
     "🔸綜合討論": 1622,
     "🔸阵容构建": 7,
     "🔸한국어-채팅방": 17,
@@ -55,6 +55,8 @@
     "1528249757821304942": 1
   },
   "hourly_activity": {
+    "22": 997,
+    "23": 608,
     "11": 258,
     "12": 556,
     "13": 473,
@@ -66,8 +68,6 @@
     "19": 932,
     "20": 1277,
     "21": 1056,
-    "22": 711,
-    "23": 213,
     "0": 581,
     "1": 527,
     "2": 294,
@@ -81,9 +81,9 @@
     "10": 343
   },
   "message_types": {
-    "19": 2141,
-    "0": 2855,
-    "20": 4
+    "19": 156,
+    "0": 523,
+    "20": 2
   },
   "top_reacted_messages": [
     {
@@ -141,6 +141,14 @@
       "author": "yusi4172",
       "reactions": 7,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528523850558734619",
+      "channel_id": "1400750050208125010",
+      "content": "Gonna win against spain in my dream",
+      "author": "bruhlucifer",
+      "reactions": 6,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1528516065146044639",
@@ -237,14 +245,6 @@
       "author": "samin_",
       "reactions": 5,
       "channel": "Winkle ☕"
-    },
-    {
-      "id": "1528541445781323886",
-      "channel_id": "1400749543288475770",
-      "content": "Day 2 on this game got her and",
-      "author": "yuji_taste",
-      "reactions": 4,
-      "channel": "🔸team-building"
     }
   ]
 }

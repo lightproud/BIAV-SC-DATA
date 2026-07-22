@@ -1,10 +1,11 @@
 {
   "date": "2026-06-04",
-  "messages": 28853,
+  "messages": 33072,
   "unique_authors": 537,
-  "reactions_total": 3343,
-  "attachments": 1530,
+  "reactions_total": 3802,
+  "attachments": 1700,
   "channel_activity": {
+    "🔸morimens-game-chat": 4219,
     "🔸general-chat": 7039,
     "🔸綜合討論": 3901,
     "🔸日本語チャンネル": 21,
@@ -102,20 +103,20 @@
     "1512140556057317576": 1
   },
   "hourly_activity": {
+    "0": 669,
+    "1": 818,
+    "2": 1276,
+    "3": 1322,
+    "4": 1580,
+    "5": 1603,
+    "6": 1738,
+    "7": 1971,
+    "8": 1890,
     "19": 1086,
     "20": 730,
     "21": 1199,
     "22": 1099,
     "23": 1292,
-    "0": 437,
-    "1": 570,
-    "2": 724,
-    "3": 671,
-    "4": 1082,
-    "5": 998,
-    "6": 1249,
-    "7": 1478,
-    "8": 1439,
     "9": 1508,
     "10": 1201,
     "11": 1557,
@@ -128,8 +129,8 @@
     "18": 1130
   },
   "message_types": {
-    "19": 850,
-    "0": 2205
+    "0": 2725,
+    "19": 1494
   },
   "top_reacted_messages": [
     {
@@ -197,12 +198,28 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1512000956563456020",
+      "channel_id": "1170692781216378960",
+      "content": "Guys\nWe did it\nWe saved Morimens **again** !!",
+      "author": "legendaryredz",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1511976224099143791",
       "channel_id": "1131839817982947429",
       "content": "唐三没头发",
       "author": "angbak",
       "reactions": 10,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1512002034075963392",
+      "channel_id": "1170692781216378960",
+      "content": "Brb banning someone and getting someone to join again",
+      "author": "angbak",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1512071355644903504",
@@ -245,6 +262,14 @@
       "channel": "🔸canal-español"
     },
     {
+      "id": "1511899516494942440",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "boppyboi",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1511956536128307280",
       "channel_id": "1131839817982947429",
       "content": "",
@@ -267,30 +292,6 @@
       "author": "heikwok",
       "reactions": 8,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1511998766486523935",
-      "channel_id": "1400750050208125010",
-      "content": "WHAT",
-      "author": "haetes.",
-      "reactions": 7,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1512073629125574819",
-      "channel_id": "1400750050208125010",
-      "content": "Just Mouchette",
-      "author": "lowtownnivn",
-      "reactions": 7,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1511989029867098153",
-      "channel_id": "1433513650299076780",
-      "content": "100 pull open in 2 day?",
-      "author": "slymate_",
-      "reactions": 5,
-      "channel": "🔸game-question"
     }
   ]
 }
