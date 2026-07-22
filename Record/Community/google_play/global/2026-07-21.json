@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
-  "archived_at": "2026-07-22T03:16:03.004907+00:00",
+  "archived_at": "2026-07-22T05:50:35.196000+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 제 인생겜입니다. 뼈를 묻겠습니다.",
@@ -30,6 +30,20 @@
       "tags": [],
       "lang": "es",
       "platform_region": "es",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Honestly I found this game by accident.",
+      "summary": "Honestly I found this game by accident. I'm LOVING it! its such a hidden gem that deserves way more recognition. I pray that it continues to grow and gain success as I just love the art style, creepy story and art and how it plays like Slay the spire!",
+      "source": "google_play",
+      "time": "2026-07-21T03:33:16",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-f7b33733-b7e5-4785-8eb2-726b751639a6",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Hunter Lambert",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],

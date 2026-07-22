@@ -1,8 +1,8 @@
 {
   "date": "2026-07-22",
-  "archived_at": "2026-07-22T03:16:02.857124+00:00",
+  "archived_at": "2026-07-22T05:50:35.084855+00:00",
   "source": "youtube",
-  "item_count": 11,
+  "item_count": 13,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능) 융재 설명회",
@@ -22,6 +22,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "【Morimens】Melanjutkan Story Dunia Misterius Ini😱  [Vtuber Indonesia LIVE]",
+      "summary": "Dukung aku melalui link berikut! Trakteer: https://trakteer.id/raynards_himmelregn/gift https://sociabuzz.com/rain_a_lot ...",
+      "source": "youtube",
+      "time": "2026-07-22T03:30:51Z",
+      "url": "https://www.youtube.com/watch?v=kEWDjFyRqEw",
+      "engagement": 50,
+      "is_hot": false,
+      "author": "Rain a lot",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/kEWDjFyRqEw/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Directo relax Morimens | Preparándonos para la llegada de Lotan: Cetarchon",
       "summary": "No olviden unirse al discord :). https://discord.gg/UgmMCae3Sg.",
       "source": "youtube",
@@ -34,6 +51,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/5hQdn1qh07c/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Are these characters good in Morimens? #gacha #shorts",
+      "summary": "Some more Morimens gacha pulls! SPOILER: I pulled Liz and Casiah! #morimens.",
+      "source": "youtube",
+      "time": "2026-07-22T05:38:01Z",
+      "url": "https://www.youtube.com/watch?v=HzyAMHsLgW8",
+      "engagement": 14,
+      "is_hot": false,
+      "author": "Dread Tmrw",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/HzyAMHsLgW8/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

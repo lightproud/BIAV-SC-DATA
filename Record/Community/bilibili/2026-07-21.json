@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
-  "archived_at": "2026-07-22T03:16:02.853657+00:00",
+  "archived_at": "2026-07-22T05:50:35.081521+00:00",
   "source": "bilibili",
-  "item_count": 19,
+  "item_count": 20,
   "items": [
     {
       "title": "老大.....会不会太猎奇了..",
@@ -92,6 +92,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/c558199504c90f65cf0df9a706e6a6124ff5596f.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "忘却前夜100回合的终结",
+      "summary": "-\n  └ -_--_-_--_-_ (0赞): 质量好高[打call]\n  └ 蔡怜儿 (0赞): 这牌库直接爆了",
+      "source": "bilibili",
+      "time": "2026-07-21T10:27:34+00:00",
+      "url": "https://www.bilibili.com/video/BV1sMKa6UEtK",
+      "engagement": 184,
+      "is_hot": false,
+      "author": "不知今世为何",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 182,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/5dbf2de5872a3497b286ef0ead0e534801c89480.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-22",
-  "archived_at": "2026-07-22T03:16:02.855978+00:00",
+  "archived_at": "2026-07-22T05:50:35.083572+00:00",
   "source": "bilibili",
-  "item_count": 4,
+  "item_count": 7,
   "items": [
     {
       "title": "致敬传奇残局满血kks大人",
@@ -23,6 +23,75 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/544c271d87c5e4a8b1a60d5135cd6cc25e9f774c.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】怎么又能逃课了？混沌最终法则大队满血通关融灾3-5",
+      "summary": "-\n  └ 凌厉彼岸 (1赞): 逃课成功 感谢大佬[星星眼][星星眼]\n  └ 嘎啦嘎啦果 (1赞): 诺缔拉可以换成法洛思 一样的打法 可能还更舒适 全部的她全部充给混沌队友 优先两个小骑士和艾尔瓦\n  └ 生活仍在继续12138 (0赞): 点进来一看发现猜错主角",
+      "source": "bilibili",
+      "time": "2026-07-22T03:41:36+00:00",
+      "url": "https://www.bilibili.com/video/BV1S4gz6WEsX",
+      "engagement": 173,
+      "is_hot": false,
+      "author": "嘎啦嘎啦果",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 167,
+        "comment_count": 6,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/9ff20834de787bfc614414f1c1c9df6e0bac3eb1.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】沙耶鸟弟阵容 星辰篇 主线5-15",
+      "summary": "这个阵容也许还可以？\n神父提供高额血量和回复，沙耶+鸟弟道中清杂体验不错，阿拉克涅提供护盾和辅助输出。\n虽然比上个视频慢一回合，但是打起来手感比较安逸， \n缺点是银钥不太够，也许神父换羊妈更好？",
+      "source": "bilibili",
+      "time": "2026-07-22T03:54:56+00:00",
+      "url": "https://www.bilibili.com/video/BV1hHgz6oECH",
+      "engagement": 38,
+      "is_hot": false,
+      "author": "千年之剑",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 38,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/21be4dcfdba9ebbe05843b088959cfc882bc332f.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜/时摆组手书】绝对不可以熬夜哦！",
+      "summary": "哟西熬夜吧小莉奥\nos时摆好美味。\n音频来源：cc老师（配音界的王子）",
+      "source": "bilibili",
+      "time": "2026-07-22T05:11:19+00:00",
+      "url": "https://www.bilibili.com/video/BV1s6gr6pEhU",
+      "engagement": 7,
+      "is_hot": false,
+      "author": "保温傍晚bw",
+      "tags": [
+        "同人·手书"
+      ],
+      "metadata": {
+        "play": 7,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/b09694f0489da8d4426b4be5ca77696d5bbaeaf2.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
