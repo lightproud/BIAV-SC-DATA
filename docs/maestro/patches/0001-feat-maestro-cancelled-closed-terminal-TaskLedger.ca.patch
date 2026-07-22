@@ -1,7 +1,7 @@
 From 5ce853e4db4cd5c41cb013ca8d5718ac73aa85ea Mon Sep 17 00:00:00 2001
 From: Claude <noreply@anthropic.com>
 Date: Wed, 22 Jul 2026 04:05:29 +0000
-Subject: [PATCH] feat(maestro): cancelled closed terminal +
+Subject: [PATCH 1/2] feat(maestro): cancelled closed terminal +
  TaskLedger.cancelSession (0.76.0, BPT P0-D1)
 
 A user-initiated cancel is now a first-class terminal outcome, ledger-

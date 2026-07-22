@@ -159,9 +159,11 @@ BPT 验收用例 1–8 全部转为上游测试，随 0.76.0 合入：
 ## 6. 排期
 
 > **交付状态更新(2026-07-22 当日)**:第 3 节契约已全量实现并通过验证,无需等待 rc 窗口。
-> 完整实现补丁见本目录 `patches/0001-feat-maestro-cancelled-closed-terminal-TaskLedger.ca.patch`
-> (基于 BIAV-SC-CODE main @ a16c016;含全部源码 / 测试 / 版本锁步 / CHANGELOG)。
-> 落地方式:在 BIAV-SC-CODE 检出新分支后 `git am <补丁路径>`。验证结果:maestro 362/362、
+> 完整补丁序列见本目录 `patches/`(基于 BIAV-SC-CODE main @ a16c016):
+> `0001` = 0.76.0 全量实现(源码 / 测试 / 版本锁步 / CHANGELOG);
+> `0002` = 需求档 `scs-req-orchestrator-sdk-20260717.md` §4 封闭状态集第六态回填
+> (守密人 2026-07-22「先修封闭状态集」指令授权)。
+> 落地方式:在 BIAV-SC-CODE 检出新分支后 `git am patches/*.patch`。验证结果:maestro 362/362、
 > testbed 30/30、agent 3216 通过、依赖方向守卫绿、`state.ts` 变异分 100.00(99 杀 / 0 存活,
 > 棘轮地板保持)。下文原排期估算保留作历史记录。
 

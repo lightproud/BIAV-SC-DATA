@@ -1,0 +1,44 @@
+From 3fc3081e2b6a775ef4a8b851d5af873bbe498de0 Mon Sep 17 00:00:00 2001
+From: Claude <noreply@anthropic.com>
+Date: Wed, 22 Jul 2026 06:00:30 +0000
+Subject: [PATCH 2/2] =?UTF-8?q?docs(scs-req):=20inscribe=20cancelled=20int?=
+ =?UTF-8?q?o=20the=20=C2=A74=20closed=20state=20set=20(P0-D1=20backfill,?=
+ =?UTF-8?q?=20keeper=20order=202026-07-22)?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01V7uH2VnDVSMxiUX6rEbYN7
+---
+ .../scs-req-orchestrator-sdk-20260717.md           | 14 +++++++++-----
+ 1 file changed, 9 insertions(+), 5 deletions(-)
+
+diff --git a/Public-Info-Pool/Resource/repo-engineering/scs-req-orchestrator-sdk-20260717.md b/Public-Info-Pool/Resource/repo-engineering/scs-req-orchestrator-sdk-20260717.md
+index 4088c74..d12861b 100644
+--- a/Public-Info-Pool/Resource/repo-engineering/scs-req-orchestrator-sdk-20260717.md
++++ b/Public-Info-Pool/Resource/repo-engineering/scs-req-orchestrator-sdk-20260717.md
+@@ -58,11 +58,15 @@
+ 
+ - **层级:session → query 两级。** session 为派发单位、携业务意图;query 为执行记录,每轮/每次重试一条。goal 不入表(场景层语义,如需串联由场景自理)。
+ - **状态机:SDK 定死封闭状态集**(pending / running / retrying / failed / done 一类,实现时定稿),语义统一,挂 session 级;query 级只记轮次结果。重试 = session 处 retrying、新 query 记录追加,与两级结构自洽。
+-  > **状态集定稿(2026-07-18 施工回填,授权见施工封面 §2)**:session 级封闭集 =
+-  > `pending | running | retrying | failed | done`(terminal = done / failed;事件集
+-  > `claim | attempt:ok | attempt:error | attempt:timeout`,重试复用 claim 事件);
+-  > query 级轮次结果 = `ok | error | timeout`。裁定记录见 `memory/decisions.md`
+-  > 2026-07-18「编排 SDK 第一战」条。
++  > **状态集定稿(2026-07-18 施工回填,授权见施工封面 §2;2026-07-22 P0-D1 扩容回填,
++  > 授权见守密人同日「先修封闭状态集」指令)**:session 级封闭集 =
++  > `pending | running | retrying | failed | done | cancelled`(terminal =
++  > done / failed / cancelled;事件集 `claim | attempt:ok | attempt:error |
++  > attempt:timeout | cancel`,重试复用 claim 事件,cancel 自三个非终态皆可入、
++  > 落 cancelled 终态且永不自动重跑);query 级轮次结果 = `ok | error | timeout |
++  > cancelled`(cancelled 仅由 `cancelSession` 落账,executor 不可上报)。
++  > 裁定记录见 `memory/decisions.md` 2026-07-18「编排 SDK 第一战」条;cancelled
++  > 终局语义源出 BPT 需求 P0-D1(2026-07-22),实现随 0.76.0 落地。
+ - **存储:只定接口,实现全由宿主注入。** BPT 注入服务端 DB(五层架构第四层,本就是有状态重点守护区)。SDK 自身无状态、不带电池。
+ - **驱动器:SDK 提供活组件。** 宿主启动后由它持钟自动调度重试/超时,推动状态流转;生杀权在宿主(启动/停止即宿主的裁量)。
+ - 查询面跨场景通用(封闭状态集是前提):在跑什么、挂了什么、挂在哪,一套查询通吃五场景。
+-- 
+2.43.0
+
