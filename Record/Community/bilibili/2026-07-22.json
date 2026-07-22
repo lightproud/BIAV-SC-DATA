@@ -1,9 +1,32 @@
 {
   "date": "2026-07-22",
-  "archived_at": "2026-07-21T22:04:59.149608+00:00",
+  "archived_at": "2026-07-22T02:27:51.134019+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
+    {
+      "title": "致敬传奇残局满血kks大人",
+      "summary": "要被千面万象打死了好怕怕哦（棒读\n残局唯一生存kks，谁看打击回血能不笑\n  └ iq2233 (0赞): 吃个驱散就老实了[doge]\n  └ 抱着狗狗不敢说话 (0赞): 这玩意可肉嘟嘟了 还有反击在。 我以前用过应该女王戒律不错 一直可以加固，后面发现 带5-10反击对面就避开不打了",
+      "source": "bilibili",
+      "time": "2026-07-21T17:40:34+00:00",
+      "url": "https://www.bilibili.com/video/BV1WXKa6UEJt",
+      "engagement": 194,
+      "is_hot": false,
+      "author": "上完大号按哪个键",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 190,
+        "comment_count": 4,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/544c271d87c5e4a8b1a60d5135cd6cc25e9f774c.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "发布一些肉块",
       "summary": "",
@@ -46,6 +69,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/4d72341502eed0b492359d9167455fc5f8599104.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【没想好的初玩实况】冲动的后果丨沙耶之歌 The Song of Saya #25",
+      "summary": "感谢您的观看，我是一个游戏实况主，名字没想好。\n游戏名字：沙耶之歌 The Song of Saya\n游戏平台：Steam",
+      "source": "bilibili",
+      "time": "2026-07-22T02:00:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1w9K86gEvH",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "没想好哦MeiXiangHAO",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 1,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/44473ebf43c9499518793e8747c23f5f81be9363.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
