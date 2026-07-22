@@ -1,0 +1,1229 @@
+From 5ce853e4db4cd5c41cb013ca8d5718ac73aa85ea Mon Sep 17 00:00:00 2001
+From: Claude <noreply@anthropic.com>
+Date: Wed, 22 Jul 2026 04:05:29 +0000
+Subject: [PATCH] feat(maestro): cancelled closed terminal +
+ TaskLedger.cancelSession (0.76.0, BPT P0-D1)
+
+A user-initiated cancel is now a first-class terminal outcome, ledger-
+distinguishable from 'failed' and never auto-rerun (the two non-negotiable
+semantic lines of BPT requirement P0-D1, 2026-07-22).
+
+- SessionState/SessionEvent: terminal 'cancelled' (no outgoing edges,
+  appended LAST in SESSION_STATES) + 'cancel' event legal from every
+  non-terminal state; TERMINAL_STATES includes it; state.ts mutation
+  score holds the 100.00 ratchet floor (99 killed, 0 survived).
+- TaskLedger.cancelSession(id, { reason?, cancelledAt? }): idempotent on
+  cancelled, InvalidTransitionError on done/failed, per-session mutex +
+  putSessionIf CAS with bounded re-read-re-apply on CAS loss; nextRunAt
+  and leaseUntil cleared unconditionally (never due, never claimable,
+  never swept).
+- Query audit (P0-D1 4.4 option A): QueryOutcome gains 'cancelled';
+  cancelling from running appends the in-flight attempt's epitaph row
+  (error = reason); pending/retrying cancels append nothing;
+  recordOutcome rejects 'cancelled' as an executor-reportable result.
+- SessionRecord gains optional cancelledAt/cancelReason (pure additive;
+  lastError not repurposed).
+- Cancel-vs-attempt races pinned both ways; the driver silently drops
+  the late result's InvalidTransitionError on a cancelled session (a
+  user cancel is not a driver malfunction).
+- Contract suite: new cancelled round-trip check (restart never
+  resurrects a cancelled session).
+- Lockstep 0.76.0 both packages (agent side: alignment line only).
+
+Verification: maestro 362/362 (29 files, +20 cancel cases), testbed
+30/30, agent 3216 passed, dep-direction OK, version guards OK, pack
+dry-run OK, Stryker ledger-state 100.00.
+
+Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01V7uH2VnDVSMxiUX6rEbYN7
+---
+ projects/silver-core-maestro-sdk/CHANGELOG.md |  54 +++
+ projects/silver-core-maestro-sdk/CONTEXT.md   |  16 +
+ projects/silver-core-maestro-sdk/package.json |   2 +-
+ .../silver-core-maestro-sdk/src/driver.ts     |  12 +-
+ projects/silver-core-maestro-sdk/src/index.ts |   9 +-
+ .../src/ledger/contract-suite.ts              |  25 +
+ .../src/ledger/ledger.ts                      | 179 ++++++-
+ .../src/ledger/state.ts                       |  17 +-
+ .../src/ledger/types.ts                       |  42 +-
+ .../tests/assembly.test.ts                    |   2 +-
+ .../tests/ledger-cancel.test.ts               | 446 ++++++++++++++++++
+ .../tests/property-cores.test.ts              |  10 +-
+ .../tests/state.test.ts                       |  16 +-
+ projects/silver-core-sdk/CHANGELOG.md         |   8 +
+ projects/silver-core-sdk/package.json         |   2 +-
+ projects/silver-core-sdk/src/version.ts       |   2 +-
+ 16 files changed, 812 insertions(+), 30 deletions(-)
+ create mode 100644 projects/silver-core-maestro-sdk/tests/ledger-cancel.test.ts
+
+diff --git a/projects/silver-core-maestro-sdk/CHANGELOG.md b/projects/silver-core-maestro-sdk/CHANGELOG.md
+index 50ff6c8..d44bb8a 100644
+--- a/projects/silver-core-maestro-sdk/CHANGELOG.md
++++ b/projects/silver-core-maestro-sdk/CHANGELOG.md
+@@ -12,6 +12,60 @@ discipline as the agent SDK: every merge that changes shipped runtime code
+ bumps BOTH versions and adds one line here (a lockstep-alignment line when
+ this package itself is untouched).
+ 
++## 0.76.0 — 2026-07-22
++
++The `cancelled` closed terminal (BPT requirement P0-D1, 2026-07-22: a
++user-initiated cancel is a first-class terminal outcome — ledger-
++distinguishable from `failed`, and NEVER auto-rerun). Prior to this the
++only ways a host could fake a cancel were both wrong: recording an 'error'
++re-runs the session on the backoff schedule against the user's intent, and
++forcing attempts to the ceiling mis-books a cancel as a failure in every
++audit. Delivered surface:
++
++- `SessionState` gains the terminal `cancelled` (no outgoing edges;
++  `TERMINAL_STATES` includes it; `SESSION_STATES` appends it LAST so index
++  order of the first five entries is undisturbed). `SessionEvent` gains
++  `cancel`, legal from every non-terminal state:
++  pending/running/retrying --cancel--> cancelled.
++- `TaskLedger.cancelSession(sessionId, { reason?, cancelledAt? })`:
++  idempotent on an already-cancelled session (returns the stored record,
++  keeps the FIRST cancel's stamps, appends nothing); throws
++  InvalidTransitionError on done/failed; per-session mutex + putSessionIf
++  CAS like every mutating path, with a bounded re-read-re-apply loop on CAS
++  loss (cancel is legal from every non-terminal state, so it lands over an
++  interleaved claim/settle; a rival reaching done/failed first throws).
++  nextRunAt and leaseUntil are cleared unconditionally — a cancelled
++  session is never due, never listed by claimDue, and can never look like
++  an expired claim to sweepExpiredLeases (which lists `running` alone).
++- Query-level audit: `QueryOutcome` gains `'cancelled'` (BPT P0-D1 §4.4,
++  option A — the query history distinguishes "cut short" from "failed"
++  without session-level special-casing). Cancelling from `running` appends
++  one row for the in-flight attempt (outcome 'cancelled', error =
++  opts.reason, startedAt = the claim's stamp); cancelling from
++  pending/retrying appends NOTHING (no attempt was in flight — fabricating
++  a row would pollute the per-attempt history). recordOutcome REJECTS
++  outcome 'cancelled' (RangeError): cancellation is a session-level
++  command, not an executor-reportable result.
++- Session-level audit: `SessionRecord` gains optional `cancelledAt` /
++  `cancelReason` (pure additive; absent on every pre-0.76.0 row).
++  `lastError` is NOT repurposed — its "latest error/timeout summary"
++  meaning stays unpolluted.
++- Cancel-vs-in-flight-attempt race, both directions pinned: cancel lands
++  first -> the aborted executor's late recordOutcome throws
++  InvalidTransitionError (the ledger stays strict; no backfill into a
++  cancelled session) and the DRIVER now drops exactly that rejection
++  silently — a user cancel must not read as a driver malfunction (no
++  driver:error event; every other stranding signal is unchanged). Attempt
++  settles first -> cancelSession on the resulting done/failed throws; on
++  retrying it cancels normally. cancelSession does NOT abort the host's
++  in-flight executor (the ledger holds no executors) — the host aborts its
++  own runtime, in either order.
++- Contract suite: one new base check — a store must round-trip the
++  cancelled terminal byte-for-byte (state/cancelledAt/cancelReason, the
++  states filter on 'cancelled', and the 'cancelled' query outcome), so a
++  host restart reloads a cancelled session as cancelled instead of
++  resurrecting it. Existing checks untouched.
++
+ ## 0.75.0 — 2026-07-20
+ 
+ Lockstep alignment only — no maestro-SDK code change. The agent SDK added R7
+diff --git a/projects/silver-core-maestro-sdk/CONTEXT.md b/projects/silver-core-maestro-sdk/CONTEXT.md
+index 921f52e..e97af02 100644
+--- a/projects/silver-core-maestro-sdk/CONTEXT.md
++++ b/projects/silver-core-maestro-sdk/CONTEXT.md
+@@ -92,6 +92,22 @@ npm 名 `silver-core-agent-sdk`)持有原子:一次结构化调用。判别式:
+   恰发最近到期点)+ `scheduleSessionId()` 公开导出;
+ - (G4 `MemoryStore.read` 在 agent 侧同版落地。)
+ 
++cancelled 封闭终局(0.76.0,BPT 需求 P0-D1「用户主动取消的封闭终局语义」,2026-07-22):
++
++- 状态机第六态 `cancelled`(终态、无出边,`SESSION_STATES` 末尾追加保索引序)+
++  事件 `cancel`(pending / running / retrying 三态皆可入);
++- `TaskLedger.cancelSession(id, { reason?, cancelledAt? })`:幂等重复、done/failed
++  抛 InvalidTransitionError、互斥 + CAS 围栏(丢 CAS 有界重读重放);nextRunAt /
++  leaseUntil 无条件清空——取消后永不到期、永不被 claimDue / sweepExpiredLeases 碰;
++- query 级口径 = 需求 §4.4 方案 A:`QueryOutcome` 增 `'cancelled'`,running 取消落
++  在飞 attempt 墓志铭行(error = reason),pending/retrying 取消不伪造行;
++  recordOutcome 拒收 'cancelled'(会话级命令不是 executor 可上报结果);
++- session 级增量字段 `cancelledAt` / `cancelReason`(lastError 不挪用);
++- 取消 vs 在飞 attempt 双向竞态钉死:取消先落账 → 迟到 recordOutcome 抛错、驱动器
++  对这一种拒绝**静默丢弃**(用户取消不冒充驱动器故障);attempt 先落账 → 对
++  done/failed 取消抛错、对 retrying 正常取消;
++- 契约套件新增 cancelled 落库往返检查(重启不复活);测试 362(29 档,+20 例)。
++
+ **不在已完范围**:周报 loop 迁入生产切换(机制已由 schedule 承载;切换待 T37
+ 推送形态裁定 + 判卷侧充值,见 todo)。agent 侧棘轮 floor 抬升待每周 CI 实测
+ 出分后按 bump 提示落地(本地不盲抬)。
+diff --git a/projects/silver-core-maestro-sdk/package.json b/projects/silver-core-maestro-sdk/package.json
+index 7c54c8d..dc782c9 100644
+--- a/projects/silver-core-maestro-sdk/package.json
++++ b/projects/silver-core-maestro-sdk/package.json
+@@ -1,6 +1,6 @@
+ {
+   "name": "silver-core-maestro-sdk",
+-  "version": "0.75.0",
++  "version": "0.76.0",
+   "description": "Silver Core Maestro SDK - reusable parts for agents that outlive a single call: clock, cross-session state, session assembly (task ledger, driver, loop/schedule/workflow scaffolds). A library, not a framework: the host owns main().",
+   "license": "MIT",
+   "type": "module",
+diff --git a/projects/silver-core-maestro-sdk/src/driver.ts b/projects/silver-core-maestro-sdk/src/driver.ts
+index 18bbb6b..e129a9a 100644
+--- a/projects/silver-core-maestro-sdk/src/driver.ts
++++ b/projects/silver-core-maestro-sdk/src/driver.ts
+@@ -10,6 +10,7 @@
+ import type { Clock } from './clock.js';
+ import { systemClock } from './clock.js';
+ import type { OutcomeInput, TaskLedger } from './ledger/ledger.js';
++import { InvalidTransitionError } from './ledger/state.js';
+ import type { QueryOutcome, SessionRecord } from './ledger/types.js';
+ 
+ export interface ExecutorContext {
+@@ -45,7 +46,10 @@ export type DriverEvent =
+    * state to paper over a failing store; the host repairs from the event.
+    * A bookkeeping rejection whose session was already settled elsewhere
+    * (e.g. a lease sweep — self-healing on the retry path) emits WITHOUT a
+-   * session: there is nothing to repair.
++   * session: there is nothing to repair. One rejection emits NOTHING at
++   * all (0.76.0): a session the host cancelled mid-flight — the late
++   * result's InvalidTransitionError is the cancel contract working, not a
++   * malfunction.
+    */
+   | { type: 'driver:error'; error: unknown; session?: SessionRecord };
+ 
+@@ -254,6 +258,12 @@ export class LedgerDriver {
+         }
+         if (current !== null && current.state === 'running') {
+           this.#emit({ type: 'driver:error', error, session: current });
++        } else if (current?.state === 'cancelled' && error instanceof InvalidTransitionError) {
++          // Host cancelled mid-flight (0.76.0): the rejection IS the design
++          // — cancelSession already settled the session and wrote the
++          // attempt's epitaph row; this late result has nothing to record
++          // and nothing to repair, so no error event is emitted (a user
++          // cancel must not read as a driver malfunction).
+         } else {
+           this.#emit({ type: 'driver:error', error });
+         }
+diff --git a/projects/silver-core-maestro-sdk/src/index.ts b/projects/silver-core-maestro-sdk/src/index.ts
+index 7c77bab..26ad62c 100644
+--- a/projects/silver-core-maestro-sdk/src/index.ts
++++ b/projects/silver-core-maestro-sdk/src/index.ts
+@@ -22,7 +22,7 @@
+  * LedgerDriver.
+  */
+ 
+-export const MAESTRO_SDK_VERSION = '0.75.0';
++export const MAESTRO_SDK_VERSION = '0.76.0';
+ 
+ // Clock seam
+ export type { Clock } from './clock.js';
+@@ -63,7 +63,12 @@ export type {
+ 
+ // Ledger API
+ export { TaskLedger, DuplicateSessionError, ClaimConflictError } from './ledger/ledger.js';
+-export type { TaskLedgerOptions, DispatchInput, OutcomeInput } from './ledger/ledger.js';
++export type {
++  TaskLedgerOptions,
++  DispatchInput,
++  OutcomeInput,
++  CancelSessionInput,
++} from './ledger/ledger.js';
+ 
+ // Driver (live component; host holds life-and-death)
+ export { LedgerDriver } from './driver.js';
+diff --git a/projects/silver-core-maestro-sdk/src/ledger/contract-suite.ts b/projects/silver-core-maestro-sdk/src/ledger/contract-suite.ts
+index e43637f..222bee9 100644
+--- a/projects/silver-core-maestro-sdk/src/ledger/contract-suite.ts
++++ b/projects/silver-core-maestro-sdk/src/ledger/contract-suite.ts
+@@ -194,6 +194,31 @@ const CHECKS: Array<[string, Check]> = [
+       assertDeepEq((await store.listQueries('b')).map((q) => q.id), ['qb'], 'isolation b');
+     },
+   ],
++  [
++    "putSession/getSession round-trips a cancelled row (state 'cancelled', cancelledAt, cancelReason) and a 'cancelled' query outcome",
++    async (store) => {
++      // 0.76.0 (BPT P0-D1): a store must persist the cancelled terminal
++      // byte-for-byte — a host restart must reload it as cancelled, never
++      // resurrect it into the retry path.
++      const rec = session({
++        state: 'cancelled',
++        attempts: 1,
++        nextRunAt: null,
++        leaseUntil: null,
++        cancelledAt: 3_000,
++        cancelReason: 'user',
++      });
++      await store.putSession(rec);
++      assertDeepEq(await store.getSession('s1'), rec, 'cancelled round-trip');
++      const listed = await store.listSessions({ states: ['cancelled'] });
++      assertDeepEq(listed.map((s) => s.id), ['s1'], 'cancelled states filter');
++      await store.appendQuery(query({ outcome: 'cancelled', error: 'user' }));
++      const [row] = await store.listQueries('s1');
++      if (row?.outcome !== 'cancelled') {
++        fail('cancelled outcome', `expected 'cancelled', got ${row?.outcome}`);
++      }
++    },
++  ],
+   [
+     'returned query records are copies, not live references into the store',
+     async (store) => {
+diff --git a/projects/silver-core-maestro-sdk/src/ledger/ledger.ts b/projects/silver-core-maestro-sdk/src/ledger/ledger.ts
+index 3f2198e..6cfc402 100644
+--- a/projects/silver-core-maestro-sdk/src/ledger/ledger.ts
++++ b/projects/silver-core-maestro-sdk/src/ledger/ledger.ts
+@@ -69,6 +69,11 @@ export interface DispatchInput {
+ }
+ 
+ export interface OutcomeInput {
++  /**
++   * The attempt's result. 'cancelled' is REJECTED here (RangeError):
++   * cancellation is a session-level command owned by cancelSession, never
++   * an outcome an executor may report.
++   */
+   outcome: QueryOutcome;
+   error?: string;
+   summary?: string;
+@@ -86,6 +91,17 @@ export interface OutcomeInput {
+   attempt?: number;
+ }
+ 
++export interface CancelSessionInput {
++  /**
++   * Cancel reason, stored verbatim as the session's cancelReason (and as the
++   * in-flight attempt's query-row error text when cancelling from `running`).
++   * Host vocabulary — e.g. 'user' | 'operator' | 'superseded'.
++   */
++  reason?: string;
++  /** Epoch ms the cancel takes effect; defaults to the injected clock's now(). */
++  cancelledAt?: number;
++}
++
+ const outcomeEvent = {
+   ok: 'attempt:ok',
+   error: 'attempt:error',
+@@ -363,8 +379,12 @@ export class TaskLedger {
+    * fabricated lease-expired error (audit r4). Otherwise the attempt is
+    * recorded as an error and the session re-enters the normal retry/backoff
+    * path (or exhausts into failed). Sessions without a lease are NEVER
+-   * touched. Per-session isolation: one session's settle failure (including
+-   * losing a race to the late lease-holder) skips that session only.
++   * touched, and neither are cancelled sessions (0.76.0): the sweep lists
++   * `running` alone, and cancelSession clears leaseUntil at the moment it
++   * settles the terminal — a cancelled session can never look like an
++   * expired claim. Per-session isolation: one session's settle failure
++   * (including losing a race to the late lease-holder) skips that session
++   * only.
+    */
+   async sweepExpiredLeases(now: number = this.#clock.now()): Promise<SessionRecord[]> {
+     if (!Number.isFinite(now)) {
+@@ -415,6 +435,16 @@ export class TaskLedger {
+    * contradiction with its query history.
+    */
+   async recordOutcome(sessionId: string, result: OutcomeInput): Promise<SessionRecord> {
++    // 'cancelled' is a session-level command, not an attempt outcome (0.76.0):
++    // it may only enter the ledger through cancelSession, which owns the
++    // terminal transition, the lease/nextRunAt clearing and the audit row.
++    // Accepting it here would let an executor smuggle a cancel past the
++    // cancel semantics (no cancelledAt stamp, retry arithmetic applied).
++    if (result.outcome === 'cancelled') {
++      throw new RangeError(
++        "recordOutcome: outcome 'cancelled' is reserved for cancelSession()",
++      );
++    }
+     for (const key of ['startedAt', 'endedAt'] as const) {
+       // NaN/Infinity would be persisted verbatim into the append-only audit
+       // row — and a JSON-backed store silently rewrites NaN to null,
+@@ -436,6 +466,9 @@ export class TaskLedger {
+       if (session === null) {
+         throw new Error(`recordOutcome: unknown session '${sessionId}'`);
+       }
++      // The entry guard rejected 'cancelled'; re-assert the narrowing for
++      // this closure (TS narrowing does not cross function boundaries).
++      const attemptOutcome = result.outcome as Exclude<QueryOutcome, 'cancelled'>;
+       // Attempt fencing (audit r4): a stale writer — an attempt that outran
+       // its lease, was swept, and whose session has since been re-claimed —
+       // must NOT commit against the live attempt. Keyed on the attempt
+@@ -443,10 +476,18 @@ export class TaskLedger {
+       if (result.attempt !== undefined && result.attempt !== session.attempts) {
+         throw new InvalidTransitionError(
+           session.state,
+-          outcomeEvent[result.outcome],
++          outcomeEvent[attemptOutcome],
+           `stale outcome: settles attempt ${result.attempt} but the session is on attempt ${session.attempts}`,
+         );
+       }
++      // Cancelled is terminal with NO backfill repair (0.76.0): the cancel's
++      // audit row belongs to cancelSession, and a late attempt result — the
++      // in-flight executor the host aborted alongside its cancel — must not
++      // settle or append anything. The driver drops exactly this rejection
++      // instead of signaling a stranded session (see driver.ts).
++      if (session.state === 'cancelled') {
++        throw new InvalidTransitionError(session.state, outcomeEvent[attemptOutcome]);
++      }
+       const existing = await this.#store.listQueries(sessionId);
+       const committed = existing.find((q) => q.attempt === session.attempts);
+       // Backfill eligibility (audit r4, hardened in r5): a caller retry after
+@@ -475,7 +516,7 @@ export class TaskLedger {
+           await this.#store.appendQuery(this.#queryRow(sessionId, session.attempts, result));
+           return { ...session };
+         }
+-        throw new InvalidTransitionError(session.state, outcomeEvent[result.outcome]);
++        throw new InvalidTransitionError(session.state, outcomeEvent[attemptOutcome]);
+       }
+       // Retrying backfill (r5): a failure settle that landed in 'retrying'
+       // has the same put->append crash window as a terminal one, and the
+@@ -487,12 +528,31 @@ export class TaskLedger {
+         await this.#store.appendQuery(this.#queryRow(sessionId, session.attempts, result));
+         return { ...session };
+       }
++      // A committed 'cancelled' row for the current attempt can only be
++      // written by cancelSession, whose session put (state 'cancelled') lands
++      // FIRST (settle-then-append) — reading such a row while the session
++      // still shows a non-terminal state means this call raced a rival
++      // host's cancel on a store without putSessionIf. The cancel is the
++      // recorded truth; this attempt result is late and must not clobber
++      // the cancel record (defensive; unreachable on a CAS-fenced store,
++      // where the revision fence below would reject the write anyway).
++      if (committed !== undefined && committed.outcome === 'cancelled') {
++        throw new InvalidTransitionError(
++          session.state,
++          outcomeEvent[attemptOutcome],
++          'attempt already cancelled by a concurrent cancelSession',
++        );
++      }
+       // A committed row for the CURRENT attempt is the truth (audit r4): a
+       // caller retry — or a lease sweep arriving with a fabricated error —
+       // converges to the recorded outcome instead of settling the session in
+       // contradiction with its own query history.
+       const effective: Pick<OutcomeInput, 'outcome' | 'error'> = committed ?? result;
+-      const next = transition(session.state, outcomeEvent[effective.outcome], session);
++      const next = transition(
++        session.state,
++        outcomeEvent[effective.outcome as Exclude<QueryOutcome, 'cancelled'>],
++        session,
++      );
+       const now = this.#clock.now();
+       const updated: SessionRecord = {
+         ...session,
+@@ -530,6 +590,115 @@ export class TaskLedger {
+     });
+   }
+ 
++  /**
++   * Cancel a session (0.76.0, BPT P0-D1): the host's "stop this, forever"
++   * command — a first-class terminal, ledger-distinguishable from `failed`.
++   * Legal from every non-terminal state:
++   *
++   * - pending / retrying: no attempt in flight — the session lands in
++   *   `cancelled` with nextRunAt cleared (a scheduled retry is dropped, not
++   *   deferred), and NO query row is appended (fabricating an attempt number
++   *   would pollute the per-attempt audit history).
++   * - running: the in-flight attempt is the host's to abort (the ledger
++   *   holds no executors); this call records its epitaph — one query row
++   *   with outcome 'cancelled' on the current attempt (error = opts.reason)
++   *   — and clears leaseUntil so the spent claim can never be mistaken for
++   *   an expired one. The aborted executor's own late recordOutcome then
++   *   rejects with InvalidTransitionError, which the driver drops silently.
++   *
++   * Idempotent on an already-cancelled session: returns the stored record,
++   * throws nothing, appends nothing, and keeps the FIRST cancel's
++   * cancelledAt/cancelReason. On `done`/`failed` it throws
++   * InvalidTransitionError — terminal states accept no event, a settled
++   * outcome is not rewritable into a cancellation.
++   *
++   * Concurrency: per-session in-process mutex + the putSessionIf CAS fence,
++   * like every other mutating path. A lost CAS is re-read and re-applied
++   * (bounded): cancel is legal from every non-terminal state, so whatever
++   * the rival wrote (a claim, a settle into retrying), the cancel still
++   * lands; if the rival reached done/failed first, the re-read throws
++   * InvalidTransitionError — the attempt genuinely finished before the
++   * cancel. A crash between the session put (the commit point) and the
++   * running-cancel's row append loses the audit row, never the state —
++   * same settle-then-append discipline as recordOutcome, minus the backfill
++   * (a repeat cancel cannot distinguish that window from a retrying-cancel
++   * whose failure row was legitimately committed earlier, so it repairs
++   * nothing rather than risk a wrong row).
++   */
++  async cancelSession(sessionId: string, opts?: CancelSessionInput): Promise<SessionRecord> {
++    if (opts?.reason !== undefined && typeof opts.reason !== 'string') {
++      throw new TypeError(`cancelSession: reason must be a string when given, got ${typeof opts.reason}`);
++    }
++    // A non-finite cancelledAt would poison the terminal timestamp verbatim
++    // (JSON stores rewrite NaN to null — the audit r4 lesson, same guard).
++    if (opts?.cancelledAt !== undefined && !Number.isFinite(opts.cancelledAt)) {
++      throw new RangeError(
++        `cancelSession: cancelledAt must be a finite number when given, got ${opts.cancelledAt}`,
++      );
++    }
++    return this.#withLock(sessionId, async () => {
++      // Bounded CAS retry: a rival's interleaved write (claim, settle) moves
++      // the session between our read and our put, but cancel remains legal
++      // from every non-terminal state — re-read and re-apply instead of
++      // surfacing a transient conflict for a call that must win eventually.
++      for (let round = 0; ; round += 1) {
++        const session = await this.#store.getSession(sessionId);
++        if (session === null) {
++          throw new Error(`cancelSession: unknown session '${sessionId}'`);
++        }
++        if (session.state === 'cancelled') {
++          // Idempotent repeat: the first cancel's record is the truth.
++          return { ...session };
++        }
++        // Throws InvalidTransitionError on done/failed (terminal, no edges).
++        const next = transition(session.state, 'cancel', session);
++        const wasRunning = session.state === 'running';
++        const now = this.#clock.now();
++        const cancelledAt = opts?.cancelledAt ?? now;
++        const updated: SessionRecord = {
++          ...session,
++          state: next,
++          updatedAt: now,
++          // Terminal: never due again — and the in-flight claim (if any) is
++          // spent, so no residual lease can ever look expired to a sweeper.
++          nextRunAt: null,
++          leaseUntil: null,
++          cancelledAt,
++          cancelReason: opts?.reason ?? null,
++        };
++        const won = await this.#putGuarded(updated, session.revision ?? 0);
++        if (!won) {
++          if (round >= 4) {
++            throw new ClaimConflictError(sessionId, 'cancel lost to concurrent writers repeatedly');
++          }
++          continue;
++        }
++        if (wasRunning) {
++          // Epitaph row for the aborted in-flight attempt — appended AFTER
++          // the session write (settle-then-append, audit r4 ordering).
++          // startedAt = the claim's stamp (same convention as the lease
++          // sweep); a row already committed for this attempt (a cross-host
++          // settle we raced on a plain store) is the truth and is kept.
++          const committed = (await this.#store.listQueries(sessionId)).find(
++            (q) => q.attempt === session.attempts,
++          );
++          if (committed === undefined) {
++            await this.#store.appendQuery({
++              id: this.#idFactory(),
++              sessionId,
++              attempt: session.attempts,
++              startedAt: session.updatedAt,
++              endedAt: cancelledAt,
++              outcome: 'cancelled',
++              ...(opts?.reason !== undefined ? { error: opts.reason } : {}),
++            });
++          }
++        }
++        return { ...updated, revision: (session.revision ?? 0) + 1 };
++      }
++    });
++  }
++
+   #queryRow(sessionId: string, attempt: number, result: OutcomeInput): QueryRecord {
+     return {
+       id: this.#idFactory(),
+diff --git a/projects/silver-core-maestro-sdk/src/ledger/state.ts b/projects/silver-core-maestro-sdk/src/ledger/state.ts
+index 137bb1d..796f720 100644
+--- a/projects/silver-core-maestro-sdk/src/ledger/state.ts
++++ b/projects/silver-core-maestro-sdk/src/ledger/state.ts
+@@ -7,17 +7,20 @@
+ 
+ import type { SessionState } from './types.js';
+ 
+-/** The closed state set, in lifecycle order. */
++/** The closed state set, in lifecycle order (terminals last; `cancelled`
++ *  appended at the END in 0.76.0 so downstreams relying on index order of
++ *  the first five entries are undisturbed). */
+ export const SESSION_STATES: readonly SessionState[] = [
+   'pending',
+   'running',
+   'retrying',
+   'failed',
+   'done',
++  'cancelled',
+ ];
+ 
+ /** States with no outgoing transitions. */
+-export const TERMINAL_STATES: readonly SessionState[] = ['failed', 'done'];
++export const TERMINAL_STATES: readonly SessionState[] = ['failed', 'done', 'cancelled'];
+ 
+ /**
+  * Ledger events driving the session state machine:
+@@ -25,12 +28,15 @@ export const TERMINAL_STATES: readonly SessionState[] = ['failed', 'done'];
+  * - attempt:ok:       the attempt succeeded
+  * - attempt:error:    the attempt failed
+  * - attempt:timeout:  the attempt hit the driver's per-attempt timeout
++ * - cancel:           the host cancels the session (0.76.0, BPT P0-D1) —
++ *                     legal from every NON-terminal state, lands in the
++ *                     terminal `cancelled` and never re-enters the retry path
+  *
+  * Retries are not a distinct event: a failed/timed-out attempt lands in
+  * `retrying` while attempts remain, and a due retry is claimed with the same
+  * `claim` event that first started the session.
+  */
+-export type SessionEvent = 'claim' | 'attempt:ok' | 'attempt:error' | 'attempt:timeout';
++export type SessionEvent = 'claim' | 'attempt:ok' | 'attempt:error' | 'attempt:timeout' | 'cancel';
+ 
+ export class InvalidTransitionError extends Error {
+   readonly state: SessionState;
+@@ -63,6 +69,9 @@ export interface TransitionContext {
+  *   running  --attempt:ok-->       done
+  *   running  --attempt:error-->    retrying | failed  (attempts vs maxAttempts)
+  *   running  --attempt:timeout-->  retrying | failed  (attempts vs maxAttempts)
++ *   pending  --cancel-->           cancelled          (0.76.0)
++ *   running  --cancel-->           cancelled          (0.76.0)
++ *   retrying --cancel-->           cancelled          (0.76.0)
+  */
+ export function transition(
+   state: SessionState,
+@@ -71,8 +80,10 @@ export function transition(
+ ): SessionState {
+   if (state === 'pending' || state === 'retrying') {
+     if (event === 'claim') return 'running';
++    if (event === 'cancel') return 'cancelled';
+   } else if (state === 'running') {
+     if (event === 'attempt:ok') return 'done';
++    if (event === 'cancel') return 'cancelled';
+     if (event === 'attempt:error' || event === 'attempt:timeout') {
+       // NaN / non-finite counters poison a >= comparison into a permanent
+       // 'retrying' — reject them loudly instead of retrying forever.
+diff --git a/projects/silver-core-maestro-sdk/src/ledger/types.ts b/projects/silver-core-maestro-sdk/src/ledger/types.ts
+index 028b4e8..9123fa2 100644
+--- a/projects/silver-core-maestro-sdk/src/ledger/types.ts
++++ b/projects/silver-core-maestro-sdk/src/ledger/types.ts
+@@ -10,18 +10,28 @@
+  * The CLOSED session state set (requirement §4: the SDK pins the state
+  * machine; a uniform vocabulary is what makes one query surface serve every
+  * scenario). Spelling finalized 2026-07-18 and inscribed back into the
+- * requirement doc §4.
++ * requirement doc §4; `cancelled` added 0.76.0 (BPT P0-D1: a user-initiated
++ * cancel is a first-class terminal outcome, ledger-distinguishable from
++ * `failed` and never auto-rerun).
+  *
+- * - pending:  dispatched, waiting to be claimed for its first attempt
+- * - running:  an attempt is in flight
+- * - retrying: last attempt failed, waiting for its scheduled retry
+- * - failed:   terminal — attempts exhausted (or recorded as fatal)
+- * - done:     terminal — an attempt succeeded
++ * - pending:   dispatched, waiting to be claimed for its first attempt
++ * - running:   an attempt is in flight
++ * - retrying:  last attempt failed, waiting for its scheduled retry
++ * - failed:    terminal — attempts exhausted (or recorded as fatal)
++ * - done:      terminal — an attempt succeeded
++ * - cancelled: terminal — the host cancelled the session (cancelSession);
++ *              no outgoing edges, never listed by claimDue, never swept
+  */
+-export type SessionState = 'pending' | 'running' | 'retrying' | 'failed' | 'done';
++export type SessionState = 'pending' | 'running' | 'retrying' | 'failed' | 'done' | 'cancelled';
+ 
+-/** Query-level round result (the query row records outcomes only). */
+-export type QueryOutcome = 'ok' | 'error' | 'timeout';
++/**
++ * Query-level round result (the query row records outcomes only).
++ * `cancelled` (0.76.0) marks an in-flight attempt cut short by
++ * TaskLedger.cancelSession — it is written by cancelSession ONLY;
++ * recordOutcome rejects it (cancellation is not an attempt outcome a host
++ * executor may report, it is a session-level command).
++ */
++export type QueryOutcome = 'ok' | 'error' | 'timeout' | 'cancelled';
+ 
+ /** Session record: the dispatch unit. State machine hangs at this level. */
+ export interface SessionRecord {
+@@ -71,6 +81,20 @@ export interface SessionRecord {
+    * legacy rows without it read as revision 0.
+    */
+   revision?: number;
++  /**
++   * Epoch ms the cancel took effect (0.76.0). Set by cancelSession ONLY —
++   * present iff state is 'cancelled'; the first cancel's stamp is kept
++   * through idempotent repeats. Absent on every pre-0.76.0 row.
++   */
++  cancelledAt?: number | null;
++  /**
++   * Host-supplied cancel reason (cancelSession opts.reason, e.g. 'user' |
++   * 'operator' | 'superseded'), stored verbatim (0.76.0). lastError is NOT
++   * repurposed for this — its "latest error/timeout summary" meaning stays
++   * unpolluted, so audits can separate "why it failed" from "why it was
++   * cancelled" field-by-field.
++   */
++  cancelReason?: string | null;
+ }
+ 
+ /** Query record: one execution attempt. Rounds are appended, never edited. */
+diff --git a/projects/silver-core-maestro-sdk/tests/assembly.test.ts b/projects/silver-core-maestro-sdk/tests/assembly.test.ts
+index 9272615..8fd3dbe 100644
+--- a/projects/silver-core-maestro-sdk/tests/assembly.test.ts
++++ b/projects/silver-core-maestro-sdk/tests/assembly.test.ts
+@@ -208,6 +208,6 @@ describe('assembly: full state flow on public surface, fake timers only', () =>
+   });
+ 
+   it('the closed state set is exactly what the package declares', () => {
+-    expect(SESSION_STATES).toEqual(['pending', 'running', 'retrying', 'failed', 'done']);
++    expect(SESSION_STATES).toEqual(['pending', 'running', 'retrying', 'failed', 'done', 'cancelled']);
+   });
+ });
+diff --git a/projects/silver-core-maestro-sdk/tests/ledger-cancel.test.ts b/projects/silver-core-maestro-sdk/tests/ledger-cancel.test.ts
+new file mode 100644
+index 0000000..25b4271
+--- /dev/null
++++ b/projects/silver-core-maestro-sdk/tests/ledger-cancel.test.ts
+@@ -0,0 +1,446 @@
++/**
++ * The `cancelled` closed terminal + TaskLedger.cancelSession (0.76.0, BPT
++ * requirement P0-D1). The acceptance list is BPT's own, transcribed 1:1
++ * (cases 1-7; case 8 — the store contract suite — lives in
++ * ledger-contract-suite.test.ts and the new cancelled round-trip check):
++ * a user cancel must be ledger-distinguishable from a failure, and a
++ * cancelled session must NEVER run again — not on the backoff schedule,
++ * not through the lease sweep, not after a host restart.
++ */
++
++import { describe, it, expect, vi, afterEach } from 'vitest';
++import { TaskLedger } from '../src/ledger/ledger.js';
++import { InvalidTransitionError } from '../src/ledger/state.js';
++import { LedgerDriver, type DriverEvent } from '../src/driver.js';
++import type { LedgerStore, SessionFilter } from '../src/ledger/store.js';
++import type { QueryRecord, SessionRecord } from '../src/ledger/types.js';
++
++function memoryStore(): LedgerStore & {
++  sessions: Map<string, SessionRecord>;
++  queries: QueryRecord[];
++} {
++  const sessions = new Map<string, SessionRecord>();
++  const queries: QueryRecord[] = [];
++  return {
++    sessions,
++    queries,
++    async putSession(record) {
++      sessions.set(record.id, { ...record });
++    },
++    async getSession(id) {
++      const r = sessions.get(id);
++      return r === undefined ? null : { ...r };
++    },
++    async listSessions(filter?: SessionFilter) {
++      let all = [...sessions.values()];
++      if (filter?.states !== undefined) {
++        all = all.filter((s) => filter.states!.includes(s.state));
++      }
++      if (filter?.dueBefore !== undefined) {
++        all = all.filter((s) => s.nextRunAt !== null && s.nextRunAt <= filter.dueBefore!);
++      }
++      return all.map((s) => ({ ...s }));
++    },
++    async appendQuery(record) {
++      queries.push({ ...record });
++    },
++    async listQueries(sessionId) {
++      return queries.filter((q) => q.sessionId === sessionId).map((q) => ({ ...q }));
++    },
++  };
++}
++
++/** memoryStore + a compliant putSessionIf (revision CAS), audit-r4 style. */
++function casStore() {
++  const base = memoryStore();
++  return {
++    ...base,
++    sessions: base.sessions,
++    queries: base.queries,
++    async putSessionIf(record: SessionRecord, expected: number | null) {
++      const current = base.sessions.get(record.id);
++      if (expected === null) {
++        if (current !== undefined) return false;
++      } else if ((current?.revision ?? 0) !== expected) {
++        return false;
++      }
++      base.sessions.set(record.id, { ...record });
++      return true;
++    },
++  } satisfies LedgerStore & Record<string, unknown>;
++}
++
++function testClock(startAt = 1_000) {
++  let t = startAt;
++  return { now: () => t, advance: (ms: number) => (t += ms) };
++}
++
++const seq = () => {
++  let n = 0;
++  return () => `id-${(n += 1)}`;
++};
++
++describe('cancelSession — from pending (acceptance 1)', () => {
++  it('lands in cancelled with nextRunAt null; claimDue never lists it again', async () => {
++    const clock = testClock(1_000);
++    const store = memoryStore();
++    const ledger = new TaskLedger({ store, clock, idFactory: seq() });
++    const s = await ledger.dispatch({ intent: 'loop' });
++    const cancelled = await ledger.cancelSession(s.id, { reason: 'user' });
++    expect(cancelled).toMatchObject({
++      state: 'cancelled',
++      nextRunAt: null,
++      leaseUntil: null,
++      cancelledAt: 1_000,
++      cancelReason: 'user',
++      attempts: 0,
++    });
++    expect(await ledger.claimDue()).toHaveLength(0);
++    clock.advance(1_000_000);
++    expect(await ledger.claimDue()).toHaveLength(0);
++  });
++
++  it('appends NO query row (no attempt was in flight)', async () => {
++    const store = memoryStore();
++    const ledger = new TaskLedger({ store, clock: testClock(), idFactory: seq() });
++    const s = await ledger.dispatch({ intent: 'loop' });
++    await ledger.cancelSession(s.id, { reason: 'user' });
++    expect(await ledger.listQueries(s.id)).toHaveLength(0);
++  });
++
++  it('a manual-claim session (runAt: null) cancels the same way', async () => {
++    const ledger = new TaskLedger({ store: memoryStore(), clock: testClock(), idFactory: seq() });
++    const s = await ledger.dispatch({ intent: 'inline', runAt: null });
++    const cancelled = await ledger.cancelSession(s.id);
++    expect(cancelled.state).toBe('cancelled');
++    expect(cancelled.nextRunAt).toBeNull();
++    await expect(ledger.claimSession(s.id)).rejects.toThrowError(InvalidTransitionError);
++  });
++
++  it('defaults cancelReason to null and cancelledAt to the clock when opts are omitted', async () => {
++    const ledger = new TaskLedger({ store: memoryStore(), clock: testClock(7_777), idFactory: seq() });
++    const s = await ledger.dispatch({ intent: 'loop' });
++    const cancelled = await ledger.cancelSession(s.id);
++    expect(cancelled.cancelledAt).toBe(7_777);
++    expect(cancelled.cancelReason).toBeNull();
++  });
++
++  it('honors an explicit cancelledAt', async () => {
++    const ledger = new TaskLedger({ store: memoryStore(), clock: testClock(1_000), idFactory: seq() });
++    const s = await ledger.dispatch({ intent: 'loop' });
++    const cancelled = await ledger.cancelSession(s.id, { cancelledAt: 123_456 });
++    expect(cancelled.cancelledAt).toBe(123_456);
++  });
++});
++
++describe('cancelSession — from retrying (acceptance 2)', () => {
++  it('drops the scheduled retry: due time passes and nothing runs again', async () => {
++    const clock = testClock(1_000);
++    const store = memoryStore();
++    const ledger = new TaskLedger({
++      store,
++      clock,
++      idFactory: seq(),
++      retry: { baseDelayMs: 500, factor: 2 },
++    });
++    const s = await ledger.dispatch({ intent: 'loop' });
++    await ledger.claimDue();
++    await ledger.recordOutcome(s.id, {
++      outcome: 'error',
++      error: 'boom',
++      startedAt: 1_000,
++      endedAt: 1_001,
++    });
++    expect((await ledger.getSession(s.id))?.state).toBe('retrying');
++    const cancelled = await ledger.cancelSession(s.id, { reason: 'user' });
++    expect(cancelled.state).toBe('cancelled');
++    expect(cancelled.nextRunAt).toBeNull();
++    clock.advance(10_000); // far past the 500ms backoff
++    expect(await ledger.claimDue()).toHaveLength(0);
++  });
++
++  it('keeps the earlier failure row and appends nothing for the cancel', async () => {
++    const clock = testClock(1_000);
++    const ledger = new TaskLedger({ store: memoryStore(), clock, idFactory: seq() });
++    const s = await ledger.dispatch({ intent: 'loop' });
++    await ledger.claimDue();
++    await ledger.recordOutcome(s.id, { outcome: 'error', error: 'boom', startedAt: 1_000, endedAt: 1_001 });
++    await ledger.cancelSession(s.id, { reason: 'user' });
++    const rows = await ledger.listQueries(s.id);
++    expect(rows).toHaveLength(1);
++    expect(rows[0]).toMatchObject({ attempt: 1, outcome: 'error', error: 'boom' });
++    // lastError keeps the FAILURE text — the cancel reason lives in cancelReason.
++    const final = await ledger.getSession(s.id);
++    expect(final?.lastError).toBe('boom');
++    expect(final?.cancelReason).toBe('user');
++  });
++});
++
++describe('cancelSession — from running (acceptance 3)', () => {
++  it('writes the in-flight attempt epitaph: one cancelled row, lease cleared', async () => {
++    const clock = testClock(1_000);
++    const store = memoryStore();
++    const ledger = new TaskLedger({ store, clock, idFactory: seq(), claimLeaseMs: 60_000 });
++    const s = await ledger.dispatch({ intent: 'loop' });
++    const [claimed] = await ledger.claimDue();
++    expect(claimed?.leaseUntil).toBe(61_000);
++    clock.advance(500);
++    const cancelled = await ledger.cancelSession(s.id, { reason: 'user' });
++    expect(cancelled).toMatchObject({
++      state: 'cancelled',
++      nextRunAt: null,
++      leaseUntil: null,
++      cancelledAt: 1_500,
++      cancelReason: 'user',
++      attempts: 1,
++    });
++    const rows = await ledger.listQueries(s.id);
++    expect(rows).toHaveLength(1);
++    expect(rows[0]).toMatchObject({
++      attempt: 1,
++      outcome: 'cancelled',
++      error: 'user',
++      startedAt: 1_000, // the claim's stamp
++      endedAt: 1_500,
++    });
++  });
++
++  it('omits the row error field when no reason is given', async () => {
++    const clock = testClock(1_000);
++    const ledger = new TaskLedger({ store: memoryStore(), clock, idFactory: seq() });
++    const s = await ledger.dispatch({ intent: 'loop' });
++    await ledger.claimDue();
++    await ledger.cancelSession(s.id);
++    const [row] = await ledger.listQueries(s.id);
++    expect(row?.outcome).toBe('cancelled');
++    expect(row?.error).toBeUndefined();
++  });
++
++  it('the aborted executor\'s late recordOutcome throws and appends nothing', async () => {
++    const clock = testClock(1_000);
++    const ledger = new TaskLedger({ store: memoryStore(), clock, idFactory: seq() });
++    const s = await ledger.dispatch({ intent: 'loop' });
++    await ledger.claimDue();
++    await ledger.cancelSession(s.id, { reason: 'user' });
++    // The driver's fenced write (attempt 1) — and an unfenced legacy write.
++    await expect(
++      ledger.recordOutcome(s.id, { outcome: 'error', error: 'aborted', startedAt: 1_000, endedAt: 1_001, attempt: 1 }),
++    ).rejects.toThrowError(InvalidTransitionError);
++    await expect(
++      ledger.recordOutcome(s.id, { outcome: 'ok', startedAt: 1_000, endedAt: 1_001 }),
++    ).rejects.toThrowError(InvalidTransitionError);
++    expect(await ledger.listQueries(s.id)).toHaveLength(1); // the epitaph row only
++  });
++});
++
++describe('cancelSession — idempotency (acceptance 4)', () => {
++  it('repeat cancel returns the stored record, keeps the FIRST stamps, appends nothing', async () => {
++    const clock = testClock(1_000);
++    const ledger = new TaskLedger({ store: memoryStore(), clock, idFactory: seq() });
++    const s = await ledger.dispatch({ intent: 'loop' });
++    await ledger.claimDue();
++    const first = await ledger.cancelSession(s.id, { reason: 'user' });
++    clock.advance(5_000);
++    const again = await ledger.cancelSession(s.id, { reason: 'operator', cancelledAt: 99_999 });
++    expect(again.cancelledAt).toBe(first.cancelledAt);
++    expect(again.cancelReason).toBe('user');
++    expect(again.revision).toBe(first.revision); // no write happened
++    expect(await ledger.listQueries(s.id)).toHaveLength(1);
++  });
++});
++
++describe('cancelSession — terminal rejection (acceptance 5)', () => {
++  it('throws InvalidTransitionError on done', async () => {
++    const ledger = new TaskLedger({ store: memoryStore(), clock: testClock(), idFactory: seq() });
++    const s = await ledger.dispatch({ intent: 'loop' });
++    await ledger.claimDue();
++    await ledger.recordOutcome(s.id, { outcome: 'ok', startedAt: 1_000, endedAt: 1_001 });
++    await expect(ledger.cancelSession(s.id)).rejects.toThrowError(InvalidTransitionError);
++  });
++
++  it('throws InvalidTransitionError on failed', async () => {
++    const ledger = new TaskLedger({ store: memoryStore(), clock: testClock(), idFactory: seq() });
++    const s = await ledger.dispatch({ intent: 'loop', maxAttempts: 1 });
++    await ledger.claimDue();
++    await ledger.recordOutcome(s.id, { outcome: 'error', error: 'x', startedAt: 1_000, endedAt: 1_001 });
++    await expect(ledger.cancelSession(s.id)).rejects.toThrowError(InvalidTransitionError);
++  });
++
++  it('throws on an unknown session id', async () => {
++    const ledger = new TaskLedger({ store: memoryStore(), clock: testClock() });
++    await expect(ledger.cancelSession('missing')).rejects.toThrow(/unknown session 'missing'/);
++  });
++
++  it('rejects a non-string reason and a non-finite cancelledAt at the door', async () => {
++    const ledger = new TaskLedger({ store: memoryStore(), clock: testClock() });
++    await expect(
++      ledger.cancelSession('x', { reason: 42 as unknown as string }),
++    ).rejects.toThrowError(TypeError);
++    await expect(ledger.cancelSession('x', { cancelledAt: NaN })).rejects.toThrowError(RangeError);
++    await expect(ledger.cancelSession('x', { cancelledAt: Infinity })).rejects.toThrowError(RangeError);
++  });
++});
++
++describe('cancelSession — lease sweep exemption (acceptance 6)', () => {
++  it('a cancelled session is never swept, even past its old lease horizon', async () => {
++    const clock = testClock(1_000);
++    const store = memoryStore();
++    const ledger = new TaskLedger({ store, clock, idFactory: seq(), claimLeaseMs: 5_000 });
++    const s = await ledger.dispatch({ intent: 'loop' });
++    await ledger.claimDue(); // lease until 6_000
++    await ledger.cancelSession(s.id, { reason: 'user' });
++    clock.advance(100_000); // far past the (cleared) lease
++    expect(await ledger.sweepExpiredLeases()).toHaveLength(0);
++    const final = await ledger.getSession(s.id);
++    expect(final?.state).toBe('cancelled');
++    expect(await ledger.listQueries(s.id)).toHaveLength(1); // still just the epitaph
++  });
++});
++
++describe('cancelSession — restart survival (acceptance 7)', () => {
++  it('a reloaded ledger over the same store keeps cancelled cancelled', async () => {
++    const clock = testClock(1_000);
++    const store = memoryStore();
++    const first = new TaskLedger({ store, clock, idFactory: seq() });
++    const s = await first.dispatch({ intent: 'loop' });
++    await first.cancelSession(s.id, { reason: 'user' });
++    // Host restart: a fresh TaskLedger (and driver poll) over the same rows.
++    const reloaded = new TaskLedger({ store, clock: testClock(999_999), idFactory: seq() });
++    const session = await reloaded.getSession(s.id);
++    expect(session).toMatchObject({ state: 'cancelled', nextRunAt: null, cancelReason: 'user' });
++    expect(await reloaded.claimDue()).toHaveLength(0);
++    expect(await reloaded.sweepExpiredLeases()).toHaveLength(0);
++  });
++});
++
++describe('recordOutcome rejects the reserved cancelled outcome', () => {
++  it('throws RangeError before touching the store', async () => {
++    const store = memoryStore();
++    const ledger = new TaskLedger({ store, clock: testClock(), idFactory: seq() });
++    const s = await ledger.dispatch({ intent: 'loop' });
++    await ledger.claimDue();
++    await expect(
++      ledger.recordOutcome(s.id, { outcome: 'cancelled', startedAt: 1_000, endedAt: 1_001 }),
++    ).rejects.toThrow(/reserved for cancelSession/);
++    expect((await ledger.getSession(s.id))?.state).toBe('running');
++    expect(store.queries).toHaveLength(0);
++  });
++});
++
++describe('cancelSession — CAS fencing (putSessionIf stores)', () => {
++  it('cancels through the conditional put, bumping the revision', async () => {
++    const store = casStore();
++    const ledger = new TaskLedger({ store, clock: testClock(), idFactory: seq() });
++    const s = await ledger.dispatch({ intent: 'loop' });
++    const cancelled = await ledger.cancelSession(s.id, { reason: 'user' });
++    expect(cancelled.revision).toBe(2); // dispatch=1, cancel=2
++    expect(store.sessions.get(s.id)?.state).toBe('cancelled');
++  });
++
++  it('re-reads and re-applies over an interleaved rival write (cancel still lands)', async () => {
++    const store = casStore();
++    const ledger = new TaskLedger({ store, clock: testClock(), idFactory: seq() });
++    const s = await ledger.dispatch({ intent: 'loop' });
++    // Rival host bumps the row between our read and our put, exactly once.
++    let intercepted = false;
++    const honest = store.putSessionIf.bind(store);
++    store.putSessionIf = async (record: SessionRecord, expected: number | null) => {
++      if (!intercepted && record.state === 'cancelled') {
++        intercepted = true;
++        const current = store.sessions.get(record.id)!;
++        // Rival claim: pending -> running, revision + 1.
++        store.sessions.set(record.id, {
++          ...current,
++          state: 'running',
++          attempts: current.attempts + 1,
++          nextRunAt: null,
++          revision: (current.revision ?? 0) + 1,
++        });
++        return honest(record, expected); // now stale -> false
++      }
++      return honest(record, expected);
++    };
++    const cancelled = await ledger.cancelSession(s.id, { reason: 'user' });
++    expect(intercepted).toBe(true);
++    expect(cancelled.state).toBe('cancelled');
++    // The re-read saw the rival's running claim, so the cancel wrote the
++    // in-flight attempt's epitaph row too.
++    expect((await ledger.listQueries(s.id)).map((q) => q.outcome)).toEqual(['cancelled']);
++  });
++
++  it('surfaces ClaimConflictError when the CAS loses persistently', async () => {
++    const store = casStore();
++    const ledger = new TaskLedger({ store, clock: testClock(), idFactory: seq() });
++    const s = await ledger.dispatch({ intent: 'loop' });
++    store.putSessionIf = async () => false; // pathological store: every write loses
++    await expect(ledger.cancelSession(s.id)).rejects.toThrow(/cancel lost to concurrent writers/);
++  });
++});
++
++describe('driver — a mid-flight cancel is not a malfunction', () => {
++  afterEach(() => {
++    vi.useRealTimers();
++  });
++
++  it('drops the late result silently: no driver:error, no extra rows, cancelled sticks', async () => {
++    vi.useFakeTimers();
++    const store = memoryStore();
++    const ledger = new TaskLedger({ store, idFactory: seq() });
++    const events: DriverEvent[] = [];
++    let releaseExecutor!: () => void;
++    const executorGate = new Promise<void>((resolve) => (releaseExecutor = resolve));
++    let signalSeen: AbortSignal | undefined;
++    const driver = new LedgerDriver({
++      ledger,
++      executor: async (_session, ctx) => {
++        signalSeen = ctx.signal;
++        await executorGate;
++        return { outcome: 'ok' as const, summary: 'too late' };
++      },
++      pollIntervalMs: 100,
++      onEvent: (e) => events.push(e),
++    });
++    const s = await ledger.dispatch({ intent: 'loop' });
++    driver.start();
++    await vi.advanceTimersByTimeAsync(150); // claim + executor now in flight
++    expect((await ledger.getSession(s.id))?.state).toBe('running');
++
++    // Host-side cancel: settle the ledger, then release the executor late.
++    await ledger.cancelSession(s.id, { reason: 'user' });
++    releaseExecutor();
++    await vi.advanceTimersByTimeAsync(500); // let bookkeeping settle + more polls
++
++    await driver.stop();
++    const final = await ledger.getSession(s.id);
++    expect(final?.state).toBe('cancelled');
++    expect(final?.cancelReason).toBe('user');
++    // The epitaph row is the whole history — the late 'ok' recorded nothing.
++    expect((await ledger.listQueries(s.id)).map((q) => q.outcome)).toEqual(['cancelled']);
++    // No malfunction signal, no terminal event for the dropped result.
++    expect(events.filter((e) => e.type === 'driver:error')).toHaveLength(0);
++    expect(events.filter((e) => e.type === 'session:terminal')).toHaveLength(0);
++    expect(signalSeen).toBeDefined();
++  });
++
++  it('claimDue never re-claims a cancelled session across later polls', async () => {
++    vi.useFakeTimers();
++    const store = memoryStore();
++    const ledger = new TaskLedger({ store, idFactory: seq() });
++    const started: string[] = [];
++    const driver = new LedgerDriver({
++      ledger,
++      executor: async (session) => {
++        started.push(session.id);
++        return { outcome: 'ok' as const };
++      },
++      pollIntervalMs: 100,
++    });
++    const s = await ledger.dispatch({ intent: 'loop', runAt: 10_000 });
++    await ledger.cancelSession(s.id, { reason: 'user' }); // cancelled BEFORE ever due
++    driver.start();
++    await vi.advanceTimersByTimeAsync(20_000); // due time long past
++    await driver.stop();
++    expect(started).toHaveLength(0);
++    expect((await ledger.getSession(s.id))?.state).toBe('cancelled');
++  });
++});
+diff --git a/projects/silver-core-maestro-sdk/tests/property-cores.test.ts b/projects/silver-core-maestro-sdk/tests/property-cores.test.ts
+index 94cf305..ee7ce2b 100644
+--- a/projects/silver-core-maestro-sdk/tests/property-cores.test.ts
++++ b/projects/silver-core-maestro-sdk/tests/property-cores.test.ts
+@@ -31,7 +31,13 @@ const RUNS = { numRuns: 2_000 };
+ const HEAVY = { numRuns: 500 };
+ 
+ const arbState = fc.constantFrom<SessionState>(...SESSION_STATES);
+-const arbEvent = fc.constantFrom<SessionEvent>('claim', 'attempt:ok', 'attempt:error', 'attempt:timeout');
++const arbEvent = fc.constantFrom<SessionEvent>(
++  'claim',
++  'attempt:ok',
++  'attempt:error',
++  'attempt:timeout',
++  'cancel',
++);
+ 
+ describe('state.ts properties', () => {
+   it('transition is TOTAL: a member of the closed set or InvalidTransitionError, nothing else', () => {
+@@ -47,7 +53,7 @@ describe('state.ts properties', () => {
+       RUNS,
+     );
+   });
+-  it('terminal states absorb: no event ever leaves done/failed', () => {
++  it('terminal states absorb: no event ever leaves done/failed/cancelled', () => {
+     fc.assert(
+       fc.property(fc.constantFrom<SessionState>(...TERMINAL_STATES), arbEvent, fc.nat(20), (s, e, a) => {
+         expect(() => transition(s, e, { attempts: a, maxAttempts: 3 })).toThrowError(InvalidTransitionError);
+diff --git a/projects/silver-core-maestro-sdk/tests/state.test.ts b/projects/silver-core-maestro-sdk/tests/state.test.ts
+index 64bffa6..11dc8a7 100644
+--- a/projects/silver-core-maestro-sdk/tests/state.test.ts
++++ b/projects/silver-core-maestro-sdk/tests/state.test.ts
+@@ -11,15 +11,15 @@ import {
+ } from '../src/ledger/state.js';
+ import type { SessionState } from '../src/ledger/types.js';
+ 
+-const ALL_EVENTS: SessionEvent[] = ['claim', 'attempt:ok', 'attempt:error', 'attempt:timeout'];
++const ALL_EVENTS: SessionEvent[] = ['claim', 'attempt:ok', 'attempt:error', 'attempt:timeout', 'cancel'];
+ const CTX = { attempts: 1, maxAttempts: 3 };
+ 
+ describe('state sets', () => {
+-  it('pins the closed state set, in lifecycle order', () => {
+-    expect(SESSION_STATES).toEqual(['pending', 'running', 'retrying', 'failed', 'done']);
++  it('pins the closed state set, in lifecycle order (cancelled appended LAST, 0.76.0)', () => {
++    expect(SESSION_STATES).toEqual(['pending', 'running', 'retrying', 'failed', 'done', 'cancelled']);
+   });
+   it('pins the terminal states', () => {
+-    expect(TERMINAL_STATES).toEqual(['failed', 'done']);
++    expect(TERMINAL_STATES).toEqual(['failed', 'done', 'cancelled']);
+   });
+ });
+ 
+@@ -32,6 +32,9 @@ describe('transition — the full matrix', () => {
+     ['running', 'attempt:ok', 'done'],
+     ['running', 'attempt:error', 'retrying'], // attempts 1 < maxAttempts 3
+     ['running', 'attempt:timeout', 'retrying'],
++    ['pending', 'cancel', 'cancelled'], // 0.76.0: cancel from every non-terminal
++    ['running', 'cancel', 'cancelled'],
++    ['retrying', 'cancel', 'cancelled'],
+   ];
+ 
+   it.each(legal)('%s --%s--> %s', (state, event, next) => {
+@@ -94,6 +97,11 @@ describe('transition — retry counting', () => {
+   it('ok is unaffected by attempt counters (no exhaustion check)', () => {
+     expect(transition('running', 'attempt:ok', { attempts: 99, maxAttempts: 1 })).toBe('done');
+   });
++  it('cancel is unaffected by attempt counters — never lands in failed (0.76.0)', () => {
++    expect(transition('running', 'cancel', { attempts: 99, maxAttempts: 1 })).toBe('cancelled');
++    expect(transition('pending', 'cancel', { attempts: 0, maxAttempts: 1 })).toBe('cancelled');
++    expect(transition('retrying', 'cancel', { attempts: NaN, maxAttempts: NaN })).toBe('cancelled');
++  });
+   it('the non-finite guard names the counters in its message', () => {
+     try {
+       transition('running', 'attempt:error', { attempts: NaN, maxAttempts: 3 });
+diff --git a/projects/silver-core-sdk/CHANGELOG.md b/projects/silver-core-sdk/CHANGELOG.md
+index a8d92e9..1d67355 100644
+--- a/projects/silver-core-sdk/CHANGELOG.md
++++ b/projects/silver-core-sdk/CHANGELOG.md
+@@ -16,6 +16,14 @@ entries at the bottom are likewise retroactive — reconstructed from the commit
+ sequence (no per-merge ledger existed before the 0.6.2 discipline), so their
+ granularity stops at the commit-title level.
+ 
++## 0.76.0 — 2026-07-22
++
++Lockstep alignment only — no agent-SDK code change. The maestro SDK added
++the `cancelled` terminal session state + `TaskLedger.cancelSession()`
++(BPT requirement P0-D1: user-initiated cancel as a first-class terminal,
++ledger-distinguishable from `failed`, never auto-rerun). See the maestro
++CHANGELOG 0.76.0.
++
+ ## 0.75.0 — 2026-07-20
+ 
+ R7 session-end write-back observability (keeper ruling 2026-07-20, from the
+diff --git a/projects/silver-core-sdk/package.json b/projects/silver-core-sdk/package.json
+index 0e3be4f..bc1779c 100644
+--- a/projects/silver-core-sdk/package.json
++++ b/projects/silver-core-sdk/package.json
+@@ -1,6 +1,6 @@
+ {
+   "name": "silver-core-agent-sdk",
+-  "version": "0.75.0",
++  "version": "0.76.0",
+   "description": "Silver Core Agent SDK - independent agent harness with a claude-agent-sdk compatible surface, driving the Anthropic Messages API directly (no bundled CLI binary).",
+   "license": "MIT",
+   "type": "module",
+diff --git a/projects/silver-core-sdk/src/version.ts b/projects/silver-core-sdk/src/version.ts
+index 922fa2a..e5cf3be 100644
+--- a/projects/silver-core-sdk/src/version.ts
++++ b/projects/silver-core-sdk/src/version.ts
+@@ -7,7 +7,7 @@
+  * scripts/check-version-bump.mjs REDS any commit where the two disagree.
+  */
+ 
+-export const SDK_VERSION = '0.75.0';
++export const SDK_VERSION = '0.76.0';
+ 
+ /** User-Agent both transports send. */
+ export const SDK_USER_AGENT = `silver-core-sdk/${SDK_VERSION}`;
+-- 
+2.43.0
+

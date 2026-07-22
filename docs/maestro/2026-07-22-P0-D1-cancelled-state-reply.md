@@ -158,6 +158,13 @@ BPT 验收用例 1–8 全部转为上游测试，随 0.76.0 合入：
 
 ## 6. 排期
 
+> **交付状态更新(2026-07-22 当日)**:第 3 节契约已全量实现并通过验证,无需等待 rc 窗口。
+> 完整实现补丁见本目录 `patches/0001-feat-maestro-cancelled-closed-terminal-TaskLedger.ca.patch`
+> (基于 BIAV-SC-CODE main @ a16c016;含全部源码 / 测试 / 版本锁步 / CHANGELOG)。
+> 落地方式:在 BIAV-SC-CODE 检出新分支后 `git am <补丁路径>`。验证结果:maestro 362/362、
+> testbed 30/30、agent 3216 通过、依赖方向守卫绿、`state.ts` 变异分 100.00(99 杀 / 0 存活,
+> 棘轮地板保持)。下文原排期估算保留作历史记录。
+
 工作量评估约 3 人日：类型与状态机 0.5d、`cancelSession()` 与并发路径 1d、测试（含契约套件扩充）1d、changelog 与锁步发布 0.5d。
 
 - **2026-07-24**：`0.76.0-rc.1` 可供 BPT Shadow 环境预验收（验收用例 1–8）。
