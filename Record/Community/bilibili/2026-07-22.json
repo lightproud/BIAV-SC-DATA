@@ -1,8 +1,8 @@
 {
   "date": "2026-07-22",
-  "archived_at": "2026-07-22T05:50:35.083572+00:00",
+  "archived_at": "2026-07-22T08:27:31.975830+00:00",
   "source": "bilibili",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "致敬传奇残局满血kks大人",
@@ -138,6 +138,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/4d72341502eed0b492359d9167455fc5f8599104.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "沙耶的绘画过程",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-22T06:39:19+00:00",
+      "url": "https://www.bilibili.com/video/BV1rMgr65EVj",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "汐式烤全烊",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 2,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/acf75ed4d11de00ac983802216e71dd3f3681b2d.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

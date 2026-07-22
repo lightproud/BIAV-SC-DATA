@@ -1,8 +1,8 @@
 {
   "date": "2026-07-22",
-  "archived_at": "2026-07-22T05:50:35.145491+00:00",
+  "archived_at": "2026-07-22T08:27:32.026794+00:00",
   "source": "steam",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] its actually pretty fun",
@@ -142,6 +142,30 @@
         "playtime_forever": 1633,
         "votes_up": 0,
         "timestamp_created": 1784683222
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] I am torn about this game. It is fun enough to ent...",
+      "summary": "I am torn about this game. It is fun enough to entertain you, but it's not difficult enough to give you that invested feeling every battle. Most of the time, I'm just doing the battle for the sake of it. But it's a free to play game so I'll just give it a thumbs up. Try it yourself and decide. Plus, I don't really like turn-based games, so the fact that I played this for more than 12 hours is enough for me to give it a thumbs up.\n\nWhat I like about this game:\n1. The mechanics of the game is easy to understand and familiarize.\n2. The visual is pretty\n3. It is a generous gacha game. I feel like I have more than enough to enjoy the game as it is and any purchases ( I never did) that you make are completely optional.\n4. I really like the format of the game. You do minor battles, gain temporary boosts, earn coins, purchase relics for more boosts, heal your characters, and then proceed to the final boss fight. With the right strategy you can easily kill the boss in a few turns haha.\n\nWhat I don't like about this game:\n1. The difficulty progression is too slow. I'm in the middle of Chapter 3 and I'm bored. There is a \"recommended\" level for every mission, and I can easily do the mission even if I'm 2-3 levels lower that the recommended. I searched on reddit when will the game be finally interesting and there were people who said it will be at the end of chapter 5 or early in chapter 6. Part of me isn't willing to wait that long, but the other part of me wants to experience how difficult chapter 6 is. 😆\n2. I really can't get into the story.\n3. In every line up, you can only have characters from a maximum of 2 realms. There are 4 realms in total. It would have been so much fun if you can have 1 character per realm for your line up and they fight a really OP final boss.\n4. The artificial communication with the awakeners in a chat format is cringe to me.",
+      "source": "steam_review",
+      "time": "2026-07-22T06:55:48+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198743904407/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198743904407",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 786,
+        "votes_up": 0,
+        "timestamp_created": 1784703348
       },
       "region": "global",
       "archive_subtype": "review",
