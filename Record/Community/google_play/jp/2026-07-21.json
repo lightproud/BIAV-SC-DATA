@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-21",
+  "archived_at": "2026-07-22T13:48:48.412720+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 逆転要素がないのに時間ばかりかかる対人戦！91秒をかけた じゃんけん でしかない",
+      "summary": "逆転要素がないのに時間ばかりかかる対人戦！91秒をかけた じゃんけん でしかない。二度とやらん。 逃げた？何とでも言えってんだ",
+      "source": "google_play",
+      "time": "2026-07-21T13:05:40",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-b69d506d-e628-47ee-b37b-4833c89e9523",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "sa se",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "jp",
+      "region": "jp"
+    },
+    {
+      "title": "[Google Play 好评] ★5 ゲームのシステム、ストーリー共に最高です。考えるのが面倒と思う方には向かないかも",
+      "summary": "ゲームのシステム、ストーリー共に最高です。考えるのが面倒と思う方には向かないかもしれません。",
+      "source": "google_play",
+      "time": "2026-07-21T13:36:52",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-cdd89aee-e1fe-449a-a5ee-766fc4db5d29",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ゆうじ",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "jp",
+      "region": "jp"
+    }
+  ],
+  "region": "jp"
+}
