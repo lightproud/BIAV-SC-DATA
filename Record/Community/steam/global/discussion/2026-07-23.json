@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-22T19:15:45.713802+00:00",
+  "archived_at": "2026-07-22T22:05:13.611166+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Steam论坛] Invitation Code",
@@ -13,6 +13,23 @@
       "engagement": 212,
       "is_hot": true,
       "author": "Znye",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] Redeem codes",
+      "summary": "This codes NEVER EXPIRE:\n\nCODE l REWARD\nHVGX-HLDX-QKKN l [Pure Core x5]\nQKBQ-SSDG-JZYU l [Pure Core x5]\nCatsgift l [Silver x1000]\nDc5000 l [Special Elixie x3]\nSilverkey l [Pure Core x10]\n\n\nThis ones WILL EXPIRE eventually:\n\nCODE l REWARD l VALID UNTIL\nSayaNoUta l [Pure Core x5] l [look at her banner and event ending date]\nYouSavedMorimens l [Pure Core x100] l [11 May 2026 but i was able to get it now][\nHJVA-RLMF-RELF l [Silver ×500, Pure Core ×5] l [27 July 2026]\nWNZC-ZCQA-QBKQ l [Silver × 500,",
+      "source": "steam_discussion",
+      "time": "2026-07-22T21:15:50+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/594062392368893733/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ReXert",
       "tags": [
         "steam_forum"
       ],

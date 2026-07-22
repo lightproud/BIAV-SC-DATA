@@ -1,8 +1,8 @@
 {
   "date": "2026-07-22",
-  "archived_at": "2026-07-22T19:15:45.879316+00:00",
+  "archived_at": "2026-07-22T22:05:13.748714+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 My most favorite Game of all!! ദ്ദി◝ ⩊ ◜",
@@ -16,6 +16,20 @@
       "tags": [],
       "lang": "en",
       "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 中评] ★3 제법 재밌었던 게임",
+      "summary": "제법 재밌었던 게임",
+      "source": "google_play",
+      "time": "2026-07-21T19:48:01",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-ea9bc66b-1cf4-47bc-8605-5af9a6ad1889",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "YJ S",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
       "region": "global"
     }
   ],
