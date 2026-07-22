@@ -1,0 +1,31 @@
+{
+  "date": "2026-07-23",
+  "archived_at": "2026-07-22T19:15:45.715314+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "［忘却前夜］天胡造物克莱门汀小姐1t绞杀希洛",
+      "summary": "-\n  └ 伊莎玛拉-大群来了 (1赞): 我了爱播",
+      "source": "bilibili",
+      "time": "2026-07-22T16:52:07+00:00",
+      "url": "https://www.bilibili.com/video/BV1qFgy67Etr",
+      "engagement": 58,
+      "is_hot": false,
+      "author": "梦依流苏_myls",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 55,
+        "comment_count": 3,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/b4ad3ce08acde3fc9ac958bd9934f8f675b94007.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    }
+  ]
+}
