@@ -1,8 +1,8 @@
 {
   "date": "2026-07-22",
-  "archived_at": "2026-07-22T08:27:32.026794+00:00",
+  "archived_at": "2026-07-22T11:10:00.707719+00:00",
   "source": "steam",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "[正面] its actually pretty fun",
@@ -166,6 +166,30 @@
         "playtime_forever": 786,
         "votes_up": 0,
         "timestamp_created": 1784703348
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 太好玩了，累计活动抽283次，就中5个，歪8次，比原神都6.",
+      "summary": "太好玩了，累计活动抽283次，就中5个，歪8次，比原神都6.",
+      "source": "steam_review",
+      "time": "2026-07-22T09:16:39+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199071711369/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199071711369",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 2332,
+        "votes_up": 0,
+        "timestamp_created": 1784711799
       },
       "region": "global",
       "archive_subtype": "review",

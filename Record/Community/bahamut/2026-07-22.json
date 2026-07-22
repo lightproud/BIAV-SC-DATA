@@ -1,8 +1,8 @@
 {
   "date": "2026-07-22",
-  "archived_at": "2026-07-22T08:27:31.974683+00:00",
+  "archived_at": "2026-07-22T11:10:00.599311+00:00",
   "source": "bahamut",
-  "item_count": 22,
+  "item_count": 23,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -257,6 +257,19 @@
       "source": "bahamut",
       "time": "2026-07-21T16:23:28.036695+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1485&tnum=1",
+      "engagement": 10,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【校貓日誌】關於PV相關回饋的核驗說明 (忘卻又被抄了?!)",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-07-22T11:08:23.714387+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1498&tnum=1",
       "engagement": 10,
       "is_hot": false,
       "author": "t12345825",

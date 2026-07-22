@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
-  "archived_at": "2026-07-22T08:27:32.065306+00:00",
+  "archived_at": "2026-07-22T11:10:00.753817+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 好评] ★5 제 인생겜입니다. 뼈를 묻겠습니다.",
@@ -41,6 +41,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Hunter Lambert",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★2 why always connecting whenever i tried t",
+      "summary": "why always connecting whenever i tried to enter the battle",
+      "source": "google_play",
+      "time": "2026-07-21T09:39:43",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-0b1f86a8-35d3-4403-bc94-4d8a475fbec5",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Kangi Is Here",
       "tags": [],
       "lang": "en",
       "platform_region": "us",

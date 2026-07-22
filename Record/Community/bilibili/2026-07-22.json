@@ -1,9 +1,32 @@
 {
   "date": "2026-07-22",
-  "archived_at": "2026-07-22T08:27:31.975830+00:00",
+  "archived_at": "2026-07-22T11:10:00.599898+00:00",
   "source": "bilibili",
-  "item_count": 8,
+  "item_count": 10,
   "items": [
+    {
+      "title": "［相位/教学］御驾亲征的杜勒原来这么强？！",
+      "summary": "-\n  └ yi36403 (2赞): 已完成今日的相位大学习[OK]\n  └ 星极吃不吃得了热豆腐 (2赞): 新鲜出炉[doge]\n  └ 青青子衿-隐 (1赞): 支持[打call][打call][打call]",
+      "source": "bilibili",
+      "time": "2026-07-22T08:44:30+00:00",
+      "url": "https://www.bilibili.com/video/BV1W1gC6oEL9",
+      "engagement": 243,
+      "is_hot": false,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 239,
+        "comment_count": 4,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/bcb9cd3f9795218e24a8fd550e5e530a378ad7e0.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "致敬传奇残局满血kks大人",
       "summary": "要被千面万象打死了好怕怕哦（棒读\n残局唯一生存kks，谁看打击回血能不笑\n  └ iq2233 (0赞): 吃个驱散就老实了[doge]\n  └ 抱着狗狗不敢说话 (0赞): 这玩意可肉嘟嘟了 还有反击在。 我以前用过应该女王戒律不错 一直可以加固，后面发现 带5-10反击对面就避开不打了",
@@ -184,6 +207,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/44473ebf43c9499518793e8747c23f5f81be9363.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "《忘却前夜》简章3-3，P2单手停火车，是你？",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-22T10:38:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1pANJ66EYY",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "不可燃抹茶果冻",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 1,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/b20c0dd28d8823488ec789e19f59d5cbb429b0d4.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
