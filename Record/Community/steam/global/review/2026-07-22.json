@@ -1,8 +1,8 @@
 {
   "date": "2026-07-22",
-  "archived_at": "2026-07-22T02:27:51.207930+00:00",
+  "archived_at": "2026-07-22T03:16:02.958193+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
     {
       "title": "[正面] its actually pretty fun",
@@ -94,6 +94,54 @@
         "playtime_forever": 10534,
         "votes_up": 0,
         "timestamp_created": 1784666442
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] very fun game!! the art is pretty and so far the s...",
+      "summary": "very fun game!! the art is pretty and so far the story is nice as well.\r\n\r\n\r\nas for the gameplay i particular: it can be hard to pick up, especially if youre like me and dislike relying on ingame tutorials. but it isn't egregious or anything, just difficult to parse. all the information is available and relatively easy to find, so if you've got the will to figure it out you'll be fine, dont worry\r\n\r\nthere's a lot of flexibility in play styles too! that's my favorite part probably; i've never been good with games that try to force a minmax playstyle (although i don't mind that kind of thing on my own terms). there's lots of different strategies and playstyles you can use so if you don't like, for example, caro and chaos, you can adjust and use caro and ultra, or chaos and ultra, etcetc. you can make basically any team comp work lol\r\n\r\nthe difficulty curve has been nice so far, although i admittedly haven't made it that far, so i'm not sure how it is late-game. but at least up to about keeper level 25 or so it's been lenient. you can seek out challenge, but if you don't want to, you don't need to push yourself either.\r\n\r\nthe gacha is also pretty damn generous. you can grind out a good amount of 5 pulls every day if you really wanted, and the rates are very kind compared to some, uh, other gacha games (proseka i'm looking at you). keeping up with the discord/an updates account (like morimens-news on tumblr) is also a good idea since redemption codes are given out all the time (although you won't die without, like i said you can grind perfectly fine on your own)\r\n\r\ntl;dr the gameplay is fairly well-balanced and very fun, especially if you enjoy the satisfaction of blowing through a wave with a single card (cough cough final verdict)\r\n\r\n\r\nabsolutely a recommendation! fun game i like it a lot. the fem keeper and ramona should kiss. doll inferno has a cool design. ok done now goodbyeeee",
+      "source": "steam_review",
+      "time": "2026-07-22T02:07:56+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199818760161/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199818760161",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1050,
+        "votes_up": 0,
+        "timestamp_created": 1784686076
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] the best gacha out there - dark, moody, great comb...",
+      "summary": "the best gacha out there - dark, moody, great combat",
+      "source": "steam_review",
+      "time": "2026-07-22T01:20:22+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198018979101/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198018979101",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1633,
+        "votes_up": 0,
+        "timestamp_created": 1784683222
       },
       "region": "global",
       "archive_subtype": "review",
