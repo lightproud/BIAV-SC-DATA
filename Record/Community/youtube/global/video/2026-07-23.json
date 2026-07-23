@@ -1,9 +1,26 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-22T22:05:13.612167+00:00",
+  "archived_at": "2026-07-23T02:32:49.402497+00:00",
   "source": "youtube",
-  "item_count": 8,
+  "item_count": 10,
   "items": [
+    {
+      "title": "[Morimens] Extremely short stream, trying to finish up another video. Will answer questions.",
+      "summary": "Don't know how long. Will be doing other stuff too.",
+      "source": "youtube",
+      "time": "2026-07-22T23:26:24Z",
+      "url": "https://www.youtube.com/watch?v=1yXFFjzQ3hk",
+      "engagement": 174,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/1yXFFjzQ3hk/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
     {
       "title": "【忘却前夜】終章　長い夢の終わり　９－１１から【ローグライクで遊ぼうの会】",
       "summary": "忘却前夜 #忘却前夜Steam版 墓に名前を刻んで始まった 守秘者の物語が終わりを迎えようとしている。 提供：株式会社オルト ...",
@@ -119,6 +136,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/LoKpR3RBaPg/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Trying out Morimens cuz why noy!!!!!! || Morimens #3 (VOD)",
+      "summary": "https://www.twitch.tv/wathakate222.",
+      "source": "youtube",
+      "time": "2026-07-23T00:13:24Z",
+      "url": "https://www.youtube.com/watch?v=7d5kCGjix5Q",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "VODsakate",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/7d5kCGjix5Q/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

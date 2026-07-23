@@ -1,8 +1,8 @@
 {
   "date": "2026-07-22",
-  "archived_at": "2026-07-22T22:05:13.609196+00:00",
+  "archived_at": "2026-07-23T02:32:49.399089+00:00",
   "source": "bilibili",
-  "item_count": 18,
+  "item_count": 20,
   "items": [
     {
       "title": "【原创动画·百合·克苏鲁】清醒系统拒绝恋爱梦境·EP01·流星雨从天而降【up动画】",
@@ -23,6 +23,29 @@
         "danmaku": 6
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/36d6c25f8eaf75cf8faa90d9648940e32cbca32b.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "说多少次了机制不能乱叠",
+      "summary": "打的我头昏眼花的……………\n（大忙人可以直接跳转到14：45）\n\n自定义难度，递进模式，血量拉满，然后bs9难带不死轮回模式，在一层刷了6个魂（中途嫌卡手删了一个）\n敌人有6个海克斯增强，这一局影响最大的是每回合+5%血量上限…\n不开的话打不过的（至少我这局的抓牌是打不过了），早点考虑到这个的话，抓个指数叠寄生的和无消耗吞噬就随便打了\n（这一局主要是想着用解弦输出，所以没抓某些假卡）（风雨飘摇 和 你所挚爱的我 都遇到了，没抓，不然完全不至于打这么累……）\n\n\n简单说下“思路”…就是打boss时的想法）\n\n  └ 咏梦心-system (1赞): 这个血量的话看了一眼，确实纯靠帕秋莉本家那张牌不好打，帕秋莉本家那张本质是发条靴，不给吃很多buff……小刀还是太可怕了\n  └ 咏梦心-system (0赞): 以及up主有没有什么参考mod合集？感觉叠的有点意思，想看看到底加了哪些，居然没闪退\n  └ 咏梦心-system (0赞): uuz单牌叠死意的话，可以转无处可逃，姑且也是指数成长",
+      "source": "bilibili",
+      "time": "2026-07-22T15:45:56+00:00",
+      "url": "https://www.bilibili.com/video/BV1Ksgy6cEZD",
+      "engagement": 262,
+      "is_hot": false,
+      "author": "米树的梦游日记",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 259,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/07128eb8aebab97de7fae88b3eb104578d64510e.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -161,6 +184,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/d2005139687301b91b043331068ea1a98f620952.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "紀錄紀錄",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-22T06:29:44+00:00",
+      "url": "https://www.bilibili.com/video/BV1q7gr6MEYm",
+      "engagement": 117,
+      "is_hot": false,
+      "author": "-鵆-",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 117,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/47b6d86d5bbd3ffdf19e9aa47049d1ba57bef52e.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

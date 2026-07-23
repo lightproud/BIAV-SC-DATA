@@ -1,8 +1,8 @@
 {
   "date": "2026-07-22",
-  "archived_at": "2026-07-22T22:05:13.748714+00:00",
+  "archived_at": "2026-07-23T02:32:49.546852+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 好评] ★5 My most favorite Game of all!! ദ്ദി◝ ⩊ ◜",
@@ -30,6 +30,34 @@
       "tags": [],
       "lang": "ko",
       "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 back when i tried the game like... 2 mon",
+      "summary": "back when i tried the game like... 2 months ago, the english translation seems like doesn't really work. Also, the game is very laggy, i have midrange chipset (mediatek dimensity 1080) but it feels very heavy.",
+      "source": "google_play",
+      "time": "2026-07-21T23:35:09",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-7c0684e1-0244-4282-b3ae-927d93bfece3",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Akbar Ramadhani",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 absolute banger",
+      "summary": "absolute banger",
+      "source": "google_play",
+      "time": "2026-07-21T23:21:41",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-3590fc1f-0851-4ce4-afd0-2e50ad50766a",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Rara",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],

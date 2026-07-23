@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-22T22:05:13.612758+00:00",
+  "archived_at": "2026-07-23T02:32:49.401179+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "［忘却前夜］天胡造物克莱门汀小姐1t绞杀希洛",
@@ -23,6 +23,52 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/b4ad3ce08acde3fc9ac958bd9934f8f675b94007.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】阿拉克涅主C4t5-5",
+      "summary": "-\n  └ 嘎啦嘎啦果 (0赞): 死羊妈一生就生一窝不带停的干脆让蜘蛛帮忙打胎直接杀穿2阶段得了。\n命轮密契这么带是怕死，还是要有一个手牌上限+2才玩得舒服。\n没什么参考性，因为专造有点胡。\n没用魔术师，道中给王关做状态有点难受，但是本来这个队就有复活，还有两个过牌手，多一些症状卡也可以润滑一下牌组。\n法洛思很重要，定向滤抽3张，可以加速过牌，也可以提前把用不到的牌抽出来，不用。强烈建议人手一只超限法洛思。",
+      "source": "bilibili",
+      "time": "2026-07-23T01:55:04+00:00",
+      "url": "https://www.bilibili.com/video/BV1c7gm6YEya",
+      "engagement": 35,
+      "is_hot": false,
+      "author": "嘎啦嘎啦果",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 34,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/33554b05dcc68990f6fd911b911773dc1738f8aa.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【小金龙】看《忘却前夜丨概念PV「窥视灵魂之旅」》【鸣布织/reaction】",
+      "summary": "主播：@鸣布织  \n主播主页：https://space.bilibili.com/21687657\n主播直播间：https://live.bilibili.com/22839201\n粉丝聊天群：702056608\n直播禁言通知群：318507152\n固定时间每晚八点-十二点。\n_____________________________________________\n  └ 时间快些肘吧 (0赞): 咱们5771也是火起来了",
+      "source": "bilibili",
+      "time": "2026-07-23T01:00:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1u4Kv6PEEW",
+      "engagement": 21,
+      "is_hot": false,
+      "author": "鸣布织二创",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 20,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/63bfaa0b07507a3bfe7e084c62fcb5d72921f010.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
