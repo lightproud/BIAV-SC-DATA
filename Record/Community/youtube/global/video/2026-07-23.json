@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-23T11:10:21.894805+00:00",
+  "archived_at": "2026-07-23T13:53:40.918479+00:00",
   "source": "youtube",
-  "item_count": 15,
+  "item_count": 17,
   "items": [
     {
       "title": "🎬 忘却前夜┊概念PV「银芯」",
@@ -85,6 +85,40 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/k1QZGmTaxAo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "망각전야Morimens) (대리뽑,상담시청가능)비밀계약 캐릭추천편 (혼돈)",
+      "summary": "망각전야 #Morimens #이터널리턴.",
+      "source": "youtube",
+      "time": "2026-07-23T13:49:00Z",
+      "url": "https://www.youtube.com/watch?v=VZ6eb08OGN8",
+      "engagement": 39,
+      "is_hot": false,
+      "author": "박현(Muyeong)",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/VZ6eb08OGN8/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】新シーズンいくぞ！！！！！！！！　＆溶壊ドール",
+      "summary": "星辰正しき配信.",
+      "source": "youtube",
+      "time": "2026-07-23T11:18:03Z",
+      "url": "https://www.youtube.com/watch?v=1rEqleFrlGY",
+      "engagement": 32,
+      "is_hot": false,
+      "author": "たこに名前を入力",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/1rEqleFrlGY/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

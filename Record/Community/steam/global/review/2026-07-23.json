@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-23T11:10:21.956386+00:00",
+  "archived_at": "2026-07-23T13:53:40.971744+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 8,
   "items": [
     {
       "title": "[正面] [b]Я не фанат карточных баттлеров, но сюжет и лор...",
@@ -118,6 +118,78 @@
         "playtime_forever": 8497,
         "votes_up": 0,
         "timestamp_created": 1784797721
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Feels aight in my experience. I love how this game...",
+      "summary": "Feels aight in my experience. I love how this game shoves you with pulls. I've done chapter one so far. Honestly one thing that's down for me is there is no voice acting after prologue, which throws me off a little bit.",
+      "source": "steam_review",
+      "time": "2026-07-23T13:19:36+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199032438238/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199032438238",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1000,
+        "votes_up": 0,
+        "timestamp_created": 1784812776
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] hey its not that bad. women in uniform is hot.",
+      "summary": "hey its not that bad. women in uniform is hot.",
+      "source": "steam_review",
+      "time": "2026-07-23T12:22:52+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199415792358/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199415792358",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2468,
+        "votes_up": 0,
+        "timestamp_created": 1784809372
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 번역이 좀 이상하지만 기괴한 분위기 때문에 그거마저 좀 어울리는것같습니다.\r\n그림이 취향에...",
+      "summary": "번역이 좀 이상하지만 기괴한 분위기 때문에 그거마저 좀 어울리는것같습니다.\r\n그림이 취향에 맞고, 스토리도 저한테는 신선해서 괜찮은것같습니다.",
+      "source": "steam_review",
+      "time": "2026-07-23T12:09:37+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199053036474/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199053036474",
+      "tags": [
+        "koreana"
+      ],
+      "language": "koreana",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2487,
+        "votes_up": 0,
+        "timestamp_created": 1784808577
       },
       "region": "global",
       "archive_subtype": "review",
