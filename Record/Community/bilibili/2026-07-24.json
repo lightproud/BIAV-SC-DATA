@@ -1,8 +1,8 @@
 {
   "date": "2026-07-24",
-  "archived_at": "2026-07-23T19:14:41.978678+00:00",
+  "archived_at": "2026-07-23T22:05:11.487381+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "忘却二则 • 成为神很简单，那么，代价是什么？",
@@ -46,6 +46,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/46e298b952d48f266d178886f34f8e152da008c6.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【箱庭秕】ガラスのくつ【沙耶之歌ED】",
+      "summary": "https://www.youtube.com/watch?v=6rzmaoX_1eY\nどうか成長しないで、いつまでもこののまま。\n緩やかで穏やかな脅威にならないで。\n\n原曲　いとうかなこ(様)\nillustrate  Yuu触殖卿(様)\nInst     I・G(様)\nmix     chammy(様)\n動画:動画屋もつ煮込み(様)",
+      "source": "bilibili",
+      "time": "2026-07-23T21:55:41+00:00",
+      "url": "https://www.bilibili.com/video/BV1Nkg86pEtW",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "百合咲奈奈",
+      "tags": [
+        "翻唱"
+      ],
+      "metadata": {
+        "play": 1,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/456e37f5d25a2f72aa8ea35fd1fd22c6fd6e613d.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
