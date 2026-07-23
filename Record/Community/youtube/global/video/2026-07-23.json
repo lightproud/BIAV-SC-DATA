@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-23T02:32:49.402497+00:00",
+  "archived_at": "2026-07-23T05:53:55.695169+00:00",
   "source": "youtube",
-  "item_count": 10,
+  "item_count": 12,
   "items": [
     {
       "title": "[Morimens] Extremely short stream, trying to finish up another video. Will answer questions.",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/1yXFFjzQ3hk/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Do NOT Watch - Completely Useless Speculation on stream about what G-Lotan kit is",
+      "summary": "https://buymeacoffee.com/flares https://discord.gg/tpMMe5W7CT - Personal Flares Discord ...",
+      "source": "youtube",
+      "time": "2026-07-23T03:28:51Z",
+      "url": "https://www.youtube.com/watch?v=kB0mabVXjX4",
+      "engagement": 115,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/kB0mabVXjX4/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -102,6 +119,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/E6fFzBVvX3k/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】自分用。",
+      "summary": "忘却前夜 #morimens 自分用です。 素敵です、結婚したいです。",
+      "source": "youtube",
+      "time": "2026-07-23T05:46:58Z",
+      "url": "https://www.youtube.com/watch?v=vM6ELYjgNFc",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "ニャル",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/vM6ELYjgNFc/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

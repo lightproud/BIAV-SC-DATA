@@ -1,9 +1,55 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-23T02:32:49.401179+00:00",
+  "archived_at": "2026-07-23T05:53:55.694096+00:00",
   "source": "bilibili",
-  "item_count": 3,
+  "item_count": 5,
   "items": [
+    {
+      "title": "［血腥预警］Galgame捏捏出售中",
+      "summary": "欢迎光临Galgame捏捏专售店！本店新进了四款捏捏，还自带专属音效，欢迎大家选购，单件仅售一个点赞，三连加关注直接全部带走！",
+      "source": "bilibili",
+      "time": "2026-07-23T01:11:40+00:00",
+      "url": "https://www.bilibili.com/video/BV1JPgU6cEFz",
+      "engagement": 363,
+      "is_hot": true,
+      "author": "查吴此入",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 363,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/a82735b326c61b3bf197b9973e4fdc59b48d5f6d.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】蛋挞7分钟生死时速 深潜8940",
+      "summary": "-\n  └ 星星月儿圆- (0赞): 我了\n  └ 丰川祥子-忍界大战 (0赞): [雨路同行-表情包_！？]\n  └ 玖玖_子 (0赞): 鱼神…我不能呼吸",
+      "source": "bilibili",
+      "time": "2026-07-23T03:04:30+00:00",
+      "url": "https://www.bilibili.com/video/BV1EugD6vELn",
+      "engagement": 150,
+      "is_hot": false,
+      "author": "半醒的鱼yyy",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 147,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/88e60219f445e258084988f58ba0153e9ae21e26.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "［忘却前夜］天胡造物克莱门汀小姐1t绞杀希洛",
       "summary": "-\n  └ 伊莎玛拉-大群来了 (1赞): 我了爱播",

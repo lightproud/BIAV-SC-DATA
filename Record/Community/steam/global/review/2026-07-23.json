@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-23T02:32:49.477227+00:00",
+  "archived_at": "2026-07-23T05:53:55.732259+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] [b]Я не фанат карточных баттлеров, но сюжет и лор...",
@@ -46,6 +46,30 @@
         "playtime_forever": 2802,
         "votes_up": 0,
         "timestamp_created": 1784738327
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] A nice deck building game based on party build. In...",
+      "summary": "A nice deck building game based on party build. Interesting character art, fantastic story and enough drops of things where you can still build well without having to drop money on the game.\r\nLove the different game modes and the horror elements to the game.",
+      "source": "steam_review",
+      "time": "2026-07-23T02:42:27+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198292931430/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198292931430",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1464,
+        "votes_up": 0,
+        "timestamp_created": 1784774547
       },
       "region": "global",
       "archive_subtype": "review",
