@@ -222,5 +222,12 @@
     "parent_id": "",
     "dir": "92515932",
     "status": "orphan"
+  },
+  "1529751792571645972": {
+    "name": "korean-한국어",
+    "type": "text",
+    "parent_id": "1402537664619479104",
+    "dir": "71645972",
+    "status": "active"
   }
 }

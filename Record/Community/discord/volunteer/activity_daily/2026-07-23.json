@@ -1,0 +1,36 @@
+{
+  "date": "2026-07-23",
+  "messages": 4,
+  "unique_authors": 3,
+  "reactions_total": 2,
+  "attachments": 0,
+  "channel_activity": {
+    "2026 June - July Contribution Log: V2.5.3 Updates": 4
+  },
+  "hourly_activity": {
+    "7": 2,
+    "8": 2
+  },
+  "message_types": {
+    "0": 3,
+    "19": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1529755731803508757",
+      "channel_id": "1529755166830760027",
+      "content": "I keep forgetting to submit all the things that were done through my repo <:kare",
+      "author": "omnichromia",
+      "reactions": 1,
+      "channel": "2026 June - July Contribution Log: V2.5.3 Updates"
+    },
+    {
+      "id": "1529768542856155246",
+      "channel_id": "1529755166830760027",
+      "content": "<@1470253170209853632> Could you please change the name display from “Alza_asn” ",
+      "author": "alz_asn",
+      "reactions": 1,
+      "channel": "2026 June - July Contribution Log: V2.5.3 Updates"
+    }
+  ]
+}
