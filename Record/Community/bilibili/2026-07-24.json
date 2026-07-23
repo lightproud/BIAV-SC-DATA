@@ -1,9 +1,32 @@
 {
   "date": "2026-07-24",
-  "archived_at": "2026-07-23T16:28:46.399519+00:00",
+  "archived_at": "2026-07-23T19:14:41.978678+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
+    {
+      "title": "忘却二则 • 成为神很简单，那么，代价是什么？",
+      "summary": "bgm：来自遗忘_▼_ - From the Oblivion - - F_R_K_ _ B_I_A_V_ Studio",
+      "source": "bilibili",
+      "time": "2026-07-23T16:51:55+00:00",
+      "url": "https://www.bilibili.com/video/BV1vogt6PE9i",
+      "engagement": 77,
+      "is_hot": false,
+      "author": "温元斋",
+      "tags": [
+        "手工"
+      ],
+      "metadata": {
+        "play": 77,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/a3671d851b6cca7765e99372e20860849fc2efd9.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "【忘却前夜】你们知道我等混沌戒指等了多久吗",
       "summary": "-\n  └ 嘎啦嘎啦果 (0赞): 潘子把健忘婆的临时反击存起来，存个两三万就够了，二阶段一个超限大直接秒了。\n开局尽量凹到魔术师1费和其他预备牌都在手里",

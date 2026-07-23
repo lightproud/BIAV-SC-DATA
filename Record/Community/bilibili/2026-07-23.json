@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-23T16:28:46.397192+00:00",
+  "archived_at": "2026-07-23T19:14:41.977396+00:00",
   "source": "bilibili",
-  "item_count": 19,
+  "item_count": 20,
   "items": [
     {
       "title": "【忘却前夜】忘却前夜8.10三合一复刻抽取建议以及氪金小活动",
@@ -276,6 +276,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/bfa1fb708a5444c1cab35cf5630e8d4708b2f982.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】又沉底了",
+      "summary": "185抽只出了3个巨人谁敢信啊……",
+      "source": "bilibili",
+      "time": "2026-07-23T03:16:22+00:00",
+      "url": "https://www.bilibili.com/video/BV173gD6PEtZ",
+      "engagement": 107,
+      "is_hot": false,
+      "author": "SherbetWhite",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 107,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/c06cebe8ace8f20f72a3b2f3b7a5244ed753696f.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

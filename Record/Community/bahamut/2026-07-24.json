@@ -1,8 +1,8 @@
 {
   "date": "2026-07-24",
-  "archived_at": "2026-07-23T16:28:46.398547+00:00",
+  "archived_at": "2026-07-23T19:14:41.978283+00:00",
   "source": "bahamut",
-  "item_count": 21,
+  "item_count": 22,
   "items": [
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
@@ -270,6 +270,19 @@
       "source": "bahamut",
       "time": "2026-07-23T16:27:09.014862+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1493&tnum=1",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【情報】忘卻前夜┊概念PV「銀芯」",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-07-23T19:13:09.377695+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1503&tnum=1",
       "engagement": 4,
       "is_hot": false,
       "author": "t12345825",

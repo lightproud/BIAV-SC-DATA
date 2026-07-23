@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-23T16:28:46.473448+00:00",
+  "archived_at": "2026-07-23T19:14:42.042116+00:00",
   "source": "steam",
-  "item_count": 8,
+  "item_count": 9,
   "items": [
     {
       "title": "[正面] [b]Я не фанат карточных баттлеров, но сюжет и лор...",
@@ -190,6 +190,30 @@
         "playtime_forever": 2487,
         "votes_up": 0,
         "timestamp_created": 1784808577
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 每走一关都像坐牢，卡池爆率低得感人，剧情硬是剧情杀没什么感觉，只有美术还能看",
+      "summary": "每走一关都像坐牢，卡池爆率低得感人，剧情硬是剧情杀没什么感觉，只有美术还能看",
+      "source": "steam_review",
+      "time": "2026-07-23T15:56:55+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198847008121/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198847008121",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 438,
+        "votes_up": 0,
+        "timestamp_created": 1784822215
       },
       "region": "global",
       "archive_subtype": "review",
