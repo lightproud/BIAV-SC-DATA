@@ -1,0 +1,235 @@
+{
+  "date": "2026-07-23",
+  "messages": 2369,
+  "unique_authors": 225,
+  "reactions_total": 843,
+  "attachments": 137,
+  "channel_activity": {
+    "🔸綜合討論": 957,
+    "🔸阵容构建": 31,
+    "🔸晒卡分享": 2,
+    "🔸欢乐梗图": 1,
+    "🔸课间休息闲聊": 13,
+    "🔸日本語チャンネル": 1,
+    "🔸한국어-채팅방": 17,
+    "🔸chaîne-française": 2,
+    "🔸русский-канал": 23,
+    "🔸phòng-chat-tiếng-việt": 82,
+    "🔸canal-português": 36,
+    "🔸ruang-obrolan-indonesia": 40,
+    "🔸ห้องสนทนาภาษาไทย": 30,
+    "🔸traphase": 30,
+    "🔸lore-chat": 97,
+    "🔸礼包码┊gift-codes": 1,
+    "🔸lets-count": 5,
+    "🔸team-building": 437,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "🔸game-question": 444,
+    "🔸游戏问题": 2,
+    "🔸机器人命令┊bot-commands": 20,
+    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 2,
+    "这个那个": 2,
+    "蓋個圖樓": 3,
+    "Slay the Spire Morimens Modding Log 殺戮尖塔模組": 4,
+    "Bloody Feast display bug": 4,
+    "建議增加素材轉換選項": 1,
+    "Please rework how Propagation Caro works for the future units": 3,
+    "V2.5.1.0 停服维护公告": 5,
+    ":man_detective: 相位對弈：對戰表情 ┊ Emotes": 1,
+    "Statement on the PV-Related Feedback": 18,
+    "Helot Catena 🩸": 1,
+    "Come—kill me, or be killed. (GLotan)": 1,
+    "morimens team generator!!": 4,
+    "Pollux Infographic for Beginners": 12,
+    "Niko's Event Unlock Recommendations (Lore-focused)": 2,
+    "The Arc 1 GDoll Incident Compilation": 1,
+    "【English Translation】Opinions Collection": 1,
+    "V2.5.3 战斗吧守密人┊Ready to Fight, Keeper?┊겨루어라, 수호자여": 17,
+    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1,
+    "V2.5.0 命运剧院┊Theater of Fate": 2,
+    "萌新入坑求解答，谢谢🙏": 2,
+    "回鍋想問陣容組成": 1,
+    "New player here! Just have a few questions": 4,
+    "Where to invest standard pulls?": 1
+  },
+  "hourly_activity": {
+    "0": 122,
+    "1": 325,
+    "2": 219,
+    "3": 166,
+    "4": 396,
+    "5": 235,
+    "6": 105,
+    "7": 200,
+    "8": 430,
+    "9": 171
+  },
+  "message_types": {
+    "0": 1752,
+    "19": 594,
+    "20": 22,
+    "6": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1529679632415330534",
+      "channel_id": "1355094251775459399",
+      "content": "**🎁 DC 57000守密人入驻达成礼 ┊ Discord 57,000 Keepers Milestone Reward**\n\n《忘却前夜》官方Discor",
+      "author": "morimensstaff06",
+      "reactions": 473,
+      "channel": "🔸礼包码┊gift-codes"
+    },
+    {
+      "id": "1529752219065520248",
+      "channel_id": "1529382823562051675",
+      "content": "QEZD-NLSQ-DLDC",
+      "author": "morimensstaff06",
+      "reactions": 9,
+      "channel": "V2.5.3 战斗吧守密人┊Ready to Fight, Keeper?┊겨루어라, 수호자여"
+    },
+    {
+      "id": "1529657198601306246",
+      "channel_id": "1529657198601306246",
+      "content": "UID 101023227",
+      "author": "mosske",
+      "reactions": 8,
+      "channel": "Come—kill me, or be killed. (GLotan)"
+    },
+    {
+      "id": "1529745136785952912",
+      "channel_id": "1529382823562051675",
+      "content": "<:Saya_cry:1513123577384271963>",
+      "author": "aurora3981",
+      "reactions": 8,
+      "channel": "V2.5.3 战斗吧守密人┊Ready to Fight, Keeper?┊겨루어라, 수호자여"
+    },
+    {
+      "id": "1529719863147233281",
+      "channel_id": "1131839817982947429",
+      "content": "有沒有大佬可以帶帶我",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529760554120642561",
+      "channel_id": "1131839817982947429",
+      "content": "感谢兑换码 深海老头+3了<:Helot_slack_off:1459092159465521184>",
+      "author": "galagalaguo",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529776088425824397",
+      "channel_id": "1131839817982947429",
+      "content": "都說了忘卻前夜不是需要思考的遊戲\n我們已經幫你們把需要思考的環節拔掉了\n順從運氣吧",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529671709202845808",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "gensono0609",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529694108812181534",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "ahuahuahua",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529774918898552852",
+      "channel_id": "1131839817982947429",
+      "content": "本來就 我一直是青純小女孩",
+      "author": "yi000607",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529776916997869657",
+      "channel_id": "1131839817982947429",
+      "content": "~~星空之遙~~",
+      "author": "roselia_millsage_avemujica",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529777231902150736",
+      "channel_id": "1131839817982947429",
+      "content": "不愧是阿狗\n理解好酷\n該在dc開直播抓人講解理解了",
+      "author": "coleerouo",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529778431808766033",
+      "channel_id": "1131839817982947429",
+      "content": "一哥已經在他的大house開派對了",
+      "author": "nemu_s_t_a_r",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529671972978561034",
+      "channel_id": "1131839874132090890",
+      "content": "",
+      "author": "gensono0609",
+      "reactions": 5,
+      "channel": "🔸阵容构建"
+    },
+    {
+      "id": "1529725975582081116",
+      "channel_id": "1524457119955554374",
+      "content": "",
+      "author": "wjcjskw",
+      "reactions": 5,
+      "channel": "这个那个"
+    },
+    {
+      "id": "1529673953004490852",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529678971229442142",
+      "channel_id": "1131839817982947429",
+      "content": "徵求一位愛吃屎的群友幫我吃掉",
+      "author": "yi000607",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529735296898564137",
+      "channel_id": "1131839817982947429",
+      "content": "<:Horla_cry:1357186646294138890>",
+      "author": "arr5721",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529772924888809513",
+      "channel_id": "1131839817982947429",
+      "content": "还是直接重返前夜，忘却未来吧<:Helot_slack_off:1459092159465521184>",
+      "author": "ka_0414",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529776403422122065",
+      "channel_id": "1131839817982947429",
+      "content": "然後雙發那個是你沒開的也會進檢索",
+      "author": "foxcatfurry",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}
