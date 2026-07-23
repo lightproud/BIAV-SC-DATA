@@ -1,0 +1,31 @@
+{
+  "date": "2026-07-24",
+  "archived_at": "2026-07-23T16:28:46.399519+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "【忘却前夜】你们知道我等混沌戒指等了多久吗",
+      "summary": "-\n  └ 嘎啦嘎啦果 (0赞): 潘子把健忘婆的临时反击存起来，存个两三万就够了，二阶段一个超限大直接秒了。\n开局尽量凹到魔术师1费和其他预备牌都在手里",
+      "source": "bilibili",
+      "time": "2026-07-23T16:00:23+00:00",
+      "url": "https://www.bilibili.com/video/BV1Upgx6UEfW",
+      "engagement": 46,
+      "is_hot": false,
+      "author": "嘎啦嘎啦果",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 45,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/46e298b952d48f266d178886f34f8e152da008c6.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    }
+  ]
+}
