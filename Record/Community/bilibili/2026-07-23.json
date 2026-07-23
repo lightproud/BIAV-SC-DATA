@@ -1,9 +1,32 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-23T08:28:35.243685+00:00",
+  "archived_at": "2026-07-23T11:10:21.893675+00:00",
   "source": "bilibili",
-  "item_count": 7,
+  "item_count": 13,
   "items": [
+    {
+      "title": "[忘却前夜]7月末最新兑换码，五百个银芯和五个无垢外加二百芯银，萝坦SP图片已爆料，蚀灭 萝坦",
+      "summary": "-\n  └ 回到一切的起点 (3赞): 萝坦…明知我没有银芯了还特地发个兑换码来提醒我这个点痛苦的事实😭\n  └ 渔歌伴晚舟 (7赞): QEZD-NLSQ-DLDC\n  └ 渔歌伴晚舟 (2赞): [doge]",
+      "source": "bilibili",
+      "time": "2026-07-23T09:18:03+00:00",
+      "url": "https://www.bilibili.com/video/BV1qvgQ6iEv1",
+      "engagement": 773,
+      "is_hot": true,
+      "author": "渔歌伴晚舟",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 760,
+        "comment_count": 13,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/32b5f0f2271f001b2e2d29ebc54a88b496e62f20.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "［血腥预警］Galgame捏捏出售中",
       "summary": "欢迎光临Galgame捏捏专售店！本店新进了四款捏捏，还自带专属音效，欢迎大家选购，单件仅售一个点赞，三连加关注直接全部带走！",
@@ -23,6 +46,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/a82735b326c61b3bf197b9973e4fdc59b48d5f6d.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "［绘画过程］可爱的沙耶酱☆",
+      "summary": "很久之前的捞出来发发\n涂抹真好用。\n  └ 哈基沙大玉 (1赞): 可爱捏\n  └ -昆扬 (1赞): [魔法少女的魔女审判表情包_探头]",
+      "source": "bilibili",
+      "time": "2026-07-22T17:47:50+00:00",
+      "url": "https://www.bilibili.com/video/BV1Uwgm6kE7B",
+      "engagement": 180,
+      "is_hot": false,
+      "author": "ErrorSin_",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 176,
+        "comment_count": 4,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/81f86b7180f003c00724afb0e90c30fb2f63528b.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -69,6 +115,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/88e60219f445e258084988f58ba0153e9ae21e26.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "用东方的方式画一块肉 黄昏绘x沙耶",
+      "summary": "微恐 来都来了怎么能不听一块肉唱歌\n  └ 哈基沙大玉 (0赞): 可爱捏\n  └ 我有一只羊呀 (0赞): 可爱捏\n  └ bili_27757870259 (0赞): 真好啊",
+      "source": "bilibili",
+      "time": "2026-07-23T09:25:37+00:00",
+      "url": "https://www.bilibili.com/video/BV1qegQ6TE8Y",
+      "engagement": 121,
+      "is_hot": false,
+      "author": "小恶魔小夜koAkumaSayo",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 118,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/2d3b3d042e281e859a4195e67eaa64544a12f16a.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -161,6 +230,75 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/63bfaa0b07507a3bfe7e084c62fcb5d72921f010.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜/匙音组】哈姆林…这就是音乐吗",
+      "summary": "有ooc！！介意请谨慎观看\n音频来源网络",
+      "source": "bilibili",
+      "time": "2026-07-23T10:47:52+00:00",
+      "url": "https://www.bilibili.com/video/BV1PBgD61EN5",
+      "engagement": 10,
+      "is_hot": false,
+      "author": "保温傍晚bw",
+      "tags": [
+        "同人·手书"
+      ],
+      "metadata": {
+        "play": 10,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/a2f0dd37c6ffaa3ecc0a945d9af1c11c3401b12a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "《忘却前夜》简章3-3，P3如此品如的衣服。。。",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-23T10:38:00+00:00",
+      "url": "https://www.bilibili.com/video/BV14oNE6yETh",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "不可燃抹茶果冻",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 3,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/e3d7e5401c1f8cced5db08464f75deedb2473e36.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "世界中唯一的色彩",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-23T09:38:17+00:00",
+      "url": "https://www.bilibili.com/video/BV1QPgQ6oEMS",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "死于昨日的鳥",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 3,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/b82e27aa2816f815f3a82148a94370f5e98b8fbc.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

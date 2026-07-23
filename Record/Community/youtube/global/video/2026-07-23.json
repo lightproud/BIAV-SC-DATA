@@ -1,9 +1,26 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-23T08:28:35.244842+00:00",
+  "archived_at": "2026-07-23T11:10:21.894805+00:00",
   "source": "youtube",
-  "item_count": 13,
+  "item_count": 15,
   "items": [
+    {
+      "title": "🎬 忘却前夜┊概念PV「银芯」",
+      "summary": "Steam：https://store.steampowered.com/app/3052450/Morimens/ ✦ 港澳新馬官網：https://morimens.qookkagames.com/ ✦ 台灣 ...",
+      "source": "youtube",
+      "time": "2026-07-23T08:55:46Z",
+      "url": "https://www.youtube.com/watch?v=xkZ0Ws4yaOY",
+      "engagement": 343,
+      "is_hot": false,
+      "author": "Morimens",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/xkZ0Ws4yaOY/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
     {
       "title": "[Morimens] Extremely short stream, trying to finish up another video. Will answer questions.",
       "summary": "Don't know how long. Will be doing other stuff too.",
@@ -221,6 +238,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/fnozS8dmJbs/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】イベント「半歩の隔たり」虚無の扉「狂災・超難度」",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-07-23T10:11:53Z",
+      "url": "https://www.youtube.com/watch?v=X7UOTG_8yw4",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/X7UOTG_8yw4/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

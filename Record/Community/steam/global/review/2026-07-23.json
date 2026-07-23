@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-23T08:28:35.312891+00:00",
+  "archived_at": "2026-07-23T11:10:21.956386+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[正面] [b]Я не фанат карточных баттлеров, но сюжет и лор...",
@@ -94,6 +94,30 @@
         "playtime_forever": 13076,
         "votes_up": 0,
         "timestamp_created": 1784783530
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] kath. great art for a start up studio and sides fo...",
+      "summary": "kath. great art for a start up studio and sides for the fact that its made by a small studio, its one of the better dark gatcha out if not the only dark gatcha. if you don't count ptn (path to nowhere), and I say again Kath, please artist of the community make Kath fan art I'm begging.",
+      "source": "steam_review",
+      "time": "2026-07-23T09:08:41+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198836796049/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198836796049",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 8497,
+        "votes_up": 0,
+        "timestamp_created": 1784797721
       },
       "region": "global",
       "archive_subtype": "review",
