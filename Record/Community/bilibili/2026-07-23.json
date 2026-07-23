@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-23T05:53:55.694096+00:00",
+  "archived_at": "2026-07-23T08:28:35.243685+00:00",
   "source": "bilibili",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
     {
       "title": "［血腥预警］Galgame捏捏出售中",
@@ -28,6 +28,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "守密人和守密人之间是有差别的，我曾经就在极度愤怒的情况下一回合开了十几个钥令打碎粉毛鱼的钢板（bug）",
+      "summary": "玩久了什么bug都能碰到\n  └ 詹金可爱 (0赞): 永动机来了，银钥开钥令，钥令开完打牌拿银钥\n  └ 沐凇羲 (0赞): 总计17个，这怎么卡出来的[吃瓜]",
+      "source": "bilibili",
+      "time": "2026-07-23T05:48:19+00:00",
+      "url": "https://www.bilibili.com/video/BV1e6gS6sEMQ",
+      "engagement": 157,
+      "is_hot": false,
+      "author": "灻鸷",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 155,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 3
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/0f2c5da0d9b756f4593b3a10bd9d36a5c7e2c5ab.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "【忘却前夜】蛋挞7分钟生死时速 深潜8940",
       "summary": "-\n  └ 星星月儿圆- (0赞): 我了\n  └ 丰川祥子-忍界大战 (0赞): [雨路同行-表情包_！？]\n  └ 玖玖_子 (0赞): 鱼神…我不能呼吸",
       "source": "bilibili",
@@ -46,6 +69,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/88e60219f445e258084988f58ba0153e9ae21e26.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "［相位］你好，这里不许仰卧起坐",
+      "summary": "-\n  └ 一般杂鱼 (1赞): [星星眼]",
+      "source": "bilibili",
+      "time": "2026-07-23T07:23:02+00:00",
+      "url": "https://www.bilibili.com/video/BV1bQgQ6REgh",
+      "engagement": 120,
+      "is_hot": false,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 119,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/bfa1fb708a5444c1cab35cf5630e8d4708b2f982.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

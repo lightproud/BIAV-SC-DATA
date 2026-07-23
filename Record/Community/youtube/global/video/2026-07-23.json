@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-23T05:53:55.695169+00:00",
+  "archived_at": "2026-07-23T08:28:35.244842+00:00",
   "source": "youtube",
-  "item_count": 12,
+  "item_count": 13,
   "items": [
     {
       "title": "[Morimens] Extremely short stream, trying to finish up another video. Will answer questions.",
@@ -204,6 +204,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/AUNI8VSn47g/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens 6-14 Twisted Stars",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-07-23T08:13:32Z",
+      "url": "https://www.youtube.com/watch?v=fnozS8dmJbs",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Maddy Archer",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/fnozS8dmJbs/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-23T05:53:55.732259+00:00",
+  "archived_at": "2026-07-23T08:28:35.312891+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] [b]Я не фанат карточных баттлеров, но сюжет и лор...",
@@ -70,6 +70,30 @@
         "playtime_forever": 1464,
         "votes_up": 0,
         "timestamp_created": 1784774547
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 어흐",
+      "summary": "어흐",
+      "source": "steam_review",
+      "time": "2026-07-23T05:12:10+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198834091356/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198834091356",
+      "tags": [
+        "koreana"
+      ],
+      "language": "koreana",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 13076,
+        "votes_up": 0,
+        "timestamp_created": 1784783530
       },
       "region": "global",
       "archive_subtype": "review",

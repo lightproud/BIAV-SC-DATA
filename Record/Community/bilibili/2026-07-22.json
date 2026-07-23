@@ -1,8 +1,8 @@
 {
   "date": "2026-07-22",
-  "archived_at": "2026-07-23T05:53:55.692580+00:00",
+  "archived_at": "2026-07-23T08:28:35.242256+00:00",
   "source": "bilibili",
-  "item_count": 20,
+  "item_count": 21,
   "items": [
     {
       "title": "【原创动画·百合·克苏鲁】清醒系统拒绝恋爱梦境·EP01·流星雨从天而降【up动画】",
@@ -69,6 +69,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/bcb9cd3f9795218e24a8fd550e5e530a378ad7e0.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "低配塔潘2-5",
+      "summary": "凹了恩赐之血和针筒来解决希洛二阶段超雄问题，二阶段减算力屏障抗一次，6翼屏障抗一次，然后四翼降力和恩赐之血回的血再抗一次。最后凹一下塔薇大招抓命定，配合乐音双发斩杀。打的时候🐖了，想开羊妈钥令复制鞭子打两次，6翼再抓鞭子上手打一次，最后6翼抓上来才发现算力调和打不出去\n  └ Coliner_ (0赞): 精通确实有点低了\n  └ 鹰白丫 (0赞): 低配潘神是不是换个密契更好\n  └ 给天以星 (0赞): 没双持所以只能吃一个阿库特之春，莱克不知道带什么就吃了一个迷思补精通和银钥",
+      "source": "bilibili",
+      "time": "2026-07-22T15:01:58+00:00",
+      "url": "https://www.bilibili.com/video/BV1Wgg168ETu",
+      "engagement": 201,
+      "is_hot": false,
+      "author": "给天以星",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 193,
+        "comment_count": 8,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/3baa5e5ee1e6fc73eb7902757914e955bdf4b4e1.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
