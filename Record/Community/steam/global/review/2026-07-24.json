@@ -1,8 +1,8 @@
 {
   "date": "2026-07-24",
-  "archived_at": "2026-07-24T11:05:21.248138+00:00",
+  "archived_at": "2026-07-24T13:41:45.142967+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] карты",
@@ -70,6 +70,30 @@
         "playtime_forever": 643,
         "votes_up": 0,
         "timestamp_created": 1784872123
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 垃圾的一匹",
+      "summary": "垃圾的一匹",
+      "source": "steam_review",
+      "time": "2026-07-24T12:22:29+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198446815978/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198446815978",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 558,
+        "votes_up": 0,
+        "timestamp_created": 1784895749
       },
       "region": "global",
       "archive_subtype": "review",

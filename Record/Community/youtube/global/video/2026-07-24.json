@@ -1,8 +1,8 @@
 {
   "date": "2026-07-24",
-  "archived_at": "2026-07-24T11:05:21.194062+00:00",
+  "archived_at": "2026-07-24T13:41:45.034141+00:00",
   "source": "youtube",
-  "item_count": 9,
+  "item_count": 11,
   "items": [
     {
       "title": "[Morimens] 2.5.3 Patch Overview Reactions and Speculations",
@@ -90,6 +90,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "【忘却前夜】星辰編に早く慣れたいから融災やる！！",
+      "summary": "忘却前夜の話をしている人をもっと見たい.",
+      "source": "youtube",
+      "time": "2026-07-24T13:03:55Z",
+      "url": "https://www.youtube.com/watch?v=IR8mqwSW544",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "たこに名前を入力",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/IR8mqwSW544/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "#忘卻前夜 #morimens Regional D-Effect Zone Wave 4:Alert V! 融災4-5 Boss戰的部分",
       "summary": "忘卻前夜#morimens 融災更新,7月20日~8月3號. Regional D-Effect Zone Update (July 20 – August 3). 4-5 Boss血鏈希洛(Helot: ...",
       "source": "youtube",
@@ -153,6 +170,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/-0G0bTIHm_E/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "MORIMENS #3 | Algo nos observa desde las sombras",
+      "summary": "La aventura continúa en **Morimens** y cada vez queda más claro que no estamos solos. En esta tercera parte seguimos ...",
+      "source": "youtube",
+      "time": "2026-07-24T12:00:23Z",
+      "url": "https://www.youtube.com/watch?v=wypsMql0RUk",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "NivelXecreto",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/wypsMql0RUk/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

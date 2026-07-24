@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-24T11:05:21.332386+00:00",
+  "archived_at": "2026-07-24T13:41:45.192873+00:00",
   "source": "google_play",
-  "item_count": 4,
+  "item_count": 8,
   "items": [
     {
       "title": "[Google Play 差评] ★1 downloaded it never played it before. te",
@@ -58,6 +58,62 @@
       "tags": [],
       "lang": "id",
       "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 SERIOUSLY DEVS, WHO ASKED FOR THIS?! THI",
+      "summary": "SERIOUSLY DEVS, WHO ASKED FOR THIS?! THIS IS UNFORTUNATELY ANOTHER COPYPASTE DARK UNIVERSE CLONE! FROM BIZARRE IMAGERY IN THE TRAILERS TO VERY BY THE NUMBERS INTRO! IT'S EITHER PORN, SOFT PORN OR EXTREME DARK UNIVERSE GARBAGE LIKE THIS! SERIOUSLY WHY!? IMAGERY ALONE, SHOULD MAKE THIS 'M' FOR THE MATURE CONTENT!",
+      "source": "google_play",
+      "time": "2026-07-23T13:26:06",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-3daaa6a4-b251-4a89-8d28-0bd35e06a973",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Peter Von Feldt",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 The game is good, and I’m loving it so f",
+      "summary": "The game is good, and I’m loving it so far, even though I’ve only finished Chapter 1. I like that there isn’t too much content, because too much content can become overwhelming. I played Guardian Tales years ago and recently returned, but there was so much new content that I ended up deleting it—I preferred the older version. My suggestion is to slightly shorten the story in each chapter, as it can become exhausting, and add more animation effects to make the experience better.",
+      "source": "google_play",
+      "time": "2026-07-23T13:25:22",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-1a2761c2-704a-4d41-a38a-897dcc3b45cc",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Thaniga",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 wish this was more popular",
+      "summary": "wish this was more popular",
+      "source": "google_play",
+      "time": "2026-07-23T13:04:47",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-5c38f686-e41c-4410-b6a5-222fff180e57",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Haskel Miguel",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 This game is just too good! The setting,",
+      "summary": "This game is just too good! The setting, the mechanics, the artwork, the characters, the stories, the dialogue—I am completely in love! Even as a spanish speaker, I am having a wonderful experience, and I can't wait to see more. I can't wait to see the official spanish translations! 💞💞🥹",
+      "source": "google_play",
+      "time": "2026-07-23T12:19:08",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-85ab4ef8-6dbf-4e5f-a6c9-4b5359d7067c",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "gabi :3",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "es",
       "region": "global"
     }
   ],

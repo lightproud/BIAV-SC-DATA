@@ -1,9 +1,22 @@
 {
   "date": "2026-07-24",
-  "archived_at": "2026-07-24T11:05:21.195455+00:00",
+  "archived_at": "2026-07-24T13:41:45.035742+00:00",
   "source": "bahamut",
-  "item_count": 22,
+  "item_count": 24,
   "items": [
+    {
+      "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-07-24T13:40:13.600856+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=938&tnum=251",
+      "engagement": 421,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
       "summary": "",
@@ -206,6 +219,19 @@
       "time": "2026-07-23T16:27:09.014712+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1496&tnum=1",
       "engagement": 17,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【情報】V2.5.3 蝕滅·蘿坦✦喚醒體&amp;命輪介紹",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-07-24T13:40:13.600818+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1504&tnum=1",
+      "engagement": 14,
       "is_hot": false,
       "author": "t12345825",
       "tags": [],
