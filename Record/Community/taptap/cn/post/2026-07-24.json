@@ -1,8 +1,8 @@
 {
   "date": "2026-07-24",
-  "archived_at": "2026-07-24T13:41:45.118764+00:00",
+  "archived_at": "2026-07-24T16:33:50.450531+00:00",
   "source": "taptap",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[TapTap 好评] 不太可能上国服了感觉 但是挺好玩的 美工夯爆了 肉鸽也很有意思",
@@ -15,6 +15,21 @@
       "author": "鸢之",
       "tags": [
         "好评"
+      ],
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "[TapTap 差评] 游戏好玩，角色也好看，因为美工在线基本上没崩过。但是，策划雷人操作又是啥阴。周边超级无敌大混池。又毒又恶心，贵，还搞隐藏",
+      "summary": "游戏好玩，角色也好看，因为美工在线基本上没崩过。但是，策划雷人操作又是啥阴。周边超级无敌大混池。又毒又恶心，贵，还搞隐藏。简直就是一个巨大的黄牛市场。😌",
+      "source": "taptap",
+      "time": "2026-07-24T14:33:35+00:00",
+      "url": "https://www.taptap.cn/moment/829846466691336300",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "隐隐笙歌处处随",
+      "tags": [
+        "差评"
       ],
       "lang": "zh",
       "platform_region": "cn"

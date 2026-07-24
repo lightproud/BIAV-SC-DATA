@@ -1,9 +1,26 @@
 {
   "date": "2026-07-24",
-  "archived_at": "2026-07-24T13:41:45.039617+00:00",
+  "archived_at": "2026-07-24T16:33:50.377549+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
+    {
+      "title": "[Steam论坛] Invitation Code",
+      "summary": "1D1EGZ10U1",
+      "source": "steam_discussion",
+      "time": "2026-07-24T15:03:18+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/603039786130771940/",
+      "engagement": 214,
+      "is_hot": true,
+      "author": "Znye",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
     {
       "title": "[Steam论坛] linux login ?",
       "summary": "como posso fazer o login no linux ?",
@@ -30,6 +47,23 @@
       "engagement": 16,
       "is_hot": true,
       "author": "ReXert",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] 초대코드",
+      "summary": "GISI8VSMGG",
+      "source": "steam_discussion",
+      "time": "2026-07-24T15:02:51+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/594062392369020218/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "수달씨",
       "tags": [
         "steam_forum"
       ],

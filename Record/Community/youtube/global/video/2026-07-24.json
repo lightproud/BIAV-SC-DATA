@@ -1,9 +1,26 @@
 {
   "date": "2026-07-24",
-  "archived_at": "2026-07-24T13:41:45.034141+00:00",
+  "archived_at": "2026-07-24T16:33:50.374981+00:00",
   "source": "youtube",
-  "item_count": 11,
+  "item_count": 13,
   "items": [
+    {
+      "title": "[Morimens] Flares&#39; Pre Release Kit Review - G-Lotan - Extremely bad for newbies? C tier or Broken?",
+      "summary": "https://buymeacoffee.com/flares https://discord.gg/tpMMe5W7CT - Personal Flares Discord ...",
+      "source": "youtube",
+      "time": "2026-07-24T15:29:08Z",
+      "url": "https://www.youtube.com/watch?v=Wb-odrjHTb0",
+      "engagement": 428,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/Wb-odrjHTb0/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
     {
       "title": "[Morimens] 2.5.3 Patch Overview Reactions and Speculations",
       "summary": "https://buymeacoffee.com/flares https://discord.gg/tpMMe5W7CT - Personal Flares Discord ...",
@@ -17,6 +34,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/m4Ngj6rUboQ/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens \\\\ НОВЫЙ ПЕРСОНАЖ \\\\ РЕРАНЫ \\\\ НОВОЕ КОЛЕСО СУДЬБЫ \\\\ ГАЙДО-КАРТОЧКИ (202) 🐋",
+      "summary": "Старт Новой версии 2.5.3 ожидается с 27.07.26 ГАЙДО-КАРТОЧКИ: ВК ...",
+      "source": "youtube",
+      "time": "2026-07-24T13:56:40Z",
+      "url": "https://www.youtube.com/watch?v=0p6mg2nxCbU",
+      "engagement": 123,
+      "is_hot": false,
+      "author": "Closetom",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/0p6mg2nxCbU/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
