@@ -1,8 +1,8 @@
 {
   "date": "2026-07-24",
-  "archived_at": "2026-07-24T05:51:46.939793+00:00",
+  "archived_at": "2026-07-24T08:26:45.252581+00:00",
   "source": "youtube",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
     {
       "title": "[Morimens] 2.5.3 Patch Overview Reactions and Speculations",
@@ -73,6 +73,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "【忘却前夜】イベント「半歩の隔たり」虚無の扉「星・超難度」",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-07-24T07:42:59Z",
+      "url": "https://www.youtube.com/watch?v=gpp0Qqz04Yk",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/gpp0Qqz04Yk/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Morimens: Trying to take D-Tide seriously.....",
       "summary": "Finally wanted to give D-Tide a serious attempt! Plus I needed to finish an event and get more resources to level my Mouchette.",
       "source": "youtube",
@@ -85,6 +102,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/NJgxDeVpxzg/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Let&#39;s bully Karen!",
+      "summary": "meido correction.",
+      "source": "youtube",
+      "time": "2026-07-24T06:23:41Z",
+      "url": "https://www.youtube.com/watch?v=-0G0bTIHm_E",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "A:\\Quitter",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/-0G0bTIHm_E/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

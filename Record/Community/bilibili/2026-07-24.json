@@ -1,8 +1,8 @@
 {
   "date": "2026-07-24",
-  "archived_at": "2026-07-24T05:51:46.939299+00:00",
+  "archived_at": "2026-07-24T08:26:45.252864+00:00",
   "source": "bilibili",
-  "item_count": 9,
+  "item_count": 12,
   "items": [
     {
       "title": "[忘却前夜] 7.20-8.3 融灾禁区425♿毒女子降临",
@@ -46,6 +46,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/10f729ffb091fabaa173c622d4e2ecdda5d18190.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "忘却前夜 羊妈打熔朵 癫狂列车",
+      "summary": "其实没想象中的弱\n道中都没吃凝视\n\n背景音乐：Seycara - &quot;Deemo&#x27;s Flight&quot;\n  └ 红岩大人 (0赞): 你的熔朵我的熔朵好像不一样，终末起手，1点生命，让我心慌慌[doge][doge][doge]",
+      "source": "bilibili",
+      "time": "2026-07-23T23:37:06+00:00",
+      "url": "https://www.bilibili.com/video/BV1Vkgb6YEjd",
+      "engagement": 107,
+      "is_hot": false,
+      "author": "夢遊遊遊遊",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 106,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/7f9d38412084857b07d454356ec86618cd7d4d32.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -97,6 +120,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "【忘却前夜】三启宁菲亚过融灾2-5",
+      "summary": "希洛boss纯木桩还是太好打了\n这期融灾好无聊，设计师偷懒了吧（）\n  └ 五笔的眼泪 (1赞): 强强[打call][打call][打call]\n  └ 陶醉2333 (0赞): 不可发送单个标点符号\n？\n  └ 跳段木偶舞 (0赞): 造物好点的）",
+      "source": "bilibili",
+      "time": "2026-07-24T07:00:01+00:00",
+      "url": "https://www.bilibili.com/video/BV1ufgY6MEx3",
+      "engagement": 52,
+      "is_hot": false,
+      "author": "跳段木偶舞",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 47,
+        "comment_count": 5,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/dc9234fc85d91a0220baf44fb747c9805830954b.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "【忘却前夜】你们知道我等混沌戒指等了多久吗",
       "summary": "-\n  └ 嘎啦嘎啦果 (0赞): 潘子把健忘婆的临时反击存起来，存个两三万就够了，二阶段一个超限大直接秒了。\n开局尽量凹到魔术师1费和其他预备牌都在手里",
       "source": "bilibili",
@@ -115,6 +161,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/46e298b952d48f266d178886f34f8e152da008c6.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【守拉守】申请查看好感度",
+      "summary": "我不行了一边笑一边去画了个爱心\nooc致歉（喂）\n  └ 百合子闪亮登场 (0赞): 太萌了！！我们时摆组就这样99好吗[星星眼]\n  └ 醉酒的小仙 (0赞): 什么b动静[魔法少女的魔女审判表情包_啊？]\n  └ 娜蒙拉 (0赞): [打call]",
+      "source": "bilibili",
+      "time": "2026-07-24T07:40:32+00:00",
+      "url": "https://www.bilibili.com/video/BV1y4gY6FE3L",
+      "engagement": 13,
+      "is_hot": false,
+      "author": "Carliee",
+      "tags": [
+        "同人·手书"
+      ],
+      "metadata": {
+        "play": 10,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/ef92a713b178b90f07c3da18ed8e27c2fe4a07a1.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

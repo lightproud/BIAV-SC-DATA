@@ -1,8 +1,8 @@
 {
   "date": "2026-07-24",
-  "archived_at": "2026-07-24T05:51:46.988386+00:00",
+  "archived_at": "2026-07-24T08:26:45.292205+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] карты",
@@ -46,6 +46,30 @@
         "playtime_forever": 79,
         "votes_up": 0,
         "timestamp_created": 1784864712
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Eldritch Horror... Cthulhu inspired... gothic styl...",
+      "summary": "Eldritch Horror... Cthulhu inspired... gothic style and atmosphere - I'm hooked on this game.",
+      "source": "steam_review",
+      "time": "2026-07-24T05:48:43+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198066599087/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198066599087",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 643,
+        "votes_up": 0,
+        "timestamp_created": 1784872123
       },
       "region": "global",
       "archive_subtype": "review",

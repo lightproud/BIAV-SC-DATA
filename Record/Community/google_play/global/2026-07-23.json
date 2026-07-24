@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-24T05:51:47.032289+00:00",
+  "archived_at": "2026-07-24T08:26:45.321729+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 差评] ★1 downloaded it never played it before. te",
@@ -27,6 +27,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Bernadette Glorioso",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 SUPER GREAT also f2p friendly, you can g",
+      "summary": "SUPER GREAT also f2p friendly, you can get limiteds in the standard banner with lower chance, the story is PERFECT, the artstyle is PHENOMENAL, the gameplay relies on luck sometimes but its GOOD and ENGAGING it makes you use your braincells, there's so many content and free stuff, the character designs are BEAUTIFUL and the characters themselves are super super fun to play AND with fun personalities and they actually interact with other!! the MCS are PRETTY too",
+      "source": "google_play",
+      "time": "2026-07-23T07:16:04",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-a524c9e2-f8df-40a0-a5d2-33030fa8e5b1",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ayrin Fundal",
       "tags": [],
       "lang": "en",
       "platform_region": "us",
