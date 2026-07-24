@@ -1,0 +1,31 @@
+{
+  "date": "2026-07-25",
+  "archived_at": "2026-07-24T19:25:01.582702+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "【忘却前夜】无助战融灾425",
+      "summary": "只能说好多失误",
+      "source": "bilibili",
+      "time": "2026-07-24T19:05:37+00:00",
+      "url": "https://www.bilibili.com/video/BV1e9gv6JEe7",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "-网友菲顺比-",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 6,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/8075b6ba06b192d9799eb6f7664a4382f7503ad4.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    }
+  ]
+}
