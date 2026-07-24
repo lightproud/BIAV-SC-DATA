@@ -1,8 +1,8 @@
 {
   "date": "2026-07-24",
-  "archived_at": "2026-07-24T02:29:52.147699+00:00",
+  "archived_at": "2026-07-24T05:51:46.988386+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[正面] карты",
@@ -22,6 +22,30 @@
         "playtime_forever": 235,
         "votes_up": 0,
         "timestamp_created": 1784844260
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 垃圾的引导，离谱的BGU\r\n什么叫我必须先跟着引导放玩我的全部底牌然后硬吃26点敌方大招？\r\n什么叫...",
+      "summary": "垃圾的引导，离谱的BGU\r\n什么叫我必须先跟着引导放玩我的全部底牌然后硬吃26点敌方大招？\r\n什么叫我可能需要在新手教程浪费一次复活？\r\n什么叫如果在复活页面按到了~键会卡死在战斗界面什么都干不了？\r\n什么叫强行退出游戏就再也打不开了？\r\n我TM就玩了10来分钟，新手引导也能出BUG啊？\r\n很难让人相信制作组里有人类...",
+      "source": "steam_review",
+      "time": "2026-07-24T03:45:12+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199180699519/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199180699519",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 79,
+        "votes_up": 0,
+        "timestamp_created": 1784864712
       },
       "region": "global",
       "archive_subtype": "review",

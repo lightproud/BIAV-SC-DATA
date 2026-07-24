@@ -1,9 +1,55 @@
 {
   "date": "2026-07-24",
-  "archived_at": "2026-07-24T02:29:52.090667+00:00",
+  "archived_at": "2026-07-24T05:51:46.939299+00:00",
   "source": "bilibili",
-  "item_count": 5,
+  "item_count": 9,
   "items": [
+    {
+      "title": "[忘却前夜] 7.20-8.3 融灾禁区425♿毒女子降临",
+      "summary": "地瓜区得在地上爬，因为这次合上一次两期羊妈都打完了才发现羊妈机制是扣血就会招小怪…总之力大砖飞，总之轮椅过关\n借角选了大胖女人玩满配毒队过过瘾\n  └ 烟已归 (0赞): 我了",
+      "source": "bilibili",
+      "time": "2026-07-23T20:18:39+00:00",
+      "url": "https://www.bilibili.com/video/BV13rg46xEsd",
+      "engagement": 146,
+      "is_hot": false,
+      "author": "PBaNdJ",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 145,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/3d9be3d53b6e4e87553cbe97a8da864d5c4f0c07.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "环娜 5-5",
+      "summary": "开心\n  └ 今晚会出太阳 (1赞): [坎公骑冠剑_送花]\n  └ 寂榕 (0赞): 占比\n  └ 花终漂零水自流 (0赞): 6",
+      "source": "bilibili",
+      "time": "2026-07-23T17:03:08+00:00",
+      "url": "https://www.bilibili.com/video/BV1tggb6sESL",
+      "engagement": 109,
+      "is_hot": false,
+      "author": "寂榕",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 105,
+        "comment_count": 4,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/10f729ffb091fabaa173c622d4e2ecdda5d18190.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "忘却二则 • 成为神很简单，那么，代价是什么？",
       "summary": "bgm：来自遗忘_▼_ - From the Oblivion - - F_R_K_ _ B_I_A_V_ Studio",
@@ -92,6 +138,52 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/d74fcebf0528ae9e34c4778f0875a40f800ed0dc.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "沙耶之歌",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-24T03:16:57+00:00",
+      "url": "https://www.bilibili.com/video/BV1Nwga6tEwt",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "五岁子",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 6,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/a4fa15aa07580b8dfabeb1e34ab92e2e099a4a43.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "黑暗中似乎蠕动着什么东西，它侵入了我的伤口中",
+      "summary": "青海实惨啊",
+      "source": "bilibili",
+      "time": "2026-07-24T03:30:00+00:00",
+      "url": "https://www.bilibili.com/video/BV19Egt6FEu9",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "朗克清",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 2,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/95b105819e68491f8defaa39829e15377cee121f.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
