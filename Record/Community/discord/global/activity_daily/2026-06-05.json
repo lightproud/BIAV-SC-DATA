@@ -1,10 +1,11 @@
 {
   "date": "2026-06-05",
-  "messages": 31426,
+  "messages": 34948,
   "unique_authors": 559,
-  "reactions_total": 3302,
-  "attachments": 1647,
+  "reactions_total": 3741,
+  "attachments": 1798,
   "channel_activity": {
+    "🔸morimens-game-chat": 3522,
     "🔸general-chat": 4222,
     "🔸game-question": 8923,
     "🔸綜合討論": 4355,
@@ -103,6 +104,14 @@
     "1512469873807065129": 2
   },
   "hourly_activity": {
+    "0": 1693,
+    "1": 1793,
+    "2": 1784,
+    "3": 1658,
+    "4": 2047,
+    "5": 1856,
+    "6": 1812,
+    "7": 1935,
     "16": 1328,
     "17": 938,
     "18": 1357,
@@ -111,14 +120,6 @@
     "21": 577,
     "22": 893,
     "23": 601,
-    "0": 871,
-    "1": 1169,
-    "2": 1491,
-    "3": 1368,
-    "4": 1704,
-    "5": 1421,
-    "6": 1249,
-    "7": 1783,
     "8": 1585,
     "9": 1774,
     "10": 2033,
@@ -129,8 +130,8 @@
     "15": 973
   },
   "message_types": {
-    "19": 718,
-    "0": 1559
+    "19": 1329,
+    "0": 2193
   },
   "top_reacted_messages": [
     {
@@ -140,6 +141,14 @@
       "author": "monchi3524",
       "reactions": 35,
       "channel": "24 Nerf is out of line"
+    },
+    {
+      "id": "1512253755465142272",
+      "channel_id": "1170692781216378960",
+      "content": "I am sacrificing <@659426895032614912> for no slowmode.",
+      "author": "shanhaijingactivist",
+      "reactions": 23,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1512409459924930601",
@@ -206,6 +215,14 @@
       "channel": "V2.5.1.4 在线维护公告"
     },
     {
+      "id": "1512255078323720192",
+      "channel_id": "1170692781216378960",
+      "content": "My Saya will be +7 when the free one comes out",
+      "author": "brainrot_in_a_vat",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1512270755381903571",
       "channel_id": "1131839817982947429",
       "content": "鳥哥雙持強嗎",
@@ -246,6 +263,22 @@
       "channel": "【English Translation】Opinions Collection"
     },
     {
+      "id": "1512253467492614284",
+      "channel_id": "1170692781216378960",
+      "content": "Lemme see how to slowmofe",
+      "author": "angbak",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1512253910402863356",
+      "channel_id": "1170692781216378960",
+      "content": "Then 1hr slowmode wont matter <:Ogier_Cheerup:1468259351889318049>",
+      "author": "angbak",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1512325850643562506",
       "channel_id": "1131839817982947429",
       "content": "我現在就在喝",
@@ -260,38 +293,6 @@
       "author": "xyakoto",
       "reactions": 8,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1512440319646371920",
-      "channel_id": "1131839817982947429",
-      "content": "好像還不錯\n我這破靈塑等級還能打贏\n死抗被是打死珈倫之後沒有跟著一起死的小怪爆的",
-      "author": "cwz.io",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1512495023663481013",
-      "channel_id": "1400750050208125010",
-      "content": "Cro don't listen to them I'm ur biggest crofan",
-      "author": "altair_kaslana",
-      "reactions": 7,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1512533562941903049",
-      "channel_id": "1400750050208125010",
-      "content": "Kill all gachas",
-      "author": "altair_kaslana",
-      "reactions": 7,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1512274174880514128",
-      "channel_id": "1400750050208125010",
-      "content": "first triple pull",
-      "author": "styrrrrrr",
-      "reactions": 7,
-      "channel": "🔸general-chat"
     }
   ]
 }

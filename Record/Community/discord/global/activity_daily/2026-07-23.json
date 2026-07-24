@@ -1,58 +1,89 @@
 {
   "date": "2026-07-23",
-  "messages": 2369,
-  "unique_authors": 225,
-  "reactions_total": 843,
-  "attachments": 137,
+  "messages": 9857,
+  "unique_authors": 332,
+  "reactions_total": 1651,
+  "attachments": 489,
   "channel_activity": {
-    "🔸綜合討論": 957,
-    "🔸阵容构建": 31,
-    "🔸晒卡分享": 2,
+    "🔸綜合討論": 2257,
+    "🔸阵容构建": 40,
+    "🔸晒卡分享": 3,
+    "🔸课间休息闲聊": 29,
+    "🔸日本語チャンネル": 6,
+    "🔸한국어-채팅방": 48,
+    "🔸deutscher-chatraum": 6,
+    "🔸chaîne-française": 22,
+    "🔸русский-канал": 748,
+    "🔸phòng-chat-tiếng-việt": 727,
+    "🔸canal-español": 282,
+    "🔸canal-português": 449,
+    "🔸ruang-obrolan-indonesia": 242,
+    "🔸ห้องสนทนาภาษาไทย": 576,
+    "🔸traphase": 49,
+    "🔸lore-chat": 680,
+    "🔸lets-count": 15,
+    "🔸team-building": 631,
+    "🔸邀请码互助┊swap-invitation-codes": 9,
+    "🔸game-question": 2737,
+    "🔸机器人命令┊bot-commands": 50,
+    "全深海角一圖流與簡短介紹（未完": 4,
+    "日服星辰篇規則 中文翻譯": 4,
+    "自制一图流（沙耶beta版）（仅供参考）": 1,
+    "Jelly's \"Seal\" works differently than describe": 1,
+    "Potential improvements for Hameln": 1,
+    "Can we increase Arcane Dominion runs?": 2,
+    "✅「Answered」rework Sabotage mechanic": 3,
+    "Please rework how Propagation Caro works for the future units": 5,
+    "V2.5.1.0 停服维护公告": 11,
+    ":man_detective: 相位對弈：對戰表情 ┊ Emotes": 4,
+    "Statement on the PV-Related Feedback": 20,
+    "Arsen's Doodle corner": 3,
+    "Nefraea + Arachne Posting (Weekly)": 5,
+    "Shalalalala (dump of mostly caecus)": 5,
+    "William posting": 12,
+    "【English Translation】Opinions Collection": 7,
+    "📜 V2.5.3 版本前瞻┊Version Outlook┊버전 미리보기": 83,
+    "V2.5.3 战斗吧守密人┊Ready to Fight, Keeper?┊겨루어라, 수호자여": 19,
+    "🛍️ 周边速报：「银雾礼笺」命轮镭射票预售开启┊Merch News: \"Misty Invitation\" WoD Holo Tickets Pre-order Opens!": 2,
+    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 4,
+    "V2.5.0 命运剧院┊Theater of Fate": 5,
     "🔸欢乐梗图": 1,
-    "🔸课间休息闲聊": 13,
-    "🔸日本語チャンネル": 1,
-    "🔸한국어-채팅방": 17,
-    "🔸chaîne-française": 2,
-    "🔸русский-канал": 23,
-    "🔸phòng-chat-tiếng-việt": 82,
-    "🔸canal-português": 36,
-    "🔸ruang-obrolan-indonesia": 40,
-    "🔸ห้องสนทนาภาษาไทย": 30,
-    "🔸traphase": 30,
-    "🔸lore-chat": 97,
     "🔸礼包码┊gift-codes": 1,
-    "🔸lets-count": 5,
-    "🔸team-building": 437,
-    "🔸邀请码互助┊swap-invitation-codes": 5,
-    "🔸game-question": 444,
     "🔸游戏问题": 2,
-    "🔸机器人命令┊bot-commands": 20,
     "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 2,
     "这个那个": 2,
     "蓋個圖樓": 3,
     "Slay the Spire Morimens Modding Log 殺戮尖塔模組": 4,
     "Bloody Feast display bug": 4,
     "建議增加素材轉換選項": 1,
-    "Please rework how Propagation Caro works for the future units": 3,
-    "V2.5.1.0 停服维护公告": 5,
-    ":man_detective: 相位對弈：對戰表情 ┊ Emotes": 1,
-    "Statement on the PV-Related Feedback": 18,
     "Helot Catena 🩸": 1,
     "Come—kill me, or be killed. (GLotan)": 1,
     "morimens team generator!!": 4,
     "Pollux Infographic for Beginners": 12,
     "Niko's Event Unlock Recommendations (Lore-focused)": 2,
     "The Arc 1 GDoll Incident Compilation": 1,
-    "【English Translation】Opinions Collection": 1,
-    "V2.5.3 战斗吧守密人┊Ready to Fight, Keeper?┊겨루어라, 수호자여": 17,
     "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1,
-    "V2.5.0 命运剧院┊Theater of Fate": 2,
     "萌新入坑求解答，谢谢🙏": 2,
     "回鍋想問陣容組成": 1,
     "New player here! Just have a few questions": 4,
     "Where to invest standard pulls?": 1
   },
   "hourly_activity": {
+    "9": 384,
+    "10": 683,
+    "11": 439,
+    "12": 984,
+    "13": 1031,
+    "14": 601,
+    "15": 952,
+    "16": 514,
+    "17": 467,
+    "18": 175,
+    "19": 471,
+    "20": 419,
+    "21": 106,
+    "22": 215,
+    "23": 218,
     "0": 122,
     "1": 325,
     "2": 219,
@@ -61,14 +92,13 @@
     "5": 235,
     "6": 105,
     "7": 200,
-    "8": 430,
-    "9": 171
+    "8": 430
   },
   "message_types": {
-    "0": 1752,
-    "19": 594,
-    "20": 22,
-    "6": 1
+    "0": 5603,
+    "19": 1863,
+    "20": 20,
+    "4": 2
   },
   "top_reacted_messages": [
     {
@@ -80,12 +110,52 @@
       "channel": "🔸礼包码┊gift-codes"
     },
     {
+      "id": "1529828936878522560",
+      "channel_id": "1529828936878522560",
+      "content": "《忘却前夜》V2.5.3即将开放！精彩资讯一网打尽！\nMorimens V2.5.3 is launching soon! Get all the exciti",
+      "author": "morimensstaff06",
+      "reactions": 21,
+      "channel": "📜 V2.5.3 版本前瞻┊Version Outlook┊버전 미리보기"
+    },
+    {
       "id": "1529752219065520248",
       "channel_id": "1529382823562051675",
       "content": "QEZD-NLSQ-DLDC",
       "author": "morimensstaff06",
       "reactions": 9,
       "channel": "V2.5.3 战斗吧守密人┊Ready to Fight, Keeper?┊겨루어라, 수호자여"
+    },
+    {
+      "id": "1529833197297205318",
+      "channel_id": "1131839817982947429",
+      "content": "鯨魚怎麼跟黑印扯上關係的\n難道會自己爬上岸買東西嗎",
+      "author": "water_heart",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529835230029152346",
+      "channel_id": "1131839817982947429",
+      "content": "猜一個 狂沖／黑印",
+      "author": "yi000607",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529846637890113647",
+      "channel_id": "1181152750319456266",
+      "content": "",
+      "author": "nemu_s_t_a_r",
+      "reactions": 8,
+      "channel": "🔸课间休息闲聊"
+    },
+    {
+      "id": "1529835780544139397",
+      "channel_id": "1529828936878522560",
+      "content": "LYRA ANSWER IF CARABOO WILL HAVE A CARO DIFFERENT FROM PCARO AND MY LIFE IS YOUR",
+      "author": "arandomflamev2",
+      "reactions": 8,
+      "channel": "📜 V2.5.3 版本前瞻┊Version Outlook┊버전 미리보기"
     },
     {
       "id": "1529657198601306246",
@@ -102,6 +172,54 @@
       "author": "aurora3981",
       "reactions": 8,
       "channel": "V2.5.3 战斗吧守密人┊Ready to Fight, Keeper?┊겨루어라, 수호자여"
+    },
+    {
+      "id": "1529833716908687432",
+      "channel_id": "1131839817982947429",
+      "content": "我已經從3：00每30分鐘上來看一次了",
+      "author": "yi000607",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529899519485935856",
+      "channel_id": "1300659802455674972",
+      "content": "",
+      "author": "jisuchan",
+      "reactions": 7,
+      "channel": "🔸ห้องสนทนาภาษาไทย"
+    },
+    {
+      "id": "1529833994777006190",
+      "channel_id": "1131839817982947429",
+      "content": "拜託下毒鯨魚就好 放過小騎士",
+      "author": "yi000607",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529843180143378532",
+      "channel_id": "1131839817982947429",
+      "content": "到底是誰在玩列車",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529843659875287291",
+      "channel_id": "1131839817982947429",
+      "content": "https://cdn.discordapp.com/attachments/626307652292706307/1529740723908251739/IM",
+      "author": "ernest_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529834944753307719",
+      "channel_id": "1529828936878522560",
+      "content": "truly a whale",
+      "author": "polkarain",
+      "reactions": 6,
+      "channel": "📜 V2.5.3 版本前瞻┊Version Outlook┊버전 미리보기"
     },
     {
       "id": "1529719863147233281",
@@ -128,107 +246,19 @@
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1529671709202845808",
+      "id": "1529780198638354573",
       "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "gensono0609",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1529694108812181534",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "ahuahuahua",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1529774918898552852",
-      "channel_id": "1131839817982947429",
-      "content": "本來就 我一直是青純小女孩",
-      "author": "yi000607",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1529776916997869657",
-      "channel_id": "1131839817982947429",
-      "content": "~~星空之遙~~",
-      "author": "roselia_millsage_avemujica",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1529777231902150736",
-      "channel_id": "1131839817982947429",
-      "content": "不愧是阿狗\n理解好酷\n該在dc開直播抓人講解理解了",
-      "author": "coleerouo",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1529778431808766033",
-      "channel_id": "1131839817982947429",
-      "content": "一哥已經在他的大house開派對了",
-      "author": "nemu_s_t_a_r",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1529671972978561034",
-      "channel_id": "1131839874132090890",
-      "content": "",
-      "author": "gensono0609",
-      "reactions": 5,
-      "channel": "🔸阵容构建"
-    },
-    {
-      "id": "1529725975582081116",
-      "channel_id": "1524457119955554374",
-      "content": "",
-      "author": "wjcjskw",
-      "reactions": 5,
-      "channel": "这个那个"
-    },
-    {
-      "id": "1529673953004490852",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1529678971229442142",
-      "channel_id": "1131839817982947429",
-      "content": "徵求一位愛吃屎的群友幫我吃掉",
-      "author": "yi000607",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1529735296898564137",
-      "channel_id": "1131839817982947429",
-      "content": "<:Horla_cry:1357186646294138890>",
-      "author": "arr5721",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1529772924888809513",
-      "channel_id": "1131839817982947429",
-      "content": "还是直接重返前夜，忘却未来吧<:Helot_slack_off:1459092159465521184>",
-      "author": "ka_0414",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1529776403422122065",
-      "channel_id": "1131839817982947429",
-      "content": "然後雙發那個是你沒開的也會進檢索",
+      "content": "不能",
       "author": "foxcatfurry",
-      "reactions": 4,
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1529798001294573638",
+      "channel_id": "1131839817982947429",
+      "content": "跟融朵借染髮劑是這樣的",
+      "author": "souri.10244",
+      "reactions": 5,
       "channel": "🔸綜合討論"
     }
   ]

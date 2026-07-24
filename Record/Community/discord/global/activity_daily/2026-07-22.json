@@ -1,10 +1,11 @@
 {
   "date": "2026-07-22",
-  "messages": 7311,
+  "messages": 9705,
   "unique_authors": 318,
-  "reactions_total": 1064,
-  "attachments": 445,
+  "reactions_total": 1176,
+  "attachments": 541,
   "channel_activity": {
+    "🔸general-chat": 2394,
     "🔸綜合討論": 998,
     "🔸阵容构建": 254,
     "🔸晒卡分享": 2,
@@ -65,6 +66,10 @@
     "1529328091195904111": 1
   },
   "hourly_activity": {
+    "0": 722,
+    "1": 1159,
+    "2": 1084,
+    "3": 525,
     "9": 501,
     "10": 762,
     "11": 270,
@@ -80,10 +85,6 @@
     "21": 288,
     "23": 133,
     "22": 132,
-    "0": 221,
-    "1": 298,
-    "2": 259,
-    "3": 318,
     "4": 301,
     "5": 85,
     "6": 201,
@@ -91,11 +92,9 @@
     "8": 513
   },
   "message_types": {
-    "19": 1115,
-    "0": 3464,
-    "20": 19,
-    "18": 1,
-    "6": 1
+    "0": 1397,
+    "19": 996,
+    "20": 1
   },
   "top_reacted_messages": [
     {
@@ -219,6 +218,22 @@
       "channel": "Statement on the PV-Related Feedback"
     },
     {
+      "id": "1529308331137699990",
+      "channel_id": "1400750050208125010",
+      "content": "https://x.com/i/status/2079627646284288449",
+      "author": "k.y.u.",
+      "reactions": 6,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1529318295143059507",
+      "channel_id": "1400750050208125010",
+      "content": "im blocking everyone who has wang",
+      "author": "eury_illia",
+      "reactions": 6,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1529435497326317629",
       "channel_id": "1131839817982947429",
       "content": "原来我进来这里会被发现<:Brown_think:1459080117308620996>",
@@ -241,22 +256,6 @@
       "author": "tipsy.17",
       "reactions": 6,
       "channel": "🔸canal-español"
-    },
-    {
-      "id": "1529452624674553968",
-      "channel_id": "1529452624674553968",
-      "content": "在個人頁面關閉後透過其它方式還是能看到記錄",
-      "author": "ahuahuahua",
-      "reactions": 6,
-      "channel": "需要能夠將回放刪除的功能"
-    },
-    {
-      "id": "1529422713364545699",
-      "channel_id": "1529382823562051675",
-      "content": "I'll go with my old and reliable gameplan !",
-      "author": "legendaryredz",
-      "reactions": 6,
-      "channel": "V2.5.3 战斗吧守密人┊Ready to Fight, Keeper?┊겨루어라, 수호자여"
     }
   ]
 }
