@@ -1,8 +1,8 @@
 {
   "date": "2026-07-25",
-  "archived_at": "2026-07-24T19:25:01.655784+00:00",
+  "archived_at": "2026-07-24T22:06:01.006866+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] 一个算不上资深的卡牌游戏玩家的评价\n首先两周我只玩了这游戏四十多小时，只评价自己目前的真实感受\n先来...",
@@ -22,6 +22,54 @@
         "playtime_forever": 2492,
         "votes_up": 0,
         "timestamp_created": 1784912414
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Игра реально хорошо захватывает. Анимации - бомба....",
+      "summary": "Игра реально хорошо захватывает. Анимации - бомба. Персонажей получить легко, а подарки очень щедрые. Множество ивентов для фарма, которые в основном не требуют черезчур сильной прокачки. Система боёв не кажется однообразной, засчёт множества вариаций сопоставлений разных классов. Помимо классов, со своими уникальными способностями (по типу зародышей + востановление хп за вампиров) тут есть сопоставление карт, улучшающие персонажа , или \"монументов\", собирающийся из различных 6-и осколков. Вообщем - контента реально много. Правда сейчас немного кривой перевод на русский язык, но основной смысл более-менее ясен. Игра - бомба!",
+      "source": "steam_review",
+      "time": "2026-07-24T21:04:18+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198257350927/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198257350927",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2342,
+        "votes_up": 0,
+        "timestamp_created": 1784927058
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] just a lame gotcha game full of unoriginal charact...",
+      "summary": "just a lame gotcha game full of unoriginal characters in steam punk garb...",
+      "source": "steam_review",
+      "time": "2026-07-24T19:32:16+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199635942666/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199635942666",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 21,
+        "votes_up": 0,
+        "timestamp_created": 1784921536
       },
       "region": "global",
       "archive_subtype": "review",
