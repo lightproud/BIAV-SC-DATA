@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
-  "archived_at": "2026-07-24T08:26:45.321729+00:00",
+  "archived_at": "2026-07-24T11:05:21.332386+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 差评] ★1 downloaded it never played it before. te",
@@ -44,6 +44,20 @@
       "tags": [],
       "lang": "en",
       "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 Buat Developer, terimakasih sudah membua",
+      "summary": "Buat Developer, terimakasih sudah membuat game yg sekeren ini,asli gokil parah,aku suka sama alur ceritanya,art dari setiap karakter nya,dan juga musik nya tentunya,dan juga sering sering adakan event baru juga,biar nambah seru,dan juga kalau bisa untuk bagian top up nya sedikit di kasih kemurahan harga ya,hehe",
+      "source": "google_play",
+      "time": "2026-07-23T10:05:46",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-d3a13e8d-93e9-4499-b82e-77e92c3baa89",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Pradana Setiono",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
       "region": "global"
     }
   ],

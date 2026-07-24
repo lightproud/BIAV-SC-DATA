@@ -1,8 +1,8 @@
 {
   "date": "2026-07-24",
-  "archived_at": "2026-07-24T08:26:45.252581+00:00",
+  "archived_at": "2026-07-24T11:05:21.194062+00:00",
   "source": "youtube",
-  "item_count": 7,
+  "item_count": 9,
   "items": [
     {
       "title": "[Morimens] 2.5.3 Patch Overview Reactions and Speculations",
@@ -56,6 +56,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "[SPEEDPAINT] Doll : Inferno | Morimens",
+      "summary": "My goat GDoll Program: CSP Social Media: X : https://x.com/calcduc IG : / calcduc ✦ Track name: Coda of the Scorch ...",
+      "source": "youtube",
+      "time": "2026-07-24T09:55:09Z",
+      "url": "https://www.youtube.com/watch?v=hk0JPHqmxOE",
+      "engagement": 15,
+      "is_hot": false,
+      "author": "calc",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/hk0JPHqmxOE/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Morimens Day D-Zone 355 or Bust",
       "summary": "Stream almost daily whenever I have free time we multi-stream on twitch and only on twitch for things that might get us in trouble ...",
       "source": "youtube",
@@ -68,6 +85,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/xbypzWlxv9U/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "#忘卻前夜 #morimens Regional D-Effect Zone Wave 4:Alert V! 融災4-5 Boss戰的部分",
+      "summary": "忘卻前夜#morimens 融災更新,7月20日~8月3號. Regional D-Effect Zone Update (July 20 – August 3). 4-5 Boss血鏈希洛(Helot: ...",
+      "source": "youtube",
+      "time": "2026-07-24T10:00:23Z",
+      "url": "https://www.youtube.com/watch?v=PyCdveZmPxE",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "Noir",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/PyCdveZmPxE/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
