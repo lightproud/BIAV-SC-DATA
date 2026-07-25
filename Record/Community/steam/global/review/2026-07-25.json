@@ -1,8 +1,8 @@
 {
   "date": "2026-07-25",
-  "archived_at": "2026-07-25T02:28:41.500048+00:00",
+  "archived_at": "2026-07-25T05:44:30.598036+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "[正面] 一个算不上资深的卡牌游戏玩家的评价\n首先两周我只玩了这游戏四十多小时，只评价自己目前的真实感受\n先来...",
@@ -118,6 +118,30 @@
         "playtime_forever": 39809,
         "votes_up": 0,
         "timestamp_created": 1784933886
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 好玩，但也有缺点过剧情的手感太差了，字会慢慢显现出来不利落我个人是不太喜欢这种的会让手很累。灵肺肽和...",
+      "summary": "好玩，但也有缺点过剧情的手感太差了，字会慢慢显现出来不利落我个人是不太喜欢这种的会让手很累。灵肺肽和狂气真的不是抄袭的月计吗",
+      "source": "steam_review",
+      "time": "2026-07-25T03:08:31+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198753216584/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198753216584",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 256,
+        "votes_up": 0,
+        "timestamp_created": 1784948911
       },
       "region": "global",
       "archive_subtype": "review",

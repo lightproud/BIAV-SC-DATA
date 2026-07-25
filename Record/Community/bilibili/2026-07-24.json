@@ -1,8 +1,8 @@
 {
   "date": "2026-07-24",
-  "archived_at": "2026-07-25T02:28:41.457356+00:00",
+  "archived_at": "2026-07-25T05:44:30.537908+00:00",
   "source": "bilibili",
-  "item_count": 25,
+  "item_count": 26,
   "items": [
     {
       "title": "【忘却前夜】蚀灭·罗坦简评",
@@ -138,6 +138,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/60425dddca2c62c2717febf71774ca1097c58ff2.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】记录第一次1129k",
+      "summary": "我是光棒猴我是地偶痴我是舞萌痴我是调查员我是指挥使但是如果我已经不是余子了我应该是什么\n  └ 烧碱大战氢氧化钠 (0赞): 猪宝怎么偷偷更新[doge]\n  └ 邻家有猪叫兜兜 (0赞): 这头像怎么来的呀？[吃瓜]",
+      "source": "bilibili",
+      "time": "2026-07-24T11:07:24+00:00",
+      "url": "https://www.bilibili.com/video/BV1stgv6TECw",
+      "engagement": 151,
+      "is_hot": false,
+      "author": "啞風氏",
+      "tags": [
+        "音游"
+      ],
+      "metadata": {
+        "play": 149,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/02aa7a2fe4b8bcaf73c18817719753d6ef788771.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
