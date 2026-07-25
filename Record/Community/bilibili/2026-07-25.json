@@ -1,8 +1,8 @@
 {
   "date": "2026-07-25",
-  "archived_at": "2026-07-25T05:44:30.539606+00:00",
+  "archived_at": "2026-07-25T08:05:35.782789+00:00",
   "source": "bilibili",
-  "item_count": 4,
+  "item_count": 7,
   "items": [
     {
       "title": "【忘却前夜】为何我觉得神混沌设计在释放一种危险的信号",
@@ -69,6 +69,75 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/11eb4f644e2eb1d2bfcc1830c2ac179f86c88a98.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "来看我画的沙耶",
+      "summary": "角色是来自《沙耶之歌》的沙耶，音乐是来自《‌クルトヒュムネス～神と対話した詩～‌》的《宵闇の花》，音乐作者是V.A.\n  └ 瑰鸳 (0赞): 不赖哦[原神_哇][原神_哇][原神_哇]\n  └ -昆扬 (0赞): [魔法少女的魔女审判表情包_探头]",
+      "source": "bilibili",
+      "time": "2026-07-24T19:59:44+00:00",
+      "url": "https://www.bilibili.com/video/BV1DkgB6WE8R",
+      "engagement": 134,
+      "is_hot": false,
+      "author": "算了还是叫花火匠好了",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 132,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/08fce734f46dd1b12664b27effc7fb1c794dddeb.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "我手抄了13万字的旮旯给木？",
+      "summary": "-\n  └ chuan-ye (0赞): 《樱之诗》[doge]BV1ZMG66GE5K\n  └ Sekai-Lovejoy (0赞): up也是可以封神了[打call]",
+      "source": "bilibili",
+      "time": "2026-07-25T05:23:11+00:00",
+      "url": "https://www.bilibili.com/video/BV1YG3u6LECh",
+      "engagement": 50,
+      "is_hot": false,
+      "author": "chuan-ye",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 47,
+        "comment_count": 3,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/941c44d294bab15adb24180177a676c8dce0300a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "你...？看到的沙耶是美少女吗？！",
+      "summary": "原图在动态\n\n终于赶上主题画了沙耶（其实去年就想画了）\nbgm：02 忘却之歌-Song of Memento-いとうかなこ Ver.\n  └ 耕司青海瑶 (1赞): [星星眼][星星眼][星星眼][星星眼]\n  └ 加州大恐龙 (0赞): 好看捏[喜欢][喜欢]\n  └ 千导院枫 (0赞): 好漂亮",
+      "source": "bilibili",
+      "time": "2026-07-25T03:22:56+00:00",
+      "url": "https://www.bilibili.com/video/BV1r93K6SEsL",
+      "engagement": 50,
+      "is_hot": false,
+      "author": "山楂Shayaz",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 47,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/2adfcfa83c14ef5301d7f1bea52f28a417ed14b2.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

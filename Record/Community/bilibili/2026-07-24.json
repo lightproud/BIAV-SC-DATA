@@ -1,8 +1,8 @@
 {
   "date": "2026-07-24",
-  "archived_at": "2026-07-25T05:44:30.537908+00:00",
+  "archived_at": "2026-07-25T08:05:35.781239+00:00",
   "source": "bilibili",
-  "item_count": 26,
+  "item_count": 27,
   "items": [
     {
       "title": "【忘却前夜】蚀灭·罗坦简评",
@@ -115,6 +115,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/97f8aa1c86ddfb5574d64a80e02879cd7836b3bb.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "我家怎么全是红烧肉呀",
+      "summary": "给我看饿了，连吃了两盘史",
+      "source": "bilibili",
+      "time": "2026-07-24T14:15:29+00:00",
+      "url": "https://www.bilibili.com/video/BV1JJge69Epp",
+      "engagement": 198,
+      "is_hot": false,
+      "author": "黑胡椒腌苦瓜",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 198,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/84c54912b0fc1a756bb46724fb5c6923dbdffc6a.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
