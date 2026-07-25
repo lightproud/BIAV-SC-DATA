@@ -1,0 +1,225 @@
+{
+  "date": "2026-07-25",
+  "messages": 3015,
+  "unique_authors": 210,
+  "reactions_total": 309,
+  "attachments": 120,
+  "channel_activity": {
+    "🔸綜合討論": 1071,
+    "🔸晒卡分享": 1,
+    "🔸课间休息闲聊": 42,
+    "🔸日本語チャンネル": 2,
+    "🔸한국어-채팅방": 57,
+    "🔸deutscher-chatraum": 7,
+    "🔸русский-канал": 51,
+    "🔸phòng-chat-tiếng-việt": 2,
+    "🔸canal-español": 296,
+    "🔸canal-português": 12,
+    "🔸ruang-obrolan-indonesia": 82,
+    "🔸ห้องสนทนาภาษาไทย": 63,
+    "🔸traphase": 10,
+    "🔸lore-chat": 46,
+    "🔸lets-count": 4,
+    "🔸team-building": 267,
+    "🔸邀请码互助┊swap-invitation-codes": 9,
+    "🔸game-question": 908,
+    "🔸机器人命令┊bot-commands": 16,
+    "试着搞了拼豆图纸（": 2,
+    "萊茵德紙草書效果重置時間錯誤": 1,
+    "遊戲進不去": 2,
+    "有沒有可能再調整一下原初混沌界域的設計": 4,
+    "问些新版本问题": 17,
+    "融災數值": 1,
+    "Please rework how Propagation Caro works for the future units": 4,
+    "V2.5.1.0 停服维护公告": 5,
+    "Murphy": 1,
+    "Leigh ❤️": 4,
+    "jollibee thais": 1,
+    "Shalalalala (dump of mostly caecus)": 1,
+    "V2.5.3 蚀灭·萝坦✦唤醒体&命轮介绍┊Lotan: Cetarchon✦Awakener & Wheel of Destiny Introduction┊침식·로탄✦각성체 & 명륜 소개": 18,
+    "V2.5.0 命运剧院┊Theater of Fate": 3,
+    "萌新入坑求解答，谢谢🙏": 1,
+    "New Player, advise on pulling and teams": 3,
+    "Returning/casual player seeking guidance on account progression": 1
+  },
+  "hourly_activity": {
+    "1": 522,
+    "2": 259,
+    "3": 178,
+    "4": 311,
+    "5": 460,
+    "6": 332,
+    "7": 457,
+    "8": 330,
+    "0": 166
+  },
+  "message_types": {
+    "19": 868,
+    "0": 2137,
+    "20": 8,
+    "4": 1,
+    "6": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1530439198056906782",
+      "channel_id": "1131839817982947429",
+      "content": "有大佬可以帶帶我嗎",
+      "author": "a_wei3797",
+      "reactions": 29,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530487132953772152",
+      "channel_id": "1530178712190845098",
+      "content": "Русская версия постера 🐋\n—— сделана российской организацией 【Morimens Ru Info Ch",
+      "author": "morimensstaff06",
+      "reactions": 14,
+      "channel": "V2.5.3 蚀灭·萝坦✦唤醒体&命轮介绍┊Lotan: Cetarchon✦Awakener & Wheel of Destiny Introduction┊침식·로탄✦각성체 & 명륜 소개"
+    },
+    {
+      "id": "1530406967208841307",
+      "channel_id": "1326453763355185215",
+      "content": "nikos prediction: hurr durr its me rotan and i love violence!",
+      "author": "nikolazuli",
+      "reactions": 10,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1530432162816327732",
+      "channel_id": "1131839817982947429",
+      "content": "神鯨一到店，所有喝酒的人便都看着他笑，有的叫道，“神鯨，你脸上又添上新伤疤了！”他不回答，对柜里说，“三次短刃，要合成巨剑•鲸落。”便打出蚀灭。他們又故意高聲嚷",
+      "author": "fgoisaac",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530437733967986858",
+      "channel_id": "1131839817982947429",
+      "content": "<@727340747669635132> 你的頭像是這個人嗎\n||https://cdn.discordapp.com/attachments/1325094",
+      "author": "ernest_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530454229905313892",
+      "channel_id": "1530454229905313892",
+      "content": "https://x.com/SaminDraws/status/2080892614002221170?s=20",
+      "author": "samin_",
+      "reactions": 6,
+      "channel": "Leigh ❤️"
+    },
+    {
+      "id": "1530438938915766375",
+      "channel_id": "1131839817982947429",
+      "content": "~~快來幹我~~",
+      "author": "yi000607",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530405396819349629",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530445328334196766",
+      "channel_id": "1131839817982947429",
+      "content": "棚拍完栗子了\n~~哪個群友點要有溶蝕漿出現的我直接糊到臉上了~~",
+      "author": "yusi4172",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530445656538480661",
+      "channel_id": "1131839817982947429",
+      "content": "全⭐新⭐的⭐力⭐量",
+      "author": "heikwok",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530454928126906398",
+      "channel_id": "1131839817982947429",
+      "content": "不是直接@ <@614083839131648021> 嗎",
+      "author": "akkom730",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530455781231558828",
+      "channel_id": "1131839817982947429",
+      "content": "王冊不也基礎200狂\n# ☝️ 🤓",
+      "author": "akkom730",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530466847600672798",
+      "channel_id": "1131839817982947429",
+      "content": "有大佬可以草死我嗎",
+      "author": "ahuahuahua",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530480262281035926",
+      "channel_id": "1131839817982947429",
+      "content": "<@920561286578856007> ~~\n有没有可能不打五就过了\n呃也许四波也有点难度吧\n嘩这次三坡落地战这么难\n这二波希伤害应该是调了\n完了我连一波都",
+      "author": "kemomimi_",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530413216188858438",
+      "channel_id": "1433513650299076780",
+      "content": "i like \nDivine Aequor it's imo better than it's regular variant bigger values wi",
+      "author": "laplace.in.my.head",
+      "reactions": 4,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1530433380397744288",
+      "channel_id": "1131839817982947429",
+      "content": "銀鑰強度是什麼大便設計",
+      "author": "ahuahuahua",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530437032168390838",
+      "channel_id": "1131839817982947429",
+      "content": "爹地前液",
+      "author": "ernest_heart",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530438551731310752",
+      "channel_id": "1131839817982947429",
+      "content": "你對上面那個正常良好的人際關係有什麼誤解",
+      "author": "ernest_heart",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530452986973913098",
+      "channel_id": "1131839817982947429",
+      "content": "幹阿花",
+      "author": "akkom730",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530455401928331364",
+      "channel_id": "1131839817982947429",
+      "content": "<@614083839131648021> 已经成为了一种让猫畏惧的东西了吗(",
+      "author": "ka_0414",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "date": "2026-06-05",
-  "messages": 34948,
+  "messages": 39948,
   "unique_authors": 559,
-  "reactions_total": 3741,
-  "attachments": 1798,
+  "reactions_total": 4190,
+  "attachments": 2056,
   "channel_activity": {
-    "🔸morimens-game-chat": 3522,
+    "🔸morimens-game-chat": 8522,
     "🔸general-chat": 4222,
     "🔸game-question": 8923,
     "🔸綜合討論": 4355,
@@ -104,6 +104,21 @@
     "1512469873807065129": 2
   },
   "hourly_activity": {
+    "7": 2059,
+    "8": 1740,
+    "9": 2172,
+    "10": 2295,
+    "11": 2271,
+    "12": 1806,
+    "13": 2223,
+    "14": 2680,
+    "15": 1376,
+    "16": 1702,
+    "17": 1291,
+    "18": 1565,
+    "19": 1231,
+    "20": 688,
+    "21": 712,
     "0": 1693,
     "1": 1793,
     "2": 1784,
@@ -111,27 +126,12 @@
     "4": 2047,
     "5": 1856,
     "6": 1812,
-    "7": 1935,
-    "16": 1328,
-    "17": 938,
-    "18": 1357,
-    "19": 1017,
-    "20": 573,
-    "21": 577,
     "22": 893,
-    "23": 601,
-    "8": 1585,
-    "9": 1774,
-    "10": 2033,
-    "11": 2036,
-    "12": 1107,
-    "13": 1590,
-    "14": 1988,
-    "15": 973
+    "23": 601
   },
   "message_types": {
-    "19": 1329,
-    "0": 2193
+    "0": 2977,
+    "19": 2023
   },
   "top_reacted_messages": [
     {
@@ -215,6 +215,14 @@
       "channel": "V2.5.1.4 在线维护公告"
     },
     {
+      "id": "1512543973686775828",
+      "channel_id": "1170692781216378960",
+      "content": "this is his second to last message",
+      "author": "arandomflamev2",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1512255078323720192",
       "channel_id": "1170692781216378960",
       "content": "My Saya will be +7 when the free one comes out",
@@ -263,6 +271,14 @@
       "channel": "【English Translation】Opinions Collection"
     },
     {
+      "id": "1512546106230444032",
+      "channel_id": "1170692781216378960",
+      "content": "Shining ⭐✨Tornado",
+      "author": "mythicmoonwort",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1512253467492614284",
       "channel_id": "1170692781216378960",
       "content": "Lemme see how to slowmofe",
@@ -277,22 +293,6 @@
       "author": "angbak",
       "reactions": 8,
       "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1512325850643562506",
-      "channel_id": "1131839817982947429",
-      "content": "我現在就在喝",
-      "author": "yusi4172",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1512330310938005616",
-      "channel_id": "1131839817982947429",
-      "content": "笑得，这前后也没多久",
-      "author": "xyakoto",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
     }
   ]
 }
