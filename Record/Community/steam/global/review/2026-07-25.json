@@ -1,8 +1,8 @@
 {
   "date": "2026-07-25",
-  "archived_at": "2026-07-25T10:28:15.253533+00:00",
+  "archived_at": "2026-07-25T13:22:10.608682+00:00",
   "source": "steam",
-  "item_count": 6,
+  "item_count": 9,
   "items": [
     {
       "title": "[正面] 一个算不上资深的卡牌游戏玩家的评价\n首先两周我只玩了这游戏四十多小时，只评价自己目前的真实感受\n先来...",
@@ -142,6 +142,78 @@
         "playtime_forever": 256,
         "votes_up": 0,
         "timestamp_created": 1784948911
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 美术满分，但交互太差了，像个缺胳膊少腿的半成品",
+      "summary": "美术满分，但交互太差了，像个缺胳膊少腿的半成品",
+      "source": "steam_review",
+      "time": "2026-07-25T10:58:10+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198385323590/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198385323590",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 14,
+        "votes_up": 0,
+        "timestamp_created": 1784977090
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 好玩就对了，美术音乐深得我心",
+      "summary": "好玩就对了，美术音乐深得我心",
+      "source": "steam_review",
+      "time": "2026-07-25T10:18:48+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198452601307/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198452601307",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 5609,
+        "votes_up": 0,
+        "timestamp_created": 1784974728
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 非常棒的游戏，加油，愿银钥指引前路",
+      "summary": "非常棒的游戏，加油，愿银钥指引前路",
+      "source": "steam_review",
+      "time": "2026-07-25T10:12:22+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199761122030/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199761122030",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2313,
+        "votes_up": 0,
+        "timestamp_created": 1784974342
       },
       "region": "global",
       "archive_subtype": "review",
