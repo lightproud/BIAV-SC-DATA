@@ -1,8 +1,8 @@
 {
   "date": "2026-07-25",
-  "archived_at": "2026-07-24T22:06:01.006866+00:00",
+  "archived_at": "2026-07-25T02:28:41.500048+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 5,
   "items": [
     {
       "title": "[正面] 一个算不上资深的卡牌游戏玩家的评价\n首先两周我只玩了这游戏四十多小时，只评价自己目前的真实感受\n先来...",
@@ -70,6 +70,54 @@
         "playtime_forever": 21,
         "votes_up": 0,
         "timestamp_created": 1784921536
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Yea I licked the screen, not gonna deny it.",
+      "summary": "Yea I licked the screen, not gonna deny it.",
+      "source": "steam_review",
+      "time": "2026-07-24T23:58:25+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198136438453/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198136438453",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3558,
+        "votes_up": 0,
+        "timestamp_created": 1784937505
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] es super divertido y el apartado visual es increib...",
+      "summary": "es super divertido y el apartado visual es increible de lo mejorcito que hay en gachas",
+      "source": "steam_review",
+      "time": "2026-07-24T22:58:06+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199877662850/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199877662850",
+      "tags": [
+        "spanish"
+      ],
+      "language": "spanish",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 39809,
+        "votes_up": 0,
+        "timestamp_created": 1784933886
       },
       "region": "global",
       "archive_subtype": "review",
