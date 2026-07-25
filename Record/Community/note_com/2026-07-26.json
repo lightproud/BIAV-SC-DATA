@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
-  "archived_at": "2026-07-25T16:05:33.984144+00:00",
+  "archived_at": "2026-07-25T19:06:09.393134+00:00",
   "source": "note_com",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "【忘却前夜】レベルとステータスの関係",
@@ -13,6 +13,19 @@
       "engagement": 0,
       "is_hot": false,
       "author": "mayoineko",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "jp"
+    },
+    {
+      "title": "忘却前夜 無限オレッタについて",
+      "summary": "この記事は、YouTubeに投稿した「忘却前夜の無限オレッタについて」の内容を文章にしたものです。前回の記事と同じく、自分の理解整理と記録も兼ねて投稿します。↓動画はこちらです。続きをみる",
+      "source": "note_com",
+      "time": "2026-07-26T02:06:02+09:00",
+      "url": "https://note.com/shinkisakusei1/n/n90fe6318081f",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "001",
       "tags": [],
       "lang": "ja",
       "platform_region": "jp"

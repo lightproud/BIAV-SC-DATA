@@ -1,0 +1,82 @@
+{
+  "date": "2026-07-26",
+  "archived_at": "2026-07-25T19:06:09.385896+00:00",
+  "source": "steam",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[负面] the game is a huge time investment. I mean if you...",
+      "summary": "the game is a huge time investment. I mean if you do actually pay attention to the story which isn't all that good you'll realise its not worth it. I mean the setting is Victorian and that's different I suppose, but its still bland and you realise you don't really care for the characters soon. the music and animation and character design is different but its Moreso a game that looks good then actually is. the gacha pull rates are decent. Jenkins needs correction for being a cute little thief and so does lily for being such a bland pity case. maybe in another life this sensei can correct them properly. 2/10.",
+      "source": "steam_review",
+      "time": "2026-07-25T17:15:50+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198751915492/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198751915492",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 1050,
+        "votes_up": 0,
+        "timestamp_created": 1784999750
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] Таких игр полно",
+      "summary": "Таких игр полно",
+      "source": "steam_review",
+      "time": "2026-07-25T16:45:50+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199034781342/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199034781342",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 40,
+        "votes_up": 0,
+        "timestamp_created": 1784997950
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 杀戮尖塔但是美少女二游，剧情神音乐神美术也是神，策划纯粹的小头控制大脑，[spoiler] 不要杯子...",
+      "summary": "杀戮尖塔但是美少女二游，剧情神音乐神美术也是神，策划纯粹的小头控制大脑，[spoiler] 不要杯子了孩子们男角色也有加聚聚，这个游戏纯粹的男女统一高黄色 [/spoiler]总之很推荐游玩\r\n游戏里还有pvp，少数的拥有游玩性的二游了",
+      "source": "steam_review",
+      "time": "2026-07-25T16:36:18+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198839000284/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198839000284",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 12497,
+        "votes_up": 0,
+        "timestamp_created": 1784997378
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
