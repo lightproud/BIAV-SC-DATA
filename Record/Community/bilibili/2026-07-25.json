@@ -1,8 +1,8 @@
 {
   "date": "2026-07-25",
-  "archived_at": "2026-07-25T08:05:35.782789+00:00",
+  "archived_at": "2026-07-25T10:28:15.141576+00:00",
   "source": "bilibili",
-  "item_count": 7,
+  "item_count": 10,
   "items": [
     {
       "title": "【忘却前夜】为何我觉得神混沌设计在释放一种危险的信号",
@@ -23,6 +23,29 @@
         "danmaku": 2
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/d3652086ef5f1757103d090dd4659c57919f3a96.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "《沙耶之歌》的“人与人能否相互理解”之问——哲学博士生从“伪物”概念出发解读《沙耶之歌》",
+      "summary": "更多对于二次元作品的哲学阐释可以关注我的b站课堂“人之缺失性四讲”，导引视频见：BV1k5yrBFEgG。另外，此前我还有分析《空之境界》中《俯瞰风景》的讲座视频（见：BV11DVa6vE52）和分析《名侦探柯南》的视频（见：BV1jEchzvEmj）。后续我规划了对一些作品的专题分析，包括《fate zero》《魔法少女小圆》《来自深渊》等，也在筹备一些相关的对话型直播，和另外一些对二次元颇有见地的同济哲学系的师兄弟一起讨论二次元\n\n而我的“老本行”是海德格尔研究，欢迎关注我在b站的《存在与时间》精读（\n  └ 梅菲_斯特 (1赞): [晴空向光行动态表情包_拜托拜托][晴空向光行动态表情包_耶！]\n  └ 千龝 (0赞): 开头的经典bangumi感谢就没绷住[吃瓜][doge]\n  └ 林中路上的路遥 (0赞): 脚骨折不能起身，躺着用头显看屏幕（字很小）侧瞄键盘剪的视频，字幕有不少拼写错误，还请见谅[笑哭]",
+      "source": "bilibili",
+      "time": "2026-07-25T09:13:21+00:00",
+      "url": "https://www.bilibili.com/video/BV14K3M6hEFP",
+      "engagement": 205,
+      "is_hot": false,
+      "author": "林中路上的路遥",
+      "tags": [
+        "翻唱"
+      ],
+      "metadata": {
+        "play": 196,
+        "comment_count": 9,
+        "comments_fetched": 3,
+        "danmaku": 1
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/a71d0f379846090bbf1ac6fe1dcc1ba1c44f8aa8.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -161,6 +184,52 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/8075b6ba06b192d9799eb6f7664a4382f7503ad4.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "《忘却前夜》第四章-于无声处，海德拉好强！",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-25T09:38:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1NXNx6hEjN",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "不可燃抹茶果冻",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 1,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/55f9c4700292ae52292139eec047b1bd6ca14126.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【沙耶之歌】可怕的噩梦，经典邪作的第一结局是什么？ #沙耶之歌 #galgame  #单机游戏 #steam",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-25T09:39:22+00:00",
+      "url": "https://www.bilibili.com/video/BV1Um3g6gE53",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "edsion369",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 0,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/880f1c468bbbe4dd9f88a3543969e0dc2b7ff323.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
