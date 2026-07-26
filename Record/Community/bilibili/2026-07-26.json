@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
-  "archived_at": "2026-07-26T06:01:54.604610+00:00",
+  "archived_at": "2026-07-26T08:38:31.693437+00:00",
   "source": "bilibili",
-  "item_count": 7,
+  "item_count": 9,
   "items": [
     {
       "title": "【忘却前夜】7.21-8.3融灾400个人通关记录（羊皮杜、alkn逃课、徐毒、tv）",
@@ -28,6 +28,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "Galgame女主过去、现在、未来的样子",
+      "summary": "新脑洞\n  └ 严谨的存在 (0赞): 芳乃[星星眼]\n  └ 福泽-wt (0赞): @SKY悖论引擎\n  └ Touma_Kazusa_528 (0赞): 小冬马好可爱，大冬马也太美了[喜欢][喜欢][喜欢]",
+      "source": "bilibili",
+      "time": "2026-07-26T07:05:46+00:00",
+      "url": "https://www.bilibili.com/video/BV1h33j6FEsy",
+      "engagement": 117,
+      "is_hot": false,
+      "author": "一污渍神人",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 111,
+        "comment_count": 6,
+        "comments_fetched": 3,
+        "danmaku": 4
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/8cec4ad2d830843ad9bab7e4c64beca6f4f1fc19.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "勿忘 打击梦 忘却前夜 癫狂列车乐园",
       "summary": "致敬删不掉防御的传奇打击流输出型角色\n\n背景音乐：Sakuzyo - &quot;Piano History&quot;\n  └ 上好佳薯片丶 (1赞): 看力竭了，梦游老大好强[打call]",
       "source": "bilibili",
@@ -46,6 +69,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/bb926f5e9d454699dd49459364b2823c0146985c.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "[忘却前夜]环娜c 2-5",
+      "summary": "忘却前夜到底该不该玩呢\n  └ 上好佳薯片丶 (2赞): 老大好强喵[打call]",
+      "source": "bilibili",
+      "time": "2026-07-25T22:28:24+00:00",
+      "url": "https://www.bilibili.com/video/BV12Q3G6LEZk",
+      "engagement": 102,
+      "is_hot": false,
+      "author": "寂榕",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 101,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/58d0b2adc51323b4004adc3c8376f4c656a1351a.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

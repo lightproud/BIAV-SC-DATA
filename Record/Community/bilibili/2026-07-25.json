@@ -1,8 +1,8 @@
 {
   "date": "2026-07-25",
-  "archived_at": "2026-07-26T06:01:54.603823+00:00",
+  "archived_at": "2026-07-26T08:38:31.692462+00:00",
   "source": "bilibili",
-  "item_count": 24,
+  "item_count": 25,
   "items": [
     {
       "title": "【忘却前夜】为何我觉得神混沌设计在释放一种危险的信号",
@@ -253,6 +253,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/9d47d6f1f11032e83c2105ae579254c619ba1132.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "saya",
+      "summary": "在生日当天出喜欢的角色喵\n  └ -昆扬 (0赞): [魔法少女的魔女审判表情包_探头]\n  └ 耕司青海瑶 (0赞): [doge]\n  └ CODM-美术生 (0赞): @哈基沙大玉 取餐",
+      "source": "bilibili",
+      "time": "2026-07-25T14:56:30+00:00",
+      "url": "https://www.bilibili.com/video/BV1X63G6XE91",
+      "engagement": 107,
+      "is_hot": false,
+      "author": "上禾火",
+      "tags": [
+        "动漫杂谈"
+      ],
+      "metadata": {
+        "play": 104,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/6a74ea99d7f0acde946f811e874298a97be548a9.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
