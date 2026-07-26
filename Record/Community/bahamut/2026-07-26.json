@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
-  "archived_at": "2026-07-26T02:34:49.905621+00:00",
+  "archived_at": "2026-07-26T06:01:54.605699+00:00",
   "source": "bahamut",
-  "item_count": 21,
+  "item_count": 22,
   "items": [
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
@@ -273,6 +273,19 @@
       "engagement": 4,
       "is_hot": false,
       "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【問題】pc版壞掉，求救",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-07-26T06:00:20.693306+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1507&tnum=1",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "a74a74athe",
       "tags": [],
       "lang": "zh",
       "platform_region": "tw"

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
-  "archived_at": "2026-07-26T02:34:49.906064+00:00",
+  "archived_at": "2026-07-26T06:01:54.604610+00:00",
   "source": "bilibili",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
     {
       "title": "【忘却前夜】7.21-8.3融灾400个人通关记录（羊皮杜、alkn逃课、徐毒、tv）",
@@ -115,6 +115,52 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/f61d17474ac7b6db7629c9917a0a3cc9bda35011.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "《忘却前夜》第四章P5-一杯茶一根烟，一只boss大半天，(꒪ȏ꒪;)",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-26T05:56:00+00:00",
+      "url": "https://www.bilibili.com/video/BV19eKn6wELn",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "不可燃抹茶果冻",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 2,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/b5f2e8586d1b0b0545a2de40e60ea2ef74ca25fc.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "《忘却前夜》第四章P4-少女粉房间！",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-26T05:51:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1avKn6hE9S",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "不可燃抹茶果冻",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 0,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/d7a0f1d68805ed7b77f1acab794afe3d6cd89b27.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

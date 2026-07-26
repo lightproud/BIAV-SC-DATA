@@ -1,8 +1,8 @@
 {
   "date": "2026-07-25",
-  "archived_at": "2026-07-26T02:34:49.904225+00:00",
+  "archived_at": "2026-07-26T06:01:54.603823+00:00",
   "source": "bilibili",
-  "item_count": 23,
+  "item_count": 24,
   "items": [
     {
       "title": "【忘却前夜】为何我觉得神混沌设计在释放一种危险的信号",
@@ -184,6 +184,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/887471a8b4ebd6eed7b15702c9ee29854fee5fca.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "小沙耶与贝利亚",
+      "summary": "小沙耶抢了贝利亚的床，贝利亚会把小沙耶怎么样呢？\n  └ 烨青禾 (1赞): [星星眼][星星眼]\n  └ -昆扬 (1赞): [魔法少女的魔女审判表情包_探头]",
+      "source": "bilibili",
+      "time": "2026-07-25T13:40:40+00:00",
+      "url": "https://www.bilibili.com/video/BV1E13u6XE7W",
+      "engagement": 121,
+      "is_hot": false,
+      "author": "小龙猫大能力",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 117,
+        "comment_count": 4,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/b245f7999b311f4c33b0f352c1cb5ed238119e4b.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
