@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
-  "archived_at": "2026-07-26T08:38:31.733291+00:00",
+  "archived_at": "2026-07-26T10:46:13.008203+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "[负面] the game is a huge time investment. I mean if you...",
@@ -118,6 +118,30 @@
         "playtime_forever": 5052,
         "votes_up": 0,
         "timestamp_created": 1785049070
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 게임성과 스토리는 좋습니다. 전략게임 좋아하시는 분 추천",
+      "summary": "게임성과 스토리는 좋습니다. 전략게임 좋아하시는 분 추천",
+      "source": "steam_review",
+      "time": "2026-07-26T09:06:21+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199877208264/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199877208264",
+      "tags": [
+        "koreana"
+      ],
+      "language": "koreana",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2814,
+        "votes_up": 0,
+        "timestamp_created": 1785056781
       },
       "region": "global",
       "archive_subtype": "review",

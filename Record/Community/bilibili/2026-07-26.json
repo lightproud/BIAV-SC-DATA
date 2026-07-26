@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
-  "archived_at": "2026-07-26T08:38:31.693437+00:00",
+  "archived_at": "2026-07-26T10:46:12.930395+00:00",
   "source": "bilibili",
-  "item_count": 9,
+  "item_count": 11,
   "items": [
     {
       "title": "【忘却前夜】7.21-8.3融灾400个人通关记录（羊皮杜、alkn逃课、徐毒、tv）",
@@ -23,6 +23,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/d9b9d40ea1dafe82acc89ef59fe4df949893a7d2.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "［相位］v2.5.3相位对弈平衡性调整",
+      "summary": "-\n  └ 梦游惊奇 (0赞): 主包这套怎么改进[打call]",
+      "source": "bilibili",
+      "time": "2026-07-26T09:44:39+00:00",
+      "url": "https://www.bilibili.com/video/BV1Fi3E6DErK",
+      "engagement": 149,
+      "is_hot": false,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 148,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/a4dabb8294d95b1bb0f4aa5595be6ff1f4f2ff40.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -115,6 +138,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/b9720f5b611d7d968eb1fc9654d64e86a0a56acd.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【ニコカラ/KTV字幕/无损Hi-Res】沙耶の唄（游戏《沙耶の唄》ED）",
+      "summary": "原曲：沙耶の唄 - いとうかなこ\n作词：江幡育子\n作曲 / 编曲：江幡育子 / 磯江俊道\n视频来源：游戏PV\n歌词来源：网易云音乐\n  └ 骨子lin傲气 (0赞): 期待bro的演唱[少女乐团派对_期待]",
+      "source": "bilibili",
+      "time": "2026-07-26T08:47:21+00:00",
+      "url": "https://www.bilibili.com/video/BV1Uc3J6YEfq",
+      "engagement": 32,
+      "is_hot": false,
+      "author": "浅鸢Saku",
+      "tags": [
+        "MV"
+      ],
+      "metadata": {
+        "play": 31,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/7a425263523d15dd66c24e60a2e6890f5a3eb41c.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

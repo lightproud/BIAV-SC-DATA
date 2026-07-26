@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
-  "archived_at": "2026-07-26T08:38:31.694511+00:00",
+  "archived_at": "2026-07-26T10:46:12.931507+00:00",
   "source": "youtube",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "[Morimens] Extremely short JP stream, trying to finish up another video. Will answer questions.",
@@ -85,6 +85,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/Uduoa9qLI2U/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "#忘卻前夜 #morimens Regional D-Effect Zone Wave 3:Alert V! 融災3-5 Boss戰的部分",
+      "summary": "忘卻前夜 #morimens 融災更新,7月20日~8月3號. Regional D-Effect Zone Update (July 20 – August 3). 3-5 緊急連絡特性的怪物, ...",
+      "source": "youtube",
+      "time": "2026-07-26T10:00:10Z",
+      "url": "https://www.youtube.com/watch?v=v-7weS2Xg60",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Noir",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/v-7weS2Xg60/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
