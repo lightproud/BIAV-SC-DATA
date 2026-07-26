@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
-  "archived_at": "2026-07-26T19:10:18.677307+00:00",
+  "archived_at": "2026-07-26T22:00:06.684158+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 in the span of 2ish months (100 hours of",
@@ -30,6 +30,20 @@
       "tags": [],
       "lang": "ko",
       "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 非常好的游戏",
+      "summary": "非常好的游戏",
+      "source": "google_play",
+      "time": "2026-07-25T19:48:12",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-fb35889a-9334-408f-b466-43051ac7e524",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "DARYL",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
       "region": "global"
     }
   ],

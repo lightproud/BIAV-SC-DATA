@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
-  "archived_at": "2026-07-26T19:10:18.528083+00:00",
+  "archived_at": "2026-07-26T22:00:06.542235+00:00",
   "source": "bilibili",
-  "item_count": 15,
+  "item_count": 16,
   "items": [
     {
       "title": "每天八杯血",
@@ -92,6 +92,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/a4dabb8294d95b1bb0f4aa5595be6ff1f4f2ff40.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "『臻品全景声3.0』音质《沙耶の唄》珍爱这朵花的人，有一个就足够了",
+      "summary": "-\n  └ 小龙猫大能力 (1赞): 封面图+背景图\n  └ 禹汁波那撸托 (1赞): [吃瓜][吃瓜]\n  └ 耕司青海瑶 (1赞): [打call][打call][打call]",
+      "source": "bilibili",
+      "time": "2026-07-26T02:43:41+00:00",
+      "url": "https://www.bilibili.com/video/BV1rt3566ECA",
+      "engagement": 125,
+      "is_hot": false,
+      "author": "小龙猫大能力",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 112,
+        "comment_count": 13,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/cbb473fddd15205ed1c2e1993e1de40669b70531.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
