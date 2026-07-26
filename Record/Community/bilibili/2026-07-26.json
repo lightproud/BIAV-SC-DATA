@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
-  "archived_at": "2026-07-26T13:17:43.618523+00:00",
+  "archived_at": "2026-07-26T16:02:49.592593+00:00",
   "source": "bilibili",
-  "item_count": 12,
+  "item_count": 15,
   "items": [
     {
       "title": "每天八杯血",
@@ -46,6 +46,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/d9b9d40ea1dafe82acc89ef59fe4df949893a7d2.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "超维启动慢，深海有冷却，血肉抢胚胎，混沌孝子策划闹麻了",
+      "summary": "└ 人类的落日 (4赞): 依旧集团军办公室\n  └ 最喜欢谢鸣的江山婳 (0赞): 哥们，就冲你这个我直接给你一个关注好吧，这样以后我就可以看到你的视频绕着走了[doge][doge][doge]\n  └ 老牧尸 (0赞): 被骗了",
+      "source": "bilibili",
+      "time": "2026-07-26T14:55:40+00:00",
+      "url": "https://www.bilibili.com/video/BV1U5g96ZE5h",
+      "engagement": 155,
+      "is_hot": false,
+      "author": "全忘却最尊重圣婴之人",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 152,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/879d160a4641012c305c281c086f9c36abf6a129.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -115,6 +138,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/bb926f5e9d454699dd49459364b2823c0146985c.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "我杜一定要大吃特吃吗。。。队友低配也能过",
+      "summary": "我杜不是蛆。。。。不要再黑我杜了QAQ\n  └ 跳段木偶舞 (0赞): [打call]\n  └ _-Hannn-_ (0赞): [喜欢]",
+      "source": "bilibili",
+      "time": "2026-07-26T07:18:36+00:00",
+      "url": "https://www.bilibili.com/video/BV15K3j6YEv4",
+      "engagement": 103,
+      "is_hot": false,
+      "author": "Abs-K-",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 101,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/e57156b90e9e91898245100d9f4a884e37f9d84a.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -207,6 +253,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/063cd5d83364727d7b1a1433d159a101aa175800.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】压配置沙莱3t融灾5-5",
+      "summary": "沙耶打血肉怪还是太强了）血条缩四倍说是\n  └ 通往你幸福的花园 (0赞): 我了尤乌莱克高手……",
+      "source": "bilibili",
+      "time": "2026-07-26T15:37:32+00:00",
+      "url": "https://www.bilibili.com/video/BV1f9gX6GEdy",
+      "engagement": 7,
+      "is_hot": false,
+      "author": "CyaneuS_ky",
+      "tags": [
+        "同人·手书"
+      ],
+      "metadata": {
+        "play": 5,
+        "comment_count": 2,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/4889f8fa3f94f067bbf626ab8c74f5032a8e7474.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

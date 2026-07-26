@@ -1,8 +1,8 @@
 {
   "date": "2026-07-25",
-  "archived_at": "2026-07-26T13:17:43.791797+00:00",
+  "archived_at": "2026-07-26T16:02:49.756474+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 Its hard. Very nice~",
@@ -16,6 +16,20 @@
       "tags": [],
       "lang": "id",
       "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 MORIMENS es excelente y muy original! Co",
+      "summary": "MORIMENS es excelente y muy original! Como nuevo jugador hay que invertirle tiempo hasta acostumbrarse a las mecanicas y distints facetas del juego, lo estoy jugando hace 2 semanas aproximadamente y si bien no lo domino al 100 % no puedo dejar de sentirme atraido por su historia y worldbuilding. Todo es misterioso, sinuoso y oscuro. AMO el arte y diseño de personajes y la musica tambien. Recomiendo jugarlo de noche, con tu bebida favorita, sin distracciones.",
+      "source": "google_play",
+      "time": "2026-07-25T14:48:37",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-16698971-341e-4652-b850-c2d16744e0be",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Andres Ponce",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "es",
       "region": "global"
     }
   ],
