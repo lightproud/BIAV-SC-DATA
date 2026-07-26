@@ -1,26 +1,30 @@
 {
   "date": "2026-07-26",
-  "messages": 461,
+  "messages": 692,
   "unique_authors": 25,
-  "reactions_total": 143,
-  "attachments": 39,
+  "reactions_total": 178,
+  "attachments": 57,
   "channel_activity": {
-    "なんでも雑談": 312,
+    "なんでも雑談": 528,
+    "対人戦、幻影パの勝ち筋": 3,
+    "ガチャどうしよう": 3,
+    "つぶやき": 16,
     "🔰初心者質問": 26,
     "ニムフィーアの毒パ研究日誌": 5,
     "招待コード共有会": 2,
     "忘却前夜絵を密かに載せます": 2,
     "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 12,
-    "つぶやき": 7,
     "誰でも質問": 91,
     "幻夢ボス別ステージ入口スクショ": 1,
     "ガチャ結果報告": 3
   },
   "hourly_activity": {
+    "14": 54,
+    "15": 151,
+    "16": 27,
     "11": 25,
     "12": 6,
     "13": 39,
-    "14": 1,
     "9": 80,
     "10": 32,
     "4": 21,
@@ -34,8 +38,8 @@
     "1": 4
   },
   "message_types": {
-    "0": 68,
-    "19": 2
+    "0": 221,
+    "19": 10
   },
   "top_reacted_messages": [
     {
@@ -47,11 +51,27 @@
       "channel": "なんでも雑談"
     },
     {
+      "id": "1530943547333935175",
+      "channel_id": "1377478664609857647",
+      "content": "# 月曜日が始Monday",
+      "author": "zzzorz",
+      "reactions": 6,
+      "channel": "なんでも雑談"
+    },
+    {
       "id": "1530902232130785363",
       "channel_id": "1377478664609857647",
       "content": "もうちょいでレベル上がるなーと思って薬剤割ったのに絶妙に足らなかった時(:3[▓▓]",
       "author": "sugoitsubasanohaetaop",
       "reactions": 6,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1530943966655287297",
+      "channel_id": "1377478664609857647",
+      "content": "# 月曜日が始Monday😁",
+      "author": "ecstasyrb",
+      "reactions": 5,
       "channel": "なんでも雑談"
     },
     {
@@ -151,50 +171,34 @@
       "channel": "なんでも雑談"
     },
     {
-      "id": "1530932155553943664",
+      "id": "1530942389512835103",
       "channel_id": "1377478664609857647",
-      "content": "マーフィーボイス変わると急にはっちゃけ出すの面白すぎる",
-      "author": "yasaizujusu",
+      "content": "ワンダなしの反撃パ試してみたけどナウティラもいらんかもしれん…。\n初手10K反撃\nてか超次元でもちゃんと火力出るね24。\n\n637070e7-7ba2-3ded",
+      "author": "chabo.chabo",
       "reactions": 2,
       "channel": "なんでも雑談"
     },
     {
-      "id": "1530873232184573954",
+      "id": "1530944003304984706",
       "channel_id": "1377478664609857647",
-      "content": "忘却の墨溜まりがある線が好き",
-      "author": "namenemue3",
+      "content": "旅行飯",
+      "author": "ecstasyrb",
       "reactions": 2,
       "channel": "なんでも雑談"
     },
     {
-      "id": "1530877525453180948",
+      "id": "1530963683705098252",
       "channel_id": "1377478664609857647",
-      "content": "~~マフィ:はぁ?~~",
-      "author": "foxcatfurry",
+      "content": "ミリアムがハムリンみたいになってます",
+      "author": "zzzorz",
       "reactions": 2,
       "channel": "なんでも雑談"
     },
     {
-      "id": "1530877808249802954",
+      "id": "1530965656936124437",
       "channel_id": "1377478664609857647",
-      "content": "||触手スーツ||ってコト…？",
-      "author": "altiar_zain",
-      "reactions": 2,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1530878371116875816",
-      "channel_id": "1377478664609857647",
-      "content": "やはり触手はいい",
-      "author": "yamaiame_ql4",
-      "reactions": 2,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1530878885116379322",
-      "channel_id": "1377478664609857647",
-      "content": "情報なし",
-      "author": "foxcatfurry",
+      "content": "これを見越して私はレイド中にミリを３凸から７凸まで上げた()",
+      "author": "sugoitsubasanohaetaop",
       "reactions": 2,
       "channel": "なんでも雑談"
     }
