@@ -1,8 +1,8 @@
 {
   "date": "2026-07-25",
-  "archived_at": "2026-07-25T21:56:18.195141+00:00",
+  "archived_at": "2026-07-26T02:34:49.904225+00:00",
   "source": "bilibili",
-  "item_count": 22,
+  "item_count": 23,
   "items": [
     {
       "title": "【忘却前夜】为何我觉得神混沌设计在释放一种危险的信号",
@@ -207,6 +207,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/e4e3eb8cb67b5e929f46a6c9d39229bedad7003f.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】7.20 融灾400存档",
+      "summary": "前面忘了，中间忘了，后面忘了，加强鸟弟",
+      "source": "bilibili",
+      "time": "2026-07-25T10:31:48+00:00",
+      "url": "https://www.bilibili.com/video/BV1cc336aE4F",
+      "engagement": 109,
+      "is_hot": false,
+      "author": "氵連",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 109,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/9d47d6f1f11032e83c2105ae579254c619ba1132.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
