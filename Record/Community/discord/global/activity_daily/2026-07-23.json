@@ -1,10 +1,11 @@
 {
   "date": "2026-07-23",
-  "messages": 9857,
+  "messages": 13085,
   "unique_authors": 332,
-  "reactions_total": 1651,
-  "attachments": 489,
+  "reactions_total": 1861,
+  "attachments": 601,
   "channel_activity": {
+    "🔸general-chat": 3228,
     "🔸綜合討論": 2257,
     "🔸阵容构建": 40,
     "🔸晒卡分享": 3,
@@ -69,10 +70,19 @@
     "Where to invest standard pulls?": 1
   },
   "hourly_activity": {
-    "9": 384,
-    "10": 683,
-    "11": 439,
-    "12": 984,
+    "0": 350,
+    "1": 406,
+    "2": 605,
+    "3": 351,
+    "4": 415,
+    "5": 335,
+    "6": 322,
+    "7": 311,
+    "8": 1090,
+    "9": 909,
+    "10": 1004,
+    "11": 671,
+    "12": 1147,
     "13": 1031,
     "14": 601,
     "15": 952,
@@ -83,22 +93,12 @@
     "20": 419,
     "21": 106,
     "22": 215,
-    "23": 218,
-    "0": 122,
-    "1": 325,
-    "2": 219,
-    "3": 166,
-    "4": 396,
-    "5": 235,
-    "6": 105,
-    "7": 200,
-    "8": 430
+    "23": 218
   },
   "message_types": {
-    "0": 5603,
-    "19": 1863,
-    "20": 20,
-    "4": 2
+    "0": 1857,
+    "19": 1366,
+    "20": 5
   },
   "top_reacted_messages": [
     {
@@ -246,20 +246,20 @@
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1529780198638354573",
-      "channel_id": "1131839817982947429",
-      "content": "不能",
-      "author": "foxcatfurry",
+      "id": "1529768164735320124",
+      "channel_id": "1400750050208125010",
+      "content": "Here viy choco capybara for you",
+      "author": "leviathxan",
       "reactions": 5,
-      "channel": "🔸綜合討論"
+      "channel": "🔸general-chat"
     },
     {
-      "id": "1529798001294573638",
-      "channel_id": "1131839817982947429",
-      "content": "跟融朵借染髮劑是這樣的",
-      "author": "souri.10244",
+      "id": "1529772985437650954",
+      "channel_id": "1400750050208125010",
+      "content": "They did it again I think",
+      "author": "bruhlucifer",
       "reactions": 5,
-      "channel": "🔸綜合討論"
+      "channel": "🔸general-chat"
     }
   ]
 }

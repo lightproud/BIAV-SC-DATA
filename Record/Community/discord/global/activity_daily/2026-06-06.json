@@ -1,10 +1,11 @@
 {
   "date": "2026-06-06",
-  "messages": 30658,
+  "messages": 35326,
   "unique_authors": 603,
-  "reactions_total": 2703,
-  "attachments": 1968,
+  "reactions_total": 3118,
+  "attachments": 2279,
   "channel_activity": {
+    "🔸morimens-game-chat": 4668,
     "🔸general-chat": 6477,
     "🔸game-question": 7998,
     "🔸綜合討論": 3696,
@@ -88,6 +89,15 @@
     "【Newcomer Help】Forum Introduction": 1
   },
   "hourly_activity": {
+    "0": 740,
+    "1": 1671,
+    "2": 1935,
+    "3": 1852,
+    "4": 2266,
+    "5": 2093,
+    "6": 1838,
+    "7": 1801,
+    "8": 1292,
     "14": 2575,
     "15": 2419,
     "16": 2712,
@@ -98,15 +108,6 @@
     "21": 485,
     "22": 393,
     "23": 158,
-    "0": 534,
-    "1": 1107,
-    "2": 1169,
-    "3": 1333,
-    "4": 1516,
-    "5": 1625,
-    "6": 1278,
-    "7": 1186,
-    "8": 1072,
     "9": 1238,
     "10": 1706,
     "11": 1525,
@@ -114,9 +115,8 @@
     "13": 1793
   },
   "message_types": {
-    "19": 1476,
-    "0": 2277,
-    "23": 1
+    "0": 2786,
+    "19": 1882
   },
   "top_reacted_messages": [
     {
@@ -176,6 +176,22 @@
       "channel": "🔸晒卡分享"
     },
     {
+      "id": "1512640059164200991",
+      "channel_id": "1170692781216378960",
+      "content": "me (sorry about the brightness)",
+      "author": "badmoon_rising",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1512721208574083082",
+      "channel_id": "1170692781216378960",
+      "content": "not morimens related ik but do you guys like my sketch",
+      "author": "yippiepilled",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1512759542704898169",
       "channel_id": "1131839817982947429",
       "content": "我的鼠鼠要爆發封印了嗎",
@@ -208,6 +224,14 @@
       "channel": "🔸ห้องสนทนาภาษาไทย"
     },
     {
+      "id": "1512711757326581821",
+      "channel_id": "1170692781216378960",
+      "content": "||she was crushed to death ||",
+      "author": "_venush",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1512754799744127056",
       "channel_id": "1131839817982947429",
       "content": "再多兩個血肉(皮克曼&徐)就塞不下一個畫面了<:Helot_slack_off:1459092159465521184>",
@@ -216,68 +240,44 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1512639361814888488",
+      "channel_id": "1170692781216378960",
+      "content": "Who is all in on Dore today???",
+      "author": "xviith",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1512661013856522320",
+      "channel_id": "1170692781216378960",
+      "content": "F2P BTW",
+      "author": "zettaizer0",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1512721703686639619",
+      "channel_id": "1170692781216378960",
+      "content": "can you tell i like saya",
+      "author": "yippiepilled",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1512724026689060875",
+      "channel_id": "1170692781216378960",
+      "content": "how life feels knowing i’m gonna get oe pollux when he reruns",
+      "author": "xury67",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1512617526629236938",
       "channel_id": "1433513650299076780",
       "content": "i love you pollux",
       "author": "._ingg",
       "reactions": 6,
       "channel": "🔸game-question"
-    },
-    {
-      "id": "1512682795531632690",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1512755357338963988",
-      "channel_id": "1131839817982947429",
-      "content": "自定義繁衍狂熱",
-      "author": "ernest_heart",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1512833793398931596",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "huangyu0876",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1512776099111768195",
-      "channel_id": "1400750050208125010",
-      "content": "I did this shit thinking about the ww x cyberpunk collab <:ramona_tuff_:14414266",
-      "author": "altair_kaslana",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1512907500872007731",
-      "channel_id": "1131839817982947429",
-      "content": "他到底是不是m",
-      "author": "yusi4172",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1512830659394273450",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "xyakoto",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1512862462423335023",
-      "channel_id": "1131839817982947429",
-      "content": "明天抽个地瓜+12",
-      "author": "ponponnyaru",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
     }
   ]
 }
