@@ -1,0 +1,139 @@
+{
+  "date": "2026-07-26",
+  "messages": 161,
+  "unique_authors": 19,
+  "reactions_total": 18,
+  "attachments": 5,
+  "channel_activity": {
+    "なんでも雑談": 60,
+    "誰でも質問": 87,
+    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 10,
+    "ガチャ結果報告": 3,
+    "招待コード共有会": 1
+  },
+  "hourly_activity": {
+    "0": 5,
+    "2": 115,
+    "3": 33,
+    "1": 4,
+    "4": 4
+  },
+  "message_types": {
+    "0": 154,
+    "19": 7
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1530764109447037099",
+      "channel_id": "1377478664609857647",
+      "content": "妖怪ドールで遊びたいのに現状のステージだとボスの体力低いから、終末発動する頃には大抵死んでる(TT)w",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 3,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1530766911623925781",
+      "channel_id": "1400058619726266462",
+      "content": "サルバ使うなら超次元使わないと弱いですね",
+      "author": "zzzorz",
+      "reactions": 2,
+      "channel": "誰でも質問"
+    },
+    {
+      "id": "1530771256285204591",
+      "channel_id": "1400058619726266462",
+      "content": "よし、とりあえず、第1部の高難度を、狂魔＋超次元で進めてみます。",
+      "author": "tianmoheizi_16992",
+      "reactions": 2,
+      "channel": "誰でも質問"
+    },
+    {
+      "id": "1530770639181578290",
+      "channel_id": "1377478664609857647",
+      "content": "ハムにひたすら脳波使ってる\nキャラの固有遺物があるとひたすら極限で解放が回るから脳波が常に０コスコピーで山に残る",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1530772690393104454",
+      "channel_id": "1377478664609857647",
+      "content": "解放使用毎に最終ダメージ上がってリセットされる効果やない？",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1530773842488721498",
+      "channel_id": "1377478664609857647",
+      "content": "最大ダメージ18万ってあるんだけど、これ溶ドールの毒誘発で出たダメージなんよね",
+      "author": "sub0044_36832",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1530774071057584249",
+      "channel_id": "1377478664609857647",
+      "content": "餅なし覚醒なしで",
+      "author": "zzzorz",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1530763338550607994",
+      "channel_id": "1400058619726266462",
+      "content": "何に困ってるかによる",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 1,
+      "channel": "誰でも質問"
+    },
+    {
+      "id": "1530764887016472779",
+      "channel_id": "1400058619726266462",
+      "content": "おじさんをメイン運用する人はこれが多いかな？",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 1,
+      "channel": "誰でも質問"
+    },
+    {
+      "id": "1530765247584145649",
+      "channel_id": "1400058619726266462",
+      "content": "ありがとうございます。この札をつけて、サルバさんの骨肉や解消を山札戻して、繰り返し使うということであっていますでしょうか？",
+      "author": "tianmoheizi_16992",
+      "reactions": 1,
+      "channel": "誰でも質問"
+    },
+    {
+      "id": "1530766180086972588",
+      "channel_id": "1400058619726266462",
+      "content": "そもそもダメージ出す時もあれ使わないとそんなに出ない",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 1,
+      "channel": "誰でも質問"
+    },
+    {
+      "id": "1530767737335316571",
+      "channel_id": "1400058619726266462",
+      "content": "深海が好きならそもそもサルバドル抜く選択肢すらある(笑)",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 1,
+      "channel": "誰でも質問"
+    },
+    {
+      "id": "1530768149618884689",
+      "channel_id": "1400058619726266462",
+      "content": "深海視点サルバをいれてプラスになるのが防御の補強くらい",
+      "author": "zzzorz",
+      "reactions": 1,
+      "channel": "誰でも質問"
+    },
+    {
+      "id": "1530769865915498547",
+      "channel_id": "1400058619726266462",
+      "content": "まーなんでも良きだと思います",
+      "author": "zzzorz",
+      "reactions": 1,
+      "channel": "誰でも質問"
+    }
+  ]
+}
