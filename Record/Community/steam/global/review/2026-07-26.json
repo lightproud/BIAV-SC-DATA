@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
-  "archived_at": "2026-07-26T10:46:13.008203+00:00",
+  "archived_at": "2026-07-26T13:17:43.700749+00:00",
   "source": "steam",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "[负面] the game is a huge time investment. I mean if you...",
@@ -142,6 +142,30 @@
         "playtime_forever": 2814,
         "votes_up": 0,
         "timestamp_created": 1785056781
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] belle intrigue . le seul probleme est la traductio...",
+      "summary": "belle intrigue . le seul probleme est la traduction de chat gpt",
+      "source": "steam_review",
+      "time": "2026-07-26T11:45:59+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199810518100/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199810518100",
+      "tags": [
+        "french"
+      ],
+      "language": "french",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 6745,
+        "votes_up": 0,
+        "timestamp_created": 1785066359
       },
       "region": "global",
       "archive_subtype": "review",

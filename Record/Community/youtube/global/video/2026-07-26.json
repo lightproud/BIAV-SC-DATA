@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
-  "archived_at": "2026-07-26T10:46:12.931507+00:00",
+  "archived_at": "2026-07-26T13:17:43.619688+00:00",
   "source": "youtube",
-  "item_count": 7,
+  "item_count": 10,
   "items": [
     {
       "title": "[Morimens] Extremely short JP stream, trying to finish up another video. Will answer questions.",
@@ -34,6 +34,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/NbTgD09puNI/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "(망각전야)침식·로탄 스킬셋 최초 공개! 이거 정말 S티어 맞을까?",
+      "summary": "morimens #게임 #망각전야 #공략 디스코드 : https://discord.gg/TaDkgyQ35y 치지직 ...",
+      "source": "youtube",
+      "time": "2026-07-26T11:30:19Z",
+      "url": "https://www.youtube.com/watch?v=6yRuAGEkMmY",
+      "engagement": 80,
+      "is_hot": false,
+      "author": "박현(Muyeong)",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/6yRuAGEkMmY/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -107,6 +124,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Morimens \\\\ Обозреваем и крутим Генезис Лотан",
+      "summary": "Соцсети: Стримы на твич: https://twitch.tv/closetom Информация по стримам \\\\ Ирл контент \\\\ Общаемся по игре: ...",
+      "source": "youtube",
+      "time": "2026-07-26T12:28:34Z",
+      "url": "https://www.youtube.com/watch?v=Bfo80mM4n50",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Closetom",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/Bfo80mM4n50/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Morimens Chapter 7 Boss fight 7th day 3rd attempt",
       "summary": "",
       "source": "youtube",
@@ -119,6 +153,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/RUJDb1nmbT4/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "『忘却前夜/対人戦』遂に対人戦にて５千PTへ到達していました！『ゲーム実況』",
+      "summary": "『忘却前夜』オンラインプレイヤーとの対戦動画です！ 今回は対人戦でのレートが初めての５千達成ということで、 前シーズンに ...",
+      "source": "youtube",
+      "time": "2026-07-26T13:09:39Z",
+      "url": "https://www.youtube.com/watch?v=kA6SiGpYL_I",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "薄めの『ゆゆ』",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/kA6SiGpYL_I/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
