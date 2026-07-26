@@ -1,35 +1,38 @@
 {
   "date": "2026-07-26",
-  "messages": 279,
+  "messages": 391,
   "unique_authors": 25,
-  "reactions_total": 79,
-  "attachments": 21,
+  "reactions_total": 122,
+  "attachments": 30,
   "channel_activity": {
-    "なんでも雑談": 139,
+    "なんでも雑談": 245,
+    "忘却前夜絵を密かに載せます": 2,
+    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 12,
+    "つぶやき": 7,
     "🔰初心者質問": 25,
     "誰でも質問": 91,
-    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 11,
     "ニムフィーアの毒パ研究日誌": 4,
     "幻夢ボス別ステージ入口スクショ": 1,
-    "つぶやき": 4,
     "ガチャ結果報告": 3,
     "招待コード共有会": 1
   },
   "hourly_activity": {
+    "9": 80,
+    "10": 32,
+    "11": 1,
     "4": 21,
     "5": 18,
     "6": 20,
     "7": 20,
     "8": 42,
-    "9": 1,
     "0": 5,
     "2": 115,
     "3": 33,
     "1": 4
   },
   "message_types": {
-    "0": 104,
-    "19": 14
+    "0": 97,
+    "19": 15
   },
   "top_reacted_messages": [
     {
@@ -49,6 +52,22 @@
       "channel": "なんでも雑談"
     },
     {
+      "id": "1530871310639562883",
+      "channel_id": "1377478664609857647",
+      "content": "改めてキャラ一覧眺めてたら、沙耶って忘却キャラの中に紛れてもヴィジュアル違和感無いな",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 4,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1530876475455176827",
+      "channel_id": "1377478664609857647",
+      "content": "うわーん、タイスのケツオープニングまた見たいよぉ！",
+      "author": "yamaiame_ql4",
+      "reactions": 4,
+      "channel": "なんでも雑談"
+    },
+    {
       "id": "1530797618144481291",
       "channel_id": "1377478664609857647",
       "content": "なんか寝ぼけてたんでしょうね。\n彼女が色々パワーアップしてた",
@@ -62,6 +81,14 @@
       "content": "守秘者レベル50まで上がってようやく覚醒体を60レベルまで強化出来るようになった<:chiiin:1390953055800791232>",
       "author": "neco9900",
       "reactions": 4,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1530872589566873653",
+      "channel_id": "1377478664609857647",
+      "content": "イラストレーターの技量と拘り感じて良いね",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 3,
       "channel": "なんでも雑談"
     },
     {
@@ -97,6 +124,62 @@
       "channel": "なんでも雑談"
     },
     {
+      "id": "1530873232184573954",
+      "channel_id": "1377478664609857647",
+      "content": "忘却の墨溜まりがある線が好き",
+      "author": "namenemue3",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1530877525453180948",
+      "channel_id": "1377478664609857647",
+      "content": "~~マフィ:はぁ?~~",
+      "author": "foxcatfurry",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1530877808249802954",
+      "channel_id": "1377478664609857647",
+      "content": "||触手スーツ||ってコト…？",
+      "author": "altiar_zain",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1530878371116875816",
+      "channel_id": "1377478664609857647",
+      "content": "やはり触手はいい",
+      "author": "yamaiame_ql4",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1530878885116379322",
+      "channel_id": "1377478664609857647",
+      "content": "情報なし",
+      "author": "foxcatfurry",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1530867126980706365",
+      "channel_id": "1529223263568269474",
+      "content": "終章が苦しいので妄想ifを",
+      "author": "teba04444",
+      "reactions": 2,
+      "channel": "忘却前夜絵を密かに載せます"
+    },
+    {
+      "id": "1530882123580313620",
+      "channel_id": "1458760640351965361",
+      "content": "https://discord.com/channels/1131791637933199470/1530873918561190041",
+      "author": "foxcatfurry",
+      "reactions": 2,
+      "channel": "つぶやき"
+    },
+    {
       "id": "1530853995076386896",
       "channel_id": "1377478664609857647",
       "content": "うん相変わらずヤバいねこいつ",
@@ -110,86 +193,6 @@
       "content": "計算したら800％だったから",
       "author": "zzzorz",
       "reactions": 2,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1530860344908578858",
-      "channel_id": "1377478664609857647",
-      "content": "商店の何とかの珠の説明から飛べる",
-      "author": "niyaku",
-      "reactions": 2,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1530800896366084178",
-      "channel_id": "1391701560496623688",
-      "content": "<:naiteru:1390952987819769856> <:naiteru:1390952987819769856> <:naiteru:13909529",
-      "author": "omame0553_04990",
-      "reactions": 2,
-      "channel": "🔰初心者質問"
-    },
-    {
-      "id": "1530766911623925781",
-      "channel_id": "1400058619726266462",
-      "content": "サルバ使うなら超次元使わないと弱いですね",
-      "author": "zzzorz",
-      "reactions": 2,
-      "channel": "誰でも質問"
-    },
-    {
-      "id": "1530771256285204591",
-      "channel_id": "1400058619726266462",
-      "content": "よし、とりあえず、第1部の高難度を、狂魔＋超次元で進めてみます。",
-      "author": "tianmoheizi_16992",
-      "reactions": 2,
-      "channel": "誰でも質問"
-    },
-    {
-      "id": "1530814040295604286",
-      "channel_id": "1377478664609857647",
-      "content": "",
-      "author": "chabo.chabo",
-      "reactions": 1,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1530815922930061354",
-      "channel_id": "1377478664609857647",
-      "content": "おめでとうございます",
-      "author": "blootrain13",
-      "reactions": 1,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1530816354884649101",
-      "channel_id": "1377478664609857647",
-      "content": "おめでとうございます！",
-      "author": "orutahu",
-      "reactions": 1,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1530816479694684181",
-      "channel_id": "1377478664609857647",
-      "content": "おめでとうございます(((o(*ﾟ▽ﾟ*)o)))",
-      "author": "kikyo9183",
-      "reactions": 1,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1530816658162188419",
-      "channel_id": "1377478664609857647",
-      "content": "<:Hameln_love:1468257934348783749>",
-      "author": "yasaizujusu",
-      "reactions": 1,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1530816747253530635",
-      "channel_id": "1377478664609857647",
-      "content": "<:_amakipGod:1501207914059137044>",
-      "author": "altiar_zain",
-      "reactions": 1,
       "channel": "なんでも雑談"
     }
   ]
