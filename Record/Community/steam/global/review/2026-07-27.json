@@ -1,8 +1,8 @@
 {
   "date": "2026-07-27",
-  "archived_at": "2026-07-27T12:22:28.164886+00:00",
+  "archived_at": "2026-07-27T16:58:22.282265+00:00",
   "source": "steam",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] such a good game, everyone should play it <33",
@@ -142,6 +142,30 @@
         "playtime_forever": 12257,
         "votes_up": 0,
         "timestamp_created": 1785145429
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 第一次接触这种类型的游戏（算是吧 之前玩过一阵子白荆回廊）意外发现还挺有意思的ww",
+      "summary": "第一次接触这种类型的游戏（算是吧 之前玩过一阵子白荆回廊）意外发现还挺有意思的ww",
+      "source": "steam_review",
+      "time": "2026-07-27T13:29:34+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198679890229/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198679890229",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 415,
+        "votes_up": 0,
+        "timestamp_created": 1785158974
       },
       "region": "global",
       "archive_subtype": "review",

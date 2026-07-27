@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-28",
+  "archived_at": "2026-07-27T16:58:22.206784+00:00",
+  "source": "youtube",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Morimens] The whale falls on us ~ Genesis Lotan is finally here? My lovely striking whale queen!",
+      "summary": "Yoz everyone, I'm Rozarai, a undead virtual YouTuber. Welcome to my stream and enjoy your stay! Socials Twitter: ...",
+      "source": "youtube",
+      "time": "2026-07-27T16:53:44Z",
+      "url": "https://www.youtube.com/watch?v=CPjEhZi2skc",
+      "engagement": 29,
+      "is_hot": false,
+      "author": "Roz Arai Ch.",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/CPjEhZi2skc/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens รีวิว+วิธีเล่น การสูญสลาย°โรทัน (Lotan Cetarchon)",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-07-27T16:54:31Z",
+      "url": "https://www.youtube.com/watch?v=bEENd5p9ARE",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "RandomWithEndfield",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/bEENd5p9ARE/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "video"
+}
