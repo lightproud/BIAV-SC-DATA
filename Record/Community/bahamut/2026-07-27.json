@@ -1,8 +1,8 @@
 {
   "date": "2026-07-27",
-  "archived_at": "2026-07-27T06:30:43.054069+00:00",
+  "archived_at": "2026-07-27T12:22:28.057156+00:00",
   "source": "bahamut",
-  "item_count": 22,
+  "item_count": 23,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -50,6 +50,19 @@
       "time": "2026-07-26T16:01:16.174990+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1495&tnum=2",
       "engagement": 71,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【版本前瞻】2.5.3 直至鯨天殞落版本重點整理",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-07-27T12:21:01.347245+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1506&tnum=2",
+      "engagement": 59,
       "is_hot": false,
       "author": "t12345825",
       "tags": [],

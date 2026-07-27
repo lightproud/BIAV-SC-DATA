@@ -1,9 +1,26 @@
 {
   "date": "2026-07-27",
-  "archived_at": "2026-07-27T06:30:43.062077+00:00",
+  "archived_at": "2026-07-27T12:22:28.057713+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
+    {
+      "title": "[Steam论坛] Invitation Code",
+      "summary": "1D1EGZ10U1",
+      "source": "steam_discussion",
+      "time": "2026-07-27T12:09:18+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/603039786130771940/",
+      "engagement": 218,
+      "is_hot": true,
+      "author": "Znye",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
     {
       "title": "[Steam论坛] Who should I pull for in the Triune Verdant Banner?",
       "summary": "Hellot: Catena, Corposanct or Pollux?",
@@ -13,6 +30,23 @@
       "engagement": 8,
       "is_hot": false,
       "author": "Kalderman (Ain't it nice?)",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] I enjoy the story, but I do wish this wasn't a gacha.",
+      "summary": "New player here, clocked in almost 14 hours so far, finished chapter 1 with a team of Lv.3s and chapter 2 with a team of Lv.10s, I was actually struggling a fair bit in chapter 2 cause the recommended level was steadily ramping due to me not touching the gacha part of the game, but that doesn't mean I'm a stranger to it, it's just that while I enjoy the story I would prefer it to not have the usual stuff (Farm ascension mats, farm skill mats, farm equipment RNG substats and stats, farm the card",
+      "source": "steam_discussion",
+      "time": "2026-07-27T11:18:50+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/594062684485481303/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Monday",
       "tags": [
         "steam_forum"
       ],

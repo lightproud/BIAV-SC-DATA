@@ -1,8 +1,8 @@
 {
   "date": "2026-07-27",
-  "archived_at": "2026-07-27T06:30:43.115090+00:00",
+  "archived_at": "2026-07-27T12:22:28.164886+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "[正面] such a good game, everyone should play it <33",
@@ -118,6 +118,30 @@
         "playtime_forever": 17598,
         "votes_up": 0,
         "timestamp_created": 1785104814
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 福利很好，让我每个角色都能吃满90抽大保底",
+      "summary": "福利很好，让我每个角色都能吃满90抽大保底",
+      "source": "steam_review",
+      "time": "2026-07-27T09:43:49+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199357643775/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199357643775",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 12257,
+        "votes_up": 0,
+        "timestamp_created": 1785145429
       },
       "region": "global",
       "archive_subtype": "review",
