@@ -1,30 +1,53 @@
 {
   "date": "2026-07-26",
-  "messages": 1912,
-  "unique_authors": 206,
-  "reactions_total": 251,
-  "attachments": 112,
+  "messages": 7310,
+  "unique_authors": 283,
+  "reactions_total": 711,
+  "attachments": 398,
   "channel_activity": {
-    "🔸綜合討論": 435,
-    "🔸剧情交流": 4,
+    "🔸綜合討論": 987,
+    "🔸剧情交流": 6,
+    "🔸相位对弈": 53,
+    "🔸课间休息闲聊": 152,
+    "🔸日本語チャンネル": 2,
+    "🔸한국어-채팅방": 14,
+    "🔸chaîne-française": 9,
+    "🔸русский-канал": 454,
+    "🔸phòng-chat-tiếng-việt": 398,
+    "🔸canal-español": 32,
+    "🔸canal-português": 493,
+    "🔸ruang-obrolan-indonesia": 369,
+    "🔸ห้องสนทนาภาษาไทย": 400,
+    "🔸traphase": 83,
+    "🔸lore-chat": 279,
+    "🔸lets-count": 13,
+    "🔸team-building": 1172,
+    "🔸邀请码互助┊swap-invitation-codes": 2,
+    "🔸game-question": 2093,
+    "🔸机器人命令┊bot-commands": 31,
+    "全深海角一圖流與簡短介紹（未完": 1,
+    "自制一图流（沙耶beta版）（仅供参考）": 1,
+    "打算開一個圖樓可能圖之後就丟這裡了": 2,
+    "Divine Realms, Aliemus Costs and other Future Worries": 18,
+    "Divine Verdict triggering at 0HP": 14,
+    "台服PC端疑問": 3,
+    "Is it allowed to commission artists on Skeb to draw Morimens characters?": 8,
+    "相位对弈的力量词缀": 12,
+    "Is there anything i can do in the case of impossible to complete missions?": 21,
+    "寻找成就": 1,
+    "關於日服沒有好友上限這事": 2,
+    "Please rework how Propagation Caro works for the future units": 4,
+    "V2.5.3.0 停服维护公告": 21,
+    "V2.5.1.0 停服维护公告": 16,
+    "Elton WIP": 1,
+    "Doodle in nutshell and meme": 4,
+    "morimens team generator!!": 15,
+    "V2.5.3 蚀灭·萝坦✦唤醒体&命轮介绍┊Lotan: Cetarchon✦Awakener & Wheel of Destiny Introduction┊침식·로탄✦각성체 & 명륜 소개": 46,
+    "求融災組隊，目標350+": 1,
+    "Started a week ago. Need some Advice": 9,
+    "New Player, advise on pulling and teams": 9,
     "🔸晒卡分享": 1,
-    "🔸相位对弈": 6,
-    "🔸课间休息闲聊": 14,
-    "🔸日本語チャンネル": 1,
-    "🔸한국어-채팅방": 7,
     "🔸deutscher-chatraum": 4,
-    "🔸русский-канал": 29,
-    "🔸phòng-chat-tiếng-việt": 71,
-    "🔸canal-español": 4,
-    "🔸canal-português": 71,
-    "🔸ruang-obrolan-indonesia": 64,
-    "🔸ห้องสนทนาภาษาไทย": 27,
-    "🔸traphase": 35,
-    "🔸lore-chat": 121,
-    "🔸lets-count": 10,
-    "🔸team-building": 463,
-    "🔸game-question": 449,
-    "🔸机器人命令┊bot-commands": 11,
     "我不是角色黑": 1,
     "这个那个": 1,
     "堆图ing": 1,
@@ -33,19 +56,29 @@
     "✅「已回答」【相位对弈】请写明词条效果可生效的对象": 1,
     "Can we increase Arcane Dominion runs?": 1,
     "✅「Answered」Spellbound doesnt work. Why is Lily poison worse than prebuff?": 2,
-    "Please rework how Propagation Caro works for the future units": 2,
     "希望能分辨牌堆中的同名卡是處于抽牌堆還是棄牌堆": 3,
-    "V2.5.3.0 停服维护公告": 13,
     "台服PC包體資料更新異常問題說明及解決方案": 1,
-    "V2.5.1.0 停服维护公告": 8,
     "Murphy ☃️": 1,
     "Morimens Timeline Megasheet (and other Miscellaneous lore stuff)": 1,
-    "V2.5.3 蚀灭·萝坦✦唤醒体&命轮介绍┊Lotan: Cetarchon✦Awakener & Wheel of Destiny Introduction┊침식·로탄✦각성체 & 명륜 소개": 3,
     "Returning Player Advice on Pulling & Teams": 35,
-    "How retroactive is this?": 4,
-    "New Player, advise on pulling and teams": 5
+    "How retroactive is this?": 4
   },
   "hourly_activity": {
+    "9": 459,
+    "10": 318,
+    "11": 790,
+    "12": 304,
+    "13": 531,
+    "14": 575,
+    "15": 280,
+    "16": 211,
+    "17": 242,
+    "19": 299,
+    "20": 667,
+    "21": 262,
+    "22": 84,
+    "23": 119,
+    "18": 275,
     "0": 223,
     "1": 282,
     "2": 142,
@@ -54,15 +87,38 @@
     "5": 238,
     "6": 259,
     "7": 268,
-    "8": 144,
-    "9": 18
+    "8": 144
   },
   "message_types": {
-    "19": 413,
-    "0": 1490,
-    "20": 9
+    "0": 4146,
+    "19": 1242,
+    "20": 10
   },
   "top_reacted_messages": [
+    {
+      "id": "1530873918561190041",
+      "channel_id": "1530873918561190041",
+      "content": "i just got to his backstory in chapter 6 and i ended up really wanting to draw h",
+      "author": "luluwy",
+      "reactions": 23,
+      "channel": "Elton WIP"
+    },
+    {
+      "id": "1530865626753798271",
+      "channel_id": "1530865626753798271",
+      "content": "",
+      "author": "noeyebunny.nobunsu",
+      "reactions": 21,
+      "channel": "Doodle in nutshell and meme"
+    },
+    {
+      "id": "1531036924922564858",
+      "channel_id": "1531036924922564858",
+      "content": "I would like to preface this with the fact that I love the game, have been stick",
+      "author": "bagels5899",
+      "reactions": 16,
+      "channel": "Divine Realms, Aliemus Costs and other Future Worries"
+    },
     {
       "id": "1530788170948411574",
       "channel_id": "1131839817982947429",
@@ -78,6 +134,38 @@
       "author": "water_heart",
       "reactions": 10,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530948182706618398",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "heikwok",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530877834736959669",
+      "channel_id": "1180850818509971466",
+      "content": "6000分了，我不打了，全是地瓜+栗子<:Winkle_cry:1356082134447558748>",
+      "author": "ka_0414",
+      "reactions": 8,
+      "channel": "🔸相位对弈"
+    },
+    {
+      "id": "1530898678074708138",
+      "channel_id": "1131839817982947429",
+      "content": "你也可以叫我區",
+      "author": "quackdayo",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531036948255346688",
+      "channel_id": "1531036924922564858",
+      "content": "# ->\nSecondly, and the more worrying, since Saya characters have had extremely h",
+      "author": "bagels5899",
+      "reactions": 7,
+      "channel": "Divine Realms, Aliemus Costs and other Future Worries"
     },
     {
       "id": "1530807872114524231",
@@ -104,6 +192,14 @@
       "channel": "🔸课间休息闲聊"
     },
     {
+      "id": "1530927010044710942",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
       "id": "1530833345443926196",
       "channel_id": "1131839817982947429",
       "content": "還有黃金熊",
@@ -128,99 +224,35 @@
       "channel": "V2.5.3.0 停服维护公告"
     },
     {
+      "id": "1530957634625081515",
+      "channel_id": "1180850818509971466",
+      "content": "蘿坦！綻放你真正的女性魅力吧啊啊啊啊啊啊啊啊",
+      "author": "hon_ey0",
+      "reactions": 5,
+      "channel": "🔸相位对弈"
+    },
+    {
+      "id": "1530977378304655392",
+      "channel_id": "1180850818509971466",
+      "content": "是說羅坦把🐳丟出去不就是射🐳了嗎…",
+      "author": "akkom730",
+      "reactions": 5,
+      "channel": "🔸相位对弈"
+    },
+    {
+      "id": "1530879819644932156",
+      "channel_id": "1241345906826153984",
+      "content": "挖空的地方比我想像的還要透明有點小可惜",
+      "author": "yolo_mode",
+      "reactions": 5,
+      "channel": "打算開一個圖樓可能圖之後就丟這裡了"
+    },
+    {
       "id": "1530827637054771290",
       "channel_id": "1131839817982947429",
       "content": "靠忘却赚的钱又充回忘却，完美闭环",
       "author": "ponponnyaru",
       "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530841218190409808",
-      "channel_id": "1131839817982947429",
-      "content": "沾無糖綠",
-      "author": "ahuahuahua",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530847311008235600",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530772155665616987",
-      "channel_id": "1131839817982947429",
-      "content": "一堆佬言佬語",
-      "author": "ahuahuahua",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530805540018458685",
-      "channel_id": "1131839817982947429",
-      "content": "醫生拿哪個<:Aurita_please:1356053110375714817>",
-      "author": "kalpiko.",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530825769750761472",
-      "channel_id": "1131839817982947429",
-      "content": "本来の覚醒効果\nこのターンに他の味方が解放するたび、溶壊ドールの解放のクリティカル率、ライフ回復、毒効果発動の基礎効果が10％ずつ増加。3回まで発動。\n実際の覚",
-      "author": "foxcatfurry",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530836674567737466",
-      "channel_id": "1131839817982947429",
-      "content": "印一堆女王剑然后靠余波拿银",
-      "author": "sweet_25367",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530739872606982154",
-      "channel_id": "1326453763355185215",
-      "content": "I couldn't take the story seriously at all because I kept imagining Caraboo in p",
-      "author": "eresh69",
-      "reactions": 4,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1530794704206041189",
-      "channel_id": "1326453763355185215",
-      "content": "what if the boo were the fake out for the real big bad",
-      "author": "arsenyx_9999",
-      "reactions": 4,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1530834006961160252",
-      "channel_id": "1326453763355185215",
-      "content": "and thats why she evolved to glotan",
-      "author": "nikolazuli",
-      "reactions": 4,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1530796566133346454",
-      "channel_id": "1530796566133346454",
-      "content": "https://x.com/SaminDraws/status/2081232805841743946?s=20",
-      "author": "samin_",
-      "reactions": 4,
-      "channel": "Murphy ☃️"
-    },
-    {
-      "id": "1530774878402252811",
-      "channel_id": "1131839817982947429",
-      "content": "現在就想了",
-      "author": "a_wei3797",
-      "reactions": 3,
       "channel": "🔸綜合討論"
     }
   ]

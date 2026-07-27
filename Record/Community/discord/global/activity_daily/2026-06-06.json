@@ -1,11 +1,11 @@
 {
   "date": "2026-06-06",
-  "messages": 35326,
+  "messages": 40326,
   "unique_authors": 603,
-  "reactions_total": 3118,
-  "attachments": 2279,
+  "reactions_total": 3561,
+  "attachments": 2490,
   "channel_activity": {
-    "🔸morimens-game-chat": 4668,
+    "🔸morimens-game-chat": 9668,
     "🔸general-chat": 6477,
     "🔸game-question": 7998,
     "🔸綜合討論": 3696,
@@ -89,6 +89,17 @@
     "【Newcomer Help】Forum Introduction": 1
   },
   "hourly_activity": {
+    "8": 1440,
+    "9": 1718,
+    "10": 2185,
+    "11": 1971,
+    "12": 1245,
+    "13": 2234,
+    "14": 3089,
+    "15": 2846,
+    "16": 3279,
+    "17": 2026,
+    "18": 1208,
     "0": 740,
     "1": 1671,
     "2": 1935,
@@ -97,26 +108,15 @@
     "5": 2093,
     "6": 1838,
     "7": 1801,
-    "8": 1292,
-    "14": 2575,
-    "15": 2419,
-    "16": 2712,
-    "17": 1485,
-    "18": 768,
     "19": 915,
     "20": 938,
     "21": 485,
     "22": 393,
-    "23": 158,
-    "9": 1238,
-    "10": 1706,
-    "11": 1525,
-    "12": 728,
-    "13": 1793
+    "23": 158
   },
   "message_types": {
-    "0": 2786,
-    "19": 1882
+    "0": 3108,
+    "19": 1892
   },
   "top_reacted_messages": [
     {
@@ -224,6 +224,14 @@
       "channel": "🔸ห้องสนทนาภาษาไทย"
     },
     {
+      "id": "1512859761056550954",
+      "channel_id": "1170692781216378960",
+      "content": "I am finally gonna stop pulling kaleido. Ive ran out of resources 😭 , no more ac",
+      "author": "kirarane",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1512711757326581821",
       "channel_id": "1170692781216378960",
       "content": "||she was crushed to death ||",
@@ -240,6 +248,22 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1512807543779623102",
+      "channel_id": "1170692781216378960",
+      "content": "I started in August 2024, and im only 76",
+      "author": "brainrot_in_a_vat",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1512813509212242153",
+      "channel_id": "1170692781216378960",
+      "content": "pay2win for 3 per day",
+      "author": "arintal_s",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1512639361814888488",
       "channel_id": "1170692781216378960",
       "content": "Who is all in on Dore today???",
@@ -254,30 +278,6 @@
       "author": "zettaizer0",
       "reactions": 6,
       "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1512721703686639619",
-      "channel_id": "1170692781216378960",
-      "content": "can you tell i like saya",
-      "author": "yippiepilled",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1512724026689060875",
-      "channel_id": "1170692781216378960",
-      "content": "how life feels knowing i’m gonna get oe pollux when he reruns",
-      "author": "xury67",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1512617526629236938",
-      "channel_id": "1433513650299076780",
-      "content": "i love you pollux",
-      "author": "._ingg",
-      "reactions": 6,
-      "channel": "🔸game-question"
     }
   ]
 }

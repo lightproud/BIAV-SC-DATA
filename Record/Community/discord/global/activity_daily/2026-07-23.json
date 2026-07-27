@@ -1,11 +1,11 @@
 {
   "date": "2026-07-23",
-  "messages": 13085,
+  "messages": 17316,
   "unique_authors": 332,
-  "reactions_total": 1861,
-  "attachments": 601,
+  "reactions_total": 2101,
+  "attachments": 770,
   "channel_activity": {
-    "🔸general-chat": 3228,
+    "🔸general-chat": 7459,
     "🔸綜合討論": 2257,
     "🔸阵容构建": 40,
     "🔸晒卡分享": 3,
@@ -70,6 +70,18 @@
     "Where to invest standard pulls?": 1
   },
   "hourly_activity": {
+    "12": 1336,
+    "13": 1500,
+    "14": 1247,
+    "15": 1705,
+    "16": 1222,
+    "17": 960,
+    "18": 462,
+    "19": 752,
+    "20": 476,
+    "21": 198,
+    "22": 332,
+    "23": 357,
     "0": 350,
     "1": 406,
     "2": 605,
@@ -81,23 +93,11 @@
     "8": 1090,
     "9": 909,
     "10": 1004,
-    "11": 671,
-    "12": 1147,
-    "13": 1031,
-    "14": 601,
-    "15": 952,
-    "16": 514,
-    "17": 467,
-    "18": 175,
-    "19": 471,
-    "20": 419,
-    "21": 106,
-    "22": 215,
-    "23": 218
+    "11": 671
   },
   "message_types": {
-    "0": 1857,
-    "19": 1366,
+    "19": 2002,
+    "0": 2224,
     "20": 5
   },
   "top_reacted_messages": [
@@ -172,6 +172,14 @@
       "author": "aurora3981",
       "reactions": 8,
       "channel": "V2.5.3 战斗吧守密人┊Ready to Fight, Keeper?┊겨루어라, 수호자여"
+    },
+    {
+      "id": "1529873314447757532",
+      "channel_id": "1400750050208125010",
+      "content": "donnt be a vergil great granny",
+      "author": "the_saviour777",
+      "reactions": 7,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1529833716908687432",
@@ -250,14 +258,6 @@
       "channel_id": "1400750050208125010",
       "content": "Here viy choco capybara for you",
       "author": "leviathxan",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1529772985437650954",
-      "channel_id": "1400750050208125010",
-      "content": "They did it again I think",
-      "author": "bruhlucifer",
       "reactions": 5,
       "channel": "🔸general-chat"
     }
