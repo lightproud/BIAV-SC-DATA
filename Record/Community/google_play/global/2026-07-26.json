@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
-  "archived_at": "2026-07-26T22:00:06.684158+00:00",
+  "archived_at": "2026-07-27T02:42:50.873485+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 好评] ★5 in the span of 2ish months (100 hours of",
@@ -44,6 +44,20 @@
       "tags": [],
       "lang": "zh",
       "platform_region": "cn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 simplemente hermoso el juego",
+      "summary": "simplemente hermoso el juego",
+      "source": "google_play",
+      "time": "2026-07-25T22:08:21",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-2e54c52d-a2d6-43a6-a8ee-949fd7e915aa",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ronny Romero",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "es",
       "region": "global"
     }
   ],

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-27",
-  "archived_at": "2026-07-26T22:00:06.551499+00:00",
+  "archived_at": "2026-07-27T02:42:50.735603+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Steam论坛] Who should I pull for in the Triune Verdant Banner?",
@@ -13,6 +13,23 @@
       "engagement": 8,
       "is_hot": false,
       "author": "Kalderman (Ain't it nice?)",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] Как получить &quot;Ядро перерождения&quot;?",
+      "summary": "недавно вернулась в игру и зашла как к себе, так и к подруге на аккаунт. играли мы одинаково (я чуть дольше), но у нее на акке появилось \"Ядро перерождения\" - этакий селектор любого персонажа, а у меня - нет. я точно уверена, что у меня его никогда не было/я его никогда не использовала. м...",
+      "source": "steam_discussion",
+      "time": "2026-07-26T23:54:31+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/594062684485456508/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "выходное пособие",
       "tags": [
         "steam_forum"
       ],

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
-  "archived_at": "2026-07-26T22:00:06.542235+00:00",
+  "archived_at": "2026-07-27T02:42:50.725627+00:00",
   "source": "bilibili",
-  "item_count": 16,
+  "item_count": 18,
   "items": [
     {
       "title": "每天八杯血",
@@ -97,6 +97,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "忘却前夜 杜勒打熔朵 癫狂列车",
+      "summary": "背景音乐：F.R.K. @ B.I.A.V. Studio - &quot;忘却之歌(いとうかなこ Ver.)&quot;",
+      "source": "bilibili",
+      "time": "2026-07-26T11:17:22+00:00",
+      "url": "https://www.bilibili.com/video/BV1Nb3E6xEex",
+      "engagement": 146,
+      "is_hot": false,
+      "author": "夢遊遊遊遊",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 146,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/345391fd10abf5386dfbd5122258b4da8400366a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "『臻品全景声3.0』音质《沙耶の唄》珍爱这朵花的人，有一个就足够了",
       "summary": "-\n  └ 小龙猫大能力 (1赞): 封面图+背景图\n  └ 禹汁波那撸托 (1赞): [吃瓜][吃瓜]\n  └ 耕司青海瑶 (1赞): [打call][打call][打call]",
       "source": "bilibili",
@@ -115,6 +138,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/cbb473fddd15205ed1c2e1993e1de40669b70531.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "有0个人能懂这队到底怎么打过的",
+      "summary": "神人配队还在发力\n  └ 芙拉普利菌 (0赞): 有专造的莉莉生存还是太超模了\n  └ 唬隌洳鄞 (0赞): 大佬喵\n  └ 告别千年之旅 (0赞): 这关我也用的莉莉，拖到最后75%无底创痕过了",
+      "source": "bilibili",
+      "time": "2026-07-26T13:17:37+00:00",
+      "url": "https://www.bilibili.com/video/BV1vyg96MEiD",
+      "engagement": 122,
+      "is_hot": false,
+      "author": "kokawa川",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 119,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/7175a7c90194afb6781b61b44121d2dacef3e11d.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

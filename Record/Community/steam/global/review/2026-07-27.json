@@ -1,0 +1,130 @@
+{
+  "date": "2026-07-27",
+  "archived_at": "2026-07-27T02:42:50.829215+00:00",
+  "source": "steam",
+  "item_count": 5,
+  "items": [
+    {
+      "title": "[正面] such a good game, everyone should play it <33",
+      "summary": "such a good game, everyone should play it <33",
+      "source": "steam_review",
+      "time": "2026-07-27T02:10:20+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199811643437/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199811643437",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 5574,
+        "votes_up": 0,
+        "timestamp_created": 1785118220
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Love the immersive narrative experience driven by...",
+      "summary": "Love the immersive narrative experience driven by steampunk meets dark fantasy world, soundtrack is awesome, unique art style, and the detective investigation themes are very intriguing",
+      "source": "steam_review",
+      "time": "2026-07-26T23:49:14+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199651179760/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199651179760",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 195,
+        "votes_up": 0,
+        "timestamp_created": 1785109754
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] у меня вообще игра не запускается?\nв смысле даже э...",
+      "summary": "у меня вообще игра не запускается?\nв смысле даже экрана загрузки нету",
+      "source": "steam_review",
+      "time": "2026-07-26T23:49:08+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198406087348/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198406087348",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3614,
+        "votes_up": 0,
+        "timestamp_created": 1785109748
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] ㅤ",
+      "summary": "ㅤ",
+      "source": "steam_review",
+      "time": "2026-07-26T23:29:40+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199185609382/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199185609382",
+      "tags": [
+        "tchinese"
+      ],
+      "language": "tchinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 356,
+        "votes_up": 0,
+        "timestamp_created": 1785108580
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 经典骗氪网游。\r\n只能说喜欢花钱玩抽卡游戏的那种，还是很对味的。与此同时，不把玩家当人、平衡性不好、...",
+      "summary": "经典骗氪网游。\r\n只能说喜欢花钱玩抽卡游戏的那种，还是很对味的。与此同时，不把玩家当人、平衡性不好、游戏性弱、禁用词多的国风特点也是一点没落。\r\n真的有些勾起我的创伤回忆了。我不知道如今世界发生了什么，但是童年时记忆的快乐游戏的厂商都不见了，取而代之的是一大堆模板化、同质化、骗氪化的垃圾游戏蓬勃发展。\r\n不推荐游玩。",
+      "source": "steam_review",
+      "time": "2026-07-26T22:26:54+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198253832125/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198253832125",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 17598,
+        "votes_up": 0,
+        "timestamp_created": 1785104814
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-27",
-  "archived_at": "2026-07-26T22:00:06.542944+00:00",
+  "archived_at": "2026-07-27T02:42:50.726447+00:00",
   "source": "youtube",
-  "item_count": 8,
+  "item_count": 10,
   "items": [
     {
       "title": "Horla edit | Morimens",
@@ -56,6 +56,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Directo relax Morimens | Sacando a el nuevo personaje Lotan: Cetarchon",
+      "summary": "No olviden unirse al discord :). https://discord.gg/UgmMCae3Sg.",
+      "source": "youtube",
+      "time": "2026-07-27T02:03:10Z",
+      "url": "https://www.youtube.com/watch?v=5AQ0Mq3p8zY",
+      "engagement": 25,
+      "is_hot": false,
+      "author": "OcteKG",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/5AQ0Mq3p8zY/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "망각전야Morimens) (대리뽑,상담시청가능) 로탄까지 단 하루",
       "summary": "망각전야 #Morimens #이터널리턴.",
       "source": "youtube",
@@ -85,6 +102,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/FDCbFCPN-7Y/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "We Face Aigis&#39; Most Dangerous Form | Morimens Ep. 6",
+      "summary": "Welcome back to our Morimens playthrough! In Episode 6, we face one of our toughest challenges yet. First, we take on Aigis in ...",
+      "source": "youtube",
+      "time": "2026-07-26T22:00:00Z",
+      "url": "https://www.youtube.com/watch?v=YbAxeTdRJMs",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Dread Tmrw",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/YbAxeTdRJMs/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
