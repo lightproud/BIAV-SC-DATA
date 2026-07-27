@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
-  "archived_at": "2026-07-27T02:42:50.873485+00:00",
+  "archived_at": "2026-07-27T06:30:43.159864+00:00",
   "source": "google_play",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
     {
       "title": "[Google Play 好评] ★5 in the span of 2ish months (100 hours of",
@@ -58,6 +58,34 @@
       "tags": [],
       "lang": "es",
       "platform_region": "es",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 game filled with eldritch abominations.",
+      "summary": "game filled with eldritch abominations. Simply Phenomenal!! I am the target audience!",
+      "source": "google_play",
+      "time": "2026-07-26T05:18:24",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-423a82c3-5318-4633-9891-53e4c9bccba8",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "namita srivastava1985",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 good, but the gameplay is a bit boring f",
+      "summary": "good, but the gameplay is a bit boring for me. maybe i'm just not the person who enjoys those kinds of gameplay. The character design is good too",
+      "source": "google_play",
+      "time": "2026-07-26T04:21:20",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-054822e1-f0c7-47f0-a748-fe43289464ee",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "rein",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],

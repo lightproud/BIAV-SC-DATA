@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
-  "archived_at": "2026-07-27T02:42:50.725627+00:00",
+  "archived_at": "2026-07-27T06:30:43.053277+00:00",
   "source": "bilibili",
-  "item_count": 18,
+  "item_count": 20,
   "items": [
     {
       "title": "每天八杯血",
@@ -166,6 +166,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "忘却前夜融灾400（7.20-8.2）",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-26T14:53:21+00:00",
+      "url": "https://www.bilibili.com/video/BV1b5g96fE5f",
+      "engagement": 120,
+      "is_hot": false,
+      "author": "仰望咸鱼の星空",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 120,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/e92c16076a8ec0fde01ffb85e93c98f800a7409a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "Galgame女主过去、现在、未来的样子",
       "summary": "新脑洞\n  └ 严谨的存在 (0赞): 芳乃[星星眼]\n  └ 福泽-wt (0赞): @SKY悖论引擎\n  └ Touma_Kazusa_528 (0赞): 小冬马好可爱，大冬马也太美了[喜欢][喜欢][喜欢]",
       "source": "bilibili",
@@ -184,6 +207,29 @@
         "danmaku": 4
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/8cec4ad2d830843ad9bab7e4c64beca6f4f1fc19.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "自避( *｀ω´) 微恐！！！",
+      "summary": "-\n  └ 哈基沙大玉 (0赞): [鸣潮2周年同人绘画_看你][鸣潮2周年同人绘画_看你][鸣潮2周年同人绘画_看你]",
+      "source": "bilibili",
+      "time": "2026-07-26T13:05:24+00:00",
+      "url": "https://www.bilibili.com/video/BV1wbg96JEDo",
+      "engagement": 113,
+      "is_hot": false,
+      "author": "屿风ovo_trn",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 112,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/d81115a18b64f7e256bf2f0a7af7066f8483b65a.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-27",
-  "archived_at": "2026-07-27T02:42:50.846586+00:00",
+  "archived_at": "2026-07-27T06:30:43.128286+00:00",
   "source": "ruliweb",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "모리멘스) ai번역이라고 해서 불안했는데 괜찮네?",
@@ -10,6 +10,19 @@
       "source": "ruliweb",
       "time": "2026-07-26T16:01:16.786976+00:00",
       "url": "https://bbs.ruliweb.com/etcs/board/300143/read/76088698",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr"
+    },
+    {
+      "title": "망각전야) 오늘 출시한 신캐의 쩌는 대검 우주가르기를 보세요...",
+      "summary": "우주... 갈랐다고...",
+      "source": "ruliweb",
+      "time": "2026-07-27T06:28:59.943004+00:00",
+      "url": "https://bbs.ruliweb.com/etcs/board/300143/read/76095801",
       "engagement": 0,
       "is_hot": false,
       "author": "",
