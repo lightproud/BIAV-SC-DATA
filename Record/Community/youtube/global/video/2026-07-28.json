@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-27T19:27:50.053846+00:00",
+  "archived_at": "2026-07-27T22:07:59.160076+00:00",
   "source": "youtube",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
     {
       "title": "[Morimens] The whale falls on us ~ Genesis Lotan is finally here? My lovely striking whale queen!",
@@ -39,6 +39,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Morimens GLotan Patch!",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-07-27T20:35:39Z",
+      "url": "https://www.youtube.com/watch?v=OQuVg62DZWo",
+      "engagement": 12,
+      "is_hot": false,
+      "author": "Nazoric",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/OQuVg62DZWo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Latan Catarchone - новый Chaos в Morimens. Три копии хватит или до +4?",
       "summary": "Новый патч привнес в Морименс нового персонажа. Генезис Лотан - привнесла новый Хаос в игру. Сколько копий нужно ...",
       "source": "youtube",
@@ -51,6 +68,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/4M-7f2RqBnk/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens - Lotan Cetarchon - Arcade-N test (Against lvl 70 GDoll boss)",
+      "summary": "Idk Team used: Lotan: Cetarchon, Cetus Occasus, Undying Hungerbone, April Tribute Hameln, Eternal Requiem, Elevated Focus, ...",
+      "source": "youtube",
+      "time": "2026-07-27T21:37:28Z",
+      "url": "https://www.youtube.com/watch?v=-V71rrusKE0",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Lord Britt",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/-V71rrusKE0/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

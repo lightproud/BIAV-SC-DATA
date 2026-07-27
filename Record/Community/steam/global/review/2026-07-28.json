@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-27T19:27:50.130673+00:00",
+  "archived_at": "2026-07-27T22:07:59.239573+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] I hate gacha business models. I love Morimens. Thi...",
@@ -22,6 +22,54 @@
         "playtime_forever": 3816,
         "votes_up": 0,
         "timestamp_created": 1785172100
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] it has saya",
+      "summary": "it has saya",
+      "source": "steam_review",
+      "time": "2026-07-27T20:51:29+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199873532504/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199873532504",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 275,
+        "votes_up": 0,
+        "timestamp_created": 1785185489
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Jogo mt divertido\r\nPara um gaccha médio é simples...",
+      "summary": "Jogo mt divertido\r\nPara um gaccha médio é simples de entender e aprender",
+      "source": "steam_review",
+      "time": "2026-07-27T18:41:38+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198205299469/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198205299469",
+      "tags": [
+        "brazilian"
+      ],
+      "language": "brazilian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1997,
+        "votes_up": 0,
+        "timestamp_created": 1785177698
       },
       "region": "global",
       "archive_subtype": "review",

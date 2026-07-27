@@ -1,8 +1,8 @@
 {
   "date": "2026-07-27",
-  "archived_at": "2026-07-27T19:27:50.050418+00:00",
+  "archived_at": "2026-07-27T22:07:59.156441+00:00",
   "source": "bilibili",
-  "item_count": 51,
+  "item_count": 52,
   "items": [
     {
       "title": "【忘却前夜】蚀灭罗坦实战攻略（首日版），高配1T乱杀流程演示",
@@ -943,6 +943,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/91983580ac80f06b30a6433016edb596cb61fcd9.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "忘卻前夜 容灾2-5缠丝玛瑙开局，很适合小水母",
+      "summary": "└ OEMNG (0赞): 只能说沙耶的道来拯救了深海的下沉市场[笑哭]",
+      "source": "bilibili",
+      "time": "2026-07-27T00:00:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1cDgX6LEEr",
+      "engagement": 105,
+      "is_hot": false,
+      "author": "幻觉の概念",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 101,
+        "comment_count": 4,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/60dca3f53b1c44e7e6f361e901fdeb49d30d2d28.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
