@@ -1,0 +1,26 @@
+{
+  "date": "2026-07-27",
+  "messages": 10,
+  "unique_authors": 3,
+  "reactions_total": 1,
+  "attachments": 1,
+  "channel_activity": {
+    "general-discussion": 10
+  },
+  "hourly_activity": {
+    "3": 10
+  },
+  "message_types": {
+    "0": 10
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1531136566414540930",
+      "channel_id": "1402941858606219294",
+      "content": "What the actual fuck",
+      "author": "theriddleofcards",
+      "reactions": 1,
+      "channel": "general-discussion"
+    }
+  ]
+}
