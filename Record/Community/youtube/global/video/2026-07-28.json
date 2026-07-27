@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-27T16:58:22.206784+00:00",
+  "archived_at": "2026-07-27T19:27:50.053846+00:00",
   "source": "youtube",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[Morimens] The whale falls on us ~ Genesis Lotan is finally here? My lovely striking whale queen!",
@@ -17,6 +17,40 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/CPjEhZi2skc/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens/ Lotan: Cetarchon Patch",
+      "summary": "morimens Enjoy !",
+      "source": "youtube",
+      "time": "2026-07-27T18:19:35Z",
+      "url": "https://www.youtube.com/watch?v=tuSRoow3QOc",
+      "engagement": 18,
+      "is_hot": false,
+      "author": "InoLifo",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/tuSRoow3QOc/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Latan Catarchone - новый Chaos в Morimens. Три копии хватит или до +4?",
+      "summary": "Новый патч привнес в Морименс нового персонажа. Генезис Лотан - привнесла новый Хаос в игру. Сколько копий нужно ...",
+      "source": "youtube",
+      "time": "2026-07-27T19:21:40Z",
+      "url": "https://www.youtube.com/watch?v=4M-7f2RqBnk",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "P.S. Starve",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/4M-7f2RqBnk/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

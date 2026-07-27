@@ -1,0 +1,34 @@
+{
+  "date": "2026-07-28",
+  "archived_at": "2026-07-27T19:27:50.130673+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] I hate gacha business models. I love Morimens. Thi...",
+      "summary": "I hate gacha business models. I love Morimens. This game is so good I don't care that it's a gacha. It's an anomaly of the genre in both quality and generosity. Imagine a surreal cosmic body horror visual novel combined with a card battler and that's what this is. The art is great, the audio is great, and the story and gameplay are great.",
+      "source": "steam_review",
+      "time": "2026-07-27T17:08:20+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198052176994/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198052176994",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3816,
+        "votes_up": 0,
+        "timestamp_created": 1785172100
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
