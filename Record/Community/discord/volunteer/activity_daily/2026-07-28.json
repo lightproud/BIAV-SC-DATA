@@ -1,0 +1,26 @@
+{
+  "date": "2026-07-28",
+  "messages": 1,
+  "unique_authors": 1,
+  "reactions_total": 1,
+  "attachments": 0,
+  "channel_activity": {
+    "general-discussion": 1
+  },
+  "hourly_activity": {
+    "2": 1
+  },
+  "message_types": {
+    "19": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1531490121940209786",
+      "channel_id": "1402941858606219294",
+      "content": "Let me look into this matter.<:celeste_pray:1408324281624170566>",
+      "author": "morimensstaff03",
+      "reactions": 1,
+      "channel": "general-discussion"
+    }
+  ]
+}
