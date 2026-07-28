@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
-  "archived_at": "2026-07-28T19:23:02.148290+00:00",
+  "archived_at": "2026-07-28T22:05:28.681486+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[负面] I've played two gacha games: this and Limbus Compa...",
@@ -70,6 +70,30 @@
         "playtime_forever": 271,
         "votes_up": 0,
         "timestamp_created": 1785257489
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Moim zdaniem to bardzo fajna gra karciana. Postaci...",
+      "summary": "Moim zdaniem to bardzo fajna gra karciana. Postacie są dobrze zaprojektowane, a gra ma ciekawą fabułę i rozgrywkę. Gra jest przyjemna i nie wymaga dużego wysiłku. :)",
+      "source": "steam_review",
+      "time": "2026-07-28T19:35:00+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198439248616/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198439248616",
+      "tags": [
+        "polish"
+      ],
+      "language": "polish",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2507,
+        "votes_up": 0,
+        "timestamp_created": 1785267300
       },
       "region": "global",
       "archive_subtype": "review",
