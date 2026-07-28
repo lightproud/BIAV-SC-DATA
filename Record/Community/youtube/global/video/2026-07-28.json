@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-28T05:48:22.721295+00:00",
+  "archived_at": "2026-07-28T08:33:02.848764+00:00",
   "source": "youtube",
-  "item_count": 13,
+  "item_count": 17,
   "items": [
     {
       "title": "[Morimens] Extremely short G-Lotan Stream/Other content, then heading to work after a nap.",
@@ -107,6 +107,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "망각전야Morimens) (대리뽑,상담시청가능)로탄 최적 최강의 조합 찾기",
+      "summary": "망각전야 #Morimens #이터널리턴.",
+      "source": "youtube",
+      "time": "2026-07-28T07:41:59Z",
+      "url": "https://www.youtube.com/watch?v=yCStOjIEwiI",
+      "engagement": 26,
+      "is_hot": false,
+      "author": "박현(Muyeong)",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/yCStOjIEwiI/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Morimens/ Lotan: Cetarchon Patch",
       "summary": "morimens Enjoy !",
       "source": "youtube",
@@ -175,6 +192,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "[EN/FIL] [Morimens] First time and i dunno what im expecting. Recommended by someone /// (Puppeteer",
+      "summary": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/kizoto_vt.",
+      "source": "youtube",
+      "time": "2026-07-28T06:28:41Z",
+      "url": "https://www.youtube.com/watch?v=Z-G9twQDFdU",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "KizotoVT",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/Z-G9twQDFdU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Morimens รีวิว+วิธีเล่น การสูญสลาย°โรทัน (Lotan Cetarchon)",
       "summary": "",
       "source": "youtube",
@@ -221,6 +255,40 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/vK0mRpw71o8/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】イベント「半歩の隔たり」虚無の扉「操りの線・超難度」",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-07-28T07:08:30Z",
+      "url": "https://www.youtube.com/watch?v=4m9s_BoT4ek",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/4m9s_BoT4ek/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "忘却前夜 2026 07 28 15 24 23",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-07-28T06:39:25Z",
+      "url": "https://www.youtube.com/watch?v=1De9589Z7XA",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ACE 3",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/1De9589Z7XA/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

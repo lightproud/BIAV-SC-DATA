@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-28T05:48:22.776926+00:00",
+  "archived_at": "2026-07-28T08:33:02.911405+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] I hate gacha business models. I love Morimens. Thi...",
@@ -118,6 +118,54 @@
         "playtime_forever": 27,
         "votes_up": 0,
         "timestamp_created": 1785209008
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 不好玩",
+      "summary": "不好玩",
+      "source": "steam_review",
+      "time": "2026-07-28T07:30:50+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199518322390/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199518322390",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 12474,
+        "votes_up": 0,
+        "timestamp_created": 1785223850
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 好玩",
+      "summary": "好玩",
+      "source": "steam_review",
+      "time": "2026-07-28T06:14:24+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199743621794/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199743621794",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 307,
+        "votes_up": 0,
+        "timestamp_created": 1785219264
       },
       "region": "global",
       "archive_subtype": "review",
