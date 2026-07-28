@@ -1,0 +1,82 @@
+{
+  "date": "2026-07-29",
+  "archived_at": "2026-07-28T19:23:02.148290+00:00",
+  "source": "steam",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[负面] I've played two gacha games: this and Limbus Compa...",
+      "summary": "I've played two gacha games: this and Limbus Company. In both cases the experience has been extremely bland. The combat system in this one is basically Slay the Spire's combat system. But no one plays Slay the Spire for the ultra boring combat it provides. It's basically that, except with a deck that never changes. I played for four hours, all that time with the same deck. Every battle, of which there were a few dozen, were exactly the same. I guess once you've played enough you can get new characters, which have different cards etc., but... I just don't see why I'd want to go through this.\r\n\r\nThe graphics and the world seem interesting, but the stories themselves seem kind of your typical anime-level writing. You have super-mysterious dudes just popping out of the woodwork to deliver a few mysterious lines, you have the \"oh look how inconsequentially I am here just sewing together a necklace out of their brains, look how little I care about these humies\", and you have the \"mama never loved me, will you\" types. Yes, I saw all that in a few hours. Also, it being gacha, the story probably never goes anywhere, because then it would have to end, so.\r\n\r\nJust play Slay the Spire and watch some \"dark\" anime at the same time. It's essentially the same experience.",
+      "source": "steam_review",
+      "time": "2026-07-28T18:11:34+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199138941742/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199138941742",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 305,
+        "votes_up": 0,
+        "timestamp_created": 1785262294
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 一款玩法美术音乐都顶尖的游戏。\r\n制作组真的想把游戏变得好玩，每次看到新角色的立绘和技能组都眼前一亮...",
+      "summary": "一款玩法美术音乐都顶尖的游戏。\r\n制作组真的想把游戏变得好玩，每次看到新角色的立绘和技能组都眼前一亮，没有雷同的感觉，只有脑中对各种可能性的构想。\r\n在会玩的情况下，没有玩不了的角色，没有固定的配队，怪在膨胀角色也在加强，喜欢什么就养什么。\r\n角色的技能组，特效，配音，人设是贴合的。通过技能组就感受到了角色的故事，打出卡牌和大招后的特效和配音很简短，当你意识到的时候已经快结束了，不影响操作的连贯性，但都很美很帅很应景。\r\n增大氪金需求的设计一直以来都不少，但起码还算实诚。\r\n剧情是我认为可惜的，没有配音我能接受，剧情风格就是以旁白为主，伴随着音乐沉浸感很强。\r\n我对忘却篇前6章的剧情有很高的评价，很多个瞬间差点哭了，但是星辰篇剧情单薄，很多是对人设的扩充，该写的没写出来，不少角色空降，剧情不仅很短又没头没尾。\r\n很讨厌现在的日常，之前深潜和相位二选一，而且奖励不受排名影响。现在深潜，相位，列车都要打，而且按排名发奖励，排名的标准居然是回合数，深潜要高分只有蛋挞，但是几乎固定的阵容打一百年不更新的模式真的好玩吗?相位很好玩，但一个学习成本不低，难度不低的PVP，作为日常让所有玩家玩真的合理吗？",
+      "source": "steam_review",
+      "time": "2026-07-28T17:30:34+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199735890160/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199735890160",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 68099,
+        "votes_up": 0,
+        "timestamp_created": 1785259834
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Прикольная игра. сюжет интересный и персонажи крас...",
+      "summary": "Прикольная игра. сюжет интересный и персонажи красивые.",
+      "source": "steam_review",
+      "time": "2026-07-28T16:51:29+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199838098022/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199838098022",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 271,
+        "votes_up": 0,
+        "timestamp_created": 1785257489
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

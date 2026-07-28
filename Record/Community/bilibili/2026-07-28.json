@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-28T16:42:36.317020+00:00",
+  "archived_at": "2026-07-28T19:23:01.959411+00:00",
   "source": "bilibili",
-  "item_count": 43,
+  "item_count": 44,
   "items": [
     {
       "title": "【原初·混沌】介绍&amp;杂谈",
@@ -299,6 +299,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/edd0398edc9773b015048dea602eae0633bf3b8e.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "⚡正道的光⚡",
+      "summary": "-\n  └ 哈基沙大玉 (0赞): [鸣潮2周年同人绘画_看你]\n  └ 哲学の真理 (0赞): [打call]",
+      "source": "bilibili",
+      "time": "2026-07-28T15:31:12+00:00",
+      "url": "https://www.bilibili.com/video/BV1gd3z6tE4P",
+      "engagement": 135,
+      "is_hot": false,
+      "author": "小龙猫大能力",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 133,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/ec3d9d73619eee368254f0e687e79a2eda2cb292.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

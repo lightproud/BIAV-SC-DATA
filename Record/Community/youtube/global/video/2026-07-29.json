@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
-  "archived_at": "2026-07-28T16:42:36.321180+00:00",
+  "archived_at": "2026-07-28T19:23:01.961822+00:00",
   "source": "youtube",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[Morimens] Explaining every Viable G-Lotan Story and D-Tide Comp. SLOWLY",
@@ -17,6 +17,40 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/FYhH-DO1u_o/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Drops] Let&#39;s finish the E7 Summer Event then maybe Morimens?",
+      "summary": "Join Twitch https://www.twitch.tv/andrewgiusty7 Join Discord https://discord.gg/62zTg7jJs2 Join Youtube ...",
+      "source": "youtube",
+      "time": "2026-07-28T19:13:36Z",
+      "url": "https://www.youtube.com/watch?v=cU3gvO5AQ-4",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "AndrewGiustyVods",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/cU3gvO5AQ-4/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Main Menu w/Liz part 2",
+      "summary": "morimens.",
+      "source": "youtube",
+      "time": "2026-07-28T17:15:21Z",
+      "url": "https://www.youtube.com/watch?v=HvXOmbcT2j0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ame Noir Almagest",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/HvXOmbcT2j0/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
