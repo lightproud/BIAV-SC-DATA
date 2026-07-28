@@ -1,8 +1,8 @@
 {
   "date": "2026-07-27",
-  "archived_at": "2026-07-28T08:33:02.966280+00:00",
+  "archived_at": "2026-07-28T11:18:57.948655+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 好评] ★5 fun, pretty, generous. I will donate whe",
@@ -44,6 +44,20 @@
       "tags": [],
       "lang": "ru",
       "platform_region": "ru",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 Have been playing this game since Octobe",
+      "summary": "Have been playing this game since October 2025 and I have to say it's one of the most generous games I've ever played. The gameplay and story are great. The only thing I want is more playable modes, that's it.",
+      "source": "google_play",
+      "time": "2026-07-27T09:28:23",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-77cfce89-4c22-4638-adf0-c035bfa60560",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Yuvraj",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],

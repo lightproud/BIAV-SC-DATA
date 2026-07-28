@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-28T08:33:02.911405+00:00",
+  "archived_at": "2026-07-28T11:18:57.893550+00:00",
   "source": "steam",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "[正面] I hate gacha business models. I love Morimens. Thi...",
@@ -166,6 +166,30 @@
         "playtime_forever": 307,
         "votes_up": 0,
         "timestamp_created": 1785219264
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 豪玩，但是数值膨胀太厉害了，我随便抽着一个高招就基本无敌（前期），前期一打就是秒，对面三个小怪每个6...",
+      "summary": "豪玩，但是数值膨胀太厉害了，我随便抽着一个高招就基本无敌（前期），前期一打就是秒，对面三个小怪每个60血，我一个明灯灼魂2费群伤500，整体上界面和养成抄原神，战斗是崩铁和尖塔融合版。\r\n但话又说回来了，这游戏美术无可挑剔，绝对T0级，玩法完善，配音真投入，广哥看了都得流泪。\r\n如果想爽一下的话就玩玩看，反正是免费的，战斗时唯一的缺点就是动画太长了，虽然很好看，但是看很多遍也够呛。",
+      "source": "steam_review",
+      "time": "2026-07-28T10:12:52+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198676098173/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198676098173",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 289,
+        "votes_up": 0,
+        "timestamp_created": 1785233572
       },
       "region": "global",
       "archive_subtype": "review",

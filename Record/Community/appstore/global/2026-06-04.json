@@ -1,8 +1,8 @@
 {
   "date": "2026-06-04",
-  "archived_at": "2026-07-28T02:19:45.791529+00:00",
+  "archived_at": "2026-07-28T11:18:57.819345+00:00",
   "source": "appstore",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "Any Plans for a macOS Version?",
@@ -43,6 +43,20 @@
       "tags": [],
       "lang": "en",
       "platform_region": "us"
+    },
+    {
+      "title": "PEAK",
+      "summary": "This game is absolutely GEM! If you’re a turn-based game lover, you won’t regret any second spending on it. The art style is remarkably beautiful, game play is addictive, and most importantly, I think it’s F2P friendly. Worth playing.\n\nCons: Please keep on working on a translation. Especially Thai, it’s too confusing to understand.",
+      "source": "appstore",
+      "time": "2026-06-03T14:18:28-07:00",
+      "url": "https://apps.apple.com/th/app/id6447354150?see-all=reviews#as-14140571214",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "CinematicScenarios",
+      "tags": [],
+      "lang": "th",
+      "platform_region": "th",
+      "region": "global"
     },
     {
       "title": "No sound?",

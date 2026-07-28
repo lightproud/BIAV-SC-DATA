@@ -1,8 +1,8 @@
 {
   "date": "2025-06-19",
-  "archived_at": "2026-07-28T02:19:45.773599+00:00",
+  "archived_at": "2026-07-28T11:18:57.798500+00:00",
   "source": "appstore",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "好玩",
@@ -16,6 +16,20 @@
       "tags": [],
       "lang": "zh",
       "platform_region": "hk",
+      "region": "global"
+    },
+    {
+      "title": "Incroyable",
+      "summary": "Tester le tout simplement, le jeu a une DA de dingue en plus d’être ultra généreux",
+      "source": "appstore",
+      "time": "2025-06-18T09:34:20-07:00",
+      "url": "https://apps.apple.com/fr/app/id6447354150?see-all=reviews#as-12789407567",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Joykofi",
+      "tags": [],
+      "lang": "fr",
+      "platform_region": "fr",
       "region": "global"
     }
   ],

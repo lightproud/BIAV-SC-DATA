@@ -1,9 +1,23 @@
 {
   "date": "2026-05-27",
-  "archived_at": "2026-07-28T02:19:45.808597+00:00",
+  "archived_at": "2026-07-28T11:18:57.826594+00:00",
   "source": "appstore",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
+    {
+      "title": "tudo que CZN queria ser",
+      "summary": "devs generosos, collabs permanentes (SAYA por exemplo), recursos e personagens faceis de buildar e comunidade receptiva pra novos jogadores",
+      "source": "appstore",
+      "time": "2026-05-26T10:56:07-07:00",
+      "url": "https://apps.apple.com/br/app/id6447354150?see-all=reviews#as-14108983384",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "viniciusbadtz",
+      "tags": [],
+      "lang": "pt",
+      "platform_region": "br",
+      "region": "global"
+    },
     {
       "title": "Terrible",
       "summary": "Really hard to get the one character Always get the one I don’t want. Really annoying.",

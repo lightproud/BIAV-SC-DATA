@@ -1,8 +1,8 @@
 {
   "date": "2026-06-01",
-  "archived_at": "2026-07-28T02:19:45.788147+00:00",
+  "archived_at": "2026-07-28T11:18:57.814993+00:00",
   "source": "appstore",
-  "item_count": 10,
+  "item_count": 11,
   "items": [
     {
       "title": "Love this game",
@@ -114,6 +114,20 @@
       "url": "https://apps.apple.com/id/app/id6447354150?see-all=reviews",
       "author": "Cecuyyy",
       "engagement": 3
+    },
+    {
+      "title": "Love the game, big issue",
+      "summary": "I cannot log into my account using Google Sign-In. Clicking my profile icon immediately triggers the error: \"Third-party service login failed. Please check third-party service information.\" Because the login screen only permits manual typing for official Qookka Accounts, I cannot even attempt to manually enter my Google credentials to bypass the glitch. I have restarted my device, reinstalled the app, and cleared my caches, but the game's authentication handshake remains entirely broken. One star until the login system is fixed. Also, a small suggestion let people manually put in their account credentials to further avoid errors like this.",
+      "source": "appstore",
+      "time": "2026-05-31T11:06:15-07:00",
+      "url": "https://apps.apple.com/us/app/id6447354150?see-all=reviews#as-14128210195",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Icelessbear",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
     }
   ],
   "region": "global"

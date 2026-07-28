@@ -1,8 +1,8 @@
 {
   "date": "2025-01-14",
-  "archived_at": "2026-07-28T02:19:45.774679+00:00",
+  "archived_at": "2026-07-28T11:18:57.799726+00:00",
   "source": "appstore",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "令我意外的好遊戲",
@@ -27,6 +27,20 @@
       "engagement": 5,
       "is_hot": false,
       "author": "匿名者12345679",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "hk",
+      "region": "global"
+    },
+    {
+      "title": "很爱玩",
+      "summary": "玩了一年了 剧情画风玩法都很棒",
+      "source": "appstore",
+      "time": "2025-01-13T10:54:27-07:00",
+      "url": "https://apps.apple.com/hk/app/id6447354150?see-all=reviews#as-12180403854",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "蓝靛ww",
       "tags": [],
       "lang": "zh",
       "platform_region": "hk",

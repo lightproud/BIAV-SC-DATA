@@ -1,9 +1,23 @@
 {
   "date": "2026-07-02",
-  "archived_at": "2026-07-28T02:19:45.819639+00:00",
+  "archived_at": "2026-07-28T11:18:57.824614+00:00",
   "source": "appstore",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
+    {
+      "title": "Beautiful game",
+      "summary": "One of the most beautiful and catching mobile games. I love the atmosphere, character design, world-building and creepy story. Even though it is a gatcha, it is very generous with its ingame currency and pull rates.",
+      "source": "appstore",
+      "time": "2026-07-01T11:21:49-07:00",
+      "url": "https://apps.apple.com/de/app/id6447354150?see-all=reviews#as-14250546734",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Starshade78",
+      "tags": [],
+      "lang": "de",
+      "platform_region": "de",
+      "region": "global"
+    },
     {
       "title": "Fun but flawed",
       "summary": "The game itself is very fun, but there are a few infuriating issues- I crash at the end of non-combat story stages, plus the game always launches upside down, needing me to manually rotate my phone to get it back to my desired screen orientation",

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-28T08:33:02.848764+00:00",
+  "archived_at": "2026-07-28T11:18:57.782399+00:00",
   "source": "youtube",
-  "item_count": 17,
+  "item_count": 19,
   "items": [
     {
       "title": "[Morimens] Extremely short G-Lotan Stream/Other content, then heading to work after a nap.",
@@ -192,6 +192,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "#忘卻前夜 #morimens Regional D-Effect Zone Wave 2:Alert V! 融災2-5 Boss戰的部分",
+      "summary": "忘卻前夜 #morimens 融災更新,7月20日~8月3號. Regional D-Effect Zone Update (July 20 – August 3). 2-5 希洛(Helot)大致上都是單 ...",
+      "source": "youtube",
+      "time": "2026-07-28T10:00:28Z",
+      "url": "https://www.youtube.com/watch?v=ddGwG7WXdU0",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Noir",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/ddGwG7WXdU0/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "[EN/FIL] [Morimens] First time and i dunno what im expecting. Recommended by someone /// (Puppeteer",
       "summary": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/kizoto_vt.",
       "source": "youtube",
@@ -289,6 +306,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/1De9589Z7XA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "#忘卻前夜 #morimens Simple Team Setup &amp; Testing for Annihilation Rotan!蝕滅 蘿坦的簡易隊伍分享與測試!",
+      "summary": "忘卻前夜 #morimens 以上的測試與需要注意的事項. Notes and Key Points from the Above Testing 1.沒有生存,需要隊友提供 易傷 算 ...",
+      "source": "youtube",
+      "time": "2026-07-28T10:00:22Z",
+      "url": "https://www.youtube.com/watch?v=e-MN9mnrmWM",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Noir",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/e-MN9mnrmWM/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
