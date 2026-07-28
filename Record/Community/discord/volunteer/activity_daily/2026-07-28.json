@@ -1,19 +1,38 @@
 {
   "date": "2026-07-28",
-  "messages": 1,
-  "unique_authors": 1,
-  "reactions_total": 1,
+  "messages": 5,
+  "unique_authors": 2,
+  "reactions_total": 5,
   "attachments": 0,
   "channel_activity": {
-    "general-discussion": 1
+    "links-and-resources": 1,
+    "general-discussion": 4
   },
   "hourly_activity": {
+    "8": 4,
     "2": 1
   },
   "message_types": {
-    "19": 1
+    "0": 1,
+    "19": 3
   },
   "top_reacted_messages": [
+    {
+      "id": "1531576361657962576",
+      "channel_id": "1402941858606219294",
+      "content": "We'll put the materials together and share them with you all. It may take a litt",
+      "author": "morimensstaff03",
+      "reactions": 3,
+      "channel": "general-discussion"
+    },
+    {
+      "id": "1531576827464781864",
+      "channel_id": "1402941858606219294",
+      "content": "It's totally fine! Glad that you are able to work on this again!",
+      "author": "anicillia",
+      "reactions": 1,
+      "channel": "general-discussion"
+    },
     {
       "id": "1531490121940209786",
       "channel_id": "1402941858606219294",
