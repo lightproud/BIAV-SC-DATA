@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-28T11:18:57.893550+00:00",
+  "archived_at": "2026-07-28T14:04:03.013942+00:00",
   "source": "steam",
-  "item_count": 8,
+  "item_count": 12,
   "items": [
     {
       "title": "[正面] I hate gacha business models. I love Morimens. Thi...",
@@ -190,6 +190,102 @@
         "playtime_forever": 289,
         "votes_up": 0,
         "timestamp_created": 1785233572
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] ненавижу аниме",
+      "summary": "ненавижу аниме",
+      "source": "steam_review",
+      "time": "2026-07-28T13:20:49+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199435063489/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199435063489",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 38,
+        "votes_up": 0,
+        "timestamp_created": 1785244849
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 世界观很有趣，游玩性也可以，咳，还是出货率很高啊",
+      "summary": "世界观很有趣，游玩性也可以，咳，还是出货率很高啊",
+      "source": "steam_review",
+      "time": "2026-07-28T11:41:15+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199500060560/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199500060560",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2414,
+        "votes_up": 0,
+        "timestamp_created": 1785238875
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] i play bc theres Saya",
+      "summary": "i play bc theres Saya",
+      "source": "steam_review",
+      "time": "2026-07-28T10:39:46+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199866282345/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199866282345",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 852,
+        "votes_up": 0,
+        "timestamp_created": 1785235186
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] This game is incredible. The story made me cry and...",
+      "summary": "This game is incredible. The story made me cry and laugh, the characters are beautiful, tasteful and stylish in all the right ways. The music is just incredible, the ost is just lovely. The gameplay might just be the best part, every unit is useful, nothing is ever powercrept(so far), i really have no complaints about it. Even the gacha system is very generous, so much so you actually want to support the company lol\r\n\r\nHigly recommend this game for anyone that's a fan of horror, mystery and magic",
+      "source": "steam_review",
+      "time": "2026-07-28T10:28:37+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198217598712/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198217598712",
+      "tags": [
+        "brazilian"
+      ],
+      "language": "brazilian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2799,
+        "votes_up": 0,
+        "timestamp_created": 1785234517
       },
       "region": "global",
       "archive_subtype": "review",

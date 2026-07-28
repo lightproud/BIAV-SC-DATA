@@ -1,8 +1,8 @@
 {
   "date": "2026-07-27",
-  "archived_at": "2026-07-28T11:18:57.948655+00:00",
+  "archived_at": "2026-07-28T14:04:03.054240+00:00",
   "source": "google_play",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[Google Play 好评] ★5 fun, pretty, generous. I will donate whe",
@@ -58,6 +58,20 @@
       "tags": [],
       "lang": "en",
       "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 간만에재밌는거 찾앗네 한국번역 잘해주세요 ㅠ",
+      "summary": "간만에재밌는거 찾앗네 한국번역 잘해주세요 ㅠ",
+      "source": "google_play",
+      "time": "2026-07-27T13:15:58",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-8d823be7-8b91-424f-9d21-7e3d025ee103",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "yj e",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
       "region": "global"
     }
   ],
