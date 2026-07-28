@@ -1,11 +1,11 @@
 {
   "date": "2026-06-06",
-  "messages": 40326,
+  "messages": 41866,
   "unique_authors": 603,
-  "reactions_total": 3561,
-  "attachments": 2490,
+  "reactions_total": 3821,
+  "attachments": 2576,
   "channel_activity": {
-    "🔸morimens-game-chat": 9668,
+    "🔸morimens-game-chat": 11208,
     "🔸general-chat": 6477,
     "🔸game-question": 7998,
     "🔸綜合討論": 3696,
@@ -89,6 +89,12 @@
     "【Newcomer Help】Forum Introduction": 1
   },
   "hourly_activity": {
+    "18": 1210,
+    "19": 1297,
+    "20": 1348,
+    "21": 846,
+    "22": 601,
+    "23": 335,
     "8": 1440,
     "9": 1718,
     "10": 2185,
@@ -99,7 +105,6 @@
     "15": 2846,
     "16": 3279,
     "17": 2026,
-    "18": 1208,
     "0": 740,
     "1": 1671,
     "2": 1935,
@@ -107,16 +112,12 @@
     "4": 2266,
     "5": 2093,
     "6": 1838,
-    "7": 1801,
-    "19": 915,
-    "20": 938,
-    "21": 485,
-    "22": 393,
-    "23": 158
+    "7": 1801
   },
   "message_types": {
-    "0": 3108,
-    "19": 1892
+    "0": 927,
+    "19": 603,
+    "20": 10
   },
   "top_reacted_messages": [
     {
@@ -142,6 +143,14 @@
       "author": "ice3564",
       "reactions": 14,
       "channel": "🔸ห้องสนทนาภาษาไทย"
+    },
+    {
+      "id": "1512911183206678659",
+      "channel_id": "1170692781216378960",
+      "content": "https://x.com/i/status/2063231135464010022",
+      "author": "aurora3981",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1512617933535318147",
@@ -268,14 +277,6 @@
       "channel_id": "1170692781216378960",
       "content": "Who is all in on Dore today???",
       "author": "xviith",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1512661013856522320",
-      "channel_id": "1170692781216378960",
-      "content": "F2P BTW",
-      "author": "zettaizer0",
       "reactions": 6,
       "channel": "🔸morimens-game-chat"
     }

@@ -1,0 +1,251 @@
+{
+  "date": "2026-07-28",
+  "messages": 4135,
+  "unique_authors": 298,
+  "reactions_total": 330,
+  "attachments": 286,
+  "channel_activity": {
+    "🔸綜合討論": 520,
+    "🔸阵容构建": 4,
+    "🔸晒卡分享": 3,
+    "🔸欢乐梗图": 4,
+    "🔸课间休息闲聊": 21,
+    "🔸日本語チャンネル": 2,
+    "🔸한국어-채팅방": 7,
+    "🔸chaîne-française": 4,
+    "🔸русский-канал": 475,
+    "🔸phòng-chat-tiếng-việt": 693,
+    "🔸canal-español": 69,
+    "🔸canal-português": 13,
+    "🔸ruang-obrolan-indonesia": 162,
+    "🔸ห้องสนทนาภาษาไทย": 114,
+    "🔸traphase": 26,
+    "🔸lore-chat": 56,
+    "🔸lets-count": 1,
+    "🔸team-building": 474,
+    "🔸邀请码互助┊swap-invitation-codes": 2,
+    "🔸game-question": 1357,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 28,
+    "试着搞了拼豆图纸（": 1,
+    "草图绘画": 1,
+    "Inf dialogue bug": 1,
+    "困難壞掉了": 7,
+    "2.5.3 文本bug串": 4,
+    "文本错误": 1,
+    "(2.5.3.1) Display issue: \"New Items\" pop-up windows missing on PC client since 2.5.3.0": 1,
+    "Issue with the new event background": 1,
+    "✅「已解决」錯字抓": 2,
+    "✅「已回答」24維度影像": 2,
+    "💭「Processing」Optimization on iOs": 2,
+    "✅「Resolved」Missing shield value, replaced with argument": 2,
+    "Can we please release GLotan Pursuit from dimensional image?": 5,
+    "✅「Answered」Traphase bug": 2,
+    "✅「已回答」欸？": 1,
+    "✅「已解决」臨時文本": 3,
+    "✅「Answered」sudden turn limit": 2,
+    "✅「Answered」Cards not being displayed on the first turn.": 1,
+    "✅「Resolved」Frenzy wheel name turned into Hehehehehehe": 2,
+    "Divine Realms, Aliemus Costs and other Future Worries": 1,
+    "Please rework how Propagation Caro works for the future units": 2,
+    "V2.5.3.1 在线维护公告": 1,
+    "V2.5.1.0 停服维护公告": 4,
+    "「官方素材」頻道使用說明": 1,
+    "Tinct 🎶": 1,
+    "My morimens arts": 1,
+    "Corposant ⛈️": 2,
+    "Nautillaaaaaaaa T^T": 1,
+    "Arsen's Doodle corner": 1,
+    "Sketchs": 1,
+    "we’re back on the arachneposting": 2,
+    "morimens sybau 💔": 3,
+    "Shalalalala (dump of mostly caecus)": 1,
+    "William posting": 4,
+    "【English Translation】Opinions Collection": 12,
+    "V2.5.3 蚀灭·萝坦✦唤醒体&命轮介绍┊Lotan: Cetarchon✦Awakener & Wheel of Destiny Introduction┊침식·로탄✦각성체 & 명륜 소개": 13,
+    "抽卡規劃？": 5,
+    "Need some pulling advice...pls..": 1,
+    "1531528089673404476": 1
+  },
+  "hourly_activity": {
+    "0": 289,
+    "1": 488,
+    "2": 615,
+    "3": 623,
+    "4": 235,
+    "5": 185,
+    "6": 681,
+    "7": 321,
+    "8": 555,
+    "9": 143
+  },
+  "message_types": {
+    "19": 935,
+    "0": 3171,
+    "20": 19,
+    "4": 9,
+    "21": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1531575350210068511",
+      "channel_id": "1131839817982947429",
+      "content": "在Q群看到，要笑死了",
+      "author": "iamnotbunny",
+      "reactions": 11,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531451719182192650",
+      "channel_id": "1445556242381672559",
+      "content": "study kinda",
+      "author": "zzio_",
+      "reactions": 10,
+      "channel": "William posting"
+    },
+    {
+      "id": "1531554047172280490",
+      "channel_id": "1131839817982947429",
+      "content": "有融災需要幫忙打人嗎",
+      "author": "arachnids_nacha",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531454656075661484",
+      "channel_id": "1531454656075661484",
+      "content": "Still a wip",
+      "author": "nyanfuuwu",
+      "reactions": 9,
+      "channel": "My morimens arts"
+    },
+    {
+      "id": "1531515168582795384",
+      "channel_id": "1531515168582795384",
+      "content": "https://x.com/SaminDraws/status/2081953055981879695?s=20",
+      "author": "samin_",
+      "reactions": 8,
+      "channel": "Tinct 🎶"
+    },
+    {
+      "id": "1531559555706785913",
+      "channel_id": "1131839817982947429",
+      "content": "我的天哪",
+      "author": "navirecorbeau",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531520657131573279",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531588444726493224",
+      "channel_id": "1131839817982947429",
+      "content": "<@1442474746343063663> 難赤",
+      "author": "xianrenwurao",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531547032332796104",
+      "channel_id": "1131839817982947429",
+      "content": "有大佬可以草死我嗎",
+      "author": "ahuahuahua",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531563277912375547",
+      "channel_id": "1131839817982947429",
+      "content": "怎麼sp蘿不是叫宿蘿呢",
+      "author": "heikwok",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531566452421820478",
+      "channel_id": "1131839817982947429",
+      "content": "數值啊",
+      "author": "iamnotbunny",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531589470145482792",
+      "channel_id": "1131839817982947429",
+      "content": "清清大佬是能成為我媽媽的男人啊",
+      "author": "luna_.90",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531507647121985556",
+      "channel_id": "1300659603993923644",
+      "content": "k ai bic",
+      "author": "anicillia",
+      "reactions": 4,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1531555266502590475",
+      "channel_id": "1433513650299076780",
+      "content": "im ready to save for mouchette",
+      "author": "tiruins",
+      "reactions": 4,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1531583993609326662",
+      "channel_id": "1433513650299076780",
+      "content": "its always whats the answer or how good is she Angbak but never how good are you",
+      "author": "sonaiive",
+      "reactions": 4,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1531543756631834726",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "kemomimi_",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531550151439810580",
+      "channel_id": "1131839817982947429",
+      "content": "天啊課金母豬",
+      "author": "hon_ey0",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531580241561260033",
+      "channel_id": "1131839817982947429",
+      "content": "我有一計☝️🤓\n你去草貓，草到貓給你發全圖鑑+12，包打飛所有關的",
+      "author": "coleerouo",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531582222786760704",
+      "channel_id": "1131839817982947429",
+      "content": "不知道\n我只知道薩摩叔叔有老年痴呆\n而校貓叔叔很有巧思",
+      "author": "coleerouo",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531540636426178642",
+      "channel_id": "1433513650299076780",
+      "content": "This fight was crazy <:Fkeeper_flop:1356053072924774421>",
+      "author": "loirel",
+      "reactions": 3,
+      "channel": "🔸game-question"
+    }
+  ]
+}

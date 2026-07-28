@@ -1,10 +1,11 @@
 {
   "date": "2026-07-25",
-  "messages": 8370,
+  "messages": 10215,
   "unique_authors": 302,
-  "reactions_total": 944,
-  "attachments": 371,
+  "reactions_total": 1015,
+  "attachments": 405,
   "channel_activity": {
+    "🔸general-chat": 1845,
     "🔸綜合討論": 2361,
     "🔸阵容构建": 2,
     "🔸晒卡分享": 8,
@@ -58,6 +59,14 @@
     "Returning/casual player seeking guidance on account progression": 1
   },
   "hourly_activity": {
+    "0": 200,
+    "1": 552,
+    "2": 628,
+    "3": 512,
+    "4": 407,
+    "5": 857,
+    "6": 685,
+    "7": 689,
     "8": 343,
     "9": 122,
     "10": 339,
@@ -73,20 +82,11 @@
     "23": 152,
     "18": 286,
     "20": 246,
-    "21": 333,
-    "1": 522,
-    "2": 259,
-    "3": 178,
-    "4": 311,
-    "5": 460,
-    "6": 332,
-    "7": 457,
-    "0": 166
+    "21": 333
   },
   "message_types": {
-    "0": 4152,
-    "19": 1192,
-    "20": 11
+    "0": 1298,
+    "19": 547
   },
   "top_reacted_messages": [
     {
