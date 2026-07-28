@@ -1,8 +1,8 @@
 {
   "date": "2026-07-27",
-  "archived_at": "2026-07-27T22:07:59.282038+00:00",
+  "archived_at": "2026-07-28T02:19:45.878465+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 fun, pretty, generous. I will donate whe",
@@ -16,6 +16,34 @@
       "tags": [],
       "lang": "en",
       "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Have been playing this game since last y",
+      "summary": "Have been playing this game since last year and honestly, it is so f2p and rewards are generous. Love the story and characters design in this game. The gacha has a soft pity too, a higher chance of getting the character you want. Easy to farm and save up too. Very much love this game and will continue to play :3",
+      "source": "google_play",
+      "time": "2026-07-27T01:14:23",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-2fa09fff-17c4-4869-b090-2083cfc84126",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ena",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 Скачала игру пару дней назад, очень нрав",
+      "summary": "Скачала игру пару дней назад, очень нравится. Угадывается стилистика других всем нам известних игр. Ещё нравится, что работают на широкую аудиторию благодаря переводу на многие языки, пускай и машинные. Хотелось бы в будущем увидеть побольше анимаций у персонажей во время диалогов и в списке персонажей. И в целом проработку персов в тех же побочных квестах с их историей, по типу немного иной одежды или поз. Даже если есть упор на нейросеть во время создания персонажей, потенциал есть, молодцы:)",
+      "source": "google_play",
+      "time": "2026-07-27T00:07:09",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-5ce66c25-e46e-447f-9f65-542c8ef9e942",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Виктория Яковлева",
+      "tags": [],
+      "lang": "ru",
+      "platform_region": "ru",
       "region": "global"
     }
   ],

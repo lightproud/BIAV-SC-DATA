@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-27T22:07:59.239573+00:00",
+  "archived_at": "2026-07-28T02:19:45.849452+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] I hate gacha business models. I love Morimens. Thi...",
@@ -70,6 +70,30 @@
         "playtime_forever": 1997,
         "votes_up": 0,
         "timestamp_created": 1785177698
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] I downloaded this game out of pure boredom and wan...",
+      "summary": "I downloaded this game out of pure boredom and wanting to find something cool to play. Best decision i've made. I love this game, the story and the art style. I started with having this on my ipad and decided to add it to my laptop as well. Totally recommend",
+      "source": "steam_review",
+      "time": "2026-07-27T22:03:15+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199212573824/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199212573824",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 220,
+        "votes_up": 0,
+        "timestamp_created": 1785189795
       },
       "region": "global",
       "archive_subtype": "review",

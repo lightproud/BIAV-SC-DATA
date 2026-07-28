@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-27T22:07:59.158356+00:00",
+  "archived_at": "2026-07-28T02:19:45.758717+00:00",
   "source": "bilibili",
-  "item_count": 6,
+  "item_count": 8,
   "items": [
     {
       "title": "伤害无限大，萝汀无限，忘却前夜最高的山",
@@ -97,6 +97,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "[忘却前夜]  蚀灭-罗坦  5-5",
+      "summary": "晕，难打的要死。。。。\n  └ 梦依流苏_myls (1赞): 厉害了\n  └ 结局顶顶顶顶顶 (1赞): 厉害了\n  └ 烟已归 (1赞): 厉害了",
+      "source": "bilibili",
+      "time": "2026-07-27T17:40:06+00:00",
+      "url": "https://www.bilibili.com/video/BV1Xx3P6cEdf",
+      "engagement": 121,
+      "is_hot": false,
+      "author": "静寂夏至",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 117,
+        "comment_count": 4,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/5f822f1c9354d1b679a4844e6a880af29c30cb65.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "【忘却前夜】蚀庞双C&amp;原初混沌米粒试玩",
       "summary": "在原初混沌里米粒三次觉醒都可以开初始钥令\n蚀萝可作为道中银钥供给、精英boss战摔炮副C使用，bug修复后可带梦游仙境蹲坑\n庞忘带入药了",
       "source": "bilibili",
@@ -115,6 +138,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/d2418e758515644de160d455b9aeb37bf41b7ce6.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "虽然但是你游得出金率，什么时候这么高了？",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-27T23:10:50+00:00",
+      "url": "https://www.bilibili.com/video/BV1ew3N6iERV",
+      "engagement": 54,
+      "is_hot": false,
+      "author": "电汽工程",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 54,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/4fbcf8c07d7a66208b1b6b7b3d20873d8c6e82c7.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
