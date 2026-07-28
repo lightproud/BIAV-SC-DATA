@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-28T14:04:02.951704+00:00",
+  "archived_at": "2026-07-28T16:42:36.318839+00:00",
   "source": "youtube",
-  "item_count": 23,
+  "item_count": 24,
   "items": [
     {
       "title": "[Morimens] Extremely short G-Lotan Stream/Other content, then heading to work after a nap.",
@@ -153,6 +153,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/OQuVg62DZWo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens OST- Bone Sigil",
+      "summary": "I absolutely love this game and it's OST, but couldn't find it anywhere on YouTube so I took it upon myself to upload some themes.",
+      "source": "youtube",
+      "time": "2026-07-28T14:04:45Z",
+      "url": "https://www.youtube.com/watch?v=2rC7HCKpgtQ",
+      "engagement": 8,
+      "is_hot": false,
+      "author": "SeaLily",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/2rC7HCKpgtQ/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

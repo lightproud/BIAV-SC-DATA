@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-28T14:04:03.013942+00:00",
+  "archived_at": "2026-07-28T16:42:36.516626+00:00",
   "source": "steam",
-  "item_count": 12,
+  "item_count": 14,
   "items": [
     {
       "title": "[正面] I hate gacha business models. I love Morimens. Thi...",
@@ -286,6 +286,54 @@
         "playtime_forever": 2799,
         "votes_up": 0,
         "timestamp_created": 1785234517
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] очередное аниме говнище",
+      "summary": "очередное аниме говнище",
+      "source": "steam_review",
+      "time": "2026-07-28T14:38:39+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198161956022/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198161956022",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 82,
+        "votes_up": 0,
+        "timestamp_created": 1785249519
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 你的产能在做大便上面还挺高的\n一个活动像你妈断了的肠子一样长\n充钱还要你爹在上面浪费时间\n从里面随便...",
+      "summary": "你的产能在做大便上面还挺高的\n一个活动像你妈断了的肠子一样长\n充钱还要你爹在上面浪费时间\n从里面随便找个唐氏人设的角色操死你的吗吧\n去年灵犀招的人都是你们这种废物吗",
+      "source": "steam_review",
+      "time": "2026-07-28T14:00:05+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198099537352/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198099537352",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 6494,
+        "votes_up": 0,
+        "timestamp_created": 1785247205
       },
       "region": "global",
       "archive_subtype": "review",
