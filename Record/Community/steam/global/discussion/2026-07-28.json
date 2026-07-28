@@ -1,9 +1,26 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-28T02:19:45.766331+00:00",
+  "archived_at": "2026-07-28T05:48:22.723243+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
+    {
+      "title": "[Steam论坛] Invitation Code",
+      "summary": "1D1EGZ10U1",
+      "source": "steam_discussion",
+      "time": "2026-07-28T05:04:38+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/603039786130771940/",
+      "engagement": 221,
+      "is_hot": true,
+      "author": "Znye",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
     {
       "title": "[Steam论坛] Who should I pull for in the Triune Verdant Banner?",
       "summary": "Hellot: Catena, Corposanct or Pollux?",

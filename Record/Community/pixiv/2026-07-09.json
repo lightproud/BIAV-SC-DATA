@@ -1,8 +1,8 @@
 {
   "date": "2026-07-09",
-  "archived_at": "2026-07-28T02:19:45.855821+00:00",
+  "archived_at": "2026-07-28T05:48:22.782367+00:00",
   "source": "pixiv",
-  "item_count": 4,
+  "item_count": 7,
   "items": [
     {
       "title": "石榴",
@@ -73,6 +73,63 @@
       "tags": [],
       "lang": "",
       "platform_region": "global"
+    },
+    {
+      "title": "˚✧₊⁎･:*+.夢:+* ･:⁎⁺˳✧༚",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-07-09T21:00:37+09:00",
+      "url": "https://www.pixiv.net/artworks/147007369",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ぷかぷか🎈",
+      "tags": [
+        "Morimens",
+        "クム(忘却前夜)",
+        "リリー(忘却前夜)",
+        "忘却前夜"
+      ],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/07/09/21/00/37/147007369_p0_square1200.jpg",
+      "content_type": "image"
+    },
+    {
+      "title": "ゴリリオつめ②",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-07-09T20:04:48+09:00",
+      "url": "https://www.pixiv.net/artworks/147005179",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "非我らぎ　Skeb募集中",
+      "tags": [
+        "漫画",
+        "忘却前夜",
+        "ゴリリオ"
+      ],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/custom-thumb/img/2026/07/09/20/04/48/147005179_p0_custom1200.jpg",
+      "content_type": "image"
+    },
+    {
+      "title": "忘却前夜ツイッタlog1",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-07-09T19:09:14+09:00",
+      "url": "https://www.pixiv.net/artworks/147003093",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "たぬき飯",
+      "tags": [
+        "Morimens",
+        "忘却前夜"
+      ],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/07/09/19/09/14/147003093_p0_square1200.jpg",
+      "content_type": "image"
     }
   ]
 }

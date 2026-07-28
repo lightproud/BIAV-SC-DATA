@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-28T02:19:45.849452+00:00",
+  "archived_at": "2026-07-28T05:48:22.776926+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[正面] I hate gacha business models. I love Morimens. Thi...",
@@ -94,6 +94,30 @@
         "playtime_forever": 220,
         "votes_up": 0,
         "timestamp_created": 1785189795
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 如果你想抽A角色请去B，C，D，E，F，G。。。。。角色up卡池。\n你都歪成这样，你不会指望我给你花...",
+      "summary": "如果你想抽A角色请去B，C，D，E，F，G。。。。。角色up卡池。\n你都歪成这样，你不会指望我给你花钱吧",
+      "source": "steam_review",
+      "time": "2026-07-28T03:23:28+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198105691932/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198105691932",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 27,
+        "votes_up": 0,
+        "timestamp_created": 1785209008
       },
       "region": "global",
       "archive_subtype": "review",

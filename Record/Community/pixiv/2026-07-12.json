@@ -1,8 +1,8 @@
 {
   "date": "2026-07-12",
-  "archived_at": "2026-07-28T02:19:45.855091+00:00",
+  "archived_at": "2026-07-28T05:48:22.781428+00:00",
   "source": "pixiv",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
     {
       "title": "アルビノまとめ",
@@ -73,6 +73,42 @@
       "tags": [],
       "lang": "",
       "platform_region": "global"
+    },
+    {
+      "title": "パロ絵まとめ",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-07-12T23:18:55+09:00",
+      "url": "https://www.pixiv.net/artworks/147133772",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "塩田",
+      "tags": [
+        "忘却前夜"
+      ],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/07/12/23/18/55/147133772_p0_square1200.jpg",
+      "content_type": "image"
+    },
+    {
+      "title": "no title",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-07-12T17:43:00+09:00",
+      "url": "https://www.pixiv.net/artworks/147118100",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "雨めい",
+      "tags": [
+        "Doll",
+        "忘却前夜",
+        "Morimens"
+      ],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/07/12/17/43/00/147118100_p0_square1200.jpg",
+      "content_type": "image"
     }
   ]
 }

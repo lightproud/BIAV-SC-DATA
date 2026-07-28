@@ -1,8 +1,8 @@
 {
   "date": "2026-06-20",
-  "archived_at": "2026-07-28T02:19:45.860271+00:00",
+  "archived_at": "2026-07-28T05:48:22.787903+00:00",
   "source": "note_com",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "誕生日おめでとう、推し",
@@ -13,6 +13,32 @@
       "engagement": 0,
       "is_hot": false,
       "author": "yui",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "jp"
+    },
+    {
+      "title": "小休憩③(なぜ性能解説を書くのか)",
+      "summary": "こんにちは！ダイヤです！今回はなぜ忘却前夜の性能解説を書いているのかを深掘りしていきたいと思います。まず、性能解説を書くにあたってはたして需要があるのかと思いつきました。私が忘却前夜以外にやっているゲームは全部性能解説があがっています。忘却前夜は少しあがっています。「たくさんの方がプレイしているゲームを私の独断と偏見で解説して良いのか？」、「解説ができるレベルってどのくらいなんだ？」と色々考えまし",
+      "source": "note_com",
+      "time": "2026-06-20T20:32:17+09:00",
+      "url": "https://note.com/glossy_vole8818/n/n8ee6bcf1a2e0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ダイヤ",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "jp"
+    },
+    {
+      "title": "忘却前夜　ハムリン性能解説",
+      "summary": "ハムリン続きをみる",
+      "source": "note_com",
+      "time": "2026-06-20T20:00:21+09:00",
+      "url": "https://note.com/glossy_vole8818/n/ne7ffd9b71b26",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ダイヤ",
       "tags": [],
       "lang": "ja",
       "platform_region": "jp"

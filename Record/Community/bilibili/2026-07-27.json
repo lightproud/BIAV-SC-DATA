@@ -1,8 +1,8 @@
 {
   "date": "2026-07-27",
-  "archived_at": "2026-07-28T02:19:45.756678+00:00",
+  "archived_at": "2026-07-28T05:48:22.719073+00:00",
   "source": "bilibili",
-  "item_count": 53,
+  "item_count": 54,
   "items": [
     {
       "title": "【忘却前夜】蚀灭罗坦实战攻略（首日版），高配1T乱杀流程演示",
@@ -759,6 +759,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/9a8039dc3cd46c0a6b8a3ea3b70e1f148caec887.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】蚀灭萝坦抽卡视频",
+      "summary": "205抽3启，怎么这么黑啊？\n  └ 15-O (1赞): 目前看来，神萝跟茉夏比较像，个人能力很强，比较适合新手。同3启下强度略高，但手感不好",
+      "source": "bilibili",
+      "time": "2026-07-27T12:35:42+00:00",
+      "url": "https://www.bilibili.com/video/BV1573w6fEat",
+      "engagement": 166,
+      "is_hot": false,
+      "author": "SherbetWhite",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 164,
+        "comment_count": 2,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/96f8ed38870a9e5252756715f4a098e1b8107a5b.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

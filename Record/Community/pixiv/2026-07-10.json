@@ -1,8 +1,8 @@
 {
   "date": "2026-07-10",
-  "archived_at": "2026-07-28T02:19:45.855565+00:00",
+  "archived_at": "2026-07-28T05:48:22.782072+00:00",
   "source": "pixiv",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "ゴリリオつめ②",
@@ -91,6 +91,23 @@
       "tags": [],
       "lang": "",
       "platform_region": "global"
+    },
+    {
+      "title": "無限の視線を超えて",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-07-10T23:01:09+09:00",
+      "url": "https://www.pixiv.net/artworks/147049027",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "のーまん・ばっと・ひゅーまん",
+      "tags": [
+        "忘却前夜"
+      ],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/07/10/23/01/09/147049027_p0_square1200.jpg",
+      "content_type": "image"
     }
   ]
 }
