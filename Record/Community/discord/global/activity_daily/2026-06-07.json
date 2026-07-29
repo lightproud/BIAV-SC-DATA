@@ -1,11 +1,11 @@
 {
   "date": "2026-06-07",
-  "messages": 28811,
+  "messages": 33811,
   "unique_authors": 585,
-  "reactions_total": 3181,
-  "attachments": 1806,
+  "reactions_total": 3744,
+  "attachments": 2091,
   "channel_activity": {
-    "🔸morimens-game-chat": 3460,
+    "🔸morimens-game-chat": 8460,
     "🔸general-chat": 2560,
     "🔸game-question": 5482,
     "🔸綜合討論": 3692,
@@ -95,6 +95,20 @@
     "【Newcomer Help】Forum Introduction": 1
   },
   "hourly_activity": {
+    "10": 1495,
+    "11": 1712,
+    "12": 1832,
+    "13": 1725,
+    "14": 1733,
+    "15": 1947,
+    "16": 1504,
+    "17": 1392,
+    "18": 885,
+    "19": 589,
+    "20": 562,
+    "21": 551,
+    "22": 854,
+    "23": 2688,
     "0": 776,
     "1": 1358,
     "2": 1790,
@@ -104,26 +118,12 @@
     "6": 1831,
     "7": 1361,
     "8": 1461,
-    "9": 1819,
-    "10": 1290,
-    "11": 1421,
-    "12": 1269,
-    "13": 1339,
-    "14": 1444,
-    "15": 1674,
-    "16": 1206,
-    "17": 1096,
-    "18": 687,
-    "19": 468,
-    "20": 293,
-    "21": 262,
-    "22": 528,
-    "23": 1492
+    "9": 1819
   },
   "message_types": {
-    "0": 2348,
-    "19": 1097,
-    "20": 14,
+    "0": 5396,
+    "19": 3034,
+    "20": 29,
     "46": 1
   },
   "top_reacted_messages": [
@@ -142,6 +142,14 @@
       "author": "morimensstaff06",
       "reactions": 27,
       "channel": "💚 V2.5.1 礼赞新生┊Ode to Rebirth"
+    },
+    {
+      "id": "1513326371534016622",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "angbak",
+      "reactions": 16,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1513090503569182871",
@@ -176,6 +184,14 @@
       "channel": "🔸game-question"
     },
     {
+      "id": "1513180917999468615",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "46982105",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1513232923212648661",
       "channel_id": "1131839817982947429",
       "content": "剩我一個連怎麼玩群友都不知道了….\n輸光…",
@@ -198,6 +214,14 @@
       "author": "morimensstaff06",
       "reactions": 10,
       "channel": ":man_detective: 相位對弈：對戰表情"
+    },
+    {
+      "id": "1513320762134630630",
+      "channel_id": "1170692781216378960",
+      "content": "I just realized that the server member count went down by 100",
+      "author": "spooky_penguin_",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1513316184311992360",
@@ -224,67 +248,43 @@
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1513322234654097499",
-      "channel_id": "1300659662311526512",
-      "content": "Casi sentí que me penetraban",
-      "author": "grrffith",
-      "reactions": 7,
-      "channel": "🔸canal-español"
-    },
-    {
-      "id": "1513052029554262148",
-      "channel_id": "1131839817982947429",
-      "content": "喜欢我130抽一个24吗",
-      "author": "ponponnyaru",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1513055524231319602",
-      "channel_id": "1131839817982947429",
-      "content": "你可以給錢包養直接用<:pray:1356053116260454534>",
-      "author": "0.0._.0_0.",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1513099266246049952",
-      "channel_id": "1131839817982947429",
-      "content": "你塔就这么为我们24女王当绿叶💅",
-      "author": "ponponnyaru",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1513194473880817774",
-      "channel_id": "1131839817982947429",
-      "content": "[Jump to original message](https://discord.com/channels/@me/1131839817982947429/",
-      "author": "Make it a Quote",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1513237343371530300",
-      "channel_id": "1131839817982947429",
-      "content": "今晚战绩",
-      "author": "ponponnyaru",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1513077923744059402",
-      "channel_id": "1300659753197764688",
-      "content": "N 3rd anniversary trust guys",
-      "author": "catdumb0483_76154",
-      "reactions": 7,
-      "channel": "🔸ruang-obrolan-indonesia"
-    },
-    {
-      "id": "1513012401367154768",
+      "id": "1513257895884619858",
       "channel_id": "1170692781216378960",
-      "content": "what is birth ritual",
-      "author": "redb100dedwoman",
-      "reactions": 6,
+      "content": "Oooh not bad",
+      "author": "iv_dog",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1513316885570125935",
+      "channel_id": "1170692781216378960",
+      "content": "Why are people posting in the autoban channel, are they stupid?",
+      "author": "xiii_c",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1513318919270699270",
+      "channel_id": "1170692781216378960",
+      "content": "Can't wait to see someone major in the community get banned because they posted ",
+      "author": "mesozoicguy15",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1513327558060544030",
+      "channel_id": "1170692781216378960",
+      "content": "https://tenor.com/view/he-ate-them-youtube-thumbnail-fnaf-gif-171723917052648312",
+      "author": "disgustedingucci",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1513329073882140693",
+      "channel_id": "1170692781216378960",
+      "content": "I would hope that yall trust me to make a right move, thanks",
+      "author": "angbak",
+      "reactions": 7,
       "channel": "🔸morimens-game-chat"
     }
   ]

@@ -1,0 +1,240 @@
+{
+  "date": "2026-07-29",
+  "messages": 3425,
+  "unique_authors": 264,
+  "reactions_total": 356,
+  "attachments": 215,
+  "channel_activity": {
+    "🔸綜合討論": 381,
+    "🔸阵容构建": 14,
+    "🔸剧情交流": 5,
+    "🔸晒卡分享": 2,
+    "🔸课间休息闲聊": 5,
+    "🔸日本語チャンネル": 3,
+    "🔸한국어-채팅방": 25,
+    "🔸deutscher-chatraum": 1,
+    "🔸chaîne-française": 4,
+    "🔸русский-канал": 10,
+    "🔸phòng-chat-tiếng-việt": 339,
+    "🔸canal-español": 195,
+    "🔸canal-português": 60,
+    "🔸ruang-obrolan-indonesia": 20,
+    "🔸ห้องสนทนาภาษาไทย": 39,
+    "🔸traphase": 17,
+    "🔸lore-chat": 184,
+    "🔸lets-count": 7,
+    "🔸team-building": 439,
+    "🔸邀请码互助┊swap-invitation-codes": 4,
+    "🔸game-question": 1569,
+    "🔸游戏问题": 1,
+    "🔸机器人命令┊bot-commands": 26,
+    "重新放一下": 2,
+    "这个那个": 1,
+    "堆图ing": 2,
+    "enemy preview on story stages": 1,
+    "Reliquias bugeadas en las zonas de recuperación de arco 2": 1,
+    "劇情文字出了點問題🧐": 3,
+    "關於sp蘿坦的最終法則與蝕滅疑似聯動bug": 4,
+    "关于蚀罗超维空间": 2,
+    "向上墜落": 2,
+    "New chaos realm mechanic breaks in 1.0 content": 3,
+    "Can we get new icons for Benthos/Singularity/Propagation/Primordia Realms?": 1,
+    "困難壞掉了": 16,
+    "💭「Processing」(2.5.3.1) Display issue: \"New Items\" pop-up windows missing on PC client since 2.5.3.0": 1,
+    "💭「Processing」Optimization on iOs": 1,
+    "Divine Realms, Aliemus Costs and other Future Worries": 1,
+    "Potential improvements for Hameln": 1,
+    "Can we increase Arcane Dominion runs?": 1,
+    "Please rework how Propagation Caro works for the future units": 7,
+    "V2.5.3.2 在线维护公告": 1,
+    "V2.5.1.0 停服维护公告": 5,
+    "William 🗝️": 1,
+    "Vortice sketch": 3,
+    "【English Translation】Opinions Collection": 2,
+    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 1,
+    "V2.5.0 命运剧院┊Theater of Fate": 1,
+    "融災幫打": 1,
+    "抽卡規劃？": 1,
+    "求融災組隊，目標350+": 8,
+    "求隊伍跟目前強度排行😭": 1
+  },
+  "hourly_activity": {
+    "0": 188,
+    "1": 300,
+    "2": 259,
+    "3": 328,
+    "4": 440,
+    "5": 347,
+    "6": 643,
+    "7": 465,
+    "8": 306,
+    "9": 149
+  },
+  "message_types": {
+    "0": 2517,
+    "19": 899,
+    "20": 9
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1531926446027571322",
+      "channel_id": "1531036924922564858",
+      "content": "Thank you all for your valuable feedback. We understand your anxiety and concern",
+      "author": "morimensstaff03",
+      "reactions": 16,
+      "channel": "Divine Realms, Aliemus Costs and other Future Worries"
+    },
+    {
+      "id": "1531927995592216596",
+      "channel_id": "1504798331593818263",
+      "content": "Behind these suggestions, I can feel the community's concerns and love for Morim",
+      "author": "morimensstaff03",
+      "reactions": 7,
+      "channel": "Please rework how Propagation Caro works for the future units"
+    },
+    {
+      "id": "1531952614495883324",
+      "channel_id": "1131839817982947429",
+      "content": "你蘿阿姨越來越胖了",
+      "author": "ice_storys",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531936034768814200",
+      "channel_id": "1531936034768814200",
+      "content": "https://x.com/SaminDraws/status/2082373504482025726?s=20",
+      "author": "samin_",
+      "reactions": 6,
+      "channel": "William 🗝️"
+    },
+    {
+      "id": "1531892334424494224",
+      "channel_id": "1131839817982947429",
+      "content": "鍵帽：反正有數值自然有人幫我洗🐒",
+      "author": "hon_ey0",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531906669955645441",
+      "channel_id": "1300659603993923644",
+      "content": "wow wow wow đỏ mặt",
+      "author": "vermiyy",
+      "reactions": 5,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1531903627269116027",
+      "channel_id": "1326453763355185215",
+      "content": "nope",
+      "author": "_venush",
+      "reactions": 5,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1531953896006746184",
+      "channel_id": "1326453763355185215",
+      "content": "\"WOW GLOTAN! That guy is the best Knight in all the Six Kingdoms, he killed 1500",
+      "author": "jadlithon",
+      "reactions": 5,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1531853034206920785",
+      "channel_id": "1400749543288475770",
+      "content": "I just did 50M damage with Salvador😇",
+      "author": "atlanteantitanoboa",
+      "reactions": 5,
+      "channel": "🔸team-building"
+    },
+    {
+      "id": "1531916830472540291",
+      "channel_id": "1433513650299076780",
+      "content": "NOOOOOOOOOOOO",
+      "author": "fokkorev",
+      "reactions": 5,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1531836391896387719",
+      "channel_id": "1131839817982947429",
+      "content": "19级账号满血碾压无光终关<:Celeste_agree:1400771815076528258>",
+      "author": "yang015148",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531902399457923132",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "under_bright_light",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531952414209605717",
+      "channel_id": "1131839817982947429",
+      "content": "結果又重5噸",
+      "author": "heikwok",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531837179767029950",
+      "channel_id": "1326453763355185215",
+      "content": "glotan so powerful that reading her story made my steam crash i guess",
+      "author": "reya.li",
+      "reactions": 4,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1531900995439689738",
+      "channel_id": "1326453763355185215",
+      "content": "I thought you guys were talking about the jap shit",
+      "author": "_venush",
+      "reactions": 4,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1531864199691505684",
+      "channel_id": "1173463482503536711",
+      "content": "🤓 👆",
+      "author": "ice_storys",
+      "reactions": 3,
+      "channel": "🔸剧情交流"
+    },
+    {
+      "id": "1531876447617028270",
+      "channel_id": "1300659603993923644",
+      "content": "Medicine thi cx dau con la newbie nua...",
+      "author": "wolfyy1",
+      "reactions": 3,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1531929586336796814",
+      "channel_id": "1300659603993923644",
+      "content": "chắc là cần ham k anh",
+      "author": "vermiyy",
+      "reactions": 3,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1531868561407217674",
+      "channel_id": "1300659662311526512",
+      "content": "Un daño que nunca creí conseguí",
+      "author": "keldarkshed",
+      "reactions": 3,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1531897452142268486",
+      "channel_id": "1326453763355185215",
+      "content": "why did the uploader put slurs there what the fuck",
+      "author": "arsenyx_9999",
+      "reactions": 3,
+      "channel": "🔸lore-chat"
+    }
+  ]
+}
