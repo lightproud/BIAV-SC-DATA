@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
-  "archived_at": "2026-07-28T22:05:28.493096+00:00",
+  "archived_at": "2026-07-29T02:27:47.793070+00:00",
   "source": "youtube",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[Morimens] Explaining every Viable G-Lotan Story and D-Tide Comp. SLOWLY",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/FYhH-DO1u_o/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Lotan: Cetarchon / Tawil lineup has some cool interactions",
+      "summary": "https://www.twitch.tv/Nazoric https://www.youtube.com/@Cirozan/streams.",
+      "source": "youtube",
+      "time": "2026-07-29T00:51:38Z",
+      "url": "https://www.youtube.com/watch?v=K-uDLgd5hE0",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Nazoric",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/K-uDLgd5hE0/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

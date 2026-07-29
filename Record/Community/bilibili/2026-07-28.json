@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-28T22:05:28.490639+00:00",
+  "archived_at": "2026-07-29T02:27:47.791499+00:00",
   "source": "bilibili",
-  "item_count": 44,
+  "item_count": 46,
   "items": [
     {
       "title": "【原初·混沌】介绍&amp;杂谈",
@@ -304,6 +304,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "【忘却前夜】亵渎圣心批发商",
+      "summary": "-\n  └ 汤圆Devil (0赞): 绝活鸟弟真的很可怕",
+      "source": "bilibili",
+      "time": "2026-07-28T11:04:28+00:00",
+      "url": "https://www.bilibili.com/video/BV1kg3B6gEYt",
+      "engagement": 140,
+      "is_hot": false,
+      "author": "一位惊鸿客",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 139,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/ee43f1d3da6e1651df8a40311128cefc770749c4.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "⚡正道的光⚡",
       "summary": "-\n  └ 哈基沙大玉 (0赞): [鸣潮2周年同人绘画_看你]\n  └ 哲学の真理 (0赞): [打call]",
       "source": "bilibili",
@@ -506,6 +529,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/024569286b9c4982549db778992feae09d454919.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "我  腐败不堪",
+      "summary": "郁纪  我知道你在看\n  └ Nautilus114 (2赞): @-昆扬 你头像\n  └ 哈基沙大玉 (0赞): 可爱捏\n  └ -昆扬 (0赞): [魔法少女的魔女审判表情包_哦吼吼]",
+      "source": "bilibili",
+      "time": "2026-07-28T05:50:48+00:00",
+      "url": "https://www.bilibili.com/video/BV1g43i6DEab",
+      "engagement": 105,
+      "is_hot": false,
+      "author": "谁说宅咩没有未来的",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 102,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/b3c0c7b9d530af34ee082fee8f35ce16ef22e448.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

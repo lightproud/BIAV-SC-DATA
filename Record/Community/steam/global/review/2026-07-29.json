@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
-  "archived_at": "2026-07-28T22:05:28.681486+00:00",
+  "archived_at": "2026-07-29T02:27:47.984639+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
     {
       "title": "[负面] I've played two gacha games: this and Limbus Compa...",
@@ -94,6 +94,54 @@
         "playtime_forever": 2507,
         "votes_up": 0,
         "timestamp_created": 1785267300
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Мрачная атмосфера и карточные сражения неплохо доп...",
+      "summary": "Мрачная атмосфера и карточные сражения неплохо дополняют друг друга, поэтому каждый новый забег ощущается по-своему. Со временем всё больше втягиваешься в сборку колоды и начинаешь искать более удачные комбинации, из-за чего желание пройти ещё один забег появляется само собой.\nМоя оценка — ⭐⭐⭐⭐☆",
+      "source": "steam_review",
+      "time": "2026-07-29T01:28:08+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199029238446/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199029238446",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 32,
+        "votes_up": 0,
+        "timestamp_created": 1785288488
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] Очередное антмешное дерьмецо",
+      "summary": "Очередное антмешное дерьмецо",
+      "source": "steam_review",
+      "time": "2026-07-29T01:24:12+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198992611438/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198992611438",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 144,
+        "votes_up": 0,
+        "timestamp_created": 1785288252
       },
       "region": "global",
       "archive_subtype": "review",
