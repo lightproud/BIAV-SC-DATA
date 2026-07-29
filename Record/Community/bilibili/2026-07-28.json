@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-29T05:53:34.993536+00:00",
+  "archived_at": "2026-07-29T08:39:11.637077+00:00",
   "source": "bilibili",
-  "item_count": 46,
+  "item_count": 47,
   "items": [
     {
       "title": "【原初·混沌】介绍&amp;杂谈",
@@ -253,6 +253,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/9b19a2e7a8a1a7d0905cbf7f458a46270b1a662d.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "卡关了",
+      "summary": "-\n  └ _周天子 (1赞): 沙耶养起来，sp罗坦抽个2启，这两个就可以，等下一轮选池抽个莫夏",
+      "source": "bilibili",
+      "time": "2026-07-28T12:09:05+00:00",
+      "url": "https://www.bilibili.com/video/BV1uX3q6QESa",
+      "engagement": 171,
+      "is_hot": false,
+      "author": "欢葬冥日",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 167,
+        "comment_count": 4,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/08171af72751a795e3d435b36e336f36ab38ef01.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

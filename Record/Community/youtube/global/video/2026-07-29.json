@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
-  "archived_at": "2026-07-29T05:53:34.995142+00:00",
+  "archived_at": "2026-07-29T08:39:11.638775+00:00",
   "source": "youtube",
-  "item_count": 12,
+  "item_count": 13,
   "items": [
     {
       "title": "[Morimens] Infinite Tawil is back. G-Lotan Tawil Combo that only needs e0 G-Lotan. 30 cards a turn.",
@@ -34,6 +34,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/FYhH-DO1u_o/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜/steam版】メインストーリーやるぜ 第Ⅵ章 ～【ローグライク/コズミックホラー系カードRPG】",
+      "summary": "プロフィール 種族：妖狐 名前：庵風狐(いおりふぁんこ) ——————————————————————————— 忘却前夜 ...",
+      "source": "youtube",
+      "time": "2026-07-29T06:46:36Z",
+      "url": "https://www.youtube.com/watch?v=Yh6_yj-Ew-M",
+      "engagement": 11,
+      "is_hot": false,
+      "author": "🍁庵 風狐🍁 / iori fanko",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/Yh6_yj-Ew-M/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
