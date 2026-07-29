@@ -1,0 +1,23 @@
+{
+  "date": "2026-07-28",
+  "archived_at": "2026-07-29T16:22:26.107145+00:00",
+  "source": "appstore",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Nice",
+      "summary": "Good",
+      "source": "appstore",
+      "time": "2026-07-27T23:39:28-07:00",
+      "url": "https://apps.apple.com/it/app/id6447354150?see-all=reviews#as-14357281231",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "AllGripNoSlip",
+      "tags": [],
+      "lang": "it",
+      "platform_region": "it",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-29T14:07:19.046414+00:00",
+  "archived_at": "2026-07-29T16:22:26.184523+00:00",
   "source": "google_play",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[Google Play 好评] ★5 like this game, it actually has more dep",
@@ -58,6 +58,20 @@
       "tags": [],
       "lang": "ko",
       "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 só tô jogando por causa da colab de Saya",
+      "summary": "só tô jogando por causa da colab de Saya no Uta 😔👌🏻",
+      "source": "google_play",
+      "time": "2026-07-28T14:57:17",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=pt#gp-32c5a0b6-bb08-4826-b5f2-5e30d9cdef15",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Persona 5 da Sofrência Josi Memes",
+      "tags": [],
+      "lang": "pt",
+      "platform_region": "br",
       "region": "global"
     }
   ],

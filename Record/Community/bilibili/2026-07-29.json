@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
-  "archived_at": "2026-07-29T14:07:18.857089+00:00",
+  "archived_at": "2026-07-29T16:22:26.035351+00:00",
   "source": "bilibili",
-  "item_count": 18,
+  "item_count": 19,
   "items": [
     {
       "title": "【时摆组/手书】言って。 (说吧。)",
@@ -69,6 +69,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/bc42d11dcb44e3da21026b17924c9eb59934b617.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "一款皮肤卖至少68，要么换色要么换动作，吃相太难看！",
+      "summary": "差点就万众期待失败结局\n  └ cn红烧生姜 (4赞): jt8-3\n  └ 寂榕 (1赞): 这个不是免费的吗\n  └ _double_double (0赞): 太难看了，我还全买了[大哭]",
+      "source": "bilibili",
+      "time": "2026-07-29T13:51:31+00:00",
+      "url": "https://www.bilibili.com/video/BV1Av3n6FEqY",
+      "engagement": 392,
+      "is_hot": false,
+      "author": "全忘却最尊重圣婴之人",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 386,
+        "comment_count": 6,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/0c3e3b5a73ab86648df514783e3816a88eb3d961.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
