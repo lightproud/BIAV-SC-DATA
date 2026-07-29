@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "archived_at": "2026-07-29T19:15:20.933338+00:00",
+  "archived_at": "2026-07-29T22:01:31.119745+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "【忘却前夜】主C莱克1t2-5",
@@ -23,6 +23,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/fc02e8d2222c7d891c4e6fb58552b157e41b0bc5.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "三区大战大眼珠子（我已启动）",
+      "summary": "忘却篇全程开荒不用复活药拿2启塔薇硬凹，有这个毅力做什么都能成功的",
+      "source": "bilibili",
+      "time": "2026-07-29T20:40:33+00:00",
+      "url": "https://www.bilibili.com/video/BV1Bs3H6RE8U",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "CreScent知式",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 3,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/b010d93c5cde9b169005e8c8b09af21be624c6b3.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

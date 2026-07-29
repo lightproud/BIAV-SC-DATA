@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
-  "archived_at": "2026-07-29T19:15:20.931414+00:00",
+  "archived_at": "2026-07-29T22:01:31.117201+00:00",
   "source": "bilibili",
-  "item_count": 19,
+  "item_count": 20,
   "items": [
     {
       "title": "【时摆组/手书】言って。 (说吧。)",
@@ -207,6 +207,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/3a28b08f8fdce92f086ecf716124aba296c18e90.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "沙耶之题：由劣质题目组成的少女",
+      "summary": "-\n  └ QINxLiu (1赞): 算你刷的多\n  └ QINxLiu (1赞): 疑似刷题区刷晕后的幻想\n  └ QINxLiu (1赞): 给你多评论几个，创意牛大了[打call]",
+      "source": "bilibili",
+      "time": "2026-07-29T13:45:49+00:00",
+      "url": "https://www.bilibili.com/video/BV1FC3n69E3C",
+      "engagement": 114,
+      "is_hot": false,
+      "author": "Yuki该呢称已存在",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 106,
+        "comment_count": 8,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/0783de2150df4f3d68cf54c12cc8e90e926765ef.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
