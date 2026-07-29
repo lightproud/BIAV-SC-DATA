@@ -1,9 +1,32 @@
 {
   "date": "2026-07-29",
-  "archived_at": "2026-07-29T11:27:32.827535+00:00",
+  "archived_at": "2026-07-29T14:07:18.857089+00:00",
   "source": "bilibili",
-  "item_count": 15,
+  "item_count": 18,
   "items": [
+    {
+      "title": "【时摆组/手书】言って。 (说吧。)",
+      "summary": "愿世界和平，愿时摆结婚。\n含部分现代私设ooc致歉！\n原曲：yorushika-言って。 (说吧。)\n原作：忘却前夜\n  └ 百合子闪亮登场 (7赞): 所有人拿起智能手机输入时摆组99\n  └ bili_83727925235 (1赞): 老大高技术力啊[星星眼]\n  └ 一个在床上的废人 (1赞): 太高产、太丰盛了，给我吃出断头饭的感觉了",
+      "source": "bilibili",
+      "time": "2026-07-29T11:51:21+00:00",
+      "url": "https://www.bilibili.com/video/BV1yi316vExM",
+      "engagement": 1147,
+      "is_hot": true,
+      "author": "保温傍晚bw",
+      "tags": [
+        "同人·手书"
+      ],
+      "metadata": {
+        "play": 1136,
+        "comment_count": 11,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/7b069f4cc891592b3faf5b65ac4a859668a2aead.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "腐烂世界里的最后一首情歌-seedance2.0《沙耶之歌》",
       "summary": "个人观点，仅为二创。\n  └ 暮色吟游者L (1赞): 丰饶星神来点了个赞\n  └ 多个圈子混过的熊Happy (1赞): 第三[星星眼]我还以为更新了\n  └ 唐紫李 (0赞): 孩子们快看是谁来了？",
@@ -115,6 +138,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/37c021c9bd9065eccc2641a19a9547b4f459ea69.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】低配蚀灭萝坦 融灾2-5",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-29T04:05:57+00:00",
+      "url": "https://www.bilibili.com/video/BV1Df3r6PE4Y",
+      "engagement": 128,
+      "is_hot": false,
+      "author": "ぽんとねい",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 128,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/11c54e34a0bb3fb7d6b3ed9a43f2dbf670ada7f8.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -276,6 +322,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/b7bfbdb54738a6b0b958d96ab59508ec03561960.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "想入穿入烂本“小姐”？",
+      "summary": "被荆棘反伤了\n  └ 是Eta呀 (1赞): 这都有沙耶[星星眼]",
+      "source": "bilibili",
+      "time": "2026-07-29T12:00:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1Xq3k6TECn",
+      "engagement": 23,
+      "is_hot": false,
+      "author": "夏_雨风",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 22,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/d41a54588526c30a075da091fefededbe304b320.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

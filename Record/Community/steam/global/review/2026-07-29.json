@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
-  "archived_at": "2026-07-29T11:27:32.965590+00:00",
+  "archived_at": "2026-07-29T14:07:19.034734+00:00",
   "source": "steam",
-  "item_count": 8,
+  "item_count": 9,
   "items": [
     {
       "title": "[负面] I've played two gacha games: this and Limbus Compa...",
@@ -190,6 +190,30 @@
         "playtime_forever": 6497,
         "votes_up": 0,
         "timestamp_created": 1785314752
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 决战剧情之巅",
+      "summary": "决战剧情之巅",
+      "source": "steam_review",
+      "time": "2026-07-29T13:01:41+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199693436117/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199693436117",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 224,
+        "votes_up": 0,
+        "timestamp_created": 1785330101
       },
       "region": "global",
       "archive_subtype": "review",

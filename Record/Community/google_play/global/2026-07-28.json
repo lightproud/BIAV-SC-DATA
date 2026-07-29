@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "archived_at": "2026-07-29T11:27:32.980432+00:00",
+  "archived_at": "2026-07-29T14:07:19.046414+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 好评] ★5 like this game, it actually has more dep",
@@ -30,6 +30,34 @@
       "tags": [],
       "lang": "ru",
       "platform_region": "ru",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Character designs, story lines, battles,",
+      "summary": "Character designs, story lines, battles, everything about the game is perfect. You guys deserve all attention.",
+      "source": "google_play",
+      "time": "2026-07-28T13:29:58",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-140f0e0f-243d-4263-b0c5-e6ec65367df0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Hürü Həşimova",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 덱빌딩 게임 좋아하는데 재밌어요 배경이나 아트가 정말 매력적이에요",
+      "summary": "덱빌딩 게임 좋아하는데 재밌어요 배경이나 아트가 정말 매력적이에요",
+      "source": "google_play",
+      "time": "2026-07-28T13:51:51",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-e9ea3b70-7767-4c76-9e21-5e3cd30711f0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "김민영",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
       "region": "global"
     }
   ],
