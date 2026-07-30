@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "archived_at": "2026-07-30T16:27:46.875186+00:00",
+  "archived_at": "2026-07-30T19:24:37.227086+00:00",
   "source": "bilibili",
-  "item_count": 18,
+  "item_count": 19,
   "items": [
     {
       "title": "【忘却前夜】暴力输出！蚀灭·萝坦详细攻略",
@@ -92,6 +92,29 @@
         "danmaku": 2
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/c4b52aafe0e1614bb2130a9e23b9cee52342732d.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "电脑上有一款加强怪物不加强角色的数值膨胀堪比影子国币的回合制卡牌游戏",
+      "summary": "-\n  └ 全忘却最尊重圣婴之人 (0赞): 之前有人想让我打的回忆，以后打回忆只录最后一关了，不然太长了[doge]",
+      "source": "bilibili",
+      "time": "2026-07-30T15:20:28+00:00",
+      "url": "https://www.bilibili.com/video/BV17J3b6GE4E",
+      "engagement": 555,
+      "is_hot": false,
+      "author": "全忘却最尊重圣婴之人",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 554,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/d308942b68a1baa1d9ada4dd6baed079edf76e83.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

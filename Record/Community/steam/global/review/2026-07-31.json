@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-31",
+  "archived_at": "2026-07-30T19:24:37.413961+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[正面] peak",
+      "summary": "peak",
+      "source": "steam_review",
+      "time": "2026-07-30T16:16:46+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198086339954/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198086339954",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 348,
+        "votes_up": 0,
+        "timestamp_created": 1785428206
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Addicting gameplay loop, engaging stories, excepti...",
+      "summary": "Addicting gameplay loop, engaging stories, exceptional OSTs, and cute and smoking hot characters (my main selling point.)",
+      "source": "steam_review",
+      "time": "2026-07-30T16:00:03+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199206720976/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199206720976",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 8769,
+        "votes_up": 0,
+        "timestamp_created": 1785427203
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

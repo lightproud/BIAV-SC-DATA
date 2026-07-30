@@ -1,8 +1,8 @@
 {
   "date": "2026-07-31",
-  "archived_at": "2026-07-30T16:27:46.877059+00:00",
+  "archived_at": "2026-07-30T19:24:37.229109+00:00",
   "source": "bahamut",
-  "item_count": 22,
+  "item_count": 23,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -50,6 +50,19 @@
       "time": "2026-07-30T16:26:07.415728+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1506&tnum=3",
       "engagement": 65,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【攻略】核彈級大C? 蝕滅 • 蘿坦抽取建議",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-07-30T19:23:04.966387+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1509&tnum=3",
+      "engagement": 51,
       "is_hot": false,
       "author": "t12345825",
       "tags": [],
