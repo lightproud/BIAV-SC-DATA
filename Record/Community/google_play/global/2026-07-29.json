@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
-  "archived_at": "2026-07-30T05:40:42.048753+00:00",
+  "archived_at": "2026-07-30T08:24:23.169340+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 中评] ★3 The game is so good for turn-based lover",
@@ -30,6 +30,20 @@
       "tags": [],
       "lang": "en",
       "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 finalmente in Italiano. gioco di strateg",
+      "summary": "finalmente in Italiano. gioco di strategia vera con carte, non parliamo di soliti Idle automatici, qua devi usare la testa. ogni personaggio ha le sue abilità. trama oscura, lovecraftiana, pesante. da giocare e da fare spargere la voce per farlo giocare. fine.",
+      "source": "google_play",
+      "time": "2026-07-29T07:37:17",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=it#gp-94adb568-bd72-4963-a4a0-2a296cf1bc92",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Manuel Urbano",
+      "tags": [],
+      "lang": "it",
+      "platform_region": "it",
       "region": "global"
     }
   ],

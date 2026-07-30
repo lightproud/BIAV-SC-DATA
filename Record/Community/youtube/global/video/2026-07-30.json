@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "archived_at": "2026-07-30T05:40:41.861832+00:00",
+  "archived_at": "2026-07-30T08:24:22.945509+00:00",
   "source": "youtube",
-  "item_count": 11,
+  "item_count": 14,
   "items": [
     {
       "title": "[Morimens] Infinite Tawil G-Lotan Chinese version (Patched) and CN reactions to Doresain vs Glotan",
@@ -124,6 +124,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "【忘却前夜】イベント「半歩の隔たり」虚無の扉「招待・超難度」",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-07-30T06:55:14Z",
+      "url": "https://www.youtube.com/watch?v=fPtwoh_iJxI",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/fPtwoh_iJxI/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "&quot;You Will Never Let Go Of Her Hand...&quot; | Morimens: Inverted Rebirth (Part 2)",
       "summary": "Welcome back to Part 2 of our journey through the Saya Crossover Event: Inverted Rebirth in Morimens! (Quick heads up: I record ...",
       "source": "youtube",
@@ -187,6 +204,40 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/aa6XBeIXZAw/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Part IV: Psyche Deep dive: A Knight&#39;s Wish",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-07-30T08:13:54Z",
+      "url": "https://www.youtube.com/watch?v=ROF5RlW3cBc",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Satus Oblitan",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/ROF5RlW3cBc/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】通常調査 星辰正しき刻「1-6」〜「1-10」",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-07-30T08:12:20Z",
+      "url": "https://www.youtube.com/watch?v=TAjdY0uHYSM",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/TAjdY0uHYSM/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
