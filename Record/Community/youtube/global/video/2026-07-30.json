@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "archived_at": "2026-07-30T11:08:20.451905+00:00",
+  "archived_at": "2026-07-30T13:57:38.026484+00:00",
   "source": "youtube",
-  "item_count": 17,
+  "item_count": 19,
   "items": [
     {
       "title": "[Morimens] Best Use Cases for &quot;Falling Upwards&quot;. A wheel for the lazy and Pontos",
@@ -34,6 +34,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/h9xO5Gv7mMo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Vậy Lotan Mới &quot;Bá&quot; Đến Mức Nào? | Tiêu Điểm MORIMENS",
+      "summary": "Genesis Lotan cuối cùng cũng đã chính thức ra mắt trong Morimens, đồng thời đánh dấu Genesis starter đầu tiên được xây dựng ...",
+      "source": "youtube",
+      "time": "2026-07-30T13:00:25Z",
+      "url": "https://www.youtube.com/watch?v=F9lZp5kHm_I",
+      "engagement": 177,
+      "is_hot": false,
+      "author": "SÚNG VÀ KIẾM - Gacha Gaming",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/F9lZp5kHm_I/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -289,6 +306,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/bZKhjTID4gQ/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "沙耶の唄コラボに釣られて忘却前夜を始める初心者動画16",
+      "summary": "高難易度6章最終戦.",
+      "source": "youtube",
+      "time": "2026-07-30T12:06:35Z",
+      "url": "https://www.youtube.com/watch?v=r4RUvT4o4XI",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "和音",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/r4RUvT4o4XI/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

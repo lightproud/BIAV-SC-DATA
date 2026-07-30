@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "archived_at": "2026-07-30T11:08:20.650401+00:00",
+  "archived_at": "2026-07-30T13:57:38.226571+00:00",
   "source": "steam",
-  "item_count": 9,
+  "item_count": 13,
   "items": [
     {
       "title": "[正面] все кайфово конечно же, интересная карточная игра...",
@@ -214,6 +214,102 @@
         "playtime_forever": 18242,
         "votes_up": 0,
         "timestamp_created": 1785396949
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 好玩",
+      "summary": "好玩",
+      "source": "steam_review",
+      "time": "2026-07-30T12:09:42+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199862791647/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199862791647",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 645,
+        "votes_up": 0,
+        "timestamp_created": 1785413382
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 喜欢好玩爱玩",
+      "summary": "喜欢好玩爱玩",
+      "source": "steam_review",
+      "time": "2026-07-30T11:41:53+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198789716645/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198789716645",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1822,
+        "votes_up": 0,
+        "timestamp_created": 1785411713
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] gatcha mechanic is kinda of predatory, the game ha...",
+      "summary": "gatcha mechanic is kinda of predatory, the game has a bit too much ui, and its very much pay to win. Outside of that the games music, art style, and story are all great, and you don't need to pay any money to get anything but characters and items benefit from getting them 16 times, of which its a 3% chance",
+      "source": "steam_review",
+      "time": "2026-07-30T11:32:35+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198304841017/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198304841017",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 995,
+        "votes_up": 0,
+        "timestamp_created": 1785411155
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] One of the best Gachas on the market, really gener...",
+      "summary": "One of the best Gachas on the market, really generous, amazing vibes, story, graphic design, incredibly fun combat mechanics, lots of events. Just so you're aware.... it's HARD. But not \"pay to win\" hard, you really need to think what you're doing at all times or get absolutely wrecked. All characters are good and have a place in endgame, you just need to figure out how to use them.",
+      "source": "steam_review",
+      "time": "2026-07-30T10:44:00+00:00",
+      "url": "https://steamcommunity.com/profiles/76561197970718601/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561197970718601",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 8154,
+        "votes_up": 0,
+        "timestamp_created": 1785408240
       },
       "region": "global",
       "archive_subtype": "review",
