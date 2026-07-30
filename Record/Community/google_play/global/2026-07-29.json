@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
-  "archived_at": "2026-07-30T08:24:23.169340+00:00",
+  "archived_at": "2026-07-30T11:08:20.759661+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 中评] ★3 The game is so good for turn-based lover",
@@ -44,6 +44,20 @@
       "tags": [],
       "lang": "it",
       "platform_region": "it",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 Буквально лютая копирка Reverse: 1999, н",
+      "summary": "Буквально лютая копирка Reverse: 1999, но на минималках",
+      "source": "google_play",
+      "time": "2026-07-29T10:49:14",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-89ed1244-b652-4e6d-9894-d95a21822cde",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "0_Lutz_0",
+      "tags": [],
+      "lang": "ru",
+      "platform_region": "ru",
       "region": "global"
     }
   ],

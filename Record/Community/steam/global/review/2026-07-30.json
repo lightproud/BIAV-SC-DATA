@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "archived_at": "2026-07-30T08:24:23.055137+00:00",
+  "archived_at": "2026-07-30T11:08:20.650401+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 9,
   "items": [
     {
       "title": "[正面] все кайфово конечно же, интересная карточная игра...",
@@ -94,6 +94,126 @@
         "playtime_forever": 19294,
         "votes_up": 0,
         "timestamp_created": 1785387669
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] gameplay and esthetics are top!",
+      "summary": "gameplay and esthetics are top!",
+      "source": "steam_review",
+      "time": "2026-07-30T10:36:45+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198737424994/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198737424994",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 27393,
+        "votes_up": 0,
+        "timestamp_created": 1785407805
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Rischiare di perdere un'intera fight perché i serv...",
+      "summary": "Rischiare di perdere un'intera fight perché i server laggano facendomi perdere a caso tutte le carte nella mia mano è sicuramente un'esperienza da 10/10.\r\nVoglio strangolare tutti i devs con un cavo d'acciaio",
+      "source": "steam_review",
+      "time": "2026-07-30T10:15:42+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199018207463/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199018207463",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1502,
+        "votes_up": 0,
+        "timestamp_created": 1785406542
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 我不知道策划您是怎么了，说实话这个自动战斗的功能不如没有吧\r\n然后骂一骂里面的列车模式，作为萌新每次...",
+      "summary": "我不知道策划您是怎么了，说实话这个自动战斗的功能不如没有吧\r\n然后骂一骂里面的列车模式，作为萌新每次打这个东西都会打力竭，里面怪物的血条比我的生命线还长，机制又多给你塞的debuff也多，每次进去就打一两个小时然后看着第三章末尾的三管血五管血boss发呆\r\n首先主播的角色强度肯定是不赖的因为沃的血希启灵+10了，但是每一次看到行动高伤害转阶段多机制多招小弟多净化多的boss我都会气笑。我真的无力了我要致敬里面所有的传奇列车长你们才是真正的神，不管是养成还是心理素质都是极其强大了，看到boss血条那一刻我直接自刎归天了\r\n给好评的原因是因为常驻池里可以捞限定\r\n除了抽卡和看主角和拉蒙娜的互动没觉得玩忘却前夜开心过",
+      "source": "steam_review",
+      "time": "2026-07-30T09:13:04+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198770950118/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198770950118",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3360,
+        "votes_up": 0,
+        "timestamp_created": 1785402784
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 风格独特",
+      "summary": "风格独特",
+      "source": "steam_review",
+      "time": "2026-07-30T08:51:33+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198689341668/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198689341668",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 688,
+        "votes_up": 0,
+        "timestamp_created": 1785401493
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 살아남기 위해 재화를 무지막지하게 많이 주고 3돌을 쉽게 하기로 선택한 인디크툴루가챠게임...",
+      "summary": "살아남기 위해 재화를 무지막지하게 많이 주고 3돌을 쉽게 하기로 선택한 인디크툴루가챠게임\n\n[h3] 장점 [/h3]\n가챠게임 중에서도 독자적인 영역을 확보함 얘는 대체가 안될거임\n크툴루 기반 실시간 운영 게임이라 스토리 퀄리티도 기본적으로 준수하고 엔드 컨텐츠도 도전 욕구를 불러 일으키고 온몸 비틀기를 하기 좋게 만들어놓음\n\n늙은 캐릭터 방치 안하고 계속 살리려고 버프해줌(그게 잘 되지는 않음)\n\n게임 자체가 가챠를 많이많이 하게 해줘서 헤헤 가챠한당 하고 오래 즐기기 좋음\n\n[h3] 복합적 [/h3]\n\n아직도 번역체임\n\n게임 구조 자체가 뻥튀기 버프 + 한번 실수하면 아작나는 구조라서 후반기로 갈 수록 머리 아프고 복잡해지고 \n스트레스 많이 받을 수 있음 얘네도 어려운거 알아서 스토리 부활권은 매일 1개씩 5회 저장하게 해줌\n\n패스나 패키지 판매 구조가 혜자긴 한데 풀돌컷이 16장임 이 게임 3돌(4장)이 다른 게임 명함 정도라고 생각하면 됨\n\n[h3] 단점 [/h3]\n\n게임사가 이상하리만치 자기네 전작에서 가져온 페이즈 체스 먹어보라고 [u]강요함[/u]\n\n엔드 컨텐츠가 온몸 비틀기를 전제로 만든 거라 오래 하면 지쳐서 쓰러질 수도 있음\n\n인디 게임이라서 디테일 적인 면이 좋다던지 볼게 많다던지 그런건 아님 해보면 짜치는 부분이 많음\n\n[h3] 총평 [/h3]\n\n게임사 규모 대비 굉장히 디테일 있고 섬세하게 만들어놓은 가챠 게임임\n\n특유의 향이 마음에 들면 진짜 오래 즐길 수 있을거임\n\n개발사가 이거 만드는거 말고 할게 없어서 서비스도 오래하고 유저친화적임 가끔 인디 규모의 한계로 인해 선을 넘긴 하는데 정신 잘차림\n\n해서 후회는 안함 난 재밌게 했음",
+      "source": "steam_review",
+      "time": "2026-07-30T07:35:49+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198439044604/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198439044604",
+      "tags": [
+        "koreana"
+      ],
+      "language": "koreana",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 18242,
+        "votes_up": 0,
+        "timestamp_created": 1785396949
       },
       "region": "global",
       "archive_subtype": "review",
