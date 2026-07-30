@@ -1,10 +1,11 @@
 {
   "date": "2026-06-08",
-  "messages": 24103,
+  "messages": 29020,
   "unique_authors": 516,
-  "reactions_total": 2471,
-  "attachments": 1360,
+  "reactions_total": 2990,
+  "attachments": 1633,
   "channel_activity": {
+    "🔸morimens-game-chat": 4917,
     "🔸general-chat": 1691,
     "🔸game-question": 6646,
     "🔸綜合討論": 3726,
@@ -95,22 +96,22 @@
     "Team recs and pulls advice": 1
   },
   "hourly_activity": {
-    "0": 1021,
-    "1": 831,
-    "2": 821,
-    "3": 809,
-    "4": 921,
-    "5": 1015,
-    "6": 1114,
-    "7": 1218,
-    "8": 1648,
-    "9": 969,
-    "10": 1277,
-    "11": 1224,
-    "12": 1209,
-    "13": 1037,
-    "14": 1499,
-    "15": 1410,
+    "0": 1468,
+    "1": 1257,
+    "2": 929,
+    "3": 1043,
+    "4": 1211,
+    "5": 1249,
+    "6": 1594,
+    "7": 1726,
+    "8": 1916,
+    "9": 1333,
+    "10": 1788,
+    "11": 1549,
+    "12": 1384,
+    "13": 1183,
+    "14": 1739,
+    "15": 1571,
     "16": 1175,
     "17": 888,
     "18": 633,
@@ -121,9 +122,10 @@
     "23": 896
   },
   "message_types": {
-    "0": 3271,
-    "19": 1282,
-    "20": 13
+    "19": 2949,
+    "0": 6505,
+    "20": 28,
+    "46": 1
   },
   "top_reacted_messages": [
     {
@@ -133,6 +135,14 @@
       "author": "morimensstaff06",
       "reactions": 13,
       "channel": "忘却前夜×沙耶之歌OST：沙耶EP·蒲公英去往何处"
+    },
+    {
+      "id": "1513365521108832338",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "jollysquire",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1513447913986986034",
@@ -231,6 +241,22 @@
       "channel": "HAPPY BIRTHDAY AURITA!!!!"
     },
     {
+      "id": "1513463692711432202",
+      "channel_id": "1170692781216378960",
+      "content": "finally, i finished it",
+      "author": "theomegafish",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1513525639142178978",
+      "channel_id": "1170692781216378960",
+      "content": "<@157679037240573953> <@1150928494302334996> <@1344504250784551014> <@9847871648",
+      "author": "reya.li",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1513575735099392050",
       "channel_id": "1131839817982947429",
       "content": "現在我也是關服了",
@@ -261,30 +287,6 @@
       "author": "l1nnnnnnn",
       "reactions": 7,
       "channel": "🔸晒卡分享"
-    },
-    {
-      "id": "1513514002087415878",
-      "channel_id": "1300659802455674972",
-      "content": "ไอดีเด็กเกิดมาก็ทาอิส e2",
-      "author": "ice3564",
-      "reactions": 7,
-      "channel": "🔸ห้องสนทนาภาษาไทย"
-    },
-    {
-      "id": "1513436564070596648",
-      "channel_id": "1433513650299076780",
-      "content": "meanwhile im just proud of this thing 💀",
-      "author": "lithanor",
-      "reactions": 6,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1513349965093671013",
-      "channel_id": "1131839817982947429",
-      "content": "+4 收工",
-      "author": "forg30215",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
     }
   ]
 }
