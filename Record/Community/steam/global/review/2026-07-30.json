@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "archived_at": "2026-07-30T13:57:38.226571+00:00",
+  "archived_at": "2026-07-30T16:27:47.079945+00:00",
   "source": "steam",
-  "item_count": 13,
+  "item_count": 14,
   "items": [
     {
       "title": "[正面] все кайфово конечно же, интересная карточная игра...",
@@ -310,6 +310,30 @@
         "playtime_forever": 8154,
         "votes_up": 0,
         "timestamp_created": 1785408240
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] fun fun fun cool",
+      "summary": "fun fun fun cool",
+      "source": "steam_review",
+      "time": "2026-07-30T13:29:50+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199667849388/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199667849388",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1133,
+        "votes_up": 0,
+        "timestamp_created": 1785418190
       },
       "region": "global",
       "archive_subtype": "review",

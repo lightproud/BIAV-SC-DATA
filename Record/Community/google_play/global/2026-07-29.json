@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
-  "archived_at": "2026-07-30T13:57:38.336313+00:00",
+  "archived_at": "2026-07-30T16:27:47.192566+00:00",
   "source": "google_play",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[Google Play 中评] ★3 The game is so good for turn-based lover",
@@ -58,6 +58,20 @@
       "tags": [],
       "lang": "ru",
       "platform_region": "ru",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 it was peak",
+      "summary": "it was peak",
+      "source": "google_play",
+      "time": "2026-07-29T15:01:23",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-84558713-9256-4e09-9132-3a2d902dd34e",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Shyla",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],

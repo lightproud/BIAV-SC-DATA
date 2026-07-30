@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "archived_at": "2026-07-30T13:57:38.026484+00:00",
+  "archived_at": "2026-07-30T16:27:46.876364+00:00",
   "source": "youtube",
-  "item_count": 19,
+  "item_count": 21,
   "items": [
     {
       "title": "[Morimens] Best Use Cases for &quot;Falling Upwards&quot;. A wheel for the lazy and Pontos",
@@ -124,6 +124,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Unoptimized Limbus Runs | Finishing Morimens Chapter 1 Today | Morimens Day 3",
+      "summary": "It Is Not Monday My Dudes.",
+      "source": "youtube",
+      "time": "2026-07-30T15:19:56Z",
+      "url": "https://www.youtube.com/watch?v=mLgBDyqGZD4",
+      "engagement": 17,
+      "is_hot": false,
+      "author": "LemonadeGang",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/mLgBDyqGZD4/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Morimens Gameplay | Chapter 7:Desire&#39;s Flow Playthrough | 7-2: Settlement",
       "summary": "Clearing Stage 7-2: Settlement in Morimens! In this video, I take on Chapter 7: Desire's Flow, specifically the second stage, ...",
       "source": "youtube",
@@ -153,6 +170,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/qX3UpnV4QC8/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens - Lotan Cetarchon - Arcade-N test (Against lvl 70 Putrescence Puppet Boss)",
+      "summary": "Team used: Lotan: Cetarchon, Cetus Occasus, Undying Hungerbone, April Tribute Hameln, Eternal Requiem, Elevated Focus, ...",
+      "source": "youtube",
+      "time": "2026-07-30T14:57:33Z",
+      "url": "https://www.youtube.com/watch?v=rLH8Vpgrx6E",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Lord Britt",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/rLH8Vpgrx6E/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
