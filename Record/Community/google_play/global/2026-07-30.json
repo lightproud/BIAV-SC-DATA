@@ -1,0 +1,23 @@
+{
+  "date": "2026-07-30",
+  "archived_at": "2026-07-30T22:07:15.066456+00:00",
+  "source": "google_play",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 great",
+      "summary": "great",
+      "source": "google_play",
+      "time": "2026-07-29T22:00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-1f4c2e60-b4be-471a-9a32-bc78f8b5975a",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "デーモンPurple",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}
