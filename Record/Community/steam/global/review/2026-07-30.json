@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-30",
+  "archived_at": "2026-07-30T02:09:18.413377+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[正面] все кайфово конечно же, интересная карточная игра...",
+      "summary": "все кайфово конечно же, интересная карточная игра про спам телекинезом, а также все предельно прикольно, -1/9 потому что могу, в общем не скачивайте я думаю, а также из за этой игры я теперь стал лудоманом cyкa прoeбaл вашу компанию в покер (простите гайс, я не умею играть в покер), рекомендую -5/1945",
+      "source": "steam_review",
+      "time": "2026-07-30T01:04:07+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199702674701/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199702674701",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 138,
+        "votes_up": 0,
+        "timestamp_created": 1785373447
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] good storyline, good character design, good pull r...",
+      "summary": "good storyline, good character design, good pull rates, gameplay is a bit repetitive but remains fun, pls nerf lotan cetarchon",
+      "source": "steam_review",
+      "time": "2026-07-30T00:11:19+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198962396444/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198962396444",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2343,
+        "votes_up": 0,
+        "timestamp_created": 1785370279
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

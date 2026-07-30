@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "archived_at": "2026-07-29T22:01:31.119745+00:00",
+  "archived_at": "2026-07-30T02:09:18.229544+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "【忘却前夜】主C莱克1t2-5",
@@ -46,6 +46,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/b010d93c5cde9b169005e8c8b09af21be624c6b3.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "在你终究无法到达好结局的世界……",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-30T01:01:31+00:00",
+      "url": "https://www.bilibili.com/video/BV1mG3W6rEX1",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "sha无おやに",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 1,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/dbac852ad74df449d86030b2fd27ea913914b5ae.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

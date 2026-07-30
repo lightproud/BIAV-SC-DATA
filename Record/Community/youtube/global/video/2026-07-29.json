@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
-  "archived_at": "2026-07-29T22:01:31.116258+00:00",
+  "archived_at": "2026-07-30T02:09:18.226513+00:00",
   "source": "youtube",
-  "item_count": 17,
+  "item_count": 18,
   "items": [
     {
       "title": "[Morimens] Infinite Tawil is back. G-Lotan Tawil Combo that only needs e0 G-Lotan. 30 cards a turn.",
@@ -51,6 +51,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/Yh6_yj-Ew-M/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "24 침식로탄 무셰트 타비",
+      "summary": "갇혀진 짐승 광기.",
+      "source": "youtube",
+      "time": "2026-07-29T12:30:52Z",
+      "url": "https://www.youtube.com/watch?v=cjJvRlPJ8QE",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Snakebones",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/cjJvRlPJ8QE/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
