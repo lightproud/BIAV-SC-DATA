@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
-  "archived_at": "2026-07-30T02:09:18.519117+00:00",
+  "archived_at": "2026-07-30T05:40:42.048753+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 中评] ★3 The game is so good for turn-based lover",
@@ -13,6 +13,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Ahmed husein",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 I'm having a lot of fun playing the game",
+      "summary": "I'm having a lot of fun playing the game. The character art style, story, and animations are beautifully made and perfectly suit my taste. While I might struggle a bit with the gameplay as I learn how the characters work and how to build them, it is an absolute masterpiece to me.",
+      "source": "google_play",
+      "time": "2026-07-29T02:17:01",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-2c143e5c-ffa9-40c0-b7ee-4652dccaf9c4",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "kymz",
       "tags": [],
       "lang": "en",
       "platform_region": "us",

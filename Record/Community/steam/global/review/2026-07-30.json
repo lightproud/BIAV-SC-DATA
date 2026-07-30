@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "archived_at": "2026-07-30T02:09:18.413377+00:00",
+  "archived_at": "2026-07-30T05:40:41.967139+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] все кайфово конечно же, интересная карточная игра...",
@@ -46,6 +46,30 @@
         "playtime_forever": 2343,
         "votes_up": 0,
         "timestamp_created": 1785370279
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] For me i just feel like ive hit the free wall fina...",
+      "summary": "For me i just feel like ive hit the free wall finally\nAfter some hours and trying to maxx my team every battle i start to die once or twice also im on the end of the second act btw\nill give it a 7/10",
+      "source": "steam_review",
+      "time": "2026-07-30T03:43:12+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198308389699/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198308389699",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 924,
+        "votes_up": 0,
+        "timestamp_created": 1785382992
       },
       "region": "global",
       "archive_subtype": "review",

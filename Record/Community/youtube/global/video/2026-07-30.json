@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "archived_at": "2026-07-30T02:09:18.228350+00:00",
+  "archived_at": "2026-07-30T05:40:41.861832+00:00",
   "source": "youtube",
-  "item_count": 10,
+  "item_count": 11,
   "items": [
     {
       "title": "[Morimens] Infinite Tawil G-Lotan Chinese version (Patched) and CN reactions to Doresain vs Glotan",
@@ -68,6 +68,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/Yh6_yj-Ew-M/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Gameplay | Chapter 7:Desire&#39;s Flow Playthrough | 7-2: Settlement",
+      "summary": "Clearing Stage 7-2: Settlement in Morimens! In this video, I take on Chapter 7: Desire's Flow, specifically the second stage, ...",
+      "source": "youtube",
+      "time": "2026-07-30T05:22:02Z",
+      "url": "https://www.youtube.com/watch?v=ZXWtb-dgdyw",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "ItsMczen",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/ZXWtb-dgdyw/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

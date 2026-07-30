@@ -1,9 +1,32 @@
 {
   "date": "2026-07-30",
-  "archived_at": "2026-07-30T02:09:18.229544+00:00",
+  "archived_at": "2026-07-30T05:40:41.862878+00:00",
   "source": "bilibili",
-  "item_count": 3,
+  "item_count": 6,
   "items": [
+    {
+      "title": "【忘却前夜】萌新记录第一次425 累计登录102天",
+      "summary": "-\n  └ 偶陈陈陈 (2赞): 大佬........佬，我还没拿过425[鸣潮2周年同人绘画动态表情包_看你][鸣潮2周年同人绘画动态表情包_自闭]\n  └ 寂榕 (1赞): 厉害了，这么快就425了\n  └ iq2233 (1赞): ？！氪氪！？",
+      "source": "bilibili",
+      "time": "2026-07-30T04:08:03+00:00",
+      "url": "https://www.bilibili.com/video/BV1er3x68EDA",
+      "engagement": 158,
+      "is_hot": false,
+      "author": "上好佳薯片丶",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 139,
+        "comment_count": 19,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/d40be173753311e62f17523387b595b502212419.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "【忘却前夜】主C莱克1t2-5",
       "summary": "-\n  └ 嘎啦嘎啦果 (1赞): 沙耶的侵蚀对血肉敌人有加成，蚀鲸打希洛天生有优势，这里仅供参考。\n蚀鲸专要蹲回合才能吃满加成，想打高伤害还要对轴看对面脸色，所以有超限莱克的不如让蚀鲸给莱克打工算了，两个黑印角色买穿商店不爽吗？\n星天之兽可以降配换成地瓜sr或者其他爆伤主属性命轮，反正某专武的主人目前已经没多少上场机会了。\n神混沌实在太适合莱克了，可以透支钥能做到一回合内觉醒、三选一、九选三，可以凹强效钥令，传统主c莱克基本是一波流，打一次超限就很难补回来了，得靠熔朵帮忙，而神混沌就不一样了，只要肯凹，应有尽有。",
@@ -51,6 +74,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "我可是超硬的！！！ᕦ(ò_óˇ)ᕤ",
+      "summary": "好硬啊",
+      "source": "bilibili",
+      "time": "2026-07-30T04:00:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1YE3C6uEVe",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "夏_雨风",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 3,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/7d377f130ddb7b1102be164836e0508c9dea26e7.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "在你终究无法到达好结局的世界……",
       "summary": "",
       "source": "bilibili",
@@ -69,6 +115,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/dbac852ad74df449d86030b2fd27ea913914b5ae.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "我在你眼中是怎样的",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-30T03:46:44+00:00",
+      "url": "https://www.bilibili.com/video/BV1Vm3x64EV1",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "神尾柚汐",
+      "tags": [
+        "配音"
+      ],
+      "metadata": {
+        "play": 1,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/6786f148e8759929c23b59a206105837936790a0.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
