@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "archived_at": "2026-07-31T02:36:45.531880+00:00",
+  "archived_at": "2026-07-31T06:13:05.686059+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 great",
@@ -30,6 +30,20 @@
       "tags": [],
       "lang": "es",
       "platform_region": "es",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 계정 로그인에서부터 막히고 메일보내도 해결방법 제공 없어요... 캐릭생성",
+      "summary": "계정 로그인에서부터 막히고 메일보내도 해결방법 제공 없어요... 캐릭생성도 안했는데 가득차서 못만든다고 뜨고 안고침+ 메일 3번 보냈는데 안읽고, 게임 설정에서 문의로 보내도 메크로답변만 줌",
+      "source": "google_play",
+      "time": "2026-07-30T04:05:19",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-64587045-3bc7-4de9-9495-02c23b357d9e",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "이준석",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
       "region": "global"
     }
   ],
