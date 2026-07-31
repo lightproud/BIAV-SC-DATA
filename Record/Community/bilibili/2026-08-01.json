@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
-  "archived_at": "2026-07-31T19:23:44.811461+00:00",
+  "archived_at": "2026-07-31T22:05:59.703590+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "【忘却前夜】最速融灾难5，沙耶莱克蚀罗，大运1T总3T 全程攻杀",
@@ -23,6 +23,29 @@
         "danmaku": 1
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/a478d87eec82af16c5023a7d61b7908a87016c1f.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "拿到新唤醒体不会开大？机长手把手教你玩会她！",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-31T20:05:25+00:00",
+      "url": "https://www.bilibili.com/video/BV1T2GN68Epo",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "弥萨格首席机长",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 4,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/ad838b80026d3dafbb341a7c3482743b60b2ec15.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
