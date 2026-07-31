@@ -1,8 +1,8 @@
 {
   "date": "2026-07-31",
-  "archived_at": "2026-07-31T16:46:56.668771+00:00",
+  "archived_at": "2026-07-31T19:23:44.810059+00:00",
   "source": "youtube",
-  "item_count": 22,
+  "item_count": 23,
   "items": [
     {
       "title": "[Morimens] Tier List/Spreadsheet Update for G-Lotan. Waifu and Gameplay Tier Lists",
@@ -119,6 +119,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/jNbNmQzcdjU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "LoR Path of Champions / Morimens",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-07-31T15:29:06Z",
+      "url": "https://www.youtube.com/watch?v=A85fPopj5SU",
+      "engagement": 21,
+      "is_hot": false,
+      "author": "Nazoric",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/A85fPopj5SU/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

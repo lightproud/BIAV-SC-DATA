@@ -1,8 +1,8 @@
 {
   "date": "2026-07-31",
-  "archived_at": "2026-07-31T16:46:56.667776+00:00",
+  "archived_at": "2026-07-31T19:23:44.808614+00:00",
   "source": "bilibili",
-  "item_count": 30,
+  "item_count": 31,
   "items": [
     {
       "title": "【忘却前夜】新人不知道抽什么？开荒与容灾的强度排行，希望能帮到你。",
@@ -207,6 +207,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/577a2b92f78ac3cf7c712e9bd06342c9d5f00a61.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】三启60级防瓜也有这么美丽的伤害吗？发出来素以防你没见过什么叫真正的运💅",
+      "summary": "-\n  └ 真不会练的李 (1赞): 第一[FGO_耶]\n  └ 丿丨丨泽 (0赞): 老师，防瓜密契洗什么属性[tv_疑问]\n  └ 白予Zz (0赞): 大蛇堇更新了！zdjd？！jskbl！",
+      "source": "bilibili",
+      "time": "2026-07-31T12:08:32+00:00",
+      "url": "https://www.bilibili.com/video/BV1JHGN62Evu",
+      "engagement": 146,
+      "is_hot": false,
+      "author": "谨慎的小堇",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 141,
+        "comment_count": 5,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/1b4e3706a9ba1803b03aa9bdaacf005b8dce24f3.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
