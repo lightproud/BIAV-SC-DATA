@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "archived_at": "2026-07-31T11:30:48.598887+00:00",
+  "archived_at": "2026-07-31T14:02:08.233329+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 5,
   "items": [
     {
       "title": "[Google Play 好评] ★5 great",
@@ -44,6 +44,34 @@
       "tags": [],
       "lang": "ko",
       "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 game peak",
+      "summary": "game peak",
+      "source": "google_play",
+      "time": "2026-07-30T13:13:59",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-d4ec1a72-532e-4484-9c15-ce1814ba0abf",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Jessie Wijaya",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 tại sao di vật mất hình ảnh với tên vậy",
+      "summary": "tại sao di vật mất hình ảnh với tên vậy bạn",
+      "source": "google_play",
+      "time": "2026-07-30T13:53:58",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=vi#gp-44245725-a661-497f-92f2-ffe98f29aa0d",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Đặc loi Phan",
+      "tags": [],
+      "lang": "vi",
+      "platform_region": "vn",
       "region": "global"
     }
   ],

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-31",
-  "archived_at": "2026-07-31T11:30:48.482545+00:00",
+  "archived_at": "2026-07-31T14:02:08.161305+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
     {
       "title": "[正面] peak",
@@ -94,6 +94,54 @@
         "playtime_forever": 629,
         "votes_up": 0,
         "timestamp_created": 1785490905
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] I like this game, there are many different charach...",
+      "summary": "I like this game, there are many different charachters and cards and you can create different combinations. The graphics are gorgeous, and the gameplay is fine.\n\nBUT\n\nYou have to spend a lot of money and/or grind a lot...\n\nEach character has its own cards, and your deck is made out of 4 characters with their respective cards.\n\nYou can't directly buy those characters; you have to gamble for them. They appear in rotation in the store, and you can gamble trying to get them, after 30 tries, it's usually guaranteed to receive the character.\n\nThen there's the EXP for  your \"profile\" very much neded, then there are differents material to upgrade your cards, then there are \"augments\" to apply to your charachters  ... so many things to upgrade that i got lost trying to understand it.... there's a lot to spend money on...\n\n\nIf you are a whale, you are fine.\n\nIf you think you can be fine with 20 euros, well... nah...",
+      "source": "steam_review",
+      "time": "2026-07-31T12:09:41+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198157525976/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198157525976",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 967,
+        "votes_up": 0,
+        "timestamp_created": 1785499781
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] .",
+      "summary": ".",
+      "source": "steam_review",
+      "time": "2026-07-31T11:52:40+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199804208150/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199804208150",
+      "tags": [
+        "koreana"
+      ],
+      "language": "koreana",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 8327,
+        "votes_up": 0,
+        "timestamp_created": 1785498760
       },
       "region": "global",
       "archive_subtype": "review",
