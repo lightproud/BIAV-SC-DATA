@@ -1,8 +1,8 @@
 {
   "date": "2026-07-31",
-  "archived_at": "2026-07-31T06:13:05.572430+00:00",
+  "archived_at": "2026-07-31T11:30:48.482545+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] peak",
@@ -70,6 +70,30 @@
         "playtime_forever": 1283,
         "votes_up": 0,
         "timestamp_created": 1785448865
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] best story ive played since wuthering waves, will...",
+      "summary": "best story ive played since wuthering waves, will be playing it alongside it as my second game. This being the company's only game you can feel the love and effort put into it, hope they make more content and furthermore, more games. 100% recomend",
+      "source": "steam_review",
+      "time": "2026-07-31T09:41:45+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198013020125/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198013020125",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 629,
+        "votes_up": 0,
+        "timestamp_created": 1785490905
       },
       "region": "global",
       "archive_subtype": "review",
