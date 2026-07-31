@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "archived_at": "2026-07-30T22:07:14.784845+00:00",
+  "archived_at": "2026-07-31T02:36:45.337614+00:00",
   "source": "bilibili",
-  "item_count": 19,
+  "item_count": 20,
   "items": [
     {
       "title": "【忘却前夜】暴力输出！蚀灭·萝坦详细攻略",
@@ -115,6 +115,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/d308942b68a1baa1d9ada4dd6baed079edf76e83.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "[忘却前夜]这是我见过最水的活动，就只掉落活动货币",
+      "summary": "以前的活动起码还会带着些基础素材，现在这个活动这么水\n  └ 红茶喜欢喝红茶 (12赞): 不是😅这游戏活动商店本来就有三种兑换模式何来克扣之说？要对比每版本的资源量正确的做法是拉表汇总而不是根据个人体感[藏狐]你可以骂这游戏逼氪、数值膨胀、策划不做人等等，但个人理解错误不能怪策划吧[藏狐]上次修沙耶印牌可以删的bug你说是削弱，评论区(包括我)很多人都纠正了是正常修bug不是削弱而你现在也没对那个视频的观点和标题做出任何修改[藏狐]你分享游戏体验、个人游戏理解无所谓，但发表这种会误导其他玩家的发言真的很像在带节奏[藏狐]\n  └ 燃え落ちない翼 (0赞): 还真是[Alice In Cradle 格拉提亚 表情包_输麻了][Alice In Cradle 格拉提亚 表情包_输麻了]",
+      "source": "bilibili",
+      "time": "2026-07-30T13:22:07+00:00",
+      "url": "https://www.bilibili.com/video/BV1fc386VEXq",
+      "engagement": 412,
+      "is_hot": false,
+      "author": "TAZex影",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 409,
+        "comment_count": 3,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/f4a49c58680791a576e765050bbbee10f2ae835e.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

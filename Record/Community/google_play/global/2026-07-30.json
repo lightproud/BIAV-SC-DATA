@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "archived_at": "2026-07-30T22:07:15.066456+00:00",
+  "archived_at": "2026-07-31T02:36:45.531880+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 great",
@@ -16,6 +16,20 @@
       "tags": [],
       "lang": "en",
       "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★2 El juego es increíble pero la optimizaci",
+      "summary": "El juego es increíble pero la optimización es muy mala",
+      "source": "google_play",
+      "time": "2026-07-29T23:51:07",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-d64ca922-e303-4777-9d75-091b068032cb",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Julian",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "es",
       "region": "global"
     }
   ],

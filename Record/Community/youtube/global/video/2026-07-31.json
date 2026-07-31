@@ -1,8 +1,8 @@
 {
   "date": "2026-07-31",
-  "archived_at": "2026-07-30T22:07:14.786560+00:00",
+  "archived_at": "2026-07-31T02:36:45.338843+00:00",
   "source": "youtube",
-  "item_count": 8,
+  "item_count": 10,
   "items": [
     {
       "title": "[Morimens] Tier List/Spreadsheet Update for G-Lotan. Waifu and Gameplay Tier Lists",
@@ -34,6 +34,40 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/e3rfMwvg32E/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】沙耶の使い方がわかる10分解説。認識錯乱の法則とおすすめ編成・ビルド【ネタバレなし】",
+      "summary": "本動画はストーリーのネタバレなし（性能解説のみ）です。 沙耶が好きで始めた初心者の方に向けて、ピーキーな性能と「認識 ...",
+      "source": "youtube",
+      "time": "2026-07-30T22:15:56Z",
+      "url": "https://www.youtube.com/watch?v=AtC9gy4PJgA",
+      "engagement": 19,
+      "is_hot": false,
+      "author": "有栖川夜魅",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/AtC9gy4PJgA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Grinding some Morimens Arc 2 Hard content",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-07-31T02:10:41Z",
+      "url": "https://www.youtube.com/watch?v=bfBRwzZQ-Qw",
+      "engagement": 16,
+      "is_hot": false,
+      "author": "Nazoric",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/bfBRwzZQ-Qw/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

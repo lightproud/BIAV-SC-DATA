@@ -1,9 +1,32 @@
 {
   "date": "2026-07-31",
-  "archived_at": "2026-07-30T22:07:14.787692+00:00",
+  "archived_at": "2026-07-31T02:36:45.339097+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
+    {
+      "title": "蚀罗版本，融灾全角色命轮钥令排行榜",
+      "summary": "-\n  └ 密斯卡托尼克的银猫 (0赞): 厲害了…\n  └ 流星雨りゅうせいう (0赞): 氨人厉害了\n  └ 玖玖_子 (0赞): 学习…",
+      "source": "bilibili",
+      "time": "2026-07-30T22:16:46+00:00",
+      "url": "https://www.bilibili.com/video/BV1sL3Y6hExf",
+      "engagement": 558,
+      "is_hot": false,
+      "author": "路过的耄耋",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 555,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/c6a3b901daa12d8492c63a468d59b1dff4ed201c.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "【忘却前夜】向上坠落庞托斯试玩-融灾禁区5-5全程",
       "summary": "向上坠落对庞托斯提升很大，每战都可以比较轻松地开出两次狂气爆发，从而拿到更多的魇和更多的围猎，道中的运转体验会有质变\n  └ 無名Mumei- (1赞): 今天是默剧",
@@ -23,6 +46,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/0fa5550be5a8e153dba33652fee3e85bc9eeab1e.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "￴",
+      "summary": "-\n  └ 这它喵不对 (0赞): [打call]",
+      "source": "bilibili",
+      "time": "2026-07-31T01:54:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1T53W63EnC",
+      "engagement": 22,
+      "is_hot": false,
+      "author": "13Y0UNG",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 21,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/52a11ffb9c279289802841bbeee63d24083c0c21.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
