@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-31",
+  "messages": 17,
+  "unique_authors": 6,
+  "reactions_total": 2,
+  "attachments": 1,
+  "channel_activity": {
+    "なんでも雑談": 8,
+    "誰でも質問": 4,
+    "つぶやき": 5
+  },
+  "hourly_activity": {
+    "3": 11,
+    "2": 1,
+    "1": 5
+  },
+  "message_types": {
+    "0": 17
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1532567560115982517",
+      "channel_id": "1458760640351965361",
+      "content": "というか\n状態は一見良いけど中身がやばい‼️せや‼️存在維持するために教団作って信仰を集めたらええんや‼️👀\n↑この発想が出てくるミサゴ大学覚醒学部は本当に何❓",
+      "author": "suzuri9701",
+      "reactions": 2,
+      "channel": "つぶやき"
+    }
+  ]
+}
