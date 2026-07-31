@@ -1,11 +1,11 @@
 {
   "date": "2026-06-08",
-  "messages": 29020,
+  "messages": 30580,
   "unique_authors": 516,
-  "reactions_total": 2990,
-  "attachments": 1633,
+  "reactions_total": 3197,
+  "attachments": 1725,
   "channel_activity": {
-    "🔸morimens-game-chat": 4917,
+    "🔸morimens-game-chat": 6477,
     "🔸general-chat": 1691,
     "🔸game-question": 6646,
     "🔸綜合討論": 3726,
@@ -96,6 +96,15 @@
     "Team recs and pulls advice": 1
   },
   "hourly_activity": {
+    "15": 1656,
+    "16": 1285,
+    "17": 1044,
+    "18": 744,
+    "19": 1002,
+    "20": 1046,
+    "21": 929,
+    "22": 493,
+    "23": 1012,
     "0": 1468,
     "1": 1257,
     "2": 929,
@@ -110,21 +119,12 @@
     "11": 1549,
     "12": 1384,
     "13": 1183,
-    "14": 1739,
-    "15": 1571,
-    "16": 1175,
-    "17": 888,
-    "18": 633,
-    "19": 471,
-    "20": 781,
-    "21": 841,
-    "22": 395,
-    "23": 896
+    "14": 1739
   },
   "message_types": {
-    "19": 2949,
-    "0": 6505,
-    "20": 28,
+    "0": 7579,
+    "19": 3432,
+    "20": 31,
     "46": 1
   },
   "top_reacted_messages": [
@@ -241,6 +241,14 @@
       "channel": "HAPPY BIRTHDAY AURITA!!!!"
     },
     {
+      "id": "1513607286809956352",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "syruponstrawberrycake",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1513463692711432202",
       "channel_id": "1170692781216378960",
       "content": "finally, i finished it",
@@ -277,14 +285,6 @@
       "channel_id": "1174983699935277147",
       "content": "",
       "author": "water_heart",
-      "reactions": 7,
-      "channel": "🔸晒卡分享"
-    },
-    {
-      "id": "1513586202823885002",
-      "channel_id": "1174983699935277147",
-      "content": "",
-      "author": "l1nnnnnnn",
       "reactions": 7,
       "channel": "🔸晒卡分享"
     }

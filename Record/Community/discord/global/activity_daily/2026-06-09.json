@@ -1,10 +1,11 @@
 {
   "date": "2026-06-09",
-  "messages": 26245,
+  "messages": 29685,
   "unique_authors": 519,
-  "reactions_total": 2608,
-  "attachments": 1283,
+  "reactions_total": 2984,
+  "attachments": 1480,
   "channel_activity": {
+    "🔸morimens-game-chat": 3440,
     "🔸game-question": 7145,
     "🔸general-chat": 3131,
     "🔸綜合討論": 2958,
@@ -95,13 +96,21 @@
     "Team recommendations for story :D": 1
   },
   "hourly_activity": {
+    "0": 696,
+    "1": 1172,
+    "2": 1616,
+    "3": 1202,
+    "4": 1439,
+    "5": 1247,
+    "6": 1833,
+    "7": 1723,
+    "8": 1039,
     "23": 801,
     "18": 1019,
     "19": 590,
     "20": 730,
     "21": 597,
     "22": 1295,
-    "8": 1002,
     "9": 802,
     "10": 1336,
     "11": 1659,
@@ -110,20 +119,12 @@
     "14": 1356,
     "15": 1784,
     "16": 1293,
-    "17": 1384,
-    "0": 477,
-    "1": 857,
-    "2": 1369,
-    "3": 841,
-    "4": 773,
-    "5": 621,
-    "6": 1311,
-    "7": 1276
+    "17": 1384
   },
   "message_types": {
-    "0": 13,
-    "19": 6,
-    "20": 1
+    "0": 2314,
+    "19": 1131,
+    "20": 15
   },
   "top_reacted_messages": [
     {
@@ -271,20 +272,20 @@
       "channel": "pickman is real and made of wood pulp"
     },
     {
+      "id": "1513803702232940584",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "alistiel",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1514031996643577986",
       "channel_id": "1433513650299076780",
       "content": "Shining tornado!",
       "author": "return0726_43514",
       "reactions": 7,
       "channel": "🔸game-question"
-    },
-    {
-      "id": "1513807072192364644",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "sayo.0320",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
     }
   ]
 }

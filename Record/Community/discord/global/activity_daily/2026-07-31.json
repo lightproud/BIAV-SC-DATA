@@ -1,0 +1,232 @@
+{
+  "date": "2026-07-31",
+  "messages": 2193,
+  "unique_authors": 227,
+  "reactions_total": 282,
+  "attachments": 149,
+  "channel_activity": {
+    "🔸綜合討論": 239,
+    "🔸阵容构建": 3,
+    "🔸剧情交流": 88,
+    "🔸晒卡分享": 1,
+    "🔸相位对弈": 4,
+    "🔸课间休息闲聊": 2,
+    "🔸한국어-채팅방": 43,
+    "🔸chaîne-française": 9,
+    "🔸русский-канал": 160,
+    "🔸phòng-chat-tiếng-việt": 68,
+    "🔸canal-español": 61,
+    "🔸canal-português": 25,
+    "🔸ruang-obrolan-indonesia": 62,
+    "🔸ห้องสนทนาภาษาไทย": 28,
+    "🔸traphase": 59,
+    "🔸lore-chat": 223,
+    "🔸lets-count": 4,
+    "🔸team-building": 137,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "🔸game-question": 885,
+    "🔸机器人命令┊bot-commands": 18,
+    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 1,
+    "一個希洛": 2,
+    "伴生活动和复刻活动的趣味性太低了": 4,
+    "Cetus-Devouring Storm doesn't scale with realm mastery": 1,
+    "請問可以加一個怪物的圖鑑嗎？": 1,
+    "关于蚀罗超维空间": 2,
+    "✅「已記錄」2.5.3 文本bug串": 1,
+    "Rotating background pictures and musics": 1,
+    "Moving lineup in Team Management": 1,
+    "✅「已回答」給特定戰鬥加上跳過劇情的功能": 3,
+    "V2.5.1.0 停服维护公告": 7,
+    "that’s tuff, buddy": 5,
+    "Tawil 🤍": 2,
+    "Casiah 🪄": 3,
+    "SHININGGGGGGG---": 3,
+    "Shalalalala (dump of mostly caecus)": 1,
+    "【English Translation】Opinions Collection": 1,
+    "V2.3.1 「朵尔·灵性重生」简约幻衣，可在邀请活动中获取┊Get Basic Skin \"Doll: Gnostic Reshape\" from the New Invitation Event!": 1,
+    "剛入坑三天不知道陣容怎麼組😭": 14,
+    "In need of advice for teams, appreciate any help in advance!": 1,
+    "Hi! need some advice with pulls and team building :D": 9,
+    "New to the game, would love some advice for pulls": 1,
+    "New player needing advice on pulling and team building": 4
+  },
+  "hourly_activity": {
+    "0": 68,
+    "1": 111,
+    "2": 354,
+    "3": 359,
+    "4": 325,
+    "5": 228,
+    "6": 234,
+    "7": 263,
+    "8": 139,
+    "9": 112
+  },
+  "message_types": {
+    "0": 1706,
+    "19": 482,
+    "20": 5
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1532627749896716338",
+      "channel_id": "1532627749896716338",
+      "content": "<:Ramona_tuff_:1441426630420467753>",
+      "author": "mosske",
+      "reactions": 12,
+      "channel": "that’s tuff, buddy"
+    },
+    {
+      "id": "1532617570266382488",
+      "channel_id": "1532617570266382488",
+      "content": "https://x.com/SaminDraws/status/2083055929969307785?s=20",
+      "author": "samin_",
+      "reactions": 8,
+      "channel": "Tawil 🤍"
+    },
+    {
+      "id": "1532609351616041012",
+      "channel_id": "1131839817982947429",
+      "content": "~~我們可以用普海玩海祭主C~~",
+      "author": "water_heart",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532604437753888828",
+      "channel_id": "1131839817982947429",
+      "content": "当时我用珊弥利打的 不停地拉弥利3费 加全队精通 最后静海盾特别特别厚",
+      "author": "galagalaguo",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532621162633232514",
+      "channel_id": "1532621162633232514",
+      "content": "It doesn't give more aliemus",
+      "author": "aurora3981",
+      "reactions": 6,
+      "channel": "Cetus-Devouring Storm doesn't scale with realm mastery"
+    },
+    {
+      "id": "1532632962154369044",
+      "channel_id": "1131839817982947429",
+      "content": "莫夏<:Ogier_cheer:1468259351889318049> <:Helot_slack_off:1459092159465521184>",
+      "author": "angbak",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532593280460525631",
+      "channel_id": "1326453763355185215",
+      "content": "well, whatever i think of the historical writing, i can't deny biva still know w",
+      "author": "reya.li",
+      "reactions": 5,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1532593692953546975",
+      "channel_id": "1326453763355185215",
+      "content": "women wants lesbian w ectoplasm flesh",
+      "author": "arsenyx_9999",
+      "reactions": 5,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1532598880053760011",
+      "channel_id": "1131839817982947429",
+      "content": "夢遊茉夏好強",
+      "author": "ahuahuahua",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532602220804182167",
+      "channel_id": "1131839817982947429",
+      "content": "试了 吃",
+      "author": "galagalaguo",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532671474350031019",
+      "channel_id": "1131839817982947429",
+      "content": "我們的目標是滿分",
+      "author": "water_heart",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532633456134324344",
+      "channel_id": "1300659753197764688",
+      "content": "Next update bannernya Caraboo kan ya?",
+      "author": "royhantamami",
+      "reactions": 4,
+      "channel": "🔸ruang-obrolan-indonesia"
+    },
+    {
+      "id": "1532563839592304840",
+      "channel_id": "1326453763355185215",
+      "content": "when gmurphy looked at us and told us \"call me Murphy: Fauxborn\" i lost my shit ",
+      "author": "zier.0",
+      "reactions": 4,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1532574954862936186",
+      "channel_id": "1326453763355185215",
+      "content": "at least they do just call glussytan \"Lotan\" in the story narratives",
+      "author": "reya.li",
+      "reactions": 4,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1532578394632360116",
+      "channel_id": "1326453763355185215",
+      "content": "anyways, the main and most relevant thing is that the key role they have above a",
+      "author": "reya.li",
+      "reactions": 4,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1532581667699556372",
+      "channel_id": "1326453763355185215",
+      "content": "maybe they took a little from that though",
+      "author": "reya.li",
+      "reactions": 4,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1532583497326268487",
+      "channel_id": "1326453763355185215",
+      "content": "morimens has a recurring habit of bringing an untouched historical era or cultur",
+      "author": "reya.li",
+      "reactions": 4,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1532583849173844160",
+      "channel_id": "1326453763355185215",
+      "content": "Hello lore chat",
+      "author": "eresh69",
+      "reactions": 4,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1532603690702340116",
+      "channel_id": "1131839817982947429",
+      "content": "他今天都不在",
+      "author": "a_wei3797",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532671819381739650",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}
