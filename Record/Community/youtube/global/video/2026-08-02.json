@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
-  "archived_at": "2026-08-01T19:08:01.829129+00:00",
+  "archived_at": "2026-08-01T21:55:48.573797+00:00",
   "source": "youtube",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능)상담소 오픈",
@@ -51,6 +51,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/RdBWwgjPrx0/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Demi-DOG BATTLE IS INSANE! Lotan Must Not Fail! | Morimens F2P Playthrough 4-15",
+      "summary": "F2P Playthrough of Morimen's Story.",
+      "source": "youtube",
+      "time": "2026-08-01T21:00:15Z",
+      "url": "https://www.youtube.com/watch?v=eN6C17H1UwA",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Koka",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/eN6C17H1UwA/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

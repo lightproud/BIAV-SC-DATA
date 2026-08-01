@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
-  "archived_at": "2026-08-01T19:08:01.921479+00:00",
+  "archived_at": "2026-08-01T21:55:48.761037+00:00",
   "source": "pixiv",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "",
@@ -16,6 +16,23 @@
       "tags": [],
       "lang": "",
       "platform_region": "global"
+    },
+    {
+      "title": "Untitled",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-08-02T04:55:45+09:00",
+      "url": "https://www.pixiv.net/artworks/147912280",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "mikori",
+      "tags": [
+        "忘却前夜"
+      ],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/custom-thumb/img/2026/08/02/04/55/45/147912280_p0_custom1200.jpg",
+      "content_type": "image"
     }
   ]
 }

@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-02",
+  "archived_at": "2026-08-01T21:55:48.572376+00:00",
+  "source": "bilibili",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "【忘却前夜】向上坠落命轮值得氪+12么？怎么用？",
+      "summary": "└ 玖玖_子 (1赞): 第一[星星眼]\n  └ bili28895654361 (0赞): 目前鸟弟3启，C罗3启，莫夏超限，鸟弟还有必要在这次复刻抽到超限吗？感觉现在风评越来越不行了[大哭]\n  └ 月段念尘 (0赞): 莫丝带这个怎么样[思考][思考]",
+      "source": "bilibili",
+      "time": "2026-08-01T17:02:01+00:00",
+      "url": "https://www.bilibili.com/video/BV1Nc3m6ME8z",
+      "engagement": 856,
+      "is_hot": true,
+      "author": "魔龙_D",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 847,
+        "comment_count": 9,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/e14e4b3c16d8d897e9e211f6205c803e4b9126b1.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "明明是由薯条组成的怪物，在我眼中却是美丽的pro哥",
+      "summary": "-\n  └ ailicili弹幕视频网 (0赞): 奖励局",
+      "source": "bilibili",
+      "time": "2026-08-01T17:20:31+00:00",
+      "url": "https://www.bilibili.com/video/BV1iE3m6REaM",
+      "engagement": 103,
+      "is_hot": false,
+      "author": "白丝小魅魔",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 102,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/74eec16b4f7702d9dc9673a5a864d574e1b5a838.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    }
+  ]
+}
