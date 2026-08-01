@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
-  "archived_at": "2026-08-01T13:16:52.518077+00:00",
+  "archived_at": "2026-08-01T16:01:49.852769+00:00",
   "source": "youtube",
-  "item_count": 18,
+  "item_count": 19,
   "items": [
     {
       "title": "망각전야 (모리멘스) - 엄청난 걸 알려드림",
@@ -51,6 +51,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/qtvlszdLBY4/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "망각전야Morimens) (대리뽑,상담시청가능)상담소 오픈",
+      "summary": "망각전야 #Morimens #이터널리턴.",
+      "source": "youtube",
+      "time": "2026-08-01T13:53:38Z",
+      "url": "https://www.youtube.com/watch?v=gvchyxa6138",
+      "engagement": 42,
+      "is_hot": false,
+      "author": "박현(Muyeong)",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/gvchyxa6138/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

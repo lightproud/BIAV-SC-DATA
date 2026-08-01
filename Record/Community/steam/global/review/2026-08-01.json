@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
-  "archived_at": "2026-08-01T13:16:52.664409+00:00",
+  "archived_at": "2026-08-01T16:01:49.981154+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] Lovecraftvari bir atmosferle harmanlanmış zevkli b...",
@@ -70,6 +70,30 @@
         "playtime_forever": 604,
         "votes_up": 0,
         "timestamp_created": 1785572880
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] You can tell that the team behind this game is pas...",
+      "summary": "You can tell that the team behind this game is passionate, from the beautiful art to the expensive lore, this game is highly recommended if you enjoy Eldritch mythos.\nIt has an identity of it's own that helps it stand out. From the start it throws you into this wolrd and expects you to keep up, slowly introducing new elements as they become relevent.\nThe gameplay is also a highlight, it may seem simple at first but this is one of those games where order of operation is really important. [strike] ...the amount of times I ended a turn only to realize I could have done it better... [/strike]\nBosses will hit you like a truck and negative effects will stack up the longer you go, but thats true for you aswell...\nIf you don't mind Gacha and are looking for a mostly bitter sometimes sweet story might be worth giving this one a try.\n[strike] ...and May the Silver Key light your path... [/strike]\n                                      .✦ ݁˖",
+      "source": "steam_review",
+      "time": "2026-08-01T14:07:35+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198666244808/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198666244808",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 265,
+        "votes_up": 0,
+        "timestamp_created": 1785593255
       },
       "region": "global",
       "archive_subtype": "review",

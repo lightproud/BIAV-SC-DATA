@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
-  "archived_at": "2026-08-01T13:16:52.517089+00:00",
+  "archived_at": "2026-08-01T16:01:49.851578+00:00",
   "source": "bilibili",
-  "item_count": 23,
+  "item_count": 25,
   "items": [
     {
       "title": "［相位］后 排 们 藏 好 了 吗？",
@@ -23,6 +23,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/143911aee8868d2f358be5c699e61807c66aea6b.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "小菲之歌",
+      "summary": "关注塔菲喵，关注塔菲谢谢喵\nB站个人空间：https://space.bilibili.com/1265680561\n· B站直播间：http://live.bilibili.com/22603245\n  └ 南瓜豆腐2005 (2赞): 好可怕..\n  └ 永雏-牛牛 (2赞): 比真taffy声音还模糊[粉妆玉琢_摊手]\n  └ Ac1x_ue (1赞): 这个世界怎么去?",
+      "source": "bilibili",
+      "time": "2026-08-01T10:15:47+00:00",
+      "url": "https://www.bilibili.com/video/BV1UnGV6JECw",
+      "engagement": 237,
+      "is_hot": false,
+      "author": "永雏某",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 231,
+        "comment_count": 6,
+        "comments_fetched": 3,
+        "danmaku": 2
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/739cac7ab968f638d148943164894d9791a988bc.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -368,6 +391,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/79cd1b12dbedf272e1140e7a0a3dff834b62b7d1.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "沙耶の唄《沙耶之歌》covered by  FUWAMOCO",
+      "summary": "https://youtu.be/DgJ_H93D5_U?si=43yDE6SvTwaBeAcQ\n沙耶の唄《沙耶之歌》covered by  FUWAMOCO",
+      "source": "bilibili",
+      "time": "2026-08-01T14:30:26+00:00",
+      "url": "https://www.bilibili.com/video/BV1Ed3m68Esm",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "雷澪かみなりみお",
+      "tags": [
+        "翻唱"
+      ],
+      "metadata": {
+        "play": 5,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/00ee773558b035ff8e921b991be1d92ed3ac2f17.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
