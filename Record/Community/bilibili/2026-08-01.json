@@ -1,9 +1,32 @@
 {
   "date": "2026-08-01",
-  "archived_at": "2026-08-01T08:18:59.016838+00:00",
+  "archived_at": "2026-08-01T10:42:09.877046+00:00",
   "source": "bilibili",
-  "item_count": 14,
+  "item_count": 20,
   "items": [
+    {
+      "title": "［相位］后 排 们 藏 好 了 吗？",
+      "summary": "-\n  └ 某不知名老法师 (4赞): 看到开头：[惊讶]\n看到配队：[哦呼]\n看到实战：[OK]\n  └ 一头佛罗里达海牛 (5赞): 我勒个科研啊，钥令受力量加成这个真想不到[笑哭]重大发现了属于是\n  └ 仁爱主教 (2赞): 我昨天研发半天也只是发现了吃力量加成，忘记还可以配合卖血有收益的角色了，想象力有待提升啊[笑哭]",
+      "source": "bilibili",
+      "time": "2026-08-01T09:09:25+00:00",
+      "url": "https://www.bilibili.com/video/BV1DbGg6jEBL",
+      "engagement": 252,
+      "is_hot": false,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 242,
+        "comment_count": 10,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/143911aee8868d2f358be5c699e61807c66aea6b.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "沙耶: 真的不试试绿鸡腿蘸番茄酱吗",
       "summary": "我吃吃吃吃\n  └ 儒悝 (0赞): 鸡腿怎么绿的😱\n  └ SlowerLight (0赞): 你这冰箱怎么那么干净啊🤔鸡腿怎么这么肮脏啊🤔[doge]",
@@ -120,6 +143,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "只要等级够低，打个融灾5-1都是生死局（",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-01T08:59:50+00:00",
+      "url": "https://www.bilibili.com/video/BV134Gg6UEDU",
+      "engagement": 66,
+      "is_hot": false,
+      "author": "_TayNew_",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 66,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/0c9da77ea134375c8a2b2133cfa7e0f1ac80be4a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "【忘却前夜】庞卡水船无戒指2-5&amp;5-5一镜到底",
       "summary": "庞托斯双持向上后道中强度质变，道中拿2魇可以提速到3t左右。关底依靠水母做触发器空间刷怒涛CD，boss无防护可以4t左右击杀，比较克制单段的羊妈8t左右也能解决\n+2命轮提升比较大，船长二启拿虚弱即可（易伤不关键），庞三启，水最好高深化双持暴击命轮，卡三启",
       "source": "bilibili",
@@ -161,6 +207,75 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/27dd809b49b59ae6c06b47b67e977305ad24a8c4.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "什么嘛？都是骗人的",
+      "summary": "-\n  └ -昆扬 (0赞): [魔法少女的魔女审判表情包_探头]",
+      "source": "bilibili",
+      "time": "2026-08-01T08:52:42+00:00",
+      "url": "https://www.bilibili.com/video/BV1mvGg6GE6K",
+      "engagement": 25,
+      "is_hot": false,
+      "author": "天使戀愛記",
+      "tags": [
+        "动漫杂谈"
+      ],
+      "metadata": {
+        "play": 24,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/65ab2397bd657dec4f1210eb78bd7bb639343bc3.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【哈姆林中心｜手书】分かっちゃいないね。",
+      "summary": "被ae鞭打一下午的产物。部分素材来自红p和花瓣\n  └ Au9usTus_ (0赞): 哈吉咩[doge]",
+      "source": "bilibili",
+      "time": "2026-08-01T08:23:09+00:00",
+      "url": "https://www.bilibili.com/video/BV1YPG36pEQe",
+      "engagement": 14,
+      "is_hot": false,
+      "author": "雾魚捞饭不能吃",
+      "tags": [
+        "同人·手书"
+      ],
+      "metadata": {
+        "play": 13,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/cf798e1e482835ec6d3d18284a959c392394ddac.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "[忘却前夜]轮椅最多的一集",
+      "summary": "神了",
+      "source": "bilibili",
+      "time": "2026-08-01T10:31:58+00:00",
+      "url": "https://www.bilibili.com/video/BV176GV6iE2s",
+      "engagement": 12,
+      "is_hot": false,
+      "author": "密斯卡托尼克的银猫",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 12,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/ae4cb027be4e3f5d9c40f4225ceaec63ac186600.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -299,6 +414,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/2fc77a55b42cca04abae567f6d9e94f78a9acb4d.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【绘画过程】瓶颈期画只saya",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-01T09:51:25+00:00",
+      "url": "https://www.bilibili.com/video/BV14WGV67Evo",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "りなQAQ",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 1,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/5e3d4391f5700972d21800159446c110f37c3e07.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

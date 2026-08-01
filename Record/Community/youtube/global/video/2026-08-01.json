@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
-  "archived_at": "2026-08-01T08:18:59.017562+00:00",
+  "archived_at": "2026-08-01T10:42:09.877953+00:00",
   "source": "youtube",
-  "item_count": 12,
+  "item_count": 15,
   "items": [
     {
       "title": "망각전야 (모리멘스) - 엄청난 걸 알려드림",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/-0VcQhfAh-o/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Arachnid Dance | Morimens",
+      "summary": "not a fan of spiders, but exception can always be made :) arguably the hardest boss in the game? fighting for your dear life each ...",
+      "source": "youtube",
+      "time": "2026-08-01T09:45:01Z",
+      "url": "https://www.youtube.com/watch?v=ePW8bFiFI5c",
+      "engagement": 74,
+      "is_hot": false,
+      "author": "mahedans",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/ePW8bFiFI5c/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -85,6 +102,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/gjoB_U7afvA/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] G:Lotan Comp Commentary D-Tide 8-1-26 W2A5",
+      "summary": "A few things I forgot to mention in the video, The more damage the enemy does to you the more you exalt does. DONT WEAKEN ...",
+      "source": "youtube",
+      "time": "2026-08-01T10:07:39Z",
+      "url": "https://www.youtube.com/watch?v=MLFfGAlBM7k",
+      "engagement": 9,
+      "is_hot": false,
+      "author": "Zyocuh",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/MLFfGAlBM7k/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -204,6 +238,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/6TJGPUDxH4g/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "#忘卻前夜 #morimens Regional D-Effect Zone update!400 points achieved!融災400分達成.",
+      "summary": "忘卻前夜#morimens 融災更新,7月20日~8月3號. Regional D-Effect Zone Update (July 20 – August 3). 這期算是比較多老朋友( ...",
+      "source": "youtube",
+      "time": "2026-08-01T10:00:33Z",
+      "url": "https://www.youtube.com/watch?v=DmRXnG_Sugs",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Noir",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/DmRXnG_Sugs/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
