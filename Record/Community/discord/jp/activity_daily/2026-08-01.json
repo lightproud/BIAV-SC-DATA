@@ -1,25 +1,153 @@
 {
   "date": "2026-08-01",
-  "messages": 14,
-  "unique_authors": 9,
-  "reactions_total": 0,
-  "attachments": 0,
+  "messages": 79,
+  "unique_authors": 12,
+  "reactions_total": 25,
+  "attachments": 7,
   "channel_activity": {
-    "なんでも雑談": 1,
+    "なんでも雑談": 57,
+    "誰でも質問": 6,
+    "オレッタの最適解研究中": 1,
+    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 7,
+    "ガチャ結果報告": 1,
     "忘却前夜絵を密かに載せます": 1,
     "思想汚染(うちcp)の話し": 5,
-    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 6,
     "招待コード共有会": 1
   },
   "hourly_activity": {
+    "4": 23,
+    "5": 13,
+    "6": 9,
+    "7": 10,
+    "8": 11,
     "3": 11,
     "0": 1,
-    "1": 1,
-    "4": 1
+    "1": 1
   },
   "message_types": {
-    "0": 13,
-    "19": 1
+    "0": 75,
+    "19": 4
   },
-  "top_reacted_messages": []
+  "top_reacted_messages": [
+    {
+      "id": "1533015764708102360",
+      "channel_id": "1377478664609857647",
+      "content": "ご三家札終わり",
+      "author": "8106ne",
+      "reactions": 4,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1532967129744146513",
+      "channel_id": "1377478664609857647",
+      "content": "話し合いだけ",
+      "author": "foxcatfurry",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1532973337968644097",
+      "channel_id": "1377478664609857647",
+      "content": "||キーチャージ盛るの特化に見えたんだけど||",
+      "author": "zzzorz",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1533014010704695337",
+      "channel_id": "1377478664609857647",
+      "content": "これやりたい！これやりたい！！！",
+      "author": "8106ne",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1533015889857744906",
+      "channel_id": "1377478664609857647",
+      "content": "あと相棒からのはいいとして、もうひとつなんか大事なこと言ってない。。？",
+      "author": "8106ne",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1533016715901014057",
+      "channel_id": "1377478664609857647",
+      "content": "なんか凄い意味深なこと言うよね",
+      "author": "yamaiame_ql4",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1533029333818671134",
+      "channel_id": "1528654245413261372",
+      "content": "おかげさまで無事忘却編をクリアできました！",
+      "author": "shibu0097",
+      "reactions": 2,
+      "channel": "オレッタの最適解研究中"
+    },
+    {
+      "id": "1533026147258863757",
+      "channel_id": "1419203289945342054",
+      "content": "スクショし忘れたけど引けたー",
+      "author": "maruiomotinokakera",
+      "reactions": 2,
+      "channel": "ガチャ結果報告"
+    },
+    {
+      "id": "1532970127597768715",
+      "channel_id": "1377478664609857647",
+      "content": "配信どころかプッシュなしだと声も出せないんだよねw",
+      "author": "zzzorz",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1532971088814932138",
+      "channel_id": "1377478664609857647",
+      "content": "グロ版インストールしてみたけど、今後実装のキャラそのまま日本に来なさそうだね…",
+      "author": "zzzorz",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1532975018265284713",
+      "channel_id": "1377478664609857647",
+      "content": "||キーチャ特化で超次元||ってだけで大分ありがたい気がする",
+      "author": "yamaiame_ql4",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1532978067083890688",
+      "channel_id": "1377478664609857647",
+      "content": "跳躍前提だったり札の連続使用前提だったりとか",
+      "author": "zzzorz",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1533012993476923544",
+      "channel_id": "1377478664609857647",
+      "content": "あと1枚…",
+      "author": "yamaiame_ql4",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1533020750045384705",
+      "channel_id": "1377478664609857647",
+      "content": "(🙂",
+      "author": "foxcatfurry",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1533033102664794285",
+      "channel_id": "1377478664609857647",
+      "content": "星辰遍のショップ産札はいつ頃来るんだろ",
+      "author": "zzzorz",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    }
+  ]
 }
