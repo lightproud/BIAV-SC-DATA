@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-01",
+  "messages": 14,
+  "unique_authors": 9,
+  "reactions_total": 0,
+  "attachments": 0,
+  "channel_activity": {
+    "なんでも雑談": 1,
+    "忘却前夜絵を密かに載せます": 1,
+    "思想汚染(うちcp)の話し": 5,
+    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 6,
+    "招待コード共有会": 1
+  },
+  "hourly_activity": {
+    "3": 11,
+    "0": 1,
+    "1": 1,
+    "4": 1
+  },
+  "message_types": {
+    "0": 13,
+    "19": 1
+  },
+  "top_reacted_messages": []
+}
