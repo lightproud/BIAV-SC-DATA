@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
-  "archived_at": "2026-08-01T02:36:24.067846+00:00",
+  "archived_at": "2026-08-01T05:56:06.189963+00:00",
   "source": "youtube",
-  "item_count": 8,
+  "item_count": 10,
   "items": [
     {
       "title": "LoR Path of Champions / Morimens",
@@ -39,6 +39,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "망각전야 (모리멘스) - 은열학개론",
+      "summary": "썸네일 어떻게 하지 하다가 전공서적 생각나서.",
+      "source": "youtube",
+      "time": "2026-08-01T05:11:15Z",
+      "url": "https://www.youtube.com/watch?v=8idxpWdlMnM",
+      "engagement": 19,
+      "is_hot": false,
+      "author": "때까치",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/8idxpWdlMnM/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "【MORIMENS】 BEEN A WHILE SINCE WE PLAYED | STARTING CHAPTER 8",
       "summary": "Game: Morimens __Follow me on Social Media!__ Bluesky: https://bsky.app/profile/adagiovt.vtubers.social Twitch: ...",
       "source": "youtube",
@@ -68,6 +85,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/nDOW8WxfR60/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "day 3 nyoba main game visual novel",
+      "summary": "yo guys gua bakalan main game ini lagi sekalian nyari one shoot bos ya kan semoga leptop gw gak meledak ❤️ Support ...",
+      "source": "youtube",
+      "time": "2026-08-01T04:53:24Z",
+      "url": "https://www.youtube.com/watch?v=RdBWwgjPrx0",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Jun-ak47",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/RdBWwgjPrx0/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
