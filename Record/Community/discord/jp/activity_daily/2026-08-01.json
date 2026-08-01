@@ -1,11 +1,11 @@
 {
   "date": "2026-08-01",
-  "messages": 79,
+  "messages": 84,
   "unique_authors": 12,
-  "reactions_total": 25,
-  "attachments": 7,
+  "reactions_total": 27,
+  "attachments": 8,
   "channel_activity": {
-    "なんでも雑談": 57,
+    "なんでも雑談": 62,
     "誰でも質問": 6,
     "オレッタの最適解研究中": 1,
     "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 7,
@@ -15,6 +15,8 @@
     "招待コード共有会": 1
   },
   "hourly_activity": {
+    "9": 1,
+    "10": 4,
     "4": 23,
     "5": 13,
     "6": 9,
@@ -25,7 +27,7 @@
     "1": 1
   },
   "message_types": {
-    "0": 75,
+    "0": 80,
     "19": 4
   },
   "top_reacted_messages": [
@@ -92,6 +94,22 @@
       "author": "maruiomotinokakera",
       "reactions": 2,
       "channel": "ガチャ結果報告"
+    },
+    {
+      "id": "1533053549531889805",
+      "channel_id": "1377478664609857647",
+      "content": "ライカー札が3凸したことによりPTに磨きがかかりました。Meganeさんのドールつよすぎね",
+      "author": "0w04250",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1533063833260916867",
+      "channel_id": "1377478664609857647",
+      "content": "タイス復刻きてんじゃーん！と思って回したら札ばっかきて絶望",
+      "author": "shin7869",
+      "reactions": 1,
+      "channel": "なんでも雑談"
     },
     {
       "id": "1532970127597768715",
