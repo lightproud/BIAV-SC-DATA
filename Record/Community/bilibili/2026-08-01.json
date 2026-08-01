@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
-  "archived_at": "2026-08-01T10:42:09.877046+00:00",
+  "archived_at": "2026-08-01T13:16:52.517089+00:00",
   "source": "bilibili",
-  "item_count": 20,
+  "item_count": 23,
   "items": [
     {
       "title": "［相位］后 排 们 藏 好 了 吗？",
@@ -97,6 +97,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "被萝坦大人吓哭了",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-01T05:56:56+00:00",
+      "url": "https://www.bilibili.com/video/BV1KwGG6CEtj",
+      "engagement": 131,
+      "is_hot": false,
+      "author": "自动手记人偶official",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 131,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/1388b6522c5beae68cefdcfb669dbb9315652d21.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "“以单体级的实力去往类沙耶之歌的副本，您愿意吗？”",
       "summary": "本up主视频故事视频皆为原创\n  └ 夜花流影 (1赞): 真是惨淡啊，我大概一个下午就会忘记你吧\n  └ 哈基沙大玉 (1赞): [鸣潮2周年同人绘画_看你]\n  └ 夜花流影 (1赞): 就没人点下点赞吗[大哭]",
       "source": "bilibili",
@@ -184,6 +207,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/8707a8f4475f254cd1aca0b0b7e610cbcceed5ab.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】断颈一击",
+      "summary": "└ 唬隌洳鄞 (1赞): 你哪位...",
+      "source": "bilibili",
+      "time": "2026-08-01T12:14:31+00:00",
+      "url": "https://www.bilibili.com/video/BV1tzGG6EEtc",
+      "engagement": 34,
+      "is_hot": false,
+      "author": "风凤_WP",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 32,
+        "comment_count": 2,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/75415642d693d594a70c230ba29a51ed0afbf70e.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -437,6 +483,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/5e3d4391f5700972d21800159446c110f37c3e07.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "沙耶将我的病例带了回来，她似乎有着超出于她外貌的智力……",
+      "summary": "噶8一下",
+      "source": "bilibili",
+      "time": "2026-08-01T12:30:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1cAGM64EDk",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "朗克清",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 1,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/a0e9a6a5ead344bd537fc6a31aa4c7f1363a02ab.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
