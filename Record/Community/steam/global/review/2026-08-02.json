@@ -1,0 +1,106 @@
+{
+  "date": "2026-08-02",
+  "archived_at": "2026-08-01T19:08:01.895511+00:00",
+  "source": "steam",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "[正面] Шикарная мрачная ККИ. Мой любимый формат геймплея...",
+      "summary": "Шикарная мрачная ККИ. Мой любимый формат геймплея с широкими возможностями для билдостроения и формирования колоды. Множество героев, четыре разные фракции со своими механиками.\r\nПри этом сюжет просто шикарный, очень интересно погружаться в эту вселенную, от чтения оторваться почти так же сложно, как от любования на персонажей и их карты.\r\nЖалею, что не нашла этот бриллиант раньше.",
+      "source": "steam_review",
+      "time": "2026-08-01T16:28:55+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199815893908/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561199815893908",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2826,
+        "votes_up": 1,
+        "timestamp_created": 1785601735
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 豪玩OvO",
+      "summary": "豪玩OvO",
+      "source": "steam_review",
+      "time": "2026-08-01T18:12:28+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199820044656/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199820044656",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1964,
+        "votes_up": 0,
+        "timestamp_created": 1785607948
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 游戏是好游戏 但笑猫你把老boss当精英塞两个进道中 是真的要抓走你的麻麻了，差个福袋全图鉴  启灵...",
+      "summary": "游戏是好游戏 但笑猫你把老boss当精英塞两个进道中 是真的要抓走你的麻麻了，差个福袋全图鉴  启灵和练度越来越高 怎么反而融灾打的更满头大汗",
+      "source": "steam_review",
+      "time": "2026-08-01T17:23:54+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198136377145/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198136377145",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 4508,
+        "votes_up": 0,
+        "timestamp_created": 1785605034
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Довольно интересная",
+      "summary": "Довольно интересная",
+      "source": "steam_review",
+      "time": "2026-08-01T17:16:24+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199557958910/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199557958910",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 536,
+        "votes_up": 0,
+        "timestamp_created": 1785604584
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
