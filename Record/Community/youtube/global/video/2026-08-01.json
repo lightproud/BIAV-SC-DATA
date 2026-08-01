@@ -1,9 +1,26 @@
 {
   "date": "2026-08-01",
-  "archived_at": "2026-08-01T05:56:06.189963+00:00",
+  "archived_at": "2026-08-01T08:18:59.017562+00:00",
   "source": "youtube",
-  "item_count": 10,
+  "item_count": 12,
   "items": [
+    {
+      "title": "망각전야 (모리멘스) - 엄청난 걸 알려드림",
+      "summary": "나만 알고 있기엔 아까워서.",
+      "source": "youtube",
+      "time": "2026-08-01T07:00:05Z",
+      "url": "https://www.youtube.com/watch?v=-0VcQhfAh-o",
+      "engagement": 569,
+      "is_hot": false,
+      "author": "때까치",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/-0VcQhfAh-o/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
     {
       "title": "LoR Path of Champions / Morimens",
       "summary": "",
@@ -68,6 +85,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/gjoB_U7afvA/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Event Leviathan&#39;s Game Till The Cetus Falls",
+      "summary": "The world is dying, yet its inhabitants remain blissfully unaware. Confronted with a covert, indescribable calamity, you shall take ...",
+      "source": "youtube",
+      "time": "2026-08-01T07:11:13Z",
+      "url": "https://www.youtube.com/watch?v=oP5y4Ifi5cw",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "OutcastBox",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/oP5y4Ifi5cw/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

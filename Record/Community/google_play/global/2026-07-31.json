@@ -1,8 +1,8 @@
 {
   "date": "2026-07-31",
-  "archived_at": "2026-08-01T05:56:06.420344+00:00",
+  "archived_at": "2026-08-01T08:18:59.249237+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 I've played this game since back in 2025",
@@ -16,6 +16,34 @@
       "tags": [],
       "lang": "en",
       "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 This is such a fun and unique game for i",
+      "summary": "This is such a fun and unique game for its interesting plot and pretty characters!! My favourite game so far. The gameplay style is fun too. Again and again I am absolute amazed by all of the designs especially with 24, Xu, and many more (all of their designs is to die for). I could ramble about this game all day and night. Saying this as someone who got easily bored with any other games.",
+      "source": "google_play",
+      "time": "2026-07-31T07:44:59",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-ec3fae06-f3d1-449a-9c73-4c8823ef4561",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ruzana Ruzana",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Game đúng gu,nhưng bản dịch tiếng hơi lỏ",
+      "summary": "Game đúng gu,nhưng bản dịch tiếng hơi lỏ xíu còn lại ổn,rất thân thiện cho dân cày🙂",
+      "source": "google_play",
+      "time": "2026-07-31T08:09:25",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=vi#gp-b9772674-898a-4719-b190-8a77510b36d4",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Thị Tâm Phạm",
+      "tags": [],
+      "lang": "vi",
+      "platform_region": "vn",
       "region": "global"
     }
   ],
