@@ -1,8 +1,8 @@
 {
   "date": "2026-07-31",
-  "archived_at": "2026-07-31T22:05:59.700742+00:00",
+  "archived_at": "2026-08-01T02:36:24.064185+00:00",
   "source": "bilibili",
-  "item_count": 31,
+  "item_count": 33,
   "items": [
     {
       "title": "【忘却前夜】新人不知道抽什么？开荒与容灾的强度排行，希望能帮到你。",
@@ -161,6 +161,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/15e9fb777c248974dd7a3a7b0bde716b4b7013fc.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "好多小沙耶",
+      "summary": "快放了她们\n  └ -昆扬 (1赞): [魔法少女的魔女审判表情包_哦吼吼]\n  └ 䭩㟗 (1赞): @某个神秘的黑荆棘女士\n  └ RS的屑 (1赞): 只能赞了，没币了[doge]",
+      "source": "bilibili",
+      "time": "2026-07-31T13:49:14+00:00",
+      "url": "https://www.bilibili.com/video/BV1DnGP6tEGA",
+      "engagement": 230,
+      "is_hot": false,
+      "author": "小龙猫大能力",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 213,
+        "comment_count": 17,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/5c5c3a0b404fc473576a3455012434f852e43815.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -345,6 +368,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/8c884bdbea25c9b4b0380122cb35a57534f184a3.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "（缓更）【忘却前夜】星辰正位之刻 主线剧情合集（繁中）",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-07-31T07:43:05+00:00",
+      "url": "https://www.bilibili.com/video/BV1p3GA61EJw",
+      "engagement": 125,
+      "is_hot": false,
+      "author": "究極群体生命",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 125,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/3e3f4095234cda171546a9f3f18cab5d5c300c7c.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

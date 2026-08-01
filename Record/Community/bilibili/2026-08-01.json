@@ -1,9 +1,32 @@
 {
   "date": "2026-08-01",
-  "archived_at": "2026-07-31T22:05:59.703590+00:00",
+  "archived_at": "2026-08-01T02:36:24.065942+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 7,
   "items": [
+    {
+      "title": "沙耶: 真的不试试绿鸡腿蘸番茄酱吗",
+      "summary": "我吃吃吃吃\n  └ 儒悝 (0赞): 鸡腿怎么绿的😱\n  └ SlowerLight (0赞): 你这冰箱怎么那么干净啊🤔鸡腿怎么这么肮脏啊🤔[doge]",
+      "source": "bilibili",
+      "time": "2026-07-31T17:22:47+00:00",
+      "url": "https://www.bilibili.com/video/BV1CBGK69Ebj",
+      "engagement": 186,
+      "is_hot": false,
+      "author": "今天吔吔了吗",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 184,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/0dc007440706eb99fd06d4e2df4e603948c20980.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "【忘却前夜】最速融灾难5，沙耶莱克蚀罗，大运1T总3T 全程攻杀",
       "summary": "坏了 我以后沙莱队的主c不会要变成蚀罗了吧\n  └ 幻灭喵 (0赞): 看完我只想说，查询莱克伤害（\n你狼变成蚀罗挂件了[doge]",
@@ -46,6 +69,98 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/ad838b80026d3dafbb341a7c3482743b60b2ec15.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "《忘却前夜》第六章倒错的行星P4，这些boss是个顶个难缠啊",
+      "summary": "-\n  └ 时间快些肘吧 (0赞): 要打圣婴喽，忘却篇阶段数第二的boss",
+      "source": "bilibili",
+      "time": "2026-08-01T01:38:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1qLKx6SEC2",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "不可燃抹茶果冻",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 2,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/b63d86ee4fc2b42bfecdb6cc582e7ea6eb7cde0a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "《忘却前夜》第六章倒错的行星P3",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-01T01:38:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1L7Kx6EEmd",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "不可燃抹茶果冻",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 2,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/1d3477c45cc6beae9d0b08a88998a07c3b0ed910.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "《忘却前夜》第六章倒错的行星P1，墨菲大人仍然在发力",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-01T01:37:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1EGKx6QEy3",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "不可燃抹茶果冻",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 1,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/2fc77a55b42cca04abae567f6d9e94f78a9acb4d.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "《忘却前夜》第六章倒错的行星P2",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-01T01:38:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1i7Kx6EEVG",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "不可燃抹茶果冻",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 0,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/a1d93a8dfd9e362ff6165a7413ee05819d967267.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
