@@ -1,0 +1,227 @@
+{
+  "date": "2026-08-01",
+  "messages": 2905,
+  "unique_authors": 239,
+  "reactions_total": 330,
+  "attachments": 172,
+  "channel_activity": {
+    "🔸綜合討論": 244,
+    "🔸阵容构建": 2,
+    "🔸晒卡分享": 2,
+    "🔸交友频道": 5,
+    "🔸한국어-채팅방": 17,
+    "🔸русский-канал": 1,
+    "🔸phòng-chat-tiếng-việt": 281,
+    "🔸canal-español": 229,
+    "🔸canal-português": 18,
+    "🔸ruang-obrolan-indonesia": 80,
+    "🔸ห้องสนทนาภาษาไทย": 88,
+    "🔸traphase": 40,
+    "🔸lore-chat": 49,
+    "🔸lets-count": 9,
+    "🔸team-building": 195,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "🔸game-question": 1571,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 20,
+    "重新放一下": 2,
+    "有些框框不太正常": 1,
+    "伴生活动和复刻活动的趣味性太低了": 1,
+    "關於數值顯示": 6,
+    "关于蚀罗超维空间": 2,
+    "Can we get new icons for Benthos/Singularity/Propagation/Primordia Realms?": 1,
+    "寻找成就": 1,
+    "建議讓靈格系統從強制每次升2級改為每次升1級": 1,
+    "Please rework how Propagation Caro works for the future units": 7,
+    "V2.5.1.0 停服维护公告": 7,
+    "Vortice 🌀": 1,
+    "Tulu fanart": 3,
+    "Jenkin Fanart": 2,
+    "My Morimens' Keeper Oc": 3,
+    "Never be so certain": 2,
+    "Morimens New Player Handbook by Cheri [V2.5 UGC Contest]": 1,
+    "新人因為沙耶入坑，但是喜歡上薩爾瓦多，求配對，養成，和抽卡建議（目前買了個月卡）": 3,
+    "New player on need of advice on what to spend my resources": 3,
+    "1532974494149251272": 1
+  },
+  "hourly_activity": {
+    "0": 152,
+    "2": 412,
+    "3": 430,
+    "4": 233,
+    "5": 251,
+    "6": 419,
+    "7": 427,
+    "8": 334,
+    "1": 237,
+    "9": 10
+  },
+  "message_types": {
+    "0": 2010,
+    "19": 876,
+    "20": 18,
+    "21": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1532968200898215986",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "arthasiv",
+      "reactions": 16,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532934441863745617",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 11,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532953336058216630",
+      "channel_id": "1532953336058216630",
+      "content": "",
+      "author": "coldrinkies",
+      "reactions": 10,
+      "channel": "Jenkin Fanart"
+    },
+    {
+      "id": "1532997850592710697",
+      "channel_id": "1131839817982947429",
+      "content": "這遊戲只剩母豬能玩了嗎...",
+      "author": "ernest_heart",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532903582201024554",
+      "channel_id": "1131839874132090890",
+      "content": "https://xht8723.github.io/morimen-team-builder/\n弄了个网页版融灾配队器。\n不用游戏里反复调来调去忘记哪个命轮没用",
+      "author": "xyakoto",
+      "reactions": 9,
+      "channel": "🔸阵容构建"
+    },
+    {
+      "id": "1532905279057035275",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "xuanxue007",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532979544351445082",
+      "channel_id": "1131839817982947429",
+      "content": "原来可以完全不开大招，疯狂用4就行了（）",
+      "author": "xyakoto",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532999776294015240",
+      "channel_id": "1131839817982947429",
+      "content": "还差一个<:Horla_cry:1357186646294138890>",
+      "author": "cassidy_xue",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533025388173856858",
+      "channel_id": "1131839817982947429",
+      "content": "反過來說阿格里帕零啟是完全體（",
+      "author": "ahuahuahua",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532901799621558343",
+      "channel_id": "1131839817982947429",
+      "content": "https://xht8723.github.io/morimen-team-builder/\n弄了个网页版融灾配队器。\n不用游戏里反复调来调去忘记哪个命轮没用",
+      "author": "xyakoto",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532965290860613794",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532965300541198348",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533029247231463514",
+      "channel_id": "1131839817982947429",
+      "content": "有啦\n||美麗的花瓶||",
+      "author": "0.0._.0_0.",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533005961696903209",
+      "channel_id": "1131839817982947429",
+      "content": "淸 碰 不",
+      "author": "cameliia._.",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533007653750706217",
+      "channel_id": "1131839817982947429",
+      "content": "本來想叫你去呷洨\n但想一想好像也沒人喂你",
+      "author": "ernest_heart",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532969957447565382",
+      "channel_id": "1300659662311526512",
+      "content": "<:Helot_slack_off:1459092159465521184>",
+      "author": "duxadidus",
+      "reactions": 4,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1532998549355364412",
+      "channel_id": "1326453763355185215",
+      "content": "*SHE ATE IT*",
+      "author": "nightmarekingrimmu",
+      "reactions": 4,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1533010592342741072",
+      "channel_id": "1433513650299076780",
+      "content": "what 60k prime? ohh yeah that was 2 days ago i spent another 2k from then until ",
+      "author": "morified53",
+      "reactions": 4,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1532963862738108447",
+      "channel_id": "1532963862738108447",
+      "content": "",
+      "author": "nhatluan1602",
+      "reactions": 4,
+      "channel": "Tulu fanart"
+    },
+    {
+      "id": "1533007024466690210",
+      "channel_id": "1131839817982947429",
+      "content": "~~到底誰xp是女同😡~~",
+      "author": "a._0320",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

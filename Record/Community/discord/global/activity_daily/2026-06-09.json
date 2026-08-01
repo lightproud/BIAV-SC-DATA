@@ -1,11 +1,11 @@
 {
   "date": "2026-06-09",
-  "messages": 29685,
+  "messages": 34685,
   "unique_authors": 519,
-  "reactions_total": 2984,
-  "attachments": 1480,
+  "reactions_total": 3672,
+  "attachments": 1757,
   "channel_activity": {
-    "🔸morimens-game-chat": 3440,
+    "🔸morimens-game-chat": 8440,
     "🔸game-question": 7145,
     "🔸general-chat": 3131,
     "🔸綜合討論": 2958,
@@ -96,6 +96,19 @@
     "Team recommendations for story :D": 1
   },
   "hourly_activity": {
+    "8": 1447,
+    "9": 1155,
+    "10": 1704,
+    "11": 1951,
+    "12": 1768,
+    "13": 2293,
+    "14": 1895,
+    "15": 2294,
+    "16": 1627,
+    "17": 1760,
+    "18": 1372,
+    "19": 1017,
+    "20": 781,
     "0": 696,
     "1": 1172,
     "2": 1616,
@@ -104,27 +117,14 @@
     "5": 1247,
     "6": 1833,
     "7": 1723,
-    "8": 1039,
     "23": 801,
-    "18": 1019,
-    "19": 590,
-    "20": 730,
     "21": 597,
-    "22": 1295,
-    "9": 802,
-    "10": 1336,
-    "11": 1659,
-    "12": 1465,
-    "13": 1607,
-    "14": 1356,
-    "15": 1784,
-    "16": 1293,
-    "17": 1384
+    "22": 1295
   },
   "message_types": {
-    "0": 2314,
-    "19": 1131,
-    "20": 15
+    "19": 2907,
+    "0": 5534,
+    "20": 19
   },
   "top_reacted_messages": [
     {
@@ -142,6 +142,14 @@
       "author": "hon_ey0",
       "reactions": 20,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1513908852872188055",
+      "channel_id": "1170692781216378960",
+      "content": "auto button is trash button",
+      "author": "binh029527",
+      "reactions": 18,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1513844052649443532",
@@ -168,6 +176,14 @@
       "channel": "🔸晒卡分享"
     },
     {
+      "id": "1513908744373670088",
+      "channel_id": "1170692781216378960",
+      "content": "hit the auto button",
+      "author": "46982105",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1513714439671513149",
       "channel_id": "1445556242381672559",
       "content": "Finally done ! Also posting a small bonus version here 👁️",
@@ -182,6 +198,14 @@
       "author": "marshadow0398",
       "reactions": 10,
       "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1513874097824862208",
+      "channel_id": "1170692781216378960",
+      "content": "I did this shit earlier it was quite fun",
+      "author": "l8989c",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1514047708686450758",
@@ -262,30 +286,6 @@
       "author": "galagalaguo",
       "reactions": 8,
       "channel": "疯狂预兆能否按基础狂气的百分比来给？"
-    },
-    {
-      "id": "1513832082747555911",
-      "channel_id": "1513832082747555911",
-      "content": "pickman wip, im gonna dangle him from a little keychain probably. making this fo",
-      "author": "glitzy_x",
-      "reactions": 8,
-      "channel": "pickman is real and made of wood pulp"
-    },
-    {
-      "id": "1513803702232940584",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "alistiel",
-      "reactions": 7,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1514031996643577986",
-      "channel_id": "1433513650299076780",
-      "content": "Shining tornado!",
-      "author": "return0726_43514",
-      "reactions": 7,
-      "channel": "🔸game-question"
     }
   ]
 }
