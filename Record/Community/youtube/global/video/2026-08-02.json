@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
-  "archived_at": "2026-08-02T05:57:55.431778+00:00",
+  "archived_at": "2026-08-02T08:25:07.242281+00:00",
   "source": "youtube",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능)상담소 오픈",
@@ -68,6 +68,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/eN6C17H1UwA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "『忘却前夜/対人戦』終盤での素晴らしいプレイングに感動するゆゆ『ゲーム実況』",
+      "summary": "『忘却前夜』オンラインプレイヤーとの対戦動画です！ 今回は新シーズン、新しいUIについて触れながら、 対人戦に挑んでいき ...",
+      "source": "youtube",
+      "time": "2026-08-02T06:07:07Z",
+      "url": "https://www.youtube.com/watch?v=OmUPULOCZ4o",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "薄めの『ゆゆ』",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/OmUPULOCZ4o/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

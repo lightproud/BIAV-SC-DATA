@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
-  "archived_at": "2026-08-02T05:57:55.652473+00:00",
+  "archived_at": "2026-08-02T08:25:07.315002+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 差评] ★1 문제가 발생함. 윈도우10에서 구글플레이로 실행했습니다. 이 게임을 처음",
@@ -30,6 +30,20 @@
       "tags": [],
       "lang": "th",
       "platform_region": "th",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 the story is hella good!",
+      "summary": "the story is hella good!",
+      "source": "google_play",
+      "time": "2026-08-01T06:32:01",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-1efa1d60-aada-445f-b289-7f57ea1efd6a",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ordinary Villager A",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],
