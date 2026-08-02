@@ -1,8 +1,8 @@
 {
   "date": "2026-08-03",
-  "archived_at": "2026-08-02T19:09:57.675540+00:00",
+  "archived_at": "2026-08-02T21:56:20.455596+00:00",
   "source": "youtube",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능 상담소 오픈",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/D62ydKJyFR8/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "모리멘스 (망각전야) - 융재 마감 10시간 전",
+      "summary": "노마이크.",
+      "source": "youtube",
+      "time": "2026-08-02T20:29:50Z",
+      "url": "https://www.youtube.com/watch?v=-lq1HSZg8YI",
+      "engagement": 7,
+      "is_hot": false,
+      "author": "때까치",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/-lq1HSZg8YI/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
