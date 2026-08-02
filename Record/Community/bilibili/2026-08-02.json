@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
-  "archived_at": "2026-08-02T13:18:10.064267+00:00",
+  "archived_at": "2026-08-02T16:01:29.500190+00:00",
   "source": "bilibili",
-  "item_count": 26,
+  "item_count": 29,
   "items": [
     {
       "title": "【忘却前夜】向上坠落命轮值得氪+12么？怎么用？",
@@ -442,6 +442,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "第四届N厨杯-决赛日录播",
+      "summary": "第三十一日直播录播\n  └ 白牧月 (0赞): 第一[星星眼]",
+      "source": "bilibili",
+      "time": "2026-08-02T13:35:28+00:00",
+      "url": "https://www.bilibili.com/video/BV1xd3d6aEEY",
+      "engagement": 12,
+      "is_hot": false,
+      "author": "God7777",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 11,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/2df3521d8a74a5b8e6bdd4fecc3893f7b6567536.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "《忘却前夜》第七章欲海P4，打不过就加入！",
       "summary": "",
       "source": "bilibili",
@@ -488,6 +511,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "第四届N厨杯-第三十日录播",
+      "summary": "第三十日直播录播",
+      "source": "bilibili",
+      "time": "2026-08-02T13:21:47+00:00",
+      "url": "https://www.bilibili.com/video/BV1nN3o6xE6G",
+      "engagement": 7,
+      "is_hot": false,
+      "author": "God7777",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 7,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/2df3521d8a74a5b8e6bdd4fecc3893f7b6567536.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "《忘却前夜》第七章浴河P1，这是免费就能看的内容吗。。。",
       "summary": "",
       "source": "bilibili",
@@ -529,6 +575,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/47363b147467cc3332409d5d6a48035144e5c1fd.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【纯K自用】沙耶の唄 covered by　FUWAMOCO",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-02T15:40:25+00:00",
+      "url": "https://www.bilibili.com/video/BV1UM3d6eEvn",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "湊白",
+      "tags": [
+        "翻唱"
+      ],
+      "metadata": {
+        "play": 5,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/ee1d8a33b71b5de1d54d48e79b10edfb988a8d1f.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
