@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
-  "archived_at": "2026-08-01T21:55:48.569765+00:00",
+  "archived_at": "2026-08-02T02:34:47.305335+00:00",
   "source": "bilibili",
-  "item_count": 59,
+  "item_count": 60,
   "items": [
     {
       "title": "mch，你那双眼睛看的到底有多远？…",
@@ -805,6 +805,29 @@
         "danmaku": 1
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/24a5c6bae4fff9cb317a049a34a8b39f32b39d57.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "佳作推荐【沙耶之歌】八月补档更！ 绝对不能穿越的世界（安卓直装＋PC）神作推荐分享！！",
+      "summary": "└ 端11江夜 (0赞): 整合包👉https://b23.tv/%63%6d%2d%63%6d%74%2d%31%2d%31%4d%73%4f%76%4a%59%65%49%7a%70?byhsihfo\n记得三连\n[星星眼][星星眼][星星眼][星星眼]\n  └ 球饭团 (0赞): 已三连，大哥来一份~~\n  └ 漫剧小师弟 (0赞): 已三连+关注求",
+      "source": "bilibili",
+      "time": "2026-08-01T07:09:43+00:00",
+      "url": "https://www.bilibili.com/video/BV17iG36hEzE",
+      "engagement": 139,
+      "is_hot": false,
+      "author": "端11江夜",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 127,
+        "comment_count": 12,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/5ca327d45de9a8025c121ad68cff8b05c150b43a.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

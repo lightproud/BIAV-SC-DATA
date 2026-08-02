@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
-  "archived_at": "2026-08-01T21:55:48.572376+00:00",
+  "archived_at": "2026-08-02T02:34:47.307210+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 6,
   "items": [
     {
       "title": "【忘却前夜】向上坠落命轮值得氪+12么？怎么用？",
@@ -46,6 +46,98 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/74eec16b4f7702d9dc9673a5a864d574e1b5a838.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "《忘却前夜》第七章欲海P3，一个boss一小时（笑哭）",
+      "summary": "-\n  └ 时间快些肘吧 (0赞): 才一个小时吗？新手吃的还是太好了，当初我用传统水船打了好久\n  └ loner-Chen (0赞): 当时用神父碾过去的[吃瓜]",
+      "source": "bilibili",
+      "time": "2026-08-01T23:52:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1tpKh6nE1Y",
+      "engagement": 21,
+      "is_hot": false,
+      "author": "不可燃抹茶果冻",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 19,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/8216227289c3bc0393232438b3f7e908012d2d12.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "《忘却前夜》第七章欲海P4，打不过就加入！",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-01T23:52:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1UpKh6JECd",
+      "engagement": 11,
+      "is_hot": false,
+      "author": "不可燃抹茶果冻",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 11,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/927e15a7dbcdd5fe385c6aaa76b0e989313bb8d2.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "《忘却前夜》第七章浴河P2，满地番茄汁",
+      "summary": "-\n  └ 网恋被骗2万2 (0赞): 你也玩这个，互关下[doge]",
+      "source": "bilibili",
+      "time": "2026-08-01T23:52:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1UpKh6nEZw",
+      "engagement": 7,
+      "is_hot": false,
+      "author": "不可燃抹茶果冻",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 6,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/81ced54d4887adf3cecc1122409439901edfc22b.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "《忘却前夜》第七章浴河P1，这是免费就能看的内容吗。。。",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-01T23:52:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1TWKh6SEvL",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "不可燃抹茶果冻",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 6,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/fa6b1c835ed091f543ee1e91a27f175ab7a2e814.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
