@@ -1,50 +1,99 @@
 {
   "date": "2026-08-01",
-  "messages": 2905,
-  "unique_authors": 239,
-  "reactions_total": 330,
-  "attachments": 172,
+  "messages": 7910,
+  "unique_authors": 329,
+  "reactions_total": 753,
+  "attachments": 464,
   "channel_activity": {
-    "🔸綜合討論": 244,
-    "🔸阵容构建": 2,
-    "🔸晒卡分享": 2,
+    "🔸綜合討論": 441,
+    "🔸阵容构建": 9,
+    "🔸剧情交流": 29,
+    "🔸晒卡分享": 5,
+    "🔸相位对弈": 1,
+    "🔸课间休息闲聊": 1,
+    "🔸日本語チャンネル": 1,
+    "🔸한국어-채팅방": 30,
+    "🔸deutscher-chatraum": 11,
+    "🔸chaîne-française": 1,
+    "🔸русский-канал": 315,
+    "🔸phòng-chat-tiếng-việt": 547,
+    "🔸canal-español": 303,
+    "🔸canal-português": 222,
+    "🔸ruang-obrolan-indonesia": 601,
+    "🔸ห้องสนทนาภาษาไทย": 291,
+    "🔸traphase": 272,
+    "🔸lore-chat": 520,
+    "🔸lets-count": 14,
+    "🔸team-building": 685,
+    "🔸邀请码互助┊swap-invitation-codes": 14,
+    "🔸game-question": 3361,
+    "🔸游戏问题": 6,
+    "🔸机器人命令┊bot-commands": 49,
+    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 2,
+    "畫一下羊媽": 2,
+    "草图绘画": 1,
+    "菜雞四小強玩家的抱怨之旅new": 1,
+    "關於sp蘿坦的長刀減算跟「額外生效」聯動bug": 2,
+    "造物已強化": 3,
+    "Special Ops \"The Color of Blood\" should be read after Arc 1 Chapter 6, not Arc 1 Chapter 1": 2,
+    "我的死扛去哪裡了": 2,
+    "Additional Record Filters": 1,
+    "Amber-Tinted Death does not benefit from PChaos stat enhancement": 1,
+    "Deadly duels without whalefall": 6,
+    "相位对弈:关于技能狂乱撕裂的机制": 1,
+    "相位对弈:关于技能预言的机制": 1,
+    "关于蚀罗超维空间": 4,
+    "A humble suggestion regarding GLotan's pursuit": 2,
+    "Can we get new icons for Benthos/Singularity/Propagation/Primordia Realms?": 4,
+    "💭「Processing」Optimization on iOs": 1,
+    "建議讓靈格系統從強制每次升2級改為每次升1級": 3,
+    "Skin Preview": 1,
+    "V2.5.1.0 停服维护公告": 16,
+    "Fragment": 1,
+    "Morimens Oc : Graham": 1,
+    "Tulu fanart": 4,
+    "My Morimens' Keeper Oc": 6,
+    "that’s tuff, buddy": 1,
+    "Never be so certain": 8,
+    "Sketchs": 1,
+    "【English Translation】Opinions Collection": 3,
+    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1,
+    "新人因為沙耶入坑，但是喜歡上薩爾瓦多，求配對，養成，和抽卡建議（目前買了個月卡）": 4,
+    "密契刷到多少完成度可以收手？": 1,
+    "剛入坑三天不知道陣容怎麼組😭": 6,
+    "New Player wanting to understand how to efficiently use a team": 40,
+    "Need Advice for Team & Who to Pull for": 3,
+    "New player on need of advice on what to spend my resources": 4,
+    "New player needing advice on pulling and team building": 12,
     "🔸交友频道": 5,
-    "🔸한국어-채팅방": 17,
-    "🔸русский-канал": 1,
-    "🔸phòng-chat-tiếng-việt": 281,
-    "🔸canal-español": 229,
-    "🔸canal-português": 18,
-    "🔸ruang-obrolan-indonesia": 80,
-    "🔸ห้องสนทนาภาษาไทย": 88,
-    "🔸traphase": 40,
-    "🔸lore-chat": 49,
-    "🔸lets-count": 9,
-    "🔸team-building": 195,
-    "🔸邀请码互助┊swap-invitation-codes": 5,
-    "🔸game-question": 1571,
     "🔸忘却前夜┊morimens-tv": 1,
-    "🔸机器人命令┊bot-commands": 20,
     "重新放一下": 2,
     "有些框框不太正常": 1,
     "伴生活动和复刻活动的趣味性太低了": 1,
     "關於數值顯示": 6,
-    "关于蚀罗超维空间": 2,
-    "Can we get new icons for Benthos/Singularity/Propagation/Primordia Realms?": 1,
     "寻找成就": 1,
-    "建議讓靈格系統從強制每次升2級改為每次升1級": 1,
     "Please rework how Propagation Caro works for the future units": 7,
-    "V2.5.1.0 停服维护公告": 7,
     "Vortice 🌀": 1,
-    "Tulu fanart": 3,
     "Jenkin Fanart": 2,
-    "My Morimens' Keeper Oc": 3,
-    "Never be so certain": 2,
     "Morimens New Player Handbook by Cheri [V2.5 UGC Contest]": 1,
-    "新人因為沙耶入坑，但是喜歡上薩爾瓦多，求配對，養成，和抽卡建議（目前買了個月卡）": 3,
-    "New player on need of advice on what to spend my resources": 3,
     "1532974494149251272": 1
   },
   "hourly_activity": {
+    "9": 455,
+    "10": 662,
+    "11": 330,
+    "12": 380,
+    "13": 447,
+    "14": 312,
+    "15": 360,
+    "16": 285,
+    "17": 277,
+    "20": 164,
+    "23": 281,
+    "18": 108,
+    "21": 262,
+    "19": 126,
+    "22": 566,
     "0": 152,
     "2": 412,
     "3": 430,
@@ -53,22 +102,39 @@
     "6": 419,
     "7": 427,
     "8": 334,
-    "1": 237,
-    "9": 10
+    "1": 237
   },
   "message_types": {
-    "0": 2010,
-    "19": 876,
-    "20": 18,
+    "0": 5669,
+    "19": 2191,
+    "20": 47,
+    "46": 1,
+    "4": 1,
     "21": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1533098018998587524",
+      "channel_id": "1326453763355185215",
+      "content": "ding dong! delivery!",
+      "author": "glitzy_x",
+      "reactions": 35,
+      "channel": "🔸lore-chat"
+    },
     {
       "id": "1532968200898215986",
       "channel_id": "1131839817982947429",
       "content": "",
       "author": "arthasiv",
       "reactions": 16,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533070542482182155",
+      "channel_id": "1131839817982947429",
+      "content": "我不充就想要玩",
+      "author": "cwz.io",
+      "reactions": 12,
       "channel": "🔸綜合討論"
     },
     {
@@ -80,12 +146,44 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1533141661796925612",
+      "channel_id": "1131839817982947429",
+      "content": "我學長差點把另一個直男學長拍的gv傳到社團line群",
+      "author": "ernest_heart",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
       "id": "1532953336058216630",
       "channel_id": "1532953336058216630",
       "content": "",
       "author": "coldrinkies",
       "reactions": 10,
       "channel": "Jenkin Fanart"
+    },
+    {
+      "id": "1533212784802791666",
+      "channel_id": "1174983699935277147",
+      "content": "",
+      "author": "tcssh_wolf",
+      "reactions": 9,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1533137637630546021",
+      "channel_id": "1533137637630546021",
+      "content": "剛剛送印了！會做成透光票根的圖！\n如無意外應該會放在NiCE 場次上！\n收到實物會再發上來\n\nuid：101261800",
+      "author": "nanananananauw",
+      "reactions": 9,
+      "channel": "畫一下羊媽"
+    },
+    {
+      "id": "1533216832989827192",
+      "channel_id": "1533216832989827192",
+      "content": "",
+      "author": "mikori3073",
+      "reactions": 9,
+      "channel": "Fragment"
     },
     {
       "id": "1532997850592710697",
@@ -104,6 +202,30 @@
       "channel": "🔸阵容构建"
     },
     {
+      "id": "1533144170263351406",
+      "channel_id": "1131839817982947429",
+      "content": "历经114514天本可终于毕业惹",
+      "author": "ling_an_",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533077677815238816",
+      "channel_id": "1131839817982947429",
+      "content": "我其实没啥感觉（？）\n可能我出金太多了（？）",
+      "author": "cassidy_xue",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533097413890412775",
+      "channel_id": "1131839817982947429",
+      "content": "就我发不了情了",
+      "author": "gensono0609",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
       "id": "1532905279057035275",
       "channel_id": "1131839817982947429",
       "content": "",
@@ -120,6 +242,22 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1533050714450825337",
+      "channel_id": "1131839817982947429",
+      "content": "母豬多來一點給鍵帽充爽了就給你盾擊加強",
+      "author": "hon_ey0",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533140607210356826",
+      "channel_id": "1131839817982947429",
+      "content": "幹 剛剛把我屁魘好癢發錯群組🫠🫠",
+      "author": "yi000607",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
       "id": "1532999776294015240",
       "channel_id": "1131839817982947429",
       "content": "还差一个<:Horla_cry:1357186646294138890>",
@@ -133,94 +271,6 @@
       "content": "反過來說阿格里帕零啟是完全體（",
       "author": "ahuahuahua",
       "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1532901799621558343",
-      "channel_id": "1131839817982947429",
-      "content": "https://xht8723.github.io/morimen-team-builder/\n弄了个网页版融灾配队器。\n不用游戏里反复调来调去忘记哪个命轮没用",
-      "author": "xyakoto",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1532965290860613794",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1532965300541198348",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1533029247231463514",
-      "channel_id": "1131839817982947429",
-      "content": "有啦\n||美麗的花瓶||",
-      "author": "0.0._.0_0.",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1533005961696903209",
-      "channel_id": "1131839817982947429",
-      "content": "淸 碰 不",
-      "author": "cameliia._.",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1533007653750706217",
-      "channel_id": "1131839817982947429",
-      "content": "本來想叫你去呷洨\n但想一想好像也沒人喂你",
-      "author": "ernest_heart",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1532969957447565382",
-      "channel_id": "1300659662311526512",
-      "content": "<:Helot_slack_off:1459092159465521184>",
-      "author": "duxadidus",
-      "reactions": 4,
-      "channel": "🔸canal-español"
-    },
-    {
-      "id": "1532998549355364412",
-      "channel_id": "1326453763355185215",
-      "content": "*SHE ATE IT*",
-      "author": "nightmarekingrimmu",
-      "reactions": 4,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1533010592342741072",
-      "channel_id": "1433513650299076780",
-      "content": "what 60k prime? ohh yeah that was 2 days ago i spent another 2k from then until ",
-      "author": "morified53",
-      "reactions": 4,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1532963862738108447",
-      "channel_id": "1532963862738108447",
-      "content": "",
-      "author": "nhatluan1602",
-      "reactions": 4,
-      "channel": "Tulu fanart"
-    },
-    {
-      "id": "1533007024466690210",
-      "channel_id": "1131839817982947429",
-      "content": "~~到底誰xp是女同😡~~",
-      "author": "a._0320",
-      "reactions": 3,
       "channel": "🔸綜合討論"
     }
   ]

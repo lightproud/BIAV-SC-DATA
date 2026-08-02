@@ -1,10 +1,11 @@
 {
   "date": "2026-07-29",
-  "messages": 9601,
+  "messages": 10278,
   "unique_authors": 334,
-  "reactions_total": 797,
-  "attachments": 542,
+  "reactions_total": 825,
+  "attachments": 565,
   "channel_activity": {
+    "🔸general-chat": 677,
     "🔸綜合討論": 674,
     "🔸阵容构建": 21,
     "🔸剧情交流": 53,
@@ -83,6 +84,15 @@
     "求融災組隊，目標350+": 8
   },
   "hourly_activity": {
+    "0": 268,
+    "1": 349,
+    "2": 271,
+    "3": 400,
+    "4": 501,
+    "5": 367,
+    "6": 787,
+    "7": 517,
+    "8": 493,
     "9": 242,
     "10": 363,
     "11": 522,
@@ -97,23 +107,14 @@
     "20": 437,
     "21": 416,
     "22": 561,
-    "23": 489,
-    "0": 188,
-    "1": 300,
-    "2": 259,
-    "3": 328,
-    "4": 440,
-    "5": 347,
-    "6": 643,
-    "7": 465,
-    "8": 306
+    "23": 489
   },
   "message_types": {
-    "0": 7244,
-    "19": 2316,
+    "20": 42,
+    "0": 7677,
+    "19": 2553,
     "18": 1,
     "6": 1,
-    "20": 35,
     "4": 3,
     "21": 1
   },
@@ -149,6 +150,14 @@
       "author": "arachnids_nacha",
       "reactions": 9,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531892269450399945",
+      "channel_id": "1400750050208125010",
+      "content": "Wow.",
+      "author": "ziplay",
+      "reactions": 8,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1532043954525311198",
@@ -267,14 +276,6 @@
       "channel_id": "1326453763355185215",
       "content": "Random Bullshit Go",
       "author": "oddeyesight",
-      "reactions": 5,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1532014838170259456",
-      "channel_id": "1326453763355185215",
-      "content": "I think scamstur and caraboo should have joint operation",
-      "author": "arsenyx_9999",
       "reactions": 5,
       "channel": "🔸lore-chat"
     }

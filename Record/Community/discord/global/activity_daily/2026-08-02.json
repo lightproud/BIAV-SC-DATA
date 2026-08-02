@@ -1,0 +1,225 @@
+{
+  "date": "2026-08-02",
+  "messages": 2572,
+  "unique_authors": 214,
+  "reactions_total": 297,
+  "attachments": 121,
+  "channel_activity": {
+    "🔸綜合討論": 322,
+    "🔸阵容构建": 44,
+    "🔸欢乐梗图": 3,
+    "🔸相位对弈": 46,
+    "🔸课间休息闲聊": 3,
+    "🔸한국어-채팅방": 2,
+    "🔸deutscher-chatraum": 6,
+    "🔸русский-канал": 2,
+    "🔸phòng-chat-tiếng-việt": 107,
+    "🔸canal-español": 78,
+    "🔸canal-português": 29,
+    "🔸ruang-obrolan-indonesia": 17,
+    "🔸ห้องสนทนาภาษาไทย": 41,
+    "🔸traphase": 15,
+    "🔸lore-chat": 90,
+    "🔸lets-count": 4,
+    "🔸team-building": 209,
+    "🔸邀请码互助┊swap-invitation-codes": 3,
+    "🔸game-question": 1485,
+    "🔸游戏问题": 8,
+    "🔸机器人命令┊bot-commands": 23,
+    "自制一图流（沙耶beta版）（仅供参考）": 1,
+    "UI improvement of PChaos/GLotan": 1,
+    "環拉的技能文本沒有寫好": 1,
+    "能不能把星辰篇的sr也放在商店里": 1,
+    "Additional Record Filters": 1,
+    "A humble suggestion regarding GLotan's pursuit": 2,
+    "Skin Preview": 1,
+    "V2.5.1.0 停服维护公告": 7,
+    "Mouchette ⭐": 1,
+    "Tulu fanart": 4,
+    "Niko's Event Unlock Recommendations (Lore-focused)": 1,
+    "密契刷到多少完成度可以收手？": 1,
+    "求融災組隊，目標350+": 3,
+    "密契求助": 5,
+    "Where to Spend My Pulls?": 2,
+    "Need Advice for Team & Who to Pull for": 3
+  },
+  "hourly_activity": {
+    "0": 135,
+    "2": 297,
+    "3": 227,
+    "4": 278,
+    "5": 320,
+    "6": 485,
+    "7": 336,
+    "8": 238,
+    "9": 20,
+    "1": 236
+  },
+  "message_types": {
+    "19": 653,
+    "0": 1908,
+    "20": 11
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1533346953004322917",
+      "channel_id": "1131839817982947429",
+      "content": "朋友，\n當我跟你說：「好窮」，\n是希望你坦承自己是個富二代並把卡和錢塞進我包裡，\n\n而不是回什麼：「我也是」\n\n😠",
+      "author": "yusi4172",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533348043586273291",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "cassidy_xue",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533375560586367087",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "xianrenwurao",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533383689751363654",
+      "channel_id": "1131839817982947429",
+      "content": "我不开车也能碾压很多人",
+      "author": "carme.0588",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533297705005219861",
+      "channel_id": "1300659662311526512",
+      "content": "Esta fue la E2",
+      "author": "kingfrikz",
+      "reactions": 6,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1533336006592434256",
+      "channel_id": "1326453763355185215",
+      "content": "based on what they mentioned happening to her family (her family being murdered ",
+      "author": "reya.li",
+      "reactions": 6,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1533295131875217408",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533361802937634847",
+      "channel_id": "1131839817982947429",
+      "content": "剛剛上了十分鐘廁所只拉出一顆銀芯大小的石",
+      "author": "ernest_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533393134543966329",
+      "channel_id": "1131839817982947429",
+      "content": "明天又是開心打融災的一天",
+      "author": "nemu_s_t_a_r",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533351629582110830",
+      "channel_id": "1180850818509971466",
+      "content": "指小丑24互丟跟燒繩bm吧",
+      "author": "luna_.90",
+      "reactions": 5,
+      "channel": "🔸相位对弈"
+    },
+    {
+      "id": "1533297793345519646",
+      "channel_id": "1300659662311526512",
+      "content": "Salio primero la Nautila y pense que tocaria tirar mas",
+      "author": "kingfrikz",
+      "reactions": 5,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1533297828993044701",
+      "channel_id": "1300659662311526512",
+      "content": "Afortunadamente no me costo mucho",
+      "author": "kingfrikz",
+      "reactions": 5,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1533316159162814544",
+      "channel_id": "1131839817982947429",
+      "content": "<:Leigh_wow:1356053147029864518>",
+      "author": "a_wei3797",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533345067312615588",
+      "channel_id": "1131839817982947429",
+      "content": "跪下了 以后第二个神混沌就借老头了",
+      "author": "galagalaguo",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533366125851709551",
+      "channel_id": "1131839817982947429",
+      "content": "這個群是隻貓創的",
+      "author": "arachnids_nacha",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533316627460919426",
+      "channel_id": "1180850818509971466",
+      "content": "想批发小丑24了",
+      "author": "kpkp784755247",
+      "reactions": 4,
+      "channel": "🔸相位对弈"
+    },
+    {
+      "id": "1533363311318401159",
+      "channel_id": "1326453763355185215",
+      "content": "Labubu",
+      "author": "_venush",
+      "reactions": 4,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1533351123300388876",
+      "channel_id": "1433513650299076780",
+      "content": "Lots of different artists from within the team and the ones they hire out <:Ogie",
+      "author": "mythicmoonwort",
+      "reactions": 4,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1533325095559368796",
+      "channel_id": "1131839817982947429",
+      "content": "~~嚇暈會被撿喔~~",
+      "author": "foxcatfurry",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533327453769044068",
+      "channel_id": "1131839817982947429",
+      "content": "全是南通",
+      "author": "gensono0609",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}
