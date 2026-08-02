@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
-  "archived_at": "2026-08-02T02:34:47.645206+00:00",
+  "archived_at": "2026-08-02T05:57:55.652473+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 差评] ★1 문제가 발생함. 윈도우10에서 구글플레이로 실행했습니다. 이 게임을 처음",
@@ -16,6 +16,20 @@
       "tags": [],
       "lang": "ko",
       "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 เล่นบทนำเสร็จถึงกลับรีบมารีวิวเลย เนื้อเ",
+      "summary": "เล่นบทนำเสร็จถึงกลับรีบมารีวิวเลย เนื้อเรื่องมีความน่าสนใจ เกมเพลย์ดีต้องใช้การวางแผนหน่อย ภาพ ตัวละคร เสียง ดีมากให้เลย ถูกใจสุดๆ มีภาษาไทยแต่ใช้คำไม่ค่อยดีเท่าไหร่ ส่วนตัวแปลไม่ได้ลื่นขนาดนั้น ขมวดคิ้วตลอดการอ่านเห็นจะได้ โทนเรื่องค่อนข้างหม่น ให้กลิ่นอายของความตาย โดยรวมคือชอบมาก พัฒนาต่อไปนะคะ",
+      "source": "google_play",
+      "time": "2026-08-01T05:35:48",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=th#gp-cb50ed64-2436-4c7a-869e-04f1d7fb3e63",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Pinyapat",
+      "tags": [],
+      "lang": "th",
+      "platform_region": "th",
       "region": "global"
     }
   ],

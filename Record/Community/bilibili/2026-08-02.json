@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
-  "archived_at": "2026-08-02T02:34:47.307210+00:00",
+  "archived_at": "2026-08-02T05:57:55.426951+00:00",
   "source": "bilibili",
-  "item_count": 6,
+  "item_count": 9,
   "items": [
     {
       "title": "【忘却前夜】向上坠落命轮值得氪+12么？怎么用？",
@@ -28,6 +28,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "沙耶之马铃薯：由火影服务器中孕育的少女",
+      "summary": "-\n  └ 绘赢的_ (1赞): 你把服务器上了，我玩啥啊！\n  └ 箋雲 (0赞): 绷[笑哭]\n  └ 蒙古上单大战高坂桐乃 (0赞): 虚渊玄你怎么开始玩上火影了[doge]",
+      "source": "bilibili",
+      "time": "2026-08-01T21:35:42+00:00",
+      "url": "https://www.bilibili.com/video/BV1dz3U6FEvF",
+      "engagement": 122,
+      "is_hot": false,
+      "author": "牛马小疯子",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 118,
+        "comment_count": 4,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/4ad4802423371d7814c1945054ea81b150d27c8d.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "明明是由薯条组成的怪物，在我眼中却是美丽的pro哥",
       "summary": "-\n  └ ailicili弹幕视频网 (0赞): 奖励局",
       "source": "bilibili",
@@ -46,6 +69,52 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/74eec16b4f7702d9dc9673a5a864d574e1b5a838.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "哪儿有美少女，我只看到了一堆肉块啊",
+      "summary": "-\n  └ NERV第二支部 (1赞): 可爱🥰👍看了一整天肉块终于看到美少女了😭",
+      "source": "bilibili",
+      "time": "2026-08-02T04:55:59+00:00",
+      "url": "https://www.bilibili.com/video/BV1RQ3X6qEjH",
+      "engagement": 82,
+      "is_hot": false,
+      "author": "淡紫樱梦",
+      "tags": [
+        "仿妆cos"
+      ],
+      "metadata": {
+        "play": 81,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/d9fa2f1f60548fec519cde2a8358d20c513214fd.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "长短刀......",
+      "summary": "-\n  └ 问君何忧 (0赞): 长短刀......\n  └ 烟已归 (0赞): 长短刀......",
+      "source": "bilibili",
+      "time": "2026-08-02T03:43:32+00:00",
+      "url": "https://www.bilibili.com/video/BV1iw3D6PEvv",
+      "engagement": 34,
+      "is_hot": false,
+      "author": "元初大非酋",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 32,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/cbd40c4856fcf3fe431e2b6e0c4aadc59c5c9e10.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

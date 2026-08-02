@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
-  "archived_at": "2026-08-02T02:34:47.456120+00:00",
+  "archived_at": "2026-08-02T05:57:55.493446+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[正面] Шикарная мрачная ККИ. Мой любимый формат геймплея...",
@@ -94,6 +94,30 @@
         "playtime_forever": 536,
         "votes_up": 0,
         "timestamp_created": 1785604584
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 美术很强，游戏一般，可惜败在了运营上",
+      "summary": "美术很强，游戏一般，可惜败在了运营上",
+      "source": "steam_review",
+      "time": "2026-08-02T02:33:10+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199804953535/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199804953535",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2946,
+        "votes_up": 0,
+        "timestamp_created": 1785637990
       },
       "region": "global",
       "archive_subtype": "review",
