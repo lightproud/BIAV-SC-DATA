@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
-  "archived_at": "2026-08-02T16:01:29.500190+00:00",
+  "archived_at": "2026-08-02T19:09:57.672442+00:00",
   "source": "bilibili",
-  "item_count": 29,
+  "item_count": 30,
   "items": [
     {
       "title": "【忘却前夜】向上坠落命轮值得氪+12么？怎么用？",
@@ -23,6 +23,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/e14e4b3c16d8d897e9e211f6205c803e4b9126b1.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "防御我要了吗就塞我卡组里，想恶心玩家直说",
+      "summary": "└ 濯玛克兹 (0赞): 爱你煮啵[鸣潮·共鸣与群星_点赞]\n  └ 仁爱主教 (0赞): 前排[吃瓜]\n  └ bil_12880562346 (0赞): 没有漏怪超纲了",
+      "source": "bilibili",
+      "time": "2026-08-02T15:36:22+00:00",
+      "url": "https://www.bilibili.com/video/BV1CL3d6fEYQ",
+      "engagement": 307,
+      "is_hot": false,
+      "author": "全忘却最尊重圣婴之人",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 304,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/a0a1db8a088966917dbd7ac8e51085b304539ffe.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

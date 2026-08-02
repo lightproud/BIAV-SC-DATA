@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
-  "archived_at": "2026-08-02T16:01:29.550864+00:00",
+  "archived_at": "2026-08-02T19:09:57.751295+00:00",
   "source": "steam",
-  "item_count": 8,
+  "item_count": 12,
   "items": [
     {
       "title": "[正面] Шикарная мрачная ККИ. Мой любимый формат геймплея...",
@@ -190,6 +190,102 @@
         "playtime_forever": 2031,
         "votes_up": 0,
         "timestamp_created": 1785667914
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] banger",
+      "summary": "banger",
+      "source": "steam_review",
+      "time": "2026-08-02T15:57:29+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199140726652/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199140726652",
+      "tags": [
+        "french"
+      ],
+      "language": "french",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 299,
+        "votes_up": 0,
+        "timestamp_created": 1785686249
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] ùm",
+      "summary": "ùm",
+      "source": "steam_review",
+      "time": "2026-08-02T15:28:05+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199142190015/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199142190015",
+      "tags": [
+        "french"
+      ],
+      "language": "french",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2814,
+        "votes_up": 0,
+        "timestamp_created": 1785684485
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 其实我真的很喜欢忘却前夜，无论是风格，美工，剧情，我都认为它无可挑剔，肯定大家或多或少听过它的策划做...",
+      "summary": "其实我真的很喜欢忘却前夜，无论是风格，美工，剧情，我都认为它无可挑剔，肯定大家或多或少听过它的策划做的那些事，但是它是个好游戏，角色塑造其实也很成功，每个角色给我的印象都很深，如想入坑，我还很推荐的，相比起其他的二游，忘却前夜真的很用心，很多人说它的剧情不太好，但我认为，如果你真的静下来，用心去感受，还是会发现不一样的天地，不抱着我玩这游戏是未来组配合打核爆来的话，其实你也能玩的比较舒服，而且遇到剧情里的艰难战斗时，也会更有代入感，把它当作jrpg来玩就好",
+      "source": "steam_review",
+      "time": "2026-08-02T15:24:55+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199821029768/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199821029768",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 10999,
+        "votes_up": 0,
+        "timestamp_created": 1785684295
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] ИИ калище. Перевод с китайского через нейронку, ка...",
+      "summary": "ИИ калище. Перевод с китайского через нейронку, картинки судя по всему там же делались. Очередной никому неинтересный сюжет дешевых гача-дрочилен.  Скачивать игру явно не стоит ради карточной боевки, есть и другие игры с такой механикой, куда лучше будут.",
+      "source": "steam_review",
+      "time": "2026-08-02T15:22:06+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198819439872/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198819439872",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 18,
+        "votes_up": 0,
+        "timestamp_created": 1785684126
       },
       "region": "global",
       "archive_subtype": "review",

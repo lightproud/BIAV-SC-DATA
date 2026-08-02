@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-02",
+  "archived_at": "2026-08-02T19:09:57.823127+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★2 Memory leaks.",
+      "summary": "Memory leaks.",
+      "source": "google_play",
+      "time": "2026-08-01T17:10:47",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-89106529-2255-490d-af67-1ce4e96888d4",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Seta Kaoru",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Nice game",
+      "summary": "Nice game",
+      "source": "google_play",
+      "time": "2026-08-01T16:02:54",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-3edc493d-1fa1-448a-9612-efbae7784453",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "It'sHannn",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}
