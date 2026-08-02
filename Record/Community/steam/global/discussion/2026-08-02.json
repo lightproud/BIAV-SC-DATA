@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
-  "archived_at": "2026-08-02T08:25:07.241961+00:00",
+  "archived_at": "2026-08-02T10:41:44.090955+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Steam论坛] Invitation Code",
@@ -13,6 +13,23 @@
       "engagement": 225,
       "is_hot": true,
       "author": "Znye",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] 萌新发问",
+      "summary": "这个游戏的限定池更新和复刻是要等很久嘛，现在感觉好多强力角色抽不到",
+      "source": "steam_discussion",
+      "time": "2026-08-02T09:21:18+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/583930224335480613/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "mtt",
       "tags": [
         "steam_forum"
       ],

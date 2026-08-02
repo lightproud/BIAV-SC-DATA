@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
-  "archived_at": "2026-08-02T08:25:07.315002+00:00",
+  "archived_at": "2026-08-02T10:41:44.199748+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 差评] ★1 문제가 발생함. 윈도우10에서 구글플레이로 실행했습니다. 이 게임을 처음",
@@ -44,6 +44,20 @@
       "tags": [],
       "lang": "en",
       "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 i love this game, its less stress and it",
+      "summary": "i love this game, its less stress and its very easy to play, i like the design of the character and the gameplay is very unique, thanks for making this game, I'm very glad to play it 🥰",
+      "source": "google_play",
+      "time": "2026-08-01T09:14:09",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-f8e920f5-3dbd-4254-bfce-6078fbfe1a3d",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Muhammad Angga",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
       "region": "global"
     }
   ],

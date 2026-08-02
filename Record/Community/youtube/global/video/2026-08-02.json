@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
-  "archived_at": "2026-08-02T08:25:07.242281+00:00",
+  "archived_at": "2026-08-02T10:41:44.092974+00:00",
   "source": "youtube",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능)상담소 오픈",
@@ -51,6 +51,40 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/RdBWwgjPrx0/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Caecus -- frenzy || Aequor Evolution || Morimens: Don&#39;t forget last night",
+      "summary": "Morimens Caecus frenzy!! Ty for watching as always!! ۶۟ৎ tags, ignore these!! #foryou #lovecraft #morimens #sylvester ...",
+      "source": "youtube",
+      "time": "2026-08-02T09:16:59Z",
+      "url": "https://www.youtube.com/watch?v=4ltA3gQPh5w",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Sunyandmony (Silly Vane) ",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/4ltA3gQPh5w/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "#忘卻前夜 #morimens Regional D-Effect Zone update!415 points achieved!融災415分達成!",
+      "summary": "忘卻前夜#morimens 融災更新,7月20日~8月3號. Regional D-Effect Zone Update (July 20 – August 3). 1.第一隊是用阿拉克涅+熔朵 ...",
+      "source": "youtube",
+      "time": "2026-08-02T10:00:25Z",
+      "url": "https://www.youtube.com/watch?v=8uZnoanwe1o",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Noir",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/8uZnoanwe1o/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
