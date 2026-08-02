@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
-  "archived_at": "2026-08-02T10:41:44.130373+00:00",
+  "archived_at": "2026-08-02T13:18:10.103761+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 8,
   "items": [
     {
       "title": "[正面] Шикарная мрачная ККИ. Мой любимый формат геймплея...",
@@ -118,6 +118,78 @@
         "playtime_forever": 2946,
         "votes_up": 0,
         "timestamp_created": 1785637990
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 画风还挺独特的\n但是二次元抽卡游戏怎么给我划到肉鸽卡牌里了\n我chovy，分类给我分好了啊",
+      "summary": "画风还挺独特的\n但是二次元抽卡游戏怎么给我划到肉鸽卡牌里了\n我chovy，分类给我分好了啊",
+      "source": "steam_review",
+      "time": "2026-08-02T12:24:48+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199069271275/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199069271275",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 39,
+        "votes_up": 0,
+        "timestamp_created": 1785673488
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Luego de a verme fracturado la mano en pedazos...\"...",
+      "summary": "Luego de a verme fracturado la mano en pedazos...\"literalmente, ando con yeso, =( \"..., me he puesto a jugar este juego por limitaciones motrices y... la verdad me encariñe con su historia, por ahi el uso de chatGPT en la traduccion te hace decir \"¿k chotas quiere decir esto?\", pero, engancha la verdad, su estilo artístico de los personajes y combinado con lo visual novel darky le dan este toque *cheff kiss*\n\npd: \"Karen\", como milei dijo, Es clave. (le sabe a la economia).",
+      "source": "steam_review",
+      "time": "2026-08-02T12:14:21+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198071252109/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198071252109",
+      "tags": [
+        "spanish"
+      ],
+      "language": "spanish",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 8898,
+        "votes_up": 0,
+        "timestamp_created": 1785672861
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 非常666.角色很好看",
+      "summary": "非常666.角色很好看",
+      "source": "steam_review",
+      "time": "2026-08-02T10:51:54+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199843620945/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199843620945",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2031,
+        "votes_up": 0,
+        "timestamp_created": 1785667914
       },
       "region": "global",
       "archive_subtype": "review",

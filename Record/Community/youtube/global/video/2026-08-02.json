@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
-  "archived_at": "2026-08-02T10:41:44.092974+00:00",
+  "archived_at": "2026-08-02T13:18:10.066126+00:00",
   "source": "youtube",
-  "item_count": 7,
+  "item_count": 9,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능)상담소 오픈",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/gvchyxa6138/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】ミサゴ大学深夜徘徊部",
+      "summary": "配信が終わり次第ミサゴ構内のコンビニへ Twitter(X)→https://x.com/to_m4fuyu.",
+      "source": "youtube",
+      "time": "2026-08-02T13:04:46Z",
+      "url": "https://www.youtube.com/watch?v=I3kwfNUdpwg",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "to真冬",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/I3kwfNUdpwg/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -85,6 +102,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/8uZnoanwe1o/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Astral Reign 1-8 Hollow One",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-02T10:44:12Z",
+      "url": "https://www.youtube.com/watch?v=pvalTghj1z0",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Maddy Archer",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/pvalTghj1z0/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

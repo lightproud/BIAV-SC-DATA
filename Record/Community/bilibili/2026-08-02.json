@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
-  "archived_at": "2026-08-02T10:41:44.088889+00:00",
+  "archived_at": "2026-08-02T13:18:10.064267+00:00",
   "source": "bilibili",
-  "item_count": 22,
+  "item_count": 26,
   "items": [
     {
       "title": "【忘却前夜】向上坠落命轮值得氪+12么？怎么用？",
@@ -92,6 +92,52 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/4ad4802423371d7814c1945054ea81b150d27c8d.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】抽点命轮",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-02T03:15:38+00:00",
+      "url": "https://www.bilibili.com/video/BV1nX3S6gErJ",
+      "engagement": 114,
+      "is_hot": false,
+      "author": "SherbetWhite",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 114,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/e3f70c283b36a62926b48704d34510148392a5a7.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "『沙耶の歌』说书人版",
+      "summary": "最后因某些原因只能用国语请见谅\n  └ -昆扬 (1赞): [魔法少女的魔女审判表情包_哦吼吼]\n  └ 被子大人0 (1赞): [二阶堂真红表情包_妈妈在呢][二阶堂真红表情包_妈妈][二阶堂真红表情包_妈妈在呢][二阶堂真红表情包_妈妈][二阶堂真红表情包_妈妈在呢][二阶堂真红表情包_妈妈][二阶堂真红表情包_妈妈在呢][二阶堂真红表情包_妈妈][二阶堂真红表情包_妈妈在呢][二阶堂真红表情包_妈妈][二阶堂真红表情包_妈妈在呢][二阶堂真红表情包_妈妈]",
+      "source": "bilibili",
+      "time": "2026-08-02T08:27:54+00:00",
+      "url": "https://www.bilibili.com/video/BV1br3Q6xE9b",
+      "engagement": 107,
+      "is_hot": false,
+      "author": "小龙猫大能力",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 103,
+        "comment_count": 4,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/bb528dfc7a72ab6a121dfeee13fd64af9e8313c8.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -281,6 +327,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "【沙耶之歌＆二创】——沙耶",
+      "summary": "-\n  └ 千星猫猫Channel (1赞): [tv_思考]\n  └ 宵绝星雾 (1赞): [蔚蓝档案表情包_应付]\n  └ 我有一只羊呀 (0赞): 可爱捏",
+      "source": "bilibili",
+      "time": "2026-08-02T10:52:36+00:00",
+      "url": "https://www.bilibili.com/video/BV1Yv396MEPX",
+      "engagement": 32,
+      "is_hot": false,
+      "author": "千星猫猫Channel",
+      "tags": [
+        "同人·手书"
+      ],
+      "metadata": {
+        "play": 28,
+        "comment_count": 4,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/f5f3827ca46d7bebc0078030420d18faa40f56f6.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "【忘却前夜】人偶尤乌6t融灾5-5羊妈",
       "summary": "在外面玩随便打打 不小心刷出了打折专造于是录个视频（）这集没有大月卡保留很多脑抽操作了）打羊妈体感是敲完诊断书赢一半 有点像难点全在精英的转阶段1k6大巴掌（x\n  └ 通往你幸福的花园 (0赞): 吓哭了 uw大人",
       "source": "bilibili",
@@ -345,6 +414,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/8216227289c3bc0393232438b3f7e908012d2d12.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "A",
+      "summary": "-\n  └ 费诗爱-FISHAI (0赞): 好漂亮!✪ω✪\n这是沙耶么（",
+      "source": "bilibili",
+      "time": "2026-08-02T12:48:29+00:00",
+      "url": "https://www.bilibili.com/video/BV167396SEXA",
+      "engagement": 20,
+      "is_hot": false,
+      "author": "眯眯善",
+      "tags": [
+        "同人·手书"
+      ],
+      "metadata": {
+        "play": 19,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/f7e67ae85eb10554d96b5fee4a2a6057278191ee.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
