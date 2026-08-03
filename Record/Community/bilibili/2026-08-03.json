@@ -1,8 +1,8 @@
 {
   "date": "2026-08-03",
-  "archived_at": "2026-08-03T17:10:34.973359+00:00",
+  "archived_at": "2026-08-03T19:29:49.379316+00:00",
   "source": "bilibili",
-  "item_count": 34,
+  "item_count": 35,
   "items": [
     {
       "title": "【忘却前夜】8.3-8.18容灾攻略(附神秘阵容)",
@@ -368,6 +368,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/b032424f1ac2e4cb74f7696fe69b83c7045dc25e.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "为什么对面打我不能闪开，角色都是傻子吗",
+      "summary": "└ IvyAEsir (1赞): 为什么带一个普罗[笑哭]\n  └ 夜行性孩子 (0赞): 这家伙在说什么呢[鸭科夫_干嘛鸭]",
+      "source": "bilibili",
+      "time": "2026-08-03T15:54:58+00:00",
+      "url": "https://www.bilibili.com/video/BV1zZM96rEhd",
+      "engagement": 156,
+      "is_hot": false,
+      "author": "全忘却最尊重圣婴之人",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 151,
+        "comment_count": 5,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/828888caa0d6b5d9af328a02631ae54beea36ba9.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

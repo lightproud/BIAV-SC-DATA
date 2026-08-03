@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-03T17:10:34.976355+00:00",
+  "archived_at": "2026-08-03T19:29:49.382988+00:00",
   "source": "bahamut",
-  "item_count": 24,
+  "item_count": 25,
   "items": [
     {
       "title": "【情報】V2.5.3 全新喚醒體✦蝕滅·蘿坦",
@@ -37,6 +37,19 @@
       "time": "2026-08-03T17:08:48.006408+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1509&tnum=3",
       "engagement": 62,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【心得】星辰篇必修課：淺談「牌權」的重要性",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-03T18:29:09.178248+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1491&tnum=3",
+      "engagement": 47,
       "is_hot": false,
       "author": "t12345825",
       "tags": [],
