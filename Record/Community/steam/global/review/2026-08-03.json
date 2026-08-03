@@ -1,8 +1,8 @@
 {
   "date": "2026-08-03",
-  "archived_at": "2026-08-03T02:37:08.858018+00:00",
+  "archived_at": "2026-08-03T06:23:38.444838+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] 8/10\r\n我是当单机玩的，音乐，美术都很不错。故事讲得也好，不错。",
@@ -46,6 +46,54 @@
         "playtime_forever": 4907,
         "votes_up": 0,
         "timestamp_created": 1785718795
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Started the game attending my own funeral only to...",
+      "summary": "Started the game attending my own funeral only to kill the voice in my head and immediately ship out to the first level where I beat up street orphans. Pulled my vampire GF who eats our unborn children for power boosts. Abortion magic is really effective and apparently a pretty good source of nutrition because I've already raised the first daughter she DIDN'T consume into a poorly-adjusted 11 year old, which by Victorian standards makes her old enough to qualify for full-time work in my sweatshop of horrors. \n\nSo anyway yeah I recommend.",
+      "source": "steam_review",
+      "time": "2026-08-03T04:40:42+00:00",
+      "url": "https://steamcommunity.com/profiles/76561197998879736/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561197998879736",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 343,
+        "votes_up": 0,
+        "timestamp_created": 1785732042
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 8",
+      "summary": "8",
+      "source": "steam_review",
+      "time": "2026-08-03T04:13:24+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198303694212/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198303694212",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3384,
+        "votes_up": 0,
+        "timestamp_created": 1785730404
       },
       "region": "global",
       "archive_subtype": "review",

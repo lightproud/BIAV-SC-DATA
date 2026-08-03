@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
-  "archived_at": "2026-08-03T02:37:08.932853+00:00",
+  "archived_at": "2026-08-03T06:23:38.519362+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 差评] ★2 Memory leaks.",
@@ -30,6 +30,34 @@
       "tags": [],
       "lang": "id",
       "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 I downloaded this app quite recently and",
+      "summary": "I downloaded this app quite recently and it is genuinely so much fun! The art is gorgeous and the story is really interesting as well. Now, I have read some of the comments regarding the card pull system and honestly it is far better than any other game I have played. I got multiple SSRs within the first few days since it was installed and it is pretty easy to get the things needed to do the pulls as well. So over all, I would 100% recommend this game!",
+      "source": "google_play",
+      "time": "2026-08-02T03:18:38",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-aa69ba1d-193f-4943-ad44-c94f5c005c17",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "mello",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 튜토에서부터 재밌고 다 좋은데 게임이 검은색 화면에서 안넘어간다",
+      "summary": "튜토에서부터 재밌고 다 좋은데 게임이 검은색 화면에서 안넘어간다",
+      "source": "google_play",
+      "time": "2026-08-02T04:15:51",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-66d3f461-19b7-46f7-8d0d-39d15324fde4",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Aoharu rel",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
       "region": "global"
     }
   ],
