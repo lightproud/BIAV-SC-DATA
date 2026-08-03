@@ -1,11 +1,11 @@
 {
   "date": "2026-07-29",
-  "messages": 10278,
+  "messages": 15278,
   "unique_authors": 334,
-  "reactions_total": 825,
-  "attachments": 565,
+  "reactions_total": 1155,
+  "attachments": 718,
   "channel_activity": {
-    "🔸general-chat": 677,
+    "🔸general-chat": 5677,
     "🔸綜合討論": 674,
     "🔸阵容构建": 21,
     "🔸剧情交流": 53,
@@ -84,6 +84,21 @@
     "求融災組隊，目標350+": 8
   },
   "hourly_activity": {
+    "8": 578,
+    "9": 717,
+    "10": 786,
+    "11": 1092,
+    "12": 1074,
+    "13": 1266,
+    "14": 665,
+    "15": 626,
+    "16": 569,
+    "17": 574,
+    "18": 672,
+    "19": 492,
+    "20": 530,
+    "21": 870,
+    "22": 818,
     "0": 268,
     "1": 349,
     "2": 271,
@@ -92,27 +107,12 @@
     "5": 367,
     "6": 787,
     "7": 517,
-    "8": 493,
-    "9": 242,
-    "10": 363,
-    "11": 522,
-    "12": 321,
-    "13": 585,
-    "14": 589,
-    "15": 367,
-    "16": 441,
-    "17": 288,
-    "18": 408,
-    "19": 296,
-    "20": 437,
-    "21": 416,
-    "22": 561,
     "23": 489
   },
   "message_types": {
-    "20": 42,
-    "0": 7677,
-    "19": 2553,
+    "19": 4797,
+    "0": 10425,
+    "20": 50,
     "18": 1,
     "6": 1,
     "4": 3,
@@ -192,6 +192,22 @@
       "channel": "Please rework how Propagation Caro works for the future units"
     },
     {
+      "id": "1531994863824928961",
+      "channel_id": "1400750050208125010",
+      "content": "https://klipy.com/gifs/spiderman-web-of-shadows-wolverine-symbiote-qte",
+      "author": "bocchi_the_raf",
+      "reactions": 6,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1532007679579525272",
+      "channel_id": "1400750050208125010",
+      "content": "",
+      "author": "bocchi_the_raf",
+      "reactions": 6,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1531994610740756671",
       "channel_id": "1131839817982947429",
       "content": "有沒有大佬可以帶帶我",
@@ -240,44 +256,28 @@
       "channel": "William 🗝️"
     },
     {
-      "id": "1532024819644760074",
-      "channel_id": "1131839817982947429",
-      "content": "我的幣永遠只對你一個人敞開",
-      "author": "roselia_millsage_avemujica",
+      "id": "1531995381955563725",
+      "channel_id": "1400750050208125010",
+      "content": "https://klipy.com/gifs/ayuwoki-2",
+      "author": "bocchi_the_raf",
       "reactions": 5,
-      "channel": "🔸綜合討論"
+      "channel": "🔸general-chat"
     },
     {
-      "id": "1532046277167284234",
-      "channel_id": "1131839817982947429",
-      "content": "忘卻生最大的悲劇莫過於忘卻",
-      "author": "ernest_heart",
+      "id": "1531996542930518197",
+      "channel_id": "1400750050208125010",
+      "content": "Im adopting you, get ready",
+      "author": "eury_illia",
       "reactions": 5,
-      "channel": "🔸綜合討論"
+      "channel": "🔸general-chat"
     },
     {
-      "id": "1532048273626632252",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "nemu_s_t_a_r",
+      "id": "1532007273952710789",
+      "channel_id": "1400750050208125010",
+      "content": "Everyone is so mean 2 me 🥀 💔",
+      "author": "bocchi_the_raf",
       "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1531974453125189753",
-      "channel_id": "1326453763355185215",
-      "content": "\"good news frank they loved the saya remix so you have one(1) extra electric ins",
-      "author": "nikolazuli",
-      "reactions": 5,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1531988940482023444",
-      "channel_id": "1326453763355185215",
-      "content": "Random Bullshit Go",
-      "author": "oddeyesight",
-      "reactions": 5,
-      "channel": "🔸lore-chat"
+      "channel": "🔸general-chat"
     }
   ]
 }

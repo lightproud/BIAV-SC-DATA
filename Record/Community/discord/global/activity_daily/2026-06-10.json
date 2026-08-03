@@ -1,11 +1,11 @@
 {
   "date": "2026-06-10",
-  "messages": 29849,
+  "messages": 34849,
   "unique_authors": 550,
-  "reactions_total": 3243,
-  "attachments": 1578,
+  "reactions_total": 3698,
+  "attachments": 1848,
   "channel_activity": {
-    "🔸morimens-game-chat": 4095,
+    "🔸morimens-game-chat": 9095,
     "🔸game-question": 6125,
     "🔸general-chat": 3034,
     "🔸綜合討論": 3072,
@@ -116,6 +116,20 @@
     "1514237449772204214": 3
   },
   "hourly_activity": {
+    "8": 1626,
+    "9": 2425,
+    "10": 1736,
+    "11": 1976,
+    "12": 1962,
+    "13": 2057,
+    "14": 1352,
+    "15": 2550,
+    "16": 2395,
+    "17": 1737,
+    "18": 789,
+    "19": 855,
+    "20": 924,
+    "21": 589,
     "0": 695,
     "1": 1749,
     "2": 1499,
@@ -124,27 +138,13 @@
     "5": 1403,
     "6": 1242,
     "7": 1806,
-    "8": 1509,
-    "17": 1247,
-    "18": 445,
-    "19": 541,
-    "20": 644,
-    "21": 571,
     "22": 451,
-    "23": 410,
-    "9": 1502,
-    "10": 1229,
-    "11": 1517,
-    "12": 1687,
-    "13": 1759,
-    "14": 994,
-    "15": 2274,
-    "16": 2054
+    "23": 410
   },
   "message_types": {
-    "19": 1581,
-    "0": 3642,
-    "20": 17
+    "0": 6995,
+    "19": 3209,
+    "20": 36
   },
   "top_reacted_messages": [
     {
@@ -260,6 +260,22 @@
       "channel": "【6/10】脚本/外挂账号的处理说明"
     },
     {
+      "id": "1514219964398305300",
+      "channel_id": "1170692781216378960",
+      "content": "Yayayayayayayayayyyyyy finallyyy",
+      "author": "auborea",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1514342875595542528",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "seynee_",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1514398045746233466",
       "channel_id": "1514398045746233466",
       "content": "When purchasing the \"Extra Curriculum\" (Battlepass) late into the game version, ",
@@ -268,43 +284,27 @@
       "channel": "PAID REWARDS NOT RECEIVED! Reality Verges from the Battlepass"
     },
     {
+      "id": "1514222742466068620",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1514237692357906562",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "reya.li",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1514090926681886720",
       "channel_id": "1170692781216378960",
       "content": "220 LUMINOUS CORES\n50 ETHEREAL CORES\n40,000 SILVER\n2060 SILVER PRIMES",
       "author": "goyslopchugjugsupreme",
       "reactions": 7,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1514162933020627105",
-      "channel_id": "1170692781216378960",
-      "content": "Not bad eh?",
-      "author": "_djee",
-      "reactions": 7,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1514372392129007817",
-      "channel_id": "1180850818509971466",
-      "content": "到5k了很开心w\n231和2317要成为pvp大手子！",
-      "author": "scp23178528",
-      "reactions": 7,
-      "channel": "🔸相位对弈"
-    },
-    {
-      "id": "1514097522883432610",
-      "channel_id": "1170692781216378960",
-      "content": "https://discord.com/channels/1131791637933199470/1514085059739521184",
-      "author": "aurora3981",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1514169646092124214",
-      "channel_id": "1170692781216378960",
-      "content": "also was it just me or did yall also think tulu was a girlypop for the longest t",
-      "author": "aettitude",
-      "reactions": 6,
       "channel": "🔸morimens-game-chat"
     }
   ]
