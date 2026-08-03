@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-03T19:29:49.383675+00:00",
+  "archived_at": "2026-08-03T22:09:03.736356+00:00",
   "source": "youtube",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능) 융재가 초기화 됐다고??",
@@ -34,6 +34,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/zjhoQ1t0RZk/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "MORIMENS CHAPTER 4 CONCLUSION | F2P MORIMENS",
+      "summary": "f2p Morimens gameplay and read throughs.",
+      "source": "youtube",
+      "time": "2026-08-03T21:00:16Z",
+      "url": "https://www.youtube.com/watch?v=QfcX29QXy5g",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Koka",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/QfcX29QXy5g/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
