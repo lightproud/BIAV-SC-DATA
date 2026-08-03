@@ -1,8 +1,8 @@
 {
   "date": "2026-08-03",
-  "archived_at": "2026-08-03T06:23:38.444838+00:00",
+  "archived_at": "2026-08-03T12:23:23.450498+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[正面] 8/10\r\n我是当单机玩的，音乐，美术都很不错。故事讲得也好，不错。",
@@ -94,6 +94,30 @@
         "playtime_forever": 3384,
         "votes_up": 0,
         "timestamp_created": 1785730404
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 美術音樂超棒\r\n不能讓電腦自動練功  一定要動腦打  \r\n課金偏貴",
+      "summary": "美術音樂超棒\r\n不能讓電腦自動練功  一定要動腦打  \r\n課金偏貴",
+      "source": "steam_review",
+      "time": "2026-08-03T10:48:58+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198875101308/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198875101308",
+      "tags": [
+        "tchinese"
+      ],
+      "language": "tchinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 5482,
+        "votes_up": 0,
+        "timestamp_created": 1785754138
       },
       "region": "global",
       "archive_subtype": "review",

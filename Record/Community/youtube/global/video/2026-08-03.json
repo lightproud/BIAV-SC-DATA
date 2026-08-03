@@ -1,8 +1,8 @@
 {
   "date": "2026-08-03",
-  "archived_at": "2026-08-03T06:23:38.399892+00:00",
+  "archived_at": "2026-08-03T12:23:23.415341+00:00",
   "source": "youtube",
-  "item_count": 10,
+  "item_count": 13,
   "items": [
     {
       "title": "[Morimens] Start of D-Tide Stream - When I&#39;m finished eating",
@@ -56,6 +56,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "【忘却前夜】神国と愉快な仲間たち〜星辰編〜",
+      "summary": "忘却前夜.",
+      "source": "youtube",
+      "time": "2026-08-03T10:30:16Z",
+      "url": "https://www.youtube.com/watch?v=BH05ggMN14c",
+      "engagement": 22,
+      "is_hot": false,
+      "author": "愛鳴",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/BH05ggMN14c/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "모리멘스 (망각전야) - 융재 마감 10시간 전",
       "summary": "노마이크.",
       "source": "youtube",
@@ -85,6 +102,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/iEYMzkaNV0U/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] : I have enough of this bitch (H5-11 Boss)",
+      "summary": "ตัดต่อแบบปัญญาอ่อนโดยกูเอง Follow me more : https://linktr.ee/noeyebunnynobunsu.",
+      "source": "youtube",
+      "time": "2026-08-03T10:26:46Z",
+      "url": "https://www.youtube.com/watch?v=QYUYqyb40AY",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "NoEyeBunny",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/QYUYqyb40AY/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -136,6 +170,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/fvQOm2sws7Q/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "망각전야 (모리멘스) - 7/20 시즌 융재금구  A5 모음",
+      "summary": "4파가 아품자이길래 하기 싫단 생각이 한 번 들기 시작하니 내내 미루다가 마감 10시간 쯤부터 하긴 해야겠구나 하고 400점만 클리어..",
+      "source": "youtube",
+      "time": "2026-08-03T11:30:30Z",
+      "url": "https://www.youtube.com/watch?v=xDrc6UEHXAM",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "때까치",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/xDrc6UEHXAM/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

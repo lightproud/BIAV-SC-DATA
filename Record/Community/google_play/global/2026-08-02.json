@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
-  "archived_at": "2026-08-03T06:23:38.519362+00:00",
+  "archived_at": "2026-08-03T12:23:23.489339+00:00",
   "source": "google_play",
-  "item_count": 4,
+  "item_count": 7,
   "items": [
     {
       "title": "[Google Play 差评] ★2 Memory leaks.",
@@ -58,6 +58,48 @@
       "tags": [],
       "lang": "ko",
       "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 So far this game is really interesting,",
+      "summary": "So far this game is really interesting, it's very F2p friendly and doesn't take that much space on mobile, though I wish there were voice lines in the story so that we could understand the story better but I'm quite happy with the story and the plot itself. knowing this game isn't really a main stream, I don't really mind the lack of VA tbh and hopefully this game will get the recognition it deserves in the future 🗝️",
+      "source": "google_play",
+      "time": "2026-08-02T08:45:03",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-5864ae93-7fd0-4e49-b627-d87dc0ff9f92",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Kitsune",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 recommended buat player gratisan 🗿👍",
+      "summary": "recommended buat player gratisan 🗿👍",
+      "source": "google_play",
+      "time": "2026-08-02T11:25:31",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-7663715b-a067-40e6-8328-da91129c78f4",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "M.syarif.h768",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 👍",
+      "summary": "👍",
+      "source": "google_play",
+      "time": "2026-08-02T10:38:01",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-2e1b6bc0-568e-48bd-b865-cfdd4db38f15",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Adly Laksmana",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
       "region": "global"
     }
   ],
