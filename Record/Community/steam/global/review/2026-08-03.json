@@ -1,8 +1,8 @@
 {
   "date": "2026-08-03",
-  "archived_at": "2026-08-03T12:23:23.450498+00:00",
+  "archived_at": "2026-08-03T17:10:35.053720+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] 8/10\r\n我是当单机玩的，音乐，美术都很不错。故事讲得也好，不错。",
@@ -118,6 +118,54 @@
         "playtime_forever": 5482,
         "votes_up": 0,
         "timestamp_created": 1785754138
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 差",
+      "summary": "差",
+      "source": "steam_review",
+      "time": "2026-08-03T13:03:09+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199557478078/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199557478078",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 10706,
+        "votes_up": 0,
+        "timestamp_created": 1785762189
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] such a good game, trust me.",
+      "summary": "such a good game, trust me.",
+      "source": "steam_review",
+      "time": "2026-08-03T12:57:22+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199662095440/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199662095440",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 316,
+        "votes_up": 0,
+        "timestamp_created": 1785761842
       },
       "region": "global",
       "archive_subtype": "review",

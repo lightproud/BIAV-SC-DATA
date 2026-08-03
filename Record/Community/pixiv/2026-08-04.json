@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-04",
+  "archived_at": "2026-08-03T17:10:35.057066+00:00",
+  "source": "pixiv",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "T",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-08-04T01:41:07+09:00",
+      "url": "https://www.pixiv.net/artworks/147992691",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "雨めい",
+      "tags": [
+        "タイス",
+        "忘却前夜"
+      ],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/08/04/01/41/07/147992691_p0_square1200.jpg",
+      "content_type": "image"
+    }
+  ]
+}

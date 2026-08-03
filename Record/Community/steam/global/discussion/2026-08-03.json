@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-03",
+  "archived_at": "2026-08-03T17:10:34.980965+00:00",
+  "source": "steam",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Steam论坛] Why so little players count ?",
+      "summary": "...",
+      "source": "steam_discussion",
+      "time": "2026-08-03T14:44:41+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/688621679872623760/",
+      "engagement": 10,
+      "is_hot": true,
+      "author": "Loot_goblin_Lord",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] Account Lost",
+      "summary": "So I somehow lost my account of +400 hours of gameplay from a year ago. I came back to see any update, but somehow when I enter the login screen I start from the tutorial again. I thought the tutorial is mandatory for every new installation, so I go through 10 minutes of gameplay; finishing it I am met with a new account. Like... what? I thought when the game first came out the default login was the steam account used to play the game, but somehow mine is lost? Is there any major change to the g",
+      "source": "steam_discussion",
+      "time": "2026-08-03T14:51:33+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/594062392369063214/",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "ZerOxygeNeedEd",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] Can't click end turn on second fight?",
+      "summary": "What do I do?",
+      "source": "steam_discussion",
+      "time": "2026-08-03T14:52:31+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/583929927904096401/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "BCS",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}
