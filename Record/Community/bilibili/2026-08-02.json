@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
-  "archived_at": "2026-08-02T21:56:20.452972+00:00",
+  "archived_at": "2026-08-03T02:37:08.772679+00:00",
   "source": "bilibili",
-  "item_count": 30,
+  "item_count": 31,
   "items": [
     {
       "title": "【忘却前夜】向上坠落命轮值得氪+12么？怎么用？",
@@ -23,6 +23,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/e14e4b3c16d8d897e9e211f6205c803e4b9126b1.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "恋爱类游戏女主，但jojo面板（第三弹part2加第四弹）",
+      "summary": "六维面板制作软件作者：@9个笨蛋 \n如果觉得视频不错请给个三连叭TwT\n  └ 日天可可 (0赞): 意满离",
+      "source": "bilibili",
+      "time": "2026-08-02T10:01:12+00:00",
+      "url": "https://www.bilibili.com/video/BV1WX396dEHi",
+      "engagement": 335,
+      "is_hot": false,
+      "author": "-千炫镰刀-",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 334,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 1
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/a8633dcf89e56d6fd82a7b53b2fefcaef5030675.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

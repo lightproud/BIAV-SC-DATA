@@ -1,8 +1,8 @@
 {
   "date": "2026-08-03",
-  "archived_at": "2026-08-02T21:56:20.504705+00:00",
+  "archived_at": "2026-08-03T02:37:08.858018+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[正面] 8/10\r\n我是当单机玩的，音乐，美术都很不错。故事讲得也好，不错。",
@@ -22,6 +22,30 @@
         "playtime_forever": 1314,
         "votes_up": 0,
         "timestamp_created": 1785687715
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] one of most generous F2P  gacha Game\n\nif you're in...",
+      "summary": "one of most generous F2P  gacha Game\n\nif you're into a game with story who ask about forgetting and remembering the trace of one's journey and lives, youre in for a treat\n\nbe know that this game is develiped by small company, and some chapter MAY or may not is not human translated, in that case you need to wait, you could help directly by going to their discord \n\nnow, 2 point i want to make that make me like this game\n\ngacha, very generous, you get gacha currency almost like water here, however, when pulling i encourage and strongly reccomend you to research the character whether they are dupe reliant or not, some are, some not\n\ngameplay, the gameplay is a deck building roguelite, however the deck is resetted every stage so its bit simple, but dont take this as the game being easy, play it enough to reach mid-game and you notice you need some strategy/know how the team work to beat, theres no point to play this game if you are whaler but often just play on auto, youre gonna get punished so hard, especially in endgame content\n\neven whaler need some sort of thinking here\n\ni would say this game is 10/10 from me, biased, sure, but it's one of the game i genuinely enjoy despite the flaw you might finds in the game",
+      "source": "steam_review",
+      "time": "2026-08-03T00:59:55+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198334310225/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198334310225",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 4907,
+        "votes_up": 0,
+        "timestamp_created": 1785718795
       },
       "region": "global",
       "archive_subtype": "review",
