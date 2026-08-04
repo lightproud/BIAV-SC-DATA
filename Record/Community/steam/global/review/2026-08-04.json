@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-04T05:48:11.827683+00:00",
+  "archived_at": "2026-08-04T08:36:24.127416+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] 다른 건 모르겠고 스크립트랑 그래픽이 진짜. 너무. 아름다워요.",
@@ -46,6 +46,30 @@
         "playtime_forever": 734,
         "votes_up": 0,
         "timestamp_created": 1785795089
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Chapter 1 was a monumental slog for me (patience i...",
+      "summary": "Chapter 1 was a monumental slog for me (patience issue due to roguelike exploration every second), but after that, I got more comfortable. Something interesting is the difficulty sometimes encountered, sometimes being negated by 5 free revives that freely replenish. (which is really neat imo bc skill issue). \nThe topic of the story revolving around not forgetting people, or memories in general, is quite a random but welcome treat of a theme\nIt's like a reminder to not let my brain start failing, and to preserve mental notes I've made about my own friends and written things\nand Always research gacha char Investments",
+      "source": "steam_review",
+      "time": "2026-08-04T07:05:46+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198892300021/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198892300021",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1521,
+        "votes_up": 0,
+        "timestamp_created": 1785827146
       },
       "region": "global",
       "archive_subtype": "review",

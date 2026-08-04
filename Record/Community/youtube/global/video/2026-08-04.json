@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-04T05:48:11.782098+00:00",
+  "archived_at": "2026-08-04T08:36:24.081079+00:00",
   "source": "youtube",
-  "item_count": 10,
+  "item_count": 12,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능) 융재가 초기화 됐다고??",
@@ -68,6 +68,40 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/zjhoQ1t0RZk/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "「VTuber」Aku kembali tapi sedikit berbeda || Morimens",
+      "summary": "vtuberid #vtuber #morimens JOKI MURAH TERPERCAYA? DM IG: black.rock.shop Follow My Social Media : Facebook ...",
+      "source": "youtube",
+      "time": "2026-08-04T07:56:13Z",
+      "url": "https://www.youtube.com/watch?v=3ZvdKoId_rw",
+      "engagement": 11,
+      "is_hot": false,
+      "author": "Nuthfih",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/3ZvdKoId_rw/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "망각전야Morimens) 롤 클래식 / 증바람 해보기",
+      "summary": "망각전야 #Morimens #이터널리턴.",
+      "source": "youtube",
+      "time": "2026-08-04T07:17:09Z",
+      "url": "https://www.youtube.com/watch?v=4u_NFXqjt9c",
+      "engagement": 8,
+      "is_hot": false,
+      "author": "박현(Muyeong)",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/4u_NFXqjt9c/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

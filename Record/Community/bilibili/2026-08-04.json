@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-04T05:48:11.780559+00:00",
+  "archived_at": "2026-08-04T08:36:24.078916+00:00",
   "source": "bilibili",
-  "item_count": 6,
+  "item_count": 8,
   "items": [
     {
       "title": "【忘却前夜】8.3-8.17融灾个人410通关记录（逃课逃麻了/alkn、24、sp萝、捕鸟蛛）",
@@ -46,6 +46,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/7311baeee20e18d30bd3c506a32f47bb3f5b0d7f.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "反击队一回合速通5-5一阶段，二阶段潘神零帧起手3000伤还不让碰，给你得了",
+      "summary": "测试发现凯刻斯双持旺达专最佳，完美解决非深海介质下粉毛鱼狂气缺失的问题。可将陨日空出来，至此庞凯旺再无使用抢手命轮，完全捡垃圾大王。\n  └ Coliner_ (2赞): 测试发现凯刻斯双持旺达专最佳，完美解决非深海介质下粉毛鱼狂气缺失的问题。可将陨日空出来，至此庞凯旺再无使用抢手命轮，完全捡垃圾大王。第一回合操作牌序烂完，但是伤害溢出所以无所谓了\n  └ 额度了奶奶 (0赞): 凯克斯的反击究竟是怎么叠的呀主播",
+      "source": "bilibili",
+      "time": "2026-08-03T23:18:41+00:00",
+      "url": "https://www.bilibili.com/video/BV1koMZ6ZEUG",
+      "engagement": 123,
+      "is_hot": false,
+      "author": "Coliner_",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 120,
+        "comment_count": 3,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/ce2ec3d3ccdb5bfcd608ad9d4eb10ce99bc801e0.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -115,6 +138,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/ce9984711aed31d716bf6bd59d35623d87536fd4.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "每期任务…老头1t…",
+      "summary": "-\n  └ 伊莎玛拉-大群来了 (0赞): 回放有bug…小猫还不修，有利bug秒修，ex人的bug一直留着…",
+      "source": "bilibili",
+      "time": "2026-08-04T07:38:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1GKuw6JE25",
+      "engagement": 27,
+      "is_hot": false,
+      "author": "伊莎玛拉-大群来了",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 26,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/a0bdde15fe5f379764c01415a952f29ed70eb9a8.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
