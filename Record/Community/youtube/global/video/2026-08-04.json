@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-04T02:15:49.489166+00:00",
+  "archived_at": "2026-08-04T05:48:11.782098+00:00",
   "source": "youtube",
-  "item_count": 9,
+  "item_count": 10,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능) 융재가 초기화 됐다고??",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/LDOEaYLMglo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] JP vs Global Differences (Part 1) Chaos - Are More JP changes coming? + Giveaway event.",
+      "summary": "https://buymeacoffee.com/flares https://discord.gg/tpMMe5W7CT - Personal Flares Discord ...",
+      "source": "youtube",
+      "time": "2026-08-04T05:29:45Z",
+      "url": "https://www.youtube.com/watch?v=044cy7ufUj4",
+      "engagement": 35,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/044cy7ufUj4/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

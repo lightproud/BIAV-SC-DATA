@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-04T02:15:49.488724+00:00",
+  "archived_at": "2026-08-04T05:48:11.780559+00:00",
   "source": "bilibili",
-  "item_count": 3,
+  "item_count": 6,
   "items": [
     {
       "title": "【忘却前夜】8.3-8.17融灾个人410通关记录（逃课逃麻了/alkn、24、sp萝、捕鸟蛛）",
@@ -23,6 +23,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/cbceea80c514c8f8abfe03b9fb7ce42557e48453.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "「忘却前夜」超限卡斯托尔主c2-5，感觉有点像是带了3个t0辅助玩高级戒备鸟",
+      "summary": "-\n  └ 第零类假象 (0赞): 伤害占比赢了[打call]",
+      "source": "bilibili",
+      "time": "2026-08-03T18:49:40+00:00",
+      "url": "https://www.bilibili.com/video/BV1yXMd6XE2H",
+      "engagement": 134,
+      "is_hot": false,
+      "author": "第零类假象",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 133,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/7311baeee20e18d30bd3c506a32f47bb3f5b0d7f.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -51,6 +74,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "8.3融灾 243天第一次425",
+      "summary": "记录一下，萌新入坑第243天，第一次打满425。\n之前已经连续打了十期400，上次和上上次浅尝了410。本来这次也是看情况打个415，打着打着计划有变。配队丑陋、操作丑陋、狗运回溯发力、游戏理解有待提升，还望见谅。\n晚上九点才结束，最后打了接近十个小时。压力比400大太多了，这次在种种偶然因素影响下得吃了，后续能不能继续蠕动打满不好说。\n忘却前夜真是太好玩了，砸锅卖铁往里面充钱，一天到晚觉也不睡了饭也不吃了，玩着脸红红的心快快的真的好温暖。请玩一辈子忘却前夜吧(   &#x27;ω&#x27;)？\nps：如果各位佬能在评论区",
+      "source": "bilibili",
+      "time": "2026-08-03T18:46:06+00:00",
+      "url": "https://www.bilibili.com/video/BV1xUMd64Ebw",
+      "engagement": 100,
+      "is_hot": false,
+      "author": "一棵冬小麦丶",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 100,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/af4c427235da3aff763e45a52d054bc2aadab77c.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "【忘却前夜】徐珈莉环融灾禁区4-5一镜到底",
       "summary": "这个队伍依靠珈伦叠毒拿算力资源，环娜和猎食找报偿和入骨进行输出，对莉莉和徐的启灵需求较低，容错较高，但是依赖+2命轮，启动偏慢。莉莉双持梦游很合适，可以挂机，精英和BOSS战有不错的斩杀收益\n  └ 想睡觉的雨酱 (0赞): 朝星大人，吓哭了\n  └ 梦依流苏_myls (0赞): 严肃学习[星空列车与白的旅行表情包_张口闭眼][星空列车与白的旅行表情包_张口闭眼][星空列车与白的旅行表情包_张口闭眼]",
       "source": "bilibili",
@@ -69,6 +115,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/ce9984711aed31d716bf6bd59d35623d87536fd4.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "‍",
+      "summary": "TikTok Kitty Gore",
+      "source": "bilibili",
+      "time": "2026-08-04T05:37:14+00:00",
+      "url": "https://www.bilibili.com/video/BV1RoMf6mEdR",
+      "engagement": 7,
+      "is_hot": false,
+      "author": "DepEnded4Lyff",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 7,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/ccd7d3fa6c1749b85684cca9d730b294798f8ae7.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
