@@ -1,8 +1,8 @@
 {
   "date": "2026-08-03",
-  "archived_at": "2026-08-03T22:09:03.733248+00:00",
+  "archived_at": "2026-08-04T02:15:49.487292+00:00",
   "source": "bilibili",
-  "item_count": 35,
+  "item_count": 36,
   "items": [
     {
       "title": "【忘却前夜】8.3-8.18容灾攻略(附神秘阵容)",
@@ -483,6 +483,29 @@
         "danmaku": 7
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/f97b14d2e7fcca98e69d4766f450b127bae96d70.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】融灾425",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-03T09:00:51+00:00",
+      "url": "https://www.bilibili.com/video/BV1WgM96yEA9",
+      "engagement": 103,
+      "is_hot": false,
+      "author": "星咏ようむ",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 103,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/db86d49306396654bad558e864c6627aec2a2cbe.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-03",
-  "archived_at": "2026-08-03T22:09:03.814917+00:00",
+  "archived_at": "2026-08-04T02:15:49.535941+00:00",
   "source": "weibo",
-  "item_count": 76,
+  "item_count": 77,
   "items": [
     {
       "title": "忘却前夜#忘却前夜#\n📸壁纸分享-诞妄·墨菲\n✦为大家奉上诞妄·墨菲的留影作为纪念~",
@@ -1143,6 +1143,21 @@
       ],
       "lang": "",
       "platform_region": ""
+    },
+    {
+      "title": "《忘却前夜》丨ED——「来自遗忘 」\n呼唤我的名字，在被忘却的黎明之前。\n\n献给每一位与弥萨格同行的守密人，愿银钥指引前路！\n\n企划：B.I.A.V. S",
+      "summary": "《忘却前夜》丨ED——「来自遗忘 」\n呼唤我的名字，在被忘却的黎明之前。\n\n献给每一位与弥萨格同行的守密人，愿银钥指引前路！\n\n企划：B.I.A.V. Studio\n中词：霁月 -B.I.A.V. Studio\n英译/曲：F.R.K. -B.I.A.V. Studio\n演唱/润色：Emi Evans -SCARLET MOON PRODUCTIONS\n特别鸣谢：Jayson Napoli ...全文",
+      "source": "weibo",
+      "time": "2026-08-03T04:05:00+00:00",
+      "url": "https://m.weibo.cn/status/5111587067138157",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [
+        "weibo"
+      ],
+      "lang": "zh",
+      "platform_region": "cn"
     }
   ]
 }

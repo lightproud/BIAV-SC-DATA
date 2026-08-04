@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-03T22:09:03.810044+00:00",
+  "archived_at": "2026-08-04T02:15:49.532927+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[正面] 다른 건 모르겠고 스크립트랑 그래픽이 진짜. 너무. 아름다워요.",
@@ -22,6 +22,30 @@
         "playtime_forever": 2455,
         "votes_up": 0,
         "timestamp_created": 1785777278
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Можно съесть эмбриона",
+      "summary": "Можно съесть эмбриона",
+      "source": "steam_review",
+      "time": "2026-08-03T22:11:29+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199108156393/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199108156393",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 734,
+        "votes_up": 0,
+        "timestamp_created": 1785795089
       },
       "region": "global",
       "archive_subtype": "review",

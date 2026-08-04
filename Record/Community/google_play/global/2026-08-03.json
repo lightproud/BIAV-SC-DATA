@@ -1,0 +1,65 @@
+{
+  "date": "2026-08-03",
+  "archived_at": "2026-08-04T02:15:49.586529+00:00",
+  "source": "google_play",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 Game wont start",
+      "summary": "Game wont start",
+      "source": "google_play",
+      "time": "2026-08-03T01:55:55",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-57a047db-c85a-4574-af85-f18245b55663",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Yep Yep",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 very good game, looking forward for futu",
+      "summary": "very good game, looking forward for future updates",
+      "source": "google_play",
+      "time": "2026-08-03T01:19:58",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-7e36d7e2-cdf6-4762-a279-1a273ac1f324",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Shaun Williams",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Really amazing game that I wish achieves",
+      "summary": "Really amazing game that I wish achieves the popularity it deserves. <3 Great character art, great meta-progression, gacha is quite generous and most standard characters are viable and some even great (Caecus, Sanga, Nautila, Winkle, Casiah), so it doesn't even feel bad losing to them. My only wish is some kind of endless mode to eventually really push the teams I create.",
+      "source": "google_play",
+      "time": "2026-08-03T00:53:15",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-f046ab31-c2ef-4af1-9413-ab8b18243829",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Phoenix Chua",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Es de esos juegos que merecen ser mucho",
+      "summary": "Es de esos juegos que merecen ser mucho más conocidos. Su sistema de combate, la calidad visual de las animaciones, la historia y la música son muy buenos. Es desafiante: hay que pensar bien cada jugada. Como jugador casual, he conseguido la mayoría de personajes y cartas con poca inversión. Llevo casi un año jugando y he visto cómo mejora constantemente; espero que siga así. Mi única queja es la traducción al español; ojalá la mejoren con el tiempo. Por lo demás, súper recomendado.",
+      "source": "google_play",
+      "time": "2026-08-03T00:38:16",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-ff740690-d2ef-4cc6-8aa4-732a67504801",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Nereis",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "es",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}
