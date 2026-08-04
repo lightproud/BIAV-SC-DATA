@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "archived_at": "2026-08-04T19:32:27.576863+00:00",
+  "archived_at": "2026-08-04T22:12:30.027025+00:00",
   "source": "youtube",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능) 융재설명회",
@@ -68,6 +68,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/wW61KmoskH8/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "GHELOT STORY II | F2P Morimens",
+      "summary": "Morimens F2P gameplay and read throughs.",
+      "source": "youtube",
+      "time": "2026-08-04T21:00:13Z",
+      "url": "https://www.youtube.com/watch?v=OiH7WJ-0gHo",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Koka",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/OiH7WJ-0gHo/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

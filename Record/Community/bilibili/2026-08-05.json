@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-05",
+  "archived_at": "2026-08-04T22:12:30.034059+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "第一视角体验被沙耶狩猎（微恐预警！）",
+      "summary": "我记得沙耶好像是狩猎谁来着然后躲在沙发底下（？",
+      "source": "bilibili",
+      "time": "2026-08-04T21:00:10+00:00",
+      "url": "https://www.bilibili.com/video/BV14dMz62E8Q",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "黑之断罪者-米兰达",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 6,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/b824a71139aa01ea8e90a03c7189c0bcf4dcad2a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    }
+  ]
+}
