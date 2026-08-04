@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-04T16:52:32.939747+00:00",
+  "archived_at": "2026-08-04T19:32:27.572847+00:00",
   "source": "bilibili",
-  "item_count": 28,
+  "item_count": 29,
   "items": [
     {
       "title": "[忘却前夜]上帝来了也得吃满一个大保底才能走",
@@ -322,6 +322,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/8a76d1b94490db3ae98a4e3fa97eb2be5ed2a2c2.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "蒲公英的种子。",
+      "summary": "一锅炖。一天画了什么呢。\n  └ 哈基沙大玉 (2赞): 好堪捏[Ave Mujica_我有话说]\n  └ 耕司青海瑶 (1赞): [打call][打call][打call]\n  └ -昆扬 (0赞): [魔法少女的魔女审判表情包_探头]",
+      "source": "bilibili",
+      "time": "2026-08-04T08:01:15+00:00",
+      "url": "https://www.bilibili.com/video/BV1Ppuw6BEVH",
+      "engagement": 106,
+      "is_hot": false,
+      "author": "TV-sliced_salmon",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 102,
+        "comment_count": 4,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/7da478c98b2e0f21cfc36fa639a69dd35b6f2ed4.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
