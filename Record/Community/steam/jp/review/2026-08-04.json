@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-04",
+  "archived_at": "2026-08-04T11:25:10.492410+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] [h1]ソシャゲ版Slay the Spire[/h1]\n●良かった点\n・Slay the Spi...",
+      "summary": "[h1]ソシャゲ版Slay the Spire[/h1]\n●良かった点\n・Slay the Spireをソシャゲに上手く落とし込んでいるゲーム性\n・作品にマッチした雰囲気を醸し出す音楽\n・統一感のあるアートデザイン\n・ガチャは30回で最高レア確定、90回で限定キャラ確定と、限定キャラ1体入手するだけなら他のソシャゲと比較してもヌル目\n・配布が多くガチャが引きやすい、ストーリーを進めれば恒常キャラはコンプリート出来るほど。限定キャラは2～3体くらいなら最低保証でも入手可能\n\n×悪かった点\n・ローグライク要素はあるもののデッキはあらかじめ編成したキャラによって決まり、プレイ中に遺物を手に入れたりカードに特殊効果を付与することはできるが勝敗を左右するほどの効果はなく変化に乏しいので、結局は同じカードの同じ行動をひたすら繰り返すことになるので作業感が強い\n・ソシャゲの宿命だがプレイヤーの戦力は頭打ちして敵のステータスだけは徐々にインフレするので段々とストレステストじみてくる\n・最大15凸のキャラガチャ、凸アイテムは無課金でも手に入るものの3凸して実用レベル7凸して本領発揮というキャラが多い",
+      "source": "steam_review",
+      "time": "2026-08-04T07:36:48+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199444689001/recommended/4226130",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199444689001",
+      "tags": [
+        "japanese"
+      ],
+      "language": "japanese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3216,
+        "votes_up": 0,
+        "timestamp_created": 1785829008
+      },
+      "region": "jp",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "jp",
+  "content_subtype": "review"
+}

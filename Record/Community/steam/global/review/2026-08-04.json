@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-04T08:36:24.127416+00:00",
+  "archived_at": "2026-08-04T11:25:10.491333+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] 다른 건 모르겠고 스크립트랑 그래픽이 진짜. 너무. 아름다워요.",
@@ -70,6 +70,30 @@
         "playtime_forever": 1521,
         "votes_up": 0,
         "timestamp_created": 1785827146
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] good",
+      "summary": "good",
+      "source": "steam_review",
+      "time": "2026-08-04T09:38:12+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199428653499/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199428653499",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3061,
+        "votes_up": 0,
+        "timestamp_created": 1785836292
       },
       "region": "global",
       "archive_subtype": "review",
