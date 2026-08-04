@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-04",
+  "messages": 2,
+  "unique_authors": 1,
+  "reactions_total": 6,
+  "attachments": 1,
+  "channel_activity": {
+    "links-and-resources": 1,
+    "2026 July - August Contribution Log: V2.5.3 Updates": 1
+  },
+  "hourly_activity": {
+    "6": 1,
+    "7": 1
+  },
+  "message_types": {
+    "0": 2
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1534093227181998080",
+      "channel_id": "1402537664619479103",
+      "content": "@everyone\nHello everyone, we will add these terms in the next update. You can se",
+      "author": "morimensstaff03",
+      "reactions": 6,
+      "channel": "links-and-resources"
+    }
+  ]
+}
