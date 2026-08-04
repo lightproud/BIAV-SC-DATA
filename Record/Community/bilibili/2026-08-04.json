@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-04T14:07:24.945058+00:00",
+  "archived_at": "2026-08-04T16:52:32.939747+00:00",
   "source": "bilibili",
-  "item_count": 26,
+  "item_count": 28,
   "items": [
     {
       "title": "[忘却前夜]上帝来了也得吃满一个大保底才能走",
@@ -391,6 +391,52 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/ce9984711aed31d716bf6bd59d35623d87536fd4.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】鸟哥水母毒轻取融灾3-5",
+      "summary": "-\n  └ 上好佳薯片丶 (1赞): 学习中( ゜- ゜)つロ\n  └ 嘎啦嘎啦果 (1赞): 可能不好抄，对全队灵塑要求比较高，就简单写写。\n鸟哥至少2启，水母超限，法洛思最好超限，第四人生存位随意。\n钥令选择有加血的。\n鸟哥固定入药，水母固定双子白，队里要有一个人带生机，最后一个位置随意。\n全队堆强效和银钥，其他都不堆。加配的话，全给生存。\n我这里应该让法洛思带生机，艾瑞卡带双子白更好，多吃一点戒备。\n一觉水母，二觉鸟哥，三觉艾瑞卡。\n需要刷开局，尽量做到前两回合都有鸟哥的2费进空间，鸟哥的0费适当留一些。\nboss给的1费粪牌，一张都别出，不管它。\n注意【散播剧毒】时开红触，打爆发，破除对面余烬之后，就能让对面停止攻击。\n打爆发前，需要手上扣一张法洛思1费，然后开红触，全队想尽办法多攻击。\n不要贪水母输出，能苟就苟，上个几万毒我们就能蹲坑等对面死掉了。",
+      "source": "bilibili",
+      "time": "2026-08-04T15:05:43+00:00",
+      "url": "https://www.bilibili.com/video/BV1wKuA6uE9q",
+      "engagement": 75,
+      "is_hot": false,
+      "author": "嘎啦嘎啦果",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 73,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/63550bc897baf722b7aa1e7083270009ba33ca58.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】记录喵 8.3融灾425",
+      "summary": "-\n  └ 问君何忧 (1赞): 来学习了[热词系列_知识增加]\n  └ 朝星- (1赞): [椎名菜羽_nano好]来学习了\n  └ 客舍_ (1赞): 佳神强强[打call]",
+      "source": "bilibili",
+      "time": "2026-08-04T14:09:43+00:00",
+      "url": "https://www.bilibili.com/video/BV11cuA6rEck",
+      "engagement": 61,
+      "is_hot": false,
+      "author": "上好佳薯片丶",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 50,
+        "comment_count": 11,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/bddb92f320582ff6da7f1680569e683f2319fd28.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

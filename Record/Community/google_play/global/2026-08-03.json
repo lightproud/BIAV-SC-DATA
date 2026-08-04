@@ -1,8 +1,8 @@
 {
   "date": "2026-08-03",
-  "archived_at": "2026-08-04T14:07:25.086287+00:00",
+  "archived_at": "2026-08-04T16:52:33.003141+00:00",
   "source": "google_play",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "[Google Play 差评] ★1 Game wont start",
@@ -86,6 +86,20 @@
       "tags": [],
       "lang": "ko",
       "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Coming from WUWA and NTE and i am loving",
+      "summary": "Coming from WUWA and NTE and i am loving this game so much. Great job team.",
+      "source": "google_play",
+      "time": "2026-08-03T15:20:48",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-5f1601f3-e87a-4df2-9175-105ed50396a0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Pankaj Gautam",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],

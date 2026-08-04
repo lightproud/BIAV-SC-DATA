@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-04T14:07:24.947923+00:00",
+  "archived_at": "2026-08-04T16:52:32.941206+00:00",
   "source": "youtube",
-  "item_count": 22,
+  "item_count": 23,
   "items": [
     {
       "title": "모리멘스 (망각전야) - 출시 일주일 만의 진짜 접대",
@@ -153,6 +153,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/3ZvdKoId_rw/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Madness Train and more",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-04T04:55:14Z",
+      "url": "https://www.youtube.com/watch?v=faVtoa2vgPU",
+      "engagement": 9,
+      "is_hot": false,
+      "author": "Nazoric",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/faVtoa2vgPU/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

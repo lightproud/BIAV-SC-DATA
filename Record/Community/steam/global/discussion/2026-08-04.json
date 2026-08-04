@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-04T14:07:24.949426+00:00",
+  "archived_at": "2026-08-04T16:52:32.942564+00:00",
   "source": "steam",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "[Steam论坛] Invitation Code",
@@ -98,6 +98,23 @@
       "engagement": 0,
       "is_hot": false,
       "author": "김우주",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] invitation code",
+      "summary": "2UZC246X2N\n\nOn the left is the friends list icon. The penultimate button with a gift is what you need",
+      "source": "steam_discussion",
+      "time": "2026-08-04T15:39:43+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/583930499273098031/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "serpula",
       "tags": [
         "steam_forum"
       ],

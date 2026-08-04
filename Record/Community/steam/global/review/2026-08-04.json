@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-04T14:07:25.008610+00:00",
+  "archived_at": "2026-08-04T16:52:33.007834+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[正面] 다른 건 모르겠고 스크립트랑 그래픽이 진짜. 너무. 아름다워요.",
@@ -94,6 +94,30 @@
         "playtime_forever": 3061,
         "votes_up": 0,
         "timestamp_created": 1785836292
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] One of the f2p friendly gacha, fairly relaxing wit...",
+      "summary": "One of the f2p friendly gacha, fairly relaxing with a good amount of challenging stages/boss fights, a good amount of content and resources! \r\n\r\nIf you plan to spend some money I would reccommend it as most packages offer a good amount of currency for a low price. The charater designs are interesting with some that are obviously appealed to gooners, but thankfully it is only few/ \r\n\r\nThe only con I have with his game is, while there are male characters it is very few. However, that seems to be changing in the future, Gtulu is going to release sometime this year and their last character was also male! \r\n\r\nSo far my experience is a 8.5/10. It'd be cool if they added a boss rush, fix up their UI a little bit more and just add more male characters and it would be a 10 for me.",
+      "source": "steam_review",
+      "time": "2026-08-04T13:55:24+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198158024989/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198158024989",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2515,
+        "votes_up": 0,
+        "timestamp_created": 1785851724
       },
       "region": "global",
       "archive_subtype": "review",
