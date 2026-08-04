@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-04T11:25:10.496999+00:00",
+  "archived_at": "2026-08-04T14:07:25.013798+00:00",
   "source": "pixiv",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "T",
@@ -53,6 +53,24 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.pximg.net/c/250x250_80_a2/custom-thumb/img/2026/08/04/08/23/18/147999434_p0_custom1200.jpg",
+      "content_type": "image"
+    },
+    {
+      "title": "무제",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-08-04T16:33:41+09:00",
+      "url": "https://www.pixiv.net/artworks/148008878",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "피치",
+      "tags": [
+        "忘卻前夜",
+        "morimens"
+      ],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/08/04/16/33/41/148008878_p0_square1200.jpg",
       "content_type": "image"
     }
   ]

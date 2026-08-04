@@ -1,8 +1,8 @@
 {
   "date": "2026-08-03",
-  "archived_at": "2026-08-04T11:25:10.568880+00:00",
+  "archived_at": "2026-08-04T14:07:25.086287+00:00",
   "source": "google_play",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
     {
       "title": "[Google Play 差评] ★1 Game wont start",
@@ -58,6 +58,34 @@
       "tags": [],
       "lang": "es",
       "platform_region": "es",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 I farmed 50. FIFTY. 5.0. ETHERAL CORE, A",
+      "summary": "I farmed 50. FIFTY. 5.0. ETHERAL CORE, AND IT'S NOWHERE TO BE FOUND? LIKE IT'S SAYS 0. Z.E.R.O. WHERE THE HELL DID THEY GO?? I SWEAR I'M A RETURNEE AND I CAN'T PULL NOW. THANKS A LOT FOR WASTING TIME.",
+      "source": "google_play",
+      "time": "2026-08-03T12:16:16",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-6a41979c-df80-44f7-b258-de7f01e9378c",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Hiro",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 ai 발전을 볼 수 있음 초기 이벤트 현지화 안된건 거슬리는데 최근은 초",
+      "summary": "ai 발전을 볼 수 있음 초기 이벤트 현지화 안된건 거슬리는데 최근은 초기 이벤이랑 비교하면 겁나 자연스러움 가능하면 초기 이벤트들도 현지화 안된건 주기적으로 번역기 다시 돌려줬으면 좋겠음 게임은 재밌음 할만한 씹덕겜 찍먹하다 재밌어서 잡고있는데 게임 자체도 특색이 있고 이런 분위기 좋아하면 할만함 씹덕겜 치고는 어둡고 코스믹 호러 치고는 밝은데 씹덕겜이 어두워봐야 설정만 어둡고 실제 겜 분위기는 죄다 겁나 밝은데 그래도 어두운 편이라 취향 맞으면 이만한 겜도 없을듯 BM은 호불호가 강하게 갈릴듯 15돌까지 있는데 실제로는 3돌까지 다른 중국겜처럼 메커니즘 강화가 있고 7,15돌에서 조금 있는 편인데 3돌 이후는 핵과금 랭킹전 하려는 사람 전용같고, 다른 게임이랑 비슷하게 딜러 고돌포 서폿 명함으로 돌리라는것 같음 이벤트는 친구꺼 빌리기가 가능해서 빌려가면 됨 그리고 사야 콜라보 스토리가 안해본 사람이 보면 알아먹을 수가 없는데 순애물입니다",
+      "source": "google_play",
+      "time": "2026-08-03T13:41:27",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-8dcec12b-b7eb-4585-8454-e8c69d0d3548",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "멘괴탈붕",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
       "region": "global"
     }
   ],
