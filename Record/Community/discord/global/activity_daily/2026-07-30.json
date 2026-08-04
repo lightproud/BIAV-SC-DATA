@@ -1,10 +1,11 @@
 {
   "date": "2026-07-30",
-  "messages": 8021,
+  "messages": 12502,
   "unique_authors": 319,
-  "reactions_total": 1135,
-  "attachments": 443,
+  "reactions_total": 1310,
+  "attachments": 594,
   "channel_activity": {
+    "🔸general-chat": 4481,
     "🔸綜合討論": 854,
     "🔸剧情交流": 50,
     "🔸课间休息闲聊": 28,
@@ -92,11 +93,20 @@
     "求隊伍跟目前強度排行😭": 2
   },
   "hourly_activity": {
-    "9": 590,
-    "10": 375,
-    "11": 341,
-    "12": 479,
-    "13": 661,
+    "0": 463,
+    "1": 64,
+    "2": 692,
+    "3": 763,
+    "4": 637,
+    "5": 535,
+    "6": 428,
+    "7": 654,
+    "8": 918,
+    "9": 1134,
+    "10": 990,
+    "11": 660,
+    "12": 778,
+    "13": 1133,
     "14": 526,
     "15": 504,
     "16": 210,
@@ -106,22 +116,13 @@
     "23": 187,
     "19": 414,
     "20": 176,
-    "22": 139,
-    "0": 388,
-    "1": 50,
-    "2": 136,
-    "3": 134,
-    "4": 262,
-    "5": 456,
-    "6": 396,
-    "7": 509,
-    "8": 591
+    "22": 139
   },
   "message_types": {
-    "0": 5812,
-    "19": 2172,
+    "0": 8331,
+    "19": 4128,
+    "20": 28,
     "23": 1,
-    "20": 22,
     "4": 14
   },
   "top_reacted_messages": [
@@ -172,6 +173,22 @@
       "author": "zarles0",
       "reactions": 7,
       "channel": "🔸canal-español"
+    },
+    {
+      "id": "1532208263779586198",
+      "channel_id": "1400750050208125010",
+      "content": "When jiang kai shek split china with mainland, taiwan was effectively under doff",
+      "author": "dixi024",
+      "reactions": 6,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1532326702334607360",
+      "channel_id": "1400750050208125010",
+      "content": "60 PULLS YEAHHH",
+      "author": "forsmile0",
+      "reactions": 6,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1532320596015186081",
@@ -238,6 +255,14 @@
       "channel": "🔸game-question"
     },
     {
+      "id": "1532324646337122446",
+      "channel_id": "1400750050208125010",
+      "content": "I'M BACCKKK",
+      "author": "forsmile0",
+      "reactions": 5,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1532381517798576329",
       "channel_id": "1131839817982947429",
       "content": "[Jump to original message](https://discord.com/channels/@me/1131839817982947429/",
@@ -260,30 +285,6 @@
       "author": "oiia_0216",
       "reactions": 5,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1532415751556694077",
-      "channel_id": "1300659552701648960",
-      "content": "Mais dans tous les cas elle est fun a jouer",
-      "author": "thaneist",
-      "reactions": 5,
-      "channel": "🔸chaîne-française"
-    },
-    {
-      "id": "1532442784399757352",
-      "channel_id": "1300659603993923644",
-      "content": "Preview tác phẩm của mình <3",
-      "author": "anicillia",
-      "reactions": 5,
-      "channel": "🔸phòng-chat-tiếng-việt"
-    },
-    {
-      "id": "1532492603419918417",
-      "channel_id": "1532492603419918417",
-      "content": "It would be nice if there were more ways to filter for Record\n\nSome ideas:\n- Exc",
-      "author": "mythicmoonwort",
-      "reactions": 5,
-      "channel": "Additional Record Filters"
     }
   ]
 }

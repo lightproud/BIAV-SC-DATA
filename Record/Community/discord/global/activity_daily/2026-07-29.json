@@ -1,11 +1,11 @@
 {
   "date": "2026-07-29",
-  "messages": 15278,
+  "messages": 15797,
   "unique_authors": 334,
-  "reactions_total": 1155,
-  "attachments": 718,
+  "reactions_total": 1194,
+  "attachments": 746,
   "channel_activity": {
-    "🔸general-chat": 5677,
+    "🔸general-chat": 6196,
     "🔸綜合討論": 674,
     "🔸阵容构建": 21,
     "🔸剧情交流": 53,
@@ -84,6 +84,8 @@
     "求融災組隊，目標350+": 8
   },
   "hourly_activity": {
+    "22": 1044,
+    "23": 782,
     "8": 578,
     "9": 717,
     "10": 786,
@@ -98,7 +100,6 @@
     "19": 492,
     "20": 530,
     "21": 870,
-    "22": 818,
     "0": 268,
     "1": 349,
     "2": 271,
@@ -106,13 +107,12 @@
     "4": 501,
     "5": 367,
     "6": 787,
-    "7": 517,
-    "23": 489
+    "7": 517
   },
   "message_types": {
-    "19": 4797,
-    "0": 10425,
-    "20": 50,
+    "0": 10808,
+    "19": 4932,
+    "20": 51,
     "18": 1,
     "6": 1,
     "4": 3,
@@ -256,6 +256,14 @@
       "channel": "William 🗝️"
     },
     {
+      "id": "1532165092022419516",
+      "channel_id": "1400750050208125010",
+      "content": "🫃🏽 ⏸️",
+      "author": "bocchi_the_raf",
+      "reactions": 5,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1531995381955563725",
       "channel_id": "1400750050208125010",
       "content": "https://klipy.com/gifs/ayuwoki-2",
@@ -268,14 +276,6 @@
       "channel_id": "1400750050208125010",
       "content": "Im adopting you, get ready",
       "author": "eury_illia",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1532007273952710789",
-      "channel_id": "1400750050208125010",
-      "content": "Everyone is so mean 2 me 🥀 💔",
-      "author": "bocchi_the_raf",
       "reactions": 5,
       "channel": "🔸general-chat"
     }

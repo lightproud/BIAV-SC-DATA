@@ -1,31 +1,55 @@
 {
   "date": "2026-08-03",
-  "messages": 3275,
-  "unique_authors": 229,
-  "reactions_total": 425,
-  "attachments": 195,
+  "messages": 7848,
+  "unique_authors": 311,
+  "reactions_total": 831,
+  "attachments": 436,
   "channel_activity": {
-    "🔸綜合討論": 594,
-    "🔸欢乐梗图": 11,
-    "🔸相位对弈": 14,
-    "🔸课间休息闲聊": 20,
-    "🔸한국어-채팅방": 3,
-    "🔸русский-канал": 99,
-    "🔸phòng-chat-tiếng-việt": 477,
-    "🔸canal-español": 218,
-    "🔸canal-português": 68,
-    "🔸ruang-obrolan-indonesia": 132,
-    "🔸ห้องสนทนาภาษาไทย": 29,
-    "🔸lore-chat": 596,
-    "🔸lets-count": 3,
-    "🔸team-building": 272,
-    "🔸邀请码互助┊swap-invitation-codes": 3,
-    "🔸game-question": 602,
-    "🔸机器人命令┊bot-commands": 15,
+    "🔸綜合討論": 1119,
+    "🔸剧情交流": 1,
+    "🔸欢乐梗图": 14,
+    "🔸相位对弈": 17,
+    "🔸课间休息闲聊": 27,
+    "🔸한국어-채팅방": 26,
+    "🔸chaîne-française": 1,
+    "🔸русский-канал": 211,
+    "🔸phòng-chat-tiếng-việt": 793,
+    "🔸canal-español": 348,
+    "🔸canal-português": 132,
+    "🔸ruang-obrolan-indonesia": 324,
+    "🔸ห้องสนทนาภาษาไทย": 135,
+    "🔸traphase": 21,
+    "🔸lore-chat": 1517,
+    "🔸lets-count": 6,
+    "🔸team-building": 416,
+    "🔸邀请码互助┊swap-invitation-codes": 9,
+    "🔸game-question": 2476,
+    "🔸忘却前夜┊morimens-tv": 2,
+    "🔸机器人命令┊bot-commands": 42,
+    "很亮的圖魯": 30,
+    "我重生了，重生到忘卻前夜宣布關服的那天【多人接力抽象文】": 10,
+    "Slay the Spire Morimens Modding Log 殺戮尖塔模組": 5,
+    "0%": 3,
+    "Reliquias bugeadas en las zonas de recuperación de arco 2": 2,
+    "V2.5.1.0 停服维护公告": 19,
+    "Keeper oc stuff": 4,
+    "Astral Cetus Earbud Case": 1,
+    "let's larp... just this once.": 3,
+    "corposant x oc": 6,
+    "Tulu fanart": 2,
+    "Leigh selfship drawing lol": 3,
+    "morimens team generator!!": 1,
+    "【English Translation】Opinions Collection": 2,
+    "V2.5.3 全新唤醒体✦蚀灭·萝坦┊New Awakener✦Lotan: Cetarchon┊신규 각성체✦침식·로탄": 6,
+    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 3,
+    "想請問如何組隊...": 1,
+    "In need of advice for teams, appreciate any help in advance!": 48,
+    "New player needing advice on pulling and team building": 6,
+    "1533787856399630508": 1,
+    "1533935955298226300": 1,
     "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 4,
     "由三常駐作為核心組成的融災逃課隊伍": 6,
     "【OC】：貝托露娜": 1,
-    "Slay the Spire Morimens Modding Log 殺戮尖塔模組": 4,
     "針對稱號以及比賽獎勵的發放": 2,
     "Additional Record Filters": 1,
     "Deadly duels without whalefall": 1,
@@ -33,25 +57,32 @@
     "Can we get new icons for Benthos/Singularity/Propagation/Primordia Realms?": 5,
     "✅「已回答」建議列車的隨機初始受祝造物和專屬造物改為自選": 1,
     "Skin Preview": 1,
-    "V2.5.1.0 停服维护公告": 9,
     "Murphy: Fauxborn 💟": 1,
-    "corposant x oc": 1,
     "Fragment": 2,
     "Leighhh T^T": 2,
     "Stat Collection Spreadsheet": 1,
     "F2P Monthly Income": 1,
-    "【English Translation】Opinions Collection": 1,
     "V2.5.3 蚀灭·萝坦✦唤醒体&命轮介绍┊Lotan: Cetarchon✦Awakener & Wheel of Destiny Introduction┊침식·로탄✦각성체 & 명륜 소개": 4,
     "📜 V2.5.3 版本前瞻┊Version Outlook┊버전 미리보기": 3,
-    "V2.5.3 全新唤醒体✦蚀灭·萝坦┊New Awakener✦Lotan: Cetarchon┊신규 각성체✦침식·로탄": 5,
     "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 1,
-    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 2,
     "1yr old acc barely played,is it worth going forward with what i have?": 7,
-    "Been playing this game for 3 days and grinding the hell out of it, I need general help": 2,
-    "In need of advice for teams, appreciate any help in advance!": 41,
-    "New player needing advice on pulling and team building": 2
+    "Been playing this game for 3 days and grinding the hell out of it, I need general help": 2
   },
   "hourly_activity": {
+    "10": 223,
+    "11": 256,
+    "12": 262,
+    "13": 545,
+    "14": 483,
+    "15": 374,
+    "16": 314,
+    "17": 284,
+    "18": 170,
+    "21": 158,
+    "22": 227,
+    "23": 291,
+    "19": 484,
+    "20": 662,
     "0": 230,
     "1": 209,
     "2": 266,
@@ -61,17 +92,26 @@
     "6": 251,
     "7": 247,
     "8": 255,
-    "9": 286,
-    "10": 160
+    "9": 286
   },
   "message_types": {
-    "0": 2497,
-    "19": 761,
-    "20": 13,
+    "0": 5604,
+    "19": 2204,
+    "23": 1,
+    "20": 33,
+    "21": 2,
     "4": 1,
     "6": 3
   },
   "top_reacted_messages": [
+    {
+      "id": "1533785049776918678",
+      "channel_id": "1326453763355185215",
+      "content": "",
+      "author": "_venush",
+      "reactions": 17,
+      "channel": "🔸lore-chat"
+    },
     {
       "id": "1533699143330173078",
       "channel_id": "1131839817982947429",
@@ -87,6 +127,14 @@
       "author": "anicillia",
       "reactions": 12,
       "channel": "V2.5.3 全新唤醒体✦蚀灭·萝坦┊New Awakener✦Lotan: Cetarchon┊신규 각성체✦침식·로탄"
+    },
+    {
+      "id": "1533819525554901234",
+      "channel_id": "1533819525554901234",
+      "content": "想發點東西 但最近好像都沒畫什麼圖 太習慣高亮高飽導致現在不會畫深色了啦👉👈",
+      "author": "87sad.bee487",
+      "reactions": 10,
+      "channel": "很亮的圖魯"
     },
     {
       "id": "1533780655366738030",
@@ -121,6 +169,30 @@
       "channel": "V2.5.3 蚀灭·萝坦✦唤醒体&命轮介绍┊Lotan: Cetarchon✦Awakener & Wheel of Destiny Introduction┊침식·로탄✦각성체 & 명륜 소개"
     },
     {
+      "id": "1533788538209046558",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "huangyu0876",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533820144151691475",
+      "channel_id": "1131839817982947429",
+      "content": "只是校貓貪財",
+      "author": "abhartach_0",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1533846183515127849",
+      "channel_id": "1173463482503536711",
+      "content": "⚡ ⚡ I'm the storm that approaching⚡ ⚡",
+      "author": "ena04564",
+      "reactions": 7,
+      "channel": "🔸剧情交流"
+    },
+    {
       "id": "1533703526385979482",
       "channel_id": "1131839817982947429",
       "content": "",
@@ -145,6 +217,30 @@
       "channel": "V2.5.3 蚀灭·萝坦✦唤醒体&命轮介绍┊Lotan: Cetarchon✦Awakener & Wheel of Destiny Introduction┊침식·로탄✦각성체 & 명륜 소개"
     },
     {
+      "id": "1533793631469703200",
+      "channel_id": "1180437373012672522",
+      "content": "點名某貓",
+      "author": "kevin.yienwenst",
+      "reactions": 6,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1533840759311171726",
+      "channel_id": "1300659580446969918",
+      "content": "лотан победила очередного КИТА",
+      "author": "soulfly132",
+      "reactions": 6,
+      "channel": "🔸русский-канал"
+    },
+    {
+      "id": "1533845836826542261",
+      "channel_id": "1533845836826542261",
+      "content": "for <@193043069275209728> !! ellienyan wants corpo, ellienyan wants larp image. ",
+      "author": "glitzy_x",
+      "reactions": 6,
+      "channel": "let's larp... just this once."
+    },
+    {
       "id": "1533671535259160586",
       "channel_id": "1131839817982947429",
       "content": "先拿个低保",
@@ -166,70 +262,6 @@
       "content": "有沒有大佬可以帶帶我",
       "author": "water_heart",
       "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1533708388813246535",
-      "channel_id": "1326453763355185215",
-      "content": "Larping mythos is fine\nThey are confusing enough already with the amount of peep",
-      "author": "nightmarekingrimmu",
-      "reactions": 6,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1533751678707175506",
-      "channel_id": "1131839817982947429",
-      "content": "有大佬可以打打我嗎",
-      "author": "arachnids_nacha",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1533777901076611072",
-      "channel_id": "1529828936878522560",
-      "content": "Phiên bản tiếng Việt của poster\n——Do tình nguyện viên <@328059424667205633> thực",
-      "author": "morimensstaff06",
-      "reactions": 5,
-      "channel": "📜 V2.5.3 版本前瞻┊Version Outlook┊버전 미리보기"
-    },
-    {
-      "id": "1533632233502408857",
-      "channel_id": "1131839817982947429",
-      "content": "我之前考试周闲着学了一段时间就能去跟樱花妹对线了",
-      "author": "ponponnyaru",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1533652330698772652",
-      "channel_id": "1131839817982947429",
-      "content": "有沒有大佬可以幫我打融災",
-      "author": "water_heart",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1533655780710940723",
-      "channel_id": "1131839817982947429",
-      "content": "来逃课啦",
-      "author": "galagalaguo",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1533689784126406909",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "catlan_33586",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1533698395632439386",
-      "channel_id": "1131839817982947429",
-      "content": "生日開池\n一定不會歪的對吧",
-      "author": "helven___",
-      "reactions": 4,
       "channel": "🔸綜合討論"
     }
   ]
