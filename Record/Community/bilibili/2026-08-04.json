@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-04T22:12:30.023601+00:00",
+  "archived_at": "2026-08-05T02:14:45.175180+00:00",
   "source": "bilibili",
-  "item_count": 29,
+  "item_count": 31,
   "items": [
     {
       "title": "[忘却前夜]上帝来了也得吃满一个大保底才能走",
@@ -115,6 +115,52 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/7311baeee20e18d30bd3c506a32f47bb3f5b0d7f.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "可能算是低配的罗坦3-5自爆",
+      "summary": "感觉其实也不低配（汗）\n  └ 芒亡了 (0赞): 配置\n  └ 芒亡了 (0赞): 因为我的莱克+12打辅助太亏了，于是把罗坦发配到3—5自爆了\n刚需小骑士+12和专武，冰川下的沉眠，送的夫人命轮\n罗坦最好二启起步，小老鼠只看大招等级（视频1级，莉莉sr专造cos满级大），医生1启就够，不然少15％独立乘区，理论上不需要带任何死扛命轮，能凹出两次死扛就行",
+      "source": "bilibili",
+      "time": "2026-08-04T14:20:55+00:00",
+      "url": "https://www.bilibili.com/video/BV1uQuw6UEap",
+      "engagement": 132,
+      "is_hot": false,
+      "author": "芒亡了",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 130,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/a40e637806ee519793ab6f0d33c1fdfa66ed7635.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "小杯练度20级蚀萝神混沌茉夏砍翻n5-5",
+      "summary": "-\n  └ 站好这条街 (0赞): 吓哭我是有什么好处嘛，我就问，我就问！！！",
+      "source": "bilibili",
+      "time": "2026-08-04T13:36:57+00:00",
+      "url": "https://www.bilibili.com/video/BV1BEuA6FEaD",
+      "engagement": 126,
+      "is_hot": false,
+      "author": "聖光年",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 125,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/effc9c0e6ac44194c171725b2d1388457a030cec.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

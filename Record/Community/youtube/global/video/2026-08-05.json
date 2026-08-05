@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "archived_at": "2026-08-04T22:12:30.027025+00:00",
+  "archived_at": "2026-08-05T02:14:45.178376+00:00",
   "source": "youtube",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능) 융재설명회",
@@ -51,6 +51,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/PAFetI49j24/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens D-Effect Zone 345 points",
+      "summary": "00:00:00 Wave 1 00:07:35 Wave 2 00:20:05 Wave 3 00:25:41 Wave 4 00:50:00 Wave 5 1:06:35 Wave 5 but I win against Pandia .",
+      "source": "youtube",
+      "time": "2026-08-05T01:42:47Z",
+      "url": "https://www.youtube.com/watch?v=_0tawWTKGM4",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Ace Singularity",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/_0tawWTKGM4/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

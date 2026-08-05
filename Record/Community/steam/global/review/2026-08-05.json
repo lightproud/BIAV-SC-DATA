@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "archived_at": "2026-08-04T22:12:30.091718+00:00",
+  "archived_at": "2026-08-05T02:14:45.255554+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] Okay, this game is awesome. Its a gacha, so don't...",
@@ -46,6 +46,30 @@
         "playtime_forever": 154,
         "votes_up": 0,
         "timestamp_created": 1785866098
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] fantastic game",
+      "summary": "fantastic game",
+      "source": "steam_review",
+      "time": "2026-08-04T21:35:39+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198749713903/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198749713903",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 370,
+        "votes_up": 0,
+        "timestamp_created": 1785879339
       },
       "region": "global",
       "archive_subtype": "review",
