@@ -1,55 +1,90 @@
 {
   "date": "2026-08-04",
-  "messages": 2473,
-  "unique_authors": 214,
-  "reactions_total": 254,
-  "attachments": 134,
+  "messages": 7722,
+  "unique_authors": 303,
+  "reactions_total": 693,
+  "attachments": 385,
   "channel_activity": {
-    "🔸綜合討論": 197,
-    "🔸剧情交流": 29,
-    "🔸한국어-채팅방": 16,
-    "🔸chaîne-française": 1,
-    "🔸русский-канал": 174,
-    "🔸phòng-chat-tiếng-việt": 239,
-    "🔸canal-español": 56,
-    "🔸canal-português": 5,
-    "🔸ruang-obrolan-indonesia": 30,
-    "🔸ห้องสนทนาภาษาไทย": 35,
-    "🔸traphase": 2,
-    "🔸lore-chat": 60,
-    "🔸lets-count": 5,
-    "🔸team-building": 198,
-    "🔸邀请码互助┊swap-invitation-codes": 8,
-    "🔸game-question": 1350,
-    "🔸机器人命令┊bot-commands": 16,
-    "很亮的圖魯": 2,
+    "🔸綜合討論": 644,
+    "🔸阵容构建": 2,
+    "🔸剧情交流": 30,
+    "🔸相位对弈": 7,
+    "🔸课间休息闲聊": 6,
+    "🔸한국어-채팅방": 38,
+    "🔸chaîne-française": 35,
+    "🔸русский-канал": 691,
+    "🔸phòng-chat-tiếng-việt": 862,
+    "🔸canal-español": 123,
+    "🔸canal-português": 135,
+    "🔸ruang-obrolan-indonesia": 143,
+    "🔸ห้องสนทนาภาษาไทย": 81,
+    "🔸traphase": 22,
+    "🔸lore-chat": 1605,
+    "🔸lets-count": 19,
+    "🔸team-building": 579,
+    "🔸邀请码互助┊swap-invitation-codes": 23,
+    "🔸game-question": 2486,
+    "🔸机器人命令┊bot-commands": 40,
+    "一顆無垢之芯的銀芯含量，等於一顆無垢之芯的銀芯含量喔！": 1,
+    "日服的新角色竟然是莉莉妈？": 3,
+    "很亮的圖魯": 5,
+    "打算開一個圖樓可能圖之後就丟這裡了": 5,
+    "菜雞四小強玩家的抱怨之旅new": 1,
+    "Xu's Overexalt Enthrall Furnace effect doesn't benefit from ANY sources of +% HP Recovery": 3,
+    "关于侵蚀的表现形式": 4,
+    "還我1000銀": 1,
+    "Lotan: Cetarchon 4 costs created using Saya's Exalt with \"Gynoecium\" stacks are 1 cost not 0": 1,
+    "相位對弈：針對杜勒命輪在pvp中的錯誤展現": 3,
+    "關於sp蘿坦的長刀減算跟「額外生效」聯動bug": 1,
+    "Additional Record Filters": 2,
+    "Amber-Tinted Death does not benefit from PChaos stat enhancement": 2,
+    "Deadly duels without whalefall": 1,
+    "Long blade: perish from Tawil's exalt doesn't decrease in arithmetica cost after playing strike": 1,
+    "關於蝕滅蘿坦的一些用後建議": 2,
+    "關於數值顯示": 4,
+    "💭「Processing」Optimization on iOs": 2,
+    "✅「已回答」受祝 • 行道之骸無法消除腐朽狀態": 4,
+    "Potential improvements for Hameln": 2,
+    "Skin Preview": 4,
+    "Please rework how Propagation Caro works for the future units": 6,
+    "V2.5.1.0 停服维护公告": 12,
+    "Murphy: Fauxborn 💟": 3,
+    "Leigh selfship drawing lol": 25,
+    "moridoodles": 2,
+    "Sangaaaaaaaaaaaaaaa <333333": 1,
+    "【English Translation】Opinions Collection": 4,
+    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 2,
+    "想問組隊和養成建議、還有有些自選不知道怎麼選": 22,
+    "想問組隊、抽取建議": 2,
+    "想請問如何組隊...": 1,
+    "New player needing advice on pulling and team building": 5,
     "这个那个": 1,
     "堆图ing": 1,
-    "打算開一個圖樓可能圖之後就丟這裡了": 1,
     "C萝2费上回声后无法合成": 1,
-    "相位對弈：針對杜勒命輪在pvp中的錯誤展現": 1,
-    "Additional Record Filters": 1,
-    "關於數值顯示": 2,
     "✅「已回答」关于蚀罗超维空间": 1,
     "Can we get new icons for Benthos/Singularity/Propagation/Primordia Realms?": 2,
-    "💭「Processing」Optimization on iOs": 1,
-    "✅「已回答」受祝 • 行道之骸無法消除腐朽狀態": 3,
     "✅「已回答」建議列車的隨機初始受祝造物和專屬造物改為自選": 2,
-    "Skin Preview": 3,
-    "Please rework how Propagation Caro works for the future units": 2,
     "💭「處理中」再衍化未受到造成的狂氣提高效果加成的問題": 1,
-    "V2.5.1.0 停服维护公告": 7,
     "Family Photo 📸": 2,
     "Primordial Seaside": 2,
-    "Murphy: Fauxborn 💟": 1,
-    "Leigh selfship drawing lol": 4,
-    "【English Translation】Opinions Collection": 1,
-    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1,
-    "想問組隊和養成建議、還有有些自選不知道怎麼選": 6,
-    "想問組隊、抽取建議": 1,
-    "New player needing advice on pulling and team building": 2
+    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1
   },
   "hourly_activity": {
+    "9": 464,
+    "10": 328,
+    "11": 501,
+    "12": 449,
+    "13": 419,
+    "14": 660,
+    "15": 450,
+    "16": 308,
+    "17": 190,
+    "18": 311,
+    "19": 515,
+    "22": 188,
+    "23": 85,
+    "20": 238,
+    "21": 449,
     "0": 194,
     "1": 226,
     "2": 156,
@@ -58,13 +93,13 @@
     "5": 386,
     "6": 247,
     "7": 317,
-    "8": 338,
-    "9": 306
+    "8": 338
   },
   "message_types": {
-    "0": 1767,
-    "19": 694,
-    "20": 12
+    "0": 5451,
+    "19": 2238,
+    "23": 1,
+    "20": 32
   },
   "top_reacted_messages": [
     {
@@ -76,6 +111,14 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1534260919784444026",
+      "channel_id": "1534260919784444026",
+      "content": "(會放在NiCE攤位上的無料)",
+      "author": "nanananananauw",
+      "reactions": 10,
+      "channel": "一顆無垢之芯的銀芯含量，等於一顆無垢之芯的銀芯含量喔！"
+    },
+    {
       "id": "1534019241206878279",
       "channel_id": "1534019241206878279",
       "content": "https://x.com/raum_en/status/2084460037120950722?s=20",
@@ -84,12 +127,76 @@
       "channel": "Primordial Seaside"
     },
     {
+      "id": "1534137789728161843",
+      "channel_id": "1131839817982947429",
+      "content": "大佬都425🛐",
+      "author": "sweet_25367",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534151046568607816",
+      "channel_id": "1131839817982947429",
+      "content": "大佬",
+      "author": "nemu_s_t_a_r",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534187614293332119",
+      "channel_id": "1131839817982947429",
+      "content": "那我們要84天一隻角色了",
+      "author": "nemu_s_t_a_r",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534285022096261250",
+      "channel_id": "1433513650299076780",
+      "content": "alright guess the game wants me to invest in her",
+      "author": "animaizing",
+      "reactions": 8,
+      "channel": "🔸game-question"
+    },
+    {
       "id": "1533989294522372258",
       "channel_id": "1131839817982947429",
       "content": "難赤",
       "author": "xianrenwurao",
       "reactions": 8,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534137328992518354",
+      "channel_id": "1131839817982947429",
+      "content": "试奇怪东西重置掉了只能这样截<:Ramona_wisdom:1468258669341966452>   \n地上什么时候要长出来野生的+12饕餮寓言<:Lily",
+      "author": "sweet_25367",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534137661256896617",
+      "channel_id": "1131839817982947429",
+      "content": "大佬都425🛐",
+      "author": "0.0._.0_0.",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534149329248587776",
+      "channel_id": "1534149329248587776",
+      "content": "我又来领鸡蛋了，p3可以用于行骗",
+      "author": "kpkp784755247",
+      "reactions": 7,
+      "channel": "日服的新角色竟然是莉莉妈？"
+    },
+    {
+      "id": "1534224885767999720",
+      "channel_id": "1504798331593818263",
+      "content": "Caraboo with Chud Caro is coming soon!",
+      "author": "_venush",
+      "reactions": 7,
+      "channel": "Please rework how Propagation Caro works for the future units"
     },
     {
       "id": "1534061298147397663",
@@ -124,6 +231,22 @@
       "channel": "堆图ing"
     },
     {
+      "id": "1534252534342881410",
+      "channel_id": "1300659662311526512",
+      "content": "",
+      "author": "zarles0",
+      "reactions": 5,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1534243753815052403",
+      "channel_id": "1504798331593818263",
+      "content": "Chud Caro: everyone now has infinite devour. For every embryo consumed by an awa",
+      "author": "eresh69",
+      "reactions": 5,
+      "channel": "Please rework how Propagation Caro works for the future units"
+    },
+    {
       "id": "1534008638862004285",
       "channel_id": "1131839817982947429",
       "content": "一想到接下来会发生什么我就想笑",
@@ -137,94 +260,6 @@
       "content": "~~血量跟路邊的小怪一樣常見~~",
       "author": "water_heart",
       "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534094128848048139",
-      "channel_id": "1131839817982947429",
-      "content": "有大佬可以幫幫我打融災嗎",
-      "author": "ling_an_",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534050351370469569",
-      "channel_id": "1300659802455674972",
-      "content": "",
-      "author": "2ndselna",
-      "reactions": 5,
-      "channel": "🔸ห้องสนทนาภาษาไทย"
-    },
-    {
-      "id": "1534056129620086824",
-      "channel_id": "1326453763355185215",
-      "content": "also I have this awakener/dissolute concept I draw <:Coalsie_shock:1516192103846",
-      "author": "arsenyx_9999",
-      "reactions": 4,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1534085358390612061",
-      "channel_id": "1433513650299076780",
-      "content": "AA Aurita?",
-      "author": "mokkion",
-      "reactions": 4,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1534068728583553094",
-      "channel_id": "1534068728583553094",
-      "content": "https://x.com/SaminDraws/status/2084506533765714222?s=20",
-      "author": "samin_",
-      "reactions": 4,
-      "channel": "Family Photo 📸"
-    },
-    {
-      "id": "1534022819233665034",
-      "channel_id": "1400749543288475770",
-      "content": "Mouchette....Soon™",
-      "author": "genesis1742",
-      "reactions": 3,
-      "channel": "🔸team-building"
-    },
-    {
-      "id": "1534022411379282054",
-      "channel_id": "1433513650299076780",
-      "content": "I've just started Poison a dtide ago and I can say that they're one of the beefi",
-      "author": "ringgo0901",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1534022752032264272",
-      "channel_id": "1433513650299076780",
-      "content": "I will be blunt with you. Most Perma Characters that used are the Support ones. ",
-      "author": "katesthio",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1534108590594326679",
-      "channel_id": "1433513650299076780",
-      "content": "i have to play on SEA servers for shit anyway",
-      "author": "lithanor",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1534116693440462998",
-      "channel_id": "1433513650299076780",
-      "content": "Better off raising Standard Awakener /s to AA",
-      "author": "snorlax01",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1534069379745189899",
-      "channel_id": "1131839817982947429",
-      "content": "能",
-      "author": "ice_storys",
-      "reactions": 2,
       "channel": "🔸綜合討論"
     }
   ]

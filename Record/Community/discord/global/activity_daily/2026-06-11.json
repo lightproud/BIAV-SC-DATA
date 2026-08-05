@@ -1,11 +1,11 @@
 {
   "date": "2026-06-11",
-  "messages": 26162,
+  "messages": 30358,
   "unique_authors": 517,
-  "reactions_total": 2632,
-  "attachments": 1682,
+  "reactions_total": 3031,
+  "attachments": 1924,
   "channel_activity": {
-    "🔸morimens-game-chat": 4259,
+    "🔸morimens-game-chat": 8455,
     "🔸game-question": 5984,
     "🔸general-chat": 2213,
     "🔸綜合討論": 3070,
@@ -93,6 +93,18 @@
     "1514674769931272222": 1
   },
   "hourly_activity": {
+    "12": 1652,
+    "13": 1437,
+    "14": 1444,
+    "15": 1794,
+    "16": 1879,
+    "17": 1433,
+    "18": 963,
+    "19": 1017,
+    "20": 953,
+    "21": 701,
+    "22": 698,
+    "23": 816,
     "0": 871,
     "1": 1545,
     "2": 1606,
@@ -104,24 +116,12 @@
     "8": 919,
     "9": 1002,
     "10": 1351,
-    "11": 1536,
-    "12": 1438,
-    "15": 1255,
-    "16": 1659,
-    "17": 1227,
-    "18": 705,
-    "19": 688,
-    "20": 555,
-    "21": 288,
-    "22": 172,
-    "23": 237,
-    "13": 1175,
-    "14": 1192
+    "11": 1536
   },
   "message_types": {
-    "19": 2159,
-    "0": 4199,
-    "20": 29,
+    "0": 6882,
+    "19": 3664,
+    "20": 37,
     "23": 1
   },
   "top_reacted_messages": [
@@ -174,6 +174,14 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1514769469145219176",
+      "channel_id": "1170692781216378960",
+      "content": "oh no i wonder how many hours of streams it'll be at by if/when i finish arc 2 c",
+      "author": "reya.li",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1514631844782674001",
       "channel_id": "1433513650299076780",
       "content": "WHO THE FUCKED WHALED ME",
@@ -204,6 +212,14 @@
       "author": "noeyebunny.nobunsu",
       "reactions": 8,
       "channel": "N"
+    },
+    {
+      "id": "1514609639902285985",
+      "channel_id": "1170692781216378960",
+      "content": "Start diving into your beautiful (heart)  twin",
+      "author": "literallykiyan",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1514433604426403983",
@@ -268,22 +284,6 @@
       "author": "laplace.in.my.head",
       "reactions": 7,
       "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1514631683570401484",
-      "channel_id": "1433513650299076780",
-      "content": "the house",
-      "author": "laplace.in.my.head",
-      "reactions": 7,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1514499636231016621",
-      "channel_id": "1131839817982947429",
-      "content": "结果早泄",
-      "author": "xyakoto",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
     }
   ]
 }

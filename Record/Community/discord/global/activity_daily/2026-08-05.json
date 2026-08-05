@@ -1,0 +1,225 @@
+{
+  "date": "2026-08-05",
+  "messages": 2454,
+  "unique_authors": 218,
+  "reactions_total": 287,
+  "attachments": 183,
+  "channel_activity": {
+    "🔸綜合討論": 440,
+    "🔸阵容构建": 9,
+    "🔸课间休息闲聊": 45,
+    "🔸한국어-채팅방": 5,
+    "🔸русский-канал": 13,
+    "🔸phòng-chat-tiếng-việt": 146,
+    "🔸canal-español": 138,
+    "🔸canal-português": 41,
+    "🔸ruang-obrolan-indonesia": 52,
+    "🔸ห้องสนทนาภาษาไทย": 34,
+    "🔸traphase": 31,
+    "🔸lore-chat": 141,
+    "🔸lets-count": 9,
+    "🔸team-building": 273,
+    "🔸邀请码互助┊swap-invitation-codes": 7,
+    "🔸game-question": 1005,
+    "🔸机器人命令┊bot-commands": 19,
+    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 1,
+    "天鵝翱翔（但未完成": 7,
+    "诺缔拉与莫丝与守密人与「幻影」的冒险！": 1,
+    "Dialogue text for eldritch text cutoff too early when autoplaying at more than 1x speed.": 1,
+    "Global vs JP version": 4,
+    "Lotan: Cetarchon 4 costs created using Saya's Exalt with \"Gynoecium\" stacks are 1 cost not 0": 1,
+    "[Login Issue] Unable to login to Morimens (PC).": 1,
+    "Potential improvements for Hameln": 1,
+    "✅「已回答」「未解决」氪金玩家和老玩家是否已经成为游戏前进的阻力？": 1,
+    "💭「Processing」game client crashed...somewhat": 1,
+    "V2.5.1.0 停服维护公告": 9,
+    "▼▼▼▼▼▼▼ (Ch.7 Spoilers!)": 1,
+    "Morimen doodles ig mainly fish": 2,
+    "Sangaaaaaaaaaaaaaaa <333333": 1,
+    "【English Translation】Opinions Collection": 3,
+    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1,
+    "新人入坑第五天 求助 感恩": 3,
+    "想問組隊和養成建議、還有有些自選不知道怎麼選": 5,
+    "想問組隊、抽取建議": 2
+  },
+  "hourly_activity": {
+    "0": 221,
+    "1": 140,
+    "2": 47,
+    "3": 251,
+    "4": 169,
+    "5": 237,
+    "6": 218,
+    "7": 439,
+    "8": 572,
+    "9": 160
+  },
+  "message_types": {
+    "0": 1779,
+    "19": 663,
+    "23": 1,
+    "20": 11
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1534440692107972628",
+      "channel_id": "1131839817982947429",
+      "content": "<:Coalsie_shock:1516192103846383838>",
+      "author": "yuul_b_alwrigh",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534404819673153616",
+      "channel_id": "1300659603993923644",
+      "content": "<:worryGibRoses:584580280426430465>",
+      "author": "aegisx",
+      "reactions": 8,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1534378472699465799",
+      "channel_id": "1534378472699465799",
+      "content": "［莫诺缔］尝试画了家产！灵感来自诺缔拉生日邮件。后面是在懒得搓了所以很草（",
+      "author": "kuyuki1145",
+      "reactions": 8,
+      "channel": "诺缔拉与莫丝与守密人与「幻影」的冒险！"
+    },
+    {
+      "id": "1534434234221990018",
+      "channel_id": "1534434234221990018",
+      "content": "<https://x.com/SaminDraws/status/2084870351356411956?s=20>",
+      "author": "samin_",
+      "reactions": 7,
+      "channel": "▼▼▼▼▼▼▼ (Ch.7 Spoilers!)"
+    },
+    {
+      "id": "1534402860811423774",
+      "channel_id": "1131839817982947429",
+      "content": "<:Helot_slack_off:1459092159465521184> <:Helot_slack_off:1459092159465521184>",
+      "author": "yi000607",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534479344901296178",
+      "channel_id": "1534479344901296178",
+      "content": "暑假太閒找點事情做，有新的進度應該會放這（可能？\n\n（為我的拍攝技術默哀...",
+      "author": "0_0101._45013",
+      "reactions": 6,
+      "channel": "天鵝翱翔（但未完成"
+    },
+    {
+      "id": "1534455862674853980",
+      "channel_id": "1326453763355185215",
+      "content": "\"come with me and my nakama to atlantis keeper, we can have fun, forever!\"",
+      "author": "nikolazuli",
+      "reactions": 5,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1534458037077541016",
+      "channel_id": "1300659603993923644",
+      "content": "cuoi cung cung co gi do lam ngoai relink ae",
+      "author": "anicillia",
+      "reactions": 4,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1534453610945970336",
+      "channel_id": "1326453763355185215",
+      "content": "sorry venush the first idea what came to my head is aurita with the personality ",
+      "author": "nikolazuli",
+      "reactions": 4,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1534404530945392750",
+      "channel_id": "1433513650299076780",
+      "content": "should i stop playing league classic and work on morimens yt videos again",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1534435338825629926",
+      "channel_id": "1433513650299076780",
+      "content": "only thing that benefits you from +12ing incalc is that you dont get any more du",
+      "author": "idiota__",
+      "reactions": 4,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1534482623785730159",
+      "channel_id": "1433513650299076780",
+      "content": "",
+      "author": "tnimreppep",
+      "reactions": 4,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1534394151397884046",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "yi000607",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534395057971396648",
+      "channel_id": "1131839817982947429",
+      "content": "那我平時玩的血肉是什麼...",
+      "author": "under_bright_light",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534446018647818310",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "yuul_b_alwrigh",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534451333485297724",
+      "channel_id": "1131839817982947429",
+      "content": "我還在努力把普池命輪全+12",
+      "author": "quackdayo",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534481293532856330",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "kemomimi_",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534488175605452991",
+      "channel_id": "1131839817982947429",
+      "content": "以準備偷錄一哥直播",
+      "author": "nemu_s_t_a_r",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534360361149403208",
+      "channel_id": "1300659662311526512",
+      "content": "<:Helot_slack_off:1459092159465521184>",
+      "author": "rendezvoushr",
+      "reactions": 3,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1534419387715420241",
+      "channel_id": "1300659662311526512",
+      "content": "<:24_clown:1468259444423921871>",
+      "author": "rendezvoushr",
+      "reactions": 3,
+      "channel": "🔸canal-español"
+    }
+  ]
+}

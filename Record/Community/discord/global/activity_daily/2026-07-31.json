@@ -1,10 +1,11 @@
 {
   "date": "2026-07-31",
-  "messages": 8948,
+  "messages": 12128,
   "unique_authors": 306,
-  "reactions_total": 734,
-  "attachments": 435,
+  "reactions_total": 872,
+  "attachments": 569,
   "channel_activity": {
+    "🔸general-chat": 3180,
     "🔸綜合討論": 589,
     "🔸阵容构建": 21,
     "🔸剧情交流": 98,
@@ -61,8 +62,18 @@
     "In need of advice for teams, appreciate any help in advance!": 1
   },
   "hourly_activity": {
-    "10": 517,
-    "11": 1043,
+    "0": 198,
+    "1": 322,
+    "2": 856,
+    "3": 863,
+    "4": 539,
+    "5": 373,
+    "6": 327,
+    "7": 290,
+    "8": 625,
+    "9": 563,
+    "10": 1003,
+    "11": 1084,
     "12": 882,
     "13": 597,
     "14": 724,
@@ -72,24 +83,15 @@
     "18": 144,
     "23": 105,
     "19": 287,
-    "9": 222,
     "20": 48,
     "21": 236,
-    "22": 486,
-    "0": 68,
-    "1": 111,
-    "2": 354,
-    "3": 359,
-    "4": 325,
-    "5": 228,
-    "6": 234,
-    "7": 263,
-    "8": 139
+    "22": 486
   },
   "message_types": {
-    "0": 7020,
-    "19": 1904,
-    "20": 24
+    "0": 8948,
+    "19": 3149,
+    "20": 30,
+    "23": 1
   },
   "top_reacted_messages": [
     {
@@ -125,6 +127,14 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1532671954501243042",
+      "channel_id": "1400750050208125010",
+      "content": "*adds mountain to mihoyo game*",
+      "author": "fayrbrant",
+      "reactions": 6,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1532775859000181068",
       "channel_id": "1131839817982947429",
       "content": "有点想搞到+12了",
@@ -155,6 +165,14 @@
       "author": "aurora3981",
       "reactions": 6,
       "channel": "Cetus-Devouring Storm doesn't scale with realm mastery"
+    },
+    {
+      "id": "1532609435573289021",
+      "channel_id": "1400750050208125010",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 5,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1532765501003137044",
@@ -189,6 +207,30 @@
       "channel": "🔸lore-chat"
     },
     {
+      "id": "1532595365608554648",
+      "channel_id": "1400750050208125010",
+      "content": "Older women > younger women",
+      "author": "bocchi_the_raf",
+      "reactions": 4,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1532599037348548618",
+      "channel_id": "1400750050208125010",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 4,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1532671428418076765",
+      "channel_id": "1400750050208125010",
+      "content": "ezio",
+      "author": "46982105",
+      "reactions": 4,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1532762231610147059",
       "channel_id": "1131839817982947429",
       "content": "新大叔呢……",
@@ -211,46 +253,6 @@
       "author": "ernest_heart",
       "reactions": 4,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1532765817991860264",
-      "channel_id": "1131839817982947429",
-      "content": "~~還是惡趣味~~",
-      "author": "foxcatfurry",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1532783146720821259",
-      "channel_id": "1131839817982947429",
-      "content": "我是人在国内有海外资金花不出去",
-      "author": "ethylenediamine33",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1532794666464973041",
-      "channel_id": "1131839817982947429",
-      "content": "~~威廉到底是男是女~~",
-      "author": "yi000607",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1532780103166329026",
-      "channel_id": "1326453763355185215",
-      "content": "should I draw keepersona <:Brown_think:1459080117308620996>",
-      "author": "arsenyx_9999",
-      "reactions": 4,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1532892554847060208",
-      "channel_id": "1400749543288475770",
-      "content": "awakenings, is that the e3 thing i see people mentjon a lot about pollux?",
-      "author": "sirin404",
-      "reactions": 4,
-      "channel": "🔸team-building"
     }
   ]
 }
