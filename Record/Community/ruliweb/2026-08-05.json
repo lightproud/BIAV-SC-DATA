@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "archived_at": "2026-08-05T05:46:49.609427+00:00",
+  "archived_at": "2026-08-05T08:33:49.118687+00:00",
   "source": "ruliweb",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "XBOX 선정 25주년 기념 게임패스 게임 목록",
@@ -10,6 +10,19 @@
       "source": "ruliweb",
       "time": "2026-08-04T16:51:03.203472+00:00",
       "url": "https://bbs.ruliweb.com/etcs/board/300003/read/2359330",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr"
+    },
+    {
+      "title": "[모리멘스]저기 좀 돌려서 말해주실래요",
+      "summary": "대놓고 번식 번식 하니까 무서워요;;;;; 심지어 광란이라니",
+      "source": "ruliweb",
+      "time": "2026-08-05T08:32:19.138300+00:00",
+      "url": "https://bbs.ruliweb.com/etcs/board/300143/read/76211570",
       "engagement": 0,
       "is_hot": false,
       "author": "",
