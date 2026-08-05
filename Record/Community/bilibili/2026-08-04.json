@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-05T02:14:45.175180+00:00",
+  "archived_at": "2026-08-05T05:46:49.539541+00:00",
   "source": "bilibili",
-  "item_count": 31,
+  "item_count": 34,
   "items": [
     {
       "title": "[忘却前夜]上帝来了也得吃满一个大保底才能走",
@@ -51,6 +51,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "sing of saya",
+      "summary": "ヽ(；▽；)ノ终于出了沙耶\n  └ 出世难 (0赞): 我喜欢你[星星眼][星星眼][星星眼]\n  └ sl_亿般般 (0赞): 老大我喜欢你[Mygo表情包_抹茶芭菲]\n  └ 被治愈的兔子 (0赞): [至爱不渝·静态表情包_给心心]",
+      "source": "bilibili",
+      "time": "2026-08-04T09:52:56+00:00",
+      "url": "https://www.bilibili.com/video/BV1vjuc6XEXK",
+      "engagement": 203,
+      "is_hot": false,
+      "author": "踏荻",
+      "tags": [
+        "仿妆cos"
+      ],
+      "metadata": {
+        "play": 197,
+        "comment_count": 6,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/72d8f49f717dd1baec1dfaf29f88eeba854982a2.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "痴情碎肉面",
       "summary": "请输入文本\n  └ 耕司青海瑶 (1赞): 求郁纪的[喜欢]\n  └ 我不是cheeks (1赞): 厉害了这集[支持]\n  └ Y0SHIKAG3 (0赞): 我来ccb了",
       "source": "bilibili",
@@ -92,6 +115,52 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/84f3cea7f9dfbad4058d31f9ac630592cf248345.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "融灾400一剑开天门说是",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-04T14:02:30+00:00",
+      "url": "https://www.bilibili.com/video/BV1a4uA69EDy",
+      "engagement": 145,
+      "is_hot": false,
+      "author": "酸辣柠檬苦汁",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 145,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/4c9670c85224fa619b58852b4b1f577c51768635.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "融灾5-5  环娜击败潘神",
+      "summary": "我们环娜，终于胜利了，快蠕动不动了..........\n  └ 寂榕 (1赞): 吓哭[委屈]",
+      "source": "bilibili",
+      "time": "2026-08-04T11:54:48+00:00",
+      "url": "https://www.bilibili.com/video/BV1pDuA6MEGg",
+      "engagement": 139,
+      "is_hot": false,
+      "author": "静寂夏至",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 137,
+        "comment_count": 2,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/8896e93cc802b4af8de2e6a1add939b067e49e87.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
