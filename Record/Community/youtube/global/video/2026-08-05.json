@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "archived_at": "2026-08-05T16:42:24.328946+00:00",
+  "archived_at": "2026-08-05T19:29:20.685056+00:00",
   "source": "youtube",
-  "item_count": 16,
+  "item_count": 17,
   "items": [
     {
       "title": "[Morimens] Triple Rerun Rage Overview - Horla/Doresain/Mouchette - Watch the older videos please.",
@@ -272,6 +272,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/OiH7WJ-0gHo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Leviathan&#39;s Game: Crown of Desire",
+      "summary": "So I forgot to finish the event and needed the last 2 copies of the event SR even though I don't have GLotan yet... so anyway this is ...",
+      "source": "youtube",
+      "time": "2026-08-05T15:26:49Z",
+      "url": "https://www.youtube.com/watch?v=ZBp9o2jJtjM",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ace Singularity",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/ZBp9o2jJtjM/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-05",
+  "archived_at": "2026-08-05T19:29:20.826669+00:00",
+  "source": "google_play",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 i have tried everything to enter this ga",
+      "summary": "i have tried everything to enter this game, everytime i'm met with \" you have reached maximum number of characters... crazy never even played before, 1 star until something gets fixed. ( cant even look up the issue no one has a fix or is talking bout it)",
+      "source": "google_play",
+      "time": "2026-08-04T18:23:54",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-25553a94-98ee-46fa-993b-8df8cc284d75",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Zel Beis",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 中评] ★3 I assume my device can't handle this gam",
+      "summary": "I assume my device can't handle this game as it crashed many times at startup.",
+      "source": "google_play",
+      "time": "2026-08-04T18:13:56",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-a223dd8f-c489-4f3b-976a-41035569131e",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Mayhes",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 no komen",
+      "summary": "no komen",
+      "source": "google_play",
+      "time": "2026-08-04T18:23:14",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-76e3110f-8741-4fee-8323-02c601b44193",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Aldo Alfino",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

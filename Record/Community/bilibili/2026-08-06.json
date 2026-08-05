@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-06",
+  "archived_at": "2026-08-05T19:29:20.686319+00:00",
+  "source": "bilibili",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "【忘却前夜】莉兹融灾禁区1-5",
+      "summary": "旋转旋转……\n  └ 跳段木偶舞 (2赞): 超模🌰\n  └ 熬夜会变傻狗 (0赞): 🌰。佬好强\n  └ 上好佳薯片丶 (0赞): 🌰好美..",
+      "source": "bilibili",
+      "time": "2026-08-05T16:46:38+00:00",
+      "url": "https://www.bilibili.com/video/BV1sVM26bEv6",
+      "engagement": 187,
+      "is_hot": false,
+      "author": "朝星-",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 183,
+        "comment_count": 4,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/f17c12924ec678aa8bfc7726c64e60738111c68c.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】鸟弟1T 750万 输出新高 5-5 潘狄娅 8.3融灾",
+      "summary": "-\n  └ 上好佳薯片丶 (0赞): 刷出自己鸟弟1T输出的新高了，爽爽喵。但是隔壁蚀萝队随手一砍就是这个数，我鸟凹俩小时才打这些真是区完了。\n  └ 梦依流苏_myls (0赞): [星空列车与白的旅行表情包_给心心][星空列车与白的旅行表情包_给心心][星空列车与白的旅行表情包_给心心]",
+      "source": "bilibili",
+      "time": "2026-08-05T17:10:39+00:00",
+      "url": "https://www.bilibili.com/video/BV11gM26hEWA",
+      "engagement": 45,
+      "is_hot": false,
+      "author": "上好佳薯片丶",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 42,
+        "comment_count": 3,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/b6964bd9d7b28dea91ca149cb9b234c2bd53b17a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    }
+  ]
+}
