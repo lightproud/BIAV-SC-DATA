@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "archived_at": "2026-08-05T11:21:26.786864+00:00",
+  "archived_at": "2026-08-05T14:05:06.270616+00:00",
   "source": "steam",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "[正面] Okay, this game is awesome. Its a gacha, so don't...",
@@ -166,6 +166,30 @@
         "playtime_forever": 16017,
         "votes_up": 0,
         "timestamp_created": 1785919636
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 总的来说把类杀戮尖塔游戏做成二游只会消磨玩家对这种玩法的热情，但话又说回来，游戏玩法关我剧情向玩家什...",
+      "summary": "总的来说把类杀戮尖塔游戏做成二游只会消磨玩家对这种玩法的热情，但话又说回来，游戏玩法关我剧情向玩家什么事？\r\n忘却前夜牛逼！\r\n数值牛逼！",
+      "source": "steam_review",
+      "time": "2026-08-05T11:23:48+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199546183993/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199546183993",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1967,
+        "votes_up": 0,
+        "timestamp_created": 1785929028
       },
       "region": "global",
       "archive_subtype": "review",

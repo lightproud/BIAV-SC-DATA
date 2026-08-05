@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-05T11:21:26.867138+00:00",
+  "archived_at": "2026-08-05T14:05:06.328558+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 好评] ★5 I like the game the lore is amazing and",
@@ -44,6 +44,20 @@
       "tags": [],
       "lang": "vi",
       "platform_region": "vn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Приятный гибрид, который подкупает стиле",
+      "summary": "Приятный гибрид, который подкупает стилем Reverse 1999 и затягивающей механикой \"колодостроя\" от Slay the Spire. К слову, перевод на русский здесь есть, и для машинного он сделан очень достойно вполне играбельно и понятно",
+      "source": "google_play",
+      "time": "2026-08-04T11:22:42",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-c04e19a0-7acf-4628-9759-9bcc2227fabd",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Аlex Nyrgaliev",
+      "tags": [],
+      "lang": "ru",
+      "platform_region": "ru",
       "region": "global"
     }
   ],
