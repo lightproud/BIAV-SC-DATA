@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "archived_at": "2026-08-05T08:33:49.096792+00:00",
+  "archived_at": "2026-08-05T11:21:26.786864+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] Okay, this game is awesome. Its a gacha, so don't...",
@@ -94,6 +94,78 @@
         "playtime_forever": 8163,
         "votes_up": 0,
         "timestamp_created": 1785904992
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] The game is overall very well designed and is espe...",
+      "summary": "The game is overall very well designed and is especially fun to play in the evening. I just think that a few things aren't explained very well, but you can usually figure them out on your own. Overall, I'd give the game an 8/10.",
+      "source": "steam_review",
+      "time": "2026-08-05T10:22:41+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199593655271/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199593655271",
+      "tags": [
+        "german"
+      ],
+      "language": "german",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 601,
+        "votes_up": 0,
+        "timestamp_created": 1785925361
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] прикольная игра",
+      "summary": "прикольная игра",
+      "source": "steam_review",
+      "time": "2026-08-05T09:16:10+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199202957128/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199202957128",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 809,
+        "votes_up": 0,
+        "timestamp_created": 1785921370
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] free game gacha",
+      "summary": "free game gacha",
+      "source": "steam_review",
+      "time": "2026-08-05T08:47:16+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198241338898/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198241338898",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 16017,
+        "votes_up": 0,
+        "timestamp_created": 1785919636
       },
       "region": "global",
       "archive_subtype": "review",

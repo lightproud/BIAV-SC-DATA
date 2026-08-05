@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "archived_at": "2026-08-05T08:33:49.178799+00:00",
+  "archived_at": "2026-08-05T11:21:26.867138+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 I like the game the lore is amazing and",
@@ -30,6 +30,20 @@
       "tags": [],
       "lang": "es",
       "platform_region": "es",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★2 ko đăng nhập bằng steam đc",
+      "summary": "ko đăng nhập bằng steam đc",
+      "source": "google_play",
+      "time": "2026-08-04T09:25:03",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=vi#gp-d4a6a340-e252-46de-90a4-ef7e99a0cf75",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Lâm",
+      "tags": [],
+      "lang": "vi",
+      "platform_region": "vn",
       "region": "global"
     }
   ],
