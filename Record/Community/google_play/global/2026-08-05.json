@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "archived_at": "2026-08-05T19:29:20.826669+00:00",
+  "archived_at": "2026-08-05T22:13:37.801051+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 差评] ★1 i have tried everything to enter this ga",
@@ -41,6 +41,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Aldo Alfino",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 bagus gamenya, dan sekarang udah ga terl",
+      "summary": "bagus gamenya, dan sekarang udah ga terlalu ngelag lagi. ohiya untuk cerita tolong ditambah lagi, ga sabar buat ngeliat kelanjutan dari game ini. semangat untuk developer dan tim yang bekerja dibalik game ini^^",
+      "source": "google_play",
+      "time": "2026-08-04T21:32:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-c8bc04fe-c6f3-49bc-9e1e-3c1afcc4585c",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Raka Arya Ramadhan",
       "tags": [],
       "lang": "id",
       "platform_region": "id",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "archived_at": "2026-08-05T19:29:20.683994+00:00",
+  "archived_at": "2026-08-05T22:13:37.651688+00:00",
   "source": "bilibili",
-  "item_count": 16,
+  "item_count": 18,
   "items": [
     {
       "title": "【忘却前夜】新人向，混沌全唤醒体原型外号科普",
@@ -166,6 +166,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "忘却前夜 沙耶尤乌 列车限定队伍 癫狂列车大虫子",
+      "summary": "离了列车一堆造物的回转会缺胎缺狂缺银瞬间暴毙\n\n背景音乐：\nYoshihiro Ike - &quot;Symphoniker&quot;\nQutabire - &quot;軒下に身を寄せて&quot;\nARForest - &quot;The Unattended&quot;\n  └ Au9usTus_ (0赞): 好爽的uw\n  └ 青影布丁 (0赞): 老大能看下配置吗[星星眼]\n  └ 跳段木偶舞 (0赞): 怎么不选封印uw，我们无视封印大人",
+      "source": "bilibili",
+      "time": "2026-08-05T15:30:37+00:00",
+      "url": "https://www.bilibili.com/video/BV1p7M26dE1Z",
+      "engagement": 118,
+      "is_hot": false,
+      "author": "夢遊遊遊遊",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 112,
+        "comment_count": 6,
+        "comments_fetched": 3,
+        "danmaku": 1
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/8c13da17eed3e30b4148155ac9730a4be8cfebbb.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "米米世界.。。世界第一。。。。米米不倒我们步。吖。",
       "summary": "摸鱼\n肉块。\n  └ 大狗叫不叫啊 (2赞): [打call]\n  └ -昆扬 (1赞): [魔法少女的魔女审判表情包_探头]\n  └ 秦文四野 (1赞): 退网三年研究简介",
       "source": "bilibili",
@@ -230,6 +253,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/3d916e02d4e17de65b04cae3dbb6beb3353c15cd.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "85天已完成400大学习纪念",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-05T08:09:04+00:00",
+      "url": "https://www.bilibili.com/video/BV1wXMk6jEu1",
+      "engagement": 101,
+      "is_hot": false,
+      "author": "Au9usTus_",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 101,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/a832e5af3ec52402fcb5ba779cfe6790fd2e396f.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

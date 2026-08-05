@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-06",
+  "archived_at": "2026-08-05T22:13:37.657528+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam论坛] Why so little players count ?",
+      "summary": "...",
+      "source": "steam_discussion",
+      "time": "2026-08-05T20:58:40+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/688621679872623760/",
+      "engagement": 20,
+      "is_hot": true,
+      "author": "Loot_goblin_Lord",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}
