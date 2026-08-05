@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "archived_at": "2026-08-05T14:05:06.270616+00:00",
+  "archived_at": "2026-08-05T16:42:24.390983+00:00",
   "source": "steam",
-  "item_count": 8,
+  "item_count": 11,
   "items": [
     {
       "title": "[正面] Okay, this game is awesome. Its a gacha, so don't...",
@@ -190,6 +190,78 @@
         "playtime_forever": 1967,
         "votes_up": 0,
         "timestamp_created": 1785929028
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 非常好玩，5771求你继续更主线，福利给的非常之大方，剧情真的很有意思，克苏鲁题材的很新颖，就是关卡...",
+      "summary": "非常好玩，5771求你继续更主线，福利给的非常之大方，剧情真的很有意思，克苏鲁题材的很新颖，就是关卡全手动打有点费时间，攻略配队也比较复杂，需要打的材料很多，不过玩法还是很有意思的，最后，拉蒙娜永远的神",
+      "source": "steam_review",
+      "time": "2026-08-05T14:00:49+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199657971189/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199657971189",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2008,
+        "votes_up": 0,
+        "timestamp_created": 1785938449
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 没有好的队伍玩不了，培养周期长",
+      "summary": "没有好的队伍玩不了，培养周期长",
+      "source": "steam_review",
+      "time": "2026-08-05T13:54:41+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198411184587/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198411184587",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 2130,
+        "votes_up": 0,
+        "timestamp_created": 1785938081
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 為甚麼一個單機遊戲會有網路問題\n走一步、出一張牌都要等3~5秒有夠折磨",
+      "summary": "為甚麼一個單機遊戲會有網路問題\n走一步、出一張牌都要等3~5秒有夠折磨",
+      "source": "steam_review",
+      "time": "2026-08-05T13:51:06+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198849103332/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198849103332",
+      "tags": [
+        "tchinese"
+      ],
+      "language": "tchinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 177,
+        "votes_up": 0,
+        "timestamp_created": 1785937866
       },
       "region": "global",
       "archive_subtype": "review",

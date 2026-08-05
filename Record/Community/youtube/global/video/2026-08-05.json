@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "archived_at": "2026-08-05T14:05:06.224819+00:00",
+  "archived_at": "2026-08-05T16:42:24.328946+00:00",
   "source": "youtube",
-  "item_count": 15,
+  "item_count": 16,
   "items": [
     {
       "title": "[Morimens] Triple Rerun Rage Overview - Horla/Doresain/Mouchette - Watch the older videos please.",
@@ -204,6 +204,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/RSQXptUmTlY/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens hard mode story",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-04T21:20:38Z",
+      "url": "https://www.youtube.com/watch?v=SRRgbJhvSQQ",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "Nazoric",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/SRRgbJhvSQQ/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
