@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "archived_at": "2026-08-06T02:23:34.456405+00:00",
+  "archived_at": "2026-08-06T05:49:44.064372+00:00",
   "source": "youtube",
-  "item_count": 17,
+  "item_count": 19,
   "items": [
     {
       "title": "[Morimens] Triple Rerun Rage Overview - Horla/Doresain/Mouchette - Watch the older videos please.",
@@ -102,6 +102,40 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/yjGIGNbSH1w/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Wading the Crimson",
+      "summary": "Provided to YouTube by DistroKid Wading the Crimson · B.I.A.V. Studio · B.I.A.V. Studio Morimens OST┊Lotan: Cetarchon EP: ...",
+      "source": "youtube",
+      "time": "2026-08-05T12:13:48Z",
+      "url": "https://www.youtube.com/watch?v=Au6HfHnjOuU",
+      "engagement": 22,
+      "is_hot": false,
+      "author": "B.I.A.V. Studio - Topic",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/Au6HfHnjOuU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Fangs Bared",
+      "summary": "Provided to YouTube by DistroKid Fangs Bared · B.I.A.V. Studio · B.I.A.V. Studio Morimens OST┊Lotan: Cetarchon EP: Conquest ...",
+      "source": "youtube",
+      "time": "2026-08-05T12:13:48Z",
+      "url": "https://www.youtube.com/watch?v=e5ReAC18d2U",
+      "engagement": 19,
+      "is_hot": false,
+      "author": "B.I.A.V. Studio - Topic",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/e5ReAC18d2U/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "archived_at": "2026-08-06T02:23:34.455361+00:00",
+  "archived_at": "2026-08-06T05:49:44.063214+00:00",
   "source": "bilibili",
-  "item_count": 18,
+  "item_count": 19,
   "items": [
     {
       "title": "【忘却前夜】新人向，混沌全唤醒体原型外号科普",
@@ -115,6 +115,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/bc68a1f722d20343c885cf5adcaab42c6c1a642f.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "8.3拼好分融灾400茉夏参团率从200%降到100%的一期",
+      "summary": "打满不发，以后的我怎么知道现在的我这么勤奋。",
+      "source": "bilibili",
+      "time": "2026-08-05T12:53:50+00:00",
+      "url": "https://www.bilibili.com/video/BV1tcMy6fELc",
+      "engagement": 171,
+      "is_hot": false,
+      "author": "今晚会出太阳",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 171,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/f288ced90ad80d446d618e84b5faefd3a24306d0.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

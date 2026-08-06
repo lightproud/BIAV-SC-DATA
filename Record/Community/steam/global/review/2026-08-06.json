@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
-  "archived_at": "2026-08-06T02:23:34.510245+00:00",
+  "archived_at": "2026-08-06T05:49:44.114216+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 5,
   "items": [
     {
       "title": "[正面] i will never recover",
@@ -46,6 +46,78 @@
         "playtime_forever": 4344,
         "votes_up": 0,
         "timestamp_created": 1785975510
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] The story is actually awesome. I just skip that ♥♥...",
+      "summary": "The story is actually awesome. I just skip that ♥♥♥♥ on every other gatcha but this one got me hooked. 1 problem is that there's alot of stuff the characters say that seems either censored to hide the whole picture or shrouded in some complex stuff you have to sit and read in the archives to fully understand. Some mechanics are also overly complex and it feels like you have to practice them again and again before you understand how they are supposed to work.",
+      "source": "steam_review",
+      "time": "2026-08-06T04:31:50+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198160287702/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198160287702",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 224,
+        "votes_up": 0,
+        "timestamp_created": 1785990710
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 太肝了",
+      "summary": "太肝了",
+      "source": "steam_review",
+      "time": "2026-08-06T03:52:10+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198691350115/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198691350115",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2073,
+        "votes_up": 0,
+        "timestamp_created": 1785988330
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] I LOOOOVVVE EVERYTHING ABOUT THIS GAME, im kinda s...",
+      "summary": "I LOOOOVVVE EVERYTHING ABOUT THIS GAME, im kinda sad that there isnt much merch tho.. /(ㄒoㄒ)/~~",
+      "source": "steam_review",
+      "time": "2026-08-06T03:25:12+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199834655867/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199834655867",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2158,
+        "votes_up": 0,
+        "timestamp_created": 1785986712
       },
       "region": "global",
       "archive_subtype": "review",
