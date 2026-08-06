@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
-  "archived_at": "2026-08-06T11:23:43.060236+00:00",
+  "archived_at": "2026-08-06T14:04:07.443690+00:00",
   "source": "bilibili",
-  "item_count": 10,
+  "item_count": 14,
   "items": [
     {
       "title": "[忘却前夜]关于偶像的八个问题",
@@ -51,6 +51,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "沙耶之大伟哥，因为天天玩米游我的世界变成了米游的世界",
+      "summary": "-\n  └ Celi-lata-gusha (1赞): 沙耶对我少时纯洁的幻想造成了第一次大冲击。这个视频是第二次。\n  └ 级N年 (0赞): 这你这家伙再说什么呢？\n  └ 观念2953 (0赞): 兄弟们，帮帮忙呗，谁接？\n管理活动.日常这些，一月\n300r，有大神么？[doge]",
+      "source": "bilibili",
+      "time": "2026-08-06T13:03:53+00:00",
+      "url": "https://www.bilibili.com/video/BV1SMup6BEdP",
+      "engagement": 182,
+      "is_hot": false,
+      "author": "二次元相关论战吧官号",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 179,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 4
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/c54af3f45b690f05467994230c4e8f218b93e68a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "傻耶",
       "summary": "请输入文本\n  └ 牢恋椰椰 (5赞): 这里记录一下，你以前头像防止你忘了\n  └ 爱莉要骗合祖国在召唤 (2赞): 这在往期作品已经算正常的了[笑哭]\n  └ Nautilus114 (1赞): 依旧大智若愚，别逗你沙姐笑了，秒算几十个梅森素数",
       "source": "bilibili",
@@ -92,6 +115,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/e57ce6f4ef67f6e316acaf4b5ecc013a52ae013c.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】三启60级杜勒无强辅2-5",
+      "summary": "好玩）\n  └ 陶醉2333 (1赞): 很棒诶！\n  └ 上好佳薯片丶 (1赞): 老大好强喵[打call]",
+      "source": "bilibili",
+      "time": "2026-08-06T12:43:26+00:00",
+      "url": "https://www.bilibili.com/video/BV1ugup6KEu9",
+      "engagement": 58,
+      "is_hot": false,
+      "author": "跳段木偶舞",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 56,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/2f1f25a7ac5675b389d1f0ec7bcadaa48d13ee2c.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -212,6 +258,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "还记得这团肉块吗？",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-06T13:48:14+00:00",
+      "url": "https://www.bilibili.com/video/BV1F2uH69Eoj",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "魔法少女钟塔酱",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 5,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/9d78ff50bf70021636f06b43ebb10a47b52eade3.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "忘却前夜7-9章（无解说实况）分享日常",
       "summary": "",
       "source": "bilibili",
@@ -230,6 +299,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/f41de3877ff58233e3612588bac0625cc24be949.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "蚀灭萝坦语音更新前后对比",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-06T13:39:52+00:00",
+      "url": "https://www.bilibili.com/video/BV1pnup68EiA",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "_TayNew_",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 2,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/cc86a2cbf757913ff27771d70129f618c84bc3e8.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
-  "archived_at": "2026-08-06T11:23:43.129615+00:00",
+  "archived_at": "2026-08-06T14:04:07.528751+00:00",
   "source": "steam",
-  "item_count": 8,
+  "item_count": 9,
   "items": [
     {
       "title": "[正面] i will never recover",
@@ -190,6 +190,30 @@
         "playtime_forever": 1331,
         "votes_up": 0,
         "timestamp_created": 1786004238
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 很喜欢的剧情，紧凑度很高，可以当成半个avg来看了。星辰篇可能没有忘却篇那么有感情了，但是cg和人物...",
+      "summary": "很喜欢的剧情，紧凑度很高，可以当成半个avg来看了。星辰篇可能没有忘却篇那么有感情了，但是cg和人物立绘还是能把我钩住。（需要更多的Aigis和Lily...(●'◡'●)",
+      "source": "steam_review",
+      "time": "2026-08-06T13:15:35+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199021275377/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199021275377",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 5460,
+        "votes_up": 0,
+        "timestamp_created": 1786022135
       },
       "region": "global",
       "archive_subtype": "review",

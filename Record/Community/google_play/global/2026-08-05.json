@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "archived_at": "2026-08-06T11:23:43.208970+00:00",
+  "archived_at": "2026-08-06T14:04:07.614887+00:00",
   "source": "google_play",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "[Google Play 差评] ★1 i have tried everything to enter this ga",
@@ -100,6 +100,20 @@
       "tags": [],
       "lang": "en",
       "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 재밋슘다. 이미 풀돌 픽업캐가 12명이 넘어...",
+      "summary": "재밋슘다. 이미 풀돌 픽업캐가 12명이 넘어...",
+      "source": "google_play",
+      "time": "2026-08-05T14:01:32",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-c1a37dc6-db8e-42f8-bf74-22f912fdf4f7",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "꼰냥꼰냥",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
       "region": "global"
     }
   ],
