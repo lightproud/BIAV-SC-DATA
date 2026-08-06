@@ -1,11 +1,11 @@
 {
   "date": "2026-07-31",
-  "messages": 12128,
+  "messages": 16842,
   "unique_authors": 306,
-  "reactions_total": 872,
-  "attachments": 569,
+  "reactions_total": 1102,
+  "attachments": 729,
   "channel_activity": {
-    "🔸general-chat": 3180,
+    "🔸general-chat": 7894,
     "🔸綜合討論": 589,
     "🔸阵容构建": 21,
     "🔸剧情交流": 98,
@@ -62,6 +62,19 @@
     "In need of advice for teams, appreciate any help in advance!": 1
   },
   "hourly_activity": {
+    "11": 1214,
+    "12": 974,
+    "13": 922,
+    "14": 1029,
+    "15": 1295,
+    "16": 934,
+    "17": 233,
+    "18": 654,
+    "19": 816,
+    "20": 636,
+    "21": 687,
+    "22": 1095,
+    "23": 394,
     "0": 198,
     "1": 322,
     "2": 856,
@@ -72,25 +85,12 @@
     "7": 290,
     "8": 625,
     "9": 563,
-    "10": 1003,
-    "11": 1084,
-    "12": 882,
-    "13": 597,
-    "14": 724,
-    "15": 645,
-    "16": 771,
-    "17": 160,
-    "18": 144,
-    "23": 105,
-    "19": 287,
-    "20": 48,
-    "21": 236,
-    "22": 486
+    "10": 1003
   },
   "message_types": {
-    "0": 8948,
-    "19": 3149,
-    "20": 30,
+    "19": 5269,
+    "0": 11535,
+    "20": 37,
     "23": 1
   },
   "top_reacted_messages": [
@@ -125,6 +125,14 @@
       "author": "water_heart",
       "reactions": 7,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532759626003779726",
+      "channel_id": "1400750050208125010",
+      "content": "Sorry to change the topic but good luck with the corpo speedrun <@19304306927520",
+      "author": "ihatepickinguniqueusernames",
+      "reactions": 6,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1532671954501243042",
@@ -167,6 +175,22 @@
       "channel": "Cetus-Devouring Storm doesn't scale with realm mastery"
     },
     {
+      "id": "1532733533326409748",
+      "channel_id": "1400750050208125010",
+      "content": "Have a great day",
+      "author": "zdd.2345",
+      "reactions": 5,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1532767354105233488",
+      "channel_id": "1400750050208125010",
+      "content": "gentlemen, and the few ladies in this chat, I succesfully ragebaited a failed fa",
+      "author": "simplyandy",
+      "reactions": 5,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1532609435573289021",
       "channel_id": "1400750050208125010",
       "content": "",
@@ -207,52 +231,28 @@
       "channel": "🔸lore-chat"
     },
     {
-      "id": "1532595365608554648",
+      "id": "1532733511457312778",
       "channel_id": "1400750050208125010",
-      "content": "Older women > younger women",
-      "author": "bocchi_the_raf",
+      "content": "Don’t have a good day",
+      "author": "zdd.2345",
       "reactions": 4,
       "channel": "🔸general-chat"
     },
     {
-      "id": "1532599037348548618",
+      "id": "1532766610505339041",
       "channel_id": "1400750050208125010",
-      "content": "",
-      "author": "jmjmjm6667",
+      "content": "AI",
+      "author": "im_just_a_reader",
       "reactions": 4,
       "channel": "🔸general-chat"
     },
     {
-      "id": "1532671428418076765",
+      "id": "1532878757394776149",
       "channel_id": "1400750050208125010",
-      "content": "ezio",
-      "author": "46982105",
+      "content": "Junko could do terrible things to me",
+      "author": "zenji_shiro",
       "reactions": 4,
       "channel": "🔸general-chat"
-    },
-    {
-      "id": "1532762231610147059",
-      "channel_id": "1131839817982947429",
-      "content": "新大叔呢……",
-      "author": "yi000607",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1532764678239944704",
-      "channel_id": "1131839817982947429",
-      "content": "跟寄生獸聯動，順帶復活莎拉",
-      "author": "heikwok",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1532765807656960153",
-      "channel_id": "1131839817982947429",
-      "content": "是我的另一半",
-      "author": "ernest_heart",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
     }
   ]
 }

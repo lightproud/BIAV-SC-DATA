@@ -1,0 +1,232 @@
+{
+  "date": "2026-08-06",
+  "messages": 2156,
+  "unique_authors": 203,
+  "reactions_total": 261,
+  "attachments": 128,
+  "channel_activity": {
+    "🔸綜合討論": 188,
+    "🔸相位对弈": 11,
+    "🔸课间休息闲聊": 29,
+    "🔸한국어-채팅방": 2,
+    "🔸русский-канал": 38,
+    "🔸phòng-chat-tiếng-việt": 106,
+    "🔸canal-español": 179,
+    "🔸canal-português": 49,
+    "🔸ruang-obrolan-indonesia": 70,
+    "🔸ห้องสนทนาภาษาไทย": 22,
+    "🔸traphase": 10,
+    "🔸lore-chat": 82,
+    "🔸lets-count": 7,
+    "🔸team-building": 177,
+    "🔸邀请码互助┊swap-invitation-codes": 8,
+    "🔸game-question": 1079,
+    "🔸游戏问题": 5,
+    "🔸机器人命令┊bot-commands": 31,
+    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 1,
+    "日服的新角色竟然是莉莉妈？": 1,
+    "Stuck in stealth attack": 1,
+    "Cards Visually Stuck During Fight Records": 1,
+    "Additional Record Filters": 1,
+    "Amber-Tinted Death does not benefit from PChaos stat enhancement": 1,
+    "A humble suggestion regarding GLotan's pursuit": 1,
+    "Quadra / 4-Realm Rerun Banners": 3,
+    "Skin Preview": 1,
+    "Please rework how Propagation Caro works for the future units": 5,
+    "✅💭「沒解决完」再衍化未受到造成的狂氣提高效果加成的問題": 9,
+    "V2.5.3.3 在线维护公告": 12,
+    "V2.5.1.0 停服维护公告": 4,
+    "Saya no Uta x Morimens Collab Fan Art": 1,
+    "the WORST dumpcorner of the hameln glazer": 1,
+    "Elton WIP": 2,
+    "hameln’s big blue??? teal??? orbs": 2,
+    "Classical Music Time": 1,
+    "Ham": 1,
+    "Arachne wip": 1,
+    "morimens sybau 💔": 9,
+    "Stat Collection Spreadsheet": 1,
+    "Morimens New Player Handbook by Cheri [V2.5 UGC Contest]": 1,
+    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1,
+    "想請問如何組隊...": 1
+  },
+  "hourly_activity": {
+    "0": 235,
+    "1": 283,
+    "2": 177,
+    "3": 205,
+    "4": 346,
+    "5": 147,
+    "6": 159,
+    "7": 134,
+    "8": 249,
+    "9": 221
+  },
+  "message_types": {
+    "0": 1632,
+    "19": 508,
+    "20": 13,
+    "4": 3
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1534808033648181409",
+      "channel_id": "1131839817982947429",
+      "content": "我先自己打试试看",
+      "author": "kemomimi_",
+      "reactions": 18,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534807522735554560",
+      "channel_id": "1131839817982947429",
+      "content": "~~阿狗但凡是全图鉴党5771的队伍组合将会是指数级的成长~~",
+      "author": "ling_an_",
+      "reactions": 11,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534730641034444864",
+      "channel_id": "1131839817982947429",
+      "content": "有沒有大佬可以帶帶我",
+      "author": "a_wei3797",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534803903529615461",
+      "channel_id": "1131839817982947429",
+      "content": "<:Doresain_proud:1468257815238938645>",
+      "author": "a_wei3797",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534817769449721926",
+      "channel_id": "1131839817982947429",
+      "content": "忘卻前夜有61個喚醒體，其中環拉跟拉拉不能同隊。每個隊伍必須由四個不重複轉喚醒體組成。問，全圖鑑阿狗可以發現多少個獨特的配隊？\n\n承上題，這遊戲有四個界域，一個",
+      "author": "arachnids_nacha",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534729871408758784",
+      "channel_id": "1131839817982947429",
+      "content": "有沒有大佬可以帶帶我",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534825973483048980",
+      "channel_id": "1131839817982947429",
+      "content": "多亏朝星的新影片我才能找到猫这句话🆘",
+      "author": "ling_an_",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534779455233458246",
+      "channel_id": "1131839817982947429",
+      "content": "有沒有帶帶可以大佬我",
+      "author": "ling_an_",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534821233059696691",
+      "channel_id": "1131839817982947429",
+      "content": "因為詞條「發現」為隨機取出三個，並且選擇一個",
+      "author": "luna_.90",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534730991434989689",
+      "channel_id": "1131839817982947429",
+      "content": "有沒有帶帶可以大佬我",
+      "author": "ernest_heart",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534801572096249897",
+      "channel_id": "1131839817982947429",
+      "content": "小米是個善良的好朋友\n能一次性交很多朋友\n他以前很不容易\n可能吃過很多打擊吧\n早年他家庭條件並不好\n為了餵家裡的牛\n每天上山背筐草\n讀書也沒有天賦\n每次考試都被",
+      "author": "ernest_heart",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534818573510512700",
+      "channel_id": "1326453763355185215",
+      "content": "Her wax hair is honestly a really cool and well done design choice in her splash",
+      "author": "stormimi",
+      "reactions": 4,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1534801749662109696",
+      "channel_id": "1131839817982947429",
+      "content": "现在好像是 先选一个造物进战斗再退出调查\n就能刷新了",
+      "author": "ling_an_",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534805294880784524",
+      "channel_id": "1131839817982947429",
+      "content": "早上6點打完了",
+      "author": "a_wei3797",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534827745463238706",
+      "channel_id": "1131839817982947429",
+      "content": "以前搜到這張",
+      "author": "heikwok",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534829913440387246",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "ernest_heart",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534848281191120946",
+      "channel_id": "1131839817982947429",
+      "content": "嚇暈還視奸",
+      "author": "annabelle0868",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534733695146135634",
+      "channel_id": "1400749543288475770",
+      "content": "the template I'm using is https://tiermaker.com/create/morimens-awakeners-tier-l",
+      "author": "kataharaitai",
+      "reactions": 3,
+      "channel": "🔸team-building"
+    },
+    {
+      "id": "1534770165240172664",
+      "channel_id": "1400749543288475770",
+      "content": "Pandia was always one of the easiest bosses because she gets hard-countered by, ",
+      "author": "ashd3x",
+      "reactions": 3,
+      "channel": "🔸team-building"
+    },
+    {
+      "id": "1534785179678281758",
+      "channel_id": "1433513650299076780",
+      "content": "To play counter wanda",
+      "author": "polkarain",
+      "reactions": 3,
+      "channel": "🔸game-question"
+    }
+  ]
+}
