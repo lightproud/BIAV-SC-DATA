@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "archived_at": "2026-08-06T08:34:01.069252+00:00",
+  "archived_at": "2026-08-06T11:23:43.208970+00:00",
   "source": "google_play",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "[Google Play 差评] ★1 i have tried everything to enter this ga",
@@ -86,6 +86,20 @@
       "tags": [],
       "lang": "es",
       "platform_region": "es",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 fun and saya",
+      "summary": "fun and saya",
+      "source": "google_play",
+      "time": "2026-08-05T09:28:08",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-fae9f572-b60d-4da1-91e1-65c10f7ff5b4",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ego Sum aetΩ",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],

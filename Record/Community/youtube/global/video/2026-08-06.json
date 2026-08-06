@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
-  "archived_at": "2026-08-06T08:34:00.927350+00:00",
+  "archived_at": "2026-08-06T11:23:43.063916+00:00",
   "source": "youtube",
-  "item_count": 9,
+  "item_count": 12,
   "items": [
     {
       "title": "【忘却前夜】星辰編　開幕　１－１から【ローグライクで遊ぼうの会】",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/yjGIGNbSH1w/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Livestream reaction to me trying to pull for +12 Glotan. Please don&#39;t kill me",
+      "summary": "https://buymeacoffee.com/flares https://discord.gg/tpMMe5W7CT - Personal Flares Discord ...",
+      "source": "youtube",
+      "time": "2026-08-06T11:04:56Z",
+      "url": "https://www.youtube.com/watch?v=Jh3UH83LuLk",
+      "engagement": 30,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/Jh3UH83LuLk/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -68,6 +85,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/KiDUFjM9TM4/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】融災禁区・第4波・Ⅴ級警報（2026/08/06）",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-08-06T10:09:14Z",
+      "url": "https://www.youtube.com/watch?v=mbi_B6tjBBA",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/mbi_B6tjBBA/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -153,6 +187,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/iCdLUxcu4SM/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】融災禁区・第1波・Ⅴ級警報（2026/08/06）",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-08-06T10:15:12Z",
+      "url": "https://www.youtube.com/watch?v=5VZigOoV468",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/5VZigOoV468/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

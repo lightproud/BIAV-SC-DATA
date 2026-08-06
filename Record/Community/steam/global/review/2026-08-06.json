@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
-  "archived_at": "2026-08-06T08:34:00.986954+00:00",
+  "archived_at": "2026-08-06T11:23:43.129615+00:00",
   "source": "steam",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "[正面] i will never recover",
@@ -166,6 +166,30 @@
         "playtime_forever": 716,
         "votes_up": 0,
         "timestamp_created": 1785993615
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] pvp卡牌机制不平衡",
+      "summary": "pvp卡牌机制不平衡",
+      "source": "steam_review",
+      "time": "2026-08-06T08:17:18+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199387626116/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199387626116",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 1331,
+        "votes_up": 0,
+        "timestamp_created": 1786004238
       },
       "region": "global",
       "archive_subtype": "review",
