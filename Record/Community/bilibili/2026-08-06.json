@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
-  "archived_at": "2026-08-06T14:04:07.443690+00:00",
+  "archived_at": "2026-08-06T23:59:04.798889+00:00",
   "source": "bilibili",
-  "item_count": 14,
+  "item_count": 18,
   "items": [
     {
       "title": "[忘却前夜]关于偶像的八个问题",
@@ -69,6 +69,29 @@
         "danmaku": 4
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/c54af3f45b690f05467994230c4e8f218b93e68a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】2026年8.3-8.18容灾3-5低配攻略（只有常驻角色！咕噜咕噜！）",
+      "summary": "窝系一只第1次在b站做视频的小水母\n窝叫安眠，或者也可以叫窝冥心\n希望能和大家友好交流\n这样窝就有更多伙伴惹！\n咕噜咕噜！\n另：窝不好次！不许次窝！次窝窝就蛰你！咕噜咕噜！\n  └ 与我同永安眠 (1赞): 补充：\n1.关于怪物：\n其意图有五种:\n1,心智寄生:756，赋予仍在手中保留的卡牌一层迟缓。\n2,狩猎时刻·破甲:252×4，脆弱一回合。\n3,散播剧毒:504×2，将三张巢群捕食置入手中，若本回合击碎了旧日余烬，变为无伤害的神经毒素。\n4,狩猎时刻·重创:252×4，重创一回合。\n5,散播痛楚:504×2，将三张巢群捕食置入手中，若本回合击碎了旧日余烬，变为低伤害的心智寄生。\n状态说明:\n巢群共感一异维\n力量被降低时，仅会降低25%的力量层数。\n每当玩家释放狂气爆发，获得1层临时疯狂。\n旧日余烬\n11365层\n承受主动伤害或触腕伤害后，移除等量的旧日余烬并失去300%移除量的生命，承受其它伤害时移除一半。\n旧日余烬层数每回合重置。\n（巢群捕食:\n1费状态卡\n回合结束时，若仍在手牌堆中，失去你的生命上限的10%点生命上限，将其消耗。打出后，使前排敌人获得你的生命上限的50%层「旧日余烬」，将此卡洗入抽牌堆底部。\n消耗。）\n2.关于造物:\n弥萨格徽章:使用银钥觉醒后获得四算力和200银钥能量。\n深海戒指:探索开始时造物上限+1，深海界域唤醒体获得其维度影像。队伍中每有一名深海界域唤醒体，造物上限+1。（唤醒体维度影像效果查看方式:点击星辰篇，点击关卡造物，翻到最下面）\n  └ Au9usTus_ (0赞): 已严肃学习\n  └ 奕奕艺艺 (0赞): 智齿...",
+      "source": "bilibili",
+      "time": "2026-08-06T12:31:09+00:00",
+      "url": "https://www.bilibili.com/video/BV12buJ64Ehz",
+      "engagement": 115,
+      "is_hot": false,
+      "author": "与我同永安眠",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 102,
+        "comment_count": 13,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/5afee942201ca763c2dad2ecff3b9db5ed207e8e.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -143,6 +166,52 @@
       "platform_region": "cn"
     },
     {
+      "title": "你们看到老板娘了吗？",
+      "summary": "-\n  └ 哈基沙大玉 (0赞): [鸣潮2周年同人绘画_看你][鸣潮2周年同人绘画_看你][鸣潮2周年同人绘画_看你]\n  └ 耕司青海瑶 (0赞): [doge]",
+      "source": "bilibili",
+      "time": "2026-08-06T14:03:01+00:00",
+      "url": "https://www.bilibili.com/video/BV1zUuH6HEuV",
+      "engagement": 54,
+      "is_hot": false,
+      "author": "嘿白嫖怪",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 52,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/0c4e93a24831eabcf59e1635c046ece8f635d041.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "融灾（8.3-8.16）我说玩c罗有大智慧有人懂吗",
+      "summary": "水温渐涨，还好这期戒指是深海不是超维有人懂吗",
+      "source": "bilibili",
+      "time": "2026-08-06T14:02:05+00:00",
+      "url": "https://www.bilibili.com/video/BV1nUuH6pEYx",
+      "engagement": 46,
+      "is_hot": false,
+      "author": "Akra",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 46,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/bec8e0b39f41060a6898add51b0b40204b72c304.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "【忘却前夜】鸟弟1T 750万 输出新高 5-5 潘狄娅 8.3融灾",
       "summary": "-\n  └ 上好佳薯片丶 (0赞): 刷出自己鸟弟1T输出的新高了，爽爽喵。但是隔壁蚀萝队随手一砍就是这个数，我鸟凹俩小时才打这些真是区完了。\n  └ 梦依流苏_myls (0赞): [星空列车与白的旅行表情包_给心心][星空列车与白的旅行表情包_给心心][星空列车与白的旅行表情包_给心心]",
       "source": "bilibili",
@@ -161,6 +230,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/b6964bd9d7b28dea91ca149cb9b234c2bd53b17a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "沙耶之歌",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-06T14:37:13+00:00",
+      "url": "https://www.bilibili.com/video/BV1Ycup6VEeP",
+      "engagement": 38,
+      "is_hot": false,
+      "author": "对鱼k",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 38,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/e224549810625d01a5325b545ab5d5f2b15d9f38.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

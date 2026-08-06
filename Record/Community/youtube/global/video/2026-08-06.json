@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
-  "archived_at": "2026-08-06T14:04:07.445705+00:00",
+  "archived_at": "2026-08-06T23:59:04.799676+00:00",
   "source": "youtube",
-  "item_count": 17,
+  "item_count": 18,
   "items": [
     {
       "title": "(망각전야) 침식로탄 기믹 30초 요약 #망각전야 #morimens #공략",
@@ -102,6 +102,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/uWDsuEfx8aI/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】通常調査 星辰正しき刻「1-12」「1-13」",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-08-06T15:10:53Z",
+      "url": "https://www.youtube.com/watch?v=w9Tlw-QtWlc",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/w9Tlw-QtWlc/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
