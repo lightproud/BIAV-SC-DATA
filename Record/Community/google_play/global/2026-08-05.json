@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "archived_at": "2026-08-06T05:49:44.195836+00:00",
+  "archived_at": "2026-08-06T08:34:01.069252+00:00",
   "source": "google_play",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "[Google Play 差评] ★1 i have tried everything to enter this ga",
@@ -72,6 +72,20 @@
       "tags": [],
       "lang": "en",
       "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 un juego increíble, pero lamentablemente",
+      "summary": "un juego increíble, pero lamentablemente no podré seguir jugando lo porque los creadores de este juego sólo agregan más personajes y más contenido olvidándose de la optimización.",
+      "source": "google_play",
+      "time": "2026-08-05T08:31:53",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-ceac593b-8967-449e-8d58-496452739106",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Eloísa Guillen",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "es",
       "region": "global"
     }
   ],

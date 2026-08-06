@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
-  "archived_at": "2026-08-06T05:49:44.067418+00:00",
+  "archived_at": "2026-08-06T08:34:00.927350+00:00",
   "source": "youtube",
-  "item_count": 6,
+  "item_count": 9,
   "items": [
     {
       "title": "【忘却前夜】星辰編　開幕　１－１から【ローグライクで遊ぼうの会】",
@@ -56,6 +56,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "【忘却前夜】高難度調査「H9-2」",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-08-06T06:16:11Z",
+      "url": "https://www.youtube.com/watch?v=KiDUFjM9TM4",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/KiDUFjM9TM4/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "TESTING NEW LEVEL 50 AWAKENERS + GACHA PULLS! | Morimens Awakener Trials",
       "summary": "We are taking a break from the main story today to dive into the latest Awakener Trials in Morimens! This event lets us take three ...",
       "source": "youtube",
@@ -102,6 +119,40 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/b8zC3x0a84A/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】融災禁区・第5波・Ⅴ級警報（2026/08/06）",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-08-06T08:29:48Z",
+      "url": "https://www.youtube.com/watch?v=ta3q5kLcA1I",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/ta3q5kLcA1I/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】融災禁区・第3波・Ⅴ級警報（2026/08/06）",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-08-06T08:13:32Z",
+      "url": "https://www.youtube.com/watch?v=iCdLUxcu4SM",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/iCdLUxcu4SM/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

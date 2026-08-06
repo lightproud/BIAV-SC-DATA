@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
-  "archived_at": "2026-08-06T05:49:44.065148+00:00",
+  "archived_at": "2026-08-06T08:34:00.924814+00:00",
   "source": "bilibili",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[忘却前夜]关于偶像的八个问题",
@@ -92,6 +92,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/b6964bd9d7b28dea91ca149cb9b234c2bd53b17a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "欢迎回家",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-06T08:23:21+00:00",
+      "url": "https://www.bilibili.com/video/BV1Z4un6mESe",
+      "engagement": 34,
+      "is_hot": false,
+      "author": "三两米粉",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 34,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/7f760cc2207b329087b724b722794826e1129a7d.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
-  "archived_at": "2026-08-06T05:49:44.114216+00:00",
+  "archived_at": "2026-08-06T08:34:00.986954+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] i will never recover",
@@ -118,6 +118,54 @@
         "playtime_forever": 2158,
         "votes_up": 0,
         "timestamp_created": 1785986712
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 福利比国的好，靠，还隐藏上了",
+      "summary": "福利比国的好，靠，还隐藏上了",
+      "source": "steam_review",
+      "time": "2026-08-06T07:40:28+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199868526376/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199868526376",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 212,
+        "votes_up": 0,
+        "timestamp_created": 1786002028
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] G",
+      "summary": "G",
+      "source": "steam_review",
+      "time": "2026-08-06T05:20:15+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198247352436/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198247352436",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 716,
+        "votes_up": 0,
+        "timestamp_created": 1785993615
       },
       "region": "global",
       "archive_subtype": "review",
