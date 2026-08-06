@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "archived_at": "2026-08-05T22:13:37.801051+00:00",
+  "archived_at": "2026-08-06T02:23:34.577918+00:00",
   "source": "google_play",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[Google Play 差评] ★1 i have tried everything to enter this ga",
@@ -58,6 +58,20 @@
       "tags": [],
       "lang": "id",
       "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 I really love this game but i couldn't c",
+      "summary": "I really love this game but i couldn't continue because of the parent/guardian permission 😭",
+      "source": "google_play",
+      "time": "2026-08-05T02:22:02",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-0e2767fd-4739-4dc9-a7fe-2d086be2d935",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "XUREL",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],
