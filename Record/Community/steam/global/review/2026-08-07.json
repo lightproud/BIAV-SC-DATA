@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
-  "archived_at": "2026-08-07T12:59:50.844305+00:00",
+  "archived_at": "2026-08-07T15:57:47.818722+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "[正面] its like if magic made you sad",
@@ -118,6 +118,30 @@
         "playtime_forever": 2070,
         "votes_up": 0,
         "timestamp_created": 1786095485
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 好玩，美工和音乐都可以的，唯一缺点是没有国服（不过这画风和内容感觉不太可能了，可惜了）\n\n问一下这种...",
+      "summary": "好玩，美工和音乐都可以的，唯一缺点是没有国服（不过这画风和内容感觉不太可能了，可惜了）\n\n问一下这种怎么氪金啊，有没有靠谱一点的渠道？",
+      "source": "steam_review",
+      "time": "2026-08-07T14:06:18+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198682182681/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198682182681",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1015,
+        "votes_up": 0,
+        "timestamp_created": 1786111578
       },
       "region": "global",
       "archive_subtype": "review",

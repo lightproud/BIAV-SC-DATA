@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
-  "archived_at": "2026-08-07T12:59:50.762957+00:00",
+  "archived_at": "2026-08-07T15:57:47.759002+00:00",
   "source": "bilibili",
-  "item_count": 16,
+  "item_count": 19,
   "items": [
     {
       "title": "忘却前夜丨广播剧《原则》（CV：宫园美海）",
@@ -74,6 +74,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "【tk14 x 时摆组/meme】决战伦敦最美拉拉",
+      "summary": "-\n  └ 世界第一败犬殿下 (2赞): 我去老大，原来你也同时在吃tk14和时守组！我一直悄悄觉得这两对都很有骑士和国王的感觉，总有种似曾相识的味道[阿萨收藏集表情包_赞]\n  └ 奕奕艺艺 (1赞): 做得好好！！\n  └ 子昂-苏蝶 (0赞): 老师厉害",
+      "source": "bilibili",
+      "time": "2026-08-07T13:31:43+00:00",
+      "url": "https://www.bilibili.com/video/BV1qTuh63Er6",
+      "engagement": 260,
+      "is_hot": false,
+      "author": "保温傍晚bw",
+      "tags": [
+        "同人·手书"
+      ],
+      "metadata": {
+        "play": 252,
+        "comment_count": 8,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/10a363b50f73d7f99ada7c2a3ff4515b92df7910.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "［相位］轮选莫丝，大运来喽！",
       "summary": "-\n  └ Ann_0001 (1赞): 认真学习中[doge]\n  └ Ann_0001 (1赞): 首个币[打call]",
       "source": "bilibili",
@@ -138,6 +161,52 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/8f2d6a32e0a32df880a9f8d3d696a536255cf8db.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】大家都忘了这个复古阵容了吗？菲希诺奥轻取融灾3-5",
+      "summary": "-\n  └ 嘎啦嘎啦果 (0赞): 低等级学不来，血条就不够，看看就好了。\n本来想让茉夏当拐的，然后发现茉夏拐力还不如小骑士……\n菲神带入药是为了贪一张打击，骑士带入药应该更好，稳定易伤",
+      "source": "bilibili",
+      "time": "2026-08-07T13:48:40+00:00",
+      "url": "https://www.bilibili.com/video/BV1Rau86NEMk",
+      "engagement": 111,
+      "is_hot": false,
+      "author": "嘎啦嘎啦果",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 110,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/3a772e2c9348e76d1e86a3fc439f9aa920c24232.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】徐法希水满血通关2-5",
+      "summary": "-\n  └ 嘎啦嘎啦果 (0赞): 5-5灵机一动带了老头专，不咋的，3启徐还是老老实实带自己专武吧\n  └ 嘎啦嘎啦果 (0赞): 纯小品，看看就好，也就这个大木桩好使",
+      "source": "bilibili",
+      "time": "2026-08-07T13:42:30+00:00",
+      "url": "https://www.bilibili.com/video/BV15Yu86vEwc",
+      "engagement": 65,
+      "is_hot": false,
+      "author": "嘎啦嘎啦果",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 63,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/5fbba8f3599a8b54fe1472dd9d11cd0c83a6c2e2.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

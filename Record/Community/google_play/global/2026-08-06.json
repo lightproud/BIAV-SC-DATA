@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
-  "archived_at": "2026-08-07T12:59:50.928626+00:00",
+  "archived_at": "2026-08-07T15:57:47.888842+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 好评] ★5 amo este juego :D tiene muy buenos perso",
@@ -30,6 +30,34 @@
       "tags": [],
       "lang": "en",
       "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 中评] ★3 점점 한국어 번역이 된다고는 하는데 게임을 플레이 하다보면 번역 때문에",
+      "summary": "점점 한국어 번역이 된다고는 하는데 게임을 플레이 하다보면 번역 때문에 무슨 말을 하는지 알기 어려움. 고객센터 들어가보니 다 중국어라 읽을수도 없음. 재미나 캐디같은건 다 좋음. 전체 더빙은 일본어인데 잘 들어보면 하는 말과 번역된 말이 아예 안맞거나 어디가 빠지거나 함. 캐릭터가 존댓말을 하다가 갑자기 반말을 하니 캐릭터가 어떤 캐릭턴지 잘 이해가 안됨. 빨리 한국어 번역이 다 되서 하고싶음.",
+      "source": "google_play",
+      "time": "2026-08-06T14:12:12",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-10d44db0-1cf9-4410-9aad-ba12f73b9f0b",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "메론",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 freeze trus whitescreen.",
+      "summary": "freeze trus whitescreen.",
+      "source": "google_play",
+      "time": "2026-08-06T13:58:23",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-bbc0e943-b038-4309-9ca7-99139a7039a9",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Afandi Lot",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
       "region": "global"
     }
   ],

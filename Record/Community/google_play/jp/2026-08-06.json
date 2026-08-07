@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
-  "archived_at": "2026-08-07T07:13:58.100042+00:00",
+  "archived_at": "2026-08-07T15:57:47.903211+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 差评] ★2 再評価します...ガチャ履歴見れるのはありがたいですとても。でも185連SSR0",
@@ -13,6 +13,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Process Process",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "jp",
+      "region": "jp"
+    },
+    {
+      "title": "[Google Play 差评] ★2 アプリのクラッシュが酷すぎて、問い合わせても原因がわからないとの事で何してもダメ",
+      "summary": "アプリのクラッシュが酷すぎて、問い合わせても原因がわからないとの事で何してもダメでした。ご分に一回並にクラッシュが起きます",
+      "source": "google_play",
+      "time": "2026-08-06T14:21:42",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-ac361b79-c538-48a4-adf8-78e7d0b50503",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ピカチュウ",
       "tags": [],
       "lang": "ja",
       "platform_region": "jp",
