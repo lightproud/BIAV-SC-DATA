@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
-  "archived_at": "2026-08-06T23:59:04.798889+00:00",
+  "archived_at": "2026-08-07T02:38:46.199548+00:00",
   "source": "bilibili",
-  "item_count": 18,
+  "item_count": 21,
   "items": [
     {
       "title": "[忘却前夜]关于偶像的八个问题",
@@ -23,6 +23,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/405f3e1defce23927302833c1b87c6199ffc6292.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "「忘却前夜」8.3融灾425",
+      "summary": "也是吃上425了，全是数值没有操作Owo。玩蚀罗能绷住的可能是绷带了\n  └ 黑衣灬z (0赞): 萌新羡慕大佬能打过(另外我觉得肉夹馍加青椒挺好吃的[doge])",
+      "source": "bilibili",
+      "time": "2026-08-06T12:47:50+00:00",
+      "url": "https://www.bilibili.com/video/BV145up6eEbk",
+      "engagement": 190,
+      "is_hot": false,
+      "author": "肉夹馍里不要放青椒",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 189,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/c555d3ca545953717f087ff816c3097785581bcd.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -69,6 +92,52 @@
         "danmaku": 4
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/c54af3f45b690f05467994230c4e8f218b93e68a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】融灾全流程，拿完低保就走",
+      "summary": "这期比较简单，打的时候脑子发昏都过了。",
+      "source": "bilibili",
+      "time": "2026-08-06T12:46:16+00:00",
+      "url": "https://www.bilibili.com/video/BV1bgup6TEVr",
+      "engagement": 169,
+      "is_hot": false,
+      "author": "墨落北上",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 169,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/29ad70f6c02f90b6164b4487330b36827a5001ba.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "我根本不明白",
+      "summary": "-\n  └ 窝系天才小瑞 (0赞): 这歌叫啥呀[doge]\n  └ 哈基夏_romanticism (0赞): [打call]",
+      "source": "bilibili",
+      "time": "2026-08-06T12:43:45+00:00",
+      "url": "https://www.bilibili.com/video/BV1ggup6MEAQ",
+      "engagement": 122,
+      "is_hot": false,
+      "author": "耶路的ink",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 120,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/cc75b24dfbbe7d3f9d8a3c57c2e1d15511d2b0c3.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
