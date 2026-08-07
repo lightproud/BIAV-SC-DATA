@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-07",
+  "archived_at": "2026-08-07T04:55:23.600946+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] its like if magic made you sad",
+      "summary": "its like if magic made you sad",
+      "source": "steam_review",
+      "time": "2026-08-07T03:37:11+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199590290518/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199590290518",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 8786,
+        "votes_up": 0,
+        "timestamp_created": 1786073831
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
