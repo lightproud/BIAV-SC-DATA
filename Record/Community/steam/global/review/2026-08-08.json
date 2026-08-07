@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-08",
+  "archived_at": "2026-08-07T18:55:13.391090+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] 👍👍👍",
+      "summary": "👍👍👍",
+      "source": "steam_review",
+      "time": "2026-08-07T16:06:02+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198966076984/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198966076984",
+      "tags": [
+        "thai"
+      ],
+      "language": "thai",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 342,
+        "votes_up": 0,
+        "timestamp_created": 1786118762
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

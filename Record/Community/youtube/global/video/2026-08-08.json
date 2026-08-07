@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-08",
+  "archived_at": "2026-08-07T18:55:13.314336+00:00",
+  "source": "youtube",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "망각전야Morimens) (대리뽑,상담시청가능) 복각미리알아보기",
+      "summary": "망각전야 #Morimens #이터널리턴.",
+      "source": "youtube",
+      "time": "2026-08-07T16:35:13Z",
+      "url": "https://www.youtube.com/watch?v=Uh_Y6XZLIrA",
+      "engagement": 72,
+      "is_hot": false,
+      "author": "박현(Muyeong)",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/Uh_Y6XZLIrA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "THAIS 🫦  Vous connaissez ? Jeu free sur steam 🎮 #game #morimens #darkfantasy #tsundere #jrdmushu",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-07T18:42:53Z",
+      "url": "https://www.youtube.com/watch?v=00FJmh4giik",
+      "engagement": 7,
+      "is_hot": false,
+      "author": "Mushu",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/00FJmh4giik/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Having fun with Uvhash and Mouchette (with Saya assist) in Traphase",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-07T18:36:33Z",
+      "url": "https://www.youtube.com/watch?v=bsIK9-yvbqM",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Aijisuku",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/bsIK9-yvbqM/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "video"
+}
