@@ -1,12 +1,14 @@
 {
   "date": "2026-08-07",
-  "messages": 30,
+  "messages": 79,
   "unique_authors": 12,
-  "reactions_total": 6,
-  "attachments": 9,
+  "reactions_total": 11,
+  "attachments": 15,
   "channel_activity": {
-    "なんでも雑談": 11,
-    "🔰初心者質問": 9,
+    "なんでも雑談": 32,
+    "🔰初心者質問": 20,
+    "描いたもの": 1,
+    "つぶやき": 16,
     "誰でも質問": 1,
     "忘却前夜絵を密かに載せます": 1,
     "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 1,
@@ -14,14 +16,16 @@
     "誰でもOKグロ版野次馬スレ": 2
   },
   "hourly_activity": {
+    "3": 43,
+    "4": 9,
+    "5": 16,
     "0": 2,
     "1": 4,
-    "3": 19,
     "2": 5
   },
   "message_types": {
-    "0": 23,
-    "19": 7
+    "0": 71,
+    "19": 8
   },
   "top_reacted_messages": [
     {
@@ -31,6 +35,46 @@
       "author": "wataame3555",
       "reactions": 2,
       "channel": "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)"
+    },
+    {
+      "id": "1535134493847986186",
+      "channel_id": "1377478664609857647",
+      "content": "あ、あの謎に復活する雑魚は許せんw",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1535134757137031288",
+      "channel_id": "1377478664609857647",
+      "content": "",
+      "author": "yamaiame_ql4",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1535152109354229760",
+      "channel_id": "1458760640351965361",
+      "content": "なんだっけ\n||シャッガイ？||",
+      "author": "suzuri9701",
+      "reactions": 1,
+      "channel": "つぶやき"
+    },
+    {
+      "id": "1535152777280495677",
+      "channel_id": "1458760640351965361",
+      "content": "||~~推しけど仲間虫なれ不敬だわ~~||",
+      "author": "foxcatfurry",
+      "reactions": 1,
+      "channel": "つぶやき"
+    },
+    {
+      "id": "1535154566075650099",
+      "channel_id": "1458760640351965361",
+      "content": "ちなみにシャッガイの滅亡の原因はグロース\n||そのグロースの力の一部はポルのあの心臓(可能性高い推測)||",
+      "author": "foxcatfurry",
+      "reactions": 1,
+      "channel": "つぶやき"
     },
     {
       "id": "1535125163257888849",
