@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-07T18:55:13.314336+00:00",
+  "archived_at": "2026-08-07T21:39:13.446864+00:00",
   "source": "youtube",
-  "item_count": 3,
+  "item_count": 6,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능) 복각미리알아보기",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/Uh_Y6XZLIrA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "BIG BLACK WANDA DESTROYS PINK PANDIA (Morimens)",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-07T20:03:25Z",
+      "url": "https://www.youtube.com/watch?v=ymIL9xl4oVo",
+      "engagement": 14,
+      "is_hot": false,
+      "author": "Tamara Mel Ribeiro-Maria",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/ymIL9xl4oVo/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -39,6 +56,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Morimens Daffodil Investigation Everybody Hunting Heads",
+      "summary": "Stream almost daily whenever I have free time we multi-stream on twitch and only on twitch for things that might get us in trouble ...",
+      "source": "youtube",
+      "time": "2026-08-07T19:22:15Z",
+      "url": "https://www.youtube.com/watch?v=XqZ5CfHjLn0",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "FluffeyPanda's World",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/XqZ5CfHjLn0/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "[Morimens] Having fun with Uvhash and Mouchette (with Saya assist) in Traphase",
       "summary": "",
       "source": "youtube",
@@ -51,6 +85,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/bsIK9-yvbqM/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "WELCOME TO CHAPTER 2! | Morimens Chapter 2 Part 1 (New Lineups &amp; Pulls)",
+      "summary": "We have officially closed the book on Chapter 1 and are stepping into Chapter 2 of Morimens! Welcome back to the walkthrough ...",
+      "source": "youtube",
+      "time": "2026-08-07T19:00:27Z",
+      "url": "https://www.youtube.com/watch?v=IGoUk3Q9jRY",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "JJ Gamings",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/IGoUk3Q9jRY/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

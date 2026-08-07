@@ -1,0 +1,23 @@
+{
+  "date": "2026-08-07",
+  "archived_at": "2026-08-07T21:39:13.604864+00:00",
+  "source": "google_play",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 I love this game.",
+      "summary": "I love this game.",
+      "source": "google_play",
+      "time": "2026-08-06T19:04:20",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-0610315c-aa13-485a-bd9e-ebd4e73f80e5",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Crown Light",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

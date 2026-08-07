@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-07T18:55:13.391090+00:00",
+  "archived_at": "2026-08-07T21:39:13.520442+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] 👍👍👍",
@@ -22,6 +22,54 @@
         "playtime_forever": 342,
         "votes_up": 0,
         "timestamp_created": 1786118762
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 취향 맞으면 좋음",
+      "summary": "취향 맞으면 좋음",
+      "source": "steam_review",
+      "time": "2026-08-07T17:56:15+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199405519824/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199405519824",
+      "tags": [
+        "koreana"
+      ],
+      "language": "koreana",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 13818,
+        "votes_up": 0,
+        "timestamp_created": 1786125375
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] satu kata good",
+      "summary": "satu kata good",
+      "source": "steam_review",
+      "time": "2026-08-07T17:42:09+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199568264507/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199568264507",
+      "tags": [
+        "indonesian"
+      ],
+      "language": "indonesian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 541,
+        "votes_up": 0,
+        "timestamp_created": 1786124529
       },
       "region": "global",
       "archive_subtype": "review",
