@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
-  "archived_at": "2026-08-07T07:13:58.002181+00:00",
+  "archived_at": "2026-08-07T10:02:28.281163+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] its like if magic made you sad",
@@ -46,6 +46,54 @@
         "playtime_forever": 12212,
         "votes_up": 0,
         "timestamp_created": 1786077351
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 怎么说呢，抛开厂商可能有的问题，这个游戏的画风我很喜欢，然后福利也好，剧情也算可观，玩法主要是卡牌，...",
+      "summary": "怎么说呢，抛开厂商可能有的问题，这个游戏的画风我很喜欢，然后福利也好，剧情也算可观，玩法主要是卡牌，如果玩过卡厄斯梦境就知道大概玩法，不过还是有自己的特色，总之算是一款不错的游戏",
+      "source": "steam_review",
+      "time": "2026-08-07T09:06:35+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198688920087/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198688920087",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 498,
+        "votes_up": 0,
+        "timestamp_created": 1786093595
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] сая прикол",
+      "summary": "сая прикол",
+      "source": "steam_review",
+      "time": "2026-08-07T08:31:51+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199808898746/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199808898746",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 42,
+        "votes_up": 0,
+        "timestamp_created": 1786091511
       },
       "region": "global",
       "archive_subtype": "review",

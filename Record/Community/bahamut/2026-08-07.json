@@ -1,9 +1,22 @@
 {
   "date": "2026-08-07",
-  "archived_at": "2026-08-07T07:13:57.959617+00:00",
+  "archived_at": "2026-08-07T10:02:28.234780+00:00",
   "source": "bahamut",
-  "item_count": 23,
+  "item_count": 25,
   "items": [
+    {
+      "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-07T09:17:41.721551+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=938&tnum=253",
+      "engagement": 430,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
       "summary": "",
@@ -208,6 +221,19 @@
       "engagement": 11,
       "is_hot": false,
       "author": "jack01212537",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【情報】關於《忘卻前夜》營運主體變更通知",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-07T10:00:41.721584+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1519&tnum=1",
+      "engagement": 9,
+      "is_hot": false,
+      "author": "t12345825",
       "tags": [],
       "lang": "zh",
       "platform_region": "tw"

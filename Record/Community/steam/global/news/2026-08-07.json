@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-07",
+  "archived_at": "2026-08-07T10:02:28.282182+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam新闻] 🎧 V2.5.3 Radio Drama - Principles",
+      "summary": "\"My blade has starved for a worthy battle for far too long.\"\"I've offered you proof of my power. Await me...\"✦ Lotan: Cetarchon VA: Miyazono Miumi",
+      "source": "official",
+      "time": "2026-08-07T09:41:56+00:00",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314344436",
+      "engagement": 0,
+      "is_hot": true,
+      "author": "lqx02483534",
+      "tags": [
+        "Community Announcements"
+      ],
+      "region": "global",
+      "archive_subtype": "news",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "news"
+}
