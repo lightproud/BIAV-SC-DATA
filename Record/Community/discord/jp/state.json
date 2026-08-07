@@ -84,7 +84,7 @@
       "name": "フレンド募集（非表示）"
     },
     "1391701560496623688": {
-      "last_message_id": "1535296899169390655",
+      "last_message_id": "1535337887799975978",
       "name": "🔰初心者質問",
       "cold_started": true,
       "last_historical_message_id": "1378523440742400000",
@@ -387,7 +387,7 @@
       "last_message_id": "1531263700189712396"
     },
     "thread:1427166318645350450": {
-      "last_message_id": "1535323485730119760"
+      "last_message_id": "1535331190972612619"
     },
     "thread:1421053111648125011": {
       "last_message_id": "1516833489683611719"
@@ -1154,6 +1154,6 @@
     }
   },
   "historical_month": null,
-  "last_run": "2026-08-07T16:32:53.685700+00:00",
+  "last_run": "2026-08-07T19:38:05.851620+00:00",
   "history_backfill_complete": true
 }
