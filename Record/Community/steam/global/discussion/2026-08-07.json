@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
-  "archived_at": "2026-08-07T10:02:28.239373+00:00",
+  "archived_at": "2026-08-07T12:59:50.768865+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Steam论坛] Why so little players count ?",
@@ -13,6 +13,23 @@
       "engagement": 22,
       "is_hot": true,
       "author": "Loot_goblin_Lord",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] karen's AA",
+      "summary": "what does Karen's AA do? retaining her cards adds 'trigger this card twice effect' or all retained cards trigger automatically at the end of turn?",
+      "source": "steam_discussion",
+      "time": "2026-08-07T10:44:12+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/571540589652330524/",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "N-Zero",
       "tags": [
         "steam_forum"
       ],
