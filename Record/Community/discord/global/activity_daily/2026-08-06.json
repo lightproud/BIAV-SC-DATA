@@ -1,55 +1,87 @@
 {
   "date": "2026-08-06",
-  "messages": 2156,
-  "unique_authors": 203,
-  "reactions_total": 261,
-  "attachments": 128,
+  "messages": 8110,
+  "unique_authors": 298,
+  "reactions_total": 815,
+  "attachments": 385,
   "channel_activity": {
-    "🔸綜合討論": 188,
+    "🔸綜合討論": 659,
+    "🔸阵容构建": 8,
+    "🔸晒卡分享": 2,
+    "🔸课间休息闲聊": 56,
+    "🔸日本語チャンネル": 1,
+    "🔸한국어-채팅방": 14,
+    "🔸deutscher-chatraum": 7,
+    "🔸chaîne-française": 5,
+    "🔸русский-канал": 696,
+    "🔸phòng-chat-tiếng-việt": 855,
+    "🔸canal-español": 235,
+    "🔸canal-português": 375,
+    "🔸ruang-obrolan-indonesia": 103,
+    "🔸ห้องสนทนาภาษาไทย": 63,
+    "🔸traphase": 28,
+    "🔸lore-chat": 332,
+    "🔸lets-count": 15,
+    "🔸team-building": 873,
+    "🔸邀请码互助┊swap-invitation-codes": 16,
+    "🔸game-question": 3485,
+    "🔸游戏问题": 16,
+    "🔸机器人命令┊bot-commands": 64,
+    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 14,
+    "(((o(*ﾟ▽ﾟ*)o)))": 1,
+    "【OC】：貝托露娜": 6,
+    "sp蘿坦配音可否考慮回調": 3,
+    "Lotan: Cetarchon voice lines after update V2.5.3.3": 56,
+    "請問可以加一個怪物的圖鑑嗎？": 2,
+    "✅「已回答」汀克特bug": 4,
+    "Quadra / 4-Realm Rerun Banners": 6,
+    "Skin Preview": 5,
+    "Please rework how Propagation Caro works for the future units": 7,
+    "✅💭「沒解决完」再衍化未受到造成的狂氣提高效果加成的問題": 14,
+    "V2.5.3.3 在线维护公告": 19,
+    "V2.5.1.0 停服维护公告": 7,
+    "saschys doodle thread": 2,
+    "Saya no Uta x Morimens Collab Fan Art": 3,
+    "Vortice 🌀": 2,
+    "Clementine Quarantine": 1,
+    "morimens sybau 💔": 15,
+    "Stat Collection Spreadsheet": 2,
+    "Angbak random FAQ Guide": 1,
+    "【English Translation】Opinions Collection": 2,
+    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 1,
+    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 2,
     "🔸相位对弈": 11,
-    "🔸课间休息闲聊": 29,
-    "🔸한국어-채팅방": 2,
-    "🔸русский-канал": 38,
-    "🔸phòng-chat-tiếng-việt": 106,
-    "🔸canal-español": 179,
-    "🔸canal-português": 49,
-    "🔸ruang-obrolan-indonesia": 70,
-    "🔸ห้องสนทนาภาษาไทย": 22,
-    "🔸traphase": 10,
-    "🔸lore-chat": 82,
-    "🔸lets-count": 7,
-    "🔸team-building": 177,
-    "🔸邀请码互助┊swap-invitation-codes": 8,
-    "🔸game-question": 1079,
-    "🔸游戏问题": 5,
-    "🔸机器人命令┊bot-commands": 31,
-    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 1,
     "日服的新角色竟然是莉莉妈？": 1,
     "Stuck in stealth attack": 1,
     "Cards Visually Stuck During Fight Records": 1,
     "Additional Record Filters": 1,
     "Amber-Tinted Death does not benefit from PChaos stat enhancement": 1,
     "A humble suggestion regarding GLotan's pursuit": 1,
-    "Quadra / 4-Realm Rerun Banners": 3,
-    "Skin Preview": 1,
-    "Please rework how Propagation Caro works for the future units": 5,
-    "✅💭「沒解决完」再衍化未受到造成的狂氣提高效果加成的問題": 9,
-    "V2.5.3.3 在线维护公告": 12,
-    "V2.5.1.0 停服维护公告": 4,
-    "Saya no Uta x Morimens Collab Fan Art": 1,
     "the WORST dumpcorner of the hameln glazer": 1,
     "Elton WIP": 2,
     "hameln’s big blue??? teal??? orbs": 2,
     "Classical Music Time": 1,
     "Ham": 1,
     "Arachne wip": 1,
-    "morimens sybau 💔": 9,
-    "Stat Collection Spreadsheet": 1,
     "Morimens New Player Handbook by Cheri [V2.5 UGC Contest]": 1,
-    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1,
     "想請問如何組隊...": 1
   },
   "hourly_activity": {
+    "9": 388,
+    "10": 258,
+    "11": 365,
+    "12": 921,
+    "13": 694,
+    "14": 823,
+    "15": 655,
+    "16": 418,
+    "17": 310,
+    "18": 324,
+    "19": 413,
+    "20": 245,
+    "21": 182,
+    "22": 119,
+    "23": 60,
     "0": 235,
     "1": 283,
     "2": 177,
@@ -58,16 +90,24 @@
     "5": 147,
     "6": 159,
     "7": 134,
-    "8": 249,
-    "9": 221
+    "8": 249
   },
   "message_types": {
-    "0": 1632,
-    "19": 508,
-    "20": 13,
+    "0": 5994,
+    "19": 2079,
+    "23": 2,
+    "20": 32,
     "4": 3
   },
   "top_reacted_messages": [
+    {
+      "id": "1534858900522664026",
+      "channel_id": "1534858900522664026",
+      "content": "Was there a reason for them to be changed? \nI have to be honest, at least in my ",
+      "author": "sirtealot",
+      "reactions": 19,
+      "channel": "Lotan: Cetarchon voice lines after update V2.5.3.3"
+    },
     {
       "id": "1534808033648181409",
       "channel_id": "1131839817982947429",
@@ -85,12 +125,76 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1534936910697467954",
+      "channel_id": "1326453763355185215",
+      "content": "don't forget me turning up every month to go \"i can see they are referencing thi",
+      "author": "reya.li",
+      "reactions": 10,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1534975462265065632",
+      "channel_id": "1534975462265065632",
+      "content": "im 2 lazy 2 make a post each time i share stuff so im just gonna throw stuff in ",
+      "author": "saschy123",
+      "reactions": 10,
+      "channel": "saschys doodle thread"
+    },
+    {
+      "id": "1535007692056428635",
+      "channel_id": "1535007692056428635",
+      "content": "画了守密人( ´▽` )ﾉ",
+      "author": "yang_86591",
+      "reactions": 9,
+      "channel": "(((o(*ﾟ▽ﾟ*)o)))"
+    },
+    {
+      "id": "1535000806263099524",
+      "channel_id": "1535000394927702128",
+      "content": "这次措辞修正的确带来了一些问题，我们会考虑如何处理的，谢谢反馈。",
+      "author": "lightproud",
+      "reactions": 8,
+      "channel": "sp蘿坦配音可否考慮回調"
+    },
+    {
       "id": "1534730641034444864",
       "channel_id": "1131839817982947429",
       "content": "有沒有大佬可以帶帶我",
       "author": "a_wei3797",
       "reactions": 8,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534873103778189472",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "polkarain",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534873592343433269",
+      "channel_id": "1131839817982947429",
+      "content": "因为我看了黄历今天不宜打融灾",
+      "author": "ling_an_",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534994156156489948",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "gensono0609",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534971682282803381",
+      "channel_id": "1300659662311526512",
+      "content": "",
+      "author": "duxadidus",
+      "reactions": 7,
+      "channel": "🔸canal-español"
     },
     {
       "id": "1534803903529615461",
@@ -109,6 +213,38 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1534877157082398900",
+      "channel_id": "1131839817982947429",
+      "content": "对啊",
+      "author": "ling_an_",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534898468554801323",
+      "channel_id": "1131839817982947429",
+      "content": "~~在思考祝福你玩一辈子忘却前夜是祝福还是厄咒~~",
+      "author": "kemomimi_",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534932207041515660",
+      "channel_id": "1433513650299076780",
+      "content": "",
+      "author": "astralismirabella",
+      "reactions": 6,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1534944252532883729",
+      "channel_id": "1433513650299076780",
+      "content": "100<:Brown_think:1459080117308620996>",
+      "author": "arem0972",
+      "reactions": 6,
+      "channel": "🔸game-question"
+    },
+    {
       "id": "1534729871408758784",
       "channel_id": "1131839817982947429",
       "content": "有沒有大佬可以帶帶我",
@@ -123,110 +259,6 @@
       "author": "ling_an_",
       "reactions": 6,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534779455233458246",
-      "channel_id": "1131839817982947429",
-      "content": "有沒有帶帶可以大佬我",
-      "author": "ling_an_",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534821233059696691",
-      "channel_id": "1131839817982947429",
-      "content": "因為詞條「發現」為隨機取出三個，並且選擇一個",
-      "author": "luna_.90",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534730991434989689",
-      "channel_id": "1131839817982947429",
-      "content": "有沒有帶帶可以大佬我",
-      "author": "ernest_heart",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534801572096249897",
-      "channel_id": "1131839817982947429",
-      "content": "小米是個善良的好朋友\n能一次性交很多朋友\n他以前很不容易\n可能吃過很多打擊吧\n早年他家庭條件並不好\n為了餵家裡的牛\n每天上山背筐草\n讀書也沒有天賦\n每次考試都被",
-      "author": "ernest_heart",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534818573510512700",
-      "channel_id": "1326453763355185215",
-      "content": "Her wax hair is honestly a really cool and well done design choice in her splash",
-      "author": "stormimi",
-      "reactions": 4,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1534801749662109696",
-      "channel_id": "1131839817982947429",
-      "content": "现在好像是 先选一个造物进战斗再退出调查\n就能刷新了",
-      "author": "ling_an_",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534805294880784524",
-      "channel_id": "1131839817982947429",
-      "content": "早上6點打完了",
-      "author": "a_wei3797",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534827745463238706",
-      "channel_id": "1131839817982947429",
-      "content": "以前搜到這張",
-      "author": "heikwok",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534829913440387246",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "ernest_heart",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534848281191120946",
-      "channel_id": "1131839817982947429",
-      "content": "嚇暈還視奸",
-      "author": "annabelle0868",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534733695146135634",
-      "channel_id": "1400749543288475770",
-      "content": "the template I'm using is https://tiermaker.com/create/morimens-awakeners-tier-l",
-      "author": "kataharaitai",
-      "reactions": 3,
-      "channel": "🔸team-building"
-    },
-    {
-      "id": "1534770165240172664",
-      "channel_id": "1400749543288475770",
-      "content": "Pandia was always one of the easiest bosses because she gets hard-countered by, ",
-      "author": "ashd3x",
-      "reactions": 3,
-      "channel": "🔸team-building"
-    },
-    {
-      "id": "1534785179678281758",
-      "channel_id": "1433513650299076780",
-      "content": "To play counter wanda",
-      "author": "polkarain",
-      "reactions": 3,
-      "channel": "🔸game-question"
     }
   ]
 }

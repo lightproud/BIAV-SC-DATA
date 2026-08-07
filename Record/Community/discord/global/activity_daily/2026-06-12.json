@@ -1,11 +1,11 @@
 {
   "date": "2026-06-12",
-  "messages": 33233,
+  "messages": 38233,
   "unique_authors": 554,
-  "reactions_total": 3962,
-  "attachments": 1614,
+  "reactions_total": 7390,
+  "attachments": 1911,
   "channel_activity": {
-    "🔸morimens-game-chat": 5804,
+    "🔸morimens-game-chat": 10804,
     "🔸game-question": 5839,
     "🔸general-chat": 6542,
     "🔸綜合討論": 4184,
@@ -87,6 +87,13 @@
     "GMurphy Main DPS Lemurian team": 5
   },
   "hourly_activity": {
+    "12": 3765,
+    "13": 3652,
+    "14": 2281,
+    "15": 1634,
+    "16": 1511,
+    "17": 2338,
+    "18": 1895,
     "2": 1303,
     "3": 1263,
     "4": 1467,
@@ -97,15 +104,8 @@
     "9": 962,
     "10": 1674,
     "11": 1115,
-    "12": 3549,
     "0": 514,
     "1": 859,
-    "13": 2350,
-    "14": 1484,
-    "15": 740,
-    "16": 753,
-    "17": 1330,
-    "18": 1870,
     "19": 1345,
     "20": 1286,
     "21": 1257,
@@ -113,12 +113,28 @@
     "23": 449
   },
   "message_types": {
-    "0": 5996,
-    "19": 2757,
-    "20": 18,
+    "0": 8488,
+    "19": 5257,
+    "20": 26,
     "46": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1515036317363212439",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "lightproud",
+      "reactions": 403,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1515036357414883389",
+      "channel_id": "1170692781216378960",
+      "content": "Sorry there were some issues during our earlier live stream attempt! Here’s the ",
+      "author": "lightproud",
+      "reactions": 391,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1514973310629449899",
       "channel_id": "1170692781216378960",
@@ -136,11 +152,27 @@
       "channel": "🐱light’s-nest"
     },
     {
+      "id": "1514975495215648788",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "dljam",
+      "reactions": 101,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1514972859124945006",
       "channel_id": "1170692781216378960",
       "content": "https://discord.gg/rUEc34aTK",
       "author": "lightproud",
       "reactions": 94,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1514975701265154068",
+      "channel_id": "1170692781216378960",
+      "content": "breeding william >>> breeding ramona",
+      "author": "sp.haru",
+      "reactions": 85,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -152,11 +184,75 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1514975834346360965",
+      "channel_id": "1170692781216378960",
+      "content": "https://giphy.com/gifs/william-morimens-gaglUxDlewk5gtqVeW",
+      "author": "exodiapart",
+      "reactions": 52,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1514975576765628566",
+      "channel_id": "1170692781216378960",
+      "content": "Idk who ping but I hope we all breeding ramona ❤️ \nBye chat",
+      "author": "zdd.2345",
+      "reactions": 44,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1514974406538035223",
       "channel_id": "1170692781216378960",
       "content": "# for those curious - light is showing us someone playing a theme from morimens ",
       "author": "chimorph",
       "reactions": 40,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1514975910619648172",
+      "channel_id": "1170692781216378960",
+      "content": "being bred by william",
+      "author": "quirk6009",
+      "reactions": 26,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1514981867684888737",
+      "channel_id": "1170692781216378960",
+      "content": "Ok so \n\n1. Someone playing Morimens music\n2. Game producer ats everyone to liste",
+      "author": "fairlysadpanda",
+      "reactions": 26,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1514978060301242399",
+      "channel_id": "1170692781216378960",
+      "content": ">ping everyone\n>live camera\n>perform what Hameln can't achieve (we don't even he",
+      "author": "wawainsfellas",
+      "reactions": 23,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1514980093129265162",
+      "channel_id": "1170692781216378960",
+      "content": "who pinged? i got pregnant",
+      "author": "lilmonix03",
+      "reactions": 22,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1514975998188458135",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "tnimreppep",
+      "reactions": 21,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1514978180556001381",
+      "channel_id": "1170692781216378960",
+      "content": "I'm new but i already love you all",
+      "author": "remnokishi",
+      "reactions": 21,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -168,115 +264,19 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1514973372583252082",
+      "id": "1514980284620210217",
       "channel_id": "1170692781216378960",
-      "content": "LET ME GOON",
-      "author": "joyfulwamo",
-      "reactions": 16,
+      "content": "I tried drawing Sanga but I suck at it and it hurt my fingers",
+      "author": "h.llspawn",
+      "reactions": 19,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1514974821568610314",
+      "id": "1514992155133743164",
       "channel_id": "1170692781216378960",
-      "content": "猫开超维空间了",
-      "author": "meshupota",
-      "reactions": 16,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1514974959049511023",
-      "channel_id": "1170692781216378960",
-      "content": "WHY IS IT SUDDENLY SO MANY PPL HERE",
-      "author": "vict0598",
-      "reactions": 15,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1514851529209810944",
-      "channel_id": "1433513650299076780",
-      "content": "How long will it take f2p to complete all chapters in arc 1 and arc2 with hard m",
-      "author": "rs1506",
-      "reactions": 15,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1514974751481663508",
-      "channel_id": "1170692781216378960",
-      "content": "https://giphy.com/gifs/william-morimens-gaglUxDlewk5gtqVeW",
-      "author": "4lllu",
-      "reactions": 14,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1514975588761206905",
-      "channel_id": "1131839817982947429",
-      "content": "我不是0所以不能进去吗",
-      "author": "dittoqwq",
-      "reactions": 13,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1514982586294993099",
-      "channel_id": "1131839817982947429",
-      "content": "大家好，由于网络原因，我们关闭了直播，之后会发布完整版的视频❤️",
-      "author": "morimensstaff03",
-      "reactions": 13,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1514974793542144121",
-      "channel_id": "1170692781216378960",
-      "content": "https://tenor.com/view/hong-lu-limbus-company-trying-not-to-laugh-gif-3683825521",
-      "author": "tourmalinee",
-      "reactions": 12,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1514844937882173571",
-      "channel_id": "1514844937882173571",
-      "content": "hi have a rat",
-      "author": "fishhazardthewizard",
-      "reactions": 12,
-      "channel": "rat :3"
-    },
-    {
-      "id": "1514975019984224337",
-      "channel_id": "1170692781216378960",
-      "content": "ONE PING GOT US CHAOS",
-      "author": "trashsenpai.",
-      "reactions": 11,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1515134447379419247",
-      "channel_id": "1515134447379419247",
-      "content": "https://x.com/i/status/2065417875418927332\n\nhttps://bsky.app/profile/kosova404.b",
-      "author": "kosova404",
-      "reactions": 11,
-      "channel": "🌱 Sprout 🌱"
-    },
-    {
-      "id": "1514951159960309920",
-      "channel_id": "1514951159960309920",
-      "content": "for the event #V2.5同人征集# I made a Indonesian cover of Song of Memento !!\nhttps:/",
-      "author": "clozer.interrogator",
-      "reactions": 10,
-      "channel": "Song of Memento Indonesian Cover"
-    },
-    {
-      "id": "1514899866055086182",
-      "channel_id": "1170692781216378960",
-      "content": "https://tenor.com/view/twin-divus-twins-castor-pollux-morimens-gif-7457537628000",
-      "author": "dolchemana",
-      "reactions": 9,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1514975017538945125",
-      "channel_id": "1170692781216378960",
-      "content": "Mpreg",
-      "author": "moge_kotan",
-      "reactions": 9,
+      "content": "<@633215996508766229>",
+      "author": "dyssayah",
+      "reactions": 19,
       "channel": "🔸morimens-game-chat"
     }
   ]

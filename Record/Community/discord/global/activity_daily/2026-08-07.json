@@ -1,0 +1,225 @@
+{
+  "date": "2026-08-07",
+  "messages": 1947,
+  "unique_authors": 196,
+  "reactions_total": 185,
+  "attachments": 135,
+  "channel_activity": {
+    "🔸綜合討論": 271,
+    "🔸课间休息闲聊": 105,
+    "🔸日本語チャンネル": 2,
+    "🔸deutscher-chatraum": 2,
+    "🔸русский-канал": 7,
+    "🔸phòng-chat-tiếng-việt": 62,
+    "🔸canal-español": 32,
+    "🔸canal-português": 8,
+    "🔸ruang-obrolan-indonesia": 252,
+    "🔸ห้องสนทนาภาษาไทย": 41,
+    "🔸traphase": 105,
+    "🔸lore-chat": 56,
+    "🔸lets-count": 5,
+    "🔸team-building": 56,
+    "🔸邀请码互助┊swap-invitation-codes": 8,
+    "🔸game-question": 876,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 19,
+    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 1,
+    "这次修改运营主体影响大嘛": 1,
+    "sp蘿坦配音可否考慮回調": 4,
+    "Lotan: Cetarchon voice lines after update V2.5.3.3": 10,
+    "Quadra / 4-Realm Rerun Banners": 2,
+    "能不能把自動戰鬥的按鈕隱藏起來": 2,
+    "V2.5.1.0 停服维护公告": 6,
+    "关于游戏自造语：古代利莫里亚语": 1,
+    "Saya/Aurita/Sanga/Thais": 1,
+    "the WORST dumpcorner of the hameln glazer": 2,
+    "morimens team generator!!": 1,
+    "【English Translation】Opinions Collection": 1,
+    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1,
+    "🏆 忘却前夜第4届N厨杯┊The 4th 「N」′s Chef Cup of Morimens": 2,
+    "回鍋約一個月陣容組成": 1,
+    "Team advice/suggestion": 2,
+    "1535097848469655632": 1
+  },
+  "hourly_activity": {
+    "0": 129,
+    "1": 262,
+    "2": 331,
+    "3": 140,
+    "4": 243,
+    "5": 126,
+    "6": 291,
+    "7": 356,
+    "8": 69
+  },
+  "message_types": {
+    "0": 1345,
+    "19": 589,
+    "23": 1,
+    "20": 10,
+    "6": 1,
+    "21": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1535187344368607283",
+      "channel_id": "1131839817982947429",
+      "content": "呃呃 開凹",
+      "author": "nemu_s_t_a_r",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535124590337204236",
+      "channel_id": "1433513650299076780",
+      "content": "just one more and i am free to go back to digging for charas",
+      "author": "hikarimew",
+      "reactions": 6,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1535148687762919434",
+      "channel_id": "1131839817982947429",
+      "content": "<@985933785340186704> ?",
+      "author": "a._0320",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535192564599095426",
+      "channel_id": "1433513650299076780",
+      "content": "for now, this is my team, ignore the covenants <:Horla_cry:1357186646294138890>",
+      "author": "khryiis",
+      "reactions": 5,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1535133097912303676",
+      "channel_id": "1534858900522664026",
+      "content": "exalt:\nMaw of Hell(stating it as an object), opened and waiting > Maw of Hell(ad",
+      "author": "watchthew0rldburn",
+      "reactions": 4,
+      "channel": "Lotan: Cetarchon voice lines after update V2.5.3.3"
+    },
+    {
+      "id": "1535181169350545418",
+      "channel_id": "1300659603993923644",
+      "content": "build   như bạn này là đc",
+      "author": "mrmot347",
+      "reactions": 3,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1535109543053496340",
+      "channel_id": "1300659802455674972",
+      "content": "",
+      "author": "2ndselna",
+      "reactions": 3,
+      "channel": "🔸ห้องสนทนาภาษาไทย"
+    },
+    {
+      "id": "1535155401547317319",
+      "channel_id": "1300659802455674972",
+      "content": "",
+      "author": "2ndselna",
+      "reactions": 3,
+      "channel": "🔸ห้องสนทนาภาษาไทย"
+    },
+    {
+      "id": "1535108509362819072",
+      "channel_id": "1326453763355185215",
+      "content": "I think they like the game",
+      "author": "arsenyx_9999",
+      "reactions": 3,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1535193835754365069",
+      "channel_id": "1433513650299076780",
+      "content": "Double-Play per each Arith consumed",
+      "author": "snorlax01",
+      "reactions": 3,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1535196215044603956",
+      "channel_id": "1433513650299076780",
+      "content": "i think i did every one of those with pollux oe",
+      "author": "wuyan_kana",
+      "reactions": 3,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1535197141499387904",
+      "channel_id": "1433513650299076780",
+      "content": "Consider voting",
+      "author": "snorlax01",
+      "reactions": 3,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1535126993820188752",
+      "channel_id": "1535000394927702128",
+      "content": "个人觉得日文原版其实没问题，语气很有魄力，陈述性的措辞在日文也更显得非同凡人，感觉更适合目前为止的人设",
+      "author": "watchthew0rldburn",
+      "reactions": 3,
+      "channel": "sp蘿坦配音可否考慮回調"
+    },
+    {
+      "id": "1535181378906230854",
+      "channel_id": "1535181378906230854",
+      "content": "First humanoid artwork I've done in *years*. Been playing a ton with the above t",
+      "author": "ifrix",
+      "reactions": 3,
+      "channel": "Saya/Aurita/Sanga/Thais"
+    },
+    {
+      "id": "1535183591968088129",
+      "channel_id": "1131839817982947429",
+      "content": "不三天后<:Helot_slack_off:1459092159465521184>",
+      "author": "annabelle0868",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535184553549762643",
+      "channel_id": "1131839817982947429",
+      "content": "然后我趁他不注意蓄力了一下直接吐他脸上了",
+      "author": "jiangyu3454",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535090948458156032",
+      "channel_id": "1181152750319456266",
+      "content": "接哑谜泳装",
+      "author": "encyoverride",
+      "reactions": 2,
+      "channel": "🔸课间休息闲聊"
+    },
+    {
+      "id": "1535091459139571824",
+      "channel_id": "1181152750319456266",
+      "content": "给你点钱摘了吧 别坏死感染了❤️",
+      "author": "encyoverride",
+      "reactions": 2,
+      "channel": "🔸课间休息闲聊"
+    },
+    {
+      "id": "1535145348803207178",
+      "channel_id": "1181152750319456266",
+      "content": "保咪協議",
+      "author": "ahong0727",
+      "reactions": 2,
+      "channel": "🔸课间休息闲聊"
+    },
+    {
+      "id": "1535136823276339262",
+      "channel_id": "1300659603993923644",
+      "content": "Thời tới:))",
+      "author": "khaduong2211._85445",
+      "reactions": 2,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    }
+  ]
+}
