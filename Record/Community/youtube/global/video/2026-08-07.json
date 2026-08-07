@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
-  "archived_at": "2026-08-07T04:55:23.557086+00:00",
+  "archived_at": "2026-08-07T07:13:57.959064+00:00",
   "source": "youtube",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "Хранитель, доверьcя Лили! 🗝#Morimens #cardbuilder #gacha #genshinimpact",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/oRm5-MM79aM/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Extremely short stream. Testing one more version of story mode comp.",
+      "summary": "Don't know how long. Will be doing other stuff too.",
+      "source": "youtube",
+      "time": "2026-08-07T05:01:48Z",
+      "url": "https://www.youtube.com/watch?v=PxTOcyulGWs",
+      "engagement": 152,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/PxTOcyulGWs/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

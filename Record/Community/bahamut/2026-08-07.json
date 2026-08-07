@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
-  "archived_at": "2026-08-07T04:55:23.557632+00:00",
+  "archived_at": "2026-08-07T07:13:57.959617+00:00",
   "source": "bahamut",
-  "item_count": 22,
+  "item_count": 23,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -260,6 +260,19 @@
       "engagement": 3,
       "is_hot": false,
       "author": "jack01212537",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【站方公告】巴哈姆特 30 週年《生日賀圖＆日誌徵稿》截稿倒數 7 天！限定勳章與周邊等你拿",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-07T07:12:19.502215+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=60146&snA=7654&tnum=1",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "bahahome",
       "tags": [],
       "lang": "zh",
       "platform_region": "tw"
