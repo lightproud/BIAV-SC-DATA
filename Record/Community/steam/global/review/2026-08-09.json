@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-09",
+  "archived_at": "2026-08-08T21:30:11.289491+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[正面] no idea what the story is BUT i love gambling (yes...",
+      "summary": "no idea what the story is BUT i love gambling (yes i cant read im a limbus player)",
+      "source": "steam_review",
+      "time": "2026-08-08T19:13:14+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198435327658/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198435327658",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 897,
+        "votes_up": 0,
+        "timestamp_created": 1786216394
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 登場人物とストーリーが大好きです。",
+      "summary": "登場人物とストーリーが大好きです。",
+      "source": "steam_review",
+      "time": "2026-08-08T17:22:42+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198669122344/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198669122344",
+      "tags": [
+        "japanese"
+      ],
+      "language": "japanese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 12,
+        "votes_up": 0,
+        "timestamp_created": 1786209762
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
