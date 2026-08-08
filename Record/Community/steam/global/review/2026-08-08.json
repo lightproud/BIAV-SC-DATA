@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-08T09:37:44.314348+00:00",
+  "archived_at": "2026-08-08T12:44:20.409765+00:00",
   "source": "steam",
-  "item_count": 8,
+  "item_count": 9,
   "items": [
     {
       "title": "[正面] 👍👍👍",
@@ -190,6 +190,30 @@
         "playtime_forever": 528,
         "votes_up": 0,
         "timestamp_created": 1786166643
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 好玩",
+      "summary": "好玩",
+      "source": "steam_review",
+      "time": "2026-08-08T10:32:48+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198783730343/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198783730343",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 274,
+        "votes_up": 0,
+        "timestamp_created": 1786185168
       },
       "region": "global",
       "archive_subtype": "review",
