@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-07T21:39:13.520442+00:00",
+  "archived_at": "2026-08-08T01:23:09.955606+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 6,
   "items": [
     {
       "title": "[正面] 👍👍👍",
@@ -70,6 +70,78 @@
         "playtime_forever": 541,
         "votes_up": 0,
         "timestamp_created": 1786124529
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] A game where the story of the studio behind it is...",
+      "summary": "A game where the story of the studio behind it is pretty much as important to the narrative than the main narrative itself, its incredible that this game managed to come back from oblivion after getting fully ready to shut down and now still be here today, alive and kicking",
+      "source": "steam_review",
+      "time": "2026-08-08T00:21:32+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198054925091/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198054925091",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3135,
+        "votes_up": 0,
+        "timestamp_created": 1786148492
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 10/10 would recommend",
+      "summary": "10/10 would recommend",
+      "source": "steam_review",
+      "time": "2026-08-07T23:33:33+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198169884947/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198169884947",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 7051,
+        "votes_up": 0,
+        "timestamp_created": 1786145613
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] The art, story and gameplay are great!",
+      "summary": "The art, story and gameplay are great!",
+      "source": "steam_review",
+      "time": "2026-08-07T23:15:08+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198881976606/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198881976606",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1673,
+        "votes_up": 0,
+        "timestamp_created": 1786144508
       },
       "region": "global",
       "archive_subtype": "review",

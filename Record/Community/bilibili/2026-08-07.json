@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
-  "archived_at": "2026-08-07T21:39:13.443476+00:00",
+  "archived_at": "2026-08-08T01:23:09.874421+00:00",
   "source": "bilibili",
-  "item_count": 19,
+  "item_count": 20,
   "items": [
     {
       "title": "忘却前夜丨广播剧《原则》（CV：宫园美海）",
@@ -161,6 +161,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/8f2d6a32e0a32df880a9f8d3d696a536255cf8db.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "不好孩子们要死了，唉？骗你的",
+      "summary": "加强鸟弟，都退环境了\n  └ 燃え落ちない翼 (1赞): 这打的困难哪一章啊，我困难忘却还在母树那里，星辰都推到第五章了，主要阿拉C在忘却篇裁断被削的太厉害就不想玩了，没专塑确实烦[小A和小B_低头][小A和小B_低头]\n  └ 浪沫之翻涌 (1赞): 话说你为什么不打织造衍生卡？那个吃了之后阿拉克涅开大会有伤害很高的追击\n而且你这一回合不会死，有死抗\n  └ 住在可能性之中 (0赞): 前面太卡了我的问题[笑哭]",
+      "source": "bilibili",
+      "time": "2026-08-07T12:15:33+00:00",
+      "url": "https://www.bilibili.com/video/BV1yiuh6HEen",
+      "engagement": 113,
+      "is_hot": false,
+      "author": "住在可能性之中",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 106,
+        "comment_count": 7,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/c1ff97dca2bb293ab2b836e5e83e3ee25332ba04.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

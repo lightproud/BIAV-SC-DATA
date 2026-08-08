@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-07T21:39:13.448271+00:00",
+  "archived_at": "2026-08-08T01:23:09.878644+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "【忘却前夜】三启24过融灾5-5全流程",
@@ -23,6 +23,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/ba666d74f0c0d30e05ab63cd1a139d5f4d276f83.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】大数字？大数字！",
+      "summary": "好久没给牢尤凹分了，浅浅一试）\n进门状态做好了的话千万肯定没问题，懒得继续凹了\n尤乌能吃满神超特性）\n虽然尤乌10张0c无视算力调和不会在进空间被重置，但进空间本身会重置调和），空间里就5张牌5算力，基本打不完，相当于剩下的那五六七八张空位可以自由打0c，怎么不算尤乌0c重置呢）\n有一说一只考虑打大数字，道中是真的区啊，完美体现我尤一碰就碎的特性（，还是正常配队玩起来舒服\n  └ iq2233 (1赞): 老大好强[打call]",
+      "source": "bilibili",
+      "time": "2026-08-08T00:01:22+00:00",
+      "url": "https://www.bilibili.com/video/BV1GVuK6cESE",
+      "engagement": 18,
+      "is_hot": false,
+      "author": "跳段木偶舞",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 17,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/8d2026c5025653c03e2e4cbdeed702d8f5115626.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

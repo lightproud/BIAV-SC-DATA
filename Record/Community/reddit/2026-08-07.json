@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
-  "archived_at": "2026-08-07T12:59:50.841744+00:00",
+  "archived_at": "2026-08-08T01:23:09.953196+00:00",
   "source": "reddit",
-  "item_count": 16,
+  "item_count": 18,
   "items": [
     {
       "title": "Hameln by @mistyfish0809",
@@ -279,6 +279,42 @@
       "metadata": {
         "via": "rss"
       },
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Keeper mid conversation",
+      "summary": "Yup I&#39;m the owner of these drawings   &#32; submitted by &#32;  /u/zuizzzzzzz   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-07T13:38:34+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vi0wxf/keeper_mid_conversation/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/zuizzzzzzz",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/5siwfiurhyhh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=cb151c9b42be96b55de3e360f4f8496dd73c5b88",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "I folded",
+      "summary": "Last post I wondered if I should get her e3 or wait for mouchette,needless to say I couldn&#39;t wait  &#32; submitted by &#32;  /u/thebindingofcat   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-07T14:27:47+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vi25i0/i_folded/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/thebindingofcat",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/qzonx9hkqyhh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=83fb6a72083c8dedff70b6d089e713c5b2986169",
+      "content_type": "image",
       "lang": "en",
       "platform_region": "global"
     }

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-07T21:39:13.446864+00:00",
+  "archived_at": "2026-08-08T01:23:09.877888+00:00",
   "source": "youtube",
-  "item_count": 6,
+  "item_count": 9,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능) 복각미리알아보기",
@@ -73,6 +73,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "I Was NOT Ready For 24! | Morimens Ep. 8",
+      "summary": "Welcome back to Morimens! In Episode 8, we dive into Chapter 2-4 where we officially meet and battle the enigmatic character 24.",
+      "source": "youtube",
+      "time": "2026-08-07T22:00:00Z",
+      "url": "https://www.youtube.com/watch?v=a9j8CP-P6PM",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Dread Tmrw",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/a9j8CP-P6PM/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "[Morimens] Having fun with Uvhash and Mouchette (with Saya assist) in Traphase",
       "summary": "",
       "source": "youtube",
@@ -102,6 +119,40 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/IGoUk3Q9jRY/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Ch. 8 (8.11, 8.12)",
+      "summary": "CapCut I made this amazing video with CapCut. Open the link to try it out: capcut.com/tools/desktop-video-editor.",
+      "source": "youtube",
+      "time": "2026-08-08T00:41:06Z",
+      "url": "https://www.youtube.com/watch?v=8k9bnz9PLnk",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "J3w3lz4nn",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/8k9bnz9PLnk/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Two hundred-twenty-fifth Stream: Morimens",
+      "summary": "Kick: https://kick.com/arkblight Twitch: https://www.twitch.tv/arkblight.",
+      "source": "youtube",
+      "time": "2026-08-07T22:27:12Z",
+      "url": "https://www.youtube.com/watch?v=L58NvzmRhKA",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Arkblight",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/L58NvzmRhKA/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
