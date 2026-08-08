@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-08T15:29:25.367902+00:00",
+  "archived_at": "2026-08-08T18:35:44.341024+00:00",
   "source": "steam",
-  "item_count": 11,
+  "item_count": 13,
   "items": [
     {
       "title": "[正面] 👍👍👍",
@@ -262,6 +262,54 @@
         "playtime_forever": 1084,
         "votes_up": 0,
         "timestamp_created": 1786195493
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 画风可爱，剧情尚可，gacha良心不过不少角色想玩爽至少1，2命起步，而且怎么贵游运营主体变了又变？...",
+      "summary": "画风可爱，剧情尚可，gacha良心不过不少角色想玩爽至少1，2命起步，而且怎么贵游运营主体变了又变？希望能保持稳定运营~",
+      "source": "steam_review",
+      "time": "2026-08-08T15:22:14+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198217000219/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198217000219",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2494,
+        "votes_up": 0,
+        "timestamp_created": 1786202534
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] Русский либо корявое ИИ либо вообще отсутствует, у...",
+      "summary": "Русский либо корявое ИИ либо вообще отсутствует, убогие видео и музыка, нулевые игровые механики. Стандартные гача механики. Редкое убожество.\nhttps://imgur.com/a/8g7bEj0",
+      "source": "steam_review",
+      "time": "2026-08-08T15:19:55+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198022701775/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198022701775",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 56,
+        "votes_up": 0,
+        "timestamp_created": 1786202395
       },
       "region": "global",
       "archive_subtype": "review",

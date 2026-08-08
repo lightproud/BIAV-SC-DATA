@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-09",
+  "archived_at": "2026-08-08T18:35:44.266093+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "5-5大招流uw 爽了",
+      "summary": "└ 笼宴 (1赞): 不赖",
+      "source": "bilibili",
+      "time": "2026-08-08T16:35:22+00:00",
+      "url": "https://www.bilibili.com/video/BV1hQuV67EGu",
+      "engagement": 37,
+      "is_hot": false,
+      "author": "Killer231x2317",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 36,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/667f7ee4903701dcfad27afa4ff0ce92725abd16.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    }
+  ]
+}
