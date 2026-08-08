@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-08T06:49:00.058135+00:00",
+  "archived_at": "2026-08-08T09:37:44.269200+00:00",
   "source": "bilibili",
-  "item_count": 7,
+  "item_count": 9,
   "items": [
     {
       "title": "【政治经济学分析】虚渊玄",
@@ -28,6 +28,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "［相位］小艾她像个战神",
+      "summary": "-\n  └ 东方云心 (1赞): [星绘·沐春灼华 应援装扮_铸币大头]\n  └ 5455421 (0赞): 迫近的太阳怎么获得啊？",
+      "source": "bilibili",
+      "time": "2026-08-08T07:59:06+00:00",
+      "url": "https://www.bilibili.com/video/BV1s9uu68EZq",
+      "engagement": 167,
+      "is_hot": false,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 164,
+        "comment_count": 3,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/5d8d9adaa1d6e1a1028f9b9fc2d895786b7707e6.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "我们都是肉做的",
       "summary": "-\n  └ 心脏的天空 (2赞): @耕司青海瑶\n  └ 耕司青海瑶 (1赞): 哇哦[doge]\n  └ 哈基沙大玉 (1赞): [鸣潮2周年同人绘画_看你][鸣潮2周年同人绘画_看你][鸣潮2周年同人绘画_看你]",
       "source": "bilibili",
@@ -46,6 +69,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/62c3163876d6dce1efea4fa076d32b0538180606.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "融灾首次425（8.3-8.16）",
+      "summary": "前几期隐隐约约感觉配置差不多了但一直没打，这期先用的金人kks配队逃了3图，又用血希对策1图，打完这两关感觉有希望就开始规划配队。1图2图3图都还蛮轻松的，4图出了神国不知道出哪个，5图出了蚀罗也不知道出哪个了。剩下了塔潘，阿拉和助战。塔潘配置低还没戒指实在有点牢，想来想去临时拉了个皮克曼组羊皮潘对策5图，凹完5图后宣告结束。4图借了个一哥的茉夏配阿拉平推了（140死扛实在太好用）",
+      "source": "bilibili",
+      "time": "2026-08-08T03:31:13+00:00",
+      "url": "https://www.bilibili.com/video/BV1gnuM6PEs5",
+      "engagement": 103,
+      "is_hot": false,
+      "author": "给天以星",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 103,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/c47f65aa2a24cdd124871a42ace02443fa5c86b2.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

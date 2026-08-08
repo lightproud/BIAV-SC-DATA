@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
-  "archived_at": "2026-08-08T06:49:00.188749+00:00",
+  "archived_at": "2026-08-08T09:37:44.403276+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 I love this game.",
@@ -16,6 +16,20 @@
       "tags": [],
       "lang": "en",
       "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 game bagus",
+      "summary": "game bagus",
+      "source": "google_play",
+      "time": "2026-08-07T09:02:50",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-f8721351-eea5-46ac-9751-e219c096b4b0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Reihan alfaraby",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
       "region": "global"
     }
   ],

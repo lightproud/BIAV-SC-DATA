@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
-  "archived_at": "2026-08-08T06:49:00.057079+00:00",
+  "archived_at": "2026-08-08T09:37:44.265892+00:00",
   "source": "bilibili",
-  "item_count": 21,
+  "item_count": 22,
   "items": [
     {
       "title": "忘却前夜丨广播剧《原则》（CV：宫园美海）",
@@ -230,6 +230,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/3a772e2c9348e76d1e86a3fc439f9aa920c24232.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "你游小登第一次尝试列车，遭遇n条命boss拼尽全力无法战胜",
+      "summary": "我玩不懂忘却前夜怎么办啊呜呜呜\n  └ 15-O (0赞): 这章图是第三面里最难的[笑哭]",
+      "source": "bilibili",
+      "time": "2026-08-07T12:44:20+00:00",
+      "url": "https://www.bilibili.com/video/BV1rcuh6LEu1",
+      "engagement": 103,
+      "is_hot": false,
+      "author": "Yookty",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 100,
+        "comment_count": 3,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/40467a34ed7d8f4382cbd9c34ad7d56f5d269fe0.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

@@ -1,9 +1,22 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-08T06:49:00.060371+00:00",
+  "archived_at": "2026-08-08T09:37:44.268501+00:00",
   "source": "bahamut",
-  "item_count": 23,
+  "item_count": 25,
   "items": [
+    {
+      "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-08T09:17:13.672247+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1144&tnum=237",
+      "engagement": 356,
+      "is_hot": true,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
       "summary": "",
@@ -299,6 +312,19 @@
       "engagement": 2,
       "is_hot": false,
       "author": "liwei1002",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【情報】忘卻前夜┊V2.5.3 廣播劇《原則》",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-08T08:41:13.672279+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1520&tnum=1",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "t12345825",
       "tags": [],
       "lang": "zh",
       "platform_region": "tw"
