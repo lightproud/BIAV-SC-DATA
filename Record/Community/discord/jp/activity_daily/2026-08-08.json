@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-08",
+  "messages": 20,
+  "unique_authors": 9,
+  "reactions_total": 1,
+  "attachments": 3,
+  "channel_activity": {
+    "なんでも雑談": 2,
+    "🔰初心者質問": 1,
+    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 8,
+    "ニムフィーアの毒パ研究日誌": 7,
+    "誰でもOKグロ版野次馬スレ": 2
+  },
+  "hourly_activity": {
+    "2": 3,
+    "0": 8,
+    "1": 9
+  },
+  "message_types": {
+    "19": 4,
+    "0": 16
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1535471207523156051",
+      "channel_id": "1377478664609857647",
+      "content": "なんかジェンキンからの贈り物みたい",
+      "author": "0w04250",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    }
+  ]
+}
