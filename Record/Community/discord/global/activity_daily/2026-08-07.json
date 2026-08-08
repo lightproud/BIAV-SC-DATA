@@ -1,47 +1,82 @@
 {
   "date": "2026-08-07",
-  "messages": 1947,
-  "unique_authors": 196,
-  "reactions_total": 185,
-  "attachments": 135,
+  "messages": 6070,
+  "unique_authors": 286,
+  "reactions_total": 706,
+  "attachments": 418,
   "channel_activity": {
-    "🔸綜合討論": 271,
-    "🔸课间休息闲聊": 105,
+    "🔸綜合討論": 688,
+    "🔸阵容构建": 11,
+    "🔸晒卡分享": 1,
+    "🔸相位对弈": 1,
+    "🔸课间休息闲聊": 122,
+    "🔸deutscher-chatraum": 17,
+    "🔸chaîne-française": 1,
+    "🔸русский-канал": 58,
+    "🔸phòng-chat-tiếng-việt": 1020,
+    "🔸canal-español": 71,
+    "🔸canal-português": 83,
+    "🔸ruang-obrolan-indonesia": 351,
+    "🔸ห้องสนทนาภาษาไทย": 120,
+    "🔸traphase": 116,
+    "🔸lore-chat": 277,
+    "🔸lets-count": 17,
+    "🔸team-building": 469,
+    "🔸邀请码互助┊swap-invitation-codes": 21,
+    "🔸game-question": 2384,
+    "🔸机器人命令┊bot-commands": 64,
+    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 5,
+    "Lotan: Cetarchon exalt damage number does not line up with the hit after update V2.5.3.3": 2,
+    "sp蘿坦配音可否考慮回調": 5,
+    "Lotan: Cetarchon voice lines after update V2.5.3.3": 22,
+    "关于侵蚀的表现形式": 2,
+    "Additional Record Filters": 1,
+    "Amber-Tinted Death does not benefit from PChaos stat enhancement": 4,
+    "Quadra / 4-Realm Rerun Banners": 3,
+    "Skin Preview": 2,
+    "V2.5.3.4 在线维护公告": 5,
+    "V2.5.1.0 停服维护公告": 17,
+    "忘却前夜OST：蚀灭·萝坦EP·征伐永不止歇┊Morimens OST: Lotan: Cetarchon EP: Conquest Never Rests": 8,
+    "I made some fan acrylic merch!": 3,
+    "Saya/Aurita/Sanga/Thais": 2,
+    "saschys doodle thread": 1,
+    "Nefraea + Arachne Posting (Weekly)": 5,
+    "morimens team generator!!": 5,
+    "Realms and Game Mechanics Guide (with PowerPoint)": 6,
+    "The Arc 1 GDoll Incident Compilation": 1,
+    "【English Translation】Opinions Collection": 5,
+    "🎧 V2.5.3 广播剧《原则》┊Radio Drama - Principles┊오디오 드라마 『원칙』": 12,
+    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 2,
+    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 6,
+    "回鍋約一個月陣容組成": 3,
+    "Team/pulling advice": 17,
+    "Team advice/suggestion": 22,
     "🔸日本語チャンネル": 2,
-    "🔸deutscher-chatraum": 2,
-    "🔸русский-канал": 7,
-    "🔸phòng-chat-tiếng-việt": 62,
-    "🔸canal-español": 32,
-    "🔸canal-português": 8,
-    "🔸ruang-obrolan-indonesia": 252,
-    "🔸ห้องสนทนาภาษาไทย": 41,
-    "🔸traphase": 105,
-    "🔸lore-chat": 56,
-    "🔸lets-count": 5,
-    "🔸team-building": 56,
-    "🔸邀请码互助┊swap-invitation-codes": 8,
-    "🔸game-question": 876,
     "🔸忘却前夜┊morimens-tv": 1,
-    "🔸机器人命令┊bot-commands": 19,
-    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 1,
     "这次修改运营主体影响大嘛": 1,
-    "sp蘿坦配音可否考慮回調": 4,
-    "Lotan: Cetarchon voice lines after update V2.5.3.3": 10,
-    "Quadra / 4-Realm Rerun Banners": 2,
     "能不能把自動戰鬥的按鈕隱藏起來": 2,
-    "V2.5.1.0 停服维护公告": 6,
     "关于游戏自造语：古代利莫里亚语": 1,
-    "Saya/Aurita/Sanga/Thais": 1,
     "the WORST dumpcorner of the hameln glazer": 2,
-    "morimens team generator!!": 1,
-    "【English Translation】Opinions Collection": 1,
-    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1,
     "🏆 忘却前夜第4届N厨杯┊The 4th 「N」′s Chef Cup of Morimens": 2,
-    "回鍋約一個月陣容組成": 1,
-    "Team advice/suggestion": 2,
     "1535097848469655632": 1
   },
   "hourly_activity": {
+    "8": 544,
+    "9": 477,
+    "10": 293,
+    "11": 283,
+    "12": 512,
+    "13": 406,
+    "14": 443,
+    "15": 210,
+    "16": 161,
+    "17": 110,
+    "18": 90,
+    "19": 140,
+    "20": 141,
+    "21": 136,
+    "23": 49,
+    "22": 197,
     "0": 129,
     "1": 262,
     "2": 331,
@@ -49,18 +84,113 @@
     "4": 243,
     "5": 126,
     "6": 291,
-    "7": 356,
-    "8": 69
+    "7": 356
   },
   "message_types": {
-    "0": 1345,
-    "19": 589,
-    "23": 1,
-    "20": 10,
-    "6": 1,
+    "0": 4468,
+    "19": 1562,
+    "23": 2,
+    "20": 35,
+    "6": 2,
     "21": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1535261417966542848",
+      "channel_id": "1535261417966542848",
+      "content": "I’ll be at Comic World in Ilsan, Korea this August.\nI just wanted to show it off",
+      "author": "gaedol.",
+      "reactions": 26,
+      "channel": "I made some fan acrylic merch!"
+    },
+    {
+      "id": "1535292854614892697",
+      "channel_id": "1523002412787302431",
+      "content": "It's been awhile since i draw spooder sister\n\nBusy wuth uni <:Helot_slack_off:14",
+      "author": "lowtownnivn",
+      "reactions": 21,
+      "channel": "Nefraea + Arachne Posting (Weekly)"
+    },
+    {
+      "id": "1535221522195685407",
+      "channel_id": "1535221522195685407",
+      "content": "**🎧 V2.5.3 广播剧《原则》**\n\n「我的剑已经很久没有经历一场像样的战斗了。」\n「力量的证明，我已为你献上。期待我的到来吧……」\n✦ 蚀灭·萝坦CV：",
+      "author": "morimensstaff06",
+      "reactions": 17,
+      "channel": "🎧 V2.5.3 广播剧《原则》┊Radio Drama - Principles┊오디오 드라마 『원칙』"
+    },
+    {
+      "id": "1535307672625090581",
+      "channel_id": "1535000394927702128",
+      "content": "<@1487626955791663208>\n\n今日的語速上調(?)版已經是結案了嗎，我還是想再爭取一下<:Brown_think:14590801173086",
+      "author": "heikwok",
+      "reactions": 14,
+      "channel": "sp蘿坦配音可否考慮回調"
+    },
+    {
+      "id": "1535304111019397131",
+      "channel_id": "1131839874132090890",
+      "content": "为了满足对自推的爱出了两把阿拉<:emoji_11:1505290988908974161>",
+      "author": "gensono0609",
+      "reactions": 8,
+      "channel": "🔸阵容构建"
+    },
+    {
+      "id": "1535267604254564504",
+      "channel_id": "1300659603993923644",
+      "content": "Cái guide tới đâu r chị",
+      "author": "lawww",
+      "reactions": 7,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1535238757748445366",
+      "channel_id": "1326453763355185215",
+      "content": "\"my dude is sexier than ur dude\"",
+      "author": "nikolazuli",
+      "reactions": 7,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1535204524535455845",
+      "channel_id": "1433513650299076780",
+      "content": "~~at most, give this guy a warning~~",
+      "author": "snorlax01",
+      "reactions": 7,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1535270638158225509",
+      "channel_id": "1131839817982947429",
+      "content": "有人要借我的159界域精通女王剑娜娜嘛<:Lily_wow:1356084702468899117>",
+      "author": "sweet_25367",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535303915724087397",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "gensono0609",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535223097127600149",
+      "channel_id": "1326453763355185215",
+      "content": "simply damaging it beforehand works too since a damaged core is irreversible",
+      "author": "nikolazuli",
+      "reactions": 6,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1535222901173788722",
+      "channel_id": "1535222901173788722",
+      "content": "感谢各位守密人的支持！《忘却前夜》新OST已发布，欢迎收听、下载及分享。\n如果有基于OST的二次创作，也欢迎分享给我们！二创请遵照同人规则，OST内容请勿商用。",
+      "author": "morimensstaff06",
+      "reactions": 6,
+      "channel": "忘却前夜OST：蚀灭·萝坦EP·征伐永不止歇┊Morimens OST: Lotan: Cetarchon EP: Conquest Never Rests"
+    },
     {
       "id": "1535187344368607283",
       "channel_id": "1131839817982947429",
@@ -76,6 +206,22 @@
       "author": "hikarimew",
       "reactions": 6,
       "channel": "🔸game-question"
+    },
+    {
+      "id": "1535281062781915136",
+      "channel_id": "1131839817982947429",
+      "content": "哪個神人往網路精靈裡灌了這麼多莉莉進去的",
+      "author": "ice_storys",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535330525462401045",
+      "channel_id": "1174983699935277147",
+      "content": "普池很愛我了",
+      "author": "akkom730",
+      "reactions": 5,
+      "channel": "🔸晒卡分享"
     },
     {
       "id": "1535148687762919434",
@@ -94,132 +240,20 @@
       "channel": "🔸game-question"
     },
     {
-      "id": "1535133097912303676",
-      "channel_id": "1534858900522664026",
-      "content": "exalt:\nMaw of Hell(stating it as an object), opened and waiting > Maw of Hell(ad",
-      "author": "watchthew0rldburn",
+      "id": "1535202020158603324",
+      "channel_id": "1131839817982947429",
+      "content": "各位玩家，感謝大家一直以來對【忘卻前夜】的支持與鼓勵，【忘卻前夜】也陪著玩家度過許多歡樂的日子，一路上因為有您的支持，讓我們更有動力去經營，希望能提供最好的遊戲",
+      "author": "nemu_s_t_a_r",
       "reactions": 4,
-      "channel": "Lotan: Cetarchon voice lines after update V2.5.3.3"
-    },
-    {
-      "id": "1535181169350545418",
-      "channel_id": "1300659603993923644",
-      "content": "build   như bạn này là đc",
-      "author": "mrmot347",
-      "reactions": 3,
-      "channel": "🔸phòng-chat-tiếng-việt"
-    },
-    {
-      "id": "1535109543053496340",
-      "channel_id": "1300659802455674972",
-      "content": "",
-      "author": "2ndselna",
-      "reactions": 3,
-      "channel": "🔸ห้องสนทนาภาษาไทย"
-    },
-    {
-      "id": "1535155401547317319",
-      "channel_id": "1300659802455674972",
-      "content": "",
-      "author": "2ndselna",
-      "reactions": 3,
-      "channel": "🔸ห้องสนทนาภาษาไทย"
-    },
-    {
-      "id": "1535108509362819072",
-      "channel_id": "1326453763355185215",
-      "content": "I think they like the game",
-      "author": "arsenyx_9999",
-      "reactions": 3,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1535193835754365069",
-      "channel_id": "1433513650299076780",
-      "content": "Double-Play per each Arith consumed",
-      "author": "snorlax01",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1535196215044603956",
-      "channel_id": "1433513650299076780",
-      "content": "i think i did every one of those with pollux oe",
-      "author": "wuyan_kana",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1535197141499387904",
-      "channel_id": "1433513650299076780",
-      "content": "Consider voting",
-      "author": "snorlax01",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1535126993820188752",
-      "channel_id": "1535000394927702128",
-      "content": "个人觉得日文原版其实没问题，语气很有魄力，陈述性的措辞在日文也更显得非同凡人，感觉更适合目前为止的人设",
-      "author": "watchthew0rldburn",
-      "reactions": 3,
-      "channel": "sp蘿坦配音可否考慮回調"
-    },
-    {
-      "id": "1535181378906230854",
-      "channel_id": "1535181378906230854",
-      "content": "First humanoid artwork I've done in *years*. Been playing a ton with the above t",
-      "author": "ifrix",
-      "reactions": 3,
-      "channel": "Saya/Aurita/Sanga/Thais"
-    },
-    {
-      "id": "1535183591968088129",
-      "channel_id": "1131839817982947429",
-      "content": "不三天后<:Helot_slack_off:1459092159465521184>",
-      "author": "annabelle0868",
-      "reactions": 2,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1535184553549762643",
+      "id": "1535210962477645885",
       "channel_id": "1131839817982947429",
-      "content": "然后我趁他不注意蓄力了一下直接吐他脸上了",
-      "author": "jiangyu3454",
-      "reactions": 2,
+      "content": "有大佬可以草死我嗎",
+      "author": "ahuahuahua",
+      "reactions": 4,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1535090948458156032",
-      "channel_id": "1181152750319456266",
-      "content": "接哑谜泳装",
-      "author": "encyoverride",
-      "reactions": 2,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1535091459139571824",
-      "channel_id": "1181152750319456266",
-      "content": "给你点钱摘了吧 别坏死感染了❤️",
-      "author": "encyoverride",
-      "reactions": 2,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1535145348803207178",
-      "channel_id": "1181152750319456266",
-      "content": "保咪協議",
-      "author": "ahong0727",
-      "reactions": 2,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1535136823276339262",
-      "channel_id": "1300659603993923644",
-      "content": "Thời tới:))",
-      "author": "khaduong2211._85445",
-      "reactions": 2,
-      "channel": "🔸phòng-chat-tiếng-việt"
     }
   ]
 }

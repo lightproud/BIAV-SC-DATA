@@ -1,0 +1,221 @@
+{
+  "date": "2026-08-08",
+  "messages": 1827,
+  "unique_authors": 163,
+  "reactions_total": 217,
+  "attachments": 123,
+  "channel_activity": {
+    "🔸綜合討論": 82,
+    "🔸课间休息闲聊": 7,
+    "🔸한국어-채팅방": 2,
+    "🔸deutscher-chatraum": 2,
+    "🔸phòng-chat-tiếng-việt": 147,
+    "🔸canal-español": 360,
+    "🔸canal-português": 18,
+    "🔸ruang-obrolan-indonesia": 79,
+    "🔸ห้องสนทนาภาษาไทย": 8,
+    "🔸traphase": 2,
+    "🔸lore-chat": 19,
+    "🔸lets-count": 6,
+    "🔸team-building": 113,
+    "🔸邀请码互助┊swap-invitation-codes": 1,
+    "🔸game-question": 923,
+    "🔸机器人命令┊bot-commands": 14,
+    "Lotan: Cetarchon exalt damage number does not line up with the hit after update V2.5.3.3": 1,
+    "sp蘿坦配音可否考慮回調": 3,
+    "C萝2费上回声后无法合成": 1,
+    "Additional Record Filters": 1,
+    "請問可以加一個怪物的圖鑑嗎？": 1,
+    "Can we get new icons for Benthos/Singularity/Propagation/Primordia Realms?": 3,
+    "Quadra / 4-Realm Rerun Banners": 2,
+    "Skin Preview": 2,
+    "Please rework how Propagation Caro works for the future units": 3,
+    "V2.5.1.0 停服维护公告": 2,
+    "It looks goofy sorry": 1,
+    "Lotan: Cetarchon 🔴🔵": 1,
+    "Chiikawa guyz🥳🥳": 2,
+    "I made some fan acrylic merch!": 1,
+    "the WORST dumpcorner of the hameln glazer": 9,
+    "morimens sybau 💔": 2,
+    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1,
+    "回鍋約一個月陣容組成": 4,
+    "【Newcomer Help】Forum Introduction": 4
+  },
+  "hourly_activity": {
+    "1": 126,
+    "2": 272,
+    "3": 244,
+    "4": 327,
+    "5": 396,
+    "6": 236,
+    "7": 169,
+    "0": 57
+  },
+  "message_types": {
+    "0": 1309,
+    "19": 509,
+    "20": 9
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1535537746553217094",
+      "channel_id": "1131839817982947429",
+      "content": "輸光 我也要一次只減1%死抗",
+      "author": "ling_an_",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535503500753248296",
+      "channel_id": "1535503500753248296",
+      "content": "More are coming soon…",
+      "author": "sparklingwater_69",
+      "reactions": 9,
+      "channel": "Chiikawa guyz🥳🥳"
+    },
+    {
+      "id": "1535526852834238545",
+      "channel_id": "1433513650299076780",
+      "content": "two days left to see if i wanna AA pollux huh",
+      "author": "lithanor",
+      "reactions": 7,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1535540279342272512",
+      "channel_id": "1131839817982947429",
+      "content": "有沒有大佬可以帶帶我",
+      "author": "a_wei3797",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535507853945864324",
+      "channel_id": "1535507853945864324",
+      "content": "https://x.com/SaminDraws/status/2085946069960036517?s=20",
+      "author": "samin_",
+      "reactions": 5,
+      "channel": "Lotan: Cetarchon 🔴🔵"
+    },
+    {
+      "id": "1535494001505865838",
+      "channel_id": "1131839817982947429",
+      "content": "注射守护是神<:Celeste_agree:1400771815076528258>",
+      "author": "galagalaguo",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535537908260405279",
+      "channel_id": "1131839817982947429",
+      "content": "有沒有大佬可以帶帶我",
+      "author": "water_heart",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535518986534391918",
+      "channel_id": "1535518986534391918",
+      "content": "I don't have a pin maker so I hand painted over a fugly keychain from a school e",
+      "author": "sowhatdobayleavesevendo",
+      "reactions": 4,
+      "channel": "It looks goofy sorry"
+    },
+    {
+      "id": "1535493788695404599",
+      "channel_id": "1131839817982947429",
+      "content": "https://klipy.com/gifs/signedearth-bear",
+      "author": "zilulu01",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535541301720915968",
+      "channel_id": "1131839817982947429",
+      "content": "血希就是區",
+      "author": "a_wei3797",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535541968824963142",
+      "channel_id": "1131839817982947429",
+      "content": "猜出来了吗(",
+      "author": "kemomimi_",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535534073114660994",
+      "channel_id": "1433513650299076780",
+      "content": "3 stars!",
+      "author": "dalke320",
+      "reactions": 3,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1535550396796506195",
+      "channel_id": "1433513650299076780",
+      "content": "Insane value",
+      "author": "teleftaios",
+      "reactions": 3,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1535514497656160366",
+      "channel_id": "1535503500753248296",
+      "content": "",
+      "author": "sparklingwater_69",
+      "reactions": 3,
+      "channel": "Chiikawa guyz🥳🥳"
+    },
+    {
+      "id": "1535458051862298644",
+      "channel_id": "1131839817982947429",
+      "content": "4",
+      "author": "a_wei3797",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535541009822523472",
+      "channel_id": "1131839817982947429",
+      "content": "這次的道中真的還好",
+      "author": "a_wei3797",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535546619284684800",
+      "channel_id": "1131839817982947429",
+      "content": "請問大概什麼時候啊 想抽了 昨天儲值1000",
+      "author": "zilulu01",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535547380047286312",
+      "channel_id": "1131839817982947429",
+      "content": "周一",
+      "author": "arachnids_nacha",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535547854360289340",
+      "channel_id": "1131839817982947429",
+      "content": "~~跟Tv一樣，了解~~",
+      "author": "arachnids_nacha",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1535480796545024040",
+      "channel_id": "1300659662311526512",
+      "content": "Imaginate una kuyen,la diosa de la luna en la mitologia mapuche",
+      "author": "rexamart",
+      "reactions": 2,
+      "channel": "🔸canal-español"
+    }
+  ]
+}
