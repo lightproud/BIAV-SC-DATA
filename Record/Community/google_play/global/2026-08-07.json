@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
-  "archived_at": "2026-08-08T12:44:20.500357+00:00",
+  "archived_at": "2026-08-08T15:29:25.432923+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 I love this game.",
@@ -30,6 +30,20 @@
       "tags": [],
       "lang": "id",
       "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 中评] ★3 just finished the prologue and I plan on",
+      "summary": "just finished the prologue and I plan on playing it more. I find the game odd and I can't really get interested in it. maybe it gets better later on but the start of the game isn't that great.",
+      "source": "google_play",
+      "time": "2026-08-07T14:08:43",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-577fda0a-7414-4040-afd5-b930efb2e33f",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Scott Fillinger 40k",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],

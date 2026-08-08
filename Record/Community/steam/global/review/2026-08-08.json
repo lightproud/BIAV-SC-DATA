@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-08T12:44:20.409765+00:00",
+  "archived_at": "2026-08-08T15:29:25.367902+00:00",
   "source": "steam",
-  "item_count": 9,
+  "item_count": 11,
   "items": [
     {
       "title": "[正面] 👍👍👍",
@@ -214,6 +214,54 @@
         "playtime_forever": 274,
         "votes_up": 0,
         "timestamp_created": 1786185168
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] A really fun game, the number of team you can do a...",
+      "summary": "A really fun game, the number of team you can do and how the way you win battle change depending on the team is refreshing. love it",
+      "source": "steam_review",
+      "time": "2026-08-08T14:12:40+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198052432109/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198052432109",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 13792,
+        "votes_up": 0,
+        "timestamp_created": 1786198360
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 玩了几天试一下。。累死我了快，画风没得说特别美很独特，剧情好坏分个人口味吧，剧情故事很好但对于我来说...",
+      "summary": "玩了几天试一下。。累死我了快，画风没得说特别美很独特，剧情好坏分个人口味吧，剧情故事很好但对于我来说讲得实在太拖沓了，并且每一关战斗里是还有好几关卡牌战斗......我号非没什么强力角色，大boss几百一千血我就一百血不到，boss一招拍死我半管血，我就只能多用防御卡，打了半辈子刮了一层痧，打完怪累死累活想过主线还磨磨唧唧到处谜语人你在逗我吗第一次玩这么累人的二游。。。抽卡200钻一抽，是5抽5抽的抽，我不知道是最近活动还是什么好多个池。额反正我没钻。一般吧战斗玩法太雷人了我已跑路。。剧情不多评价，新手福利给的不算多，大多数都需要肝。然后最重要的是到底用的多少年的土豆做服务器，不管什么设备都卡到爆！！！2000多延迟你真的吓到我了。。什么叫我角色技能都放出来了但卡还在我手里？我累了就这样吧",
+      "source": "steam_review",
+      "time": "2026-08-08T13:24:53+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198680476638/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198680476638",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 1084,
+        "votes_up": 0,
+        "timestamp_created": 1786195493
       },
       "region": "global",
       "archive_subtype": "review",

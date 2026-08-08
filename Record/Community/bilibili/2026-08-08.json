@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-08T12:44:20.330061+00:00",
+  "archived_at": "2026-08-08T15:29:25.315009+00:00",
   "source": "bilibili",
-  "item_count": 14,
+  "item_count": 16,
   "items": [
     {
       "title": "【政治经济学分析】虚渊玄",
@@ -189,6 +189,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "[忘却前夜]深海旺达3t融灾5–5甜蜜恶鬼",
+      "summary": "音频来源BV1zWun6SEda\n玩这队果然还是旺达感很重，道中慢悠悠，虽然零压力就是了。Kks全程挂挂机王战开个大丢张三就是整局作用，这是属于我们深海旺达的银钥转反击版罗坦（骄傲）。温珊替换后面两个道中就会快很多，王战就又劣势了些，真是难以抉择",
+      "source": "bilibili",
+      "time": "2026-08-08T13:40:58+00:00",
+      "url": "https://www.bilibili.com/video/BV18Tu366EZH",
+      "engagement": 39,
+      "is_hot": false,
+      "author": "护林犬",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 39,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/94bf57abcaba21635c13dcb95c2ecb23b2fe8263.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "【忘却前夜】三启24过融灾5-5全流程",
       "summary": "随便玩玩，打的比较粗糙，凑合看）\n生存核心是无垢魂诞法则普朵（注意，纯混沌队普朵密契一定要带无垢，属性烂一点无所谓）\n配置溢出蛮多，24带正常sr也随便打，塔维可有可无，换成随便一个银钥位或银钥造物也一样\n开局不是夕光有不是夕光的玩法\n道中扛不住就二钥令拿艾瑞卡钥令选普朵，包能抗住\n看情况一觉24或普朵\n  └ 無名Mumei- (1赞): 木偶大佬[打call]",
       "source": "bilibili",
@@ -322,6 +345,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/b655d63cd24825098594315b29ae3150825e418b.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "亚文化.沙耶之歌",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-08T12:53:06+00:00",
+      "url": "https://www.bilibili.com/video/BV164u36dEo9",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "親愛バカみた",
+      "tags": [
+        "同人·手书"
+      ],
+      "metadata": {
+        "play": 0,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/f3ad647207b977937510984a1ed2683be5ecb70b.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-08T12:44:20.332199+00:00",
+  "archived_at": "2026-08-08T15:29:25.315900+00:00",
   "source": "youtube",
-  "item_count": 21,
+  "item_count": 22,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능) 복각미리알아보기",
@@ -51,6 +51,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/MT6kMAlYG5w/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "망각전야Morimens) (대리뽑,상담시청가능) 다음주 복각 무엇을뽑아야할까??",
+      "summary": "망각전야 #Morimens #이터널리턴.",
+      "source": "youtube",
+      "time": "2026-08-08T13:11:13Z",
+      "url": "https://www.youtube.com/watch?v=NmirtLn4HGU",
+      "engagement": 46,
+      "is_hot": false,
+      "author": "박현(Muyeong)",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/NmirtLn4HGU/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
