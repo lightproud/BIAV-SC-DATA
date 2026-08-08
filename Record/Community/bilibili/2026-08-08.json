@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-08T04:12:25.427460+00:00",
+  "archived_at": "2026-08-08T06:49:00.058135+00:00",
   "source": "bilibili",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "【政治经济学分析】虚渊玄",
@@ -23,6 +23,29 @@
         "danmaku": 5
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/2b2d368a147c15fc7d023253668c4125f6f20b11.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "我们都是肉做的",
+      "summary": "-\n  └ 心脏的天空 (2赞): @耕司青海瑶\n  └ 耕司青海瑶 (1赞): 哇哦[doge]\n  └ 哈基沙大玉 (1赞): [鸣潮2周年同人绘画_看你][鸣潮2周年同人绘画_看你][鸣潮2周年同人绘画_看你]",
+      "source": "bilibili",
+      "time": "2026-08-07T18:25:11+00:00",
+      "url": "https://www.bilibili.com/video/BV12PuN67ERV",
+      "engagement": 151,
+      "is_hot": false,
+      "author": "Kasha-T",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 143,
+        "comment_count": 8,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/62c3163876d6dce1efea4fa076d32b0538180606.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

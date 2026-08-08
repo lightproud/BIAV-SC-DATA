@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-08T04:12:25.473286+00:00",
+  "archived_at": "2026-08-08T06:49:00.104422+00:00",
   "source": "steam",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "[正面] 👍👍👍",
@@ -166,6 +166,30 @@
         "playtime_forever": 1043,
         "votes_up": 0,
         "timestamp_created": 1786155520
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] EL MEJOR JUEGO DEL MUNDO",
+      "summary": "EL MEJOR JUEGO DEL MUNDO",
+      "source": "steam_review",
+      "time": "2026-08-08T05:24:03+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198712697777/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198712697777",
+      "tags": [
+        "spanish"
+      ],
+      "language": "spanish",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 528,
+        "votes_up": 0,
+        "timestamp_created": 1786166643
       },
       "region": "global",
       "archive_subtype": "review",

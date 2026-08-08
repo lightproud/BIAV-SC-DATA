@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-08T04:12:25.430373+00:00",
+  "archived_at": "2026-08-08T06:49:00.061049+00:00",
   "source": "youtube",
-  "item_count": 11,
+  "item_count": 13,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능) 복각미리알아보기",
@@ -187,6 +187,40 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/mVFYkzjrYNA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Event Leviathans Game Till The Cetus Falls - Radio Drama Principles",
+      "summary": "The world is dying, yet its inhabitants remain blissfully unaware. Confronted with a covert, indescribable calamity, you shall take ...",
+      "source": "youtube",
+      "time": "2026-08-08T06:00:53Z",
+      "url": "https://www.youtube.com/watch?v=XKyArZuSuHY",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "OutcastBox",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/XKyArZuSuHY/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】イベント「神王の復活・復刻」深海凝視「衰亡の国・超難度」",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-08-08T06:18:38Z",
+      "url": "https://www.youtube.com/watch?v=CHtla9dl7cM",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/CHtla9dl7cM/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
