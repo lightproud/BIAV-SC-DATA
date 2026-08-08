@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-08T01:23:09.877888+00:00",
+  "archived_at": "2026-08-08T04:12:25.430373+00:00",
   "source": "youtube",
-  "item_count": 9,
+  "item_count": 11,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능) 복각미리알아보기",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/Uh_Y6XZLIrA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Who is the Strongest Str Scaler in Game? A comparison of every STR Scalers burst turn.",
+      "summary": "https://buymeacoffee.com/flares https://discord.gg/tpMMe5W7CT - Personal Flares Discord ...",
+      "source": "youtube",
+      "time": "2026-08-08T04:00:24Z",
+      "url": "https://www.youtube.com/watch?v=pmf_teaIPDg",
+      "engagement": 22,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/pmf_teaIPDg/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -153,6 +170,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/L58NvzmRhKA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "I&#39;m Soo Good at This Game 😎 .                         || #morimens #turnbased #dark #cards #games  .",
+      "summary": "Sad Ending :(",
+      "source": "youtube",
+      "time": "2026-08-08T04:04:59Z",
+      "url": "https://www.youtube.com/watch?v=mVFYkzjrYNA",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ZeGee 08",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/mVFYkzjrYNA/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

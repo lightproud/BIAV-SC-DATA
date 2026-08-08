@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-08T01:23:09.955606+00:00",
+  "archived_at": "2026-08-08T04:12:25.473286+00:00",
   "source": "steam",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] 👍👍👍",
@@ -142,6 +142,30 @@
         "playtime_forever": 1673,
         "votes_up": 0,
         "timestamp_created": 1786144508
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 번역체인거 빼고는 상당히 재미있음",
+      "summary": "번역체인거 빼고는 상당히 재미있음",
+      "source": "steam_review",
+      "time": "2026-08-08T02:18:40+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198043556433/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198043556433",
+      "tags": [
+        "koreana"
+      ],
+      "language": "koreana",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1043,
+        "votes_up": 0,
+        "timestamp_created": 1786155520
       },
       "region": "global",
       "archive_subtype": "review",

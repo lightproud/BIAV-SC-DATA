@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
-  "archived_at": "2026-08-08T01:23:09.874421+00:00",
+  "archived_at": "2026-08-08T04:12:25.426442+00:00",
   "source": "bilibili",
-  "item_count": 20,
+  "item_count": 21,
   "items": [
     {
       "title": "忘却前夜丨广播剧《原则》（CV：宫园美海）",
@@ -161,6 +161,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/8f2d6a32e0a32df880a9f8d3d696a536255cf8db.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "环娜c 5-5",
+      "summary": "嘻嘻\n  └ 五笔的眼泪 (0赞): 很棒诶！",
+      "source": "bilibili",
+      "time": "2026-08-07T12:10:58+00:00",
+      "url": "https://www.bilibili.com/video/BV1sYuh6WExJ",
+      "engagement": 125,
+      "is_hot": false,
+      "author": "寂榕",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 124,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/271d9415d470741948743ea1bd84013bce88d96c.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
