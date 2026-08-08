@@ -366,7 +366,7 @@
       "last_message_id": "1522955535278801037"
     },
     "thread:1458760640351965361": {
-      "last_message_id": "1535651955492528158"
+      "last_message_id": "1535747336490188830"
     },
     "thread:1457876779954995315": {
       "last_message_id": "1530595524531720386"
@@ -1160,6 +1160,6 @@
     }
   },
   "historical_month": null,
-  "last_run": "2026-08-08T19:16:01.933242+00:00",
+  "last_run": "2026-08-08T22:01:31.045261+00:00",
   "history_backfill_complete": true
 }
