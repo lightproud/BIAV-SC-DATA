@@ -1,11 +1,11 @@
 {
   "date": "2026-08-09",
-  "messages": 490,
+  "messages": 499,
   "unique_authors": 23,
-  "reactions_total": 92,
-  "attachments": 54,
+  "reactions_total": 95,
+  "attachments": 55,
   "channel_activity": {
-    "なんでも雑談": 323,
+    "なんでも雑談": 332,
     "ニムフィーアの毒パ研究日誌": 16,
     "対人戦に詳しく解説「初心者〜上級者まで」": 18,
     "🔰初心者質問": 12,
@@ -17,6 +17,9 @@
     "招待コード共有会": 1
   },
   "hourly_activity": {
+    "16": 3,
+    "17": 3,
+    "18": 3,
     "13": 96,
     "14": 82,
     "15": 22,
@@ -34,8 +37,8 @@
     "1": 5
   },
   "message_types": {
-    "0": 448,
-    "19": 42
+    "0": 456,
+    "19": 43
   },
   "top_reacted_messages": [
     {
@@ -167,34 +170,34 @@
       "channel": "なんでも雑談"
     },
     {
+      "id": "1536066096082190516",
+      "channel_id": "1377478664609857647",
+      "content": "",
+      "author": "saihuu",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1536066168312565862",
+      "channel_id": "1377478664609857647",
+      "content": "サルバが強すぎます",
+      "author": "saihuu",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1536078158103715980",
+      "channel_id": "1377478664609857647",
+      "content": "でかいアイスを食べています、おいしいいいいいいいいい",
+      "author": "kikyo9183",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
       "id": "1536005710972846131",
       "channel_id": "1377478664609857647",
       "content": "持ってくるか",
       "author": "zzzorz",
-      "reactions": 1,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1536006236263415839",
-      "channel_id": "1377478664609857647",
-      "content": "アメリカのミスカトニック大学かと思ってたが英国だったのか",
-      "author": "tomreo",
-      "reactions": 1,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1536006703483715635",
-      "channel_id": "1377478664609857647",
-      "content": "画像残ってねぇ！w",
-      "author": "zzzorz",
-      "reactions": 1,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1536009569191334034",
-      "channel_id": "1377478664609857647",
-      "content": "上のは本編最終版のゴリゴリネタバレなので",
-      "author": "altiar_zain",
       "reactions": 1,
       "channel": "なんでも雑談"
     }
