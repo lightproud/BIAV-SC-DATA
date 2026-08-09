@@ -1,7 +1,7 @@
 {
   "channels": {
     "1377478664609857647": {
-      "last_message_id": "1536004996607250453",
+      "last_message_id": "1536032102615613561",
       "name": "なんでも雑談",
       "cold_started": true,
       "last_historical_message_id": "1378523440742400000",
@@ -327,7 +327,7 @@
       "last_message_id": "1511043315200561395"
     },
     "thread:1510911214346305566": {
-      "last_message_id": "1536002418569904128"
+      "last_message_id": "1536019178363027476"
     },
     "thread:1510847739045482596": {
       "last_message_id": "1519621081382785115"
@@ -384,7 +384,7 @@
       "last_message_id": "1448971360620511293"
     },
     "thread:1443565232130756660": {
-      "last_message_id": "1536004699684208702"
+      "last_message_id": "1536031612490358874"
     },
     "thread:1427166318645350450": {
       "last_message_id": "1535498216261427210"
@@ -1160,6 +1160,6 @@
     }
   },
   "historical_month": null,
-  "last_run": "2026-08-09T13:35:51.316355+00:00",
+  "last_run": "2026-08-09T16:03:34.008907+00:00",
   "history_backfill_complete": true
 }
