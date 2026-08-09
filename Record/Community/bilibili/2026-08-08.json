@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-09T01:28:16.989426+00:00",
+  "archived_at": "2026-08-09T04:18:51.335691+00:00",
   "source": "bilibili",
-  "item_count": 17,
+  "item_count": 19,
   "items": [
     {
       "title": "【政治经济学分析】虚渊玄",
@@ -74,6 +74,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "【忘却前夜】萝坦在c",
+      "summary": "-\n  └ 呆呆松OWO (0赞): 大佬大佬帶帶我[颂乐人偶_眯眼笑]\n  └ 步饷罔了 (0赞): 讲个冷知识，罗坦最终法则的防御双倍效果是可以多次叠的，叠其次就能保证几张双倍3费，氮素同样的问题出现就是会算力调和吃到吐[委屈]加上罗坦没专造完全伤害型之耻，其实有也就是个普通人水平🙄，算是那种没上限氮素有下限，基本上只要保证每回合能开个永恒就有几十万的保底输出",
+      "source": "bilibili",
+      "time": "2026-08-08T14:45:32+00:00",
+      "url": "https://www.bilibili.com/video/BV1yEu36wE9T",
+      "engagement": 170,
+      "is_hot": false,
+      "author": "-阿临-",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 167,
+        "comment_count": 3,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/d2dbc11491bfb47815157cf49ed3224507ff9ca1.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "［相位］小艾她像个战神",
       "summary": "-\n  └ 东方云心 (1赞): [星绘·沐春灼华 应援装扮_铸币大头]\n  └ 5455421 (0赞): 迫近的太阳怎么获得啊？",
       "source": "bilibili",
@@ -115,6 +138,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/62c3163876d6dce1efea4fa076d32b0538180606.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "忘却前夜 小骑士打熔朵 癫狂列车",
+      "summary": "随便打打\n不知道在干嘛\n其实只是想说这个死亡的剖析捡了127人头\ncos藏品\n\n背景音乐：\nYoshihiro Ike - &quot;Festival&quot;\nSakuzyo - &quot;97键盘のための轮舞曲&quot;\n  └ 想睡觉的雨酱 (1赞): 蛙趣 梦游佬，吓哭了\n  └ 呆呆松OWO (1赞): 夕陽與海面之間不再有縫隙，我呆呆地站在海岸邊隙，向海投入一顆顆松果贈與我的心意[桃源_缘分]\n  └ iq2233 (1赞): 强强[打call]",
+      "source": "bilibili",
+      "time": "2026-08-08T15:48:44+00:00",
+      "url": "https://www.bilibili.com/video/BV1WNu56BEo7",
+      "engagement": 128,
+      "is_hot": false,
+      "author": "夢遊遊遊遊",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 124,
+        "comment_count": 4,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/f3d44d878e6b22193992f250f496211fb57cad8c.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

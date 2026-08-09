@@ -1,8 +1,8 @@
 {
   "date": "2026-08-09",
-  "archived_at": "2026-08-09T01:28:16.992673+00:00",
+  "archived_at": "2026-08-09T04:18:51.339606+00:00",
   "source": "youtube",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능) 다음주 복각 무엇을뽑아야할까??",
@@ -17,6 +17,40 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/NmirtLn4HGU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens D Zone and Some Stories Voiced",
+      "summary": "Stream almost daily whenever I have free time we multi-stream on twitch and only on twitch for things that might get us in trouble ...",
+      "source": "youtube",
+      "time": "2026-08-09T01:43:56Z",
+      "url": "https://www.youtube.com/watch?v=Rx8dg4Lkym4",
+      "engagement": 16,
+      "is_hot": false,
+      "author": "FluffeyPanda's World",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/Rx8dg4Lkym4/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘卻前夜 Morimens】The Strongest and Easiest team for Lotan: Cetarchon ?",
+      "summary": "Core is Glotan Ryker Saya the team focus on just drawing the right card and its very reliable #morimens.",
+      "source": "youtube",
+      "time": "2026-08-09T02:13:31Z",
+      "url": "https://www.youtube.com/watch?v=RmOoN5vTyjI",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "Lawww",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/RmOoN5vTyjI/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
