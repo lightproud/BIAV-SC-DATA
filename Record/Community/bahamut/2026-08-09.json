@@ -1,8 +1,8 @@
 {
   "date": "2026-08-09",
-  "archived_at": "2026-08-09T12:46:13.223642+00:00",
+  "archived_at": "2026-08-09T15:31:17.932405+00:00",
   "source": "bahamut",
-  "item_count": 20,
+  "item_count": 21,
   "items": [
     {
       "title": "【版本前瞻】2.5.3 直至鯨天殞落版本重點整理",
@@ -208,6 +208,19 @@
       "engagement": 11,
       "is_hot": false,
       "author": "jack01212537",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【攻略】奧爾拉、杜勒賽因、茉夏，三相復刻抽取建議",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-09T15:29:48.331119+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1522&tnum=1",
+      "engagement": 7,
+      "is_hot": false,
+      "author": "t12345825",
       "tags": [],
       "lang": "zh",
       "platform_region": "tw"

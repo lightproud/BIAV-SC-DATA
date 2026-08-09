@@ -1,9 +1,78 @@
 {
   "date": "2026-08-09",
-  "archived_at": "2026-08-09T12:46:13.221286+00:00",
+  "archived_at": "2026-08-09T15:31:17.929795+00:00",
   "source": "bilibili",
-  "item_count": 10,
+  "item_count": 16,
   "items": [
+    {
+      "title": "所以不要依赖除我以外的人",
+      "summary": "-\n  └ 骄受了 (5赞): 包包怎么办 布羞也好好看，刷了一天肉块，终于刷到美少女了[星星眼]\n  └ 灯里的阿卡林 (0赞): 好喜欢好喜欢\n  └ 绝对CZ (0赞): 叶不羞能飞[doge]",
+      "source": "bilibili",
+      "time": "2026-08-09T12:51:58+00:00",
+      "url": "https://www.bilibili.com/video/BV19xu265Edb",
+      "engagement": 573,
+      "is_hot": true,
+      "author": "叶叶叶布羞",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 564,
+        "comment_count": 9,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/988d1c4396636c7d9d1bf0425b29b32c2d4e5d6c.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "没有明天",
+      "summary": "-\n  └ 忆灵清原 (0赞): 不到一个小时的[打call]\n  └ 狂想37嫉妒瓷 (0赞): 9分钟前[打call]",
+      "source": "bilibili",
+      "time": "2026-08-09T12:51:27+00:00",
+      "url": "https://www.bilibili.com/video/BV134u26CEoQ",
+      "engagement": 484,
+      "is_hot": false,
+      "author": "蹈海者",
+      "tags": [
+        "舞蹈综合"
+      ],
+      "metadata": {
+        "play": 480,
+        "comment_count": 4,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/87dbabe09f1676401b9b5304f607ec50830e7bbe.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "[忘却前夜]（微进阶向）性价比洗密契推荐，2，3，4词条主属性密契作用与成本分析",
+      "summary": "myls的忘却银夜群：884208560\n  └ 林月爱吃番茄 (0赞): 主页医生这个动态怎么获得？\n  └ 客舍_ (0赞): [Mygo表情包_抹茶芭菲]\n  └ 伊莎玛拉-大群来了 (0赞): [米塔_大拇指]",
+      "source": "bilibili",
+      "time": "2026-08-09T14:40:35+00:00",
+      "url": "https://www.bilibili.com/video/BV1fduU6hE2d",
+      "engagement": 135,
+      "is_hot": false,
+      "author": "梦依流苏_myls",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 128,
+        "comment_count": 7,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/aa22a1508012c749b357bee2ac764e3deac833d2.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "[忘却前夜]：四小只5-5之潘神可是我的第一个常驻唤醒体，挚爱亲朋手足兄弟，得加钱",
       "summary": "└ 丰川祥子-忍界大战 (2赞): 我学习…\n  └ 悲想 (1赞): 哦嚯嚯嚯嚯嚯[星星眼][星星眼][星星眼][星星眼][星星眼][星星眼][星星眼]",
@@ -46,6 +115,29 @@
         "danmaku": 1
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/6df367ab9d74792c7b8135c98fcb4b0bfe27b689.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "我们都是肉做的",
+      "summary": "-\n  └ 原子澎湃 (1赞): 可以调节一下比例\n  └ -昇天みそ__ (0赞): 这我婆娘",
+      "source": "bilibili",
+      "time": "2026-08-09T10:19:55+00:00",
+      "url": "https://www.bilibili.com/video/BV1SVum63EGx",
+      "engagement": 104,
+      "is_hot": false,
+      "author": "止痛剂1231422",
+      "tags": [
+        "仿妆cos"
+      ],
+      "metadata": {
+        "play": 101,
+        "comment_count": 3,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/6c11c008cd5d1863d091261c00aba4995ae0425c.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -166,6 +258,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "沙耶的神圣之舞",
+      "summary": "@耕司青海瑶",
+      "source": "bilibili",
+      "time": "2026-08-09T14:27:40+00:00",
+      "url": "https://www.bilibili.com/video/BV1y4uS6gEWx",
+      "engagement": 17,
+      "is_hot": false,
+      "author": "七吕可真是一对好cp啊",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 17,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/dd332a580bd15ef4b2f998888be2f722432e4877.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "Be you wanna be",
       "summary": "-\n  └ 梦游惊奇 (0赞): [星星眼][星星眼][星星眼]",
       "source": "bilibili",
@@ -207,6 +322,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/f7f58f1242bdc6997c11649221ee9e737bbecd2b.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】2-5全道中演示 三启鸟弟一启鸟哥纯超维队",
+      "summary": "没必要看完视频就下鸟弟池，只是给抽了三启鸟弟打不过道中的参考一下打法。\n正好下周奥尔拉也复刻了，下周可以参考试试挑战2-5。",
+      "source": "bilibili",
+      "time": "2026-08-09T15:25:49+00:00",
+      "url": "https://www.bilibili.com/video/BV1XMuS6pEf1",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "天辉信使Official",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 2,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/640ac9ffcdea20c15d1110a10e250bf8d8a394da.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

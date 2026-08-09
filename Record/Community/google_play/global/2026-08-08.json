@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-09T12:46:13.374776+00:00",
+  "archived_at": "2026-08-09T15:31:18.098775+00:00",
   "source": "google_play",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[Google Play 好评] ★5 we need more aeqour units. the best card",
@@ -58,6 +58,20 @@
       "tags": [],
       "lang": "en",
       "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 game hay mà ít người bt kinh😭",
+      "summary": "game hay mà ít người bt kinh😭",
+      "source": "google_play",
+      "time": "2026-08-08T13:31:57",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=vi#gp-9c7109e4-fae7-4427-b6a1-17364fd93afb",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ran Mei",
+      "tags": [],
+      "lang": "vi",
+      "platform_region": "vn",
       "region": "global"
     }
   ],
