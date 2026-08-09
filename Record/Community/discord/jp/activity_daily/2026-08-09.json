@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-09",
+  "messages": 6,
+  "unique_authors": 5,
+  "reactions_total": 0,
+  "attachments": 0,
+  "channel_activity": {
+    "なんでも雑談": 4,
+    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 1,
+    "ニムフィーアの毒パ研究日誌": 1
+  },
+  "hourly_activity": {
+    "1": 5,
+    "2": 1
+  },
+  "message_types": {
+    "0": 6
+  },
+  "top_reacted_messages": []
+}
