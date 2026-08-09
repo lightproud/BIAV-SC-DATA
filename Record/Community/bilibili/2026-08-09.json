@@ -1,9 +1,32 @@
 {
   "date": "2026-08-09",
-  "archived_at": "2026-08-08T21:30:11.215020+00:00",
+  "archived_at": "2026-08-09T01:28:16.993055+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 4,
   "items": [
+    {
+      "title": "【忘却淋夜】老人与海制裁5-5潘狄亚回宫",
+      "summary": "淋系视频注意，内容纯属虚构，无恶意诋毁，不良引导，视频中所用语言皆为虚构和节目效果，无任何针对和低俗作用，请仔细了解淋的含义再决定是否观看\n对号入座前请仔细阅读文案\n这个能算饭吗\nBGM：初音miku-神居谣",
+      "source": "bilibili",
+      "time": "2026-08-09T00:00:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1izuV6xEsK",
+      "engagement": 87,
+      "is_hot": false,
+      "author": "花葉月",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 87,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/4bb6e4ea174bd8d466a3171de361b9f52aa95d82.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "5-5大招流uw 爽了",
       "summary": "└ 笼宴 (1赞): 不赖",
@@ -23,6 +46,52 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/667f7ee4903701dcfad27afa4ff0ce92725abd16.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "Be you wanna be",
+      "summary": "-\n  └ 梦游惊奇 (0赞): [星星眼][星星眼][星星眼]",
+      "source": "bilibili",
+      "time": "2026-08-09T00:08:28+00:00",
+      "url": "https://www.bilibili.com/video/BV1X3u76cE62",
+      "engagement": 14,
+      "is_hot": false,
+      "author": "蹈海者",
+      "tags": [
+        "影视剪辑"
+      ],
+      "metadata": {
+        "play": 12,
+        "comment_count": 2,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/f7f58f1242bdc6997c11649221ee9e737bbecd2b.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "be you wanna be",
+      "summary": "-\n  └ 爱喝酒的梅酱_ (0赞): 为什么会有两个一样的视频\n  └ 爱喝酒的梅酱_ (0赞): 剪的很好，赐给你忘却前夜的热度[doge]",
+      "source": "bilibili",
+      "time": "2026-08-09T00:11:12+00:00",
+      "url": "https://www.bilibili.com/video/BV19uu76aEUQ",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "蹈海者",
+      "tags": [
+        "影视剪辑"
+      ],
+      "metadata": {
+        "play": 3,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/f7f58f1242bdc6997c11649221ee9e737bbecd2b.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-08T21:30:11.373293+00:00",
+  "archived_at": "2026-08-09T01:28:17.141579+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 we need more aeqour units. the best card",
@@ -13,6 +13,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "MadBrx",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 A hidden gem, stunning visuals and engag",
+      "summary": "A hidden gem, stunning visuals and engaging gameplay with a lot of content. Highly recommended",
+      "source": "google_play",
+      "time": "2026-08-08T00:26:11",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-c00dd500-0b5a-41b6-a259-d3d8a83c084b",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "愛lalaspam",
       "tags": [],
       "lang": "en",
       "platform_region": "us",
