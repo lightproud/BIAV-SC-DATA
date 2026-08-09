@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-10",
+  "archived_at": "2026-08-09T21:31:17.502008+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] very good",
+      "summary": "very good",
+      "source": "steam_review",
+      "time": "2026-08-09T18:06:02+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199143832560/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199143832560",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1439,
+        "votes_up": 0,
+        "timestamp_created": 1786298762
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
