@@ -1,9 +1,32 @@
 {
   "date": "2026-08-09",
-  "archived_at": "2026-08-09T06:54:31.222534+00:00",
+  "archived_at": "2026-08-09T09:38:57.008765+00:00",
   "source": "bilibili",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
+    {
+      "title": "【忘却前夜】温卡羊莉兹融灾禁区5-5",
+      "summary": "吃点好的\n  └ 跳段木偶舞 (1赞): 想玩🌰了，还没怎么接触过这角色[汤圆]\n  └ 烟已归 (0赞): 我了\n  └ 烟已归 (0赞): 好美丽的伤害...",
+      "source": "bilibili",
+      "time": "2026-08-09T07:54:26+00:00",
+      "url": "https://www.bilibili.com/video/BV1oRuy61ERQ",
+      "engagement": 111,
+      "is_hot": false,
+      "author": "朝星-",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 107,
+        "comment_count": 4,
+        "comments_fetched": 3,
+        "danmaku": 1
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/6df367ab9d74792c7b8135c98fcb4b0bfe27b689.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "【忘却前夜】当下所有活动关省时省力1分钟1t速通打法",
       "summary": "-\n  └ 嘎啦嘎啦果 (0赞): 同调率刷法：【【忘却前夜】25秒速刷460同调率（251208～251221）-哔哩哔哩】 https://b23.tv/yzsugfC\n  └ 嘎啦嘎啦果 (0赞): 保证拉蒙娜开局有大招，先出第一张0费，让茉夏开大清掉第一管血，第二管血靠各种手段把沙耶0费重新捞上来，看你们自己发挥吧，几个追击就没了。\n如果日常打牌任务还有几张没做完的话，去3-1鸟弟1鸟哥0鸟弟1，刷自己喜欢的角色的同调率就行了。",
@@ -69,6 +92,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/667f7ee4903701dcfad27afa4ff0ce92725abd16.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】中配超限尤乌5-5全流程",
+      "summary": "简单又好玩）\n不打复杂机制怪，超限尤乌有专造还算轻松",
+      "source": "bilibili",
+      "time": "2026-08-09T08:31:31+00:00",
+      "url": "https://www.bilibili.com/video/BV1QTu16qEv5",
+      "engagement": 31,
+      "is_hot": false,
+      "author": "跳段木偶舞",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 31,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/6cb9727b154bff4483c75e7386c5aad9ff707fc4.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
