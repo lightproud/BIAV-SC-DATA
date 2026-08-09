@@ -1,11 +1,11 @@
 {
   "date": "2026-06-13",
-  "messages": 28374,
+  "messages": 33374,
   "unique_authors": 457,
-  "reactions_total": 2473,
-  "attachments": 1600,
+  "reactions_total": 3183,
+  "attachments": 1816,
   "channel_activity": {
-    "🔸morimens-game-chat": 1842,
+    "🔸morimens-game-chat": 6842,
     "🔸game-question": 8657,
     "🔸general-chat": 4382,
     "🔸綜合討論": 3457,
@@ -86,36 +86,36 @@
     "Who to use my 3 prototype horizons on?": 2
   },
   "hourly_activity": {
+    "5": 986,
+    "6": 977,
+    "7": 1974,
+    "8": 1433,
+    "9": 1418,
+    "10": 1334,
+    "11": 1661,
+    "12": 2239,
+    "13": 2210,
+    "14": 2100,
+    "15": 1733,
+    "16": 954,
+    "17": 1384,
+    "18": 1748,
+    "19": 1370,
     "0": 1022,
     "1": 1466,
     "2": 1226,
     "3": 928,
     "4": 1148,
-    "5": 871,
-    "19": 1341,
     "20": 1133,
     "21": 877,
     "22": 1259,
-    "23": 794,
-    "6": 746,
-    "7": 1367,
-    "8": 1072,
-    "9": 1225,
-    "10": 1038,
-    "11": 1276,
-    "12": 1901,
-    "13": 1839,
-    "14": 1547,
-    "15": 1058,
-    "16": 773,
-    "17": 1103,
-    "18": 1364
+    "23": 794
   },
   "message_types": {
-    "0": 2045,
-    "19": 1412,
-    "20": 8,
-    "46": 2
+    "19": 3358,
+    "0": 5087,
+    "46": 4,
+    "20": 18
   },
   "top_reacted_messages": [
     {
@@ -167,6 +167,14 @@
       "channel": "《水手歌謠》"
     },
     {
+      "id": "1515253367243542629",
+      "channel_id": "1170692781216378960",
+      "content": "Finally !\nOE/W3 Vortice !!",
+      "author": "legendaryredz",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1515157727083757569",
       "channel_id": "1170692781216378960",
       "content": "https://tenor.com/view/ryker-morimens-let%27s-go-gambling-gif-131998585377830966",
@@ -189,6 +197,38 @@
       "author": "roklimorii",
       "reactions": 8,
       "channel": "by roklimorii"
+    },
+    {
+      "id": "1515227526652362752",
+      "channel_id": "1170692781216378960",
+      "content": "After Saya's rouse, you can understand what the boss saying now",
+      "author": "iulargerthan3",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1515241089542393897",
+      "channel_id": "1170692781216378960",
+      "content": "Wow 2 triples in a single day",
+      "author": ".clairvoyant_",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1515394409917845584",
+      "channel_id": "1170692781216378960",
+      "content": "what if its actually ragebait",
+      "author": "fibrinogen",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1515424172640174092",
+      "channel_id": "1170692781216378960",
+      "content": "Yay 10th pullll",
+      "author": "ronshohan1",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1515156638414409829",
@@ -231,52 +271,12 @@
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1515145482882781268",
+      "id": "1515252352628818010",
       "channel_id": "1170692781216378960",
-      "content": "yay i got her from standard again ^^",
-      "author": "tr4nquil1ty",
+      "content": "wish granted we get brickman ass as official emote",
+      "author": "fibrinogen",
       "reactions": 6,
       "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1515147211032236153",
-      "channel_id": "1170692781216378960",
-      "content": "dude got scammed and then asked the keeper for more money",
-      "author": "underplayer5794",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1515251529148534814",
-      "channel_id": "1433513650299076780",
-      "content": "everyone is OE except thais",
-      "author": "hexalice",
-      "reactions": 6,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1515252185988988968",
-      "channel_id": "1433513650299076780",
-      "content": "i basically oe'd everyone i wanted",
-      "author": "hexalice",
-      "reactions": 6,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1515187069511663637",
-      "channel_id": "1433513650299076780",
-      "content": "Got her in 15 pulls do I keep going",
-      "author": "spuddle",
-      "reactions": 6,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1515439792526196890",
-      "channel_id": "1131839817982947429",
-      "content": "这游戏的新手建议，先进语音频道谈谈心，了解一下人生哲学，分享屏幕理解他的box，看看钱包理解他的财力\n然后才能推荐他抽俩阿拉克涅一带三\n🤓 ☝️",
-      "author": "xyakoto",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
     }
   ]
 }
