@@ -1,8 +1,8 @@
 {
   "date": "2026-08-09",
-  "archived_at": "2026-08-09T15:31:17.929795+00:00",
+  "archived_at": "2026-08-09T18:39:19.902215+00:00",
   "source": "bilibili",
-  "item_count": 16,
+  "item_count": 18,
   "items": [
     {
       "title": "所以不要依赖除我以外的人",
@@ -46,6 +46,52 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/87dbabe09f1676401b9b5304f607ec50830e7bbe.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "沙耶之题:由劣质题目构成的少女",
+      "summary": "文案原创:@动漫从业者厷\n  └ 渡会雏见_ (2赞): 这题是非刷不可吗？\n  └ 5个byte (1赞): 啥时候做刷题的夜宴[笑哭]\n  └ 飞白拂其上 (1赞): 谁懂一连四天每天都能刷到up必刷题的视频[FGO_汗]",
+      "source": "bilibili",
+      "time": "2026-08-09T14:59:03+00:00",
+      "url": "https://www.bilibili.com/video/BV1ASuU6iEyA",
+      "engagement": 197,
+      "is_hot": false,
+      "author": "Yuki该呢称已存在",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 188,
+        "comment_count": 9,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/20689f3d893280b339cdfbe8e7bc65d678a87093.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "只有沙耶才可以哦",
+      "summary": "-\n  └ jkuilo (1赞): 可爱[你和她和她的恋爱_嘿嘿嘿]\n  └ 雅小姐太入机了 (0赞): 怎么一团肉在唱歌\n  └ -昆扬 (0赞): [魔法少女的魔女审判表情包_探头]",
+      "source": "bilibili",
+      "time": "2026-08-09T11:22:27+00:00",
+      "url": "https://www.bilibili.com/video/BV1EZu26pEnv",
+      "engagement": 165,
+      "is_hot": false,
+      "author": "栀的小秘密",
+      "tags": [
+        "仿妆cos"
+      ],
+      "metadata": {
+        "play": 155,
+        "comment_count": 10,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/64fa318ed328c75a3b96d1360386bb0295cce4d0.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

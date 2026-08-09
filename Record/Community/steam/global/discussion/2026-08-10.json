@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-10",
+  "archived_at": "2026-08-09T18:39:19.960647+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam论坛] 国服给个确切消息呀",
+      "summary": "1月份说筹备国服，现在8月了，半年多不该给个进度消息吗？",
+      "source": "steam_discussion",
+      "time": "2026-08-09T16:34:10+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/586182635679788226/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "游戏爱好者",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}
