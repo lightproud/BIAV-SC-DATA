@@ -1,9 +1,32 @@
 {
   "date": "2026-08-09",
-  "archived_at": "2026-08-09T09:38:57.008765+00:00",
+  "archived_at": "2026-08-09T12:46:13.221286+00:00",
   "source": "bilibili",
-  "item_count": 7,
+  "item_count": 10,
   "items": [
+    {
+      "title": "[忘却前夜]：四小只5-5之潘神可是我的第一个常驻唤醒体，挚爱亲朋手足兄弟，得加钱",
+      "summary": "└ 丰川祥子-忍界大战 (2赞): 我学习…\n  └ 悲想 (1赞): 哦嚯嚯嚯嚯嚯[星星眼][星星眼][星星眼][星星眼][星星眼][星星眼][星星眼]",
+      "source": "bilibili",
+      "time": "2026-08-09T06:18:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1oiu16mE8U",
+      "engagement": 130,
+      "is_hot": false,
+      "author": "龢利喵",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 126,
+        "comment_count": 4,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/2e9ea6719628673d74ff952f7138e7ceec0d149e.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "【忘却前夜】温卡羊莉兹融灾禁区5-5",
       "summary": "吃点好的\n  └ 跳段木偶舞 (1赞): 想玩🌰了，还没怎么接触过这角色[汤圆]\n  └ 烟已归 (0赞): 我了\n  └ 烟已归 (0赞): 好美丽的伤害...",
@@ -69,6 +92,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/4bb6e4ea174bd8d466a3171de361b9f52aa95d82.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】全常驻自爆流水母欢乐通关融灾3-5",
+      "summary": "-\n  └ 嘎啦嘎啦果 (0赞): 水母必须+12，+4都不行！\n对水母和小骑士的灵塑适应要求比较高，尽可能8。\n自爆命轮五件套缺一不可：极夜、菲专、船长专、莉莉sr、墨菲sr\n自爆流核心固定小骑士，艾尔瓦防止断易伤，萝坦补伤害。\n只觉醒水母和小骑士，顺序随便。\n能偷一点伤害是一点。\n尽可能让水母0费污染整套手牌，最后小骑士开大，其他人补伤害，打出美丽瞬间，洗掉0费，然后水母打击吧打击吧打击吧就把对面打死啦。",
+      "source": "bilibili",
+      "time": "2026-08-09T10:42:36+00:00",
+      "url": "https://www.bilibili.com/video/BV1c8um6hEqZ",
+      "engagement": 84,
+      "is_hot": false,
+      "author": "嘎啦嘎啦果",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 82,
+        "comment_count": 2,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/9a64aa56ffe8a9c561012c484c1d18239e9cf76d.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -161,6 +207,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/f7f58f1242bdc6997c11649221ee9e737bbecd2b.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "或许也是一种才能吧！",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-09T12:40:12+00:00",
+      "url": "https://www.bilibili.com/video/BV1Lpu26jEPu",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "龙傲天葉月夜Doctor",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 1,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/b15ebbdad6b86f0312f29375d54e47095bdf7467.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

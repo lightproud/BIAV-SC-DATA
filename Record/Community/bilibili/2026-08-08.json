@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-09T09:38:57.007616+00:00",
+  "archived_at": "2026-08-09T12:46:13.220281+00:00",
   "source": "bilibili",
-  "item_count": 19,
+  "item_count": 20,
   "items": [
     {
       "title": "【政治经济学分析】虚渊玄",
@@ -138,6 +138,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/62c3163876d6dce1efea4fa076d32b0538180606.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "沙耶之歌丨只是沙耶在唱歌",
+      "summary": "为了这盘醋包的饺子\n糊的不行了orz\n\n关于使用素材：\n音频：Takeko竹子 BV1bUEc6PEgv\nUST作者：东訸\n来源：BowlRoll\nhttps://bowlroll.net/file/337931\n\n对口型网站: https://ustlipsync.riciwaaaa.win/\n  └ -昆扬 (3赞): [魔法少女的魔女审判表情包_探头]\n  └ Nautilus114 (2赞): 沙耶，你的妙脆角丢哪了\n  └ 荼甘如荠 (1赞): 放一坨肉在干嘛[笑哭]",
+      "source": "bilibili",
+      "time": "2026-08-08T15:58:13+00:00",
+      "url": "https://www.bilibili.com/video/BV1zeuV6fEDG",
+      "engagement": 130,
+      "is_hot": false,
+      "author": "OvO06",
+      "tags": [
+        "电子竞技"
+      ],
+      "metadata": {
+        "play": 121,
+        "comment_count": 9,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/308cc78f8a1e5111ab0a4127794e7618d8921418.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
