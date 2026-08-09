@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "archived_at": "2026-08-09T04:18:51.464632+00:00",
+  "archived_at": "2026-08-09T06:54:31.331240+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 好评] ★5 we need more aeqour units. the best card",
@@ -44,6 +44,20 @@
       "tags": [],
       "lang": "ko",
       "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 Gorgeous are and awesome dark horror vib",
+      "summary": "Gorgeous are and awesome dark horror vibes, but the live events are pretty lack luster and mostly aimed at late game players. The game itself is also sadly quite a bit repetitive, with little variance in mission types and flows. Combat is pretty fun and with a lot tactics and team options, but you also get an overwhelming number of characters quickly.",
+      "source": "google_play",
+      "time": "2026-08-08T06:28:40",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-18f910a7-bd62-475c-ad03-c1d8fca31202",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Sean C",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],
