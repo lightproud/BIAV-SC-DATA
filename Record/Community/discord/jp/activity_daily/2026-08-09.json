@@ -1,27 +1,80 @@
 {
   "date": "2026-08-09",
-  "messages": 53,
-  "unique_authors": 12,
-  "reactions_total": 5,
-  "attachments": 1,
+  "messages": 96,
+  "unique_authors": 14,
+  "reactions_total": 12,
+  "attachments": 7,
   "channel_activity": {
-    "なんでも雑談": 13,
+    "なんでも雑談": 50,
+    "ニムフィーアの毒パ研究日誌": 6,
+    "つぶやき": 3,
+    "対人戦に詳しく解説「初心者〜上級者まで」": 1,
     "誰でも質問": 16,
     "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 19,
-    "ニムフィーアの毒パ研究日誌": 4,
     "招待コード共有会": 1
   },
   "hourly_activity": {
+    "5": 6,
+    "6": 23,
+    "7": 14,
     "4": 27,
     "2": 13,
     "3": 8,
     "1": 5
   },
   "message_types": {
-    "0": 47,
-    "19": 6
+    "0": 88,
+    "19": 8
   },
   "top_reacted_messages": [
+    {
+      "id": "1535909315947266170",
+      "channel_id": "1377478664609857647",
+      "content": "6章開幕で急にPVきたのいいわね",
+      "author": "tomreo",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1535895982338998363",
+      "channel_id": "1377478664609857647",
+      "content": "~~思想汚染？~~",
+      "author": "foxcatfurry",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1535900962047131688",
+      "channel_id": "1377478664609857647",
+      "content": "||今更ながらミノムシ狩り||",
+      "author": "rua0201",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1535901213256843274",
+      "channel_id": "1377478664609857647",
+      "content": "リリー！",
+      "author": "kuroneko4253",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1535901614714392596",
+      "channel_id": "1377478664609857647",
+      "content": "リリーちゃいいわね。",
+      "author": "aku08158",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1535907305768620162",
+      "channel_id": "1377478664609857647",
+      "content": "ゴリアテがいいキャラしていた",
+      "author": "tomreo",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
     {
       "id": "1535867572065534044",
       "channel_id": "1377478664609857647",
