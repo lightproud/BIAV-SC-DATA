@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "archived_at": "2026-08-10T07:29:17.535701+00:00",
+  "archived_at": "2026-08-10T10:16:43.572931+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 5,
   "items": [
     {
       "title": "[正面] very good",
@@ -70,6 +70,54 @@
         "playtime_forever": 848,
         "votes_up": 0,
         "timestamp_created": 1786323402
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 跑路了兄弟们跑路了，我发现这吊游戏策划是真活到头了，他是一点都不待见数值队，入坑十几天又攒又氪好不容...",
+      "summary": "跑路了兄弟们跑路了，我发现这吊游戏策划是真活到头了，他是一点都不待见数值队，入坑十几天又攒又氪好不容易攒个420抽给末夏池结果给我歪的420抽差点没超限，而且像末夏这种纯数值怪到后期就是要吃亏的，你数值再高又怎么样，一套能打几十万爆发又怎么样，策划反手给BOSS加个转阶段无敌、受10%生命值伤害就免伤99%，每次都是伤害溢出一大把全被免疫了，真几把似马了，数值怪怎么能跟伟大的机制怪大人比呢，从我入坑选择羊沙拉萨队开始就一直被强行锁血恶心，到了nm第八章更是变本加厉，BOSS强行锁血了起码六次，起码六次啊，我抽个超限末夏就是来炸鱼爽的，结果给我排个赖着不死的虚化狗跳脸嘲讽我“哎，我就是不死，哎，你能拿我怎么样”，恶心死你爸了，羊沙萨夏也别干了，老老实实换回羊沙拉夏吧，什么？神父吞胎加几百次攻击力末夏收益高？都几把溢出几十万伤害了还高收益呢，BOSS一转阶段你不炸了，这吊游戏的平衡算是彻底烷基八氮了，谁爱玩谁玩去吧，跑路了兄弟们跑路了。",
+      "source": "steam_review",
+      "time": "2026-08-10T09:02:14+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198789368579/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198789368579",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 4115,
+        "votes_up": 0,
+        "timestamp_created": 1786352534
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 沙耶。。。。。。喜欢 。。。。。",
+      "summary": "沙耶。。。。。。喜欢 。。。。。",
+      "source": "steam_review",
+      "time": "2026-08-10T08:05:43+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199864294673/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199864294673",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 4169,
+        "votes_up": 0,
+        "timestamp_created": 1786349143
       },
       "region": "global",
       "archive_subtype": "review",

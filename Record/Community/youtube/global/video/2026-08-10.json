@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "archived_at": "2026-08-10T07:29:17.468917+00:00",
+  "archived_at": "2026-08-10T10:16:43.533913+00:00",
   "source": "youtube",
-  "item_count": 12,
+  "item_count": 14,
   "items": [
     {
       "title": "twins at the carousel animation #animation #animationmeme #ocxcanon #morimens",
@@ -175,6 +175,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Morimens Astral Reign 4-15 Eternal Veil",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-10T09:23:01Z",
+      "url": "https://www.youtube.com/watch?v=o9cTQtjcAAU",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Maddy Archer",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/o9cTQtjcAAU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Morimens | Chapter 1-4",
       "summary": "OLDtaku Plays Anime Games https://www.twitch.tv/howjududat/ https://discord.gg/FB3Ck2Qq #HonkaiStarRail #HonkaiImpact ...",
       "source": "youtube",
@@ -204,6 +221,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/QJ8Iqhu9YbE/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】イベント「神王の復活・復刻」深海凝視「人間性の崩壊・超難度」",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-08-10T08:35:02Z",
+      "url": "https://www.youtube.com/watch?v=LpZZF6AohJA",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/LpZZF6AohJA/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
