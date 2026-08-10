@@ -1,8 +1,8 @@
 {
   "date": "2026-08-09",
-  "archived_at": "2026-08-09T21:31:17.455116+00:00",
+  "archived_at": "2026-08-10T01:29:17.615968+00:00",
   "source": "bilibili",
-  "item_count": 18,
+  "item_count": 19,
   "items": [
     {
       "title": "所以不要依赖除我以外的人",
@@ -115,6 +115,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/aa22a1508012c749b357bee2ac764e3deac833d2.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "神的暑假",
+      "summary": "这一切都是命运石之门的选择！\n狼来了！\n你为什么这么熟练！\n杀人就要做好被杀的准备！\n乔尼，LESSON5哒！\n豆楼噶（大力药）\n吃我冰冻弹\n此时，你也和我一样，在看着世界的尽头吧...我能否同你一起看呢？",
+      "source": "bilibili",
+      "time": "2026-08-09T14:38:51+00:00",
+      "url": "https://www.bilibili.com/video/BV16ZuU6cE4A",
+      "engagement": 134,
+      "is_hot": false,
+      "author": "没戏等多久",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 134,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/0fdd9c7166c2aa5d8808acb5bc1daba59c11e97f.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

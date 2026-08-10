@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-10",
+  "archived_at": "2026-08-10T01:29:17.623320+00:00",
+  "source": "bilibili",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "小沙耶有点贪吃喽",
+      "summary": "-\n  └ -昆扬 (1赞): [魔法少女的魔女审判表情包_探头]",
+      "source": "bilibili",
+      "time": "2026-08-10T00:30:40+00:00",
+      "url": "https://www.bilibili.com/video/BV17tuX6TEzW",
+      "engagement": 10,
+      "is_hot": false,
+      "author": "小龙猫大能力",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 8,
+        "comment_count": 2,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/feb5d54c24460b462f0536ec55ffb1e978bc57f6.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "DDLCx沙耶の唄【速時繪圖/Wip】",
+      "summary": "打算今年畫個MAS的短篇小故事&gt;:D (會在個人itch上上傳uwu\n個人pixiv:\nhttps://www.pixiv.net/users/10174887",
+      "source": "bilibili",
+      "time": "2026-08-10T00:56:39+00:00",
+      "url": "https://www.bilibili.com/video/BV1imuQ6eEJi",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "AliceDemon929",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 4,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/a037f72039444ecfdb5cb227485afd38545e8e63.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    }
+  ]
+}

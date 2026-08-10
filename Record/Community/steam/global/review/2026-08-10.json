@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "archived_at": "2026-08-09T21:31:17.502008+00:00",
+  "archived_at": "2026-08-10T01:29:17.695231+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[正面] very good",
@@ -22,6 +22,30 @@
         "playtime_forever": 1439,
         "votes_up": 0,
         "timestamp_created": 1786298762
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] Сюжет полное говно, не втягивает. \nГеймплей максим...",
+      "summary": "Сюжет полное говно, не втягивает. \nГеймплей максимально убогий и посредственный даже для пошаговой боевки. \nПеревод дерьмовый даже в английской локализации. \nДизайны персов тоже дерьмо и (очевидно) сделаны с помощью нейронки. \nВ этот ИИ-слоп играть невозможно. Особенный сорт говна среди гача игр.",
+      "source": "steam_review",
+      "time": "2026-08-09T22:36:59+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199388624489/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199388624489",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 217,
+        "votes_up": 0,
+        "timestamp_created": 1786315019
       },
       "region": "global",
       "archive_subtype": "review",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "archived_at": "2026-08-09T21:31:17.455773+00:00",
+  "archived_at": "2026-08-10T01:29:17.616922+00:00",
   "source": "youtube",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "twins at the carousel animation #animation #animationmeme #ocxcanon #morimens",
@@ -85,6 +85,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/L67oh32EmaI/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】サンガーの意識潜行やるぞ!!",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-10T00:17:41Z",
+      "url": "https://www.youtube.com/watch?v=DWa69nxiFbI",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "かっこん",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/DWa69nxiFbI/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
