@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "archived_at": "2026-08-10T04:29:56.490083+00:00",
+  "archived_at": "2026-08-10T07:29:17.468917+00:00",
   "source": "youtube",
-  "item_count": 10,
+  "item_count": 12,
   "items": [
     {
       "title": "twins at the carousel animation #animation #animationmeme #ocxcanon #morimens",
@@ -90,6 +90,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "[Morimens] OE Mouchette pulls",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-10T04:39:47Z",
+      "url": "https://www.youtube.com/watch?v=eL4ROzHd5uI",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "Ethy",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/eL4ROzHd5uI/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Morimens : Chill Awaken Session",
       "summary": "vtuber #pngtuber #gaming.",
       "source": "youtube",
@@ -170,6 +187,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/vAPSxYcJAMc/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens \\\\ Рераны Хорлы, Доресайна и Мушетт",
+      "summary": "Добровольная поддержка: https://www.donationalerts.com/r/closetom Напрямую: 2200700154063498 Т-Банк Соцсети: ...",
+      "source": "youtube",
+      "time": "2026-08-10T05:51:00Z",
+      "url": "https://www.youtube.com/watch?v=QJ8Iqhu9YbE",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Closetom",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/QJ8Iqhu9YbE/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
