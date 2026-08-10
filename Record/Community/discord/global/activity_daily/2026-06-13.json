@@ -1,11 +1,11 @@
 {
   "date": "2026-06-13",
-  "messages": 33374,
+  "messages": 35230,
   "unique_authors": 457,
-  "reactions_total": 3183,
-  "attachments": 1816,
+  "reactions_total": 3380,
+  "attachments": 1879,
   "channel_activity": {
-    "🔸morimens-game-chat": 6842,
+    "🔸morimens-game-chat": 8698,
     "🔸game-question": 8657,
     "🔸general-chat": 4382,
     "🔸綜合討論": 3457,
@@ -86,6 +86,11 @@
     "Who to use my 3 prototype horizons on?": 2
   },
   "hourly_activity": {
+    "19": 1738,
+    "20": 1588,
+    "21": 951,
+    "22": 1687,
+    "23": 1325,
     "5": 986,
     "6": 977,
     "7": 1974,
@@ -100,22 +105,17 @@
     "16": 954,
     "17": 1384,
     "18": 1748,
-    "19": 1370,
     "0": 1022,
     "1": 1466,
     "2": 1226,
     "3": 928,
-    "4": 1148,
-    "20": 1133,
-    "21": 877,
-    "22": 1259,
-    "23": 794
+    "4": 1148
   },
   "message_types": {
-    "19": 3358,
-    "0": 5087,
-    "46": 4,
-    "20": 18
+    "0": 6193,
+    "19": 4105,
+    "20": 21,
+    "46": 4
   },
   "top_reacted_messages": [
     {
@@ -199,6 +199,14 @@
       "channel": "by roklimorii"
     },
     {
+      "id": "1515445739021668503",
+      "channel_id": "1170692781216378960",
+      "content": "...I spent a lot of effort trying to get 200 in D-Zone, but I didn't know the ne",
+      "author": "masiakasaurusofwar",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1515227526652362752",
       "channel_id": "1170692781216378960",
       "content": "After Saya's rouse, you can understand what the boss saying now",
@@ -269,14 +277,6 @@
       "author": "nemu_s_t_a_r",
       "reactions": 7,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1515252352628818010",
-      "channel_id": "1170692781216378960",
-      "content": "wish granted we get brickman ass as official emote",
-      "author": "fibrinogen",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }

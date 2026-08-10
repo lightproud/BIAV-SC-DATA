@@ -1,10 +1,11 @@
 {
   "date": "2026-08-04",
-  "messages": 7722,
+  "messages": 8072,
   "unique_authors": 303,
-  "reactions_total": 693,
-  "attachments": 385,
+  "reactions_total": 742,
+  "attachments": 408,
   "channel_activity": {
+    "🔸general-chat": 350,
     "🔸綜合討論": 644,
     "🔸阵容构建": 2,
     "🔸剧情交流": 30,
@@ -70,6 +71,10 @@
     "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1
   },
   "hourly_activity": {
+    "0": 240,
+    "1": 375,
+    "2": 286,
+    "3": 149,
     "9": 464,
     "10": 328,
     "11": 501,
@@ -85,10 +90,6 @@
     "23": 85,
     "20": 238,
     "21": 449,
-    "0": 194,
-    "1": 226,
-    "2": 156,
-    "3": 124,
     "4": 179,
     "5": 386,
     "6": 247,
@@ -96,12 +97,20 @@
     "8": 338
   },
   "message_types": {
-    "0": 5451,
-    "19": 2238,
-    "23": 1,
-    "20": 32
+    "0": 5671,
+    "19": 2367,
+    "20": 33,
+    "23": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1534021086977589360",
+      "channel_id": "1400750050208125010",
+      "content": "THE BLUE ARCHIVE FANDOM IS DYING\n\nREPOST THIS TO KILL IT FASTER",
+      "author": "bocchi_the_raf",
+      "reactions": 11,
+      "channel": "🔸general-chat"
+    },
     {
       "id": "1534086780062535711",
       "channel_id": "1131839817982947429",
@@ -231,6 +240,14 @@
       "channel": "堆图ing"
     },
     {
+      "id": "1534022433034735717",
+      "channel_id": "1400750050208125010",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 5,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1534252534342881410",
       "channel_id": "1300659662311526512",
       "content": "",
@@ -245,22 +262,6 @@
       "author": "eresh69",
       "reactions": 5,
       "channel": "Please rework how Propagation Caro works for the future units"
-    },
-    {
-      "id": "1534008638862004285",
-      "channel_id": "1131839817982947429",
-      "content": "一想到接下来会发生什么我就想笑",
-      "author": "ponponnyaru",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534069892716691556",
-      "channel_id": "1131839817982947429",
-      "content": "~~血量跟路邊的小怪一樣常見~~",
-      "author": "water_heart",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
     }
   ]
 }

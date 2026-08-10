@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-10",
+  "messages": 3725,
+  "unique_authors": 263,
+  "reactions_total": 631,
+  "attachments": 160,
+  "channel_activity": {
+    "🔸綜合討論": 1102,
+    "🔸剧情交流": 1,
+    "🔸晒卡分享": 5,
+    "🔸相位对弈": 1,
+    "🔸课间休息闲聊": 6,
+    "🔸한국어-채팅방": 10,
+    "🔸deutscher-chatraum": 7,
+    "🔸chaîne-française": 5,
+    "🔸русский-канал": 6,
+    "🔸phòng-chat-tiếng-việt": 251,
+    "🔸canal-español": 60,
+    "🔸ruang-obrolan-indonesia": 202,
+    "🔸ห้องสนทนาภาษาไทย": 9,
+    "🔸traphase": 17,
+    "🔸lore-chat": 63,
+    "🔸礼包码┊gift-codes": 1,
+    "🔸lets-count": 5,
+    "🔸team-building": 454,
+    "🔸邀请码互助┊swap-invitation-codes": 8,
+    "🔸game-question": 1422,
+    "🔸机器人命令┊bot-commands": 30,
+    "弥萨格校友号码本5.0": 1,
+    "“被爱，就是被吞噬” || 杜勒赛因x西维斯特": 1,
+    "日服的新角色竟然是莉莉妈？": 4,
+    "Training Dummy": 6,
+    "Are there any plans to fix iOS version of game?": 2,
+    "Caro Crimson Furnace Regen Number is incorrect": 3,
+    "It's time to complain about Horla E2, never been done before, call me Columbus": 3,
+    "Lotan: Cetarchon exalt damage number does not line up with the hit after update V2.5.3.3": 1,
+    "Amber-Tinted Death does not benefit from PChaos stat enhancement": 2,
+    "Can we get new icons for Benthos/Singularity/Propagation/Primordia Realms?": 3,
+    "Please relax the condition for Pontos' gaunts generation": 2,
+    "Please rework how Propagation Caro works for the future units": 2,
+    "V2.5.1.0 停服维护公告": 1,
+    "YoruWiki ! ( hameln pic dumps for every1 !! )": 1,
+    "My morimens arts": 2,
+    "Arsen's Doodle corner": 1,
+    "Nefraea + Arachne Posting (Weekly)": 5,
+    "Vortice sketch": 4,
+    "GLotan General Guide": 1,
+    "morimens team generator!!": 1,
+    "Español Traducción - Recopilación de Retroalimentación": 1,
+    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 2,
+    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1,
+    "配队求组": 4,
+    "配隊求助": 1,
+    "回鍋約一個月陣容組成": 3,
+    "13-day player looking for advice on pulls & progression": 1,
+    "help for d-tide": 1
+  },
+  "hourly_activity": {
+    "0": 222,
+    "1": 362,
+    "2": 525,
+    "3": 495,
+    "4": 323,
+    "5": 421,
+    "6": 581,
+    "7": 684,
+    "8": 112
+  },
+  "message_types": {
+    "0": 2556,
+    "19": 1146,
+    "20": 23
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1536281277408354394",
+      "channel_id": "1355094251775459399",
+      "content": "**🎁 DC 59000守密人入驻达成礼 ┊ Discord 59,000 Keepers Milestone Reward**\n\n《忘却前夜》官方Discor",
+      "author": "morimensstaff06",
+      "reactions": 319,
+      "channel": "🔸礼包码┊gift-codes"
+    },
+    {
+      "id": "1536282870094626836",
+      "channel_id": "1536282146841296906",
+      "content": "**just use leigh in a punching bag, she loves it.**",
+      "author": "sexysneakystoat1625",
+      "reactions": 10,
+      "channel": "Training Dummy"
+    },
+    {
+      "id": "1536275651265560577",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "a_wei3797",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1536207514381590548",
+      "channel_id": "1536207514381590548",
+      "content": "GLotan \n\nMob Waves w/ base Ramona\n- Equip GLotan Posse\n- Keyflare Rouse GLotan \n",
+      "author": "snorlax01",
+      "reactions": 7,
+      "channel": "GLotan General Guide"
+    },
+    {
+      "id": "1536277600769413170",
+      "channel_id": "1300659753197764688",
+      "content": "Aku player baru kak",
+      "author": "yuraexe76",
+      "reactions": 6,
+      "channel": "🔸ruang-obrolan-indonesia"
+    },
+    {
+      "id": "1536286789088841759",
+      "channel_id": "1433513650299076780",
+      "content": "Nice",
+      "author": "utsuro.bune",
+      "reactions": 6,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1536267963211055115",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "carme.0588",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1536180540649242644",
+      "channel_id": "1433513650299076780",
+      "content": "",
+      "author": "utsuro.bune",
+      "reactions": 5,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1536268540267466793",
+      "channel_id": "1433513650299076780",
+      "content": "Fuck.",
+      "author": "utsuro.bune",
+      "reactions": 5,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1536282146841296906",
+      "channel_id": "1536282146841296906",
+      "content": "Is it possible to add a training dummy to test your teams",
+      "author": "guava3442",
+      "reactions": 5,
+      "channel": "Training Dummy"
+    },
+    {
+      "id": "1536282842651295805",
+      "channel_id": "1173463482503536711",
+      "content": "大家好，我把奥尔拉活动开场动画的诗录制了，并且汉化，虽然对中文有点儿不熟，希望大家还能欣赏\n\n法文\n> **Fleurs pour le Printemps**",
+      "author": "chinkeeyong",
+      "reactions": 4,
+      "channel": "🔸剧情交流"
+    },
+    {
+      "id": "1536185485171494932",
+      "channel_id": "1174983699935277147",
+      "content": "",
+      "author": "zilulu01",
+      "reactions": 4,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1536274767957598258",
+      "channel_id": "1433513650299076780",
+      "content": "https://cdn.discordapp.com/attachments/1012522912709869718/1533626571171041481/W",
+      "author": "iristhephoenix",
+      "reactions": 4,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1536207975159570522",
+      "channel_id": "1300659662311526512",
+      "content": "que hermosa esta toma",
+      "author": "blinuslvlz8",
+      "reactions": 3,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1536199936880672828",
+      "channel_id": "1326453763355185215",
+      "content": "hiii i finished the horla doc",
+      "author": "fishhazardthewizard",
+      "reactions": 3,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1536207510686400612",
+      "channel_id": "1326453763355185215",
+      "content": "sure *if the survey loads*",
+      "author": "nikolazuli",
+      "reactions": 3,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1536208560080425070",
+      "channel_id": "1326453763355185215",
+      "content": "might be a wifi thing then",
+      "author": "nikolazuli",
+      "reactions": 3,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1536229957200777267",
+      "channel_id": "1433513650299076780",
+      "content": "I have E0 glotan, 50 pulls, and a dream",
+      "author": "fukuro2400",
+      "reactions": 3,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1536198471667818687",
+      "channel_id": "1131839817982947429",
+      "content": "我的菲神在这一堆变态里显得平平无奇",
+      "author": "cassidy_xue",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1536234104125653103",
+      "channel_id": "1131839817982947429",
+      "content": "忘却前bug",
+      "author": "cassidy_xue",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}
