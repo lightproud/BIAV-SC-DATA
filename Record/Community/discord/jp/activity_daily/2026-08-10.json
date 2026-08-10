@@ -1,11 +1,11 @@
 {
   "date": "2026-08-10",
-  "messages": 429,
+  "messages": 435,
   "unique_authors": 17,
-  "reactions_total": 69,
-  "attachments": 22,
+  "reactions_total": 72,
+  "attachments": 25,
   "channel_activity": {
-    "なんでも雑談": 370,
+    "なんでも雑談": 376,
     "ほぼラフ": 1,
     "諸々の備忘録": 6,
     "誰でも質問": 3,
@@ -17,9 +17,10 @@
     "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 33
   },
   "hourly_activity": {
+    "16": 22,
+    "18": 4,
     "14": 76,
     "15": 133,
-    "16": 20,
     "10": 68,
     "11": 11,
     "12": 5,
@@ -36,7 +37,7 @@
     "0": 6
   },
   "message_types": {
-    "0": 384,
+    "0": 390,
     "19": 45
   },
   "top_reacted_messages": [
@@ -70,6 +71,14 @@
       "content": "最初は15コスですけどその後ドールの極限でループすれば0コスでずっと使い続けられるので、使いやすかったです",
       "author": "megane0965_78083",
       "reactions": 5,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1536411619410714684",
+      "channel_id": "1377478664609857647",
+      "content": "それは宿命なのですよ",
+      "author": "chabo.chabo",
+      "reactions": 3,
       "channel": "なんでも雑談"
     },
     {
@@ -189,14 +198,6 @@
       "channel_id": "1377478664609857647",
       "content": "これ便利だな…",
       "author": "yamaiame_ql4",
-      "reactions": 1,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1536392412455370777",
-      "channel_id": "1377478664609857647",
-      "content": "レイド参加出来なかったので再臨お願いします",
-      "author": "altiar_zain",
       "reactions": 1,
       "channel": "なんでも雑談"
     }
