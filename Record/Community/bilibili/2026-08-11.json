@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "archived_at": "2026-08-10T18:56:35.877320+00:00",
+  "archived_at": "2026-08-10T21:41:07.194006+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "抽满的角色为什么要复刻，这不是浪费一个卡池的时间吗",
@@ -46,6 +46,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/09dae44d9effc0dc2c34f1174ee555e33f632ea1.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】独此一家的狂气回充猩红之悸",
+      "summary": "不打超长线的情况下，配合喜光环和温大可以让无专尤乌做到类似有专尤乌的效果）\n注意温第一个大最好是超限大，之后也尽量开超限大，这视频有一个失误点，第6回合那个胎应该给温，这样温开的就是超限，省去一点麻烦",
+      "source": "bilibili",
+      "time": "2026-08-10T21:22:37+00:00",
+      "url": "https://www.bilibili.com/video/BV1oque67EHP",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "跳段木偶舞",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 1,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/263e0457f985a3fc201df62c7f8758b5c96a51c1.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

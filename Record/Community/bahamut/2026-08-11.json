@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "archived_at": "2026-08-10T18:56:35.877708+00:00",
+  "archived_at": "2026-08-10T21:41:07.194578+00:00",
   "source": "bahamut",
-  "item_count": 25,
+  "item_count": 26,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -128,6 +128,19 @@
       "time": "2026-08-10T18:55:08.428492+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1115&tnum=6",
       "engagement": 35,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【攻略】奧爾拉、杜勒、茉夏，三相復刻抽取建議",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-10T21:40:05.168490+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1522&tnum=2",
+      "engagement": 34,
       "is_hot": false,
       "author": "t12345825",
       "tags": [],
