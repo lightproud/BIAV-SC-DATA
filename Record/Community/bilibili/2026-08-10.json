@@ -1,9 +1,55 @@
 {
   "date": "2026-08-10",
-  "archived_at": "2026-08-10T01:29:17.623320+00:00",
+  "archived_at": "2026-08-10T04:29:56.492434+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 6,
   "items": [
+    {
+      "title": "【忘却前夜】莉茲1t5-5（潘迪婭）",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-10T02:00:42+00:00",
+      "url": "https://www.bilibili.com/video/BV1zpuX66EWf",
+      "engagement": 37,
+      "is_hot": false,
+      "author": "风凤_WP",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 37,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/9ded28a6dbb37cfa51ea40434b9e5f8702c364c2.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "九连歪创造历史",
+      "summary": "后续武器池也歪了",
+      "source": "bilibili",
+      "time": "2026-08-10T02:10:34+00:00",
+      "url": "https://www.bilibili.com/video/BV12xuQ6UEox",
+      "engagement": 31,
+      "is_hot": false,
+      "author": "CreScent知式",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 31,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/a2cb92f7bfccf33507024b36b702f744baaeeef4.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "小沙耶有点贪吃喽",
       "summary": "-\n  └ -昆扬 (1赞): [魔法少女的魔女审判表情包_探头]",
@@ -28,6 +74,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "该死的母树遇到属于自己的大运了",
+      "summary": "-\n  └ CreScent知式 (1赞): 回想起第一次打的时候这阵容给我打恶心了",
+      "source": "bilibili",
+      "time": "2026-08-10T03:39:48+00:00",
+      "url": "https://www.bilibili.com/video/BV143uR6dEJd",
+      "engagement": 8,
+      "is_hot": false,
+      "author": "CreScent知式",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 7,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/53e0fbb01a671a7f2c14d62d5d8ec3867561c60a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "DDLCx沙耶の唄【速時繪圖/Wip】",
       "summary": "打算今年畫個MAS的短篇小故事&gt;:D (會在個人itch上上傳uwu\n個人pixiv:\nhttps://www.pixiv.net/users/10174887",
       "source": "bilibili",
@@ -46,6 +115,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/a037f72039444ecfdb5cb227485afd38545e8e63.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "我不需要迷茫，现在沙耶就是我的一切……",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-10T03:30:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1inuU6xEDN",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "朗克清",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 4,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/cf55ef346ea6d683c4e76cf3f7024507e7ff60ae.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

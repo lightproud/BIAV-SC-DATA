@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "archived_at": "2026-08-10T01:29:17.695231+00:00",
+  "archived_at": "2026-08-10T04:29:56.537196+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] very good",
@@ -46,6 +46,30 @@
         "playtime_forever": 217,
         "votes_up": 0,
         "timestamp_created": 1786315019
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] good game, its free. get it, tyr it, decide for yo...",
+      "summary": "good game, its free. get it, tyr it, decide for yourself :D",
+      "source": "steam_review",
+      "time": "2026-08-10T00:56:42+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199143586218/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199143586218",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 848,
+        "votes_up": 0,
+        "timestamp_created": 1786323402
       },
       "region": "global",
       "archive_subtype": "review",

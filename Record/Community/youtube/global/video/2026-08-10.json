@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "archived_at": "2026-08-10T01:29:17.616922+00:00",
+  "archived_at": "2026-08-10T04:29:56.490083+00:00",
   "source": "youtube",
-  "item_count": 8,
+  "item_count": 10,
   "items": [
     {
       "title": "twins at the carousel animation #animation #animationmeme #ocxcanon #morimens",
@@ -73,6 +73,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "【忘却前夜/steam版】メインストーリーやるぜ 第Ⅵ章 ～【ローグライク/コズミックホラー系カードRPG】",
+      "summary": "プロフィール 種族：妖狐 名前：庵風狐(いおりふぁんこ) ——————————————————————————— 忘却前夜 ...",
+      "source": "youtube",
+      "time": "2026-08-10T01:53:06Z",
+      "url": "https://www.youtube.com/watch?v=p8JgT8If_sY",
+      "engagement": 28,
+      "is_hot": false,
+      "author": "🍁庵 風狐🍁 / iori fanko",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/p8JgT8If_sY/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Morimens : Chill Awaken Session",
       "summary": "vtuber #pngtuber #gaming.",
       "source": "youtube",
@@ -102,6 +119,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/DWa69nxiFbI/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "back with more morimens (MORE-imens some may say)",
+      "summary": "this is the worst video ever.",
+      "source": "youtube",
+      "time": "2026-08-10T03:39:59Z",
+      "url": "https://www.youtube.com/watch?v=DZdKe8GN0gE",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "phoebe wuwa fishing",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/DZdKe8GN0gE/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
