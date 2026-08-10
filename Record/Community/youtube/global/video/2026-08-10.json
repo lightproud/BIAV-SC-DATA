@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "archived_at": "2026-08-10T10:16:43.533913+00:00",
+  "archived_at": "2026-08-10T13:03:28.798770+00:00",
   "source": "youtube",
-  "item_count": 14,
+  "item_count": 16,
   "items": [
     {
       "title": "twins at the carousel animation #animation #animationmeme #ocxcanon #morimens",
@@ -85,6 +85,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/p8JgT8If_sY/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】星辰編　開幕　１－１３から【ローグライクで遊ぼうの会】",
+      "summary": "忘却前夜 #忘却前夜Steam版 溶壊・ドールVS溶壊・ドール ファイ！！！！ 提供：株式会社オルトプラス.",
+      "source": "youtube",
+      "time": "2026-08-10T11:51:04Z",
+      "url": "https://www.youtube.com/watch?v=PxXw1VA4brs",
+      "engagement": 17,
+      "is_hot": false,
+      "author": "朝霧@ASGRgames",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/PxXw1VA4brs/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -238,6 +255,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/LpZZF6AohJA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Main Menu w/Saya",
+      "summary": "morimens.",
+      "source": "youtube",
+      "time": "2026-08-10T10:47:35Z",
+      "url": "https://www.youtube.com/watch?v=Hbrh8rgbLsQ",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ame Noir Almagest",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/Hbrh8rgbLsQ/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

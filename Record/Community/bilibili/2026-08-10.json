@@ -1,9 +1,32 @@
 {
   "date": "2026-08-10",
-  "archived_at": "2026-08-10T10:16:43.535206+00:00",
+  "archived_at": "2026-08-10T13:03:28.798008+00:00",
   "source": "bilibili",
-  "item_count": 12,
+  "item_count": 14,
   "items": [
+    {
+      "title": "【忘却前夜】阵容教学第十六期：捕鸟蛛(蹲坑爱好者推荐)",
+      "summary": "└ 独孤灵灵- (5赞): 我有一计，带另外一个蜘蛛[颂乐人偶_眯眼笑]\n  └ 一个学数学的 (1赞): @伤春客\n  └ 某条很咸的咸鱼 (1赞): 这期为什么在融灾攻略里[魔法少女的魔女审判表情包_不知道哦]",
+      "source": "bilibili",
+      "time": "2026-08-10T10:15:21+00:00",
+      "url": "https://www.bilibili.com/video/BV1sfuR69ESq",
+      "engagement": 1405,
+      "is_hot": true,
+      "author": "金发女人丨型",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 1386,
+        "comment_count": 19,
+        "comments_fetched": 3,
+        "danmaku": 2
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/1b50bed6f8bf3658e6675a0b191d50de8a3d2e8a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "再见了5771，最后一次400",
       "summary": "“如果故事的结局不够好，那一定是还没有走到最后”\n\n骗你的，现实就是，这就是结局了…^_^\n  └ iq2233 (0赞): 恭喜喵，图一看的出来很难受了\n  └ -第一帧- (0赞): 阴阳师是我听过最难养成的，5771是我见过最难养成的",
@@ -46,6 +69,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/9eef1ff94c3f525207b6c7dda081eceef762382d.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "追梦+24茉夏",
+      "summary": "人物非得离谱，专武倒是挺欧的\n  └ 筱月357 (0赞): 抽专武时候的运气也太好了吧。\n  └ 抱着狗狗不敢说话 (0赞): 突然想起来加24是啥意思？ 是按本体12。专属12。就是24 然后再双持一个12，就是36是吗？\n  └ 你好啊服了 (0赞): 220抽，5个茉夏加四个专武是不是特别欧了？[笑哭][蹲蹲]",
+      "source": "bilibili",
+      "time": "2026-08-10T06:29:27+00:00",
+      "url": "https://www.bilibili.com/video/BV11vu96nEMr",
+      "engagement": 132,
+      "is_hot": false,
+      "author": "曹盛桀",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 128,
+        "comment_count": 4,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/44cc283f13d9d7b0c1c18481f418ec9432370690.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
