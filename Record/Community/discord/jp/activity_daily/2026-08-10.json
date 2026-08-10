@@ -1,0 +1,22 @@
+{
+  "date": "2026-08-10",
+  "messages": 14,
+  "unique_authors": 5,
+  "reactions_total": 0,
+  "attachments": 1,
+  "channel_activity": {
+    "なんでも雑談": 1,
+    "🔰初心者質問": 2,
+    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 11
+  },
+  "hourly_activity": {
+    "1": 1,
+    "2": 7,
+    "0": 6
+  },
+  "message_types": {
+    "19": 1,
+    "0": 13
+  },
+  "top_reacted_messages": []
+}
