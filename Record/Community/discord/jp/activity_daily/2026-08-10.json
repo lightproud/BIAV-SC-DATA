@@ -1,11 +1,11 @@
 {
   "date": "2026-08-10",
-  "messages": 435,
+  "messages": 438,
   "unique_authors": 17,
   "reactions_total": 72,
-  "attachments": 25,
+  "attachments": 26,
   "channel_activity": {
-    "なんでも雑談": 376,
+    "なんでも雑談": 379,
     "ほぼラフ": 1,
     "諸々の備忘録": 6,
     "誰でも質問": 3,
@@ -17,6 +17,8 @@
     "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 33
   },
   "hourly_activity": {
+    "20": 2,
+    "21": 1,
     "16": 22,
     "18": 4,
     "14": 76,
@@ -37,7 +39,7 @@
     "0": 6
   },
   "message_types": {
-    "0": 390,
+    "0": 393,
     "19": 45
   },
   "top_reacted_messages": [
