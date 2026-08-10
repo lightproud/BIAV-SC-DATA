@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "archived_at": "2026-08-10T16:00:21.349969+00:00",
+  "archived_at": "2026-08-10T18:56:35.927722+00:00",
   "source": "steam",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] very good",
@@ -142,6 +142,30 @@
         "playtime_forever": 1498,
         "votes_up": 0,
         "timestamp_created": 1786370420
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] the only gacha game where playing feels like scrat...",
+      "summary": "the only gacha game where playing feels like scratching your balls over shards of glass",
+      "source": "steam_review",
+      "time": "2026-08-10T15:36:04+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199110580407/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199110580407",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 9664,
+        "votes_up": 0,
+        "timestamp_created": 1786376164
       },
       "region": "global",
       "archive_subtype": "review",

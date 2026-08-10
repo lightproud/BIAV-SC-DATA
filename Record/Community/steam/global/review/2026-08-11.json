@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-11",
+  "archived_at": "2026-08-10T18:56:35.945049+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] 뭐라고 설명해야 할지 모르겠다.\n몽환적이고 환상적이지만 숨길 수 없는, 숨기지 않는 암울함...",
+      "summary": "뭐라고 설명해야 할지 모르겠다.\n몽환적이고 환상적이지만 숨길 수 없는, 숨기지 않는 암울함이 나를 끌어드리는 느낌이다.\n다크판티지를 사랑하는 나에게는 너무나 매력적으로 다가오는 게임이다.\n잔혹동화를 즐기거나 Fear & Hunger 같은 고어 게임을 사랑한다면 추천한다.\n(Fear & Hunger 같은 고난이도 스트레스 유발 게임은 아닌 것 같다.)",
+      "source": "steam_review",
+      "time": "2026-08-10T18:08:14+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199352989961/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199352989961",
+      "tags": [
+        "koreana"
+      ],
+      "language": "koreana",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 712,
+        "votes_up": 0,
+        "timestamp_created": 1786385294
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

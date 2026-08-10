@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "archived_at": "2026-08-10T16:00:21.296990+00:00",
+  "archived_at": "2026-08-10T18:56:35.876337+00:00",
   "source": "bilibili",
-  "item_count": 20,
+  "item_count": 21,
   "items": [
     {
       "title": "【忘却前夜】阵容教学第十六期：捕鸟蛛(蹲坑爱好者推荐)",
@@ -161,6 +161,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/44cc283f13d9d7b0c1c18481f418ec9432370690.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "「忘却前夜」萌新打主线终章，被 boss 的数值吓哭了",
+      "summary": "-\n  └ 抱着狗狗不敢说话 (1赞): 区区500k。我们还有500死扛，那不是轻松拿下。",
+      "source": "bilibili",
+      "time": "2026-08-10T11:01:20+00:00",
+      "url": "https://www.bilibili.com/video/BV1j5ud6CEga",
+      "engagement": 130,
+      "is_hot": false,
+      "author": "選擇性失憶_",
+      "tags": [
+        "桌游棋牌"
+      ],
+      "metadata": {
+        "play": 128,
+        "comment_count": 2,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/45a0a30f611d325f6830c222c69867b87d1ec5cd.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
