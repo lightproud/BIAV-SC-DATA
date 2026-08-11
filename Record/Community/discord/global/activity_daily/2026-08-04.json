@@ -1,11 +1,11 @@
 {
   "date": "2026-08-04",
-  "messages": 8072,
+  "messages": 13072,
   "unique_authors": 303,
-  "reactions_total": 742,
-  "attachments": 408,
+  "reactions_total": 915,
+  "attachments": 620,
   "channel_activity": {
-    "🔸general-chat": 350,
+    "🔸general-chat": 5350,
     "🔸綜合討論": 644,
     "🔸阵容构建": 2,
     "🔸剧情交流": 30,
@@ -71,38 +71,46 @@
     "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1
   },
   "hourly_activity": {
+    "3": 171,
+    "4": 251,
+    "5": 419,
+    "6": 365,
+    "7": 589,
+    "8": 701,
+    "9": 922,
+    "10": 936,
+    "11": 1030,
+    "12": 759,
+    "13": 558,
+    "14": 756,
+    "15": 615,
+    "16": 349,
+    "17": 376,
+    "18": 740,
+    "19": 1124,
+    "20": 781,
+    "21": 456,
     "0": 240,
     "1": 375,
     "2": 286,
-    "3": 149,
-    "9": 464,
-    "10": 328,
-    "11": 501,
-    "12": 449,
-    "13": 419,
-    "14": 660,
-    "15": 450,
-    "16": 308,
-    "17": 190,
-    "18": 311,
-    "19": 515,
     "22": 188,
-    "23": 85,
-    "20": 238,
-    "21": 449,
-    "4": 179,
-    "5": 386,
-    "6": 247,
-    "7": 317,
-    "8": 338
+    "23": 85
   },
   "message_types": {
-    "0": 5671,
-    "19": 2367,
-    "20": 33,
+    "0": 8817,
+    "19": 4216,
+    "20": 38,
     "23": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1534050188555981020",
+      "channel_id": "1400750050208125010",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 13,
+      "channel": "🔸general-chat"
+    },
     {
       "id": "1534021086977589360",
       "channel_id": "1400750050208125010",
@@ -176,6 +184,14 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1534299562066317534",
+      "channel_id": "1400750050208125010",
+      "content": "Anyway hoyo sucks for starting the era of open world mid gacha games",
+      "author": "zenji_shiro",
+      "reactions": 7,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1534137328992518354",
       "channel_id": "1131839817982947429",
       "content": "试奇怪东西重置掉了只能这样截<:Ramona_wisdom:1468258669341966452>   \n地上什么时候要长出来野生的+12饕餮寓言<:Lily",
@@ -240,28 +256,12 @@
       "channel": "堆图ing"
     },
     {
-      "id": "1534022433034735717",
+      "id": "1534295730343121037",
       "channel_id": "1400750050208125010",
-      "content": "",
-      "author": "jmjmjm6667",
+      "content": "Although small Herta has doll joints",
+      "author": "zenji_shiro",
       "reactions": 5,
       "channel": "🔸general-chat"
-    },
-    {
-      "id": "1534252534342881410",
-      "channel_id": "1300659662311526512",
-      "content": "",
-      "author": "zarles0",
-      "reactions": 5,
-      "channel": "🔸canal-español"
-    },
-    {
-      "id": "1534243753815052403",
-      "channel_id": "1504798331593818263",
-      "content": "Chud Caro: everyone now has infinite devour. For every embryo consumed by an awa",
-      "author": "eresh69",
-      "reactions": 5,
-      "channel": "Please rework how Propagation Caro works for the future units"
     }
   ]
 }
