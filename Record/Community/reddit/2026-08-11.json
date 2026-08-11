@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "archived_at": "2026-08-11T04:18:50.928487+00:00",
+  "archived_at": "2026-08-11T07:04:23.300696+00:00",
   "source": "reddit",
-  "item_count": 8,
+  "item_count": 10,
   "items": [
     {
       "title": "LEONORA",
@@ -140,6 +140,42 @@
         "via": "rss"
       },
       "media_url": "https://preview.redd.it/jw75qdw1emih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a00848074f1408f3b535856b187c3dd6f2ff4803",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "GLotan",
+      "summary": "Astral Sea Aquariums part 1 https://x.com/Zzio444/status/2087067703861203415  &#32; submitted by &#32;  /u/Zio_444   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-11T06:55:07+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vla0ca/glotan/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/Zio_444",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/zydm8m611pih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e60dcaa3181100344b820bcaabaf3752c0f251bf",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Need help completing these last 2 achievements.",
+      "summary": "Just tried doing the 10 strikes in one turn managed to do it during an ultra turn but I guess that doesn&#39;t count? I also did it on an event stage and I&#39;m not sure if that matters or not. The team I attempted to do this with was mouchette E0 (just pulled), Glotan OE, base lotan E3, and E2 horla. My reasoning was that basically all their cards &quot;count as strike&quot;. As for the devour I haven&#39;t even attempted that one as I don&#39;t play caro much but wouldn&#39;t that mean I have to exalt 5 times in one turn? How would I do that when there&#39;s 4 characters and each only gets one exalt? Would sorel work with her infinite devour?  &#32; submitted by &#32;  /u/Ragnarok15271   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-11T06:06:43+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vl96dp/need_help_completing_these_last_2_achievements/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/Ragnarok15271",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/p18kzaitsoih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=503e98a993d9c5bd74b1a680c8e32eb1725f03b5",
       "content_type": "image",
       "lang": "en",
       "platform_region": "global"

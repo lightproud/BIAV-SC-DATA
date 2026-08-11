@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "archived_at": "2026-08-11T04:18:50.930948+00:00",
+  "archived_at": "2026-08-11T07:04:23.303149+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[正面] 뭐라고 설명해야 할지 모르겠다.\n몽환적이고 환상적이지만 숨길 수 없는, 숨기지 않는 암울함...",
@@ -22,6 +22,30 @@
         "playtime_forever": 712,
         "votes_up": 0,
         "timestamp_created": 1786385294
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 沙耶满命了",
+      "summary": "沙耶满命了",
+      "source": "steam_review",
+      "time": "2026-08-11T04:33:29+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198780620197/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198780620197",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1595,
+        "votes_up": 0,
+        "timestamp_created": 1786422809
       },
       "region": "global",
       "archive_subtype": "review",

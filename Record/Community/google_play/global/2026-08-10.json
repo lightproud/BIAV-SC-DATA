@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "archived_at": "2026-08-11T04:18:51.018889+00:00",
+  "archived_at": "2026-08-11T07:04:23.387606+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 好评] ★5 beautiful game with the big soul.",
@@ -30,6 +30,34 @@
       "tags": [],
       "lang": "ko",
       "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 EOS SOON",
+      "summary": "EOS SOON",
+      "source": "google_play",
+      "time": "2026-08-10T06:17:42",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-0084015c-0393-4ff2-a829-409272a728bc",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ridwan",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 A história é bem interessante, os person",
+      "summary": "A história é bem interessante, os personagens não são genéricos e pelo menos no começo não ficam pagando pau pro protagonista, em alguns momentos você será questionado se realmente é capaz de seguir em frente pra ser esse Guardião supremo, o combate sinceramente é bem pensado. A arte é fenomenal.",
+      "source": "google_play",
+      "time": "2026-08-10T05:36:29",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=pt#gp-2cbeab4f-15c1-42da-99f8-3325f614808d",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Cadeira Gamer",
+      "tags": [],
+      "lang": "pt",
+      "platform_region": "br",
       "region": "global"
     }
   ],
