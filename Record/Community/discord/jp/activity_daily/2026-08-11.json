@@ -1,12 +1,12 @@
 {
   "date": "2026-08-11",
-  "messages": 64,
+  "messages": 84,
   "unique_authors": 13,
-  "reactions_total": 21,
+  "reactions_total": 24,
   "attachments": 8,
   "channel_activity": {
-    "なんでも雑談": 37,
-    "🔰初心者質問": 13,
+    "なんでも雑談": 52,
+    "🔰初心者質問": 18,
     "招待コード共有会": 1,
     "思想汚染(うちcp)の話し": 2,
     "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 3,
@@ -14,9 +14,12 @@
     "忘却前夜絵を密かに載せます": 3
   },
   "hourly_activity": {
+    "7": 12,
+    "8": 16,
+    "10": 1,
+    "9": 1,
     "5": 7,
     "6": 5,
-    "7": 10,
     "3": 21,
     "4": 14,
     "2": 4,
@@ -24,8 +27,8 @@
     "1": 1
   },
   "message_types": {
-    "19": 7,
-    "0": 57
+    "0": 74,
+    "19": 10
   },
   "top_reacted_messages": [
     {
@@ -67,6 +70,30 @@
       "author": "0w04250",
       "reactions": 2,
       "channel": "なんでも雑談"
+    },
+    {
+      "id": "1536647374594777108",
+      "channel_id": "1377478664609857647",
+      "content": "https://x.com/bokyakuzenya/status/2087086616825262525?s=46&t=XN7V1cNmJetkBtJexik",
+      "author": "altiar_zain",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1536682263381680158",
+      "channel_id": "1377478664609857647",
+      "content": "👀",
+      "author": "ecstasyrb",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1536646054680989756",
+      "channel_id": "1391701560496623688",
+      "content": "一応ソレールとカーシアも盛れる",
+      "author": "kuroneko4253",
+      "reactions": 1,
+      "channel": "🔰初心者質問"
     },
     {
       "id": "1536635659299586108",
