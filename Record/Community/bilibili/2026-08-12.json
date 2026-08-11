@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-12",
+  "archived_at": "2026-08-11T19:00:20.191193+00:00",
+  "source": "bilibili",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[ 繪畫過程 ]    天  使",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-11T18:47:52+00:00",
+      "url": "https://www.bilibili.com/video/BV1T4u66JE81",
+      "engagement": 7,
+      "is_hot": false,
+      "author": "延续千年-",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 7,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/07f8b186bcddd68554beac832c62bc687f37cf99.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "两个“可爱”的沙耶在线卖肉～",
+      "summary": "@妍伊moe @耕司青海瑶",
+      "source": "bilibili",
+      "time": "2026-08-11T18:46:17+00:00",
+      "url": "https://www.bilibili.com/video/BV1x4u66JEig",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "七吕可真是一对好cp啊",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 5,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/a39da6e3dbc002fd3591384300193339b91071af.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    }
+  ]
+}

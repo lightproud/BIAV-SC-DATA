@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-12",
+  "archived_at": "2026-08-11T19:00:20.258871+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] Beautiful visuals; story; character design and sou...",
+      "summary": "Beautiful visuals; story; character design and sound tracks. It is a turn-based card game that focuses on story than on actual gameplay. Similar to Limbus Company and R1999, so if you're into those games this is a must.",
+      "source": "steam_review",
+      "time": "2026-08-11T16:19:32+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199096898273/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199096898273",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 6187,
+        "votes_up": 0,
+        "timestamp_created": 1786465172
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

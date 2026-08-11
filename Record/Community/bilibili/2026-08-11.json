@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "archived_at": "2026-08-11T16:01:27.161499+00:00",
+  "archived_at": "2026-08-11T19:00:20.180718+00:00",
   "source": "bilibili",
-  "item_count": 11,
+  "item_count": 14,
   "items": [
     {
       "title": "从夯到拉锐评拔作情节，汉尼拔的拔",
@@ -120,6 +120,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "万触秃噜，玩完之后淌口水。",
+      "summary": "-\n  └ 唬隌洳鄞 (1赞): 大佬喵大佬带带我\n  └ 她胃不好爱吃辣_ (1赞): 蜀王[星星眼][星星眼][星星眼]\n  └ 菜菜想要带带 (1赞): 我咧，🐭神再再再临",
+      "source": "bilibili",
+      "time": "2026-08-11T14:25:48+00:00",
+      "url": "https://www.bilibili.com/video/BV1bJuB6jEvv",
+      "engagement": 182,
+      "is_hot": false,
+      "author": "伊莎玛拉-大群来了",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 171,
+        "comment_count": 11,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/a87ae108b6f91ab1f90a6b5763354aea26e464e4.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "明明是奶龙，在我眼中却是美丽的少女...",
       "summary": "模仿:BV1wSL96YEhp\n  └ 事一个啊一个homo (4赞): 这期太拉了，后半部分过于意义不明\n  └ 耕司青海瑶 (1赞): 创意工坊[笑哭]",
       "source": "bilibili",
@@ -138,6 +161,52 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/c3e62d29b77b156a19c6626d1ac435f98a9a459d.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "永雏塔菲：由糖果组成的少女【塔菲生贺】",
+      "summary": "原文案：@动漫从业者厷  \n图片：千问办公-Qwen模型\n视频：seedance\n塔菲生日快乐喵～@永雏塔菲\n  └ 永雏会菲 (1赞): 有菲有我塔菲生日快乐喵！",
+      "source": "bilibili",
+      "time": "2026-08-11T14:42:57+00:00",
+      "url": "https://www.bilibili.com/video/BV1hVuB6nEEb",
+      "engagement": 125,
+      "is_hot": false,
+      "author": "Acekira",
+      "tags": [
+        "鬼畜调教"
+      ],
+      "metadata": {
+        "play": 123,
+        "comment_count": 2,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/bc1ddde70073e463ea182ef51f4357e2dcfb030e.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "银魂爽吃沙大福，流浪不敌小班肘",
+      "summary": "人生第一个有显卡的笔记本前天到的，迫不及待用Minimaxh3做的大粉，大家一起吃",
+      "source": "bilibili",
+      "time": "2026-08-11T12:24:32+00:00",
+      "url": "https://www.bilibili.com/video/BV1Twuz6mEhU",
+      "engagement": 101,
+      "is_hot": false,
+      "author": "絮飞扬_",
+      "tags": [
+        "鬼畜调教"
+      ],
+      "metadata": {
+        "play": 101,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/de3aa05941a0bb77be190ee86d0b7445c64e4efd.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
