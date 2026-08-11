@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "archived_at": "2026-08-11T01:27:27.335723+00:00",
+  "archived_at": "2026-08-11T04:18:50.884431+00:00",
   "source": "youtube",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[Morimens] New Bluwill Story Mode Team. A Bluwill that takes no damage. Pontos + Tawil.",
@@ -51,6 +51,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/be8HFDiL8t8/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】星辰編　開幕　１－１３から【ローグライクで遊ぼうの会】",
+      "summary": "忘却前夜 #忘却前夜Steam版 溶壊・ドールVS溶壊・ドール ファイ！！！！ 提供：株式会社オルトプラス.",
+      "source": "youtube",
+      "time": "2026-08-11T02:52:47Z",
+      "url": "https://www.youtube.com/watch?v=PxXw1VA4brs",
+      "engagement": 45,
+      "is_hot": false,
+      "author": "朝霧@ASGRgames",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/PxXw1VA4brs/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

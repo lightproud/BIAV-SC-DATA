@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "archived_at": "2026-08-10T21:41:07.273393+00:00",
+  "archived_at": "2026-08-11T04:18:50.928487+00:00",
   "source": "reddit",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "LEONORA",
@@ -123,6 +123,24 @@
       "metadata": {
         "via": "rss"
       },
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Never going to get this good luck again",
+      "summary": "Man  &#32; submitted by &#32;  /u/Visual-Background471   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-10T22:00:39+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vkyrxe/never_going_to_get_this_good_luck_again/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/Visual-Background471",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/jw75qdw1emih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a00848074f1408f3b535856b187c3dd6f2ff4803",
+      "content_type": "image",
       "lang": "en",
       "platform_region": "global"
     }
