@@ -1,9 +1,55 @@
 {
   "date": "2026-08-12",
-  "archived_at": "2026-08-11T19:00:20.191193+00:00",
+  "archived_at": "2026-08-11T21:45:22.795589+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
+    {
+      "title": "弃弃弃弃龟龟龟龟龟",
+      "summary": "-\n  └ 夜行性孩子 (1赞): 要点：\n1.道中老头多k头，非超限大每场战斗至少都能k两次，压力小的话可以三次。最后王关开始时有3张高级灵感的样子。\n2.水母必须1觉，见到防御就打，不然1t和空间回合做不完20腺体的任务（除非一期一会的双发钥令开出了重逢心愿，或者有能复制腺体的手段，比如唱机），魔术师一费和老头的蓝囚魇都能补补狂。\n3.爆发的前一个回合不要用船长的四费，保留在手上，爆发回合把它塞到空间里再用魔术师零费拿出来再用一次，还能顺便补充一下手牌数，重新洗牌后还能再打出第三次。红囚魇同理，前一个回合尽量多的留在抽牌堆，这样爆发轮有机会过穿牌库打出两次。\n  └ iq2233 (0赞): 好可爱的小水母图片[打call]",
+      "source": "bilibili",
+      "time": "2026-08-11T17:27:49+00:00",
+      "url": "https://www.bilibili.com/video/BV1Swur6sEZ4",
+      "engagement": 102,
+      "is_hot": false,
+      "author": "夜行性孩子",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 100,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/ba39f5af8f645eeb9eca8cae2e5771f0b55cb3e2.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "什么叫我在大学，不是来上学的？《忘却前夜》第一人称剧情二创（第1期）",
+      "summary": "-\n  └ 一场雪霁的琼筵 (0赞): 这是第1次尝试第一人称剧情二创，对不起大家呀鸽了这么久，而且这一期视频也算得上是个半成品了，因为up近期有很多事情要干，所以提前发出来了，原本应该是每一章分为上下两期的这一期甚至没有第1章剧情的1/3，等到后面会恢复正常体量更新，不知道大家喜欢以前的风格还是现在的风格，喜欢现在风格扣1，以前的扣2，说实话，现在的风格还是太废人了，仅仅只是个半成品，也用了up6个多小时的时间，不知道大家喜不喜欢，Up以后也会加快更新速度保证，不会再鸽大家了(^(エ)^)",
+      "source": "bilibili",
+      "time": "2026-08-11T20:24:21+00:00",
+      "url": "https://www.bilibili.com/video/BV1FCuk6jE7v",
+      "engagement": 10,
+      "is_hot": false,
+      "author": "一场雪霁的琼筵",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 9,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/859a1d31b2fd5777b42288aa00f600f650f893f1.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "[ 繪畫過程 ]    天  使",
       "summary": "",

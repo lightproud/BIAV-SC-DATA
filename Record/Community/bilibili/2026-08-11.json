@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "archived_at": "2026-08-11T19:00:20.180718+00:00",
+  "archived_at": "2026-08-11T21:45:22.791378+00:00",
   "source": "bilibili",
-  "item_count": 14,
+  "item_count": 15,
   "items": [
     {
       "title": "从夯到拉锐评拔作情节，汉尼拔的拔",
@@ -184,6 +184,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/bc1ddde70073e463ea182ef51f4357e2dcfb030e.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "Morimens 2026-08-11 12-52-43-016",
+      "summary": "有点压抑了，难道剧情策划跟赤红之瞳是同一个作者吗？就不能来个一起逃出来然后成为伙伴的结局吗？\n  └ Arfish鱼 (1赞): 詹金😭😭😭😭😭看一次哭一次啊这里",
+      "source": "bilibili",
+      "time": "2026-08-11T05:08:14+00:00",
+      "url": "https://www.bilibili.com/video/BV1xquv6TEfU",
+      "engagement": 104,
+      "is_hot": false,
+      "author": "真的被刀哭了",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 102,
+        "comment_count": 2,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/cb2e8428c11aaa0c1f6c1c46483c763a5f9d8915.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
