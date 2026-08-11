@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "archived_at": "2026-08-11T12:59:45.770451+00:00",
+  "archived_at": "2026-08-11T16:01:27.213987+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] 뭐라고 설명해야 할지 모르겠다.\n몽환적이고 환상적이지만 숨길 수 없는, 숨기지 않는 암울함...",
@@ -94,6 +94,78 @@
         "playtime_forever": 1035,
         "votes_up": 0,
         "timestamp_created": 1786436739
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] I LOVE YOU MORIMENS",
+      "summary": "I LOVE YOU MORIMENS",
+      "source": "steam_review",
+      "time": "2026-08-11T14:30:57+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199092414828/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199092414828",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 881,
+        "votes_up": 0,
+        "timestamp_created": 1786458657
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Thais is my all time favourite",
+      "summary": "Thais is my all time favourite",
+      "source": "steam_review",
+      "time": "2026-08-11T13:34:13+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199367744965/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199367744965",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1916,
+        "votes_up": 0,
+        "timestamp_created": 1786455253
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 美术不错，但是校猫你（ ）什么时候（ ）啊？",
+      "summary": "美术不错，但是校猫你（ ）什么时候（ ）啊？",
+      "source": "steam_review",
+      "time": "2026-08-11T13:04:04+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198362665883/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198362665883",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 467,
+        "votes_up": 0,
+        "timestamp_created": 1786453444
       },
       "region": "global",
       "archive_subtype": "review",

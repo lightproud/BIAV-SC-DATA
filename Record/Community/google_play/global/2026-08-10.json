@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "archived_at": "2026-08-11T12:59:45.860074+00:00",
+  "archived_at": "2026-08-11T16:01:27.287207+00:00",
   "source": "google_play",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "[Google Play 好评] ★5 beautiful game with the big soul.",
@@ -72,6 +72,20 @@
       "tags": [],
       "lang": "ko",
       "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Genuinely one of the best games I've pla",
+      "summary": "Genuinely one of the best games I've played so far. The game mechanics are so addictive, generous REWARDS for F2P, amazing storyline, beautiful artworks and character design, i can't fathom how much i adore every single bits of this game, please keep this up and add more generous rewards. Would absolutely recommends this game especially if you love lovecraftian myths 5/5!!",
+      "source": "google_play",
+      "time": "2026-08-10T14:39:12",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-5f35e7ba-3792-438a-ab6b-076e9acc2bd2",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Tia 08",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],

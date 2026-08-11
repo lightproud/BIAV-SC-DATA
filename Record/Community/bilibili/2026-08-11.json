@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "archived_at": "2026-08-11T12:59:45.700862+00:00",
+  "archived_at": "2026-08-11T16:01:27.161499+00:00",
   "source": "bilibili",
-  "item_count": 10,
+  "item_count": 11,
   "items": [
     {
       "title": "从夯到拉锐评拔作情节，汉尼拔的拔",
@@ -23,6 +23,29 @@
         "danmaku": 20
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/7d1fdc6328dd42826b73133323654d87369f7e05.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】10个常驻C挑战425(尤物哈希、詹金、拉蒙娜、利兹、法罗斯、戈利亚、奥瑞塔、潘迪亚、珊)",
+      "summary": "挑战：10个常驻C425\n要求：辅助不限，常驻C伤害占比要超过50%\n  └ 金发女人丨型 (1赞): 挑战：10个常驻C425\n\n要求：辅助不限，常驻C伤害占比要超过50%\n  └ Cosmic_Worm (0赞): 侵蚀似乎是谁都不算？反正沙耶萝坦可以萝坦50%以上\n  └ 譜譜通通的譜某人 (0赞): 我了",
+      "source": "bilibili",
+      "time": "2026-08-11T14:14:04+00:00",
+      "url": "https://www.bilibili.com/video/BV1RUuB6xEia",
+      "engagement": 1014,
+      "is_hot": true,
+      "author": "金发女人丨型",
+      "tags": [
+        "172"
+      ],
+      "metadata": {
+        "play": 1003,
+        "comment_count": 11,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "http://i2.hdslb.com/bfs/archive/14c75d640a6945597e4959da301d4408f4453642.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
