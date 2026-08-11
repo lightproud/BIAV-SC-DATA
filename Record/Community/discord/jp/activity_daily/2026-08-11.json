@@ -1,22 +1,68 @@
 {
   "date": "2026-08-11",
-  "messages": 7,
-  "unique_authors": 4,
-  "reactions_total": 0,
-  "attachments": 5,
+  "messages": 42,
+  "unique_authors": 11,
+  "reactions_total": 7,
+  "attachments": 6,
   "channel_activity": {
-    "なんでも雑談": 1,
+    "なんでも雑談": 26,
+    "思想汚染(うちcp)の話し": 2,
+    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 3,
+    "誰でもOKグロ版野次馬スレ": 5,
     "🔰初心者質問": 3,
     "忘却前夜絵を密かに載せます": 3
   },
   "hourly_activity": {
+    "3": 21,
+    "4": 14,
     "2": 4,
     "0": 2,
     "1": 1
   },
   "message_types": {
-    "0": 6,
-    "19": 1
+    "0": 39,
+    "19": 3
   },
-  "top_reacted_messages": []
+  "top_reacted_messages": [
+    {
+      "id": "1536584754844147834",
+      "channel_id": "1377478664609857647",
+      "content": "托乎瓦波",
+      "author": "foxcatfurry",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1536591948150874113",
+      "channel_id": "1377478664609857647",
+      "content": "ラモンナはいつでも私達の心の中",
+      "author": "0w04250",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1536571431050285167",
+      "channel_id": "1377478664609857647",
+      "content": "||相棒が中身の関係でしょうがないとはいえ舞台装置になってしまった。狂気解放だけキーオーダーにして置いて行ってくれ||",
+      "author": "tomreo",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1536583967938052148",
+      "channel_id": "1377478664609857647",
+      "content": "忘却編の終章ボスの||トオワボという名前、旧約聖書の創世記冒頭の由来の tohu wa bohu 擬人化させた漢字名~~「托瓦伯（Tuō wǎ bó）」~~訂正",
+      "author": "16ringo",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1536589713681686558",
+      "channel_id": "1427166318645350450",
+      "content": "さやスト実は2.0目線",
+      "author": "foxcatfurry",
+      "reactions": 1,
+      "channel": "誰でもOKグロ版野次馬スレ"
+    }
+  ]
 }
