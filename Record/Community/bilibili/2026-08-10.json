@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "archived_at": "2026-08-10T21:41:07.192954+00:00",
+  "archived_at": "2026-08-11T01:27:27.333144+00:00",
   "source": "bilibili",
-  "item_count": 21,
+  "item_count": 23,
   "items": [
     {
       "title": "【忘却前夜】阵容教学第十六期：捕鸟蛛(蹲坑爱好者推荐)",
@@ -230,6 +230,52 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/f55148089f2f0a1678dd525f55860438eeb24429.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "校猫你看看你把啥牛鬼蛇神都招来了，建议加一个举报名称功能",
+      "summary": "@忘却前夜Morimens\n  └ 仁爱主教 (1赞): 赖什么东西啊？[热词系列_啊?]\n  └ 住在可能性之中 (0赞): @忘却前夜Morimens",
+      "source": "bilibili",
+      "time": "2026-08-10T12:40:39+00:00",
+      "url": "https://www.bilibili.com/video/BV1esuZ6yECc",
+      "engagement": 123,
+      "is_hot": false,
+      "author": "住在可能性之中",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 121,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/55365a3a0d322de0f694e986959e808f6ec34b4c.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "阿拉克涅大人1v4",
+      "summary": "没打过这样的草 我以为输定了\n低端局 只是觉得很好笑 勿喷谢谢",
+      "source": "bilibili",
+      "time": "2026-08-10T11:12:59+00:00",
+      "url": "https://www.bilibili.com/video/BV1eruR6KEAp",
+      "engagement": 106,
+      "is_hot": false,
+      "author": "時優",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 106,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/3f4c44f1ca6d465e0aa94d04bc8f0710eca4754e.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

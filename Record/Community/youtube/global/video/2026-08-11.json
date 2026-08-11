@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "archived_at": "2026-08-10T21:41:07.196035+00:00",
+  "archived_at": "2026-08-11T01:27:27.335723+00:00",
   "source": "youtube",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[Morimens] New Bluwill Story Mode Team. A Bluwill that takes no damage. Pontos + Tawil.",
@@ -51,6 +51,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/be8HFDiL8t8/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Aurita Psyche Deep Dive Voiced Cutest character in Morimens",
+      "summary": "Stream almost daily whenever I have free time we multi-stream on twitch and only on twitch for things that might get us in trouble ...",
+      "source": "youtube",
+      "time": "2026-08-10T22:30:21Z",
+      "url": "https://www.youtube.com/watch?v=pwymWptdgz0",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "FluffeyPanda's World",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/pwymWptdgz0/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

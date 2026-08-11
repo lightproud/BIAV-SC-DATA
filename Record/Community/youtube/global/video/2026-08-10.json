@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "archived_at": "2026-08-10T21:41:07.196572+00:00",
+  "archived_at": "2026-08-11T01:27:27.337105+00:00",
   "source": "youtube",
-  "item_count": 19,
+  "item_count": 20,
   "items": [
     {
       "title": "twins at the carousel animation #animation #animationmeme #ocxcanon #morimens",
@@ -204,6 +204,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/DZdKe8GN0gE/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Arc 2 Chapter 2 final Boss Epic Remix",
+      "summary": "00:00 – First Phase 01:54 – Last Phase Game: Morimens This is a fan-made remix created using instrumental elements from ...",
+      "source": "youtube",
+      "time": "2026-08-10T15:39:44Z",
+      "url": "https://www.youtube.com/watch?v=roWuaA6aTQI",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "先輩Manu",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/roWuaA6aTQI/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

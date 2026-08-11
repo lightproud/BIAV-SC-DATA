@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "archived_at": "2026-08-10T21:41:07.367326+00:00",
+  "archived_at": "2026-08-11T01:27:27.509424+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 beautiful game with the big soul.",
@@ -16,6 +16,20 @@
       "tags": [],
       "lang": "en",
       "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 폴룩스1돌하게해주세요",
+      "summary": "폴룩스1돌하게해주세요",
+      "source": "google_play",
+      "time": "2026-08-10T00:16:02",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-5787453c-cc8a-4b72-b6cf-e8ccd97800f9",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ᄅᄅ",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
       "region": "global"
     }
   ],
