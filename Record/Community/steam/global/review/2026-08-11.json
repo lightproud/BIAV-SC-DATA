@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "archived_at": "2026-08-11T10:00:07.221512+00:00",
+  "archived_at": "2026-08-11T12:59:45.770451+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] 뭐라고 설명해야 할지 모르겠다.\n몽환적이고 환상적이지만 숨길 수 없는, 숨기지 않는 암울함...",
@@ -46,6 +46,54 @@
         "playtime_forever": 1595,
         "votes_up": 0,
         "timestamp_created": 1786422809
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 美术音乐值一个推荐\nMay the silver key guide you",
+      "summary": "美术音乐值一个推荐\nMay the silver key guide you",
+      "source": "steam_review",
+      "time": "2026-08-11T08:38:15+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198957811081/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198957811081",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2214,
+        "votes_up": 0,
+        "timestamp_created": 1786437495
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 类似杀戮尖塔的克系二游，游戏设计上难度有点高，抽卡攒的速度有点慢，但是沙耶很可爱，所以好评！",
+      "summary": "类似杀戮尖塔的克系二游，游戏设计上难度有点高，抽卡攒的速度有点慢，但是沙耶很可爱，所以好评！",
+      "source": "steam_review",
+      "time": "2026-08-11T08:25:39+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199245723489/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199245723489",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1035,
+        "votes_up": 0,
+        "timestamp_created": 1786436739
       },
       "region": "global",
       "archive_subtype": "review",

@@ -1,9 +1,32 @@
 {
   "date": "2026-08-11",
-  "archived_at": "2026-08-11T10:00:07.173365+00:00",
+  "archived_at": "2026-08-11T12:59:45.700862+00:00",
   "source": "bilibili",
-  "item_count": 8,
+  "item_count": 10,
   "items": [
+    {
+      "title": "从夯到拉锐评拔作情节，汉尼拔的拔",
+      "summary": "准备直播来着，但是素材太少了，最后就只能水个视频了\n  └ 昕渊主 (1赞): @路过的旁白君 美食作品[吃瓜]\n  └ 姬月の柴刀 (8赞): 妹妹好可爱啊[俄语表情包_诶嘿]妹妹是这个世界上最可爱的生物[俄语表情包_妹控]\n  └ 雪山银燕_ (4赞): 一看到妹调就难绷。十几年前有个人在快吧游戏盒子里面上传了这游戏，评论区全是玩了之后上当在喷的，搞得我至今没敢玩这游戏[笑哭]",
+      "source": "bilibili",
+      "time": "2026-08-11T10:00:00+00:00",
+      "url": "https://www.bilibili.com/video/BV15NuB6dExv",
+      "engagement": 6091,
+      "is_hot": true,
+      "author": "银猫的夏天",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 6052,
+        "comment_count": 39,
+        "comments_fetched": 3,
+        "danmaku": 20
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/7d1fdc6328dd42826b73133323654d87369f7e05.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "[忘却前夜]预告了2年了，我终于看卡拉布一个影了",
       "summary": "主线没打呢，所有主线有没有出场我不知道\n  └ _TayNew_ (2赞): 这下24年卫星角色只剩神图了，速速端上来罢\n  └ 译的二次方 (1赞): 卡拉布8月24号上线，会有星辰篇第六章主线的，主线角色都是和主线一起上的",
@@ -46,6 +69,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/1b5d40a5c5a8429b5b47bc5be22b64e174a5b59f.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【绘画过程】一些摸鱼速涂4~6",
+      "summary": "这个咪咪怎么这么坏\n\nBgm: Life Will Change (Project Sekai Version / Instrumental Version) - 目黒将司\n  └ 宇辰galaxy (3赞): 怪盗猫，克狗，fox（喜欢他与wolf一起神秘二创[doge]）[tv_点赞]\n  └ Yuzuki--- (1赞): 心之怪盗团已严肃介入调查😡😡😡\nmona可爱捏🥰🥰🥰\n  └ Valcorund (1赞): p2帅麻了[打call]",
+      "source": "bilibili",
+      "time": "2026-08-11T10:36:27+00:00",
+      "url": "https://www.bilibili.com/video/BV1uRui6yEMx",
+      "engagement": 346,
+      "is_hot": false,
+      "author": "RefD4T43RR0Rel",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 320,
+        "comment_count": 26,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/14e4b971dcb32b1e34177dd0bb239bcb3ecb684c.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
