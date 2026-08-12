@@ -1,11 +1,11 @@
 {
   "date": "2026-06-15",
-  "messages": 23216,
+  "messages": 28216,
   "unique_authors": 486,
-  "reactions_total": 3069,
-  "attachments": 1334,
+  "reactions_total": 3777,
+  "attachments": 1619,
   "channel_activity": {
-    "🔸morimens-game-chat": 134,
+    "🔸morimens-game-chat": 5134,
     "🔸game-question": 4940,
     "🔸general-chat": 4677,
     "🔸綜合討論": 3738,
@@ -95,18 +95,20 @@
     "LF Help for Optimal Team Building for D-Tide with my current team": 3
   },
   "hourly_activity": {
-    "0": 934,
-    "3": 805,
-    "4": 972,
-    "5": 1188,
-    "6": 537,
-    "7": 1076,
-    "8": 857,
-    "9": 1080,
-    "10": 877,
-    "11": 728,
-    "12": 1249,
-    "13": 1456,
+    "0": 1025,
+    "1": 1130,
+    "2": 1621,
+    "3": 1335,
+    "4": 1400,
+    "5": 1365,
+    "6": 821,
+    "7": 1624,
+    "8": 1257,
+    "9": 1308,
+    "10": 1124,
+    "11": 1219,
+    "12": 1843,
+    "13": 1691,
     "14": 1172,
     "15": 1796,
     "16": 1406,
@@ -116,14 +118,13 @@
     "20": 222,
     "21": 813,
     "22": 420,
-    "23": 276,
-    "1": 839,
-    "2": 1165
+    "23": 276
   },
   "message_types": {
-    "0": 2753,
-    "19": 1431,
-    "20": 20
+    "0": 6138,
+    "19": 3037,
+    "20": 28,
+    "46": 1
   },
   "top_reacted_messages": [
     {
@@ -175,6 +176,30 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1515992202990452839",
+      "channel_id": "1170692781216378960",
+      "content": "YOU will be a pregnant man",
+      "author": "alistiel",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1515992175744389130",
+      "channel_id": "1170692781216378960",
+      "content": "KADE if you PREGNANT MAN me again",
+      "author": "alistiel",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1516064482630172742",
+      "channel_id": "1170692781216378960",
+      "content": "aahhhh, shit",
+      "author": "cassidy_xue",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1515992333714456616",
       "channel_id": "1174983699935277147",
       "content": "",
@@ -189,6 +214,30 @@
       "author": "xyakoto",
       "reactions": 9,
       "channel": "Hameln event is missing bonus."
+    },
+    {
+      "id": "1515886052022292681",
+      "channel_id": "1170692781216378960",
+      "content": "E3 in 75",
+      "author": "dljam",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1515906808181559428",
+      "channel_id": "1170692781216378960",
+      "content": "get off of me",
+      "author": "46982105",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1516038363252129822",
+      "channel_id": "1170692781216378960",
+      "content": "Votice: Lady Shu, Do you think? the keeper is gay?\nXu: I'm afraid it's something",
+      "author": "beanthere37",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1515933984004116520",
@@ -231,60 +280,12 @@
       "channel": "Caecus's first job after the Keeper stopped lending him money."
     },
     {
-      "id": "1516198762383544512",
-      "channel_id": "1400750050208125010",
-      "content": "One day I'll get back to drawing",
-      "author": "xiii_c",
+      "id": "1515897329733992668",
+      "channel_id": "1170692781216378960",
+      "content": "Icon of wealth",
+      "author": "2ndselna",
       "reactions": 7,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1516030128168374282",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "akalanden",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1516050605939097600",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1516105794725085428",
-      "channel_id": "1131839817982947429",
-      "content": "<:Helot_slack_off:1459092159465521184> ~~恩...其實我覺得看起來像是很俊朗的小夥cos莉茲，你能不要打死我嗎~~",
-      "author": "under_bright_light",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1516123905474170940",
-      "channel_id": "1131839817982947429",
-      "content": "🐱: 問就是福袋出手，把屍體撈走復活",
-      "author": "heikwok",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1516068822744825887",
-      "channel_id": "1194835209242296410",
-      "content": "",
-      "author": "cassidy_xue",
-      "reactions": 7,
-      "channel": "🔸交友频道"
-    },
-    {
-      "id": "1515935531303702709",
-      "channel_id": "1300659603993923644",
-      "content": "",
-      "author": "tnimreppep",
-      "reactions": 7,
-      "channel": "🔸phòng-chat-tiếng-việt"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

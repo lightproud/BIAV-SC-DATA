@@ -1,56 +1,100 @@
 {
   "date": "2026-08-11",
-  "messages": 2120,
-  "unique_authors": 186,
-  "reactions_total": 184,
-  "attachments": 141,
+  "messages": 9990,
+  "unique_authors": 330,
+  "reactions_total": 982,
+  "attachments": 560,
   "channel_activity": {
-    "🔸綜合討論": 473,
-    "🔸阵容构建": 6,
-    "🔸欢乐梗图": 2,
+    "🔸綜合討論": 1726,
+    "🔸阵容构建": 15,
+    "🔸晒卡分享": 1,
+    "🔸欢乐梗图": 4,
+    "🔸课间休息闲聊": 54,
+    "🔸日本語チャンネル": 9,
+    "🔸deutscher-chatraum": 1,
+    "🔸chaîne-française": 41,
+    "🔸русский-канал": 1302,
+    "🔸phòng-chat-tiếng-việt": 1243,
+    "🔸canal-español": 253,
+    "🔸canal-português": 693,
+    "🔸ruang-obrolan-indonesia": 584,
+    "🔸ห้องสนทนาภาษาไทย": 86,
+    "🔸traphase": 32,
+    "🔸lore-chat": 354,
+    "🔸lets-count": 11,
+    "🔸频道建议┊server-suggestions": 26,
+    "🔸team-building": 548,
+    "🔸邀请码互助┊swap-invitation-codes": 21,
+    "🔸game-question": 2649,
+    "🔸游戏问题": 39,
+    "🔸机器人命令┊bot-commands": 55,
+    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 2,
+    "Arachne papercraft": 3,
+    "一顆無垢之芯的銀芯含量，等於一顆無垢之芯的銀芯含量喔！": 1,
+    "畫一下羊媽": 1,
+    "菜雞四小強玩家的抱怨之旅new": 1,
+    "关于2.6.X相关内容的问题": 2,
+    "Lotan 4 cost str bug": 45,
+    "Are there any plans to fix iOS version of game?": 3,
+    "Talent for everyone?": 1,
+    "Lotan: Cetarchon exalt damage number does not line up with the hit after update V2.5.3.3": 2,
+    "Lotan: Cetarchon voice lines after update V2.5.3.3": 11,
+    "Amber-Tinted Death does not benefit from PChaos stat enhancement": 3,
+    "關於蝕滅蘿坦的一些用後建議": 2,
+    "請問可以加一個怪物的圖鑑嗎？": 3,
+    "GLotan's rouse effect": 1,
+    "融災數值": 3,
+    "Quadra / 4-Realm Rerun Banners": 4,
+    "✅「已回答」建議列車的隨機初始受祝造物和專屬造物改為自選": 2,
+    "Please rework how Propagation Caro works for the future units": 4,
+    "V2.5.1.0 停服维护公告": 7,
+    "Preview: V2.6.X Exchange Stores, Covenant Bonding & Affinity": 1,
+    "Preview: V2.6.X Gameplay & Rewards": 1,
+    "[Producer's Letter] We Will Not Fail You": 1,
+    "jenkins alleyway dumpster bin": 4,
+    "Pale Water Lily 🤍": 3,
+    "Rest well, Little one || Sylvester": 3,
+    "moss’s art dump": 8,
+    "\"To be loved, is to be devoured\" || Doresain X Sylvester": 2,
+    "YoruWiki ! ( hameln pic dumps for every1 !! )": 5,
+    "morimens sybau 💔": 2,
+    "Vortice sketch": 7,
+    "【English Translation】Opinions Collection": 4,
+    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 3,
+    "V2.5.0 命运剧院┊Theater of Fate": 4,
+    "求各位大佬幫忙看一下融災和主線怎麼配對，感激不盡": 24,
+    "想問問配對": 8,
+    "想問組隊和養成建議、還有有些自選不知道怎麼選": 2,
+    "New player running into a wall for the finale of act 1": 19,
+    "mouchette advice": 2,
     "🔸相位对弈": 3,
-    "🔸课间休息闲聊": 37,
-    "🔸日本語チャンネル": 1,
-    "🔸русский-канал": 146,
-    "🔸phòng-chat-tiếng-việt": 73,
-    "🔸canal-español": 47,
-    "🔸canal-português": 5,
-    "🔸ruang-obrolan-indonesia": 80,
-    "🔸ห้องสนทนาภาษาไทย": 19,
-    "🔸traphase": 3,
-    "🔸lore-chat": 52,
-    "🔸lets-count": 4,
-    "🔸team-building": 92,
-    "🔸邀请码互助┊swap-invitation-codes": 12,
-    "🔸game-question": 981,
-    "🔸游戏问题": 5,
-    "🔸机器人命令┊bot-commands": 11,
     "好好休息吧，小宝贝 || 西维斯特": 1,
-    "Arachne papercraft": 2,
     "“被爱，就是被吞噬” || 杜勒赛因x西维斯特": 4,
     "(AR) Mute Jukebox creates copies with Singularity Beacon": 2,
     "這是bug嗎還是正設": 23,
     "Training Dummy": 1,
-    "Are there any plans to fix iOS version of game?": 1,
-    "Lotan: Cetarchon exalt damage number does not line up with the hit after update V2.5.3.3": 1,
-    "Lotan: Cetarchon voice lines after update V2.5.3.3": 2,
     "Additional Record Filters": 1,
-    "Amber-Tinted Death does not benefit from PChaos stat enhancement": 2,
-    "請問可以加一個怪物的圖鑑嗎？": 2,
     "Skin Preview": 2,
-    "V2.5.1.0 停服维护公告": 4,
-    "Rest well, Little one || Sylvester": 1,
     "The strike of 29": 1,
-    "moss’s art dump": 3,
-    "\"To be loved, is to be devoured\" || Doresain X Sylvester": 1,
-    "Vortice sketch": 1,
-    "Experimental log: Saya": 1,
-    "【English Translation】Opinions Collection": 2,
-    "V2.5.0 命运剧院┊Theater of Fate": 3,
-    "想問問配對": 6,
-    "mouchette advice": 1
+    "Experimental log: Saya": 1
   },
   "hourly_activity": {
+    "8": 180,
+    "9": 388,
+    "10": 460,
+    "11": 421,
+    "12": 227,
+    "13": 565,
+    "14": 802,
+    "15": 737,
+    "16": 573,
+    "17": 674,
+    "18": 693,
+    "19": 424,
+    "20": 437,
+    "21": 471,
+    "22": 385,
+    "23": 442,
     "0": 111,
     "1": 202,
     "2": 193,
@@ -58,15 +102,88 @@
     "4": 213,
     "5": 324,
     "6": 580,
-    "7": 282,
-    "8": 9
+    "7": 282
   },
   "message_types": {
-    "0": 1462,
-    "19": 648,
-    "20": 10
+    "19": 2487,
+    "0": 7468,
+    "23": 1,
+    "20": 33,
+    "46": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1536776936678883328",
+      "channel_id": "1536776936678883328",
+      "content": "Hello everyone, this is Light, producer of Morimens.\n\nOver the past few months, ",
+      "author": "lightproud",
+      "reactions": 43,
+      "channel": "Preview: V2.6.X Gameplay & Rewards"
+    },
+    {
+      "id": "1536840126435565598",
+      "channel_id": "1536840126435565598",
+      "content": "This is the remaining half of the V2.6.X preview I shared with you earlier.  htt",
+      "author": "lightproud",
+      "reactions": 21,
+      "channel": "Preview: V2.6.X Exchange Stores, Covenant Bonding & Affinity"
+    },
+    {
+      "id": "1536647066930122772",
+      "channel_id": "1536647066930122772",
+      "content": "https://x.com/SaminDraws/status/2087085468525408690?s=20",
+      "author": "samin_",
+      "reactions": 17,
+      "channel": "Pale Water Lily 🤍"
+    },
+    {
+      "id": "1536798089166196867",
+      "channel_id": "1131839817982947429",
+      "content": "随便吧……反正我现在返利还没用完，都没充钱了",
+      "author": "galagalaguo",
+      "reactions": 11,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1536692450616147978",
+      "channel_id": "1536692450616147978",
+      "content": "hallo world",
+      "author": "077e",
+      "reactions": 9,
+      "channel": "jenkins alleyway dumpster bin"
+    },
+    {
+      "id": "1536753579686371328",
+      "channel_id": "1131839817982947429",
+      "content": "打到睡著",
+      "author": "nemu_s_t_a_r",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1536648299564638248",
+      "channel_id": "1180437373012672522",
+      "content": "細節圖魯睡著了<:Tulu_zzz:1468259861598044402>",
+      "author": "xianrenwurao",
+      "reactions": 7,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1536790294031376404",
+      "channel_id": "1536790294031376404",
+      "content": "1.既然困难已经与普通难度进行合并，变更为挑战难度选项，那么是否癫狂难度的制作是否已提上日程，还有困难难度应该不会像原来那样要等上相当一段时间才能游玩吧\n2.禁",
+      "author": "skdmess",
+      "reactions": 7,
+      "channel": "关于2.6.X相关内容的问题"
+    },
+    {
+      "id": "1536680699271319623",
+      "channel_id": "1536679305172754492",
+      "content": "If this results in a nerf, we better get a limited rewind item",
+      "author": "sirtealot",
+      "reactions": 7,
+      "channel": "Lotan 4 cost str bug"
+    },
     {
       "id": "1536624422771892314",
       "channel_id": "1131839817982947429",
@@ -74,6 +191,62 @@
       "author": "axe_proficient",
       "reactions": 7,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1536653465458311248",
+      "channel_id": "1131839817982947429",
+      "content": "硬穿1000多k盾殺",
+      "author": "xianrenwurao",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1536672654243659786",
+      "channel_id": "1131839817982947429",
+      "content": "||海佬日常||",
+      "author": "0.0._.0_0.",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1536761527531470868",
+      "channel_id": "1131839817982947429",
+      "content": "升完蝕蘿的狂氣爆發打贏2-5了耶\n剛入坑一週",
+      "author": "tenriarahi",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1536797412570697748",
+      "channel_id": "1131839817982947429",
+      "content": "前猫后鸟中间一个大灯罩",
+      "author": "galagalaguo",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1536850126000095362",
+      "channel_id": "1131839817982947429",
+      "content": "我在乎的只有這個",
+      "author": "ahong0727",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1536865490843209779",
+      "channel_id": "1131839817982947429",
+      "content": "半夜两点爬起来拼字拼一半睡着了起来继续拼",
+      "author": "sweet_25367",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1536788089953984572",
+      "channel_id": "1385040039448412170",
+      "content": "Im familiar but i just stop posting clears cuz it goes past making a joke to jus",
+      "author": "omegamart",
+      "reactions": 6,
+      "channel": "🔸频道建议┊server-suggestions"
     },
     {
       "id": "1536572177036480522",
@@ -92,140 +265,12 @@
       "channel": "🔸lore-chat"
     },
     {
-      "id": "1536610630021161091",
-      "channel_id": "1433513650299076780",
-      "content": "I focus on class now",
-      "author": "eury_illia",
+      "id": "1536712281201836142",
+      "channel_id": "1131839817982947429",
+      "content": "Aaa的報應……",
+      "author": "nemu_s_t_a_r",
       "reactions": 5,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1536639469791354891",
-      "channel_id": "1536639469791354891",
-      "content": "#V2.5同人征集#\n\nMy first impression when I saw Arachne icon was \"Oh, it will be amaz",
-      "author": "nextoad",
-      "reactions": 5,
-      "channel": "Arachne papercraft"
-    },
-    {
-      "id": "1536578324149706853",
-      "channel_id": "1131839817982947429",
-      "content": "該來赤一下融災了",
-      "author": "axe_proficient",
-      "reactions": 4,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536622220367896577",
-      "channel_id": "1131839817982947429",
-      "content": "那是拿來撕女拉拉的福的",
-      "author": "a._0320",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536633909440151572",
-      "channel_id": "1131839817982947429",
-      "content": "~~阿偉阿拉是甚麼隊伍~~",
-      "author": "quackdayo",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536634087899668542",
-      "channel_id": "1131839817982947429",
-      "content": "<@563954858940563456> 大佬不要視姦我",
-      "author": "quackdayo",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536579548726956153",
-      "channel_id": "1433513650299076780",
-      "content": "Alright sounds good I'll go for that then thank you <a:widePeepoHappyRightHeart:",
-      "author": ".ashborne.",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1536610532042215495",
-      "channel_id": "1433513650299076780",
-      "content": "im going to make a build for infinito creare ringgo, is so fun to play <:Helot_s",
-      "author": "khryiis",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1536549747115167785",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "a._0320",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536549822885011517",
-      "channel_id": "1131839817982947429",
-      "content": "詩拉拉福",
-      "author": "ice_storys",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536594650813571173",
-      "channel_id": "1131839817982947429",
-      "content": "造物真爽阿",
-      "author": "axe_proficient",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536628740312932462",
-      "channel_id": "1131839817982947429",
-      "content": "~~我說神鯨跟沙耶還有啥子都該帶埋骨地~~",
-      "author": "quackdayo",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536630811439267850",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "a._0320",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536634163061334097",
-      "channel_id": "1131839817982947429",
-      "content": "諾的臨反可以搭阿拉對軸一波秒",
-      "author": "a_wei3797",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536643860162281624",
-      "channel_id": "1180437373012672522",
-      "content": "",
-      "author": "ass191044",
-      "reactions": 2,
-      "channel": "🔸欢乐梗图"
-    },
-    {
-      "id": "1536578494304354386",
-      "channel_id": "1181152750319456266",
-      "content": "看到有厨子喷这个皮太现代了",
-      "author": "ponponnyaru",
-      "reactions": 2,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1536630152786874439",
-      "channel_id": "1300659580446969918",
-      "content": "А за предзаказ я ведь все равно получу куртки, самого перса не обязательно крути",
-      "author": "hevioso.asp",
-      "reactions": 2,
-      "channel": "🔸русский-канал"
     }
   ]
 }

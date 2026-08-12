@@ -1,11 +1,11 @@
 {
   "date": "2026-08-04",
-  "messages": 13072,
+  "messages": 14783,
   "unique_authors": 303,
-  "reactions_total": 915,
-  "attachments": 620,
+  "reactions_total": 945,
+  "attachments": 656,
   "channel_activity": {
-    "🔸general-chat": 5350,
+    "🔸general-chat": 7061,
     "🔸綜合討論": 644,
     "🔸阵容构建": 2,
     "🔸剧情交流": 30,
@@ -71,6 +71,9 @@
     "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1
   },
   "hourly_activity": {
+    "21": 1205,
+    "22": 814,
+    "23": 421,
     "3": 171,
     "4": 251,
     "5": 419,
@@ -89,16 +92,13 @@
     "18": 740,
     "19": 1124,
     "20": 781,
-    "21": 456,
     "0": 240,
     "1": 375,
-    "2": 286,
-    "22": 188,
-    "23": 85
+    "2": 286
   },
   "message_types": {
-    "0": 8817,
-    "19": 4216,
+    "0": 10067,
+    "19": 4677,
     "20": 38,
     "23": 1
   },
