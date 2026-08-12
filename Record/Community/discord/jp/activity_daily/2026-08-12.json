@@ -1,18 +1,21 @@
 {
   "date": "2026-08-12",
-  "messages": 275,
+  "messages": 282,
   "unique_authors": 17,
-  "reactions_total": 80,
-  "attachments": 5,
+  "reactions_total": 82,
+  "attachments": 8,
   "channel_activity": {
-    "なんでも雑談": 231,
-    "🔰初心者質問": 14,
+    "なんでも雑談": 237,
+    "🔰初心者質問": 15,
     "誰でも質問": 26,
     "【対人戦】団体戦企画": 2,
     "対人関係のあれこれ": 1,
     "招待コード共有会": 1
   },
   "hourly_activity": {
+    "14": 3,
+    "15": 3,
+    "16": 1,
     "10": 51,
     "11": 49,
     "12": 149,
@@ -26,8 +29,8 @@
     "2": 1
   },
   "message_types": {
-    "19": 14,
-    "0": 261
+    "0": 268,
+    "19": 14
   },
   "top_reacted_messages": [
     {
@@ -100,6 +103,14 @@
       "content": "ウィリアムは優秀イケメンで好きよ\n||2部でスケベな姿の並行世界ウィリアムが駆けつけると信じてるよ||",
       "author": "tomreo",
       "reactions": 3,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1537122786198298665",
+      "channel_id": "1377478664609857647",
+      "content": "うへへ",
+      "author": "ecstasyrb",
+      "reactions": 2,
       "channel": "なんでも雑談"
     },
     {
@@ -180,14 +191,6 @@
       "content": "メールなんて読んだことないな(小声)",
       "author": "altiar_zain",
       "reactions": 2,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1537065478407720970",
-      "channel_id": "1377478664609857647",
-      "content": "星辰篇自体が最早神国ストーリーだろうと思ってる。PV的にも",
-      "author": "yamaiame_ql4",
-      "reactions": 1,
       "channel": "なんでも雑談"
     }
   ]
