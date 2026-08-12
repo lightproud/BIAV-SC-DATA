@@ -1,6 +1,6 @@
 {
   "guild_id": "1402537664619479100",
-  "updated_at": "2026-08-12T07:51:43.974848+00:00",
+  "updated_at": "2026-08-12T10:19:54.581804+00:00",
   "channels": [
     {
       "id": "1402537664619479101",
@@ -297,6 +297,22 @@
       "parent_id": null,
       "position": 4,
       "topic": ""
+    },
+    {
+      "id": "1537014299996987422",
+      "name": "noted-00001",
+      "type": 0,
+      "parent_id": "1536988913401335818",
+      "position": 33,
+      "topic": "Ticket #1 | Created by morimensstaff03"
+    },
+    {
+      "id": "1537014771147210752",
+      "name": "feedback-00002",
+      "type": 0,
+      "parent_id": "1536977143815475220",
+      "position": 32,
+      "topic": "Ticket #2 | Created by morimensstaff01"
     }
   ]
 }
