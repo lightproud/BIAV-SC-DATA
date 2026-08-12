@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-13",
+  "archived_at": "2026-08-12T19:01:04.202315+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam论坛] What is the synergy between Mouchette and Alva?",
+      "summary": "When I search for mouchette teams i keep seeing alva and i dont really understand why shes so great with her since one focuses on strikes and the other on defenses",
+      "source": "steam_discussion",
+      "time": "2026-08-12T18:52:16+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591812495357830150/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "DingusDork",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}
