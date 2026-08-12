@@ -1,20 +1,24 @@
 {
   "date": "2026-08-12",
-  "messages": 8,
+  "messages": 14,
   "unique_authors": 3,
   "reactions_total": 0,
   "attachments": 0,
   "channel_activity": {
-    "なんでも雑談": 7,
+    "なんでも雑談": 9,
+    "🔰初心者質問": 4,
     "招待コード共有会": 1
   },
   "hourly_activity": {
+    "6": 2,
+    "7": 4,
     "3": 4,
     "4": 3,
     "2": 1
   },
   "message_types": {
-    "0": 8
+    "0": 13,
+    "19": 1
   },
   "top_reacted_messages": []
 }
