@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
-  "archived_at": "2026-08-12T10:02:28.866355+00:00",
+  "archived_at": "2026-08-12T13:04:35.920196+00:00",
   "source": "bahamut",
-  "item_count": 28,
+  "item_count": 31,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -122,6 +122,19 @@
       "platform_region": "tw"
     },
     {
+      "title": "【攻略】奧爾拉、杜勒、茉夏，三相復刻抽取建議",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-12T13:03:40.505143+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1522&tnum=3",
+      "engagement": 43,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
       "title": "【問題】我寫的「蝕滅•蘿坦」宣傳，登上巴哈姆特首頁囉 !",
       "summary": "",
       "source": "bahamut",
@@ -156,6 +169,19 @@
       "engagement": 35,
       "is_hot": false,
       "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【心得】融災簡易攻略：無課小號實測＋本尊對照(還是依照個人情況做調整為主喔!(簡單做了一個新舊融災表格供參考!",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-12T13:03:40.505106+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1492&tnum=4",
+      "engagement": 29,
+      "is_hot": false,
+      "author": "Daisuke1990",
       "tags": [],
       "lang": "zh",
       "platform_region": "tw"
@@ -244,6 +270,19 @@
       "source": "bahamut",
       "time": "2026-08-11T16:00:10.242393+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1508&tnum=1",
+      "engagement": 12,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【校貓日誌】前瞻：相位對弈暫停更新，取消400以上銀芯獎勵",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-12T12:34:40.505074+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1527&tnum=2",
       "engagement": 12,
       "is_hot": false,
       "author": "t12345825",

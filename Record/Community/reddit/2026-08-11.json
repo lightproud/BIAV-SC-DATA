@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "archived_at": "2026-08-11T07:04:23.300696+00:00",
+  "archived_at": "2026-08-12T13:04:35.997939+00:00",
   "source": "reddit",
-  "item_count": 10,
+  "item_count": 11,
   "items": [
     {
       "title": "LEONORA",
@@ -176,6 +176,24 @@
         "via": "rss"
       },
       "media_url": "https://preview.redd.it/p18kzaitsoih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=503e98a993d9c5bd74b1a680c8e32eb1725f03b5",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "6/7 Steps to playing Mouchette",
+      "summary": "I need to work on my intro but here&#39;s the Mouchette guide~ I&#39;ll upload a full run commentary tmr or smth  &#32; submitted by &#32;  /u/Angbak94   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-11T15:36:48+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vlkwf1/67_steps_to_playing_mouchette/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/Angbak94",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://external-preview.redd.it/s1TA_lwyMZnulwkskbPA58IKinvfdQTW127emc-DhU8.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=65de8ae6f666e982e4b4eb2a37606923b5603a29",
       "content_type": "image",
       "lang": "en",
       "platform_region": "global"

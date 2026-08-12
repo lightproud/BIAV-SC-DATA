@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
-  "archived_at": "2026-08-12T10:02:28.909424+00:00",
+  "archived_at": "2026-08-12T13:04:35.978055+00:00",
   "source": "steam",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] Beautiful visuals; story; character design and sou...",
@@ -142,6 +142,30 @@
         "playtime_forever": 169,
         "votes_up": 0,
         "timestamp_created": 1786523493
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] Honestly this game's a bit hard to rate for me; I...",
+      "summary": "Honestly this game's a bit hard to rate for me; I love the gameplay and mechanics, the Gacha aspect is generous [i] (I've managed to get most of the characters I like/need) [/i], and the story is decent. I would talk about all this, but I'd like to harp on my issues.\n\nCharacter designs are where it falls apart a bit for me; no/few dark-skinned characters. Those who do exist [i] (who I am defining as Wanda, Thais and Goliath) [/i], from what I've seen, are in a little bit of bad taste [i] (at the time of writing I am halfway through chapter 7, where Thais appears) [/i]. Now, is it as bad as Genshin white-washing the cultures entirely? Of course not, but that's an absurdly low bar to clear.\n\nThe automatic/AI translation does suck, but the story doesn't suffer too much in my opinion, just the descriptions of some cards/relics that are iffy.\n\nAs for the more recent updates that are planned [b] please refer to other recent negative reviews [/b]. I'm not far enough into progression to make any assertions but as it sounds late-game content will be getting worse in the near future and the game will become more pay to win.\n\nOverall it's a fun game suffering from the same issues as 99% of gacha games, just less chronically. I hate that this game has these issues as it has a strong gameplay loop.\n\n[i] P.S. I will return to edit this review if any of these points become void (either via an update or me exploring more of the game) OR these points gets worse, and I want to further detail them. I do apologise if some of them ARE null from later content that I haven't accessed, I just wanted to express my current opinions. And yes, I wouldn't necessarily recommend the game. [/i]",
+      "source": "steam_review",
+      "time": "2026-08-12T12:14:12+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199217679424/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199217679424",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 5014,
+        "votes_up": 0,
+        "timestamp_created": 1786536852
       },
       "region": "global",
       "archive_subtype": "review",
