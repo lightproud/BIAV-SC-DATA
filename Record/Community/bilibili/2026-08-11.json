@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "archived_at": "2026-08-12T01:44:45.452261+00:00",
+  "archived_at": "2026-08-12T04:47:40.318627+00:00",
   "source": "bilibili",
-  "item_count": 17,
+  "item_count": 18,
   "items": [
     {
       "title": "从夯到拉锐评拔作情节，汉尼拔的拔",
@@ -161,6 +161,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/c3e62d29b77b156a19c6626d1ac435f98a9a459d.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "Remember you～",
+      "summary": "-\n  └ 小26与初11二世 (0赞): 全大学最好的手工人[doge]\n  └ 沐良lx (0赞): [给心心][给心心]\n  └ AAA木柴批发 (0赞): 摸出来了！感觉好像YOYO，好可爱！墨菲萌！[给心心]",
+      "source": "bilibili",
+      "time": "2026-08-11T12:53:25+00:00",
+      "url": "https://www.bilibili.com/video/BV1Zpuz6AEnv",
+      "engagement": 131,
+      "is_hot": false,
+      "author": "AAA木柴批发",
+      "tags": [
+        "手工"
+      ],
+      "metadata": {
+        "play": 125,
+        "comment_count": 6,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/17b33b4f99d16bec3531acb9708211e71187ceef.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
