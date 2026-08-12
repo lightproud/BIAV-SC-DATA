@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
-  "archived_at": "2026-08-12T07:21:51.829555+00:00",
+  "archived_at": "2026-08-12T10:02:28.863943+00:00",
   "source": "youtube",
-  "item_count": 7,
+  "item_count": 9,
   "items": [
     {
       "title": "[Morimens] Extremely short stream (I promise this time)",
@@ -51,6 +51,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/ZyLJZtKPr6s/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Going over v2.6.0 Change to Morimens, new skins, 18 mill HP bosses, etc.",
+      "summary": "https://buymeacoffee.com/flares https://discord.gg/tpMMe5W7CT - Personal Flares Discord ...",
+      "source": "youtube",
+      "time": "2026-08-12T09:27:36Z",
+      "url": "https://www.youtube.com/watch?v=SX869XZtK5Q",
+      "engagement": 72,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/SX869XZtK5Q/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -119,6 +136,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/5mshPixWyLM/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "『忘却前夜/対人戦』ランキングTOPプレイヤーの完璧なプレイングに感動してしまう・・・！『ゲーム実況』",
+      "summary": "今回は新シーズンということもあって、対人戦の動画をUPしました！ 動画でも説明していますが、次回の動画はPVEとなります ...",
+      "source": "youtube",
+      "time": "2026-08-12T08:40:39Z",
+      "url": "https://www.youtube.com/watch?v=bRYM6NjYUew",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "薄めの『ゆゆ』",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/bRYM6NjYUew/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

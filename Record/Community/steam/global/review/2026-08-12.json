@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
-  "archived_at": "2026-08-12T07:21:51.865296+00:00",
+  "archived_at": "2026-08-12T10:02:28.909424+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "[正面] Beautiful visuals; story; character design and sou...",
@@ -118,6 +118,30 @@
         "playtime_forever": 6345,
         "votes_up": 0,
         "timestamp_created": 1786510636
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 非常好玩",
+      "summary": "非常好玩",
+      "source": "steam_review",
+      "time": "2026-08-12T08:31:33+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198729370151/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198729370151",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 169,
+        "votes_up": 0,
+        "timestamp_created": 1786523493
       },
       "region": "global",
       "archive_subtype": "review",
