@@ -1,18 +1,19 @@
 {
   "date": "2026-08-12",
-  "messages": 288,
+  "messages": 293,
   "unique_authors": 17,
-  "reactions_total": 89,
-  "attachments": 10,
+  "reactions_total": 90,
+  "attachments": 12,
   "channel_activity": {
+    "誰でも質問": 31,
     "なんでも雑談": 242,
     "🔰初心者質問": 16,
-    "誰でも質問": 26,
     "【対人戦】団体戦企画": 2,
     "対人関係のあれこれ": 1,
     "招待コード共有会": 1
   },
   "hourly_activity": {
+    "22": 5,
     "17": 5,
     "19": 1,
     "14": 3,
@@ -31,7 +32,7 @@
     "2": 1
   },
   "message_types": {
-    "0": 274,
+    "0": 279,
     "19": 14
   },
   "top_reacted_messages": [
