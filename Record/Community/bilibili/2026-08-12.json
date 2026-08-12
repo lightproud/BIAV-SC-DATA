@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
-  "archived_at": "2026-08-12T13:04:35.917308+00:00",
+  "archived_at": "2026-08-12T15:59:11.031999+00:00",
   "source": "bilibili",
-  "item_count": 18,
+  "item_count": 19,
   "items": [
     {
       "title": "【明明是洗稿抄袭的营销号，在我眼中却是百万粉丝大啊噗】，一期视频带你了解隔壁小蛙的前世今生。",
@@ -253,6 +253,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/e5c55b31ebf721a82741d43809c6b51694ac515d.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "『沙耶让梨』",
+      "summary": "新角色小沙耶的妹妹小小耶\n  └ 小龙猫大能力 (0赞): 新角色小沙耶的妹妹小小耶首次登场[tv_doge]",
+      "source": "bilibili",
+      "time": "2026-08-12T15:07:52+00:00",
+      "url": "https://www.bilibili.com/video/BV1PBgj6mE6L",
+      "engagement": 41,
+      "is_hot": false,
+      "author": "小龙猫大能力",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 40,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/2865f049d9376e608231ad22a89f5bc0cdfda28b.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

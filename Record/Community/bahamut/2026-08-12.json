@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
-  "archived_at": "2026-08-12T13:04:35.920196+00:00",
+  "archived_at": "2026-08-12T15:59:11.034029+00:00",
   "source": "bahamut",
-  "item_count": 31,
+  "item_count": 32,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -247,6 +247,19 @@
       "engagement": 16,
       "is_hot": false,
       "author": "VQX860825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【攻略】茉夏開荒隊伍與主流陣容推薦",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-12T15:58:23.300858+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1528&tnum=1",
+      "engagement": 14,
+      "is_hot": false,
+      "author": "t12345825",
       "tags": [],
       "lang": "zh",
       "platform_region": "tw"

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "archived_at": "2026-08-12T13:04:36.089498+00:00",
+  "archived_at": "2026-08-12T15:59:11.199934+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 best underrated game, 100+% a must try",
@@ -30,6 +30,20 @@
       "tags": [],
       "lang": "es",
       "platform_region": "es",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Absolute cinema 🙌 one of the best game I",
+      "summary": "Absolute cinema 🙌 one of the best game I've played!",
+      "source": "google_play",
+      "time": "2026-08-11T13:51:02",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-00d3cdc7-1af2-43ca-b68a-e3cb6d958b8a",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Peruer Snezhevna",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],
