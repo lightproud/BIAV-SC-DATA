@@ -229,5 +229,19 @@
     "parent_id": "1402537664619479104",
     "dir": "71645972",
     "status": "active"
+  },
+  "1536976116886147142": {
+    "name": "translation-feedback-bot",
+    "type": "text",
+    "parent_id": "1402537664619479101",
+    "dir": "86147142",
+    "status": "active"
+  },
+  "1536978171155582997": {
+    "name": "反馈日志",
+    "type": "text",
+    "parent_id": "1536977143815475220",
+    "dir": "55582997",
+    "status": "active"
   }
 }
