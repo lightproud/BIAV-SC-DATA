@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
-  "archived_at": "2026-08-12T19:01:04.155187+00:00",
+  "archived_at": "2026-08-12T21:43:54.098829+00:00",
   "source": "bilibili",
-  "item_count": 20,
+  "item_count": 21,
   "items": [
     {
       "title": "【明明是洗稿抄袭的营销号，在我眼中却是百万粉丝大啊噗】，一期视频带你了解隔壁小蛙的前世今生。",
@@ -184,6 +184,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/19424aed0a69cfe871890992aada4ba180d08ec1.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "沙耶",
+      "summary": "没画完 感觉有点懒了o(*////▽////*)q\n  └ 哈基沙大玉 (1赞): 好看捏\n  └ 无糖茶垢Tee (0赞): 我喜欢你",
+      "source": "bilibili",
+      "time": "2026-08-12T03:11:40+00:00",
+      "url": "https://www.bilibili.com/video/BV1BauC6kEM6",
+      "engagement": 108,
+      "is_hot": false,
+      "author": "神秘大甲鱼",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 105,
+        "comment_count": 3,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/2b3565d94db15a77b4deb3dab8f9dc5b50ec8564.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
