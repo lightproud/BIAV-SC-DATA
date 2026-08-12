@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
-  "archived_at": "2026-08-12T04:47:40.359397+00:00",
+  "archived_at": "2026-08-12T07:21:51.865296+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[正面] Beautiful visuals; story; character design and sou...",
@@ -94,6 +94,30 @@
         "playtime_forever": 10014,
         "votes_up": 0,
         "timestamp_created": 1786481762
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 美术超级顶 剧情不错 就是演出差一些可能因为制作组相对贫穷 但游戏性依然非常出众 我希望更多人能看到...",
+      "summary": "美术超级顶 剧情不错 就是演出差一些可能因为制作组相对贫穷 但游戏性依然非常出众 我希望更多人能看到这个游戏",
+      "source": "steam_review",
+      "time": "2026-08-12T04:57:16+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198160999347/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198160999347",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 6345,
+        "votes_up": 0,
+        "timestamp_created": 1786510636
       },
       "region": "global",
       "archive_subtype": "review",

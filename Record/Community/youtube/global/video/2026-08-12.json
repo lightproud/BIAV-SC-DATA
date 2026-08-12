@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
-  "archived_at": "2026-08-12T04:47:40.319478+00:00",
+  "archived_at": "2026-08-12T07:21:51.829555+00:00",
   "source": "youtube",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "[Morimens] Extremely short stream (I promise this time)",
@@ -34,6 +34,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/R2fLPi5aH_Y/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Improving the changes Spreadsheet and theorycrafting Ecog and Ecogless Madness teams",
+      "summary": "Don't know how long. Will be doing other stuff too.",
+      "source": "youtube",
+      "time": "2026-08-12T05:15:15Z",
+      "url": "https://www.youtube.com/watch?v=ZyLJZtKPr6s",
+      "engagement": 122,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/ZyLJZtKPr6s/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
