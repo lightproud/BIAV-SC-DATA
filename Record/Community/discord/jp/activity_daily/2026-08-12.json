@@ -1,18 +1,20 @@
 {
   "date": "2026-08-12",
-  "messages": 282,
+  "messages": 288,
   "unique_authors": 17,
-  "reactions_total": 82,
-  "attachments": 8,
+  "reactions_total": 89,
+  "attachments": 10,
   "channel_activity": {
-    "なんでも雑談": 237,
-    "🔰初心者質問": 15,
+    "なんでも雑談": 242,
+    "🔰初心者質問": 16,
     "誰でも質問": 26,
     "【対人戦】団体戦企画": 2,
     "対人関係のあれこれ": 1,
     "招待コード共有会": 1
   },
   "hourly_activity": {
+    "17": 5,
+    "19": 1,
     "14": 3,
     "15": 3,
     "16": 1,
@@ -29,7 +31,7 @@
     "2": 1
   },
   "message_types": {
-    "0": 268,
+    "0": 274,
     "19": 14
   },
   "top_reacted_messages": [
@@ -39,6 +41,14 @@
       "content": "ヘヘッこのゲーム遊び始めてから初めて融災350点取れたぜ…！\n溶壊・ドール最高ー！お前も溶壊・ドール最高と言いなさい（突然の豹変）",
       "author": "tttt_1412",
       "reactions": 10,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1537150190090322031",
+      "channel_id": "1377478664609857647",
+      "content": "融災更新できた",
+      "author": "saihuu",
+      "reactions": 7,
       "channel": "なんでも雑談"
     },
     {
@@ -182,14 +192,6 @@
       "channel_id": "1377478664609857647",
       "content": "ゲーム開いた30分も経たないうちにやること無くなるのなんなの？\nサマーバケーション中なんですけどー！",
       "author": "chabo.chabo",
-      "reactions": 2,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1537042202562265178",
-      "channel_id": "1377478664609857647",
-      "content": "メールなんて読んだことないな(小声)",
-      "author": "altiar_zain",
       "reactions": 2,
       "channel": "なんでも雑談"
     }
