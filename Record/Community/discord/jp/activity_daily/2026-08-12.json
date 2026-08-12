@@ -1,15 +1,20 @@
 {
   "date": "2026-08-12",
-  "messages": 14,
-  "unique_authors": 3,
-  "reactions_total": 0,
-  "attachments": 0,
+  "messages": 74,
+  "unique_authors": 16,
+  "reactions_total": 15,
+  "attachments": 1,
   "channel_activity": {
-    "なんでも雑談": 9,
-    "🔰初心者質問": 4,
+    "なんでも雑談": 59,
+    "🔰初心者質問": 7,
+    "誰でも質問": 6,
+    "【対人戦】団体戦企画": 1,
     "招待コード共有会": 1
   },
   "hourly_activity": {
+    "8": 4,
+    "9": 7,
+    "10": 49,
     "6": 2,
     "7": 4,
     "3": 4,
@@ -17,8 +22,81 @@
     "2": 1
   },
   "message_types": {
-    "0": 13,
-    "19": 1
+    "0": 70,
+    "19": 4
   },
-  "top_reacted_messages": []
+  "top_reacted_messages": [
+    {
+      "id": "1537042815585099806",
+      "channel_id": "1377478664609857647",
+      "content": "改善点…もっとキャラ深堀して\nドールとかドールとかドールとか、あとドールとか",
+      "author": "altiar_zain",
+      "reactions": 3,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1537046301122895912",
+      "channel_id": "1377478664609857647",
+      "content": "ウィリアムは優秀イケメンで好きよ\n||2部でスケベな姿の並行世界ウィリアムが駆けつけると信じてるよ||",
+      "author": "tomreo",
+      "reactions": 3,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1537027229203169312",
+      "channel_id": "1377478664609857647",
+      "content": "ゲーム開いた30分も経たないうちにやること無くなるのなんなの？\nサマーバケーション中なんですけどー！",
+      "author": "chabo.chabo",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1537042202562265178",
+      "channel_id": "1377478664609857647",
+      "content": "メールなんて読んだことないな(小声)",
+      "author": "altiar_zain",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1537034776593047562",
+      "channel_id": "1377478664609857647",
+      "content": "あんまりお得じゃなさそう",
+      "author": "saihuu",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1537042057389146182",
+      "channel_id": "1377478664609857647",
+      "content": "ゲーム内でアンケートありましたよ。レイドちょい前くらいの時期かな？",
+      "author": "yamaiame_ql4",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1537042794139488320",
+      "channel_id": "1377478664609857647",
+      "content": "積んだお金半額キャッシュバックしてくれ",
+      "author": "chabo.chabo",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1537046569373798482",
+      "channel_id": "1377478664609857647",
+      "content": "触手服の夏服仕様ウィリアム(水着)",
+      "author": "tomreo",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1537042194312208384",
+      "channel_id": "1400058619726266462",
+      "content": "良かった！！！どっちもめちゃ推しなので見逃したかと寝込みそうになってました！！！！\nありがとうございます！これで心置きなく進められます！幸あれ！",
+      "author": "videobox",
+      "reactions": 1,
+      "channel": "誰でも質問"
+    }
+  ]
 }
