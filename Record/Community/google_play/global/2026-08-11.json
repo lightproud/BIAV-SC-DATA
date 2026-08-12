@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-11",
+  "archived_at": "2026-08-12T01:44:45.541214+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 best underrated game, 100+% a must try",
+      "summary": "best underrated game, 100+% a must try",
+      "source": "google_play",
+      "time": "2026-08-10T22:42:03",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-667eefec-6bff-4b0f-8194-fd85a8701da7",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Victor Ramos",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 El juego es increíble pero la optimizaci",
+      "summary": "El juego es increíble pero la optimización es muy mala",
+      "source": "google_play",
+      "time": "2026-08-10T21:46:53",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-d64ca922-e303-4777-9d75-091b068032cb",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Julian",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "es",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-11",
+  "archived_at": "2026-08-12T01:44:45.454377+00:00",
+  "source": "youtube",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "【忘却前夜】ラジオドラマ「水槽の中で見る夢」",
+      "summary": "ラジオドラマ「水槽の中で見る夢」 わたしの子犬ちゃん、怖がらないでね。 この手で直接、手術をしてあげる。 溶壊・ ...",
+      "source": "youtube",
+      "time": "2026-08-11T10:00:17Z",
+      "url": "https://www.youtube.com/watch?v=MOey8oGtbKI",
+      "engagement": 175,
+      "is_hot": false,
+      "author": "忘却前夜【日本版公式】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/MOey8oGtbKI/hqdefault.jpg",
+      "content_type": "video",
+      "region": "jp",
+      "archive_subtype": "video"
+    }
+  ],
+  "region": "jp",
+  "content_subtype": "video"
+}

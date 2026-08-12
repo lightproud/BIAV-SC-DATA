@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "archived_at": "2026-08-11T21:45:22.791378+00:00",
+  "archived_at": "2026-08-12T01:44:45.452261+00:00",
   "source": "bilibili",
-  "item_count": 15,
+  "item_count": 17,
   "items": [
     {
       "title": "从夯到拉锐评拔作情节，汉尼拔的拔",
@@ -184,6 +184,52 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/bc1ddde70073e463ea182ef51f4357e2dcfb030e.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "？这么高的爆率吗？？？",
+      "summary": "这是被剧情刀了之后的补偿吗？",
+      "source": "bilibili",
+      "time": "2026-08-11T11:23:32+00:00",
+      "url": "https://www.bilibili.com/video/BV1Y8uz6tEy2",
+      "engagement": 120,
+      "is_hot": false,
+      "author": "真的被刀哭了",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 120,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/f2894468c0e10f2fdb28ae9c6badbd3aba5ae9af.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "8月11日 400修炼",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-11T12:10:04+00:00",
+      "url": "https://www.bilibili.com/video/BV1yMuz6kEcy",
+      "engagement": 106,
+      "is_hot": false,
+      "author": "Au9usTus_",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 106,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/befbddb139ad67bbb4df2d700b54a8720a37dc5c.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
