@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "archived_at": "2026-08-13T19:02:11.382789+00:00",
+  "archived_at": "2026-08-13T21:43:58.262999+00:00",
   "source": "bahamut",
-  "item_count": 19,
+  "item_count": 20,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -247,6 +247,19 @@
       "engagement": 2,
       "is_hot": false,
       "author": "liwei1002",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【問題】請問蝕滅羅坦的隊伍推薦",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-13T21:43:11.495642+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1530&tnum=1",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "osakamidoly",
       "tags": [],
       "lang": "zh",
       "platform_region": "tw"
