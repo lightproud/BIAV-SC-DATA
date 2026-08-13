@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
-  "archived_at": "2026-08-13T07:24:28.643343+00:00",
+  "archived_at": "2026-08-13T10:03:37.417541+00:00",
   "source": "steam",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] пришла ради саечки, осталась ради геймплея и прекр...",
@@ -142,6 +142,30 @@
         "playtime_forever": 3250,
         "votes_up": 0,
         "timestamp_created": 1786594670
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 挺好的游戏，别水社区，戾气重的离谱。",
+      "summary": "挺好的游戏，别水社区，戾气重的离谱。",
+      "source": "steam_review",
+      "time": "2026-08-13T08:35:57+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198404845670/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198404845670",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 44127,
+        "votes_up": 0,
+        "timestamp_created": 1786610157
       },
       "region": "global",
       "archive_subtype": "review",

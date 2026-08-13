@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
-  "archived_at": "2026-08-13T07:24:28.605006+00:00",
+  "archived_at": "2026-08-13T10:03:37.367071+00:00",
   "source": "bilibili",
-  "item_count": 8,
+  "item_count": 9,
   "items": [
     {
       "title": "有人吃过腐烂的猪肉吗",
@@ -46,6 +46,29 @@
         "danmaku": 1
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/244972697c7bc0d3178720bb7ae83fdd1d5d4161.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "忘却前夜出号",
+      "summary": "心理底价450，要去备考故出号\n  └ 秋沫爱吃 (0赞): 账号低于3级别找我。。。\n  └ 就帝都温 (0赞): 回关谈下 老师\n  └ 燃え落ちない翼 (0赞): 感觉不会很高价的样子啊[小A和小B_喝茶][小A和小B_喝茶]",
+      "source": "bilibili",
+      "time": "2026-08-13T05:20:29+00:00",
+      "url": "https://www.bilibili.com/video/BV1iPgH6jEsv",
+      "engagement": 160,
+      "is_hot": false,
+      "author": "秋沫爱吃",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 157,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/fbb1478e9e125f0d6171b18a45102d5c675bebe7.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
