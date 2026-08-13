@@ -1,9 +1,55 @@
 {
   "date": "2026-08-13",
-  "archived_at": "2026-08-13T10:03:37.367071+00:00",
+  "archived_at": "2026-08-13T13:05:28.587472+00:00",
   "source": "bilibili",
-  "item_count": 9,
+  "item_count": 14,
   "items": [
+    {
+      "title": "明明是人类，在我眼中却是美丽的肉块怪物...",
+      "summary": "参考:BV1wSL96YEhp\n  └ 成分复杂但最爱yj (2赞): 还有正反手教学\n  └ 耕司青海瑶 (1赞): 耕司最强的一期[doge]\n  └ 异眼亚克 (0赞): 还有正反手教学",
+      "source": "bilibili",
+      "time": "2026-08-13T10:31:30+00:00",
+      "url": "https://www.bilibili.com/video/BV1K2gp6iEct",
+      "engagement": 385,
+      "is_hot": false,
+      "author": "事一个啊一个homo",
+      "tags": [
+        "鬼畜剧场"
+      ],
+      "metadata": {
+        "play": 380,
+        "comment_count": 5,
+        "comments_fetched": 3,
+        "danmaku": 2
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/0df9d158d086d97cdb5a9bd15eef73e103c9b2c8.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】茉夏2t融灾1亿输出…忘记吃沙漏了…",
+      "summary": "也许是茉夏的输出上限，直伤很难超过2e\n  └ 爱莉厨114514号 (1赞): 别吓我鱼神[崩坏3·光辉矢愿_让我摸摸]\n  └ 抱着狗狗不敢说话 (1赞): 1000死扛吗。。。\n  └ 普泽泽 (1赞): 鱼神…驾到…",
+      "source": "bilibili",
+      "time": "2026-08-13T11:31:11+00:00",
+      "url": "https://www.bilibili.com/video/BV1Yhgp62EFb",
+      "engagement": 285,
+      "is_hot": false,
+      "author": "半醒的鱼yyy",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 280,
+        "comment_count": 5,
+        "comments_fetched": 3,
+        "danmaku": 1
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/0ebdd90bf10d90243a661cf5bf729cd5823934e5.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "有人吃过腐烂的猪肉吗",
       "summary": "你们吃过腐烂的猪肉吗？我吃过。不是放了一晚上有点味道那种，是扔在墙角七天、爬满白蛆、流着黄绿色脓水、苍蝇围着打转的那种。入口先是腐肉特有的甜腥恶臭，像把整张脸埋进了死老鼠的肚子里，那股味道顺着鼻腔直插后脑勺，天灵盖都发麻。紧接着蛆虫在舌头上炸了锅，有的往牙缝里钻，有的往喉咙口爬，像含了一把活跳跳的米粒，又烫又痒。\n\n牙齿咬下去，腐肉已经烂成了肉泥，软塌塌地糊在舌头上，像在吃一碗用尸水和烂肉熬成的稀粥。脓水从嘴角溢出来，黏糊糊、凉丝丝，带着一股发酵过度的酸馊味，像喝了一口化粪池勾兑的过期酸奶。偶尔咬到一块没\n  └ 夏雨提倡华尔兹 (2赞): [星星眼][星星眼]\n  └ 夏雨提倡华尔兹 (2赞): [打call][打call]\n  └ 闽江哥萨克 (0赞): 吃自己的来了",
@@ -74,6 +120,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "[忘却前夜]个人向450预组队",
+      "summary": "组队真辛苦，一直想找个队伍把普墨塞进去，但不打5队以上就只能和徐互抢位置。。唯一感触，能不能把我的玫瑰分两个1启出来单独组队，实在不够用。\n  └ 炸药一桶 (0赞): 450是五队吗\n  └ 苍崎橙子灬 (0赞): 普墨可以跟徐组dot队吧，普墨还是挺好用的，我索菲亚艾尔瓦都不知道塞给谁[笑哭]最后还是凑一些cylx跟末夏打3-5了",
+      "source": "bilibili",
+      "time": "2026-08-13T10:06:47+00:00",
+      "url": "https://www.bilibili.com/video/BV13igp6VEJr",
+      "engagement": 132,
+      "is_hot": false,
+      "author": "护林犬",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 130,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/bf32b6bd0cc1294b8ea7383ef7ce70016d8cf58e.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "#术立口#沙耶之歌#COS",
       "summary": "",
       "source": "bilibili",
@@ -92,6 +161,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/256e7324c63abf4971ee538464fad029853ffc24.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "[忘却前夜]圆头玩家好似意识到了什么 开始不停的记录",
+      "summary": "更新前：没能让茉夏大人尽兴真是抱歉；更新后：死斧头快砍啊！！！\n  └ bili_3546381700565939 (0赞): woc怎么血这么厚，要膨胀了嘛",
+      "source": "bilibili",
+      "time": "2026-08-13T09:51:43+00:00",
+      "url": "https://www.bilibili.com/video/BV1bkgp6uE3z",
+      "engagement": 120,
+      "is_hot": false,
+      "author": "-白云出岫-",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 115,
+        "comment_count": 5,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/7e2d498044073cdcae33d57b24fafd7a6c7a9de3.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -207,6 +299,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/5781d66ea0b19fa1de909a2cc8c8317930b90597.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "终于看见美少女了",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-13T13:00:51+00:00",
+      "url": "https://www.bilibili.com/video/BV14fgH6BE1H",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "雾见岛ISLET",
+      "tags": [
+        "仿妆cos"
+      ],
+      "metadata": {
+        "play": 1,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/77e091d419e36b54642ababad9f549afeb78de84.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

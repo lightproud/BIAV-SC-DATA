@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
-  "archived_at": "2026-08-13T10:03:37.417541+00:00",
+  "archived_at": "2026-08-13T13:05:28.669204+00:00",
   "source": "steam",
-  "item_count": 7,
+  "item_count": 10,
   "items": [
     {
       "title": "[正面] пришла ради саечки, осталась ради геймплея и прекр...",
@@ -166,6 +166,78 @@
         "playtime_forever": 44127,
         "votes_up": 0,
         "timestamp_created": 1786610157
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 好难打",
+      "summary": "好难打",
+      "source": "steam_review",
+      "time": "2026-08-13T11:18:36+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199387880625/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199387880625",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 11972,
+        "votes_up": 0,
+        "timestamp_created": 1786619916
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 福利不错",
+      "summary": "福利不错",
+      "source": "steam_review",
+      "time": "2026-08-13T10:59:55+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198679248161/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198679248161",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1741,
+        "votes_up": 0,
+        "timestamp_created": 1786618795
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] ！？牌牌！？",
+      "summary": "！？牌牌！？",
+      "source": "steam_review",
+      "time": "2026-08-13T09:56:53+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199515658464/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199515658464",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 5967,
+        "votes_up": 0,
+        "timestamp_created": 1786615013
       },
       "region": "global",
       "archive_subtype": "review",
