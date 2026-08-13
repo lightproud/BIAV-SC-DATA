@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
-  "archived_at": "2026-08-13T13:05:28.592398+00:00",
+  "archived_at": "2026-08-13T15:59:08.371559+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[Steam论坛] Invitation Code",
@@ -64,6 +64,23 @@
       "engagement": 1,
       "is_hot": false,
       "author": "3199632387",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] skill issue question",
+      "summary": "how str based characters are supposed to be played? is it just me being too stupid or what?",
+      "source": "steam_discussion",
+      "time": "2026-08-13T15:44:13+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591812495357901628/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "N-Zero",
       "tags": [
         "steam_forum"
       ],

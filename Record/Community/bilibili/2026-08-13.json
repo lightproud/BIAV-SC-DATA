@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
-  "archived_at": "2026-08-13T13:05:28.587472+00:00",
+  "archived_at": "2026-08-13T15:59:08.368282+00:00",
   "source": "bilibili",
-  "item_count": 14,
+  "item_count": 18,
   "items": [
     {
       "title": "明明是人类，在我眼中却是美丽的肉块怪物...",
@@ -166,6 +166,52 @@
       "platform_region": "cn"
     },
     {
+      "title": "五年级菜鸡女孩用画世界画沙耶之歌。",
+      "summary": "-\n  └ 我不是cheeks (1赞): 你五年级接触这个未免有点太早了，但画的不错[doge][支持]\n  └ 伟大红色钻头女 (1赞): 5年级吗！！我高中玩的都觉得有点吓人…宝宝真厉害😳\n  └ -昆扬 (0赞): [魔法少女的魔女审判表情包_探头]",
+      "source": "bilibili",
+      "time": "2026-08-13T01:41:06+00:00",
+      "url": "https://www.bilibili.com/video/BV1LFgJ63EAy",
+      "engagement": 126,
+      "is_hot": false,
+      "author": "诺尔斯卡洛奇",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 119,
+        "comment_count": 7,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/401e34178bb4d57a512704abb62ce235ba4f2be0.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "神萝带给我的勇气",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-13T10:08:09+00:00",
+      "url": "https://www.bilibili.com/video/BV1aigp6VENy",
+      "engagement": 125,
+      "is_hot": false,
+      "author": "Yuan源呀_",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 125,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/d69d5d60553c31996037341595e5a198ed590c05.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "[忘却前夜]圆头玩家好似意识到了什么 开始不停的记录",
       "summary": "更新前：没能让茉夏大人尽兴真是抱歉；更新后：死斧头快砍啊！！！\n  └ bili_3546381700565939 (0赞): woc怎么血这么厚，要膨胀了嘛",
       "source": "bilibili",
@@ -207,6 +253,52 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/3c0c014f1155b5a12492d6153f4d000c47cd54b2.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "终于刷到美少女了",
+      "summary": "-\n  └ 语惊梦中之人 (1赞): 刷了一天的肉块...\n  └ 芏芏鸟 (1赞): 我喜欢你۶•͈⚇•͈♡",
+      "source": "bilibili",
+      "time": "2026-08-13T13:08:56+00:00",
+      "url": "https://www.bilibili.com/video/BV1Srgs6mE3z",
+      "engagement": 33,
+      "is_hot": false,
+      "author": "携带恋话_",
+      "tags": [
+        "仿妆cos"
+      ],
+      "metadata": {
+        "play": 31,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/77e091d419e36b54642ababad9f549afeb78de84.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】高配混沌环娜N7备战测试",
+      "summary": "1.没吃到四月；2.算调弄错了导致两张命定卡手上打不出去了；3.造物仅三有效（除莱克三造物）。总之还有不算小的提升空间。",
+      "source": "bilibili",
+      "time": "2026-08-13T15:30:12+00:00",
+      "url": "https://www.bilibili.com/video/BV1aogW6mEVv",
+      "engagement": 21,
+      "is_hot": false,
+      "author": "生活仍在继续12138",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 21,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/5915707794d8abb8baf6be8ac75ff4465ac7c408.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
-  "archived_at": "2026-08-13T13:05:28.669204+00:00",
+  "archived_at": "2026-08-13T15:59:08.429068+00:00",
   "source": "steam",
-  "item_count": 10,
+  "item_count": 12,
   "items": [
     {
       "title": "[正面] пришла ради саечки, осталась ради геймплея и прекр...",
@@ -238,6 +238,54 @@
         "playtime_forever": 5967,
         "votes_up": 0,
         "timestamp_created": 1786615013
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 不错",
+      "summary": "不错",
+      "source": "steam_review",
+      "time": "2026-08-13T14:57:28+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199763580294/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199763580294",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 626,
+        "votes_up": 0,
+        "timestamp_created": 1786633048
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] This game is beautiful.\r\nAmazing art, fantastic ga...",
+      "summary": "This game is beautiful.\r\nAmazing art, fantastic gameplay, caring devs, super generous with pulls, good story.\r\nIf you are into slay the spire style games, this game is one of the best I have played.",
+      "source": "steam_review",
+      "time": "2026-08-13T12:53:17+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198019697907/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198019697907",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 20420,
+        "votes_up": 0,
+        "timestamp_created": 1786625597
       },
       "region": "global",
       "archive_subtype": "review",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
-  "archived_at": "2026-08-13T13:05:28.589165+00:00",
+  "archived_at": "2026-08-13T15:59:08.369429+00:00",
   "source": "youtube",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능)각종 상담 피드백 신청가능",
@@ -51,6 +51,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/vvUmjh1RrC0/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "沙耶、被遺忘的愛之種___忘卻前夜 Morimens【ㄈㄈㄈ遊戲Live】【556】",
+      "summary": "錄製日期：2026.08.13 本次心得：-未解鎖- #vtuber #台v #忘卻前夜 #morimens #ㄈㄈㄈ遊戲Live #556 ===遊戲簡介（Steam）=== ...",
+      "source": "youtube",
+      "time": "2026-08-13T14:47:15Z",
+      "url": "https://www.youtube.com/watch?v=e_lADV6cVlg",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "赤蜻.",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/e_lADV6cVlg/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
