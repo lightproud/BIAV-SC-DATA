@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-14",
+  "archived_at": "2026-08-13T19:02:11.437239+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] Direção de arte, trilha sonora e combate simplesme...",
+      "summary": "Direção de arte, trilha sonora e combate simplesmente 10/10.\r\n\r\nA história do jogo é muito boa, e tem fortes elementos lovecraftianos. O jogo oferece um combate um pouco mais desafiador do que a maioria do gênero gacha rpg de turnos oferece.\r\n\r\nO combate é tipo Slay The Spire, um cardgame onde as skills dos personagens são cartas (estilo deckbuilder).\r\n\r\nA cereja do bolo é a trajetória do desenvolvimento, que demonstra a paixão dos desenvolvedores com a obra e o respeito com a comunidade que os apoia.",
+      "source": "steam_review",
+      "time": "2026-08-13T17:42:17+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198141346674/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198141346674",
+      "tags": [
+        "brazilian"
+      ],
+      "language": "brazilian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 210,
+        "votes_up": 0,
+        "timestamp_created": 1786642937
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
