@@ -1,9 +1,43 @@
 {
   "date": "2026-08-13",
-  "archived_at": "2026-08-12T21:43:54.147454+00:00",
+  "archived_at": "2026-08-13T01:46:18.730567+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
+    {
+      "title": "[Steam论坛] Invitation Code",
+      "summary": "1D1EGZ10U1",
+      "source": "steam_discussion",
+      "time": "2026-08-12T22:40:23+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/603039786130771940/",
+      "engagement": 228,
+      "is_hot": true,
+      "author": "Znye",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] Why so little players count ?",
+      "summary": "...",
+      "source": "steam_discussion",
+      "time": "2026-08-12T23:13:07+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/688621679872623760/",
+      "engagement": 25,
+      "is_hot": true,
+      "author": "Loot_goblin_Lord",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
     {
       "title": "[Steam论坛] What is the synergy between Mouchette and Alva?",
       "summary": "When I search for mouchette teams i keep seeing alva and i dont really understand why shes so great with her since one focuses on strikes and the other on defenses",

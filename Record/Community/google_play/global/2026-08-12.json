@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-12",
+  "archived_at": "2026-08-13T01:46:18.907476+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 다 좋은데 번역 좀 어케 해보셈 픽업창 캐 이름이 다르게 나오면 어떡하라",
+      "summary": "다 좋은데 번역 좀 어케 해보셈 픽업창 캐 이름이 다르게 나오면 어떡하라고",
+      "source": "google_play",
+      "time": "2026-08-11T23:45:38",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-5787453c-cc8a-4b72-b6cf-e8ccd97800f9",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ᄅᄅ",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 это наверное самая лучшая гача в которую",
+      "summary": "это наверное самая лучшая гача в которую я когда либо играла, тут такие красивые персонажи, и наград очень много, после 4х лет игры в геншин эта гача система и дизайны персонажей как глоток свежего воздуха",
+      "source": "google_play",
+      "time": "2026-08-12T01:21:03",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-24a12655-327c-42dd-b895-a9a0f32ad6ad",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Amelita Zh",
+      "tags": [],
+      "lang": "ru",
+      "platform_region": "ru",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

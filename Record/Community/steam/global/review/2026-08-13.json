@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
-  "archived_at": "2026-08-12T21:43:54.178567+00:00",
+  "archived_at": "2026-08-13T01:46:18.807565+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] пришла ради саечки, осталась ради геймплея и прекр...",
@@ -46,6 +46,30 @@
         "playtime_forever": 92,
         "votes_up": 0,
         "timestamp_created": 1786557408
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 制作组你们晚上睡觉最好睁一只眼闭一只眼",
+      "summary": "制作组你们晚上睡觉最好睁一只眼闭一只眼",
+      "source": "steam_review",
+      "time": "2026-08-13T00:34:22+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198710473165/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198710473165",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 621,
+        "votes_up": 0,
+        "timestamp_created": 1786581262
       },
       "region": "global",
       "archive_subtype": "review",

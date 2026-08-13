@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
-  "archived_at": "2026-08-12T21:43:54.101242+00:00",
+  "archived_at": "2026-08-13T01:46:18.731019+00:00",
   "source": "youtube",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "망각전야Morimens) (대리뽑,상담시청가능)각종 상담 피드백 신청가능",
@@ -34,6 +34,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/1bAZQPy37v0/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】7章ちょっとだけ",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-13T00:22:44Z",
+      "url": "https://www.youtube.com/watch?v=xPuv2cp97C0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "かっこん",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/xPuv2cp97C0/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
