@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
-  "archived_at": "2026-08-13T01:46:18.729677+00:00",
+  "archived_at": "2026-08-13T04:51:05.299279+00:00",
   "source": "bilibili",
-  "item_count": 21,
+  "item_count": 24,
   "items": [
     {
       "title": "【明明是洗稿抄袭的营销号，在我眼中却是百万粉丝大啊噗】，一期视频带你了解隔壁小蛙的前世今生。",
@@ -74,6 +74,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "这给我干到哪年了？",
+      "summary": "-\n  └ 是阿飘生 (0赞): 对的对的",
+      "source": "bilibili",
+      "time": "2026-08-12T12:45:09+00:00",
+      "url": "https://www.bilibili.com/video/BV13ng56HECF",
+      "engagement": 208,
+      "is_hot": false,
+      "author": "纯白233啊",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 207,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/d4bdcedf4e2862ccb446b0d52d8a7ce86b95ab08.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "【忘却前夜】杜勒赛因抽卡录屏",
       "summary": "过完星辰篇第三章主线剧情真的很难忍住不抽啊！\n  └ 泪奔菌 (0赞): 真的完全是被美貌诱惑……我本来被庞托斯拉进坑，第一天就在商城一眼看上勿忘我那个皮了，过完主线更想抽了，终于复刻就算目前强度令人落泪也抽一只摆在看板……\n  └ 天不许人不知 (0赞): 三连金吓哭了\n  └ 抱着狗狗不敢说话 (0赞): 哈哈哈哈哈 这个迷人的死男人（还真是）",
       "source": "bilibili",
@@ -92,6 +115,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/c261a59d291ca1398bf57be562345cac21229b30.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "最喜欢了口牙！(*￣3￣)",
+      "summary": "摸个鱼给大家看看(:з っ )っ\n补药因为这条关注我呀，以后不会发沙耶了凹○\n  └ 九千岁老头爆打泰森 (0赞): 明明是由美丽的画构成的神做，在我眼里确变成了美丽的少女[大哭]\n  └ 憂莉 (0赞): 沙耶好看[星星眼]\n  └ Nautilus114 (0赞): 沙耶笑死我了",
+      "source": "bilibili",
+      "time": "2026-08-12T07:58:34+00:00",
+      "url": "https://www.bilibili.com/video/BV1mpgG6GEP6",
+      "engagement": 148,
+      "is_hot": false,
+      "author": "方照白沙",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 144,
+        "comment_count": 4,
+        "comments_fetched": 3,
+        "danmaku": 2
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/1d6004a205cdd59e6da7619f977a509dae436322.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -138,6 +184,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/47deb6a9444a4f71d01871d8b72fb3df572f302d.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "下一個晴天還要多久……",
+      "summary": "-\n  └ 小龙猫大能力 (0赞): （⌒▽⌒）[热词表情_哎呦不错哦]",
+      "source": "bilibili",
+      "time": "2026-08-12T07:11:52+00:00",
+      "url": "https://www.bilibili.com/video/BV1SZgG67E2g",
+      "engagement": 128,
+      "is_hot": false,
+      "author": "_PuN0cturne",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 127,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/2aa8555e179ba90b7f37e6b2aa8c474b63936815.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

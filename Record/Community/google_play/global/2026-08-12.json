@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
-  "archived_at": "2026-08-13T01:46:18.907476+00:00",
+  "archived_at": "2026-08-13T04:51:05.431678+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 好评] ★5 다 좋은데 번역 좀 어케 해보셈 픽업창 캐 이름이 다르게 나오면 어떡하라",
@@ -30,6 +30,34 @@
       "tags": [],
       "lang": "ru",
       "platform_region": "ru",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 第二天就完全迷上了，第二个rpg能让我着迷，第一个是卡滋",
+      "summary": "第二天就完全迷上了，第二个rpg能让我着迷，第一个是卡滋",
+      "source": "google_play",
+      "time": "2026-08-12T01:53:48",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-68bbd344-e5af-45c7-9df9-65db584173d4",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "YS Zhang",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "cn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 El juego y la narrativa,los personajes y",
+      "summary": "El juego y la narrativa,los personajes y el estilo artístico la jugabilidad y lo bien optimizado que está,es simplemente un 10/10 me encantó este juego recomendadisimoo,Absolute cinema",
+      "source": "google_play",
+      "time": "2026-08-12T03:39:14",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-700747c4-8f3c-4a72-8041-a8105a3084c1",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "FnxGdzilla",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "es",
       "region": "global"
     }
   ],
