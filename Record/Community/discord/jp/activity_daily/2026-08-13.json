@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-13",
+  "messages": 11,
+  "unique_authors": 5,
+  "reactions_total": 5,
+  "attachments": 6,
+  "channel_activity": {
+    "誰でも質問": 7,
+    "らくがき": 2,
+    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 2
+  },
+  "hourly_activity": {
+    "0": 5,
+    "1": 3,
+    "2": 1,
+    "3": 2
+  },
+  "message_types": {
+    "19": 2,
+    "0": 9
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1537281089725534319",
+      "channel_id": "1400058619726266462",
+      "content": "流れで詫び石来ねぇかな（ﾊﾅﾎｼﾞｰ）",
+      "author": "ecstasyrb",
+      "reactions": 2,
+      "channel": "誰でも質問"
+    },
+    {
+      "id": "1537263938343796756",
+      "channel_id": "1400058619726266462",
+      "content": "あーそれは失礼\nうーん……何故だ",
+      "author": "namenemue3",
+      "reactions": 1,
+      "channel": "誰でも質問"
+    },
+    {
+      "id": "1537276289306861571",
+      "channel_id": "1400058619726266462",
+      "content": "しました…ありがとうございます😭！",
+      "author": "ciocux",
+      "reactions": 1,
+      "channel": "誰でも質問"
+    },
+    {
+      "id": "1537276540449067069",
+      "channel_id": "1400058619726266462",
+      "content": "なんとかなれー！🙏",
+      "author": "namenemue3",
+      "reactions": 1,
+      "channel": "誰でも質問"
+    }
+  ]
+}

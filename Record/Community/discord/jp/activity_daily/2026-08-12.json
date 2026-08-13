@@ -1,19 +1,21 @@
 {
   "date": "2026-08-12",
-  "messages": 293,
+  "messages": 300,
   "unique_authors": 17,
-  "reactions_total": 90,
-  "attachments": 12,
+  "reactions_total": 94,
+  "attachments": 16,
   "channel_activity": {
-    "誰でも質問": 31,
-    "なんでも雑談": 242,
+    "なんでも雑談": 243,
+    "誰でも質問": 36,
+    "オレッタとの旅記録と、使い方の雑記": 1,
     "🔰初心者質問": 16,
     "【対人戦】団体戦企画": 2,
     "対人関係のあれこれ": 1,
     "招待コード共有会": 1
   },
   "hourly_activity": {
-    "22": 5,
+    "22": 8,
+    "23": 4,
     "17": 5,
     "19": 1,
     "14": 3,
@@ -32,7 +34,7 @@
     "2": 1
   },
   "message_types": {
-    "0": 279,
+    "0": 286,
     "19": 14
   },
   "top_reacted_messages": [
