@@ -1,9 +1,32 @@
 {
   "date": "2026-08-13",
-  "archived_at": "2026-08-13T04:51:05.300267+00:00",
+  "archived_at": "2026-08-13T07:24:28.605006+00:00",
   "source": "bilibili",
-  "item_count": 6,
+  "item_count": 8,
   "items": [
+    {
+      "title": "有人吃过腐烂的猪肉吗",
+      "summary": "你们吃过腐烂的猪肉吗？我吃过。不是放了一晚上有点味道那种，是扔在墙角七天、爬满白蛆、流着黄绿色脓水、苍蝇围着打转的那种。入口先是腐肉特有的甜腥恶臭，像把整张脸埋进了死老鼠的肚子里，那股味道顺着鼻腔直插后脑勺，天灵盖都发麻。紧接着蛆虫在舌头上炸了锅，有的往牙缝里钻，有的往喉咙口爬，像含了一把活跳跳的米粒，又烫又痒。\n\n牙齿咬下去，腐肉已经烂成了肉泥，软塌塌地糊在舌头上，像在吃一碗用尸水和烂肉熬成的稀粥。脓水从嘴角溢出来，黏糊糊、凉丝丝，带着一股发酵过度的酸馊味，像喝了一口化粪池勾兑的过期酸奶。偶尔咬到一块没\n  └ 夏雨提倡华尔兹 (2赞): [星星眼][星星眼]\n  └ 夏雨提倡华尔兹 (2赞): [打call][打call]\n  └ 闽江哥萨克 (0赞): 吃自己的来了",
+      "source": "bilibili",
+      "time": "2026-08-13T03:51:24+00:00",
+      "url": "https://www.bilibili.com/video/BV1AkgE6XETe",
+      "engagement": 265,
+      "is_hot": true,
+      "author": "池沼大王678",
+      "tags": [
+        "搞笑"
+      ],
+      "metadata": {
+        "play": 261,
+        "comment_count": 4,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/52d97a192a6f0af37258df00b13b2725853bc9f7.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "我已急哭",
       "summary": "-\n  └ 17岁性感人妻蟑螂 (5赞): ？！\n意思是说，我不能给对手展示我的雷霆二老头配队了吗\n  └ 花葉月 (1赞): 臣妾百口莫辩[大哭]\n  └ 伤心小狗小狗伤心 (1赞): 我还等着出新奶妈呢",
@@ -92,6 +115,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/b4ebceae2f06f92eb51a3454ffbde131ba613671.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "沙耶与肥美沙耶的日常生活",
+      "summary": "@耕司青海瑶 @妍伊moe @_aabcd_\n  └ 七吕可真是一对好cp啊 (2赞): 😭😭😭🖐🏻️🖐🏻️🖐🏻️🖐🏻️🖐🏻️两个肥美的肉块saya酱知道就人形的自己太无聊了  就开始跳舞逗人形saya酱开心  真的太感人了[大哭][大哭][大哭][大哭]",
+      "source": "bilibili",
+      "time": "2026-08-13T06:29:41+00:00",
+      "url": "https://www.bilibili.com/video/BV18agn6MEiE",
+      "engagement": 14,
+      "is_hot": false,
+      "author": "七吕可真是一对好cp啊",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 13,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/b9de01dd673a1006eeedaff06e0093c8a3dc0ec3.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

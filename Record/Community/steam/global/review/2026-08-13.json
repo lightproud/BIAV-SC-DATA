@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
-  "archived_at": "2026-08-13T04:51:05.345383+00:00",
+  "archived_at": "2026-08-13T07:24:28.643343+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
     {
       "title": "[正面] пришла ради саечки, осталась ради геймплея и прекр...",
@@ -94,6 +94,54 @@
         "playtime_forever": 1840,
         "votes_up": 0,
         "timestamp_created": 1786591943
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 游戏还挺好玩但是键帽你老冯真飞了",
+      "summary": "游戏还挺好玩但是键帽你老冯真飞了",
+      "source": "steam_review",
+      "time": "2026-08-13T04:56:28+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199140862046/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199140862046",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2549,
+        "votes_up": 0,
+        "timestamp_created": 1786596988
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] BEST GAME",
+      "summary": "BEST GAME",
+      "source": "steam_review",
+      "time": "2026-08-13T04:17:50+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199171796087/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199171796087",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3250,
+        "votes_up": 0,
+        "timestamp_created": 1786594670
       },
       "region": "global",
       "archive_subtype": "review",
