@@ -1,20 +1,23 @@
 {
   "date": "2026-08-14",
-  "messages": 6,
-  "unique_authors": 4,
-  "reactions_total": 3,
+  "messages": 18,
+  "unique_authors": 8,
+  "reactions_total": 4,
   "attachments": 1,
   "channel_activity": {
-    "なんでも雑談": 2,
-    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 4
+    "なんでも雑談": 3,
+    "誰でも質問": 4,
+    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 11
   },
   "hourly_activity": {
+    "4": 7,
+    "3": 6,
     "1": 3,
-    "2": 2,
-    "3": 1
+    "2": 2
   },
   "message_types": {
-    "0": 6
+    "19": 2,
+    "0": 16
   },
   "top_reacted_messages": [
     {
@@ -24,6 +27,14 @@
       "author": "ecstasyrb",
       "reactions": 3,
       "channel": "なんでも雑談"
+    },
+    {
+      "id": "1537663865259561050",
+      "channel_id": "1528389964319162368",
+      "content": "ジェンキンに当たり強かった気がする",
+      "author": "0w04250",
+      "reactions": 1,
+      "channel": "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)"
     }
   ]
 }
