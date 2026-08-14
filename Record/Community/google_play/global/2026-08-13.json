@@ -1,0 +1,23 @@
+{
+  "date": "2026-08-13",
+  "archived_at": "2026-08-14T10:00:17.163630+00:00",
+  "source": "google_play",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 very good game",
+      "summary": "very good game",
+      "source": "google_play",
+      "time": "2026-08-13T08:18:05",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-64422869-b2b9-4d68-b69d-155a6a896e05",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Cyn Kano",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

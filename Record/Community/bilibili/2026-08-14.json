@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "archived_at": "2026-08-14T07:22:26.489430+00:00",
+  "archived_at": "2026-08-14T10:00:17.007990+00:00",
   "source": "bilibili",
-  "item_count": 7,
+  "item_count": 11,
   "items": [
     {
       "title": "明明是飞马的白粥组成的怪物，在我眼中却是美丽的少女",
@@ -46,6 +46,52 @@
         "danmaku": 1
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/709830a766854531f282551dd4f25807f4e7b7a0.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "异蛾之光阿米娅BOSS战",
+      "summary": "《太空寄生》01：BV11rgE6WEuE\n异蛾之光阿米娅BOSS战\n  └ 恶魔的创造者 (0赞): 我去了……一股子新版宇宙巡航机的味……不过我更感觉可以换一下bgm，不知道刀老师有没有听说过【神讬之炎】\n我个人感觉就非常适合这种带有神性又带有点魔性(不是那种魔性是真正的让人恐惧和理解不能的“魔”性的情景)\n  └ 在提瓦特旅行的星辰 (0赞): 厉害啊，这个不错。[星星眼]\n  └ lv2i_光 (0赞): 《太空寄生》01：BV11rgE6WEuE\n异蛾之光阿米娅BOSS战",
+      "source": "bilibili",
+      "time": "2026-08-14T09:00:00+00:00",
+      "url": "https://www.bilibili.com/video/BV16TgN6uEcw",
+      "engagement": 220,
+      "is_hot": false,
+      "author": "lv2i_光",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 216,
+        "comment_count": 4,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/9d164600534503394f2269749ddcf42bfa72bcae.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "手搓一把环形拉蒙娜的命定之剑",
+      "summary": "└ 以毒平灵 (2赞): 已[热词系列_三连]\n  └ 梦游惊奇 (2赞): 很棒诶！\n  └ 南华莉娅-KanadeLuna (2赞): 莉莉可爱，小水母来点赞支持了（x）",
+      "source": "bilibili",
+      "time": "2026-08-14T06:07:03+00:00",
+      "url": "https://www.bilibili.com/video/BV1PVgw6BEgu",
+      "engagement": 196,
+      "is_hot": false,
+      "author": "青山之隐",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 189,
+        "comment_count": 7,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/a2d7975894fb8af5bf8043c058ba93fe6e93acf8.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -143,6 +189,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "沙耶就是沙耶呀。",
+      "summary": "-\n  └ 凛宸 (1赞): [初音未来三连快乐表情包_开心撒花]\n  └ -昆扬 (0赞): [魔法少女的魔女审判表情包_探头]\n  └ Zumihito (0赞): [NIYA表情包_点赞][NIYA表情包_点赞]",
+      "source": "bilibili",
+      "time": "2026-08-14T07:47:19+00:00",
+      "url": "https://www.bilibili.com/video/BV1rcgN6VE5B",
+      "engagement": 31,
+      "is_hot": false,
+      "author": "Ayana_72",
+      "tags": [
+        "颜值·网红舞"
+      ],
+      "metadata": {
+        "play": 26,
+        "comment_count": 5,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/4b9e2f8fc2dfca304298e84599f31cf35b3238eb.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "沙耶小姐诡异的日常",
       "summary": "@耕司青海瑶 @妍伊moe @_aabcd_",
       "source": "bilibili",
@@ -161,6 +230,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/5c7303a28e5c9bddf4487ecf7618ef0647124472.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】融灾禁区首次425分留念：暴雨前的宁静",
+      "summary": "结尾有彩蛋",
+      "source": "bilibili",
+      "time": "2026-08-14T08:46:35+00:00",
+      "url": "https://www.bilibili.com/video/BV1LYgP6YEXb",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "蜗牛叁叁",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 3,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/371c801f64102318e801442fe82df3c475005d01.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
