@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "archived_at": "2026-08-14T15:50:31.855882+00:00",
+  "archived_at": "2026-08-14T18:52:32.179993+00:00",
   "source": "bilibili",
-  "item_count": 17,
+  "item_count": 18,
   "items": [
     {
       "title": "明明是飞马的白粥组成的怪物，在我眼中却是美丽的少女",
@@ -253,6 +253,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/e34c760c3b97cfa08b1b6c513b9c567e90277efe.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "耶生狗奶",
+      "summary": "请输入文本\n  └ -昆扬 (0赞): [魔法少女的魔女审判表情包_啊？]\n  └ 神神秘秘16h (0赞): [星星眼][星星眼][星星眼][星星眼]\n  └ 血蚧 (0赞): 肉块区UP主这一块[星星眼]",
+      "source": "bilibili",
+      "time": "2026-08-14T15:54:04+00:00",
+      "url": "https://www.bilibili.com/video/BV1r1gN6VEg5",
+      "engagement": 48,
+      "is_hot": false,
+      "author": "哈基沙大玉",
+      "tags": [
+        "动漫杂谈"
+      ],
+      "metadata": {
+        "play": 43,
+        "comment_count": 5,
+        "comments_fetched": 3,
+        "danmaku": 1
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/de8b6e0c7a523704ddc1f0c590668194e2de8df9.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

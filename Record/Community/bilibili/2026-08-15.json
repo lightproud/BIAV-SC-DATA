@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-15",
+  "archived_at": "2026-08-14T18:52:32.190003+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "【忘却前夜】这一斧子你接得住吗？",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-14T16:05:04+00:00",
+      "url": "https://www.bilibili.com/video/BV1CigN6JE1k",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "喵老狮",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 6,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/95be69a0e562b4af8c0ac3f481df2e8b17a7e4de.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    }
+  ]
+}

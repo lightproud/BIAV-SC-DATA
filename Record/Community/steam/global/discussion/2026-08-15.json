@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-15",
+  "archived_at": "2026-08-14T18:52:32.183364+00:00",
+  "source": "steam",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Steam论坛] Why so little players count ?",
+      "summary": "...",
+      "source": "steam_discussion",
+      "time": "2026-08-14T18:23:37+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/688621679872623760/",
+      "engagement": 29,
+      "is_hot": true,
+      "author": "Loot_goblin_Lord",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] skill issue question",
+      "summary": "how str based characters are supposed to be played? is it just me being too stupid or what?",
+      "source": "steam_discussion",
+      "time": "2026-08-14T18:43:48+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591812495357901628/",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "N-Zero",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] Pulls guide... but, like, REALLY basic Pulls guide",
+      "summary": "I'm new to this style of game, and honestly I'm finding it a bit hard to wrap my head around. I can find lots of information about \"who to pull for,\" but I'm not even sure I know what pulling is or how it works. Is there a \"for real absolute dummies\" guide to this?...",
+      "source": "steam_discussion",
+      "time": "2026-08-14T16:08:52+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591812495357978957/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Lister",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}
