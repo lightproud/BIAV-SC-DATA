@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "archived_at": "2026-08-14T04:48:50.467387+00:00",
+  "archived_at": "2026-08-14T07:22:26.522457+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] Direção de arte, trilha sonora e combate simplesme...",
@@ -70,6 +70,30 @@
         "playtime_forever": 71,
         "votes_up": 0,
         "timestamp_created": 1786676835
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] A very fun and cool game, a lot like slay the spir...",
+      "summary": "A very fun and cool game, a lot like slay the spire in combat but with lovecraftian horror, dark themes, and a really cool art style i genuinely recommend it to anyone who wants an experience like slay the spire with some horror elements",
+      "source": "steam_review",
+      "time": "2026-08-14T04:35:11+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199598156112/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199598156112",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 563,
+        "votes_up": 0,
+        "timestamp_created": 1786682111
       },
       "region": "global",
       "archive_subtype": "review",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "archived_at": "2026-08-14T04:48:50.419822+00:00",
+  "archived_at": "2026-08-14T07:22:26.489430+00:00",
   "source": "bilibili",
-  "item_count": 4,
+  "item_count": 7,
   "items": [
     {
       "title": "明明是飞马的白粥组成的怪物，在我眼中却是美丽的少女",
@@ -51,6 +51,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "［相位］你说你偷到两张什么？！",
+      "summary": "感谢来自维克多的投稿\n  └ 仁爱主教 (1赞): 省流:我双发我的牌来\n  └ 抱着狗狗不敢说话 (0赞): 偷偷？！\n  └ 一般杂鱼 (0赞): [doge]",
+      "source": "bilibili",
+      "time": "2026-08-14T05:48:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1CQgw6rEew",
+      "engagement": 164,
+      "is_hot": false,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 161,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/a4b53091c3e95f725dd5ac94766d9794d4b4b3f2.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "鲁鲁之歌",
       "summary": "",
       "source": "bilibili",
@@ -74,6 +97,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "用15元组织你的gal军队",
+      "summary": "整活玩的，纯属娱乐\n  └ 素学家水上由岐 (0赞): 我缺的藤井莲这块谁给我补啊\n  └ 盖一座小天堂远离忧桑 (0赞): 选一个牢凑去和上面三个谈恋爱触发善恶相抵[doge]剩下12我吃12碗猪脚饭\n  └ 成田パッミエ (0赞): 美美吃15碗猪脚饭",
+      "source": "bilibili",
+      "time": "2026-08-14T07:04:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1EJgw6eEDt",
+      "engagement": 52,
+      "is_hot": false,
+      "author": "铅心_wings",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 47,
+        "comment_count": 5,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/e34c760c3b97cfa08b1b6c513b9c567e90277efe.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "[忘却银夜]杜勒血希雷娅红花激情55",
       "summary": "-\n  └ 奕奕艺艺 (0赞): myls，展示你的女性力量吧...",
       "source": "bilibili",
@@ -92,6 +138,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/c830760858f05818b924953b38e09b3f978ef7c5.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "沙耶小姐诡异的日常",
+      "summary": "@耕司青海瑶 @妍伊moe @_aabcd_",
+      "source": "bilibili",
+      "time": "2026-08-14T05:44:05+00:00",
+      "url": "https://www.bilibili.com/video/BV1CQgw6rEYH",
+      "engagement": 11,
+      "is_hot": false,
+      "author": "七吕可真是一对好cp啊",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 11,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/5c7303a28e5c9bddf4487ecf7618ef0647124472.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

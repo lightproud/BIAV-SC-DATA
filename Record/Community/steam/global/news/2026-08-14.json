@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-14",
+  "archived_at": "2026-08-14T07:22:26.523323+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam新闻] V2.6.0 The \"Truly Breathtaking\" Snowy Peak 7-Day VIP Blitz!",
+      "summary": "🎵 DARLING, HOLD MY HAND! 🎵Nothing beats a Worm2Holiday! 🏔️✈️And right now, you can save 30 Gold Coins on guide fees per person.That's 210 Gold Coins off for a climbing team of seven!",
+      "source": "official",
+      "time": "2026-08-14T07:00:25+00:00",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183778742",
+      "engagement": 0,
+      "is_hot": true,
+      "author": "lqx02483534",
+      "tags": [
+        "Community Announcements"
+      ],
+      "region": "global",
+      "archive_subtype": "news",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "news"
+}
