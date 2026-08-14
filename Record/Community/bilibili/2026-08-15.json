@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-14T18:52:32.190003+00:00",
+  "archived_at": "2026-08-14T21:24:28.520353+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "【忘却前夜】这一斧子你接得住吗？",
@@ -23,6 +23,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/95be69a0e562b4af8c0ac3f481df2e8b17a7e4de.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "沙耶之歌重制计划day1第一天就完成了复杂的封面真不错 我是新手别见怪( ；∀；)",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-14T19:40:52+00:00",
+      "url": "https://www.bilibili.com/video/BV1W6gT6sEP1",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Jerry鼠黍",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 0,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/f5acf3ba6388eba62dce95dc2f0a017abea50392.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
