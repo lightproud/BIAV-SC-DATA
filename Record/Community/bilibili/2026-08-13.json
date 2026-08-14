@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
-  "archived_at": "2026-08-13T21:43:58.261323+00:00",
+  "archived_at": "2026-08-14T01:45:03.006410+00:00",
   "source": "bilibili",
-  "item_count": 21,
+  "item_count": 22,
   "items": [
     {
       "title": "明明是人类，在我眼中却是美丽的肉块怪物...",
@@ -276,6 +276,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/7e2d498044073cdcae33d57b24fafd7a6c7a9de3.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【偏苍澄/绘画过程】澄野之歌",
+      "summary": "-\n  └ Aht_土豆大帝 (2赞): 我去好美😍",
+      "source": "bilibili",
+      "time": "2026-08-13T07:54:05+00:00",
+      "url": "https://www.bilibili.com/video/BV19xgn6gEHW",
+      "engagement": 119,
+      "is_hot": false,
+      "author": "そうだとしたら",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 118,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/89fdf197bc50629983d6c651eeedbd3d4c7ad418.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
