@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
-  "archived_at": "2026-08-14T13:01:14.818748+00:00",
+  "archived_at": "2026-08-14T15:50:32.024721+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 very good game",
@@ -30,6 +30,20 @@
       "tags": [],
       "lang": "id",
       "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 it's a really nice game. I liked the sto",
+      "summary": "it's a really nice game. I liked the story.",
+      "source": "google_play",
+      "time": "2026-08-13T13:47:04",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-25f7023d-0728-4011-bb93-67c0157482e3",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Lord Mancer",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],

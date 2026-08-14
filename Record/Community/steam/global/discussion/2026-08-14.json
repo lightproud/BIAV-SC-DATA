@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "archived_at": "2026-08-14T13:01:14.643179+00:00",
+  "archived_at": "2026-08-14T15:50:31.859666+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[Steam论坛] Why so little players count ?",
@@ -30,6 +30,23 @@
       "engagement": 3,
       "is_hot": false,
       "author": "DingusDork",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] skill issue question",
+      "summary": "how str based characters are supposed to be played? is it just me being too stupid or what?",
+      "source": "steam_discussion",
+      "time": "2026-08-14T15:19:29+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591812495357901628/",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "N-Zero",
       "tags": [
         "steam_forum"
       ],

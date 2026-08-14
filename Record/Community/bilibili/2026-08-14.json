@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "archived_at": "2026-08-14T13:01:14.637852+00:00",
+  "archived_at": "2026-08-14T15:50:31.855882+00:00",
   "source": "bilibili",
-  "item_count": 14,
+  "item_count": 17,
   "items": [
     {
       "title": "明明是飞马的白粥组成的怪物，在我眼中却是美丽的少女",
@@ -23,6 +23,29 @@
         "danmaku": 2
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/e9ce75e4b4deb5ea2d4486587adc6759bf78d1f7.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "“正如我需要光明，这片都市需要隔壁小蛙”",
+      "summary": "😈加入大群\n  └ 新玩家派大星 (1赞): @隔壁小蛙\n  └ 一个小植僵僵 (1赞): 😈阴不阴\n  └ l_你_好_l (0赞): 依旧",
+      "source": "bilibili",
+      "time": "2026-08-14T13:34:47+00:00",
+      "url": "https://www.bilibili.com/video/BV1Z8gK6GEcA",
+      "engagement": 442,
+      "is_hot": false,
+      "author": "最尊重隔壁小蛙的帐号",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 439,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/3f85f6088094b2199716af6f02eaaf2ab0ef2633.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -115,6 +138,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/a4b53091c3e95f725dd5ac94766d9794d4b4b3f2.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "［相位］我的思路小众又变态，我的打法神秘又古怪",
+      "summary": "└ 红髮厨 (3赞): 开局后排就被秒了，依旧被速攻队吓哭\n  └ 枯井戒 (1赞): 莫丝：我从地狱里回来了[阴险]\n  └ 童话tt (1赞): 你赢了，你的想法小众又猎奇[笑哭]",
+      "source": "bilibili",
+      "time": "2026-08-14T14:52:24+00:00",
+      "url": "https://www.bilibili.com/video/BV1MMgK6tEMr",
+      "engagement": 157,
+      "is_hot": false,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 151,
+        "comment_count": 6,
+        "comments_fetched": 3,
+        "danmaku": 1
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/0c2a60b8f7a43e1fcaea8bf1fa138b16fb5e5be1.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -253,6 +299,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/4b9e2f8fc2dfca304298e84599f31cf35b3238eb.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "我说生电指的是寄生电刑",
+      "summary": "上次爬塔好像是四五月份了，忙晕了，有点落后时代了\nmod是沙耶之歌和实验体自动播放animals\n原来buff超过一定层数就会归零\n  └ 多孔硫酸钡 (0赞): 依旧凌迟观众",
+      "source": "bilibili",
+      "time": "2026-08-14T14:56:52+00:00",
+      "url": "https://www.bilibili.com/video/BV1acgK6AEs9",
+      "engagement": 26,
+      "is_hot": false,
+      "author": "Mirshreed",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 25,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/5b38cdbc5138074ac00891e370a0d5f7118d067b.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
