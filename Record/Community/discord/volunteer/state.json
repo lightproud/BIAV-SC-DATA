@@ -135,7 +135,7 @@
       "last_historical_month": "2025-08"
     },
     "1407641395891535883": {
-      "last_message_id": "1531922503184814141",
+      "last_message_id": "1537747356408217611",
       "name": "announcements",
       "cold_started": true,
       "empty_months": [
@@ -506,6 +506,6 @@
     }
   },
   "historical_month": null,
-  "last_run": "2026-08-14T07:50:00.998259+00:00",
+  "last_run": "2026-08-14T10:16:09.492607+00:00",
   "history_backfill_complete": true
 }

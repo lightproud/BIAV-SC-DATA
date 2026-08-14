@@ -1,18 +1,29 @@
 {
   "date": "2026-08-14",
-  "messages": 2,
+  "messages": 4,
   "unique_authors": 2,
-  "reactions_total": 0,
+  "reactions_total": 6,
   "attachments": 0,
   "channel_activity": {
+    "announcements": 2,
     "general-discussion": 2
   },
   "hourly_activity": {
+    "8": 2,
     "6": 2
   },
   "message_types": {
-    "19": 1,
-    "0": 1
+    "0": 3,
+    "19": 1
   },
-  "top_reacted_messages": []
+  "top_reacted_messages": [
+    {
+      "id": "1537747356408217611",
+      "channel_id": "1407641395891535883",
+      "content": "Dear Translation Volunteers,\n\nThank you for all the time and effort you've devot",
+      "author": "morimensstaff03",
+      "reactions": 6,
+      "channel": "announcements"
+    }
+  ]
 }
