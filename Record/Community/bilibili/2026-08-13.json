@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
-  "archived_at": "2026-08-14T01:45:03.006410+00:00",
+  "archived_at": "2026-08-14T04:48:50.418734+00:00",
   "source": "bilibili",
-  "item_count": 22,
+  "item_count": 23,
   "items": [
     {
       "title": "明明是人类，在我眼中却是美丽的肉块怪物...",
@@ -299,6 +299,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/89fdf197bc50629983d6c651eeedbd3d4c7ad418.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "《沙耶之歌》SV2 mai2翻调",
+      "summary": "└ -昆扬 (1赞): [魔法少女的魔女审判表情包_探头]\n  └ 逐音者-REVIVER (0赞): @止面 客官，你点的东西好了（\n之前只听了前半段还以为这曲子很简单，结果后面3个和声出来人直接傻眼了（\n  └ 止面 (0赞): 老大强强ദ്ദി˶&gt;𖥦&lt;)✧",
+      "source": "bilibili",
+      "time": "2026-08-13T08:37:34+00:00",
+      "url": "https://www.bilibili.com/video/BV19MgW6nE8F",
+      "engagement": 115,
+      "is_hot": false,
+      "author": "逐音者-REVIVER",
+      "tags": [
+        "原创音乐"
+      ],
+      "metadata": {
+        "play": 109,
+        "comment_count": 6,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/6e04fbdaec52fe4af32df2a665608efa905abff3.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

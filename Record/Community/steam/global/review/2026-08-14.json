@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "archived_at": "2026-08-14T01:45:03.061057+00:00",
+  "archived_at": "2026-08-14T04:48:50.467387+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] Direção de arte, trilha sonora e combate simplesme...",
@@ -22,6 +22,54 @@
         "playtime_forever": 210,
         "votes_up": 0,
         "timestamp_created": 1786642937
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Honestly really glad i started playing morimens....",
+      "summary": "Honestly really glad i started playing morimens.  music is fantastic, story feels really well made, \nabsolutely a must play if you like lovecraftian games as well.  Not to mention this is the first mobile/gacha game i actually  felt like it deserves for you to spend money on namely because no special character colab goes away for good.  they plan on having offline service should the game ever shutdown and overall it feels like the devs are really pro consumer when it comes to microtransactions, not that you need to spend money to have a good time in the game.  overall i would recommend this game very much. i will say game is still as of writing not fully human translated but i hear it will be fully in september 2026",
+      "source": "steam_review",
+      "time": "2026-08-14T03:09:11+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198176962897/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198176962897",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1157,
+        "votes_up": 0,
+        "timestamp_created": 1786676951
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Slay the spire with undead waifus. Gacha slop in a...",
+      "summary": "Slay the spire with undead waifus. Gacha slop in a fun way.",
+      "source": "steam_review",
+      "time": "2026-08-14T03:07:15+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198001532900/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198001532900",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 71,
+        "votes_up": 0,
+        "timestamp_created": 1786676835
       },
       "region": "global",
       "archive_subtype": "review",
