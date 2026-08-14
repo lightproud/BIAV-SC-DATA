@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
-  "archived_at": "2026-08-14T10:00:17.163630+00:00",
+  "archived_at": "2026-08-14T13:01:14.818748+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 very good game",
@@ -16,6 +16,20 @@
       "tags": [],
       "lang": "en",
       "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 i like women, i like men, i like horror",
+      "summary": "i like women, i like men, i like horror beyond comprehension. and this game has all of it. 10/10 . awesome game.",
+      "source": "google_play",
+      "time": "2026-08-13T11:44:35",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-0ba9f0f0-c61c-49f0-9e05-2203de4bc5b9",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Fritz Katzen",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
       "region": "global"
     }
   ],

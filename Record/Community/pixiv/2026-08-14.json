@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "archived_at": "2026-08-14T07:22:26.531219+00:00",
+  "archived_at": "2026-08-14T13:01:14.722716+00:00",
   "source": "pixiv",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "",
@@ -16,6 +16,27 @@
       "tags": [],
       "lang": "",
       "platform_region": "global"
+    },
+    {
+      "title": "忘卻前夜合輯",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-08-14T19:21:58+09:00",
+      "url": "https://www.pixiv.net/artworks/148419312",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "snake",
+      "tags": [
+        "忘卻前夜",
+        "忘却前夜",
+        "ラモンナ",
+        "二創",
+        "Morimens"
+      ],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/08/14/19/21/58/148419312_p0_square1200.jpg",
+      "content_type": "image"
     }
   ]
 }

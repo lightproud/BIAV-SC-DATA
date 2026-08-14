@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "archived_at": "2026-08-14T10:00:17.007990+00:00",
+  "archived_at": "2026-08-14T13:01:14.637852+00:00",
   "source": "bilibili",
-  "item_count": 11,
+  "item_count": 14,
   "items": [
     {
       "title": "明明是飞马的白粥组成的怪物，在我眼中却是美丽的少女",
@@ -120,6 +120,52 @@
       "platform_region": "cn"
     },
     {
+      "title": "曼巴之歌：来自地狱的少女",
+      "summary": "原作者：动漫从业者厷\n  └ 哈基沙大玉 (0赞): 何意\n  └ 耕司青海瑶 (0赞): 创意工坊[doge]\n  └ 耕司青海瑶 (0赞): 优秀啊",
+      "source": "bilibili",
+      "time": "2026-08-14T09:04:36+00:00",
+      "url": "https://www.bilibili.com/video/BV14QgP6nEoR",
+      "engagement": 114,
+      "is_hot": false,
+      "author": "落叶藏幽",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 111,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/9eb510b2a282776a5898507286af8e25efef0013.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "［忘却前夜|波吕克斯_卡斯托尔］小鸟兄弟",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-13T17:58:47+00:00",
+      "url": "https://www.bilibili.com/video/BV1KAgF6qExj",
+      "engagement": 113,
+      "is_hot": false,
+      "author": "aaa扯淡",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 113,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/c5089f0505538a10563923b8c5de7e3f535cee3c.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "鲁鲁之歌",
       "summary": "",
       "source": "bilibili",
@@ -207,6 +253,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/4b9e2f8fc2dfca304298e84599f31cf35b3238eb.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "脑叶之歌：明明是由人类肢体组成的怪物，但在我眼中却是可爱的少女",
+      "summary": "真的没有人觉得一无所有很可爱吗\n  └ 终末-星雨-寂灭之律 (1赞): 注意:认知滤网已被更改\n  └ Maturebanana (1赞): 有人样吗[无限暖暖_毛线汪汪]",
+      "source": "bilibili",
+      "time": "2026-08-14T11:56:27+00:00",
+      "url": "https://www.bilibili.com/video/BV1D2gK6hEet",
+      "engagement": 16,
+      "is_hot": false,
+      "author": "猫不笑173",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 13,
+        "comment_count": 3,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/5c9e0a014228300cf8f7cf461de490fde2844415.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
