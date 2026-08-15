@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-15T06:34:55.556919+00:00",
+  "archived_at": "2026-08-15T09:25:07.662756+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
     {
       "title": "[正面] Еще ни одну игру я не начинал с росписи на надгроб...",
@@ -94,6 +94,54 @@
         "playtime_forever": 2817,
         "votes_up": 0,
         "timestamp_created": 1786765933
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] can't complain",
+      "summary": "can't complain",
+      "source": "steam_review",
+      "time": "2026-08-15T07:14:47+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198041633723/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198041633723",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 999,
+        "votes_up": 0,
+        "timestamp_created": 1786778087
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Fun Gameplay",
+      "summary": "Fun Gameplay",
+      "source": "steam_review",
+      "time": "2026-08-15T06:04:09+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198996477575/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198996477575",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 414,
+        "votes_up": 0,
+        "timestamp_created": 1786773849
       },
       "region": "global",
       "archive_subtype": "review",

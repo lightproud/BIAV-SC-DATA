@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-15T06:34:55.518665+00:00",
+  "archived_at": "2026-08-15T09:25:07.615540+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[Steam论坛] Why so little players count ?",
@@ -47,6 +47,23 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Lister",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] I need help with final boss of 9th chapter",
+      "summary": "I kinda suck at thinking, sry. I breathed with ease through all of a story but last fight in 9th chapter gave me problems. I tried team of GLotan e2, Saya +1, Thais e1, GRamona +4. I had problems. \nCan u explain what are the ways to deal with final boss? Maybe i am playing this team wrong?\nI also have: Mouchette e2, Corpo e1, GHelot e2, Tulu, Miryam, Horla, Hameln and all standart chars with exception of Jenkins and Winkle. \nI have all my chars at 60 lvl, 3 lvl minimum of cards, some chars have",
+      "source": "steam_discussion",
+      "time": "2026-08-15T08:26:06+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591812495358030982/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ReXert",
       "tags": [
         "steam_forum"
       ],

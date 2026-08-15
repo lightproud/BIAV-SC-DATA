@@ -1,9 +1,32 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-15T06:34:55.517862+00:00",
+  "archived_at": "2026-08-15T09:25:07.610565+00:00",
   "source": "bilibili",
-  "item_count": 5,
+  "item_count": 9,
   "items": [
+    {
+      "title": "上司介绍的相亲对象，是好女孩儿吗？",
+      "summary": "└ 不用断章的苍衣 (2赞): 没有直接丢液氮还是太仁慈了\n  └ 来自火星的锅盖 (6赞): 5：54 提到了这个恐怖天灾 是之前的视频里出场过的东西吗 如果是的话，是哪一期的？\n  └ 无机能 (2赞): 沙耶最近二创好多 而且又很猎奇（没说up的小小说）",
+      "source": "bilibili",
+      "time": "2026-08-15T08:05:32+00:00",
+      "url": "https://www.bilibili.com/video/BV1zTbC6bE1W",
+      "engagement": 2621,
+      "is_hot": true,
+      "author": "nagito阿斗",
+      "tags": [
+        "动漫杂谈"
+      ],
+      "metadata": {
+        "play": 2581,
+        "comment_count": 40,
+        "comments_fetched": 3,
+        "danmaku": 25
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/4b59475f6213e067f85758a7189fdf396fa11251.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "（补档）明明是飞马的白粥组成的怪物，在我眼中却是美丽的少女",
       "summary": "-\n  └ 伊特Yiter (7赞): 腮耶之歌（补档）\n  └ 妖梦酱_ (2赞): 咦 这都有人举报哦\n  └ 菊池纱矢香 (0赞): @Sloe_Geneva",
@@ -28,6 +51,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "忘却前夜唤醒体：本体vs SP",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-15T04:55:09+00:00",
+      "url": "https://www.bilibili.com/video/BV1Kpgg6eEpf",
+      "engagement": 147,
+      "is_hot": false,
+      "author": "现梦风地力",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 147,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/599135ba0193226960294bd9bf3013c8914e28d4.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "醋鱼之歌·所有食物变得不可名状而西湖醋鱼不变",
       "summary": "-\n  └ 易一不是逸伊 (0赞): 就算这样我也不吃[生气][生气][生气]",
       "source": "bilibili",
@@ -46,6 +92,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/09c164ed6ddaff0976925e66c0c3af1f3fdd3a2f.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "自改【沙耶之歌】粘土人，你们看到美少女了吗？",
+      "summary": "≽^⚈⩊⚈^≼孩子们，你们看到美少女了吗？在哪里？",
+      "source": "bilibili",
+      "time": "2026-08-15T07:56:08+00:00",
+      "url": "https://www.bilibili.com/video/BV1V5bC69Evg",
+      "engagement": 12,
+      "is_hot": false,
+      "author": "Brilliant辉煌小空",
+      "tags": [
+        "特摄"
+      ],
+      "metadata": {
+        "play": 12,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/f6a5abcbe81cd5574da97f35495c5303964d3bc0.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -92,6 +161,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/95be69a0e562b4af8c0ac3f481df2e8b17a7e4de.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "沙耶？对吗？！自改沙耶之歌粘土人血肉版，最没有认知障碍的一集。",
+      "summary": "实话说，这个怪物形态的要比人型好做多了，毕竟纯幻想，比看图写话都容易。(*σ´∀`)σ",
+      "source": "bilibili",
+      "time": "2026-08-15T08:09:02+00:00",
+      "url": "https://www.bilibili.com/video/BV1dgbC6xELN",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "Brilliant辉煌小空",
+      "tags": [
+        "特摄"
+      ],
+      "metadata": {
+        "play": 6,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/bb350db96858574a076adcb74f58799f3b4219ea.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
