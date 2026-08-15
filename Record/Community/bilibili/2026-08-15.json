@@ -1,9 +1,32 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-14T21:24:28.520353+00:00",
+  "archived_at": "2026-08-15T01:05:44.374165+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
+    {
+      "title": "（补档）明明是飞马的白粥组成的怪物，在我眼中却是美丽的少女",
+      "summary": "-\n  └ 伊特Yiter (7赞): 腮耶之歌（补档）\n  └ 妖梦酱_ (2赞): 咦 这都有人举报哦\n  └ 菊池纱矢香 (0赞): @Sloe_Geneva",
+      "source": "bilibili",
+      "time": "2026-08-15T00:00:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1fWgP6BEzg",
+      "engagement": 248,
+      "is_hot": false,
+      "author": "蓝焰某人",
+      "tags": [
+        "影视剪辑"
+      ],
+      "metadata": {
+        "play": 237,
+        "comment_count": 11,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/994b403ce7c8fef2fc8d38c1476b7d5d02b95247.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "【忘却前夜】这一斧子你接得住吗？",
       "summary": "",

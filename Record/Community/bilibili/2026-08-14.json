@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "archived_at": "2026-08-14T21:24:28.511903+00:00",
+  "archived_at": "2026-08-15T01:05:44.371006+00:00",
   "source": "bilibili",
-  "item_count": 18,
+  "item_count": 19,
   "items": [
     {
       "title": "明明是飞马的白粥组成的怪物，在我眼中却是美丽的少女",
@@ -161,6 +161,29 @@
         "danmaku": 1
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/0c2a60b8f7a43e1fcaea8bf1fa138b16fb5e5be1.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "朵～",
+      "summary": "-\n  └ AAA木柴批发 (2赞): 缸脑稍微搓了一段时间，不过这么看，朵虽然不是最小的，但是占地面积是最小的[doge]\n  └ Carliee (1赞): 小小一只好萌\n  └ AAA木柴批发 (1赞): ☝😋",
+      "source": "bilibili",
+      "time": "2026-08-14T11:34:46+00:00",
+      "url": "https://www.bilibili.com/video/BV1adgA6ZEWK",
+      "engagement": 123,
+      "is_hot": false,
+      "author": "AAA木柴批发",
+      "tags": [
+        "手工"
+      ],
+      "metadata": {
+        "play": 117,
+        "comment_count": 6,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/d3bcf1232da79cb5ad5ef4f420d5e58b10ab641d.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
