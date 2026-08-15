@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-15T01:05:44.452750+00:00",
+  "archived_at": "2026-08-15T03:37:49.856596+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] Еще ни одну игру я не начинал с росписи на надгроб...",
@@ -46,6 +46,30 @@
         "playtime_forever": 662,
         "votes_up": 0,
         "timestamp_created": 1786754369
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 好玩",
+      "summary": "好玩",
+      "source": "steam_review",
+      "time": "2026-08-15T01:39:59+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199836613672/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199836613672",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1577,
+        "votes_up": 0,
+        "timestamp_created": 1786757999
       },
       "region": "global",
       "archive_subtype": "review",
