@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-15T12:33:27.254666+00:00",
+  "archived_at": "2026-08-15T15:19:29.825298+00:00",
   "source": "bahamut",
-  "item_count": 26,
+  "item_count": 27,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -39,6 +39,19 @@
       "engagement": 359,
       "is_hot": true,
       "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【閒聊】+12銀芯通訊分享(尚缺：哈姆林、墨菲、皮克曼、蝕滅蘿坦)",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-15T15:18:38.132442+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1338&tnum=40",
+      "engagement": 266,
+      "is_hot": true,
+      "author": "hhe02547783",
       "tags": [],
       "lang": "zh",
       "platform_region": "tw"

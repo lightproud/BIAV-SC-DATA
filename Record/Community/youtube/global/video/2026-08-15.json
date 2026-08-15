@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-15T12:33:27.253985+00:00",
+  "archived_at": "2026-08-15T15:19:29.824593+00:00",
   "source": "youtube",
-  "item_count": 11,
+  "item_count": 12,
   "items": [
     {
       "title": "[Morimens] Improving the changes Spreadsheet and theorycrafting Ecog and Ecogless Madness teams",
@@ -187,6 +187,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/bRjXnkdZ1yo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "『忘却前夜』※ネタバレ注意　サンガーさんの意識潜行へ。『ゲーム実況』",
+      "summary": "今回は遂に、超久しぶりのPVE動画となっております！ 対人戦も凄く楽しいのですが、やはり忘却前夜の強みといえば、物語の ...",
+      "source": "youtube",
+      "time": "2026-08-15T14:25:35Z",
+      "url": "https://www.youtube.com/watch?v=xQtARLcPkQQ",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "薄めの『ゆゆ』",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/xQtARLcPkQQ/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
