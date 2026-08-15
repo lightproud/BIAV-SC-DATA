@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-15T18:27:11.778772+00:00",
+  "archived_at": "2026-08-15T21:20:25.187526+00:00",
   "source": "taptap",
-  "item_count": 51,
+  "item_count": 52,
   "items": [
     {
       "title": "葱爆牛排",
@@ -659,6 +659,19 @@
       "summary": "来自 Web 官网",
       "source": "taptap_review",
       "time": "2026-08-14T18:25:25.277481+00:00",
+      "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "global"
+    },
+    {
+      "title": "来自 Web 官网",
+      "summary": "来自 Web 官网",
+      "source": "taptap_review",
+      "time": "2026-08-14T21:19:16.018841+00:00",
       "url": "",
       "engagement": 0,
       "is_hot": false,

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-15T18:27:11.697831+00:00",
+  "archived_at": "2026-08-15T21:20:25.117679+00:00",
   "source": "youtube",
-  "item_count": 12,
+  "item_count": 13,
   "items": [
     {
       "title": "[Morimens] Improving the changes Spreadsheet and theorycrafting Ecog and Ecogless Madness teams",
@@ -204,6 +204,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/xQtARLcPkQQ/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Remembering You&#39;re Death/Other Gamer Later",
+      "summary": "Vtuber #VtuberEN #malevtuber #vstreamer #smallstreamer #gaming #morimens.",
+      "source": "youtube",
+      "time": "2026-08-15T01:48:54Z",
+      "url": "https://www.youtube.com/watch?v=AOrlltfYolQ",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "BreadRuin",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/AOrlltfYolQ/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

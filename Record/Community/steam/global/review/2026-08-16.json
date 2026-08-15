@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-16",
+  "archived_at": "2026-08-15T21:20:25.188400+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] Very underrated game with beautiful visuals and os...",
+      "summary": "Very underrated game with beautiful visuals and ost. The character designs are genuinely some of the best in the industry and the gameplay (it's Slay the Spire) is very fun. The game is also extremely generous. I got 180 pulls (30 for pity) and it's not even an anniversary or anything.",
+      "source": "steam_review",
+      "time": "2026-08-15T18:13:19+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199203628006/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199203628006",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 564,
+        "votes_up": 0,
+        "timestamp_created": 1786817599
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
