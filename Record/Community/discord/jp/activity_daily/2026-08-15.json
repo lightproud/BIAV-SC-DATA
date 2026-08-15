@@ -1,22 +1,42 @@
 {
   "date": "2026-08-15",
-  "messages": 15,
+  "messages": 23,
   "unique_authors": 6,
-  "reactions_total": 2,
-  "attachments": 2,
+  "reactions_total": 15,
+  "attachments": 3,
   "channel_activity": {
-    "なんでも雑談": 7,
-    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 8
+    "なんでも雑談": 13,
+    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 9,
+    "幻夢ボス別ステージ入口スクショ": 1
   },
   "hourly_activity": {
+    "4": 2,
+    "5": 2,
+    "6": 4,
     "2": 12,
     "3": 2,
     "0": 1
   },
   "message_types": {
-    "0": 15
+    "0": 23
   },
   "top_reacted_messages": [
+    {
+      "id": "1538057595032571934",
+      "channel_id": "1377478664609857647",
+      "content": "400いけました！",
+      "author": "saihuu",
+      "reactions": 11,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1538037152959701102",
+      "channel_id": "1377478664609857647",
+      "content": "推しを強化し続けるとそれ以外が疎かになりがち",
+      "author": "poipoi_5151",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
     {
       "id": "1538017754211295302",
       "channel_id": "1377478664609857647",
