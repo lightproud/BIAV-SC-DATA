@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-15T09:25:07.613108+00:00",
+  "archived_at": "2026-08-15T12:33:27.253985+00:00",
   "source": "youtube",
-  "item_count": 10,
+  "item_count": 11,
   "items": [
     {
       "title": "[Morimens] Improving the changes Spreadsheet and theorycrafting Ecog and Ecogless Madness teams",
@@ -51,6 +51,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/UEz6SjV93QY/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "#忘卻前夜 #morimens Regional D-Effect Zone update!400 points achieved!融災400分達成.",
+      "summary": "忘卻前夜 #morimens 融災更新,8月3號~8月17日. Regional D-Effect Zone Update ( August 3-August 17). 這次融災算是稍微好打一點 ...",
+      "source": "youtube",
+      "time": "2026-08-15T10:00:19Z",
+      "url": "https://www.youtube.com/watch?v=1sfpVW4857w",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "Noir",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/1sfpVW4857w/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

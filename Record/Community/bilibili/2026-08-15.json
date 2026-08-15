@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-15T09:25:07.610565+00:00",
+  "archived_at": "2026-08-15T12:33:27.253133+00:00",
   "source": "bilibili",
-  "item_count": 9,
+  "item_count": 10,
   "items": [
     {
       "title": "上司介绍的相亲对象，是好女孩儿吗？",
@@ -23,6 +23,29 @@
         "danmaku": 25
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/4b59475f6213e067f85758a7189fdf396fa11251.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】备战N6/N7，如何打出队伍的最高上限？",
+      "summary": "└ 皮喵九 (1赞): pkm罗坦可行性max 最终的pkm甚至可以在5t提前做基伤造物 6t砍完还能大招还能长刀收尾[吃瓜] 学到了\n  └ 成分复匝 (2赞): 给我看力竭了[热]，成为老登的路看来还很长。求助一下，目前我补谁的超限最有性价比?\n  └ 絢麗多彩の灰 (2赞): 记得好像是说怪物攻击伤害也有1.2倍左右的提升，先不说boss战能不能蹲坑这么久了[笑哭]中配能活过道中吗",
+      "source": "bilibili",
+      "time": "2026-08-15T10:04:33+00:00",
+      "url": "https://www.bilibili.com/video/BV1npbk6bEPg",
+      "engagement": 1693,
+      "is_hot": true,
+      "author": "金发女人丨型",
+      "tags": [
+        "172"
+      ],
+      "metadata": {
+        "play": 1647,
+        "comment_count": 46,
+        "comments_fetched": 3,
+        "danmaku": 1
+      },
+      "media_url": "http://i2.hdslb.com/bfs/archive/97e4e093428a0f0593ce12c528e84b2fc7dc9b69.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

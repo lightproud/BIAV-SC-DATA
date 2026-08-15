@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-15T09:25:07.613752+00:00",
+  "archived_at": "2026-08-15T12:33:27.254666+00:00",
   "source": "bahamut",
-  "item_count": 24,
+  "item_count": 26,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -39,6 +39,19 @@
       "engagement": 359,
       "is_hot": true,
       "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【閒聊】+12銀芯通訊分享(尚缺：哈姆林、墨菲、皮克曼、蝕滅蘿坦)",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-15T12:00:46.310568+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1338&tnum=39",
+      "engagement": 261,
+      "is_hot": true,
+      "author": "hhe02547783",
       "tags": [],
       "lang": "zh",
       "platform_region": "tw"
@@ -283,6 +296,19 @@
       "source": "bahamut",
       "time": "2026-08-14T18:50:59.493997+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1520&tnum=1",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【情報】V2.6.0 純玩旅行團：雪山七日深度遊",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-15T12:10:46.310525+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1531&tnum=1",
       "engagement": 4,
       "is_hot": false,
       "author": "t12345825",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "archived_at": "2026-08-15T09:25:07.661579+00:00",
+  "archived_at": "2026-08-15T12:33:27.330522+00:00",
   "source": "taptap",
-  "item_count": 72,
+  "item_count": 73,
   "items": [
     {
       "title": "哈吼哈哈哈哈哈",
@@ -933,6 +933,19 @@
       "source": "taptap_review",
       "time": "2026-08-14T09:24:01.363149+00:00",
       "url": "https://www.taptap.cn/review/50027316#to-reply",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "global"
+    },
+    {
+      "title": "来自 Web 官网",
+      "summary": "来自 Web 官网",
+      "source": "taptap_review",
+      "time": "2026-08-14T12:32:34.750478+00:00",
+      "url": "",
       "engagement": 0,
       "is_hot": false,
       "author": "",
