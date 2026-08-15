@@ -1,0 +1,225 @@
+{
+  "date": "2026-08-15",
+  "messages": 2660,
+  "unique_authors": 181,
+  "reactions_total": 176,
+  "attachments": 132,
+  "channel_activity": {
+    "🔸綜合討論": 119,
+    "🔸欢乐梗图": 2,
+    "🔸课间休息闲聊": 61,
+    "🔸한국어-채팅방": 1,
+    "🔸chaîne-française": 1,
+    "🔸русский-канал": 16,
+    "🔸phòng-chat-tiếng-việt": 83,
+    "🔸canal-español": 66,
+    "🔸canal-português": 29,
+    "🔸ruang-obrolan-indonesia": 38,
+    "🔸ห้องสนทนาภาษาไทย": 32,
+    "🔸traphase": 39,
+    "🔸lore-chat": 180,
+    "🔸lets-count": 2,
+    "🔸team-building": 31,
+    "🔸邀请码互助┊swap-invitation-codes": 6,
+    "🔸game-question": 1881,
+    "🔸机器人命令┊bot-commands": 9,
+    "QOL Improvement for Traphase - ease of readability": 2,
+    "¿Is WOD Art available in any particular channel or Platform?": 1,
+    "Morimens Merchandise Artbook?": 2,
+    "Training Dummy": 1,
+    "Talent for everyone?": 3,
+    "Lotan: Cetarchon voice lines after update V2.5.3.3": 5,
+    "Additional Record Filters": 2,
+    "請問可以加一個怪物的圖鑑嗎？": 3,
+    "Skin Preview": 2,
+    "Please rework how Propagation Caro works for the future units": 6,
+    "✅「已回答」「未解决」氪金玩家和老玩家是否已经成为游戏前进的阻力？": 1,
+    "V2.5.1.0 停服维护公告": 5,
+    "Preview: Traphase Pausing New Updates, Entering Balance Maintenance Mode": 1,
+    "Caraboo ❤️": 2,
+    "YoruWiki ! ( hameln pic dumps for every1 !! )": 11,
+    "Stat Collection Spreadsheet": 1,
+    "V2.6.0 纯玩旅行团：雪山七日深度游┊The \"Truly Breathtaking\" Snowy Peak 7-Day VIP Blitz!┊순수 패키지여행 상품: 설산에서 보내는 7일간의": 3,
+    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 2,
+    "V2.5.0 命运剧院┊Theater of Fate": 1,
+    "融災": 9,
+    "求融災組隊，目標350+": 1
+  },
+  "hourly_activity": {
+    "0": 180,
+    "1": 332,
+    "2": 355,
+    "3": 440,
+    "4": 580,
+    "5": 284,
+    "6": 252,
+    "7": 237
+  },
+  "message_types": {
+    "0": 1782,
+    "19": 867,
+    "20": 11
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1538033121604145222",
+      "channel_id": "1131839817982947429",
+      "content": "我不信有人諾締拉練度比我高",
+      "author": "luna_.90",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538038171260948581",
+      "channel_id": "1131839817982947429",
+      "content": "這世界沒救了",
+      "author": "luna_.90",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538058921820946472",
+      "channel_id": "1131839817982947429",
+      "content": "11天沒資源只能打這樣了  差1階傷害差好多  打不過的降一階都變成無腦打",
+      "author": "tenriarahi",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538029414523084800",
+      "channel_id": "1433513650299076780",
+      "content": "",
+      "author": ".tryshot.",
+      "reactions": 5,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1538034982889590815",
+      "channel_id": "1131839817982947429",
+      "content": "很神秘的落地快要有超限開",
+      "author": "xianrenwurao",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538039960517484635",
+      "channel_id": "1131839817982947429",
+      "content": "打滿應該還是10吧",
+      "author": "yi000607",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1537997530548142130",
+      "channel_id": "1300659662311526512",
+      "content": "",
+      "author": "duxadidus",
+      "reactions": 4,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1538003769839587328",
+      "channel_id": "1300659662311526512",
+      "content": "Tremendo edit",
+      "author": "hectorwolffox",
+      "reactions": 4,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1538037706867744768",
+      "channel_id": "1538037706867744768",
+      "content": "https://x.com/SaminDraws/status/2088474169042157862?s=20",
+      "author": "samin_",
+      "reactions": 4,
+      "channel": "Caraboo ❤️"
+    },
+    {
+      "id": "1538019076897775668",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "cameliia._.",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538019658391748629",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "cameliia._.",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538028263455326281",
+      "channel_id": "1131839817982947429",
+      "content": "嗯~已经变成离不开校猫小巧思的形状了~❤️",
+      "author": "ponponnyaru",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538033762279886928",
+      "channel_id": "1131839817982947429",
+      "content": "是某神秘深海绿色触伤工具人吗",
+      "author": "ponponnyaru",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1537985679571681330",
+      "channel_id": "1433513650299076780",
+      "content": "well congrats u managed to defeat that bozo anyway",
+      "author": "enchaaanttt",
+      "reactions": 3,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1538066680931164180",
+      "channel_id": "1131839817982947429",
+      "content": "~~對面一拳打你200%血你反對面0.2%血的時候就不有趣了~~",
+      "author": "arachnids_nacha",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1537976350391148664",
+      "channel_id": "1300659662311526512",
+      "content": "",
+      "author": "masky19",
+      "reactions": 2,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1538021194568310794",
+      "channel_id": "1300659662311526512",
+      "content": "ay vv , ser argentino te quita todo el derecho de acusarme",
+      "author": "salami_87",
+      "reactions": 2,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1538031393114951700",
+      "channel_id": "1326453763355185215",
+      "content": "the concept of awakener that's basically \"N at home\"",
+      "author": "arsenyx_9999",
+      "reactions": 2,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1538036748972724314",
+      "channel_id": "1326453763355185215",
+      "content": "Seeing it in that sense it can be cool",
+      "author": "nightmarekingrimmu",
+      "reactions": 2,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1537983659657924689",
+      "channel_id": "1433513650299076780",
+      "content": "MF",
+      "author": "verdy_heh",
+      "reactions": 2,
+      "channel": "🔸game-question"
+    }
+  ]
+}

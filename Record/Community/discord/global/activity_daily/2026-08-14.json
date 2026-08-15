@@ -1,56 +1,93 @@
 {
   "date": "2026-08-14",
-  "messages": 3642,
-  "unique_authors": 180,
-  "reactions_total": 418,
-  "attachments": 192,
+  "messages": 8601,
+  "unique_authors": 297,
+  "reactions_total": 921,
+  "attachments": 458,
   "channel_activity": {
-    "🔸綜合討論": 163,
-    "🔸课间休息闲聊": 209,
-    "🔸한국어-채팅방": 2,
-    "🔸chaîne-française": 16,
-    "🔸русский-канал": 595,
-    "🔸phòng-chat-tiếng-việt": 18,
-    "🔸canal-español": 15,
-    "🔸ruang-obrolan-indonesia": 120,
-    "🔸ห้องสนทนาภาษาไทย": 63,
-    "🔸traphase": 40,
-    "🔸lore-chat": 17,
-    "🔸lets-count": 4,
-    "🔸team-building": 75,
-    "🔸邀请码互助┊swap-invitation-codes": 6,
-    "🔸game-question": 2180,
-    "🔸机器人命令┊bot-commands": 13,
-    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 1,
-    "手搓一把环娜的命定之剑": 7,
+    "🔸綜合討論": 551,
+    "🔸剧情交流": 4,
+    "🔸课间休息闲聊": 271,
+    "🔸한국어-채팅방": 26,
+    "🔸deutscher-chatraum": 20,
+    "🔸chaîne-française": 144,
+    "🔸русский-канал": 1227,
+    "🔸phòng-chat-tiếng-việt": 120,
+    "🔸canal-español": 109,
+    "🔸canal-português": 926,
+    "🔸ruang-obrolan-indonesia": 236,
+    "🔸ห้องสนทนาภาษาไทย": 173,
+    "🔸traphase": 242,
+    "🔸lore-chat": 148,
+    "🔸lets-count": 6,
+    "🔸team-building": 297,
+    "🔸邀请码互助┊swap-invitation-codes": 15,
+    "🔸game-question": 3703,
+    "🔸游戏问题": 81,
+    "🔸机器人命令┊bot-commands": 38,
+    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 2,
+    "手搓一把环娜的命定之剑": 8,
+    "最討厭的傢伙被嬤王纏上了（連載中）": 4,
+    "Morimens Merchandise Artbook?": 5,
+    "常驻角色剧情进度Regular character storyline update plan": 1,
+    "Increase the points gain by extra clears in new dzone to 10": 18,
+    "Great Wall not appearing after fusion": 2,
+    "Gathering Feedback - Part 3...": 4,
+    "希望对新列车进行平衡调整 Request for a train event balance patch": 1,
+    "下调同心之证的兑换条件": 16,
+    "Are there any plans to fix iOS version of game?": 3,
+    "Lotan: Cetarchon exalt damage number does not line up with the hit after update V2.5.3.3": 1,
+    "Lotan: Cetarchon voice lines after update V2.5.3.3": 5,
+    "Quadra / 4-Realm Rerun Banners": 7,
+    "Skin Preview": 2,
+    "Please rework how Propagation Caro works for the future units": 35,
+    "✅「已回答」「未解决」氪金玩家和老玩家是否已经成为游戏前进的阻力？": 1,
+    "V2.5.1.0 停服维护公告": 16,
+    "关于游戏自造语：古代利莫里亚语": 1,
+    "Preview: Traphase Pausing New Updates, Entering Balance Maintenance Mode": 3,
+    "\"I will save you\"": 1,
+    "You belong to me...": 1,
+    "Salvador 🪦": 3,
+    "jenkins alleyway dumpster bin": 5,
+    "YoruWiki ! ( hameln pic dumps for every1 !! )": 1,
+    "I will save you.": 1,
+    "Niko's Event Unlock Recommendations (Lore-focused)": 1,
+    "V2.6.0 纯玩旅行团：雪山七日深度游┊The \"Truly Breathtaking\" Snowy Peak 7-Day VIP Blitz!┊순수 패키지여행 상품: 설산에서 보내는 7일간의": 40,
+    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 3,
+    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 6,
+    "V2.5.0 命运剧院┊Theater of Fate": 4,
+    "融災": 4,
+    "求融災組隊，目標350+": 13,
+    "Skybound Rail Faros boss debuff misery": 13,
+    "Help for story - hard mode": 5,
     "繁育沒有提高卡茜亞的超限爆發的固定力量": 2,
-    "Gathering Feedback - Part 3...": 1,
     "V2.6.X 投票 Polls": 1,
-    "Are there any plans to fix iOS version of game?": 2,
     "sp蘿坦1啟描述建議優化": 1,
     "sp蘿坦配音可否考慮回調": 1,
     "Additional Record Filters": 1,
     "請問可以加一個怪物的圖鑑嗎？": 3,
-    "Quadra / 4-Realm Rerun Banners": 2,
-    "Skin Preview": 1,
-    "Please rework how Propagation Caro works for the future units": 6,
     "能不能把自動戰鬥的按鈕隱藏起來": 6,
-    "V2.5.1.0 停服维护公告": 10,
     "Preview: V2.6.X Adjustments Based on Community Feedback 2": 7,
-    "Preview: Traphase Pausing New Updates, Entering Balance Maintenance Mode": 1,
-    "jenkins alleyway dumpster bin": 1,
-    "V2.6.0 纯玩旅行团：雪山七日深度游┊The \"Truly Breathtaking\" Snowy Peak 7-Day VIP Blitz!┊순수 패키지여행 상품: 설산에서 보내는 7일간의": 25,
-    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 2,
-    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 5,
-    "V2.5.0 命运剧院┊Theater of Fate": 2,
-    "融災": 3,
     "有没有中文的Morimens频道？": 5,
-    "剛入坑4天想問配對養成及後續抽卡建議": 1,
-    "求融災組隊，目標350+": 3,
-    "Skybound Rail Faros boss debuff misery": 3,
-    "Help for story - hard mode": 3
+    "剛入坑4天想問配對養成及後續抽卡建議": 1
   },
   "hourly_activity": {
+    "8": 200,
+    "9": 321,
+    "10": 255,
+    "11": 267,
+    "12": 190,
+    "13": 215,
+    "14": 174,
+    "15": 458,
+    "16": 185,
+    "17": 281,
+    "19": 282,
+    "18": 385,
+    "20": 686,
+    "21": 667,
+    "22": 238,
+    "23": 167,
     "0": 150,
     "1": 182,
     "2": 279,
@@ -58,15 +95,31 @@
     "4": 519,
     "5": 424,
     "6": 758,
-    "7": 777,
-    "8": 12
+    "7": 777
   },
   "message_types": {
-    "0": 2500,
-    "19": 1134,
-    "20": 8
+    "19": 2400,
+    "0": 6167,
+    "20": 33,
+    "6": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1537816546725068912",
+      "channel_id": "1537816546725068912",
+      "content": "In the old dzone, doing 10 waves would give you same score/reward as doing 5 wav",
+      "author": "spooky_penguin_",
+      "reactions": 43,
+      "channel": "Increase the points gain by extra clears in new dzone to 10"
+    },
+    {
+      "id": "1537759517117390869",
+      "channel_id": "1537717449972256808",
+      "content": "https://cdn.discordapp.com/attachments/1325082176475103306/1534588577181335724/o",
+      "author": "aegisx",
+      "reactions": 20,
+      "channel": "V2.6.0 纯玩旅行团：雪山七日深度游┊The \"Truly Breathtaking\" Snowy Peak 7-Day VIP Blitz!┊순수 패키지여행 상품: 설산에서 보내는 7일간의"
+    },
     {
       "id": "1537717449972256808",
       "channel_id": "1537717449972256808",
@@ -76,12 +129,108 @@
       "channel": "V2.6.0 纯玩旅行团：雪山七日深度游┊The \"Truly Breathtaking\" Snowy Peak 7-Day VIP Blitz!┊순수 패키지여행 상품: 설산에서 보내는 7일간의"
     },
     {
+      "id": "1537946924085411971",
+      "channel_id": "1537946924085411971",
+      "content": "Hello Hello,\n\nI wanted to inquire if theres more physical merchandise planned an",
+      "author": "princess.goth",
+      "reactions": 15,
+      "channel": "Morimens Merchandise Artbook?"
+    },
+    {
+      "id": "1537868444358410381",
+      "channel_id": "1131839817982947429",
+      "content": "發廚",
+      "author": "fon_tain",
+      "reactions": 14,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1537748431315931157",
+      "channel_id": "1537717449972256808",
+      "content": "**Morimens┊V2.6.0 «Прямо дух захватывает!» 7-дневный VIP-тур на снежную вершину!",
+      "author": "morimensstaff06",
+      "reactions": 11,
+      "channel": "V2.6.0 纯玩旅行团：雪山七日深度游┊The \"Truly Breathtaking\" Snowy Peak 7-Day VIP Blitz!┊순수 패키지여행 상품: 설산에서 보내는 7일간의"
+    },
+    {
+      "id": "1537804339836358769",
+      "channel_id": "1131839817982947429",
+      "content": "可可爱爱",
+      "author": "galagalaguo",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1537792543595429939",
+      "channel_id": "1537792543595429939",
+      "content": "\"I will save you\"\n\nThe duality of the mentor and his student. Which is the true ",
+      "author": "sofiaebby",
+      "reactions": 7,
+      "channel": "\"I will save you\""
+    },
+    {
+      "id": "1537772449544802395",
+      "channel_id": "1537772449544802395",
+      "content": "...to Ebwynnos...\n\nLong overdue Pontos art.\nUID: 101171815",
+      "author": "sofiaebby",
+      "reactions": 7,
+      "channel": "You belong to me..."
+    },
+    {
       "id": "1537722018315894864",
       "channel_id": "1131839817982947429",
       "content": "",
       "author": "heikwok",
       "reactions": 6,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1537769500399894579",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "cameliia._.",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1537735429267128391",
+      "channel_id": "1181152750319456266",
+      "content": "从小猪佩pon这个名字出来的时候我就知道事情已经发展成我喜欢的样子了",
+      "author": "ling_an_",
+      "reactions": 5,
+      "channel": "🔸课间休息闲聊"
+    },
+    {
+      "id": "1537836649155661935",
+      "channel_id": "1300659603993923644",
+      "content": "",
+      "author": "wolfyy1",
+      "reactions": 5,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1537753925564768356",
+      "channel_id": "1326453763355185215",
+      "content": "",
+      "author": "nikolazuli",
+      "reactions": 5,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1537862855603519600",
+      "channel_id": "1326453763355185215",
+      "content": "",
+      "author": "rehtael",
+      "reactions": 5,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1537892667361329203",
+      "channel_id": "1400749543288475770",
+      "content": "Thank you for the links! <@266297152911835147> <@548007695454830605>",
+      "author": "fatedefier_2003",
+      "reactions": 5,
+      "channel": "🔸team-building"
     },
     {
       "id": "1537697599015092284",
@@ -100,132 +249,20 @@
       "channel": "🔸canal-español"
     },
     {
-      "id": "1537682406457221181",
-      "channel_id": "1181152750319456266",
-      "content": "stfu✌️",
-      "author": "encyoverride",
+      "id": "1537781061508141056",
+      "channel_id": "1131839817982947429",
+      "content": "首先你要是大叔",
+      "author": "yi000607",
       "reactions": 4,
-      "channel": "🔸课间休息闲聊"
+      "channel": "🔸綜合討論"
     },
     {
-      "id": "1537682598455681115",
-      "channel_id": "1181152750319456266",
-      "content": "你們不要再為我而吵架了",
-      "author": "ahong0727",
+      "id": "1537846957744066640",
+      "channel_id": "1131839817982947429",
+      "content": "神鯨一到店，所有喝酒的人便都看着他笑，有的叫道，“神鯨，你脸上又添上新伤疤了！”他不回答，对柜里说，“三把短刃加一把長刀可以合成巨剑•鲸落。”便打出蚀灭。他們又",
+      "author": "fgoisaac",
       "reactions": 4,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1537682947447193721",
-      "channel_id": "1181152750319456266",
-      "content": "vro是bro吗",
-      "author": "ponponnyaru",
-      "reactions": 4,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1537683269586395136",
-      "channel_id": "1181152750319456266",
-      "content": "嗯mean mean的很安心～ 要问就问我们mean🐷大人吧",
-      "author": "encyoverride",
-      "reactions": 4,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1537683778728624180",
-      "channel_id": "1181152750319456266",
-      "content": "欸奶龍姐你知道昨天bonbon公主對程和光發情嗎",
-      "author": "ahong0727",
-      "reactions": 4,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1537685084977758208",
-      "channel_id": "1181152750319456266",
-      "content": "# bon哥是omega",
-      "author": "ahong0727",
-      "reactions": 4,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1537686071972855889",
-      "channel_id": "1181152750319456266",
-      "content": "虽然但是我的第一志愿是上哑谜",
-      "author": "encyoverride",
-      "reactions": 4,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1537687496974929991",
-      "channel_id": "1181152750319456266",
-      "content": "",
-      "author": "ahong0727",
-      "reactions": 4,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1537687776819023943",
-      "channel_id": "1181152750319456266",
-      "content": "",
-      "author": "ahong0727",
-      "reactions": 4,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1537723775817228339",
-      "channel_id": "1433513650299076780",
-      "content": "...",
-      "author": "verdy_heh",
-      "reactions": 4,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1537729869604192276",
-      "channel_id": "1433513650299076780",
-      "content": "im not actually doing dwaves im just thinking about it im acc level 40 im a baby",
-      "author": ".tryshot.",
-      "reactions": 4,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1537706474829127750",
-      "channel_id": "1537706474829127750",
-      "content": "激情学习道具制作！\n激情尝试！\n做了一把命定之剑<:Nymph_dead:1356082627509092372> \n结果深刻体会到自己还有很多要学的地方<:H",
-      "author": "tululike",
-      "reactions": 4,
-      "channel": "手搓一把环娜的命定之剑"
-    },
-    {
-      "id": "1537690718913433641",
-      "channel_id": "1441979284381110292",
-      "content": "退一步來說 不能隱藏自動\n那我們給自動也加上一個「你確定要開自動嗎？」\n好不好\n好不好？",
-      "author": "water_heart",
-      "reactions": 4,
-      "channel": "能不能把自動戰鬥的按鈕隱藏起來"
-    },
-    {
-      "id": "1537684420918517870",
-      "channel_id": "1181152750319456266",
-      "content": "why u talking about urself",
-      "author": "encyoverride",
-      "reactions": 3,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1537684746145108101",
-      "channel_id": "1181152750319456266",
-      "content": "os：我能草哑谜吗",
-      "author": "encyoverride",
-      "reactions": 3,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1537684791628009502",
-      "channel_id": "1181152750319456266",
-      "content": "getting horny在程和光出來的時候",
-      "author": "ahong0727",
-      "reactions": 3,
-      "channel": "🔸课间休息闲聊"
+      "channel": "🔸綜合討論"
     }
   ]
 }

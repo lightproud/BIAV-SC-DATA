@@ -1,11 +1,11 @@
 {
   "date": "2026-06-17",
-  "messages": 15783,
+  "messages": 20783,
   "unique_authors": 368,
-  "reactions_total": 1335,
-  "attachments": 797,
+  "reactions_total": 1853,
+  "attachments": 1054,
   "channel_activity": {
-    "🔸morimens-game-chat": 90,
+    "🔸morimens-game-chat": 5090,
     "🔸game-question": 2768,
     "🔸general-chat": 5393,
     "🔸綜合討論": 2287,
@@ -92,25 +92,25 @@
     "team building & who to invest in": 1
   },
   "hourly_activity": {
-    "0": 439,
-    "1": 1046,
-    "2": 1063,
-    "3": 733,
-    "4": 550,
-    "5": 622,
-    "6": 617,
-    "7": 788,
-    "8": 1130,
-    "9": 703,
-    "10": 762,
-    "11": 807,
-    "12": 569,
-    "13": 738,
-    "14": 666,
-    "15": 723,
-    "16": 1035,
-    "17": 723,
-    "18": 541,
+    "0": 601,
+    "1": 1189,
+    "2": 1373,
+    "3": 845,
+    "4": 673,
+    "5": 929,
+    "6": 878,
+    "7": 842,
+    "8": 1205,
+    "9": 1010,
+    "10": 1301,
+    "11": 1170,
+    "12": 934,
+    "13": 1151,
+    "14": 761,
+    "15": 1071,
+    "16": 1403,
+    "17": 1314,
+    "18": 605,
     "19": 179,
     "20": 399,
     "21": 402,
@@ -118,9 +118,9 @@
     "23": 364
   },
   "message_types": {
-    "0": 1733,
-    "19": 727,
-    "20": 10
+    "19": 2332,
+    "0": 5123,
+    "20": 15
   },
   "top_reacted_messages": [
     {
@@ -146,6 +146,22 @@
       "author": "cristhesloth",
       "reactions": 16,
       "channel": "🔸canal-español"
+    },
+    {
+      "id": "1516844121543806997",
+      "channel_id": "1170692781216378960",
+      "content": "Just got my first a5 clear, only 5 dr procs Im so good",
+      "author": "brisingr9726",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1516863040136417431",
+      "channel_id": "1170692781216378960",
+      "content": "Chat, the time has come",
+      "author": "sirtealot",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1516776878420267089",
@@ -266,22 +282,6 @@
       "author": "anjuthemage",
       "reactions": 8,
       "channel": "Day 10 of doodling N til Morimens makes him playable"
-    },
-    {
-      "id": "1516668253492219925",
-      "channel_id": "1131839817982947429",
-      "content": "下雨了想要收衣服来着，然后才发现上次洗的忘晒了<:24_clown:1468259444423921871>",
-      "author": "ponponnyaru",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1516683887084834866",
-      "channel_id": "1131839817982947429",
-      "content": "对了，还有在阳台上做的",
-      "author": "ponponnyaru",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
     }
   ]
 }
