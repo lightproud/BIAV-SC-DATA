@@ -1,19 +1,37 @@
 {
   "date": "2026-08-15",
-  "messages": 2,
-  "unique_authors": 2,
-  "reactions_total": 0,
-  "attachments": 1,
+  "messages": 15,
+  "unique_authors": 6,
+  "reactions_total": 2,
+  "attachments": 2,
   "channel_activity": {
-    "なんでも雑談": 1,
-    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 1
+    "なんでも雑談": 7,
+    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 8
   },
   "hourly_activity": {
-    "2": 1,
+    "2": 12,
+    "3": 2,
     "0": 1
   },
   "message_types": {
-    "0": 2
+    "0": 15
   },
-  "top_reacted_messages": []
+  "top_reacted_messages": [
+    {
+      "id": "1538017754211295302",
+      "channel_id": "1377478664609857647",
+      "content": "不味くはないけどラーメンと思って食べると物足りない場合が多い",
+      "author": "altiar_zain",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1538013169463857214",
+      "channel_id": "1528389964319162368",
+      "content": "巻き込まれるタイスさん\n流石に苦言を申すアルバさん",
+      "author": "blootrain13",
+      "reactions": 1,
+      "channel": "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)"
+    }
+  ]
 }
