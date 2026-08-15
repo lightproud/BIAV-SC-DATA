@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-15T03:37:49.811692+00:00",
+  "archived_at": "2026-08-15T06:34:55.517862+00:00",
   "source": "bilibili",
-  "item_count": 3,
+  "item_count": 5,
   "items": [
     {
       "title": "（补档）明明是飞马的白粥组成的怪物，在我眼中却是美丽的少女",
@@ -23,6 +23,52 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/994b403ce7c8fef2fc8d38c1476b7d5d02b95247.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "醋鱼之歌·所有食物变得不可名状而西湖醋鱼不变",
+      "summary": "-\n  └ 易一不是逸伊 (0赞): 就算这样我也不吃[生气][生气][生气]",
+      "source": "bilibili",
+      "time": "2026-08-15T03:36:39+00:00",
+      "url": "https://www.bilibili.com/video/BV1ipg36pExU",
+      "engagement": 145,
+      "is_hot": false,
+      "author": "列奥尼达斯SAMA",
+      "tags": [
+        "美食记录"
+      ],
+      "metadata": {
+        "play": 144,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/09c164ed6ddaff0976925e66c0c3af1f3fdd3a2f.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "郁纪知道了有关奥涯教授的行踪打算前去一探",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-15T03:30:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1y6gT6sENG",
+      "engagement": 8,
+      "is_hot": false,
+      "author": "朗克清",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 8,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/6b8cc60411b4c927a9e434d1bd140c19c079245d.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

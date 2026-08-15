@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-15T03:37:49.810719+00:00",
+  "archived_at": "2026-08-15T06:34:55.516220+00:00",
   "source": "youtube",
-  "item_count": 9,
+  "item_count": 10,
   "items": [
     {
       "title": "[Morimens] Improving the changes Spreadsheet and theorycrafting Ecog and Ecogless Madness teams",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/Q3XGOqReeUs/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Reacting to Chinese Morimens Video Titles/Fanfics/etc on Livestream.",
+      "summary": "https://buymeacoffee.com/flares https://discord.gg/tpMMe5W7CT - Personal Flares Discord ...",
+      "source": "youtube",
+      "time": "2026-08-15T04:24:47Z",
+      "url": "https://www.youtube.com/watch?v=7GJrHnnhd20",
+      "engagement": 99,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/7GJrHnnhd20/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

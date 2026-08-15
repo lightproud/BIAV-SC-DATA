@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-15T03:37:49.856596+00:00",
+  "archived_at": "2026-08-15T06:34:55.556919+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] Еще ни одну игру я не начинал с росписи на надгроб...",
@@ -70,6 +70,30 @@
         "playtime_forever": 1577,
         "votes_up": 0,
         "timestamp_created": 1786757999
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 遊戲程式經常閃跳及沒有回應,遊戲中UI亦會時不時沒有圖片顯示,遊戲程式經常要重新安裝才能遊玩,導致遊...",
+      "summary": "遊戲程式經常閃跳及沒有回應,遊戲中UI亦會時不時沒有圖片顯示,遊戲程式經常要重新安裝才能遊玩,導致遊戲體驗極差.",
+      "source": "steam_review",
+      "time": "2026-08-15T03:52:13+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198177442486/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198177442486",
+      "tags": [
+        "tchinese"
+      ],
+      "language": "tchinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 2817,
+        "votes_up": 0,
+        "timestamp_created": 1786765933
       },
       "region": "global",
       "archive_subtype": "review",

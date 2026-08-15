@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "archived_at": "2026-08-15T03:37:49.928747+00:00",
+  "archived_at": "2026-08-15T06:34:55.640004+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 Downloaded this app only 2 days ago and",
@@ -16,6 +16,20 @@
       "tags": [],
       "lang": "en",
       "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 ดีมากครับ",
+      "summary": "ดีมากครับ",
+      "source": "google_play",
+      "time": "2026-08-14T05:32:23",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=th#gp-263d167c-48c1-4cb9-99d7-07177adee907",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ศาฬา",
+      "tags": [],
+      "lang": "th",
+      "platform_region": "th",
       "region": "global"
     }
   ],
