@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-15T15:19:29.902903+00:00",
+  "archived_at": "2026-08-15T18:27:11.758848+00:00",
   "source": "steam",
-  "item_count": 8,
+  "item_count": 11,
   "items": [
     {
       "title": "[正面] Еще ни одну игру я не начинал с росписи на надгроб...",
@@ -190,6 +190,78 @@
         "playtime_forever": 192,
         "votes_up": 0,
         "timestamp_created": 1786784459
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 劇情美術很棒~我個人滿喜歡的www\r\n我也沒想到只是剛好看到推薦下載來玩玩\r\n就...就課金了還50...",
+      "summary": "劇情美術很棒~我個人滿喜歡的www\r\n我也沒想到只是剛好看到推薦下載來玩玩\r\n就...就課金了還50+小時了wwww\r\n希望大家都能玩玩看~",
+      "source": "steam_review",
+      "time": "2026-08-15T15:39:34+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198215405683/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198215405683",
+      "tags": [
+        "tchinese"
+      ],
+      "language": "tchinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3047,
+        "votes_up": 0,
+        "timestamp_created": 1786808374
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Still a bit rough, but screw it; game's great",
+      "summary": "Still a bit rough, but screw it; game's great",
+      "source": "steam_review",
+      "time": "2026-08-15T14:23:23+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198038403824/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198038403824",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 4370,
+        "votes_up": 0,
+        "timestamp_created": 1786803803
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 스토리도 좋고 게임도 재밌는데.. 번역만 좀더 개선되면 주변에 엄청 추천하고 다닐 듯...",
+      "summary": "스토리도 좋고 게임도 재밌는데.. 번역만 좀더 개선되면 주변에 엄청 추천하고 다닐 듯...",
+      "source": "steam_review",
+      "time": "2026-08-15T13:59:58+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198398810779/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198398810779",
+      "tags": [
+        "koreana"
+      ],
+      "language": "koreana",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 877,
+        "votes_up": 0,
+        "timestamp_created": 1786802398
       },
       "region": "global",
       "archive_subtype": "review",

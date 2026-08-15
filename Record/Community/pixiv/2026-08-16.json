@@ -1,0 +1,40 @@
+{
+  "date": "2026-08-16",
+  "archived_at": "2026-08-15T18:27:11.783638+00:00",
+  "source": "pixiv",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "忘卻前夜 克萊門汀",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-08-16T02:34:00+09:00",
+      "url": "https://www.pixiv.net/artworks/148480292",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Zayla秋",
+      "tags": [
+        "忘却前夜",
+        "克萊門汀",
+        "morimens"
+      ],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/08/16/02/34/00/148480292_p0_square1200.jpg",
+      "content_type": "image"
+    },
+    {
+      "title": "",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-08-15T18:25:38.794008+00:00",
+      "url": "https://www.pixiv.net/artworks/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global"
+    }
+  ]
+}

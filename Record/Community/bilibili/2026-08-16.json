@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-16",
+  "archived_at": "2026-08-15T18:27:11.703494+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "给我汽油",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-15T16:48:12+00:00",
+      "url": "https://www.bilibili.com/video/BV1J8b26gE2g",
+      "engagement": 14,
+      "is_hot": false,
+      "author": "蹈海者",
+      "tags": [
+        "影视剪辑"
+      ],
+      "metadata": {
+        "play": 14,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/7f1fd10459c6a429892793a0ce981ef596c4214e.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    }
+  ]
+}
