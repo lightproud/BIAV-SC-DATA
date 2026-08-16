@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-16",
+  "messages": 10,
+  "unique_authors": 5,
+  "reactions_total": 1,
+  "attachments": 0,
+  "channel_activity": {
+    "なんでも雑談": 2,
+    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 8
+  },
+  "hourly_activity": {
+    "1": 5,
+    "0": 5
+  },
+  "message_types": {
+    "0": 10
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1538361523783598130",
+      "channel_id": "1377478664609857647",
+      "content": "ふと思ったけどミサゴって沙耶の匂い問題どうしてるんだろう。\n沙耶って確か主人公以外のほとんどのキャラから匂いについて言及されるぐらい臭いんだけど()",
+      "author": "altiar_zain",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    }
+  ]
+}
