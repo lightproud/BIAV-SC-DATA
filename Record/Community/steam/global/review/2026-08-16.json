@@ -1,8 +1,8 @@
 {
   "date": "2026-08-16",
-  "archived_at": "2026-08-15T21:20:25.188400+00:00",
+  "archived_at": "2026-08-16T01:09:35.256150+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[正面] Very underrated game with beautiful visuals and os...",
@@ -22,6 +22,30 @@
         "playtime_forever": 564,
         "votes_up": 0,
         "timestamp_created": 1786817599
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 非常好的游戏，画风在线，XP戳我，最关键是她还很好玩（虽然后期纯堆数值有些坐牢），而且不吃配置对老P...",
+      "summary": "非常好的游戏，画风在线，XP戳我，最关键是她还很好玩（虽然后期纯堆数值有些坐牢），而且不吃配置对老PC友好（唯一要求就是固态硬盘会提升运行速度）。赞一个！",
+      "source": "steam_review",
+      "time": "2026-08-15T23:05:23+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199077092453/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199077092453",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 12878,
+        "votes_up": 0,
+        "timestamp_created": 1786835123
       },
       "region": "global",
       "archive_subtype": "review",

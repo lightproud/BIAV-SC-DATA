@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-15T21:20:25.116563+00:00",
+  "archived_at": "2026-08-16T01:09:35.194230+00:00",
   "source": "bilibili",
-  "item_count": 18,
+  "item_count": 19,
   "items": [
     {
       "title": "上司介绍的相亲对象，是好女孩儿吗？",
@@ -184,6 +184,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/09c164ed6ddaff0976925e66c0c3af1f3fdd3a2f.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "没人陪我画画嘛",
+      "summary": "沙耶～～可爱捏\n  └ 搂月裁月咯 (0赞): 我去！老师美神来的，好米！！",
+      "source": "bilibili",
+      "time": "2026-08-15T11:38:17+00:00",
+      "url": "https://www.bilibili.com/video/BV1z3b16eEb2",
+      "engagement": 137,
+      "is_hot": false,
+      "author": "抹布汁",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 135,
+        "comment_count": 2,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/7e2b7b788bbc31de0f1a8e5eafdd30e516b69d4a.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

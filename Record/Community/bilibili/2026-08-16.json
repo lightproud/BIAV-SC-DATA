@@ -1,9 +1,32 @@
 {
   "date": "2026-08-16",
-  "archived_at": "2026-08-15T21:20:25.121228+00:00",
+  "archived_at": "2026-08-16T01:09:35.197840+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
+    {
+      "title": "［相位］依旧小众变态卡组造福全相位（加长版）",
+      "summary": "卡组越怪，赢得越快\n  └ 云清禅心 (3赞): 你宁依旧集火最高优先级[doge]",
+      "source": "bilibili",
+      "time": "2026-08-16T00:00:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1MXb26sERw",
+      "engagement": 104,
+      "is_hot": false,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 103,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/1d96324ed5e754836b314b451d81670bbd0d7653.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "给我汽油",
       "summary": "",
