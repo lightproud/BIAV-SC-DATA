@@ -1,8 +1,8 @@
 {
   "date": "2026-08-16",
-  "archived_at": "2026-08-16T09:26:16.091049+00:00",
+  "archived_at": "2026-08-16T12:35:26.004969+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] Very underrated game with beautiful visuals and os...",
@@ -70,6 +70,102 @@
         "playtime_forever": 2376,
         "votes_up": 0,
         "timestamp_created": 1786869126
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Pretty fun gacha. Underrated. Fair warning tho, it...",
+      "summary": "Pretty fun gacha. Underrated. Fair warning tho, it's quite hard. Combats can be pretty demanding.",
+      "source": "steam_review",
+      "time": "2026-08-16T11:17:39+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198090668360/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198090668360",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1999,
+        "votes_up": 0,
+        "timestamp_created": 1786879059
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Карточная гача) приятно что не надо 100 круток как...",
+      "summary": "Карточная гача) приятно что не надо 100 круток как у михуе а всего лишь 60 Мрачная тайная интересная минусом является перевод на Русский язык много ошибок .",
+      "source": "steam_review",
+      "time": "2026-08-16T11:13:11+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198041609367/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198041609367",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 890,
+        "votes_up": 0,
+        "timestamp_created": 1786878791
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] deep",
+      "summary": "deep",
+      "source": "steam_review",
+      "time": "2026-08-16T09:54:01+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199482551614/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199482551614",
+      "tags": [
+        "tchinese"
+      ],
+      "language": "tchinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1139,
+        "votes_up": 0,
+        "timestamp_created": 1786874041
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Me encanta por que es de cartas y a mi me gustan l...",
+      "summary": "Me encanta por que es de cartas y a mi me gustan los juegos de cartas y wena.",
+      "source": "steam_review",
+      "time": "2026-08-16T09:23:53+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198880222049/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198880222049",
+      "tags": [
+        "spanish"
+      ],
+      "language": "spanish",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 332,
+        "votes_up": 0,
+        "timestamp_created": 1786872233
       },
       "region": "global",
       "archive_subtype": "review",

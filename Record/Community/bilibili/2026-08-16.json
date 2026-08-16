@@ -1,8 +1,8 @@
 {
   "date": "2026-08-16",
-  "archived_at": "2026-08-16T09:26:16.039522+00:00",
+  "archived_at": "2026-08-16T12:35:25.940175+00:00",
   "source": "bilibili",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "（二补）明明是飞马白粥组成的怪物，在我眼中却是美丽的少女",
@@ -115,6 +115,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/5426706f51b1ec797ee27733ab01262653ffa87b.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "沙耶小姐悠闲的诡异日常  2.0",
+      "summary": "@耕司青海瑶 @妍伊moe\n  └ 耕司青海瑶 (1赞): [doge]",
+      "source": "bilibili",
+      "time": "2026-08-16T10:23:09+00:00",
+      "url": "https://www.bilibili.com/video/BV1FHb96fEYV",
+      "engagement": 16,
+      "is_hot": false,
+      "author": "oldtimesishurt",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 14,
+        "comment_count": 2,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/63333391266bb024fda25f60e958298388d15dae.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
