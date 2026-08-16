@@ -1,8 +1,8 @@
 {
   "date": "2026-08-16",
-  "archived_at": "2026-08-16T12:35:26.004969+00:00",
+  "archived_at": "2026-08-16T15:20:47.309293+00:00",
   "source": "steam",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "[正面] Very underrated game with beautiful visuals and os...",
@@ -166,6 +166,30 @@
         "playtime_forever": 332,
         "votes_up": 0,
         "timestamp_created": 1786872233
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 偶爾玩玩的\r\n被美術人設吸引而來的\r\n感覺劇情上是不斷吃刀子的微憂鬱向\r\n不建議睡覺前遊玩",
+      "summary": "偶爾玩玩的\r\n被美術人設吸引而來的\r\n感覺劇情上是不斷吃刀子的微憂鬱向\r\n不建議睡覺前遊玩",
+      "source": "steam_review",
+      "time": "2026-08-16T14:03:30+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198058241988/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198058241988",
+      "tags": [
+        "tchinese"
+      ],
+      "language": "tchinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 317,
+        "votes_up": 0,
+        "timestamp_created": 1786889010
       },
       "region": "global",
       "archive_subtype": "review",
