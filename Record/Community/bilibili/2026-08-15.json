@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "archived_at": "2026-08-16T06:36:34.199818+00:00",
+  "archived_at": "2026-08-16T09:26:16.038491+00:00",
   "source": "bilibili",
-  "item_count": 19,
+  "item_count": 20,
   "items": [
     {
       "title": "上司介绍的相亲对象，是好女孩儿吗？",
@@ -138,6 +138,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/df4400a2269dfbaedfec38040f94277d1a6c140a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "兲猫美食！万一匿名兲和熊猫是真爱呢os：这期有教育意义",
+      "summary": "-\n  └ 怎么都被占用了555 (2赞): 甚是诡异\n  └ Tgsare (1赞): 第一😍",
+      "source": "bilibili",
+      "time": "2026-08-15T14:14:48+00:00",
+      "url": "https://www.bilibili.com/video/BV1FybC6PELY",
+      "engagement": 173,
+      "is_hot": false,
+      "author": "Air-迟岸",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 171,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/cd8c615d46b24c39ae4434fcbc0491fcdbba1c16.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

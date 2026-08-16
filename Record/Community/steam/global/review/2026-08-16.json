@@ -1,8 +1,8 @@
 {
   "date": "2026-08-16",
-  "archived_at": "2026-08-16T06:36:34.245142+00:00",
+  "archived_at": "2026-08-16T09:26:16.091049+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] Very underrated game with beautiful visuals and os...",
@@ -46,6 +46,30 @@
         "playtime_forever": 12878,
         "votes_up": 0,
         "timestamp_created": 1786835123
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 非常好玩，画工顶级(*^_^*)",
+      "summary": "非常好玩，画工顶级(*^_^*)",
+      "source": "steam_review",
+      "time": "2026-08-16T08:32:06+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198695840205/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198695840205",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2376,
+        "votes_up": 0,
+        "timestamp_created": 1786869126
       },
       "region": "global",
       "archive_subtype": "review",

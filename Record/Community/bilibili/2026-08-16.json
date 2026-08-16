@@ -1,9 +1,55 @@
 {
   "date": "2026-08-16",
-  "archived_at": "2026-08-16T03:47:16.222317+00:00",
+  "archived_at": "2026-08-16T09:26:16.039522+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 6,
   "items": [
+    {
+      "title": "（二补）明明是飞马白粥组成的怪物，在我眼中却是美丽的少女",
+      "summary": "-\n  └ Satwreck (13赞): 白粥组成的怪物，哦这菲戈啊\n  └ 不会住在世界尽头 (2赞): @一只路过的居安安哦对了，f8fq\n  └ 方糖必秒砂糖 (5赞): 能不能把沙耶改为辛巴[喜欢]",
+      "source": "bilibili",
+      "time": "2026-08-16T00:00:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1qUbC68Exf",
+      "engagement": 1550,
+      "is_hot": true,
+      "author": "采蘑菇的九爷爷",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 1525,
+        "comment_count": 25,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/994b403ce7c8fef2fc8d38c1476b7d5d02b95247.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【卜区】deg重组！和沙耶双区合璧，联手暴打猪肉丸",
+      "summary": "└ 69岁退休Niko (0赞): 拯救龙少没绷住\n  └ Neo_Li (0赞): 这铁拳出神入化",
+      "source": "bilibili",
+      "time": "2026-08-16T04:30:58+00:00",
+      "url": "https://www.bilibili.com/video/BV1bZbU6fErU",
+      "engagement": 714,
+      "is_hot": false,
+      "author": "浮世绘若梦",
+      "tags": [
+        "电子竞技"
+      ],
+      "metadata": {
+        "play": 712,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 2
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/ba3f74e45f540a85308bf6d563b22a53f0c23eb6.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "［相位］依旧小众变态卡组造福全相位（加长版）",
       "summary": "卡组越怪，赢得越快\n  └ 云清禅心 (3赞): 你宁依旧集火最高优先级[doge]",
@@ -23,6 +69,52 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/1d96324ed5e754836b314b451d81670bbd0d7653.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "全网最尊重郁纪之人",
+      "summary": "我是一名拉屎爱好者，我叫匂坂郁纪\n  └ 是Eta呀 (1赞): 说实话真觉得郁纪有点坏[笑哭][笑哭][笑哭]\n  └ 吐槽大会员工 (1赞): UP主加油！",
+      "source": "bilibili",
+      "time": "2026-08-16T04:39:24+00:00",
+      "url": "https://www.bilibili.com/video/BV1u9bU6aE6e",
+      "engagement": 38,
+      "is_hot": false,
+      "author": "耕司青海瑶",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 35,
+        "comment_count": 3,
+        "comments_fetched": 2,
+        "danmaku": 5
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/8792402e75d2d9485d9b374cb8f9d5593e228259.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "[Memphis,Trap,Trip hop] 沙耶——SORA",
+      "summary": "玩沙耶之歌的时候老是被虚渊玄引导，思考爱到底是什么，是血与肉的交织，还是纯粹的感情，跨越物种之间也有爱吗，当个人的小爱与社会的道德冲突，到底如何选择才是对的，沙耶之歌迷人之处就在此，选择权永远在你手中",
+      "source": "bilibili",
+      "time": "2026-08-16T04:22:34+00:00",
+      "url": "https://www.bilibili.com/video/BV1MFbS6tEYE",
+      "engagement": 25,
+      "is_hot": false,
+      "author": "So某ra",
+      "tags": [
+        "MAD·AMV"
+      ],
+      "metadata": {
+        "play": 25,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/5426706f51b1ec797ee27733ab01262653ffa87b.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-16",
-  "archived_at": "2026-08-16T06:36:34.201464+00:00",
+  "archived_at": "2026-08-16T09:26:16.040668+00:00",
   "source": "bahamut",
-  "item_count": 22,
+  "item_count": 23,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -153,6 +153,19 @@
       "source": "bahamut",
       "time": "2026-08-15T18:25:39.117885+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1524&tnum=1",
+      "engagement": 24,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【校貓日誌】朝令夕改，靈知每次使用消耗3個，1250銀芯獎勵恢復，密契結合優化",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-16T09:25:31.871069+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1529&tnum=3",
       "engagement": 24,
       "is_hot": false,
       "author": "t12345825",
