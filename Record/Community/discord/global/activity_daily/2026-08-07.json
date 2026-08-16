@@ -1,11 +1,11 @@
 {
   "date": "2026-08-07",
-  "messages": 7039,
+  "messages": 12039,
   "unique_authors": 286,
-  "reactions_total": 751,
-  "attachments": 450,
+  "reactions_total": 897,
+  "attachments": 673,
   "channel_activity": {
-    "🔸general-chat": 969,
+    "🔸general-chat": 5969,
     "🔸綜合討論": 688,
     "🔸阵容构建": 11,
     "🔸晒卡分享": 1,
@@ -62,6 +62,21 @@
     "1535097848469655632": 1
   },
   "hourly_activity": {
+    "8": 739,
+    "9": 904,
+    "10": 875,
+    "11": 499,
+    "12": 641,
+    "13": 619,
+    "14": 727,
+    "15": 809,
+    "16": 324,
+    "17": 703,
+    "18": 533,
+    "19": 474,
+    "20": 515,
+    "21": 470,
+    "22": 312,
     "0": 367,
     "1": 357,
     "2": 619,
@@ -70,28 +85,13 @@
     "5": 181,
     "6": 401,
     "7": 451,
-    "8": 545,
-    "9": 477,
-    "10": 293,
-    "11": 283,
-    "12": 512,
-    "13": 406,
-    "14": 443,
-    "15": 210,
-    "16": 161,
-    "17": 110,
-    "18": 90,
-    "19": 140,
-    "20": 141,
-    "21": 136,
-    "23": 49,
-    "22": 197
+    "23": 49
   },
   "message_types": {
-    "0": 5160,
-    "19": 1838,
-    "20": 36,
-    "23": 2,
+    "0": 8521,
+    "19": 3473,
+    "23": 3,
+    "20": 39,
     "6": 2,
     "21": 1
   },
@@ -129,12 +129,28 @@
       "channel": "sp蘿坦配音可否考慮回調"
     },
     {
+      "id": "1535254612271964281",
+      "channel_id": "1400750050208125010",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 8,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1535304111019397131",
       "channel_id": "1131839874132090890",
       "content": "为了满足对自推的爱出了两把阿拉<:emoji_11:1505290988908974161>",
       "author": "gensono0609",
       "reactions": 8,
       "channel": "🔸阵容构建"
+    },
+    {
+      "id": "1535363161568321616",
+      "channel_id": "1400750050208125010",
+      "content": "I got a better one lol",
+      "author": "shadowtag5002",
+      "reactions": 7,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1535267604254564504",
@@ -159,6 +175,14 @@
       "author": "snorlax01",
       "reactions": 7,
       "channel": "🔸game-question"
+    },
+    {
+      "id": "1535266011966611566",
+      "channel_id": "1400750050208125010",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 6,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1535270638158225509",
@@ -209,6 +233,14 @@
       "channel": "🔸game-question"
     },
     {
+      "id": "1535383246253330443",
+      "channel_id": "1400750050208125010",
+      "content": "Proud foster mother of 2 kitten >:3",
+      "author": "ashley_graves1129",
+      "reactions": 5,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1535281062781915136",
       "channel_id": "1131839817982947429",
       "content": "哪個神人往網路精靈裡灌了這麼多莉莉進去的",
@@ -223,38 +255,6 @@
       "author": "akkom730",
       "reactions": 5,
       "channel": "🔸晒卡分享"
-    },
-    {
-      "id": "1535148687762919434",
-      "channel_id": "1131839817982947429",
-      "content": "<@985933785340186704> ?",
-      "author": "a._0320",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1535192564599095426",
-      "channel_id": "1433513650299076780",
-      "content": "for now, this is my team, ignore the covenants <:Horla_cry:1357186646294138890>",
-      "author": "khryiis",
-      "reactions": 5,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1535134517520760942",
-      "channel_id": "1400750050208125010",
-      "content": "<@851602274395488327> ok holy s, I set Caecus Pontos in w5\nIT WAS HELLA DISGUSTI",
-      "author": "theviy",
-      "reactions": 4,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1535202020158603324",
-      "channel_id": "1131839817982947429",
-      "content": "各位玩家，感謝大家一直以來對【忘卻前夜】的支持與鼓勵，【忘卻前夜】也陪著玩家度過許多歡樂的日子，一路上因為有您的支持，讓我們更有動力去經營，希望能提供最好的遊戲",
-      "author": "nemu_s_t_a_r",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
     }
   ]
 }

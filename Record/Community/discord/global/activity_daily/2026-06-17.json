@@ -1,11 +1,11 @@
 {
   "date": "2026-06-17",
-  "messages": 20783,
+  "messages": 22059,
   "unique_authors": 368,
-  "reactions_total": 1853,
-  "attachments": 1054,
+  "reactions_total": 2001,
+  "attachments": 1126,
   "channel_activity": {
-    "🔸morimens-game-chat": 5090,
+    "🔸morimens-game-chat": 6366,
     "🔸game-question": 2768,
     "🔸general-chat": 5393,
     "🔸綜合討論": 2287,
@@ -92,6 +92,12 @@
     "team building & who to invest in": 1
   },
   "hourly_activity": {
+    "18": 849,
+    "19": 433,
+    "20": 683,
+    "21": 739,
+    "22": 305,
+    "23": 400,
     "0": 601,
     "1": 1189,
     "2": 1373,
@@ -109,17 +115,11 @@
     "14": 761,
     "15": 1071,
     "16": 1403,
-    "17": 1314,
-    "18": 605,
-    "19": 179,
-    "20": 399,
-    "21": 402,
-    "22": 184,
-    "23": 364
+    "17": 1314
   },
   "message_types": {
-    "19": 2332,
-    "0": 5123,
+    "19": 2686,
+    "0": 6045,
     "20": 15
   },
   "top_reacted_messages": [
@@ -204,6 +204,14 @@
       "channel": "阿格里帕"
     },
     {
+      "id": "1516920755185520831",
+      "channel_id": "1170692781216378960",
+      "content": "fixed it for you",
+      "author": "hexalice",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1516803347846271007",
       "channel_id": "1433513650299076780",
       "content": "Just ignore recommended level mate",
@@ -274,14 +282,6 @@
       "author": "calmdreab",
       "reactions": 8,
       "channel": "天下无敌茉夏大人 天外来敌沙耶大人"
-    },
-    {
-      "id": "1516784030287265892",
-      "channel_id": "1513948986963394692",
-      "content": "Day 10\n\nTrust. You'll get AA",
-      "author": "anjuthemage",
-      "reactions": 8,
-      "channel": "Day 10 of doodling N til Morimens makes him playable"
     }
   ]
 }
