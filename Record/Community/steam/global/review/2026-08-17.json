@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-17",
+  "archived_at": "2026-08-16T21:18:50.680631+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] 看到sr的时候嗅到了氪金手游的味道，打完序章跑路了。\n游戏不错，但在steam上，我还是想玩单机。...",
+      "summary": "看到sr的时候嗅到了氪金手游的味道，打完序章跑路了。\n游戏不错，但在steam上，我还是想玩单机。\n还是推荐一下吧。。。",
+      "source": "steam_review",
+      "time": "2026-08-16T17:25:48+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198884864354/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198884864354",
+      "tags": [
+        "tchinese"
+      ],
+      "language": "tchinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 116,
+        "votes_up": 0,
+        "timestamp_created": 1786901148
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-17",
+  "archived_at": "2026-08-16T21:18:50.600783+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Sorry.",
+      "summary": "I am sorry.",
+      "source": "bilibili",
+      "time": "2026-08-16T20:50:19+00:00",
+      "url": "https://www.bilibili.com/video/BV1Xebb6CELz",
+      "engagement": 92,
+      "is_hot": false,
+      "author": "小龙猫大能力",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 92,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/f94926d5162be3bcd7c0271cb44d6c5ca0f2da87.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    }
+  ]
+}
