@@ -1,8 +1,8 @@
 {
   "date": "2026-08-16",
-  "archived_at": "2026-08-16T15:20:47.256495+00:00",
+  "archived_at": "2026-08-16T18:26:25.075126+00:00",
   "source": "bilibili",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "（二补）明明是飞马白粥组成的怪物，在我眼中却是美丽的少女",
@@ -46,6 +46,29 @@
         "danmaku": 2
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/ba3f74e45f540a85308bf6d563b22a53f0c23eb6.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "亲爱的你就不能伴我左右吗？",
+      "summary": "-\n  └ 嘉侬zip (1赞): 🤔up你说在脑缸中间用一根其他颜色的线能不能还原被劈成两半的脑缸(？\n  └ AAA木柴批发 (0赞): 标题是歌词里面的一句话\n粉色真的用了不同的，但是相机会吞色[笑哭]\n融朵的缸脑真的不太能搓完整\n外面是一个透明壳子，太透了（）\n因为没有融朵去校园墙照着扒☝🤓，不知道有人发现小巧思吗[doge]",
+      "source": "bilibili",
+      "time": "2026-08-16T04:13:12+00:00",
+      "url": "https://www.bilibili.com/video/BV1MobU68E1q",
+      "engagement": 107,
+      "is_hot": false,
+      "author": "AAA木柴批发",
+      "tags": [
+        "手工"
+      ],
+      "metadata": {
+        "play": 104,
+        "comment_count": 3,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/e363e15f5046cae22ba062e758a767e5f1f75dc9.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
