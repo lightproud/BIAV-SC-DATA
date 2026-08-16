@@ -1,21 +1,25 @@
 {
   "date": "2026-08-16",
-  "messages": 210,
+  "messages": 285,
   "unique_authors": 17,
-  "reactions_total": 40,
-  "attachments": 13,
+  "reactions_total": 64,
+  "attachments": 25,
   "channel_activity": {
-    "なんでも雑談": 161,
+    "なんでも雑談": 234,
+    "誰でも質問": 12,
+    "オレッタとの旅記録と、使い方の雑記": 1,
     "ニムフィーアの毒パ研究日誌": 9,
     "ガチャ結果報告": 1,
     "招待コード共有会": 1,
     "🔰初心者質問": 8,
-    "誰でも質問": 11,
     "思想汚染(うちcp)の話し": 7,
     "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 10,
     "対人戦に詳しく解説「初心者〜上級者まで」": 2
   },
   "hourly_activity": {
+    "13": 18,
+    "14": 27,
+    "15": 30,
     "9": 67,
     "10": 19,
     "11": 10,
@@ -31,16 +35,40 @@
     "0": 5
   },
   "message_types": {
-    "0": 189,
-    "19": 21
+    "0": 260,
+    "19": 25
   },
   "top_reacted_messages": [
+    {
+      "id": "1538567957867921538",
+      "channel_id": "1377478664609857647",
+      "content": "よっしゃ！勝った！！ 初の深海染め編成H9-11クリア、オレッタチームがいただきました！ <:yatta:1390953053322219530>",
+      "author": "partycatss.",
+      "reactions": 8,
+      "channel": "なんでも雑談"
+    },
     {
       "id": "1538510143392579584",
       "channel_id": "1377478664609857647",
       "content": "# 月曜日が始Monday",
       "author": "ecstasyrb",
       "reactions": 5,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1538548037797023845",
+      "channel_id": "1377478664609857647",
+      "content": "ミリアム本当に強いよな\n深海で力盛れないという弱点を除いて",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 3,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1538571374736707634",
+      "channel_id": "1377478664609857647",
+      "content": "7章読了\n||カーシアお前そっち側だったのか…||",
+      "author": "keimitarashi.",
+      "reactions": 3,
       "channel": "なんでも雑談"
     },
     {
@@ -57,6 +85,30 @@
       "content": "||匂いだけゆーしょくされたんじゃねーですか||",
       "author": "zzzorz",
       "reactions": 3,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1538557845769822278",
+      "channel_id": "1377478664609857647",
+      "content": "一度も戦闘に連れて行かずに同調率10達成ｼﾏｼﾀ",
+      "author": "0w04250",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1538571266775318609",
+      "channel_id": "1377478664609857647",
+      "content": "やっぱりクリア目なら霊魂同調強すぎるよな…",
+      "author": "yasaizujusu",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1538571913025163265",
+      "channel_id": "1377478664609857647",
+      "content": "忘却くそエンジョイ勢\nレーアのステージ楽し過ぎる",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 2,
       "channel": "なんでも雑談"
     },
     {
@@ -116,82 +168,34 @@
       "channel": "🔰初心者質問"
     },
     {
-      "id": "1538488523806478376",
+      "id": "1538553111176548374",
       "channel_id": "1377478664609857647",
-      "content": "あるよ",
-      "author": "foxcatfurry",
+      "content": "シールド100点貼りながら触腕号令120%して力50点くらい盛ってください",
+      "author": "0w04250",
       "reactions": 1,
       "channel": "なんでも雑談"
     },
     {
-      "id": "1538489558868693033",
+      "id": "1538571000634146888",
       "channel_id": "1377478664609857647",
-      "content": "常駐ガチャ説明あるはず何%けど",
-      "author": "foxcatfurry",
+      "content": "キツい, エリートとエリート後の全道中が怖い",
+      "author": "partycatss.",
       "reactions": 1,
       "channel": "なんでも雑談"
     },
     {
-      "id": "1538515648022454303",
+      "id": "1538571170914373782",
       "channel_id": "1377478664609857647",
-      "content": "お盆休みなんて無かったんや",
-      "author": "altiar_zain",
+      "content": "敵火力もヤバいけど体力が適当なボスくらいありますからね…",
+      "author": "yamaiame_ql4",
       "reactions": 1,
       "channel": "なんでも雑談"
     },
     {
-      "id": "1538521221396955176",
+      "id": "1538572120865382401",
       "channel_id": "1377478664609857647",
-      "content": "お盆休みなどないのじゃぐへへへ<:chiiin:1390953055800791232>",
-      "author": "namenemue3",
-      "reactions": 1,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1538459855763935272",
-      "channel_id": "1377478664609857647",
-      "content": "友人からPayPay送金されるまで忘れてました()",
-      "author": "altiar_zain",
-      "reactions": 1,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1538463545551757322",
-      "channel_id": "1377478664609857647",
-      "content": "祝ってもらえて嬉しや",
-      "author": "altiar_zain",
-      "reactions": 1,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1538479062912208998",
-      "channel_id": "1377478664609857647",
-      "content": "ヘロットの相方ロータンとかでいいのマジでありがたい",
-      "author": "saihuu",
-      "reactions": 1,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1538479908622438431",
-      "channel_id": "1377478664609857647",
-      "content": "最初からいるしガチャ引かなくても凸できるからロータン便利すぎた",
-      "author": "saihuu",
-      "reactions": 1,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1538480255398846576",
-      "channel_id": "1377478664609857647",
-      "content": "",
-      "author": "saihuu",
-      "reactions": 1,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1538414509624922112",
-      "channel_id": "1377478664609857647",
-      "content": "ホルモンってすごい()",
-      "author": "altiar_zain",
+      "content": "強いね、、最後は50%抵抗たから、同調なしにクリア無理かも",
+      "author": "partycatss.",
       "reactions": 1,
       "channel": "なんでも雑談"
     }
