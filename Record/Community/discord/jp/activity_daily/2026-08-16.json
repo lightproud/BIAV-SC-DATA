@@ -1,21 +1,41 @@
 {
   "date": "2026-08-16",
-  "messages": 10,
-  "unique_authors": 5,
-  "reactions_total": 1,
-  "attachments": 0,
+  "messages": 23,
+  "unique_authors": 6,
+  "reactions_total": 5,
+  "attachments": 3,
   "channel_activity": {
-    "なんでも雑談": 2,
+    "なんでも雑談": 9,
+    "ニムフィーアの毒パ研究日誌": 6,
     "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 8
   },
   "hourly_activity": {
+    "2": 6,
+    "3": 7,
     "1": 5,
     "0": 5
   },
   "message_types": {
-    "0": 10
+    "19": 4,
+    "0": 19
   },
   "top_reacted_messages": [
+    {
+      "id": "1538373900616990830",
+      "channel_id": "1377478664609857647",
+      "content": "||匂いだけゆーしょくされたんじゃねーですか||",
+      "author": "zzzorz",
+      "reactions": 3,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1538380567140241478",
+      "channel_id": "1510911214346305566",
+      "content": "道中でもオレッタキーが強いのいいですねー",
+      "author": "zzzorz",
+      "reactions": 1,
+      "channel": "ニムフィーアの毒パ研究日誌"
+    },
     {
       "id": "1538361523783598130",
       "channel_id": "1377478664609857647",
