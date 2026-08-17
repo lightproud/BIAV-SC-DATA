@@ -1,22 +1,35 @@
 {
   "date": "2026-08-17",
-  "messages": 36,
-  "unique_authors": 7,
-  "reactions_total": 0,
-  "attachments": 1,
+  "messages": 66,
+  "unique_authors": 14,
+  "reactions_total": 2,
+  "attachments": 3,
   "channel_activity": {
-    "なんでも雑談": 31,
-    "🔰初心者質問": 5
+    "なんでも雑談": 53,
+    "🔰初心者質問": 8,
+    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 5
   },
   "hourly_activity": {
+    "4": 10,
+    "6": 10,
+    "7": 10,
+    "5": 6,
     "3": 27,
-    "4": 6,
     "0": 1,
     "2": 2
   },
   "message_types": {
-    "0": 35,
-    "19": 1
+    "0": 63,
+    "19": 3
   },
-  "top_reacted_messages": []
+  "top_reacted_messages": [
+    {
+      "id": "1538796539890237450",
+      "channel_id": "1377478664609857647",
+      "content": "性能来るのワンチャン今日か",
+      "author": "kuroneko4253",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    }
+  ]
 }
