@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-18",
+  "archived_at": "2026-08-17T18:37:16.452333+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "大滴泪萝萝用长刃歪翻世界",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-17T17:29:21+00:00",
+      "url": "https://www.bilibili.com/video/BV1aYbB6KE2x",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "秋沫爱吃",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 2,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/b4edc28e62c33317caf4af90d886d3a412036e17.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    }
+  ]
+}
