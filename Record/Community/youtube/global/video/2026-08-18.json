@@ -1,9 +1,26 @@
 {
   "date": "2026-08-18",
-  "archived_at": "2026-08-17T18:37:16.403324+00:00",
+  "archived_at": "2026-08-17T21:25:39.465246+00:00",
   "source": "youtube",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
+    {
+      "title": "WALNUT BRAIN TIME in Morimens, then in Slay the Spire 2 A10 CO-OP with my Sis",
+      "summary": "It's big brain time in my Morimens D-Tides (which I'm long overdue to stream again!), then after I'm done with those and also ...",
+      "source": "youtube",
+      "time": "2026-08-17T18:36:32Z",
+      "url": "https://www.youtube.com/watch?v=9io-DIHavdw",
+      "engagement": 225,
+      "is_hot": false,
+      "author": "Rose Guardian Reya",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/9io-DIHavdw/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
     {
       "title": "Morimens \\\\ Прохождение Хард сюжетки (H5-11)",
       "summary": "Добровольная поддержка: https://www.donationalerts.com/r/closetom Напрямую: 2200700154063498 Т-Банк Соцсети: ...",
@@ -34,6 +51,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/7dBHXejC5oE/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Finishing up recording a few videos - Very boring. Will answer stuff",
+      "summary": "Don't know how long. Will be doing other stuff too.",
+      "source": "youtube",
+      "time": "2026-08-17T20:46:09Z",
+      "url": "https://www.youtube.com/watch?v=cVbOqdABPhU",
+      "engagement": 39,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/cVbOqdABPhU/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

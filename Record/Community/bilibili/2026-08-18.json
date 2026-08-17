@@ -1,9 +1,32 @@
 {
   "date": "2026-08-18",
-  "archived_at": "2026-08-17T18:37:16.452333+00:00",
+  "archived_at": "2026-08-17T21:25:39.467492+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
+    {
+      "title": "【沙耶之歌/同人手书/绘画】慢慢看不清你的臉..",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-17T19:30:40+00:00",
+      "url": "https://www.bilibili.com/video/BV1i6bq6rE4A",
+      "engagement": 26,
+      "is_hot": false,
+      "author": "二项线性",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 26,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/c877aa865d6ca9461a1606e72fdbf0af5b03d23e.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "大滴泪萝萝用长刃歪翻世界",
       "summary": "",
@@ -23,6 +46,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/b4edc28e62c33317caf4af90d886d3a412036e17.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "[忘却前夜]这是送给你的，最后的礼物",
+      "summary": "融灾最后一期纪念\n顶胡造物，血肉戒指，完美发牌，存档留念一下\n退坑倒不太可能，毕竟本身0氪0成本的玩意随便玩\n新融灾……再看？两周后又是一条好汉",
+      "source": "bilibili",
+      "time": "2026-08-17T20:35:27+00:00",
+      "url": "https://www.bilibili.com/video/BV1m7bq64E9r",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "陶醉2333",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 2,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/fa9078a6d6fc093bea6af66c7504b84aa30328bf.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

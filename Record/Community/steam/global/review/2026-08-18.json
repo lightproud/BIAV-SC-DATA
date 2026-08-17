@@ -1,8 +1,8 @@
 {
   "date": "2026-08-18",
-  "archived_at": "2026-08-17T18:37:16.482031+00:00",
+  "archived_at": "2026-08-17T21:25:39.545055+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] 有美女……",
@@ -22,6 +22,78 @@
         "playtime_forever": 307,
         "votes_up": 0,
         "timestamp_created": 1786985117
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] Очередное аниме говно",
+      "summary": "Очередное аниме говно",
+      "source": "steam_review",
+      "time": "2026-08-17T17:44:15+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199255638007/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199255638007",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 139,
+        "votes_up": 0,
+        "timestamp_created": 1786988655
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 福利特別多",
+      "summary": "福利特別多",
+      "source": "steam_review",
+      "time": "2026-08-17T17:27:10+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199743427832/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199743427832",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 6731,
+        "votes_up": 0,
+        "timestamp_created": 1786987630
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] I don't usually enjoy gacha games but Morimens is...",
+      "summary": "I don't usually enjoy gacha games but Morimens is absolutely amazing! The pulling system is extremely good and you get rewards constantly. It has stunning character designs and a unique, well written story.",
+      "source": "steam_review",
+      "time": "2026-08-17T17:22:53+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199855081609/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199855081609",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 10741,
+        "votes_up": 0,
+        "timestamp_created": 1786987373
       },
       "region": "global",
       "archive_subtype": "review",

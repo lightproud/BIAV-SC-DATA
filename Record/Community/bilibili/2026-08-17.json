@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-17T18:37:16.399815+00:00",
+  "archived_at": "2026-08-17T21:25:39.461590+00:00",
   "source": "bilibili",
-  "item_count": 23,
+  "item_count": 25,
   "items": [
     {
       "title": "不愧是古神竟然有两个背",
@@ -258,6 +258,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "如果忘却前夜有颜色…",
+      "summary": "去年刷到这种视频的时候，就想给忘却前夜做个，一直拖到现在，太忙了啊啊啊忙忙忙忙忙忙\n视频中的几位是我觉得比较符合的，请不要说 换成***可能会更合适，主包纯正玻璃心ORZ\n自己在相册看着还好，发到平台上怎么这么糊\n  └ 愿我能有个好名字 (0赞): 阿拉克涅",
+      "source": "bilibili",
+      "time": "2026-08-17T12:55:50+00:00",
+      "url": "https://www.bilibili.com/video/BV1A2bi6UEEL",
+      "engagement": 115,
+      "is_hot": false,
+      "author": "现梦风地力",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 114,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/9437f2df70aa1ba036f00d4713c698d8d828e596.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "『忘却前夜』融灾5-3实战",
       "summary": "依旧不容易 走运了",
       "source": "bilibili",
@@ -276,6 +299,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/9875ab6de436d7a1c827861c322f22a00e552866.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "小动画",
+      "summary": "因为生病了 所以最近没有更新 这是今天画画的时候弄出来的 画肠子就是画意大利面啊 那种裹满了肉酱的意大利面\n  └ AAA章鱼噼批发商 (1赞): 花耶，我来啦\n  └ AAA章鱼噼批发商 (0赞): 第一\n  └ 不解之海 (0赞): 首页通知书*13[doge]",
+      "source": "bilibili",
+      "time": "2026-08-16T23:26:03+00:00",
+      "url": "https://www.bilibili.com/video/BV1Wdbh6TEFf",
+      "engagement": 108,
+      "is_hot": false,
+      "author": "江花耶_",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 102,
+        "comment_count": 6,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/80854ee5b2b6a16bbd3537e1ffc05c73b55b6026.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
