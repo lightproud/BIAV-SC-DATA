@@ -1,8 +1,8 @@
 {
   "date": "2026-08-16",
-  "archived_at": "2026-08-17T09:40:05.746038+00:00",
+  "archived_at": "2026-08-17T12:39:30.781832+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 가이드 잘 되어있어 초보자도 가능",
@@ -16,6 +16,34 @@
       "tags": [],
       "lang": "ko",
       "platform_region": "kr",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Simply one of the best games I've ever d",
+      "summary": "Simply one of the best games I've ever downloaded. Character design, story, overall art, and ost along with the sfx is just wonderful godd, plus it's F2P friendly. Though there's 1 problem, they don't have a REAL translator, so they used ai (I'm not accusing them, they clearly stated that they use ai), which came out pretty weird, grammar errors here and there and bunch of jumbled word, you could still understand it so it's not that big of a deal. Peak games overall, recommended.",
+      "source": "google_play",
+      "time": "2026-08-16T11:49:31",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-5acd3989-6837-4db0-a7a2-14458d0e243e",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Naditya K",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 game chịu lắng nghe người chơi, game hay",
+      "summary": "game chịu lắng nghe người chơi, game hay, nhiều tài nguyên, điểm trừ duy nhất là gacha dễ lệch:) nhưng ko sao, cày kiểu gì cũng có hehe",
+      "source": "google_play",
+      "time": "2026-08-16T11:55:28",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=vi#gp-242459d8-5b04-4aa7-bf16-c013d696821b",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Hoa Lan Nhỏ",
+      "tags": [],
+      "lang": "vi",
+      "platform_region": "vn",
       "region": "global"
     }
   ],

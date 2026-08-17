@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-17T09:40:05.667177+00:00",
+  "archived_at": "2026-08-17T12:39:30.706996+00:00",
   "source": "steam",
-  "item_count": 8,
+  "item_count": 10,
   "items": [
     {
       "title": "[正面] 看到sr的时候嗅到了氪金手游的味道，打完序章跑路了。\n游戏不错，但在steam上，我还是想玩单机。...",
@@ -190,6 +190,54 @@
         "playtime_forever": 2312,
         "votes_up": 0,
         "timestamp_created": 1786954117
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Its a turn-based strategy game. I like the story a...",
+      "summary": "Its a turn-based strategy game. I like the story and recommend you to give a try, but I understand that its not the style of everyone\r\n\r\nThe music / vibe is awesome",
+      "source": "steam_review",
+      "time": "2026-08-17T11:47:32+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199835931706/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199835931706",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 339,
+        "votes_up": 0,
+        "timestamp_created": 1786967252
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] ID102150681，为什么steam登录授权登不上了。",
+      "summary": "ID102150681，为什么steam登录授权登不上了。",
+      "source": "steam_review",
+      "time": "2026-08-17T11:12:35+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198446884233/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198446884233",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 1036,
+        "votes_up": 0,
+        "timestamp_created": 1786965155
       },
       "region": "global",
       "archive_subtype": "review",
