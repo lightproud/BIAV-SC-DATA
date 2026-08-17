@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-17",
+  "archived_at": "2026-08-17T09:40:05.667714+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam新闻] V2.6.0 New Awakener✦Caraboo",
+      "summary": "\"So nice to meet you! I'm a Pale Fairy from faraway lands. Care to hear more? \"\"A fairy's blessing comes in different strengths, depending on your membership tier, hehe~\"✦ Caraboo VA: Kugimiya Rie",
+      "source": "official",
+      "time": "2026-08-17T07:00:02+00:00",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183785282",
+      "engagement": 0,
+      "is_hot": true,
+      "author": "lqx02483534",
+      "tags": [
+        "Community Announcements"
+      ],
+      "region": "global",
+      "archive_subtype": "news",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "news"
+}

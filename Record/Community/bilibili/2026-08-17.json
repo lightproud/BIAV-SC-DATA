@@ -1,9 +1,55 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-17T06:51:00.025124+00:00",
+  "archived_at": "2026-08-17T09:40:05.616677+00:00",
   "source": "bilibili",
-  "item_count": 5,
+  "item_count": 12,
   "items": [
+    {
+      "title": "不愧是古神竟然有两个背",
+      "summary": "刷了一天的肉块终于看到美少女了\n  └ 羲拉C3C (38赞): 谁还没交出两个圆圆的东西\n  └ 南小魅 (17赞): Upup，我是男孩子，昨天直播间被拿下了两次，不得不去换衣服。\n但还是被拿下了，说我穿的太紧了，凸显身材[笑哭]\n  └ 光旗鱼 (3赞): 看了一整天肉块可算看到美少女了",
+      "source": "bilibili",
+      "time": "2026-08-17T08:30:54+00:00",
+      "url": "https://www.bilibili.com/video/BV1S3bv6XENz",
+      "engagement": 1990,
+      "is_hot": true,
+      "author": "羲拉C3C",
+      "tags": [
+        "搞笑"
+      ],
+      "metadata": {
+        "play": 1967,
+        "comment_count": 23,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/b68f041f45597bbc0aea4626feae3b22113b6189.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "明明是由Sans组成的怪物，可在我眼中却是美丽的Chara",
+      "summary": "这才是AI的意义，而不是生成一个骷髅捂着肚子笑\n文案我 \n图片沙耶之歌+豆包\n剪辑我\n  └ 我是gfbj (5赞): 是啊……\n  └ 尘埃erer (3赞): 什么什么\n  └ UlyssesPhoenix (2赞): 看蛇了。",
+      "source": "bilibili",
+      "time": "2026-08-17T04:29:57+00:00",
+      "url": "https://www.bilibili.com/video/BV1QrbY6sEJu",
+      "engagement": 1059,
+      "is_hot": true,
+      "author": "Roitac",
+      "tags": [
+        "同人·手书"
+      ],
+      "metadata": {
+        "play": 1038,
+        "comment_count": 21,
+        "comments_fetched": 3,
+        "danmaku": 1
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/2b1711a85c2ced6015e44be88118b67aa10942da.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "【忘却前夜】8.17-8.31容灾攻略(最后一期425)",
       "summary": "└ 圈内多神语社区少真人 (1赞): [大哭]\n  └ 白牧月 (0赞): 皓哥发视频辛苦了[笑哭]\n  └ 白边薄荷 (0赞): 第三[星星眼]",
@@ -97,6 +143,98 @@
       "platform_region": "cn"
     },
     {
+      "title": "牢希n7血量测试初稿",
+      "summary": "等我换个号加强配置（）\n顺便再凹下造物",
+      "source": "bilibili",
+      "time": "2026-08-17T06:08:11+00:00",
+      "url": "https://www.bilibili.com/video/BV1A6ba6TE69",
+      "engagement": 77,
+      "is_hot": false,
+      "author": "偶陈陈陈",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 77,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/a75010725ba5b929b5387976ec68e6c12084304b.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "[忘却前夜]融灾5–5遭人嫌弃的超限杜皮组合与爱跳舞学姐的毕业典礼[青炎舞者]",
+      "summary": "450在我这大概都不会再上场了",
+      "source": "bilibili",
+      "time": "2026-08-17T08:56:39+00:00",
+      "url": "https://www.bilibili.com/video/BV1Nnbv6mEsL",
+      "engagement": 40,
+      "is_hot": false,
+      "author": "护林犬",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 40,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/fd9b6064980733a294afdba3b0a6688c70f8db8f.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "马列主义重拳出击！二次元纯爱天花板《沙耶之歌》到底有多反动？",
+      "summary": "└ 地上旮旯888 (0赞): 全部由ai制作 不代表本人观点 本人代投",
+      "source": "bilibili",
+      "time": "2026-08-17T05:34:07+00:00",
+      "url": "https://www.bilibili.com/video/BV1kEbY6gE6b",
+      "engagement": 39,
+      "is_hot": false,
+      "author": "地上旮旯888",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 38,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/737c2d04fc660f1e88cd346b0bcf28186d0687b3.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "牢希n7测试暂定稿",
+      "summary": "道中没做好状态还能优化（）\n  └ 烟已归 (0赞): 我了\n  └ -白云出岫- (0赞): 道中可能还是大问题[笑哭]",
+      "source": "bilibili",
+      "time": "2026-08-17T07:52:08+00:00",
+      "url": "https://www.bilibili.com/video/BV1Ubba6yEgP",
+      "engagement": 38,
+      "is_hot": false,
+      "author": "偶陈陈陈",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 36,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/a00eaffe1256b53b4f5a84a67f0463b1c239b6b5.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "瑶收到了来自已经失踪了的青海的短信，她没有做出判断的勇气……",
       "summary": "",
       "source": "bilibili",
@@ -115,6 +253,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/2908abee79eb9e1aee6739619c43a85c006320e5.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "诶？灯坏了吗？",
+      "summary": "诶嘿",
+      "source": "bilibili",
+      "time": "2026-08-17T08:08:12+00:00",
+      "url": "https://www.bilibili.com/video/BV1uVbv6pEgQ",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "小龙猫大能力",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 2,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/d2c66d68f8958671fef865eb5415a00d99185198.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

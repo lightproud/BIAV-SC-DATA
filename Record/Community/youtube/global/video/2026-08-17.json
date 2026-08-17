@@ -1,9 +1,26 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-17T06:51:00.025897+00:00",
+  "archived_at": "2026-08-17T09:40:05.617507+00:00",
   "source": "youtube",
-  "item_count": 12,
+  "item_count": 15,
   "items": [
+    {
+      "title": "Хранитель, я дойду до тебя.. 🗝#Morimens #cardbuilder #gacha #genshinimpact",
+      "summary": "Трек – Norma Tale и гокки - Сингулярность Соцсети: Стримы на твич: https://twitch.tv/closetom Информация по ...",
+      "source": "youtube",
+      "time": "2026-08-17T08:15:44Z",
+      "url": "https://www.youtube.com/watch?v=K4YmT12b5cU",
+      "engagement": 803,
+      "is_hot": false,
+      "author": "Closetom",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/K4YmT12b5cU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
     {
       "title": "[Morimens] Morimens Lore Stream Rant.",
       "summary": "Title.",
@@ -73,6 +90,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "【Morimens】Seinget gw game kartu, lupa dah.",
+      "summary": "vtuber #gaming #MinoguchiRomulus 【About】 Greetings, my name is Minoguchi Romulus, I'm an indie v-tuber and I mostly ...",
+      "source": "youtube",
+      "time": "2026-08-17T07:17:45Z",
+      "url": "https://www.youtube.com/watch?v=UIVSIdmho5U",
+      "engagement": 36,
+      "is_hot": false,
+      "author": "Minoguchi Romulus Ch.",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/UIVSIdmho5U/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "【忘却前夜】8-6　優等生、問題児←俺のことらしい",
       "summary": "最近本当に頭がおかしくて申し訳ない するといったことをできるような人間になります そうでない現時点じゃこの発言の真偽も ...",
       "source": "youtube",
@@ -85,6 +119,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/kAZ96t2jSO8/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "🦖 D-tide reset 400 ou + Morimens",
+      "summary": "Made with Restream. Livestream on 30+ platforms at once via https://restream.io enfin le reset semi hebdo et là let'z gow poncé le ...",
+      "source": "youtube",
+      "time": "2026-08-17T07:20:25Z",
+      "url": "https://www.youtube.com/watch?v=lfHr16lyj2A",
+      "engagement": 8,
+      "is_hot": false,
+      "author": "T-rex",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/lfHr16lyj2A/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

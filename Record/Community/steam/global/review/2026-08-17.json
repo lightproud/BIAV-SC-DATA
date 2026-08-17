@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-17T06:51:00.080528+00:00",
+  "archived_at": "2026-08-17T09:40:05.667177+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 8,
   "items": [
     {
       "title": "[正面] 看到sr的时候嗅到了氪金手游的味道，打完序章跑路了。\n游戏不错，但在steam上，我还是想玩单机。...",
@@ -118,6 +118,78 @@
         "playtime_forever": 1132,
         "votes_up": 0,
         "timestamp_created": 1786943345
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 版本膨脹過度實測課金破千美刀+500小時以上的練度,無法打贏融災試煉(這是等級突破唯一的獲取途徑),...",
+      "summary": "版本膨脹過度實測課金破千美刀+500小時以上的練度,無法打贏融災試煉(這是等級突破唯一的獲取途徑),陷入等級不夠去刷材料,刷不到材料去提升等級的死循環。建議等營運願意降低水溫再來玩,不然這遊戲就只能購買大佬帳號,新手那怕把課金選項全課滿+願意花費大量時間肝練度,也是無法拿到理應人人都有份的等級突破材料。",
+      "source": "steam_review",
+      "time": "2026-08-17T08:42:44+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198139282461/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198139282461",
+      "tags": [
+        "tchinese"
+      ],
+      "language": "tchinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 30931,
+        "votes_up": 0,
+        "timestamp_created": 1786956164
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] I still don't know what I'm doing",
+      "summary": "I still don't know what I'm doing",
+      "source": "steam_review",
+      "time": "2026-08-17T08:10:35+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199591357114/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199591357114",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 4830,
+        "votes_up": 0,
+        "timestamp_created": 1786954235
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] peak",
+      "summary": "peak",
+      "source": "steam_review",
+      "time": "2026-08-17T08:08:37+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198930206853/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198930206853",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2312,
+        "votes_up": 0,
+        "timestamp_created": 1786954117
       },
       "region": "global",
       "archive_subtype": "review",

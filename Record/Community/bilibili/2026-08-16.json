@@ -1,8 +1,8 @@
 {
   "date": "2026-08-16",
-  "archived_at": "2026-08-17T03:49:29.252730+00:00",
+  "archived_at": "2026-08-17T09:40:05.619029+00:00",
   "source": "bilibili",
-  "item_count": 8,
+  "item_count": 11,
   "items": [
     {
       "title": "（二补）明明是飞马白粥组成的怪物，在我眼中却是美丽的少女",
@@ -46,6 +46,75 @@
         "danmaku": 2
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/ba3f74e45f540a85308bf6d563b22a53f0c23eb6.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "老兰之歌但沙耶香唱",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-16T14:08:48+00:00",
+      "url": "https://www.bilibili.com/video/BV1J2bR6hEZs",
+      "engagement": 176,
+      "is_hot": false,
+      "author": "老兰是官配",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 176,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 1
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/2c93d9a719f85d4cf7efa287e67cda88dba07af0.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "游戏安利向助眠",
+      "summary": "不建议戴耳机听，杂音蛮多的。",
+      "source": "bilibili",
+      "time": "2026-08-16T15:38:40+00:00",
+      "url": "https://www.bilibili.com/video/BV1gWbR67EPm",
+      "engagement": 135,
+      "is_hot": false,
+      "author": "阿源尔尔",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 135,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/ef65214b43f177c699caa6d6976a73bc77932db0.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "永远是多久？",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-16T14:26:53+00:00",
+      "url": "https://www.bilibili.com/video/BV1JUbR6cESY",
+      "engagement": 129,
+      "is_hot": false,
+      "author": "彻销植物",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 129,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/6bb1bf63eaaeb7b795357ce33a70d0221d182b77.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
