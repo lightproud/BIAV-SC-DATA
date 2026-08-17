@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-17T12:39:30.646684+00:00",
+  "archived_at": "2026-08-17T15:24:09.438774+00:00",
   "source": "youtube",
-  "item_count": 21,
+  "item_count": 22,
   "items": [
     {
       "title": "Хранитель, я дойду до тебя.. 🗝#Morimens #cardbuilder #gacha #genshinimpact",
@@ -136,6 +136,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/kAZ96t2jSO8/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Special Ops: &quot;24&quot; Serene Fission ~ Did Chapter 2 last week so time to see 24&#39;s backstory!",
+      "summary": "Yoz everyone, I'm Rozarai, a undead virtual YouTuber. Welcome to my stream and enjoy your stay! Socials Twitter: ...",
+      "source": "youtube",
+      "time": "2026-08-17T13:23:53Z",
+      "url": "https://www.youtube.com/watch?v=hbPA0exBBqk",
+      "engagement": 11,
+      "is_hot": false,
+      "author": "Roz Arai Ch.",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/hbPA0exBBqk/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

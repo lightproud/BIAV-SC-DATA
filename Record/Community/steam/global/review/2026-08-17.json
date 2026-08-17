@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-17T12:39:30.706996+00:00",
+  "archived_at": "2026-08-17T15:24:09.500977+00:00",
   "source": "steam",
-  "item_count": 10,
+  "item_count": 11,
   "items": [
     {
       "title": "[正面] 看到sr的时候嗅到了氪金手游的味道，打完序章跑路了。\n游戏不错，但在steam上，我还是想玩单机。...",
@@ -238,6 +238,30 @@
         "playtime_forever": 1036,
         "votes_up": 0,
         "timestamp_created": 1786965155
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 原神nb",
+      "summary": "原神nb",
+      "source": "steam_review",
+      "time": "2026-08-17T14:49:45+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199060934447/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199060934447",
+      "tags": [
+        "tchinese"
+      ],
+      "language": "tchinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 1717,
+        "votes_up": 0,
+        "timestamp_created": 1786978185
       },
       "region": "global",
       "archive_subtype": "review",
