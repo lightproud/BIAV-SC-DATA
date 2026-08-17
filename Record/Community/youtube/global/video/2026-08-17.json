@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-16T21:18:50.600436+00:00",
+  "archived_at": "2026-08-17T01:06:55.495369+00:00",
   "source": "youtube",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Morimens] Morimens Lore Stream Rant.",
@@ -34,6 +34,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/FB_l9Wy9DS4/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] THE LAST ALERT D-TIDE Stream",
+      "summary": "Don't know how long. Will be doing other stuff too.",
+      "source": "youtube",
+      "time": "2026-08-17T01:06:03Z",
+      "url": "https://www.youtube.com/watch?v=SQVsayaXTKU",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/SQVsayaXTKU/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

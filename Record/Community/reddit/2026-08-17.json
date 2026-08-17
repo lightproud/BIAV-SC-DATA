@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-16T21:18:50.679409+00:00",
+  "archived_at": "2026-08-17T01:06:55.569247+00:00",
   "source": "reddit",
-  "item_count": 6,
+  "item_count": 9,
   "items": [
     {
       "title": "Milk?",
@@ -109,6 +109,56 @@
       },
       "media_url": "https://preview.redd.it/hhpd1vcfpsjh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b552599a4a4867f89f542d9cfaa5112b7cebe603",
       "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Tentative covenant bonding plan",
+      "summary": "Thought I&#39;d share my tentative covenant bonding plans. Looking forward to the feature a bit and am interested if there&#39;s obvious tech I&#39;m missing out on. Dreams on Tawil/GDoll is ofc good if you&#39;re carrying with them which I generally don&#39;t.  &#32; submitted by &#32;  /u/parmreggiano   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-16T23:51:08+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vqch19/tentative_covenant_bonding_plan/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/parmreggiano",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/tza1rq3uqtjh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=afa22252e0ceca804e037f774ffed6d0bcc06441",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Arc 2 packages?",
+      "summary": "Does anyone a screenshot or can at least provide a list of the contents and price for Arc 2 chapter competition FOMO packages?  Are they a better deal than the chapter pre-order package?  &#32; submitted by &#32;  /u/tenxsmtch   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-16T21:33:07+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vq9ayy/arc_2_packages/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/tenxsmtch",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "When does the story get into gear?",
+      "summary": "Hi, downloaded the game on a whim because I&#39;m a big fan of Slay the Spire and I&#39;m enjoying the team making, combat and general item acquisition and progression within the game. However, the intro cinematics were cool and the epilogue intriguing, but the first act seems like a bit of a slog story-wise as I come to the end of it. I&#39;ve kind of set it to x3 speed and read like half the text when I think it may be interesting, am I missing out on too much with the other acts or should I just set it fully to skip and maybe watch a video essay instead on Youtube afterwards? I like the character design and their quirks however the writing itself seems uninspired; when would you say the story peaks?  &#32; submitted by &#32;  /u/Lavender_Critique   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-16T21:27:10+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vq95wk/when_does_the_story_get_into_gear/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/Lavender_Critique",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
       "lang": "en",
       "platform_region": "global"
     }

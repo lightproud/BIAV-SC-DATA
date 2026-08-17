@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-16T21:18:50.680631+00:00",
+  "archived_at": "2026-08-17T01:06:55.570800+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[正面] 看到sr的时候嗅到了氪金手游的味道，打完序章跑路了。\n游戏不错，但在steam上，我还是想玩单机。...",
@@ -22,6 +22,30 @@
         "playtime_forever": 116,
         "votes_up": 0,
         "timestamp_created": 1786901148
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 美术风格无敌，人物的文学性等很强，机制还好",
+      "summary": "美术风格无敌，人物的文学性等很强，机制还好",
+      "source": "steam_review",
+      "time": "2026-08-16T20:35:42+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198662899804/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198662899804",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 4557,
+        "votes_up": 0,
+        "timestamp_created": 1786912542
       },
       "region": "global",
       "archive_subtype": "review",
