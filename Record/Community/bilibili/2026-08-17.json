@@ -1,9 +1,78 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-17T01:06:55.496538+00:00",
+  "archived_at": "2026-08-17T03:49:29.253533+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 5,
   "items": [
+    {
+      "title": "【忘却前夜】8.17-8.31容灾攻略(最后一期425)",
+      "summary": "└ 圈内多神语社区少真人 (1赞): [大哭]\n  └ 白牧月 (0赞): 皓哥发视频辛苦了[笑哭]\n  └ 白边薄荷 (0赞): 第三[星星眼]",
+      "source": "bilibili",
+      "time": "2026-08-17T02:53:36+00:00",
+      "url": "https://www.bilibili.com/video/BV1c6b86bE86",
+      "engagement": 705,
+      "is_hot": true,
+      "author": "金发女人丨型",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 699,
+        "comment_count": 6,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/77c71efc98ee89d0ef9192b270c7e3f4084e5139.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "『忘却前夜』融灾5-3实战",
+      "summary": "依旧不容易 走运了",
+      "source": "bilibili",
+      "time": "2026-08-16T16:28:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1EKbR6fEzr",
+      "engagement": 108,
+      "is_hot": false,
+      "author": "九夏倦恋77",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 108,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/9875ab6de436d7a1c827861c322f22a00e552866.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【源石之歌】明明是源石孕育的怪物，在我眼中却是美丽的少女",
+      "summary": "沙耶之果太强了→BV1wSL96YEhp\n  └ 安格修Angle-X (0赞): ！？牢博？！",
+      "source": "bilibili",
+      "time": "2026-08-17T02:00:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1USgK6bE3t",
+      "engagement": 106,
+      "is_hot": false,
+      "author": "安格修Angle-X",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 105,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/3f704195bc5bfa762576d4193e4bef2bd2bb4129.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "Sorry.",
       "summary": "I am sorry.",
@@ -23,6 +92,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/f94926d5162be3bcd7c0271cb44d6c5ca0f2da87.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "瑶收到了来自已经失踪了的青海的短信，她没有做出判断的勇气……",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-17T03:30:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1ndbb6bEee",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "朗克清",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 2,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/2908abee79eb9e1aee6739619c43a85c006320e5.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

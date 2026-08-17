@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-17T01:06:55.498110+00:00",
+  "archived_at": "2026-08-17T03:49:29.257365+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Steam论坛] Why so little players count ?",
@@ -13,6 +13,23 @@
       "engagement": 31,
       "is_hot": true,
       "author": "Loot_goblin_Lord",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam论坛] Using the Origin of Time to reset an Awakener",
+      "summary": "When I use the Origin of Time to reset an Awakener, do I also get all the resources previously spent to upgrade her back? Are they reimbursed, or lost?",
+      "source": "steam_discussion",
+      "time": "2026-08-17T02:12:16+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/603038271247775153/",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Fanta",
       "tags": [
         "steam_forum"
       ],
