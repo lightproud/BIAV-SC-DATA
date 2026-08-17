@@ -1,25 +1,27 @@
 {
   "date": "2026-08-17",
-  "messages": 725,
+  "messages": 762,
   "unique_authors": 21,
-  "reactions_total": 100,
-  "attachments": 15,
+  "reactions_total": 118,
+  "attachments": 19,
   "channel_activity": {
-    "なんでも雑談": 663,
+    "なんでも雑談": 697,
+    "誰でもOKグロ版野次馬スレ": 23,
     "思想汚染(うちcp)の話し": 1,
     "ニムフィーアの毒パ研究日誌": 1,
     "つぶやき": 20,
-    "誰でもOKグロ版野次馬スレ": 20,
     "ガチャ結果報告": 4,
     "覚醒体「クレメンタイン」の性能内容を先行公開！": 3,
     "🔰初心者質問": 8,
     "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 5
   },
   "hourly_activity": {
+    "13": 10,
+    "14": 4,
+    "15": 29,
     "10": 283,
     "11": 53,
     "12": 10,
-    "13": 6,
     "7": 21,
     "8": 40,
     "9": 256,
@@ -31,8 +33,8 @@
     "2": 2
   },
   "message_types": {
-    "0": 697,
-    "19": 28
+    "0": 732,
+    "19": 30
   },
   "top_reacted_messages": [
     {
@@ -44,12 +46,28 @@
       "channel": "なんでも雑談"
     },
     {
+      "id": "1538920973238140928",
+      "channel_id": "1377478664609857647",
+      "content": "https://note.com/botibotikuronuma/n/na66f4339c525",
+      "author": "zzzorz",
+      "reactions": 8,
+      "channel": "なんでも雑談"
+    },
+    {
       "id": "1538835603729289246",
       "channel_id": "1538835603729289246",
       "content": "「忘却前夜」をお楽しみいただき、誠にありがとうございます。\n忘却前夜運営チームです。\n\n8月20日に追加予定の新覚醒体「クレメンタイン」と\n新運命の札「埋もれた",
       "author": "mythag_navigator",
       "reactions": 7,
       "channel": "覚醒体「クレメンタイン」の性能内容を先行公開！"
+    },
+    {
+      "id": "1538908916987990138",
+      "channel_id": "1377478664609857647",
+      "content": "本日のパーフェクトお姉様",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 5,
+      "channel": "なんでも雑談"
     },
     {
       "id": "1538833470409678890",
@@ -65,6 +83,14 @@
       "content": "ごめんなかったわ",
       "author": "yasaizujusu",
       "reactions": 5,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1538935013138243684",
+      "channel_id": "1377478664609857647",
+      "content": "つかれた（7章踏破）",
+      "author": "kodos0782",
+      "reactions": 4,
       "channel": "なんでも雑談"
     },
     {
@@ -169,30 +195,6 @@
       "content": "持ち越し可能ならめっちゃ使い勝手良いんだけどなー！",
       "author": "sugoitsubasanohaetaop",
       "reactions": 2,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1538852219812847707",
-      "channel_id": "1377478664609857647",
-      "content": "一時的だったはず",
-      "author": "zzzorz",
-      "reactions": 2,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1538796539890237450",
-      "channel_id": "1377478664609857647",
-      "content": "性能来るのワンチャン今日か",
-      "author": "kuroneko4253",
-      "reactions": 2,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1538856692266041416",
-      "channel_id": "1377478664609857647",
-      "content": "バリバリ司令カードで戦うから俺はマジで嬉しい",
-      "author": "kuroneko4253",
-      "reactions": 1,
       "channel": "なんでも雑談"
     }
   ]
