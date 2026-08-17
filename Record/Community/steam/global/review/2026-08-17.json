@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-17T03:49:29.322792+00:00",
+  "archived_at": "2026-08-17T06:51:00.080528+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[正面] 看到sr的时候嗅到了氪金手游的味道，打完序章跑路了。\n游戏不错，但在steam上，我还是想玩单机。...",
@@ -94,6 +94,30 @@
         "playtime_forever": 10414,
         "votes_up": 0,
         "timestamp_created": 1786931120
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] There's a very long very negative review here that...",
+      "summary": "There's a very long very negative review here that almost turned me away from trying this game. I won't name anybody or anything, just mentioning that I saw it and it factored into my hesitation.\n\nI'm really glad to have given this game a chance. IDK if being f2p will \"entitle\" me to all of the pulls available from the endgame loop, but I don't really care. This is probably the only gacha I've played where as long as I can clear the stories I'm good. The art and the chapters are great. Really great.  It's generous enough that I'm not having any trouble putting together teams to clear the content I care about. It's still really early for me, so IDK if there's a wall on this content, and if there is, I'll still be happy to have played until then. \n\nThis is beautiful, creepy, and well written. It's Slay the Spire with a Nechronica-esque visual novel on top. If you're interested you should give it a chance. If it would be your first gacha, the pull (banner) system is a touch more confusing than most, I'd look up a video and trial a bunch of characters before committing resources. The faction mechanics are very different from each other.\n\nAll gacha teeter on the brink of predation vs liquidation. It is literally the genre. Unless you are a money printer, there will be time gates and missed opportunities. If FOMO kills you, or if you have low self-control, it can cause genuine issues. If you are willing to \"take what you can get\" and realize the game \"ends\" where your boundaries start, you'll have a excellent time with this one I think.",
+      "source": "steam_review",
+      "time": "2026-08-17T05:09:05+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198251578784/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198251578784",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1132,
+        "votes_up": 0,
+        "timestamp_created": 1786943345
       },
       "region": "global",
       "archive_subtype": "review",
