@@ -1,10 +1,62 @@
 {
   "date": "2026-08-17",
-  "messages": 17928,
+  "messages": 27507,
   "unique_authors": 446,
-  "reactions_total": 1540,
-  "attachments": 838,
+  "reactions_total": 3344,
+  "attachments": 1335,
   "channel_activity": {
+    "🔸morimens-game-chat": 9137,
+    "攻略碎碎念 -- 論如何跨lv打boss#V2.5攻略征集# #MorimensGameGuide": 1,
+    "尽情发挥自己的想法写故事": 11,
+    "好好休息吧，小宝贝 || 西维斯特": 1,
+    "天鵝翱翔（但未完成": 3,
+    "这个那个": 1,
+    "服务器出bug了": 1,
+    "Doresain's rouse: fixed damage killing enemies on exalt does not trigger death analysis effect": 9,
+    "Singularity Prism applies to Pursuit: Dramatic Encounter": 9,
+    "Kill stealing, we could fix it": 11,
+    "# 取消300抽加三圍# Cancel 300 normal pull for stats# 要求新系統提供更高的三圍 (50% up) # Demand the new system gr": 1,
+    "Morimens Merchandise Artbook?": 1,
+    "Increase the points gain by extra clears in new dzone to 10": 6,
+    "Great Wall not appearing after fusion": 1,
+    "希望对新列车进行平衡调整 Request for a train event balance patch": 2,
+    "Training Dummy": 1,
+    "Are there any plans to fix iOS version of game?": 1,
+    "Talent for everyone?": 3,
+    "sp蘿坦1啟描述建議優化": 1,
+    "Lotan: Cetarchon exalt damage number does not line up with the hit after update V2.5.3.3": 9,
+    "Lotan: Cetarchon voice lines after update V2.5.3.3": 48,
+    "Additional Record Filters": 2,
+    "Amber-Tinted Death does not benefit from PChaos stat enhancement": 6,
+    "Quadra / 4-Realm Rerun Banners": 22,
+    "Skin Preview": 4,
+    "Please rework how Propagation Caro works for the future units": 24,
+    "💭「Processing」game client crashed...somewhat": 2,
+    "V2.5.1.0 停服维护公告": 8,
+    "关于游戏自造语：古代利莫里亚语": 2,
+    ":man_detective: 相位對弈：對戰表情 ┊ Emotes": 1,
+    "「官方素材」頻道使用說明": 3,
+    "oc stuff…………….": 8,
+    "Pickman Sketch": 4,
+    "Aurita and Aqua (Aqua from Deltarune)": 10,
+    "The greatest and bestest(I know it's not a word) creations of Katz!": 96,
+    "\"Did you do your homework?\"": 8,
+    "YoruWiki ! ( hameln pic dumps for every1 !! )": 1,
+    "Vortice 🌀": 1,
+    "Elton WIP": 2,
+    "Arsen's Doodle corner": 1,
+    "MOUCHETTE BEST GIRL (mimi unhinged ramble + art sometimes)": 3,
+    "William posting": 1,
+    "🎶 《忘却前夜》原声音乐集即将上线 Steam┊Morimens OST, Coming Soon to Steam┊모리멘스 원작 음악집, 곧 Steam에 출시": 1,
+    "V2.6.0 全新唤醒体✦卡拉布┊New Awakener✦Caraboo┊신규 각성체✦카라부": 74,
+    "V2.6.0 纯玩旅行团：雪山七日深度游┊The \"Truly Breathtaking\" Snowy Peak 7-Day VIP Blitz!┊순수 패키지여행 상품: 설산에서 보내는 7일간의": 3,
+    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 3,
+    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1,
+    "忘卻8—12要怎過？": 21,
+    "打星辰4和融災好吃力": 1,
+    "Who to go for?": 3,
+    "What are the best ways to spend prime silver?": 2,
+    "【Newcomer Help】Forum Introduction": 3,
     "🔸綜合討論": 1465,
     "🔸阵容构建": 15,
     "🔸晒卡分享": 3,
@@ -32,37 +84,142 @@
     "🔸general-chat": 8013
   },
   "hourly_activity": {
-    "0": 1357,
-    "1": 1113,
-    "2": 730,
-    "3": 410,
-    "4": 438,
-    "5": 693,
-    "6": 241,
-    "7": 763,
-    "8": 937,
-    "9": 596,
-    "10": 450,
-    "11": 429,
-    "12": 708,
-    "13": 915,
-    "14": 920,
-    "15": 732,
-    "16": 550,
-    "17": 334,
-    "18": 587,
-    "19": 1143,
-    "20": 720,
-    "21": 741,
-    "22": 1261,
-    "23": 1160
+    "0": 1781,
+    "1": 1508,
+    "2": 973,
+    "3": 834,
+    "4": 650,
+    "5": 960,
+    "6": 583,
+    "7": 1172,
+    "8": 1202,
+    "9": 875,
+    "10": 962,
+    "11": 909,
+    "12": 1181,
+    "13": 1341,
+    "14": 1281,
+    "15": 1272,
+    "16": 1047,
+    "17": 847,
+    "18": 1055,
+    "19": 1645,
+    "20": 993,
+    "21": 1018,
+    "22": 1569,
+    "23": 1849
   },
   "message_types": {
-    "0": 11461,
-    "19": 6420,
-    "20": 47
+    "0": 17368,
+    "19": 10077,
+    "20": 59,
+    "6": 3
   },
   "top_reacted_messages": [
+    {
+      "id": "1538804582241804389",
+      "channel_id": "1538804582241804389",
+      "content": "**V2.6.0 全新唤醒体✦卡拉布**\n\n「初次见面，我是来自远方的苍白仙女，有兴趣了解一下吗？」\n「仙女赐福根据会费档次有不同强度哦，嘻嘻~」\n✦ 卡拉布C",
+      "author": "morimensstaff06",
+      "reactions": 55,
+      "channel": "V2.6.0 全新唤醒体✦卡拉布┊New Awakener✦Caraboo┊신규 각성체✦카라부"
+    },
+    {
+      "id": "1538829870610784256",
+      "channel_id": "1538804582241804389",
+      "content": "If this turns out to be the best Caraboo team. How angry would you be? from 1-10",
+      "author": "xyakoto",
+      "reactions": 49,
+      "channel": "V2.6.0 全新唤醒体✦卡拉布┊New Awakener✦Caraboo┊신규 각성체✦카라부"
+    },
+    {
+      "id": "1538852292264992779",
+      "channel_id": "1538852292264992779",
+      "content": "各位守密人：\n\n        校园中熟悉的旋律，将迎来一处新的可供长久典藏的地方。我们计划于在 Steam 平台陆续上架《忘却前夜》原声音乐集，近期即将上架的",
+      "author": "morimensstaff06",
+      "reactions": 35,
+      "channel": "🎶 《忘却前夜》原声音乐集即将上线 Steam┊Morimens OST, Coming Soon to Steam┊모리멘스 원작 음악집, 곧 Steam에 출시"
+    },
+    {
+      "id": "1538792884306976898",
+      "channel_id": "1534858900522664026",
+      "content": "<@1487626955791663208> btw, since you pinged everyone, does it count towards thi",
+      "author": "sinistar_intent",
+      "reactions": 33,
+      "channel": "Lotan: Cetarchon voice lines after update V2.5.3.3"
+    },
+    {
+      "id": "1538838877790535760",
+      "channel_id": "1534858900522664026",
+      "content": "Well, this day was always going to come...",
+      "author": "lightproud",
+      "reactions": 33,
+      "channel": "Lotan: Cetarchon voice lines after update V2.5.3.3"
+    },
+    {
+      "id": "1538811903462088724",
+      "channel_id": "1537717449972256808",
+      "content": "**V2.6.0 Chuyến Tham Quan 7 Ngày \"Tuyệt Đỉnh\" Trên Núi Tuyết **\n\n🎵 VỊN TAY ANH E",
+      "author": "morimensstaff06",
+      "reactions": 23,
+      "channel": "V2.6.0 纯玩旅行团：雪山七日深度游┊The \"Truly Breathtaking\" Snowy Peak 7-Day VIP Blitz!┊순수 패키지여행 상품: 설산에서 보내는 7일간의"
+    },
+    {
+      "id": "1538823620304961556",
+      "channel_id": "1538823620304961556",
+      "content": "As far as I know, Doresain's fixed damage on his exalt gives corpses and also pu",
+      "author": "glitzy_x",
+      "reactions": 22,
+      "channel": "Doresain's rouse: fixed damage killing enemies on exalt does not trigger death analysis effect"
+    },
+    {
+      "id": "1538783190007681139",
+      "channel_id": "1534858900522664026",
+      "content": "@everyone\n\nSorry for the slow reply, I've been tied up with other work.\n\nThis ch",
+      "author": "lightproud",
+      "reactions": 18,
+      "channel": "Lotan: Cetarchon voice lines after update V2.5.3.3"
+    },
+    {
+      "id": "1538842408060461136",
+      "channel_id": "1170692781216378960",
+      "content": "꒯ꄲꋊ'꓄ ꂵꉣꋪꏂꍌ ꂵꏂ!",
+      "author": "hollow_xhk",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1538878258240819342",
+      "channel_id": "1170692781216378960",
+      "content": "Chaos jail <:Leigh_love:1468258513405870121>",
+      "author": "mythicmoonwort",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1538949980700549140",
+      "channel_id": "1170692781216378960",
+      "content": "https://x.com/i/status/2089391120791089428",
+      "author": "jmjmjm6667",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1538853800318865509",
+      "channel_id": "1538804582241804389",
+      "content": "**V2.6.0 — Новая Пробуждëнная: Карабу**\n\n«Так рада нашему знакомству! Я — Бледна",
+      "author": "morimensstaff06",
+      "reactions": 11,
+      "channel": "V2.6.0 全新唤醒体✦卡拉布┊New Awakener✦Caraboo┊신규 각성체✦카라부"
+    },
+    {
+      "id": "1538832507670364210",
+      "channel_id": "1524457119955554374",
+      "content": "",
+      "author": "wjcjskw",
+      "reactions": 10,
+      "channel": "这个那个"
+    },
     {
       "id": "1538765705825230918",
       "channel_id": "1131839817982947429",
@@ -70,6 +227,14 @@
       "author": "0.0._.0_0.",
       "reactions": 10,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538838725566533692",
+      "channel_id": "1170692781216378960",
+      "content": "good day for me",
+      "author": "skvr3",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1538963278271742124",
@@ -80,148 +245,36 @@
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1538743201328791683",
-      "channel_id": "1131839817982947429",
-      "content": "挺简单的啊",
-      "author": "ponponnyaru",
+      "id": "1538726049150402563",
+      "channel_id": "1170692781216378960",
+      "content": "TLDR I spent 1.5k on maxing the first hyper carry that released when the game ac",
+      "author": "warp3000",
       "reactions": 8,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1538910669225726035",
-      "channel_id": "1131839817982947429",
-      "content": "何意味...",
-      "author": "quackdayo",
+      "id": "1538786471157170236",
+      "channel_id": "1170692781216378960",
+      "content": "?afk sleeping",
+      "author": "serahh__",
       "reactions": 8,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1538924307852427305",
-      "channel_id": "1131839817982947429",
-      "content": "+12大佬🛐 🛐 🛐",
-      "author": "0.0._.0_0.",
+      "id": "1538940670398431293",
+      "channel_id": "1170692781216378960",
+      "content": "<@1060975277531992145> did it for you",
+      "author": "gersona6",
       "reactions": 8,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1538700945754693632",
-      "channel_id": "1400750050208125010",
-      "content": "catfishing.net\n#784 - 0/10\n🐟🐟🐟🐟🐟\n🐟🐟🐟🐟🐟",
-      "author": "syruponstrawberrycake",
+      "id": "1538953761366745129",
+      "channel_id": "1170692781216378960",
+      "content": "caro was always much better than other realms honestly deserved",
+      "author": "chuddest.",
       "reactions": 8,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1538921052988514404",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "foxcatfurry",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538761502813851748",
-      "channel_id": "1131839817982947429",
-      "content": "🫡",
-      "author": "xyakoto",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538777907374194698",
-      "channel_id": "1174983699935277147",
-      "content": "我有90级朵了  \n所以有人要借我的银钥朵嘛<:Lily_wow:1356084702468899117>",
-      "author": "sweet_25367",
-      "reactions": 6,
-      "channel": "🔸晒卡分享"
-    },
-    {
-      "id": "1539049901651009558",
-      "channel_id": "1433513650299076780",
-      "content": "kind of a dumb question but is glotan the same thing as lotan: cetarchon?",
-      "author": "eyo.io",
-      "reactions": 6,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1538702630023598110",
-      "channel_id": "1400750050208125010",
-      "content": "guys",
-      "author": "serahh__",
-      "reactions": 6,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1538703623351963688",
-      "channel_id": "1400750050208125010",
-      "content": "@avery",
-      "author": "serahh__",
-      "reactions": 6,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1538703944774066257",
-      "channel_id": "1400750050208125010",
-      "content": "https://klipy.com/gifs/rose-blackpink-rose-5",
-      "author": "serahh__",
-      "reactions": 6,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1538722162083500063",
-      "channel_id": "1400750050208125010",
-      "content": "kill mimi",
-      "author": "princess.goth",
-      "reactions": 6,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1538797944944328736",
-      "channel_id": "1131839817982947429",
-      "content": "馬上去儲一個<:Horla_cry:1357186646294138890>",
-      "author": "oiia_0216",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538879264101896242",
-      "channel_id": "1131839817982947429",
-      "content": "融災開打",
-      "author": "arthasiv",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1539019404543529032",
-      "channel_id": "1433513650299076780",
-      "content": "\"Ah, great channel you have there! Imma go show my appreciation of this channel ",
-      "author": "watchthew0rldburn",
-      "reactions": 5,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1538699149522767983",
-      "channel_id": "1400750050208125010",
-      "content": "can i join the secret discord",
-      "author": "princess.goth",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1538701211400675418",
-      "channel_id": "1400750050208125010",
-      "content": "Lowk we might have to rob u",
-      "author": "serahh__",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1538701383530717234",
-      "channel_id": "1400750050208125010",
-      "content": "when a boy cant accept your boundaries in bed immeditaly lleave him because he m",
-      "author": "chaoticreaper5932",
-      "reactions": 5,
-      "channel": "🔸general-chat"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

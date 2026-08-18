@@ -1,10 +1,11 @@
 {
   "date": "2026-08-09",
-  "messages": 16539,
+  "messages": 23850,
   "unique_authors": 299,
-  "reactions_total": 1312,
-  "attachments": 754,
+  "reactions_total": 2097,
+  "attachments": 1043,
   "channel_activity": {
+    "🔸morimens-game-chat": 7311,
     "🔸general-chat": 7403,
     "🔸綜合討論": 962,
     "🔸剧情交流": 11,
@@ -73,39 +74,56 @@
     "【English Translation】Opinions Collection": 2
   },
   "hourly_activity": {
-    "0": 794,
-    "1": 620,
-    "2": 802,
-    "3": 221,
-    "4": 140,
-    "5": 235,
-    "6": 228,
-    "7": 852,
-    "8": 556,
-    "9": 416,
-    "10": 698,
-    "11": 315,
-    "12": 627,
-    "13": 646,
-    "14": 1092,
-    "15": 717,
-    "16": 789,
-    "17": 1181,
-    "18": 1072,
-    "19": 624,
-    "20": 817,
-    "21": 805,
-    "22": 1023,
-    "23": 1269
+    "0": 1108,
+    "1": 998,
+    "2": 1378,
+    "3": 684,
+    "4": 313,
+    "5": 334,
+    "6": 365,
+    "7": 1022,
+    "8": 956,
+    "9": 862,
+    "10": 1121,
+    "11": 863,
+    "12": 1019,
+    "13": 1081,
+    "14": 1216,
+    "15": 864,
+    "16": 1030,
+    "17": 1547,
+    "18": 1447,
+    "19": 1043,
+    "20": 1116,
+    "21": 1058,
+    "22": 1093,
+    "23": 1332
   },
   "message_types": {
-    "0": 11289,
-    "19": 5197,
-    "20": 49,
-    "6": 3,
+    "0": 15937,
+    "19": 7848,
+    "20": 54,
+    "6": 4,
+    "46": 6,
     "4": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1536117588067753994",
+      "channel_id": "1170692781216378960",
+      "content": "4 more hours til the best dps banner alongside mouch",
+      "author": "dores3331",
+      "reactions": 20,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1535993705566310401",
+      "channel_id": "1170692781216378960",
+      "content": "Me with mouch",
+      "author": "cooked_chicken99",
+      "reactions": 18,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1536003484107677837",
       "channel_id": "1536003484107677837",
@@ -179,12 +197,60 @@
       "channel": "Temporarily reduce Investment Level to match New Players for Story Mode Clears"
     },
     {
+      "id": "1535847492439113749",
+      "channel_id": "1170692781216378960",
+      "content": "if you underrate corpo im telling your wife about the affair with the axe lady",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1535919384629870623",
+      "channel_id": "1170692781216378960",
+      "content": "making this a reality",
+      "author": "fishhazardthewizard",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1535890098137211001",
       "channel_id": "1535890098137211001",
       "content": "https://x.com/SaminDraws/status/2086327009311879575?s=20",
       "author": "samin_",
       "reactions": 7,
       "channel": "Doll: Inferno 🧠"
+    },
+    {
+      "id": "1535830568787378256",
+      "channel_id": "1170692781216378960",
+      "content": "Possibly my luckiest banner pull in any Gacha 😭",
+      "author": ".ashborne.",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1535939363819491348",
+      "channel_id": "1170692781216378960",
+      "content": "https://cdn.discordapp.com/attachments/1170692781216378960/1534837127160922142/i",
+      "author": "alistiel",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1536050397284925480",
+      "channel_id": "1170692781216378960",
+      "content": "ok finally done who were the Karen people again https://bsky.app/profile/mosske.",
+      "author": "mosske",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1536067686243635210",
+      "channel_id": "1170692781216378960",
+      "content": "More car",
+      "author": "leviathxan",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1536158787575095357",
@@ -201,70 +267,6 @@
       "author": "a._0320",
       "reactions": 6,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1535952132837220433",
-      "channel_id": "1433513650299076780",
-      "content": "Most of my clears tend to have posts too but I also have this too ig https://doc",
-      "author": "dracozion",
-      "reactions": 6,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1535952804328251493",
-      "channel_id": "1433513650299076780",
-      "content": "Borrowed angbaks A1 guide account",
-      "author": "dracozion",
-      "reactions": 6,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1535841136411807775",
-      "channel_id": "1433513650299076780",
-      "content": "My mouchette will be AA +12 sig tomorrow nice",
-      "author": "utsuro.bune",
-      "reactions": 6,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1536019119772541068",
-      "channel_id": "1400750050208125010",
-      "content": "EARLY AGAIN!",
-      "author": "adem6225",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1535992392170086400",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "arachnids_nacha",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536016952823259237",
-      "channel_id": "1131839817982947429",
-      "content": "有沒有大佬可以帶帶我",
-      "author": "water_heart",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1535937777324134400",
-      "channel_id": "1400749543288475770",
-      "content": "**Type / to open up the Erica bot commands list to easily access all the guides ",
-      "author": "vxvendetta97",
-      "reactions": 5,
-      "channel": "🔸team-building"
-    },
-    {
-      "id": "1535918478349836380",
-      "channel_id": "1433513650299076780",
-      "content": "also +str and such from posses. very minor but it is a thing. \nalso tentacle dmg",
-      "author": "nuttyputty5612",
-      "reactions": 5,
-      "channel": "🔸game-question"
     }
   ]
 }

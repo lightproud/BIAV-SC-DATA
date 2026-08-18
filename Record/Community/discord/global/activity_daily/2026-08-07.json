@@ -1,10 +1,11 @@
 {
   "date": "2026-08-07",
-  "messages": 12165,
+  "messages": 21334,
   "unique_authors": 286,
-  "reactions_total": 900,
-  "attachments": 684,
+  "reactions_total": 1985,
+  "attachments": 1032,
   "channel_activity": {
+    "🔸morimens-game-chat": 9169,
     "🔸general-chat": 6095,
     "🔸綜合討論": 688,
     "🔸阵容构建": 11,
@@ -62,36 +63,36 @@
     "1535097848469655632": 1
   },
   "hourly_activity": {
-    "22": 323,
-    "23": 164,
-    "8": 739,
-    "9": 904,
-    "10": 875,
-    "11": 499,
-    "12": 641,
-    "13": 619,
-    "14": 727,
-    "15": 809,
-    "16": 324,
-    "17": 703,
-    "18": 533,
-    "19": 474,
-    "20": 515,
-    "21": 470,
-    "0": 367,
-    "1": 357,
-    "2": 619,
-    "3": 186,
-    "4": 284,
-    "5": 181,
-    "6": 401,
-    "7": 451
+    "0": 503,
+    "1": 525,
+    "2": 887,
+    "3": 476,
+    "4": 652,
+    "5": 520,
+    "6": 663,
+    "7": 923,
+    "8": 1275,
+    "9": 1343,
+    "10": 1439,
+    "11": 845,
+    "12": 1102,
+    "13": 1023,
+    "14": 1582,
+    "15": 1164,
+    "16": 706,
+    "17": 1483,
+    "18": 1155,
+    "19": 633,
+    "20": 731,
+    "21": 722,
+    "22": 591,
+    "23": 391
   },
   "message_types": {
-    "0": 8626,
-    "19": 3494,
+    "0": 13907,
+    "19": 7376,
+    "20": 45,
     "23": 3,
-    "20": 39,
     "6": 2,
     "21": 1
   },
@@ -121,12 +122,36 @@
       "channel": "🎧 V2.5.3 广播剧《原则》┊Radio Drama - Principles┊오디오 드라마 『원칙』"
     },
     {
+      "id": "1535359346085601310",
+      "channel_id": "1170692781216378960",
+      "content": "morimens larp tierlist:\n\nS: <@756514927870476519> <@706262934485073951> \nA: <@72",
+      "author": "princess.goth",
+      "reactions": 15,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1535307672625090581",
       "channel_id": "1535000394927702128",
       "content": "<@1487626955791663208>\n\n今日的語速上調(?)版已經是結案了嗎，我還是想再爭取一下<:Brown_think:14590801173086",
       "author": "heikwok",
       "reactions": 14,
       "channel": "sp蘿坦配音可否考慮回調"
+    },
+    {
+      "id": "1535236796563324989",
+      "channel_id": "1170692781216378960",
+      "content": "Thank you.\n\nI enjoy confectionery almost as much as I enjoy dominating other men",
+      "author": "jadlithon",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1535234732831416320",
+      "channel_id": "1170692781216378960",
+      "content": "I'll make you eat silver to prove your point ! <:Miryam_angry:135605302686305899",
+      "author": "legendaryredz",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1535254612271964281",
@@ -143,6 +168,14 @@
       "author": "gensono0609",
       "reactions": 8,
       "channel": "🔸阵容构建"
+    },
+    {
+      "id": "1535333824047611975",
+      "channel_id": "1170692781216378960",
+      "content": "In fiction the innocent maiden are often the most horny ones\nAccording to my sou",
+      "author": "legendaryredz",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1535363161568321616",
@@ -177,84 +210,52 @@
       "channel": "🔸game-question"
     },
     {
-      "id": "1535266011966611566",
-      "channel_id": "1400750050208125010",
-      "content": "",
-      "author": "jmjmjm6667",
+      "id": "1535128648254885888",
+      "channel_id": "1170692781216378960",
+      "content": "FUCK MY CHUNGUS LIFE",
+      "author": "dracozion",
       "reactions": 6,
-      "channel": "🔸general-chat"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1535270638158225509",
-      "channel_id": "1131839817982947429",
-      "content": "有人要借我的159界域精通女王剑娜娜嘛<:Lily_wow:1356084702468899117>",
-      "author": "sweet_25367",
+      "id": "1535265986511372369",
+      "channel_id": "1170692781216378960",
+      "content": "What is this a Mouchette haiku?",
+      "author": "topcat.0001_40485",
       "reactions": 6,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1535303915724087397",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "gensono0609",
+      "id": "1535289112578490379",
+      "channel_id": "1170692781216378960",
+      "content": "<:Ramona_tuff_:1441426630420467753>",
+      "author": "bing_sus",
       "reactions": 6,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1535223097127600149",
-      "channel_id": "1326453763355185215",
-      "content": "simply damaging it beforehand works too since a damaged core is irreversible",
-      "author": "nikolazuli",
+      "id": "1535324584381775965",
+      "channel_id": "1170692781216378960",
+      "content": "Poof",
+      "author": "arem0972",
       "reactions": 6,
-      "channel": "🔸lore-chat"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1535222901173788722",
-      "channel_id": "1535222901173788722",
-      "content": "感谢各位守密人的支持！《忘却前夜》新OST已发布，欢迎收听、下载及分享。\n如果有基于OST的二次创作，也欢迎分享给我们！二创请遵照同人规则，OST内容请勿商用。",
-      "author": "morimensstaff06",
+      "id": "1535326395973242890",
+      "channel_id": "1170692781216378960",
+      "content": "On an unrelated note.\nCasiah is a wonderful magician and an excellent unit, her ",
+      "author": "stormimi",
       "reactions": 6,
-      "channel": "忘却前夜OST：蚀灭·萝坦EP·征伐永不止歇┊Morimens OST: Lotan: Cetarchon EP: Conquest Never Rests"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1535187344368607283",
-      "channel_id": "1131839817982947429",
-      "content": "呃呃 開凹",
-      "author": "nemu_s_t_a_r",
+      "id": "1535339820187131934",
+      "channel_id": "1170692781216378960",
+      "content": "67",
+      "author": "laplace.in.my.head",
       "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1535124590337204236",
-      "channel_id": "1433513650299076780",
-      "content": "just one more and i am free to go back to digging for charas",
-      "author": "hikarimew",
-      "reactions": 6,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1535383246253330443",
-      "channel_id": "1400750050208125010",
-      "content": "Proud foster mother of 2 kitten >:3",
-      "author": "ashley_graves1129",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1535281062781915136",
-      "channel_id": "1131839817982947429",
-      "content": "哪個神人往網路精靈裡灌了這麼多莉莉進去的",
-      "author": "ice_storys",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1535330525462401045",
-      "channel_id": "1174983699935277147",
-      "content": "普池很愛我了",
-      "author": "akkom730",
-      "reactions": 5,
-      "channel": "🔸晒卡分享"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

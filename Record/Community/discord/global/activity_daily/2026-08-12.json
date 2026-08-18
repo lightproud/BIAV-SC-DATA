@@ -1,10 +1,11 @@
 {
   "date": "2026-08-12",
-  "messages": 19203,
+  "messages": 30882,
   "unique_authors": 446,
-  "reactions_total": 2725,
-  "attachments": 812,
+  "reactions_total": 4279,
+  "attachments": 1192,
   "channel_activity": {
+    "🔸morimens-game-chat": 11679,
     "🔸general-chat": 5673,
     "🔸綜合討論": 2877,
     "🔸欢乐梗图": 2,
@@ -101,37 +102,37 @@
     "\"To be loved, is to be devoured\" || Doresain X Sylvester": 1
   },
   "hourly_activity": {
-    "0": 682,
-    "1": 566,
-    "2": 1005,
-    "3": 756,
-    "4": 830,
-    "5": 808,
-    "6": 963,
-    "7": 512,
-    "8": 441,
-    "9": 747,
-    "10": 908,
-    "11": 795,
-    "12": 1279,
-    "13": 917,
-    "14": 1050,
-    "15": 781,
-    "16": 874,
-    "17": 594,
-    "18": 425,
-    "19": 974,
-    "20": 819,
-    "21": 573,
-    "22": 987,
-    "23": 917
+    "0": 1040,
+    "1": 787,
+    "2": 1361,
+    "3": 1511,
+    "4": 1189,
+    "5": 1571,
+    "6": 1370,
+    "7": 1071,
+    "8": 1073,
+    "9": 1186,
+    "10": 1348,
+    "11": 1266,
+    "12": 1797,
+    "13": 1540,
+    "14": 1729,
+    "15": 1511,
+    "16": 1716,
+    "17": 1235,
+    "18": 909,
+    "19": 1400,
+    "20": 1132,
+    "21": 804,
+    "22": 1291,
+    "23": 1045
   },
   "message_types": {
-    "0": 13313,
-    "19": 5809,
-    "20": 72,
+    "19": 10282,
+    "0": 20508,
+    "6": 5,
+    "20": 81,
     "23": 5,
-    "6": 3,
     "4": 1
   },
   "top_reacted_messages": [
@@ -174,6 +175,22 @@
       "author": "princess.goth",
       "reactions": 31,
       "channel": "Gathering Feedback Part 2"
+    },
+    {
+      "id": "1537133608643334244",
+      "channel_id": "1170692781216378960",
+      "content": "I actually hate everyone",
+      "author": "omegamart",
+      "reactions": 29,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1537081139964158032",
+      "channel_id": "1170692781216378960",
+      "content": "can we kill this guy already",
+      "author": "idiota__",
+      "reactions": 28,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1537046999851868240",
@@ -278,22 +295,6 @@
       "author": "xyakoto",
       "reactions": 16,
       "channel": "V2.6.X 投票 Polls"
-    },
-    {
-      "id": "1537083916329164840",
-      "channel_id": "1537082862069616770",
-      "content": "bring back ecog ols",
-      "author": "chuddest.",
-      "reactions": 16,
-      "channel": "Gathering Feedback Part 2"
-    },
-    {
-      "id": "1537132820970086480",
-      "channel_id": "1537063552559349881",
-      "content": "我觉得这里更合理的调整方向应该是：**把高难度的额外奖励转移到较低难度，而不是直接取消奖励。**\n\n同样，**应急灵知体也应该继续允许使用**，这样练度较低的玩",
-      "author": "catlan_33586",
-      "reactions": 16,
-      "channel": "Preview: V2.6.X Adjustments Based on Community Feedback"
     }
   ]
 }

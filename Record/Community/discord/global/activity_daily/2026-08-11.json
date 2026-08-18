@@ -1,10 +1,11 @@
 {
   "date": "2026-08-11",
-  "messages": 19654,
+  "messages": 29096,
   "unique_authors": 330,
-  "reactions_total": 1628,
-  "attachments": 970,
+  "reactions_total": 3220,
+  "attachments": 1302,
   "channel_activity": {
+    "🔸morimens-game-chat": 9442,
     "🔸general-chat": 9664,
     "🔸綜合討論": 1726,
     "🔸阵容构建": 15,
@@ -80,37 +81,37 @@
     "Experimental log: Saya": 1
   },
   "hourly_activity": {
-    "0": 573,
-    "1": 592,
-    "2": 904,
-    "3": 886,
-    "4": 629,
-    "5": 473,
-    "6": 692,
-    "7": 320,
-    "8": 193,
-    "9": 671,
-    "10": 900,
-    "11": 1061,
-    "12": 861,
-    "13": 1076,
-    "14": 1565,
-    "15": 1479,
-    "16": 1075,
-    "17": 1185,
-    "18": 765,
-    "19": 526,
-    "20": 618,
-    "21": 976,
-    "22": 932,
-    "23": 702
+    "0": 800,
+    "1": 923,
+    "2": 1468,
+    "3": 1369,
+    "4": 1112,
+    "5": 859,
+    "6": 919,
+    "7": 598,
+    "8": 492,
+    "9": 859,
+    "10": 1284,
+    "11": 1661,
+    "12": 1159,
+    "13": 1231,
+    "14": 2010,
+    "15": 2030,
+    "16": 1373,
+    "17": 1845,
+    "18": 1151,
+    "19": 935,
+    "20": 1132,
+    "21": 1566,
+    "22": 1321,
+    "23": 999
   },
   "message_types": {
-    "19": 6771,
-    "0": 12843,
-    "20": 37,
-    "23": 2,
-    "46": 1
+    "0": 18441,
+    "19": 10604,
+    "20": 47,
+    "46": 2,
+    "23": 2
   },
   "top_reacted_messages": [
     {
@@ -122,12 +123,28 @@
       "channel": "Preview: V2.6.X Gameplay & Rewards"
     },
     {
+      "id": "1536804363337728041",
+      "channel_id": "1170692781216378960",
+      "content": "So after testing how shield bonuses work, here are some preliminary results. Eve",
+      "author": "nuttyputty5612",
+      "reactions": 24,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1536840126435565598",
       "channel_id": "1536840126435565598",
       "content": "This is the remaining half of the V2.6.X preview I shared with you earlier.  htt",
       "author": "lightproud",
       "reactions": 21,
       "channel": "Preview: V2.6.X Exchange Stores, Covenant Bonding & Affinity"
+    },
+    {
+      "id": "1536572422722166846",
+      "channel_id": "1170692781216378960",
+      "content": "the chat moved on from the 🫃 era tothe <:Helot_slack_off:1459092159465521184>  e",
+      "author": "kinbote.",
+      "reactions": 19,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1536647066930122772",
@@ -138,12 +155,28 @@
       "channel": "Pale Water Lily 🤍"
     },
     {
+      "id": "1536784933811388586",
+      "channel_id": "1170692781216378960",
+      "content": "Im ready",
+      "author": "monchi3524",
+      "reactions": 14,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1536798089166196867",
       "channel_id": "1131839817982947429",
       "content": "随便吧……反正我现在返利还没用完，都没充钱了",
       "author": "galagalaguo",
       "reactions": 11,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1536630697354076222",
+      "channel_id": "1170692781216378960",
+      "content": "yeah im getting OE",
+      "author": "gremoria",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1536728864791990372",
@@ -162,6 +195,14 @@
       "channel": "jenkins alleyway dumpster bin"
     },
     {
+      "id": "1536562269650165851",
+      "channel_id": "1170692781216378960",
+      "content": "67",
+      "author": "angbak",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1536753579686371328",
       "channel_id": "1131839817982947429",
       "content": "打到睡著",
@@ -170,108 +211,68 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1536525738835185785",
+      "channel_id": "1170692781216378960",
+      "content": "F2P 405",
+      "author": "angbak",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1536708214874439770",
+      "channel_id": "1170692781216378960",
+      "content": "<:Saya_cry:1513123577384271963>",
+      "author": "asterion0.0",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1536747981766664284",
+      "channel_id": "1170692781216378960",
+      "content": "DollGPT generate me a Vortice.",
+      "author": "shanhaijingactivist",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1536761126065545237",
+      "channel_id": "1170692781216378960",
+      "content": "https://m.youtube.com/watch?v=IWxFUL4tCjg&pp=iggUQAFKEFdKazI2UG9UN1FSVmdmYW8%3D",
+      "author": "angbak",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1536792700391526460",
+      "channel_id": "1170692781216378960",
+      "content": "> ### Normal\n> - Recommended Level for Waves 1–5: 44/48/52/56/60. Training Point",
+      "author": "legendaryredz",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1536830767219347506",
+      "channel_id": "1170692781216378960",
+      "content": "honestly how fucking big brain is biav dropping a survey on monday and now relea",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1536861544447610940",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "dyssayah",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1536648299564638248",
       "channel_id": "1180437373012672522",
       "content": "細節圖魯睡著了<:Tulu_zzz:1468259861598044402>",
       "author": "xianrenwurao",
       "reactions": 7,
       "channel": "🔸欢乐梗图"
-    },
-    {
-      "id": "1536790294031376404",
-      "channel_id": "1536790294031376404",
-      "content": "1.既然困难已经与普通难度进行合并，变更为挑战难度选项，那么是否癫狂难度的制作是否已提上日程，还有困难难度应该不会像原来那样要等上相当一段时间才能游玩吧\n2.禁",
-      "author": "skdmess",
-      "reactions": 7,
-      "channel": "关于2.6.X相关内容的问题"
-    },
-    {
-      "id": "1536680699271319623",
-      "channel_id": "1536679305172754492",
-      "content": "If this results in a nerf, we better get a limited rewind item",
-      "author": "sirtealot",
-      "reactions": 7,
-      "channel": "Lotan 4 cost str bug"
-    },
-    {
-      "id": "1536624422771892314",
-      "channel_id": "1131839817982947429",
-      "content": "終於打完了",
-      "author": "axe_proficient",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536653465458311248",
-      "channel_id": "1131839817982947429",
-      "content": "硬穿1000多k盾殺",
-      "author": "xianrenwurao",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536672654243659786",
-      "channel_id": "1131839817982947429",
-      "content": "||海佬日常||",
-      "author": "0.0._.0_0.",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536761527531470868",
-      "channel_id": "1131839817982947429",
-      "content": "升完蝕蘿的狂氣爆發打贏2-5了耶\n剛入坑一週",
-      "author": "tenriarahi",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536797412570697748",
-      "channel_id": "1131839817982947429",
-      "content": "前猫后鸟中间一个大灯罩",
-      "author": "galagalaguo",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536850126000095362",
-      "channel_id": "1131839817982947429",
-      "content": "我在乎的只有這個",
-      "author": "ahong0727",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536865490843209779",
-      "channel_id": "1131839817982947429",
-      "content": "半夜两点爬起来拼字拼一半睡着了起来继续拼",
-      "author": "sweet_25367",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536788089953984572",
-      "channel_id": "1385040039448412170",
-      "content": "Im familiar but i just stop posting clears cuz it goes past making a joke to jus",
-      "author": "omegamart",
-      "reactions": 6,
-      "channel": "🔸频道建议┊server-suggestions"
-    },
-    {
-      "id": "1536572177036480522",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536616824366571531",
-      "channel_id": "1326453763355185215",
-      "content": "<@702167871144591461> horla is miryam now lol",
-      "author": "itsmemiki",
-      "reactions": 6,
-      "channel": "🔸lore-chat"
     }
   ]
 }

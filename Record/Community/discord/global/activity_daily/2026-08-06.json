@@ -1,10 +1,11 @@
 {
   "date": "2026-08-06",
-  "messages": 17739,
+  "messages": 26563,
   "unique_authors": 298,
-  "reactions_total": 1249,
-  "attachments": 752,
+  "reactions_total": 2488,
+  "attachments": 1110,
   "channel_activity": {
+    "🔸morimens-game-chat": 8824,
     "🔸general-chat": 9629,
     "🔸綜合討論": 659,
     "🔸阵容构建": 8,
@@ -68,35 +69,35 @@
     "想請問如何組隊...": 1
   },
   "hourly_activity": {
-    "13": 1003,
-    "14": 1311,
-    "15": 1289,
-    "16": 1024,
-    "17": 784,
-    "18": 397,
-    "19": 548,
-    "20": 859,
-    "21": 731,
-    "22": 357,
-    "23": 214,
-    "0": 933,
-    "1": 1071,
-    "2": 903,
-    "3": 891,
-    "4": 899,
-    "5": 278,
-    "6": 188,
-    "7": 208,
-    "8": 485,
-    "9": 690,
-    "10": 626,
-    "11": 704,
-    "12": 1346
+    "0": 1219,
+    "1": 1385,
+    "2": 1441,
+    "3": 1108,
+    "4": 1319,
+    "5": 529,
+    "6": 467,
+    "7": 618,
+    "8": 814,
+    "9": 844,
+    "10": 1044,
+    "11": 1218,
+    "12": 1633,
+    "13": 1475,
+    "14": 1848,
+    "15": 1725,
+    "16": 1594,
+    "17": 1377,
+    "18": 723,
+    "19": 1186,
+    "20": 1076,
+    "21": 1101,
+    "22": 491,
+    "23": 328
   },
   "message_types": {
-    "19": 6151,
-    "0": 11547,
-    "20": 34,
+    "0": 16880,
+    "19": 9635,
+    "20": 41,
     "23": 4,
     "4": 3
   },
@@ -118,12 +119,28 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1534757031037374606",
+      "channel_id": "1170692781216378960",
+      "content": "THATS WHAT HIS E1 DID??? i never read that shit i was just pulling for the love ",
+      "author": "glitzy_x",
+      "reactions": 14,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1534807522735554560",
       "channel_id": "1131839817982947429",
       "content": "~~阿狗但凡是全图鉴党5771的队伍组合将会是指数级的成长~~",
       "author": "ling_an_",
       "reactions": 11,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534994047582605524",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1534936910697467954",
@@ -164,6 +181,38 @@
       "author": "a_wei3797",
       "reactions": 8,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1534939103680790669",
+      "channel_id": "1170692781216378960",
+      "content": "Also this is the entire lemurian storyline",
+      "author": "omegamart",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1534995980439650375",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "sirtealot",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1535004257495941160",
+      "channel_id": "1170692781216378960",
+      "content": "Third ones are my fav",
+      "author": "leviathxan",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1535066107730333826",
+      "channel_id": "1170692781216378960",
+      "content": "GLOTAN OR Lotan : ketarchon",
+      "author": "morified53",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1534968903456002058",
@@ -211,54 +260,6 @@
       "content": "<:Doresain_proud:1468257815238938645>",
       "author": "a_wei3797",
       "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534817769449721926",
-      "channel_id": "1131839817982947429",
-      "content": "忘卻前夜有61個喚醒體，其中環拉跟拉拉不能同隊。每個隊伍必須由四個不重複轉喚醒體組成。問，全圖鑑阿狗可以發現多少個獨特的配隊？\n\n承上題，這遊戲有四個界域，一個",
-      "author": "arachnids_nacha",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534877157082398900",
-      "channel_id": "1131839817982947429",
-      "content": "对啊",
-      "author": "ling_an_",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534898468554801323",
-      "channel_id": "1131839817982947429",
-      "content": "~~在思考祝福你玩一辈子忘却前夜是祝福还是厄咒~~",
-      "author": "kemomimi_",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534932207041515660",
-      "channel_id": "1433513650299076780",
-      "content": "",
-      "author": "astralismirabella",
-      "reactions": 6,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1534944252532883729",
-      "channel_id": "1433513650299076780",
-      "content": "100<:Brown_think:1459080117308620996>",
-      "author": "arem0972",
-      "reactions": 6,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1534729871408758784",
-      "channel_id": "1131839817982947429",
-      "content": "有沒有大佬可以帶帶我",
-      "author": "water_heart",
-      "reactions": 6,
       "channel": "🔸綜合討論"
     }
   ]

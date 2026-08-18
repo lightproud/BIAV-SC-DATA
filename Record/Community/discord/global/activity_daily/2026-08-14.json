@@ -1,10 +1,12 @@
 {
   "date": "2026-08-14",
-  "messages": 15011,
+  "messages": 24845,
   "unique_authors": 297,
-  "reactions_total": 1190,
-  "attachments": 745,
+  "reactions_total": 2383,
+  "attachments": 1082,
   "channel_activity": {
+    "🔸morimens-game-chat": 9734,
+    "1537756717679513701": 100,
     "🔸general-chat": 6410,
     "🔸綜合討論": 551,
     "🔸剧情交流": 4,
@@ -73,35 +75,36 @@
     "剛入坑4天想問配對養成及後續抽卡建議": 1
   },
   "hourly_activity": {
-    "0": 235,
-    "1": 206,
-    "2": 291,
-    "3": 804,
-    "4": 925,
-    "5": 700,
-    "6": 939,
-    "7": 1361,
-    "8": 341,
-    "9": 437,
-    "10": 518,
-    "11": 354,
-    "12": 236,
-    "13": 299,
-    "14": 414,
-    "15": 938,
-    "16": 413,
-    "17": 640,
-    "18": 715,
-    "19": 719,
-    "20": 1247,
-    "21": 960,
-    "22": 562,
-    "23": 757
+    "0": 731,
+    "1": 432,
+    "2": 501,
+    "3": 983,
+    "4": 1393,
+    "5": 1162,
+    "6": 1658,
+    "7": 1896,
+    "8": 708,
+    "9": 756,
+    "10": 988,
+    "11": 658,
+    "12": 509,
+    "13": 846,
+    "14": 995,
+    "15": 1328,
+    "16": 1035,
+    "17": 1152,
+    "18": 1166,
+    "19": 1160,
+    "20": 1380,
+    "21": 1310,
+    "22": 1015,
+    "23": 1083
   },
   "message_types": {
-    "19": 5080,
-    "0": 9882,
-    "20": 47,
+    "0": 16027,
+    "19": 8762,
+    "20": 52,
+    "46": 2,
     "18": 1,
     "6": 1
   },
@@ -147,12 +150,108 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1537676107413983272",
+      "channel_id": "1170692781216378960",
+      "content": "WTFFFFFFF I WANTED SAYA AND IT GAVE ME THIS GUY CALLED UVHASH",
+      "author": "serahh__",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1537748431315931157",
       "channel_id": "1537717449972256808",
       "content": "**Morimens┊V2.6.0 «Прямо дух захватывает!» 7-дневный VIP-тур на снежную вершину!",
       "author": "morimensstaff06",
       "reactions": 11,
       "channel": "V2.6.0 纯玩旅行团：雪山七日深度游┊The \"Truly Breathtaking\" Snowy Peak 7-Day VIP Blitz!┊순수 패키지여행 상품: 설산에서 보내는 7일간의"
+    },
+    {
+      "id": "1537849998945951826",
+      "channel_id": "1170692781216378960",
+      "content": "My First 30M dmg",
+      "author": "lowtownnivn",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1537866787171999845",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1537900127984029908",
+      "channel_id": "1170692781216378960",
+      "content": "Everyone who invests any amount of resources into units is a whale",
+      "author": "bagels5899",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1537708207135391816",
+      "channel_id": "1170692781216378960",
+      "content": "Uteri Somnia.",
+      "author": "shanhaijingactivist",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1537946885682102314",
+      "channel_id": "1170692781216378960",
+      "content": "Guess the awakeners by their ass",
+      "author": "hollow_xhk",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1537707294337404969",
+      "channel_id": "1170692781216378960",
+      "content": "IM NOT 40",
+      "author": "leviathxan",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1537707746072338432",
+      "channel_id": "1170692781216378960",
+      "content": "https://klipy.com/gifs/sure-grandpa-lets-get-you-to-bed",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1537709136341377055",
+      "channel_id": "1170692781216378960",
+      "content": "Time to ask a question which is totally not biased at all.\n\nIs sanga top 5 units",
+      "author": "blanco._.0",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1537711412997128283",
+      "channel_id": "1170692781216378960",
+      "content": "Any Morimens players in chat?",
+      "author": "syro_k",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1537825020393431120",
+      "channel_id": "1170692781216378960",
+      "content": "I used up all my second anniversary pulls on tawil oe",
+      "author": "cooked_chicken99",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1537954933918146650",
+      "channel_id": "1170692781216378960",
+      "content": "You agreed with it yourself, I even asked you!!",
+      "author": "sirtealot",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1537804339836358769",
@@ -169,102 +268,6 @@
       "author": "sofiaebby",
       "reactions": 7,
       "channel": "\"I will save you\""
-    },
-    {
-      "id": "1537772449544802395",
-      "channel_id": "1537772449544802395",
-      "content": "...to Ebwynnos...\n\nLong overdue Pontos art.\nUID: 101171815",
-      "author": "sofiaebby",
-      "reactions": 7,
-      "channel": "You belong to me..."
-    },
-    {
-      "id": "1537866801176772709",
-      "channel_id": "1400750050208125010",
-      "content": "",
-      "author": "jmjmjm6667",
-      "reactions": 6,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1537722018315894864",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "heikwok",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1537769500399894579",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "cameliia._.",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1537735429267128391",
-      "channel_id": "1181152750319456266",
-      "content": "从小猪佩pon这个名字出来的时候我就知道事情已经发展成我喜欢的样子了",
-      "author": "ling_an_",
-      "reactions": 5,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1537836649155661935",
-      "channel_id": "1300659603993923644",
-      "content": "",
-      "author": "wolfyy1",
-      "reactions": 5,
-      "channel": "🔸phòng-chat-tiếng-việt"
-    },
-    {
-      "id": "1537753925564768356",
-      "channel_id": "1326453763355185215",
-      "content": "",
-      "author": "nikolazuli",
-      "reactions": 5,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1537862855603519600",
-      "channel_id": "1326453763355185215",
-      "content": "",
-      "author": "rehtael",
-      "reactions": 5,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1537892667361329203",
-      "channel_id": "1400749543288475770",
-      "content": "Thank you for the links! <@266297152911835147> <@548007695454830605>",
-      "author": "fatedefier_2003",
-      "reactions": 5,
-      "channel": "🔸team-building"
-    },
-    {
-      "id": "1537697599015092284",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "angbak",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1537684110032637972",
-      "channel_id": "1300659662311526512",
-      "content": "",
-      "author": "khryiis",
-      "reactions": 5,
-      "channel": "🔸canal-español"
-    },
-    {
-      "id": "1537881476501082132",
-      "channel_id": "1400750050208125010",
-      "content": "I got u snorlax",
-      "author": "shadowtag5002",
-      "reactions": 4,
-      "channel": "🔸general-chat"
     }
   ]
 }

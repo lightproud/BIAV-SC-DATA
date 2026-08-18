@@ -1,203 +1,239 @@
 {
   "date": "2026-08-18",
-  "messages": 4402,
-  "unique_authors": 179,
-  "reactions_total": 222,
-  "attachments": 203,
+  "messages": 10549,
+  "unique_authors": 276,
+  "reactions_total": 2189,
+  "attachments": 549,
   "channel_activity": {
-    "🔸綜合討論": 124,
-    "🔸课间休息闲聊": 25,
-    "🔸русский-канал": 521,
-    "🔸phòng-chat-tiếng-việt": 54,
-    "🔸canal-español": 32,
-    "🔸canal-português": 16,
-    "🔸ruang-obrolan-indonesia": 67,
-    "🔸ห้องสนทนาภาษาไทย": 14,
-    "🔸lore-chat": 14,
-    "🔸lets-count": 2,
-    "🔸team-building": 66,
-    "🔸general-chat": 2045,
-    "🔸邀请码互助┊swap-invitation-codes": 3,
-    "🔸game-question": 1396,
-    "🔸机器人命令┊bot-commands": 8,
-    "🔸한국어-채팅방": 4,
-    "🔸chaîne-française": 10,
+    "🔸綜合討論": 647,
+    "🔸课间休息闲聊": 30,
+    "🔸한국어-채팅방": 21,
+    "🔸chaîne-française": 15,
+    "🔸русский-канал": 524,
+    "🔸phòng-chat-tiếng-việt": 99,
+    "🔸canal-español": 45,
+    "🔸canal-português": 21,
+    "🔸ruang-obrolan-indonesia": 88,
+    "🔸ห้องสนทนาภาษาไทย": 127,
+    "🔸traphase": 13,
+    "🔸lore-chat": 46,
+    "🔸礼包码┊gift-codes": 1,
+    "🔸lets-count": 10,
+    "🔸team-building": 158,
+    "🔸general-chat": 2558,
+    "🔸邀请码互助┊swap-invitation-codes": 4,
+    "🔸game-question": 2153,
+    "🔸机器人命令┊bot-commands": 20,
+    "🔸morimens-game-chat": 3769,
+    "这个那个": 4,
+    "关于新版本改动": 6,
+    "v2.6.0 融灾 守密纪行奖励 D-Zone Chronicle reward": 1,
+    "Lotan: Cetarchon exalt damage number does not line up with the hit after update V2.5.3.3": 1,
+    "Lotan: Cetarchon voice lines after update V2.5.3.3": 68,
+    "Additional Record Filters": 3,
+    "Amber-Tinted Death does not benefit from PChaos stat enhancement": 1,
+    "關於數值顯示": 1,
+    "Quadra / 4-Realm Rerun Banners": 19,
+    "Skin Preview": 3,
+    "Please rework how Propagation Caro works for the future units": 1,
+    "V2.5.1.0 停服维护公告": 2,
+    "Preview: Traphase Pausing New Updates, Entering Balance Maintenance Mode": 1,
+    "Liz 💚": 4,
+    "oc stuff…………….": 1,
+    "The greatest and bestest(I know it's not a word) creations of Katz!": 5,
+    "\"Did you do your homework?\"": 1,
+    "YoruWiki ! ( hameln pic dumps for every1 !! )": 3,
+    "V2.6.0 他她祂的愿望┊His, Her, and Its Wishes┊그, 그녀, 그분의 소원": 33,
+    "V2.6.0 全新唤醒体✦卡拉布┊New Awakener✦Caraboo┊신규 각성체✦카라부": 27,
+    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 1,
+    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1,
+    "V2.5.0 命运剧院┊Theater of Fate": 3,
+    "V2.3.1 「朵尔·灵性重生」简约幻衣，可在邀请活动中获取┊Get Basic Skin \"Doll: Gnostic Reshape\" from the New Invitation Event!": 1,
+    "What stopping point do you recommend for G-Lotan enlighten?": 1,
+    "Who to go for?": 2,
+    "I’m new to the game and use the twins who can help me before the 3.7 update": 3,
+    "【Newcomer Help】Forum Introduction": 2,
     "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 1
   },
   "hourly_activity": {
-    "1": 681,
-    "2": 559,
-    "3": 627,
-    "4": 684,
-    "5": 486,
-    "6": 243,
-    "0": 1122
+    "6": 549,
+    "7": 1309,
+    "8": 1520,
+    "9": 1087,
+    "0": 1441,
+    "1": 979,
+    "2": 848,
+    "3": 1053,
+    "4": 1073,
+    "5": 661,
+    "10": 29
   },
   "message_types": {
-    "0": 3047,
-    "19": 1339,
-    "20": 16
+    "0": 6926,
+    "19": 3586,
+    "20": 35,
+    "6": 2
   },
   "top_reacted_messages": [
     {
-      "id": "1539091999465021570",
-      "channel_id": "1400750050208125010",
-      "content": "i wanna get the unit so i can buy her skin",
+      "id": "1539171313921294346",
+      "channel_id": "1355094251775459399",
+      "content": "**🎁 DC 60000守密人入驻达成礼 ┊ Discord 60,000 Keepers Milestone Reward**\n\n《忘却前夜》官方Discor",
+      "author": "morimensstaff06",
+      "reactions": 624,
+      "channel": "🔸礼包码┊gift-codes"
+    },
+    {
+      "id": "1539167016861179924",
+      "channel_id": "1539167016861179924",
+      "content": "**V2.6.0 他她祂的愿望**\n\n跟着整个夏尔巴族最好的向导，\n向着海拔8840米出发——\n只要登顶⛰️，就抵达了能实现一切愿望的应许之地。\n「锵锵~仙女的",
+      "author": "morimensstaff06",
+      "reactions": 35,
+      "channel": "V2.6.0 他她祂的愿望┊His, Her, and Its Wishes┊그, 그녀, 그분의 소원"
+    },
+    {
+      "id": "1539192245729755187",
+      "channel_id": "1170692781216378960",
+      "content": "super react if you want to be mpregged rn",
+      "author": "jollysquire",
+      "reactions": 20,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1539164656017346590",
+      "channel_id": "1170692781216378960",
+      "content": "<@1487626955791663208> can you ping @everyone to let them know we are getting 10",
+      "author": "jollysquire",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1539187136836673667",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "serahh__",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1539188106358554725",
+      "channel_id": "1170692781216378960",
+      "content": "horseshit star rail 😔",
       "author": "princess.goth",
-      "reactions": 7,
-      "channel": "🔸general-chat"
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1539138827547840573",
+      "id": "1539193963419017216",
+      "channel_id": "1170692781216378960",
+      "content": "Imma mute you for 1 hour",
+      "author": "angbak",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1539195831025016934",
       "channel_id": "1131839817982947429",
-      "content": "複雜人際關係（。",
-      "author": "yusi4172",
-      "reactions": 5,
+      "content": "七夕脱单攻略\n点击我头像\n编辑发送“咱俩试试？”\n即有机会获得\"“添加失败”.“滚你妈的”好呀宝宝‘’\n兑奖日期:2026年8月19日0：01—2026年8月1",
+      "author": "luna_.90",
+      "reactions": 10,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1539142877723103262",
-      "channel_id": "1131839817982947429",
-      "content": "每次都打的很極限",
-      "author": "abhartach_0",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1539103407279837234",
-      "channel_id": "1131839817982947429",
-      "content": "六萬發六萬抽",
-      "author": "a._0320",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1539122935023931483",
-      "channel_id": "1131839817982947429",
-      "content": "https://cdn.discordapp.com/attachments/474550941883039747/732207530671079504/693",
-      "author": "nemu_s_t_a_r",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1539141034003398737",
-      "channel_id": "1131839817982947429",
-      "content": "~~@ foxcatfurry  阿偉還打嗎，不打我下周要打了<:Horla_cry:1357186646294138890>~~",
-      "author": "kemomimi_",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1539105623147548682",
-      "channel_id": "1400750050208125010",
-      "content": "The absolute aura of this girl",
-      "author": "p19682",
-      "reactions": 3,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1539124007557800026",
-      "channel_id": "1400750050208125010",
-      "content": "",
-      "author": "p19682",
-      "reactions": 3,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1539124644919906314",
-      "channel_id": "1433513650299076780",
-      "content": "Speak for yourself",
-      "author": "crowlov1",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1539068085166669904",
-      "channel_id": "1400750050208125010",
-      "content": "",
-      "author": "k.y.u.",
-      "reactions": 3,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1539131905163661353",
-      "channel_id": "1131839817982947429",
-      "content": "現在還是425對吧",
-      "author": "yusi4172",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1539147869372817491",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "a_wei3797",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1539141927461724220",
-      "channel_id": "1300659603993923644",
-      "content": "DPS chắc 99% phải E3 mới phát huy hết sức mạnh",
-      "author": "surrealclick",
-      "reactions": 2,
-      "channel": "🔸phòng-chat-tiếng-việt"
-    },
-    {
-      "id": "1539084924882133073",
-      "channel_id": "1300659662311526512",
-      "content": "<:Helot_slack_off:1459092159465521184>",
-      "author": "rendezvoushr",
-      "reactions": 2,
-      "channel": "🔸canal-español"
-    },
-    {
-      "id": "1539101564558508183",
-      "channel_id": "1400750050208125010",
+      "id": "1539101587841220700",
+      "channel_id": "1170692781216378960",
       "content": "",
       "author": "jmjmjm6667",
-      "reactions": 2,
-      "channel": "🔸general-chat"
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1539104966524936253",
-      "channel_id": "1400750050208125010",
-      "content": "This one?",
-      "author": "shadowtag5002",
-      "reactions": 2,
-      "channel": "🔸general-chat"
+      "id": "1539172572464152609",
+      "channel_id": "1170692781216378960",
+      "content": "discord code came through ❤️‍🩹",
+      "author": "virtual_ang3l_",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1539106403711717437",
-      "channel_id": "1400750050208125010",
-      "content": "can i kill this thing <@523084324724146193>",
-      "author": "shiroseki.",
-      "reactions": 2,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1539106493939585136",
-      "channel_id": "1400750050208125010",
-      "content": "yes",
-      "author": "fibrinogen",
-      "reactions": 2,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1539108675036258408",
-      "channel_id": "1400750050208125010",
-      "content": "i touched him dude he got touched so hard bro",
+      "id": "1539187866238853172",
+      "channel_id": "1170692781216378960",
+      "content": "welcome to gachas",
       "author": "princess.goth",
-      "reactions": 2,
-      "channel": "🔸general-chat"
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1539114095175933952",
-      "channel_id": "1400750050208125010",
-      "content": "Thx but if it happens oh well means no more working in restaurants and i get to ",
-      "author": "reverend_of_serpents",
-      "reactions": 2,
-      "channel": "🔸general-chat"
+      "id": "1539188195605086220",
+      "channel_id": "1170692781216378960",
+      "content": "WHO is hearting this insane slander message",
+      "author": "serahh__",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1539193863292321802",
+      "channel_id": "1170692781216378960",
+      "content": "angbak said we had to",
+      "author": "jollysquire",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1539194270131560459",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "glitzy_x",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1539190982149406740",
+      "channel_id": "1326453763355185215",
+      "content": "I'm like halfway through chapter 5 but there's been a million occasions where pe",
+      "author": "speednin.",
+      "reactions": 8,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1539173214041939969",
+      "channel_id": "1170692781216378960",
+      "content": "just made that up",
+      "author": "_flamboyance",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1539183244220567642",
+      "channel_id": "1170692781216378960",
+      "content": "https://x.com/i/status/2089368443976073628",
+      "author": "princess.goth",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1539187372049039360",
+      "channel_id": "1170692781216378960",
+      "content": "https://klipy.com/gifs/jordan-michael-jordan-12",
+      "author": "serahh__",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1539198540096602224",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "princess.goth",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1539191765242740746",
+      "channel_id": "1539191765242740746",
+      "content": "首先上来先翻翻旧账吧，商店偷偷删掉可以兑换溢出命轮的内容。导致只要玩家玩了半年以上，后续每个月持续性的亏损39个精粹原初碎片和117个灵核碎片。（如果新的周年庆",
+      "author": "lurenjiao",
+      "reactions": 8,
+      "channel": "关于新版本改动"
     }
   ]
 }

@@ -1,10 +1,11 @@
 {
   "date": "2026-08-15",
-  "messages": 12400,
+  "messages": 20961,
   "unique_authors": 292,
-  "reactions_total": 1162,
-  "attachments": 689,
+  "reactions_total": 2431,
+  "attachments": 1018,
   "channel_activity": {
+    "🔸morimens-game-chat": 8561,
     "🔸general-chat": 5032,
     "🔸綜合討論": 871,
     "🔸欢乐梗图": 8,
@@ -76,35 +77,35 @@
     "求融災組隊，目標350+": 1
   },
   "hourly_activity": {
-    "0": 556,
-    "1": 378,
-    "2": 369,
-    "3": 637,
-    "4": 709,
-    "5": 424,
-    "6": 452,
-    "7": 838,
-    "8": 419,
-    "9": 355,
-    "10": 341,
-    "11": 490,
-    "12": 679,
-    "13": 641,
-    "14": 929,
-    "15": 498,
-    "16": 396,
-    "17": 903,
-    "18": 585,
-    "19": 424,
-    "20": 448,
-    "21": 262,
-    "22": 344,
-    "23": 323
+    "0": 863,
+    "1": 538,
+    "2": 733,
+    "3": 838,
+    "4": 750,
+    "5": 629,
+    "6": 623,
+    "7": 1148,
+    "8": 598,
+    "9": 515,
+    "10": 729,
+    "11": 1159,
+    "12": 1301,
+    "13": 1307,
+    "14": 1240,
+    "15": 1100,
+    "16": 1192,
+    "17": 1370,
+    "18": 888,
+    "19": 652,
+    "20": 670,
+    "21": 725,
+    "22": 702,
+    "23": 691
   },
   "message_types": {
-    "19": 4079,
-    "0": 8286,
-    "20": 31,
+    "0": 14058,
+    "19": 6856,
+    "20": 43,
     "23": 2,
     "4": 2
   },
@@ -116,6 +117,14 @@
       "author": "vxvendetta97",
       "reactions": 42,
       "channel": "Kill stealing, we could fix it"
+    },
+    {
+      "id": "1538090410495311872",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "syro_k",
+      "reactions": 25,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1538271078994939984",
@@ -134,6 +143,22 @@
       "channel": "🔸general-chat"
     },
     {
+      "id": "1538015727225937922",
+      "channel_id": "1170692781216378960",
+      "content": "If ur wheel jail doesn't look like this you don't love wheel jail",
+      "author": "frosthief",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1538174902924877836",
+      "channel_id": "1170692781216378960",
+      "content": "im finally done the alert 2 with all teams first time ever , im so happy",
+      "author": "raziel_kekw",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1538124237435441193",
       "channel_id": "1538124237435441193",
       "content": "# 取消300抽加三圍\n# Cancel 300 normal pull for stats\n\n# 要求新系統提供更高的三圍 (50% up) \n\n# Dema",
@@ -150,12 +175,52 @@
       "channel": "Preview: V2.6.X Adjustments Based on Community Feedback 2"
     },
     {
+      "id": "1537999988821598268",
+      "channel_id": "1170692781216378960",
+      "content": "400 days <:Murphy_satisfy:1468258389850193960>",
+      "author": "spooky_penguin_",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1538183484495888465",
+      "channel_id": "1170692781216378960",
+      "content": "you see the only real reason to pull for character is to unlock frenzy",
+      "author": "glitzy_x",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1538164637298589706",
       "channel_id": "1537347992787619920",
       "content": "Right, just like we asked to keep AA effects insignificant, which totally worked",
       "author": "sirtealot",
       "reactions": 9,
       "channel": "Gathering Feedback - Part 3..."
+    },
+    {
+      "id": "1538011071565275247",
+      "channel_id": "1170692781216378960",
+      "content": "ouuuu shiiii",
+      "author": "azel_1",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1538015371288911952",
+      "channel_id": "1170692781216378960",
+      "content": "if anyone tells you i dont LOVE wod jail they are lying",
+      "author": "goonbred",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1538309334407057409",
+      "channel_id": "1170692781216378960",
+      "content": "kill bagels",
+      "author": "princess.goth",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1538071926226944081",
@@ -182,92 +247,28 @@
       "channel": "jenkins alleyway dumpster bin"
     },
     {
-      "id": "1538180561238098051",
-      "channel_id": "1400750050208125010",
-      "content": "in addition to whatever angbak is doing ppep should get muted again",
-      "author": "princess.goth",
+      "id": "1538193690244284507",
+      "channel_id": "1170692781216378960",
+      "content": "pls give her pcaro",
+      "author": "willow069815",
       "reactions": 7,
-      "channel": "🔸general-chat"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1538178824695447633",
-      "channel_id": "1433513650299076780",
-      "content": "started 2 weeks ago and managed a super scuffed 325",
-      "author": "swordsbeef",
+      "id": "1538327394115526748",
+      "channel_id": "1170692781216378960",
+      "content": "I think you are cheating....my score",
+      "author": "climbkaly",
       "reactions": 7,
-      "channel": "🔸game-question"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1538033121604145222",
-      "channel_id": "1131839817982947429",
-      "content": "我不信有人諾締拉練度比我高",
-      "author": "luna_.90",
+      "id": "1538327889961951264",
+      "channel_id": "1170692781216378960",
+      "content": "Flex here too",
+      "author": "spooky_penguin_",
       "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538197451452846180",
-      "channel_id": "1400750050208125010",
-      "content": "",
-      "author": "ashley_graves1129",
-      "reactions": 6,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1538114516364173332",
-      "channel_id": "1131839817982947429",
-      "content": "至少要超大格调我才有点兴趣",
-      "author": "carme.0588",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538183099848855635",
-      "channel_id": "1131839817982947429",
-      "content": "太過分了\n不削弱我要怎麼打過",
-      "author": "water_heart",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538199166507810816",
-      "channel_id": "1496525443329687723",
-      "content": "小尤……",
-      "author": "resazur1n",
-      "reactions": 6,
-      "channel": "堆图ing"
-    },
-    {
-      "id": "1538244826200547348",
-      "channel_id": "1538244826200547348",
-      "content": "pls 🙏",
-      "author": "evvyqx",
-      "reactions": 6,
-      "channel": "let us gift silver prime thru ingame means or 3rd party websites like other gacha games"
-    },
-    {
-      "id": "1538181558601781329",
-      "channel_id": "1538181558601781329",
-      "content": "someone remind me to finish this tomorrow! if anyone guesses what song this is r",
-      "author": "glitzy_x",
-      "reactions": 6,
-      "channel": "wip pollux"
-    },
-    {
-      "id": "1538237083074691113",
-      "channel_id": "1537717449972256808",
-      "content": "",
-      "author": "mright4747",
-      "reactions": 6,
-      "channel": "V2.6.0 纯玩旅行团：雪山七日深度游┊The \"Truly Breathtaking\" Snowy Peak 7-Day VIP Blitz!┊순수 패키지여행 상품: 설산에서 보내는 7일간의"
-    },
-    {
-      "id": "1538038171260948581",
-      "channel_id": "1131839817982947429",
-      "content": "這世界沒救了",
-      "author": "luna_.90",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

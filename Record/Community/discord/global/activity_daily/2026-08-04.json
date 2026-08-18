@@ -1,10 +1,11 @@
 {
   "date": "2026-08-04",
-  "messages": 14783,
+  "messages": 23914,
   "unique_authors": 303,
-  "reactions_total": 945,
-  "attachments": 656,
+  "reactions_total": 1784,
+  "attachments": 992,
   "channel_activity": {
+    "🔸morimens-game-chat": 9131,
     "🔸general-chat": 7061,
     "🔸綜合討論": 644,
     "🔸阵容构建": 2,
@@ -71,35 +72,35 @@
     "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 1
   },
   "hourly_activity": {
-    "21": 1205,
-    "22": 814,
-    "23": 421,
-    "3": 171,
-    "4": 251,
-    "5": 419,
-    "6": 365,
-    "7": 589,
-    "8": 701,
-    "9": 922,
-    "10": 936,
-    "11": 1030,
-    "12": 759,
-    "13": 558,
-    "14": 756,
-    "15": 615,
-    "16": 349,
-    "17": 376,
-    "18": 740,
-    "19": 1124,
-    "20": 781,
-    "0": 240,
-    "1": 375,
-    "2": 286
+    "0": 449,
+    "1": 661,
+    "2": 510,
+    "3": 403,
+    "4": 640,
+    "5": 1282,
+    "6": 1043,
+    "7": 838,
+    "8": 839,
+    "9": 1266,
+    "10": 1325,
+    "11": 1298,
+    "12": 1088,
+    "13": 974,
+    "14": 985,
+    "15": 1097,
+    "16": 922,
+    "17": 1019,
+    "18": 1356,
+    "19": 1645,
+    "20": 1062,
+    "21": 1387,
+    "22": 1246,
+    "23": 579
   },
   "message_types": {
-    "0": 10067,
-    "19": 4677,
-    "20": 38,
+    "0": 15813,
+    "19": 8055,
+    "20": 45,
     "23": 1
   },
   "top_reacted_messages": [
@@ -184,6 +185,30 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1534057604022796379",
+      "channel_id": "1170692781216378960",
+      "content": "425 <@296679098703544321> <@267888098732539914>",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1534195067000979476",
+      "channel_id": "1170692781216378960",
+      "content": "I have been rerolling in hsr for 10 hours",
+      "author": "spooky_penguin_",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1534281381247451329",
+      "channel_id": "1170692781216378960",
+      "content": "want me to sponsor you a bit sweetheart?",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1534299562066317534",
       "channel_id": "1400750050208125010",
       "content": "Anyway hoyo sucks for starting the era of open world mid gacha games",
@@ -238,30 +263,6 @@
       "author": "ahuahuahua",
       "reactions": 7,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1534012572318044210",
-      "channel_id": "1433513650299076780",
-      "content": "a lot of ppl helped me as well when i first started so paying it back i suppose",
-      "author": "lavenderjun0",
-      "reactions": 7,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1534107935326863481",
-      "channel_id": "1496525443329687723",
-      "content": "只挑顺手的画了）挑战用自己的画风画角色的表格 原图在p2使用随意",
-      "author": "resazur1n",
-      "reactions": 7,
-      "channel": "堆图ing"
-    },
-    {
-      "id": "1534295730343121037",
-      "channel_id": "1400750050208125010",
-      "content": "Although small Herta has doll joints",
-      "author": "zenji_shiro",
-      "reactions": 5,
-      "channel": "🔸general-chat"
     }
   ]
 }

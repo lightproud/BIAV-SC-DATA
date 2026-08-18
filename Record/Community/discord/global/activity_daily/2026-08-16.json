@@ -1,10 +1,43 @@
 {
   "date": "2026-08-16",
-  "messages": 14001,
+  "messages": 22352,
   "unique_authors": 330,
-  "reactions_total": 1385,
-  "attachments": 779,
+  "reactions_total": 2482,
+  "attachments": 1156,
   "channel_activity": {
+    "🔸morimens-game-chat": 8096,
+    "铁路": 3,
+    "堆图ing": 1,
+    "为何沙耶的肉脂在忘却篇h9-11弃牌时不会弃掉船长的领航": 5,
+    "Faros Hand Limit Visual Bug": 1,
+    "Please set Caraboo's Exalt cost to 100.": 3,
+    "Kill stealing, we could fix it": 14,
+    "Increase the points gain by extra clears in new dzone to 10": 4,
+    "Training Dummy": 3,
+    "Talent for everyone?": 1,
+    "Lotan: Cetarchon exalt damage number does not line up with the hit after update V2.5.3.3": 3,
+    "sp蘿坦配音可否考慮回調": 4,
+    "Lotan: Cetarchon voice lines after update V2.5.3.3": 35,
+    "Additional Record Filters": 2,
+    "Amber-Tinted Death does not benefit from PChaos stat enhancement": 2,
+    "Quadra / 4-Realm Rerun Banners": 19,
+    "Skin Preview": 3,
+    "Please rework how Propagation Caro works for the future units": 69,
+    "✅「已回答」「未解决」氪金玩家和老玩家是否已经成为游戏前进的阻力？": 2,
+    "V2.5.1.0 停服维护公告": 12,
+    "半周年限定社區活動": 1,
+    "Saya x Mori": 1,
+    "\"Do you miss the old you?\" — Pontos": 1,
+    "Gdoll": 2,
+    "YoruWiki ! ( hameln pic dumps for every1 !! )": 10,
+    "MOUCHETTE BEST GIRL (mimi unhinged ramble + art sometimes)": 6,
+    "Deutsche Übersetzung - Sammlung von Rückmeldungen": 2,
+    "V2.6.0 纯玩旅行团：雪山七日深度游┊The \"Truly Breathtaking\" Snowy Peak 7-Day VIP Blitz!┊순수 패키지여행 상품: 설산에서 보내는 7일간의": 7,
+    "忘卻8—12要怎過？": 102,
+    "新手，求融災隊伍(還有密契)建議": 1,
+    "融災組隊": 1,
+    "What are the best ways to spend prime silver?": 1,
+    "hesitant": 3,
     "🔸綜合討論": 495,
     "🔸阵容构建": 83,
     "🔸剧情交流": 31,
@@ -32,63 +65,82 @@
     "🔸general-chat": 7792,
     "我重生了，重生到忘卻前夜宣布關服的那天【多人接力抽象文】": 2,
     "敵人意圖描述中的狂放算力消耗誤標為 2": 1,
-    "Kill stealing, we could fix it": 3,
     "Why is gender change so expensive :(": 2,
     "Gathering Feedback - Part 3...": 1,
     "V2.6.X 投票 Polls": 1,
     "希望对新列车进行平衡调整 Request for a train event balance patch": 1,
-    "Lotan: Cetarchon exalt damage number does not line up with the hit after update V2.5.3.3": 1,
-    "sp蘿坦配音可否考慮回調": 3,
-    "Lotan: Cetarchon voice lines after update V2.5.3.3": 33,
-    "Additional Record Filters": 1,
     "請問可以加一個怪物的圖鑑嗎？": 3,
-    "Quadra / 4-Realm Rerun Banners": 7,
-    "Skin Preview": 2,
-    "Please rework how Propagation Caro works for the future units": 4,
-    "✅「已回答」「未解决」氪金玩家和老玩家是否已经成为游戏前进的阻力？": 1,
-    "V2.5.1.0 停服维护公告": 3,
     "Preview: V2.6.X Adjustments Based on Community Feedback 2": 1,
     "Preview: Traphase Pausing New Updates, Entering Balance Maintenance Mode": 1,
     "Clementine 🦋🌀": 1,
-    "YoruWiki ! ( hameln pic dumps for every1 !! )": 3,
     "【English Translation】Opinions Collection": 1,
-    "V2.6.0 纯玩旅行团：雪山七日深度游┊The \"Truly Breathtaking\" Snowy Peak 7-Day VIP Blitz!┊순수 패키지여행 상품: 설산에서 보내는 7일간의": 2,
-    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 2,
-    "忘卻8—12要怎過？": 6
+    "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 2
   },
   "hourly_activity": {
-    "7": 868,
-    "8": 459,
-    "9": 657,
-    "10": 666,
-    "11": 819,
-    "12": 690,
-    "13": 527,
-    "14": 334,
-    "15": 937,
-    "16": 1142,
-    "17": 726,
-    "18": 333,
-    "19": 703,
-    "21": 895,
-    "22": 826,
-    "23": 669,
-    "20": 902,
-    "0": 92,
-    "1": 212,
-    "2": 228,
-    "3": 145,
-    "4": 232,
-    "5": 428,
-    "6": 511
+    "0": 527,
+    "1": 539,
+    "2": 643,
+    "3": 446,
+    "4": 660,
+    "5": 518,
+    "6": 663,
+    "7": 944,
+    "8": 946,
+    "9": 848,
+    "10": 1022,
+    "11": 1195,
+    "12": 1262,
+    "13": 977,
+    "14": 683,
+    "15": 1363,
+    "16": 1379,
+    "17": 1081,
+    "18": 714,
+    "19": 1281,
+    "20": 1404,
+    "21": 1244,
+    "22": 1151,
+    "23": 862
   },
   "message_types": {
-    "19": 5737,
-    "0": 8227,
-    "20": 36,
+    "0": 13413,
+    "19": 8894,
+    "20": 44,
     "18": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1538602107035451423",
+      "channel_id": "1538602107035451423",
+      "content": "<:Saya_key:1513122945885536378>  \n101032972",
+      "author": "epifunter",
+      "reactions": 14,
+      "channel": "Saya x Mori"
+    },
+    {
+      "id": "1538341477909008394",
+      "channel_id": "1170692781216378960",
+      "content": "do you ever buy them ?",
+      "author": "topazlh",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1538501950411378779",
+      "channel_id": "1170692781216378960",
+      "content": "Horla <:Helot_slack_off:1459092159465521184>",
+      "author": "_kokoday0",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1538393224685690901",
+      "channel_id": "1170692781216378960",
+      "content": "<@693905974750216212>",
+      "author": "climbkaly",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1538535252794806312",
       "channel_id": "1131839817982947429",
@@ -98,12 +150,44 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1538651451063140352",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "not_blueberry",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1538576976057729096",
       "channel_id": "1385040039448412170",
       "content": "thats ur suggestion ? <:Gramona_oops:1356053033724674255>",
       "author": "._ingg",
       "reactions": 9,
       "channel": "🔸频道建议┊server-suggestions"
+    },
+    {
+      "id": "1538386032658096169",
+      "channel_id": "1170692781216378960",
+      "content": "Just checked.\n\nHighest ranking Liz team and no borrows (cause you know whale....",
+      "author": "climbkaly",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1538642585298534531",
+      "channel_id": "1170692781216378960",
+      "content": "Congrats on 425 btw.\n\nI'll do it next dtide....cause I was waiting for GUltra un",
+      "author": "climbkaly",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1538522658566578237",
+      "channel_id": "1538522658566578237",
+      "content": "i just like crazy women ok",
+      "author": "chinkeeyong",
+      "reactions": 8,
+      "channel": "Gdoll"
     },
     {
       "id": "1538698697850888323",
@@ -138,116 +222,52 @@
       "channel": "🔸phòng-chat-tiếng-việt"
     },
     {
-      "id": "1538537613818986567",
-      "channel_id": "1131839817982947429",
+      "id": "1538406017258487810",
+      "channel_id": "1170692781216378960",
+      "content": "wordle",
+      "author": "serahh__",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1538458746358071337",
+      "channel_id": "1170692781216378960",
+      "content": "First 425 <:24_smile:1459073862544130131>",
+      "author": "mythicmoonwort",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1538513935945175052",
+      "channel_id": "1170692781216378960",
+      "content": "https://fixupx.com/i/status/2088955013095678264",
+      "author": "idotly",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1538566437675864094",
+      "channel_id": "1170692781216378960",
       "content": "",
-      "author": "galagalaguo",
+      "author": "kevsalvador",
       "reactions": 6,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1538538520602345503",
-      "channel_id": "1400750050208125010",
-      "content": "To this day, i still don't know both arknights and morimens stories",
-      "author": "moyashi0672",
+      "id": "1538636954579767486",
+      "channel_id": "1170692781216378960",
+      "content": "ok ghelot doesn't eat thais, she eats aigis",
+      "author": "arandomflamev2",
       "reactions": 6,
-      "channel": "🔸general-chat"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1538599284256022660",
-      "channel_id": "1400750050208125010",
-      "content": "He deserves to be mpregged the most for being so based",
-      "author": "chaoticreaper5932",
+      "id": "1538698317649936394",
+      "channel_id": "1170692781216378960",
+      "content": "Disclaimer, I know who this is and this is a joke comment by them",
+      "author": "angbak",
       "reactions": 6,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1538361569354973295",
-      "channel_id": "1326453763355185215",
-      "content": "Guys, please don't spoiler the artwork please.",
-      "author": "lowtownnivn",
-      "reactions": 6,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1538382276839088339",
-      "channel_id": "1326453763355185215",
-      "content": "<@289320818901778434> <@1057001519318302830> Dorian Gray awakener and his whole ",
-      "author": "_venush",
-      "reactions": 6,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1538456430531706970",
-      "channel_id": "1131839817982947429",
-      "content": "<@827858760050540613> <@1009790294230839358> 佬我過了🛐",
-      "author": "oiia_0216",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538569968189448212",
-      "channel_id": "1131839817982947429",
-      "content": "累",
-      "author": "ponponnyaru",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538449874037768242",
-      "channel_id": "1433513650299076780",
-      "content": "\"we at BIVA tested doresain's kit and found absolutely nothing wrong with him an",
-      "author": "watchthew0rldburn",
-      "reactions": 5,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1538391099012419594",
-      "channel_id": "1400750050208125010",
-      "content": "The new arknights update <:Karen_guilty:1468258923009282140> <:Horla_shy:1468259",
-      "author": "p19682",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1538564201977614428",
-      "channel_id": "1400750050208125010",
-      "content": "Kirei had a lot of aura in fate zero and he spent it all fighting a wet dog in a",
-      "author": "bocchi_the_raf",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1538598528757141534",
-      "channel_id": "1400750050208125010",
-      "content": "Nooo",
-      "author": "bruhlucifer",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1538696136712388668",
-      "channel_id": "1400750050208125010",
-      "content": "Autism?",
-      "author": "aery_the.ghost",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1538359795076046939",
-      "channel_id": "1300659603993923644",
-      "content": "",
-      "author": "khaduong2211._85445",
-      "reactions": 5,
-      "channel": "🔸phòng-chat-tiếng-việt"
-    },
-    {
-      "id": "1538475224331321375",
-      "channel_id": "1131839817982947429",
-      "content": "偷学一手",
-      "author": "galagalaguo",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

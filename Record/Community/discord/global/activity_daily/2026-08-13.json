@@ -1,10 +1,11 @@
 {
   "date": "2026-08-13",
-  "messages": 12255,
+  "messages": 26103,
   "unique_authors": 318,
-  "reactions_total": 1397,
-  "attachments": 571,
+  "reactions_total": 3253,
+  "attachments": 1023,
   "channel_activity": {
+    "🔸morimens-game-chat": 13848,
     "🔸general-chat": 4924,
     "🔸綜合討論": 1301,
     "🔸阵容构建": 15,
@@ -76,39 +77,39 @@
     "【Newcomer Help】Forum Introduction": 1
   },
   "hourly_activity": {
-    "0": 688,
-    "1": 453,
-    "2": 436,
-    "3": 716,
-    "4": 483,
-    "5": 304,
-    "6": 600,
-    "7": 439,
-    "8": 377,
-    "9": 678,
-    "10": 442,
-    "11": 759,
-    "12": 349,
-    "13": 327,
-    "14": 624,
-    "15": 586,
-    "16": 492,
-    "17": 331,
-    "18": 334,
-    "19": 837,
-    "20": 565,
-    "21": 800,
-    "22": 434,
-    "23": 201
+    "0": 857,
+    "1": 670,
+    "2": 801,
+    "3": 1212,
+    "4": 1226,
+    "5": 1287,
+    "6": 1610,
+    "7": 1093,
+    "8": 845,
+    "9": 1406,
+    "10": 1249,
+    "11": 1550,
+    "12": 1110,
+    "13": 1011,
+    "14": 1210,
+    "15": 839,
+    "16": 924,
+    "17": 777,
+    "18": 776,
+    "19": 1607,
+    "20": 1091,
+    "21": 1267,
+    "22": 1007,
+    "23": 678
   },
   "message_types": {
-    "19": 3803,
-    "0": 8396,
-    "20": 41,
+    "0": 16845,
+    "19": 9179,
+    "6": 12,
+    "20": 61,
     "23": 2,
     "4": 3,
-    "46": 1,
-    "6": 9
+    "46": 1
   },
   "top_reacted_messages": [
     {
@@ -160,12 +161,36 @@
       "channel": "Preview: V2.6.X Adjustments Based on Community Feedback 2"
     },
     {
+      "id": "1537458777865977957",
+      "channel_id": "1170692781216378960",
+      "content": "Get with the times",
+      "author": "undeterredhomo",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1537387690062778438",
       "channel_id": "1537340158863482921",
       "content": "on a side note,\n\nPeople wouldnt complain as much if there were no channels to gi",
       "author": "crowlov1",
       "reactions": 13,
       "channel": "Preview: V2.6.X Adjustments Based on Community Feedback 2"
+    },
+    {
+      "id": "1537561168611123290",
+      "channel_id": "1170692781216378960",
+      "content": "Did you know",
+      "author": "not_blueberry",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1537574858052079666",
+      "channel_id": "1170692781216378960",
+      "content": "<:Aurita_please:1356053110375714817>",
+      "author": "legendaryredz",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1537477090826256535",
@@ -192,6 +217,14 @@
       "channel": "Gathering Feedback Part 2"
     },
     {
+      "id": "1537422917569355837",
+      "channel_id": "1170692781216378960",
+      "content": "I dps-ed with leigh",
+      "author": "arandomflamev2",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1537477596143558717",
       "channel_id": "1537340158863482921",
       "content": "<@1487626955791663208> So 30 ppls here in discord who vote in useless polls and ",
@@ -206,6 +239,14 @@
       "author": "nirski",
       "reactions": 10,
       "channel": "Preview: V2.6.X Adjustments Based on Community Feedback 2"
+    },
+    {
+      "id": "1537607768628924538",
+      "channel_id": "1170692781216378960",
+      "content": "Step 1. Get sufficient keyflare\nStep 2. Aigis\nStep 3. Put an AA Mouchette in",
+      "author": "angbak",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1537496207230771310",
@@ -230,46 +271,6 @@
       "author": "lolitadresscon",
       "reactions": 9,
       "channel": "Preview: V2.6.X Adjustments Based on Community Feedback 2"
-    },
-    {
-      "id": "1537343267459571753",
-      "channel_id": "1537340158863482921",
-      "content": "問題來了，有多少個人記得相位對弈",
-      "author": "luna_.90",
-      "reactions": 9,
-      "channel": "Preview: V2.6.X Adjustments Based on Community Feedback 2"
-    },
-    {
-      "id": "1537344722572673044",
-      "channel_id": "1537340158863482921",
-      "content": "This isn't usually a simple fixed number — it varies depending on differences be",
-      "author": "lightproud",
-      "reactions": 9,
-      "channel": "Preview: V2.6.X Adjustments Based on Community Feedback 2"
-    },
-    {
-      "id": "1537389408058351667",
-      "channel_id": "1131839817982947429",
-      "content": "繁衍狂熱可以做成主模式嗎",
-      "author": "darkfire1058",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1537403445949243442",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1537349300751700088",
-      "channel_id": "1131839817982947429",
-      "content": "就跟要先做誰的倒模出來一樣令人糾結",
-      "author": "yi000607",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
     }
   ]
 }

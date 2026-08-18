@@ -1,10 +1,11 @@
 {
   "date": "2026-08-08",
-  "messages": 16761,
+  "messages": 28357,
   "unique_authors": 316,
-  "reactions_total": 1675,
-  "attachments": 800,
+  "reactions_total": 3176,
+  "attachments": 1226,
   "channel_activity": {
+    "🔸morimens-game-chat": 11596,
     "🔸general-chat": 9459,
     "🔸綜合討論": 601,
     "🔸阵容构建": 10,
@@ -70,35 +71,35 @@
     "【Newcomer Help】Forum Introduction": 4
   },
   "hourly_activity": {
-    "0": 212,
-    "1": 401,
-    "2": 329,
-    "3": 661,
-    "4": 641,
-    "5": 529,
-    "6": 272,
-    "7": 346,
-    "8": 850,
-    "9": 661,
-    "10": 434,
-    "11": 553,
-    "12": 936,
-    "13": 538,
-    "14": 735,
-    "15": 1176,
-    "16": 946,
-    "17": 1508,
-    "18": 1456,
-    "19": 1061,
-    "20": 327,
-    "21": 628,
-    "22": 575,
-    "23": 986
+    "0": 679,
+    "1": 654,
+    "2": 500,
+    "3": 970,
+    "4": 1549,
+    "5": 1175,
+    "6": 1033,
+    "7": 514,
+    "8": 1187,
+    "9": 1159,
+    "10": 726,
+    "11": 1092,
+    "12": 1567,
+    "13": 1132,
+    "14": 1369,
+    "15": 1976,
+    "16": 1612,
+    "17": 2011,
+    "18": 2152,
+    "19": 1495,
+    "20": 668,
+    "21": 1033,
+    "22": 732,
+    "23": 1372
   },
   "message_types": {
-    "0": 10015,
-    "19": 6697,
-    "20": 46,
+    "0": 16445,
+    "19": 11856,
+    "20": 53,
     "23": 2,
     "21": 1
   },
@@ -120,12 +121,36 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1535666718335311892",
+      "channel_id": "1170692781216378960",
+      "content": "Chat am I cooking",
+      "author": "acornn1",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1535729222591586417",
+      "channel_id": "1170692781216378960",
+      "content": "I just run through w1",
+      "author": "aurora3981",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1535557603315159090",
       "channel_id": "1535557603315159090",
       "content": "I wanted to indulge Doresain a bit with one of the moment he looks forward to in",
       "author": "that_one_chippy",
       "reactions": 11,
       "channel": "\"To be loved, is to be devoured\" || Doresain X Sylvester"
+    },
+    {
+      "id": "1535668907610738738",
+      "channel_id": "1170692781216378960",
+      "content": "Oh also <@979675245503995974> \n\nI FINALLY GOT POLLUX TO +12!!!!!\nI worked so har",
+      "author": "the_black_butterfly",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1535558261149802556",
@@ -150,6 +175,30 @@
       "author": "sparklingwater_69",
       "reactions": 9,
       "channel": "Chiikawa guyz🥳🥳"
+    },
+    {
+      "id": "1535590542698749953",
+      "channel_id": "1170692781216378960",
+      "content": "Soon™ 7/10",
+      "author": "corvim",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1535671253803733054",
+      "channel_id": "1170692781216378960",
+      "content": "Chat... I....\n\nI.....\n\n.....I actually like Doresain's gameplay....",
+      "author": "the_black_butterfly",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1535758332885737592",
+      "channel_id": "1170692781216378960",
+      "content": "but i have like 9 protos saved",
+      "author": "arandomflamev2",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1535576554304839801",
@@ -184,84 +233,36 @@
       "channel": "🔸game-question"
     },
     {
+      "id": "1535694921795633272",
+      "channel_id": "1170692781216378960",
+      "content": "ggs",
+      "author": "corvim",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1535718145371799672",
+      "channel_id": "1170692781216378960",
+      "content": "The only acceptable AI is the silly cats foing random ass dances",
+      "author": "leviathxan",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1535720640970100788",
+      "channel_id": "1170692781216378960",
+      "content": "yah its by starnyan gpt the most ethical and cute ai because i dont use clean dr",
+      "author": "glitzy_x",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1535577532911456266",
       "channel_id": "1400750050208125010",
       "content": "<@770354215943929936> yeeeeees?",
       "author": "zenji_shiro",
       "reactions": 7,
       "channel": "🔸general-chat"
-    },
-    {
-      "id": "1535695684102135879",
-      "channel_id": "1400750050208125010",
-      "content": "I'm not getting mpregged again",
-      "author": "_kokoday0",
-      "reactions": 7,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1535669156236759171",
-      "channel_id": "1131839817982947429",
-      "content": "~~不然凹8次~~",
-      "author": "nemu_s_t_a_r",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1535526852834238545",
-      "channel_id": "1433513650299076780",
-      "content": "two days left to see if i wanna AA pollux huh",
-      "author": "lithanor",
-      "reactions": 7,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1535577804861743114",
-      "channel_id": "1400750050208125010",
-      "content": "<@770354215943929936> what's bad? Work? Work sucks...",
-      "author": "zenji_shiro",
-      "reactions": 6,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1535578741340770375",
-      "channel_id": "1400750050208125010",
-      "content": "<@770354215943929936> hope you're well in the shadow realm hag",
-      "author": "chaoticreaper5932",
-      "reactions": 6,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1535579299288186911",
-      "channel_id": "1400750050208125010",
-      "content": "How long is the ban Restricted Rue",
-      "author": "bocchi_the_raf",
-      "reactions": 6,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1535587417946595409",
-      "channel_id": "1400750050208125010",
-      "content": "LR Daima Goku when I need him to crit",
-      "author": "zenji_shiro",
-      "reactions": 6,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1535559264872169522",
-      "channel_id": "1131839817982947429",
-      "content": "終於400<:Corpo_advance:1459080545882341376>",
-      "author": "fgoisaac",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1535610751643815947",
-      "channel_id": "1131839817982947429",
-      "content": "嘛有专造起码能看出来是萝坦在c了<:Lotan_proud:1356053120651755641>",
-      "author": "sweet_25367",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
     }
   ]
 }
