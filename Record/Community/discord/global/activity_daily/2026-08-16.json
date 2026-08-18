@@ -1,31 +1,35 @@
 {
   "date": "2026-08-16",
-  "messages": 1864,
-  "unique_authors": 157,
-  "reactions_total": 225,
-  "attachments": 103,
+  "messages": 14001,
+  "unique_authors": 330,
+  "reactions_total": 1385,
+  "attachments": 779,
   "channel_activity": {
-    "🔸綜合討論": 115,
-    "🔸阵容构建": 18,
-    "🔸剧情交流": 29,
-    "🔸欢乐梗图": 6,
-    "🔸课间休息闲聊": 260,
-    "🔸한국어-채팅방": 4,
-    "🔸русский-канал": 12,
-    "🔸phòng-chat-tiếng-việt": 59,
-    "🔸canal-español": 85,
-    "🔸canal-português": 1,
-    "🔸ruang-obrolan-indonesia": 65,
-    "🔸ห้องสนทนาภาษาไทย": 58,
-    "🔸traphase": 20,
-    "🔸lore-chat": 60,
-    "🔸lets-count": 5,
-    "🔸team-building": 193,
-    "🔸邀请码互助┊swap-invitation-codes": 4,
-    "🔸game-question": 732,
-    "🔸游戏问题": 42,
-    "🔸机器人命令┊bot-commands": 9,
-    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 1,
+    "🔸綜合討論": 495,
+    "🔸阵容构建": 83,
+    "🔸剧情交流": 31,
+    "🔸欢乐梗图": 8,
+    "🔸课间休息闲聊": 463,
+    "🔸한국어-채팅방": 18,
+    "🔸deutscher-chatraum": 5,
+    "🔸chaîne-française": 5,
+    "🔸русский-канал": 431,
+    "🔸phòng-chat-tiếng-việt": 342,
+    "🔸canal-español": 94,
+    "🔸canal-português": 180,
+    "🔸ruang-obrolan-indonesia": 206,
+    "🔸ห้องสนทนาภาษาไทย": 155,
+    "🔸traphase": 38,
+    "🔸lore-chat": 557,
+    "🔸lets-count": 25,
+    "🔸频道建议┊server-suggestions": 2,
+    "🔸team-building": 480,
+    "🔸邀请码互助┊swap-invitation-codes": 11,
+    "🔸game-question": 2393,
+    "🔸游戏问题": 61,
+    "🔸机器人命令┊bot-commands": 35,
+    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 5,
+    "🔸general-chat": 7792,
     "我重生了，重生到忘卻前夜宣布關服的那天【多人接力抽象文】": 2,
     "敵人意圖描述中的狂放算力消耗誤標為 2": 1,
     "Kill stealing, we could fix it": 3,
@@ -53,21 +57,62 @@
     "忘卻8—12要怎過？": 6
   },
   "hourly_activity": {
-    "0": 71,
-    "1": 123,
-    "2": 154,
-    "3": 131,
-    "4": 209,
-    "5": 420,
-    "7": 263,
-    "6": 493
+    "7": 868,
+    "8": 459,
+    "9": 657,
+    "10": 666,
+    "11": 819,
+    "12": 690,
+    "13": 527,
+    "14": 334,
+    "15": 937,
+    "16": 1142,
+    "17": 726,
+    "18": 333,
+    "19": 703,
+    "21": 895,
+    "22": 826,
+    "23": 669,
+    "20": 902,
+    "0": 92,
+    "1": 212,
+    "2": 228,
+    "3": 145,
+    "4": 232,
+    "5": 428,
+    "6": 511
   },
   "message_types": {
-    "0": 1351,
-    "19": 505,
-    "20": 8
+    "19": 5737,
+    "0": 8227,
+    "20": 36,
+    "18": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1538535252794806312",
+      "channel_id": "1131839817982947429",
+      "content": "凹425的是M不成",
+      "author": "akkom730",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538576976057729096",
+      "channel_id": "1385040039448412170",
+      "content": "thats ur suggestion ? <:Gramona_oops:1356053033724674255>",
+      "author": "._ingg",
+      "reactions": 9,
+      "channel": "🔸频道建议┊server-suggestions"
+    },
+    {
+      "id": "1538698697850888323",
+      "channel_id": "1400750050208125010",
+      "content": "Race purity test on the same day a Hitler sympathiser shows up on the server",
+      "author": "601671_",
+      "reactions": 8,
+      "channel": "🔸general-chat"
+    },
     {
       "id": "1538404911467991110",
       "channel_id": "1131839817982947429",
@@ -77,12 +122,44 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1538497727296442369",
+      "channel_id": "1433513650299076780",
+      "content": "should have the stack count on its details somewhere",
+      "author": "lithanor",
+      "reactions": 7,
+      "channel": "🔸game-question"
+    },
+    {
       "id": "1538405878103801926",
       "channel_id": "1300659603993923644",
       "content": "Thanks to <@474412169249947669>   for helping me a lot\nI couldn't have played on",
       "author": "khaduong2211._85445",
       "reactions": 7,
       "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1538537613818986567",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "galagalaguo",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538538520602345503",
+      "channel_id": "1400750050208125010",
+      "content": "To this day, i still don't know both arknights and morimens stories",
+      "author": "moyashi0672",
+      "reactions": 6,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1538599284256022660",
+      "channel_id": "1400750050208125010",
+      "content": "He deserves to be mpregged the most for being so based",
+      "author": "chaoticreaper5932",
+      "reactions": 6,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1538361569354973295",
@@ -101,6 +178,62 @@
       "channel": "🔸lore-chat"
     },
     {
+      "id": "1538456430531706970",
+      "channel_id": "1131839817982947429",
+      "content": "<@827858760050540613> <@1009790294230839358> 佬我過了🛐",
+      "author": "oiia_0216",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538569968189448212",
+      "channel_id": "1131839817982947429",
+      "content": "累",
+      "author": "ponponnyaru",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538449874037768242",
+      "channel_id": "1433513650299076780",
+      "content": "\"we at BIVA tested doresain's kit and found absolutely nothing wrong with him an",
+      "author": "watchthew0rldburn",
+      "reactions": 5,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1538391099012419594",
+      "channel_id": "1400750050208125010",
+      "content": "The new arknights update <:Karen_guilty:1468258923009282140> <:Horla_shy:1468259",
+      "author": "p19682",
+      "reactions": 5,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1538564201977614428",
+      "channel_id": "1400750050208125010",
+      "content": "Kirei had a lot of aura in fate zero and he spent it all fighting a wet dog in a",
+      "author": "bocchi_the_raf",
+      "reactions": 5,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1538598528757141534",
+      "channel_id": "1400750050208125010",
+      "content": "Nooo",
+      "author": "bruhlucifer",
+      "reactions": 5,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1538696136712388668",
+      "channel_id": "1400750050208125010",
+      "content": "Autism?",
+      "author": "aery_the.ghost",
+      "reactions": 5,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1538359795076046939",
       "channel_id": "1300659603993923644",
       "content": "",
@@ -109,124 +242,12 @@
       "channel": "🔸phòng-chat-tiếng-việt"
     },
     {
-      "id": "1538447395652894782",
-      "channel_id": "1300659603993923644",
-      "content": "Taking a break from my account and was trying to 400 on Angbaks awful a1 guide a",
-      "author": "dracozion",
+      "id": "1538475224331321375",
+      "channel_id": "1131839817982947429",
+      "content": "偷学一手",
+      "author": "galagalaguo",
       "reactions": 4,
-      "channel": "🔸phòng-chat-tiếng-việt"
-    },
-    {
-      "id": "1538354903510949899",
-      "channel_id": "1131839817982947429",
-      "content": "圣诞节的卡墨",
-      "author": "carme.0588",
-      "reactions": 3,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538421203646156901",
-      "channel_id": "1131839817982947429",
-      "content": "有大佬可以帶帶我嗎",
-      "author": "ahuahuahua",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538421156816752710",
-      "channel_id": "1181152750319456266",
-      "content": "其實是鬃毛二狂鬼轉獸術具",
-      "author": "ahong0727",
-      "reactions": 3,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1538370698433798236",
-      "channel_id": "1300659662311526512",
-      "content": "Pero si por el poto de thais es que se fueron a quiebra",
-      "author": "ancientbp",
-      "reactions": 3,
-      "channel": "🔸canal-español"
-    },
-    {
-      "id": "1538395111333957663",
-      "channel_id": "1433513650299076780",
-      "content": "But I also have the to the stars on her if that makes a difference. Fragrant has",
-      "author": "faolin_4680",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1538440129474203758",
-      "channel_id": "1433513650299076780",
-      "content": "get everything",
-      "author": "princess.goth",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1538344040657850438",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "abhartach_0",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538345052357791755",
-      "channel_id": "1131839817982947429",
-      "content": "淡墨",
-      "author": "abhartach_0",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538410350901329950",
-      "channel_id": "1131839817982947429",
-      "content": "第二次425",
-      "author": "ling_an_",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538416853485883522",
-      "channel_id": "1131839817982947429",
-      "content": "<@920561286578856007>",
-      "author": "kemomimi_",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538415127496368218",
-      "channel_id": "1181152750319456266",
-      "content": "在大馬遇到玩9的堪比遇到一隻鬃毛沙礫",
-      "author": "ahong0727",
-      "reactions": 2,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1538417787532349451",
-      "channel_id": "1181152750319456266",
-      "content": "os：为什么没有人嗑本可和哑谜 我觉得我两百多抽满塑很爽啊",
-      "author": "encyoverride",
-      "reactions": 2,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1538425090587369602",
-      "channel_id": "1181152750319456266",
-      "content": "搞得好像你多高能一样",
-      "author": "encyoverride",
-      "reactions": 2,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1538446328395341854",
-      "channel_id": "1300659603993923644",
-      "content": "Vn players are always cooking!",
-      "author": "dracozion",
-      "reactions": 2,
-      "channel": "🔸phòng-chat-tiếng-việt"
     }
   ]
 }

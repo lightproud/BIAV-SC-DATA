@@ -1,11 +1,11 @@
 {
   "date": "2026-06-18",
-  "messages": 18633,
+  "messages": 22676,
   "unique_authors": 404,
-  "reactions_total": 2991,
-  "attachments": 858,
+  "reactions_total": 6335,
+  "attachments": 1062,
   "channel_activity": {
-    "🔸morimens-game-chat": 3724,
+    "🔸morimens-game-chat": 7767,
     "🔸game-question": 3024,
     "🔸general-chat": 5022,
     "🔸綜合討論": 2245,
@@ -91,6 +91,17 @@
     "Need help for end Chpt 8 Story. Do I need to swap or reinvest in new members?": 17
   },
   "hourly_activity": {
+    "13": 2629,
+    "14": 1964,
+    "15": 1381,
+    "16": 2072,
+    "17": 1765,
+    "18": 578,
+    "19": 342,
+    "20": 390,
+    "21": 821,
+    "22": 860,
+    "23": 636,
     "0": 381,
     "1": 460,
     "2": 463,
@@ -103,23 +114,13 @@
     "9": 1585,
     "10": 468,
     "11": 680,
-    "12": 944,
-    "13": 2291,
-    "17": 1213,
-    "18": 212,
-    "19": 244,
-    "20": 262,
-    "21": 490,
-    "22": 102,
-    "23": 173,
-    "14": 1689,
-    "15": 1114,
-    "16": 1605
+    "12": 944
   },
   "message_types": {
-    "19": 1038,
-    "0": 3084,
-    "20": 6
+    "0": 5523,
+    "19": 2634,
+    "6": 1,
+    "20": 13
   },
   "top_reacted_messages": [
     {
@@ -147,6 +148,78 @@
       "channel": "🐱light’s-nest"
     },
     {
+      "id": "1517165069165789295",
+      "channel_id": "1170692781216378960",
+      "content": "<@&1440134711790927913>   ha Ha, here it is.",
+      "author": "lightproud",
+      "reactions": 203,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1517168019682365543",
+      "channel_id": "1170692781216378960",
+      "content": "I promise I won't ping everyone again for anything that isn't an official announ",
+      "author": "lightproud",
+      "reactions": 115,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1517169777351725249",
+      "channel_id": "1170692781216378960",
+      "content": "My bad — sorry for the trouble, everyone! I usually just ping and then run off t",
+      "author": "lightproud",
+      "reactions": 115,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1517164225221497053",
+      "channel_id": "1170692781216378960",
+      "content": "Sorry, I always get so excited and want to share things with everyone.",
+      "author": "lightproud",
+      "reactions": 113,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1517165072076767282",
+      "channel_id": "1170692781216378960",
+      "content": "If i get pinged again, everyone is getting pregnant",
+      "author": "enkkorell",
+      "reactions": 89,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1517166397652992060",
+      "channel_id": "1170692781216378960",
+      "content": "Just sharing this with you — <@328059424667205633> 's incredible Vietnamese cove",
+      "author": "lightproud",
+      "reactions": 61,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1517164625261756506",
+      "channel_id": "1170692781216378960",
+      "content": "This is truly beautiful — the artwork, the arrangement… and of course your emoti",
+      "author": "lightproud",
+      "reactions": 48,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1517164774629183709",
+      "channel_id": "1170692781216378960",
+      "content": "I expect doresain nerf as compensation for the ping",
+      "author": "nokosan_",
+      "reactions": 41,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1517166071524622480",
+      "channel_id": "1170692781216378960",
+      "content": "just as reward for us who stays attentive to the game and chat can we please hav",
+      "author": "2ndselna",
+      "reactions": 40,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1517145251087646782",
       "channel_id": "1517145251087646782",
       "content": "Hello guys! This is our Vietnamese team work on the song for the cover. Hopefull",
@@ -155,132 +228,60 @@
       "channel": "Song Of Memento - Vietnamese Cover   (English and Chinese subtitle available)"
     },
     {
-      "id": "1517072463836745728",
-      "channel_id": "1517072463836745728",
+      "id": "1517165530786828398",
+      "channel_id": "1170692781216378960",
+      "content": "I know this might sound bizarre, but the game I've actually played the longest i",
+      "author": "lightproud",
+      "reactions": 36,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1517171094178631700",
+      "channel_id": "1170692781216378960",
+      "content": "Don't worry Anyway, it was funny. I'm going to try the gacha banner now, Ryker. ",
+      "author": "hectorwolffox",
+      "reactions": 36,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1517169195090055168",
+      "channel_id": "1170692781216378960",
+      "content": "Who pinged?",
+      "author": "existenceissuffering",
+      "reactions": 34,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1517170341624025268",
+      "channel_id": "1170692781216378960",
       "content": "",
-      "author": "lavenderjun0",
-      "reactions": 22,
-      "channel": "Casiah"
+      "author": "xianrenwurao",
+      "reactions": 34,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1517182157632573491",
-      "channel_id": "1517182157632573491",
-      "content": "I have some REAL struggle while drawing her because i choose to take her back vi",
-      "author": "ruuwuw",
-      "reactions": 19,
-      "channel": "I MAKE THAIS FANART!!!"
+      "id": "1517166962105520338",
+      "channel_id": "1170692781216378960",
+      "content": "wow the producer cant even @ everyone in yall's opinion<:Celeste_agree:140077181",
+      "author": "sooneruzuki",
+      "reactions": 32,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1517088501101887518",
-      "channel_id": "1517088501101887518",
-      "content": "I get cuteness aggression looking at him 🐈 \n\n~~I want to eat him <:Doresain_prou",
-      "author": "that_one_chippy",
-      "reactions": 18,
-      "channel": "Curious || Sylvester"
+      "id": "1517167354654621778",
+      "channel_id": "1170692781216378960",
+      "content": "5 minute slow mode i better make use of it. \nhttps://cdn.discordapp.com/attachme",
+      "author": "arandomflamev2",
+      "reactions": 32,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1517072270030405782",
-      "channel_id": "1517072270030405782",
-      "content": "https://x.com/lavenderjun0/status/2061989192557551765/photo/1",
-      "author": "lavenderjun0",
-      "reactions": 18,
-      "channel": "Mouchette doodle"
-    },
-    {
-      "id": "1517072031664046151",
-      "channel_id": "1517072031664046151",
-      "content": "",
-      "author": "lavenderjun0",
-      "reactions": 17,
-      "channel": "Tinct"
-    },
-    {
-      "id": "1517169594756763678",
-      "channel_id": "1517169594756763678",
-      "content": "I wish I could include all the awakeners but sadly, limited space *(and not all ",
-      "author": "celrxn",
-      "reactions": 16,
-      "channel": "Keeper's Dandelion Field"
-    },
-    {
-      "id": "1517173340857565205",
-      "channel_id": "1131839817982947429",
-      "content": "\\",
-      "author": "nemu_s_t_a_r",
-      "reactions": 14,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1516975517125841008",
-      "channel_id": "1131839817982947429",
-      "content": "終於",
-      "author": "cwz.io",
-      "reactions": 13,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1517176588578328748",
-      "channel_id": "1385040039448412170",
-      "content": "ok but consider the following :",
-      "author": "zzio_",
-      "reactions": 13,
-      "channel": "🔸频道建议┊server-suggestions"
-    },
-    {
-      "id": "1516981004949262478",
-      "channel_id": "1174983699935277147",
-      "content": "",
-      "author": "cwz.io",
-      "reactions": 12,
-      "channel": "🔸晒卡分享"
-    },
-    {
-      "id": "1517196412826161274",
-      "channel_id": "1400749543288475770",
-      "content": "Mouchette can be paired with goliath. His exalt gives 3 strike cards with high d",
-      "author": "ymarsakar",
-      "reactions": 12,
-      "channel": "🔸team-building"
-    },
-    {
-      "id": "1517165592488968233",
-      "channel_id": "1131839817982947429",
-      "content": "地下那句老外评论：如果我再被ping，所有人都会怀孕。",
-      "author": "xyakoto",
-      "reactions": 11,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1517063262728884254",
-      "channel_id": "1300659603993923644",
-      "content": "https://youtu.be/oG5vOLiSiZE",
-      "author": "anicillia",
-      "reactions": 11,
-      "channel": "🔸phòng-chat-tiếng-việt"
-    },
-    {
-      "id": "1517072400754151555",
-      "channel_id": "1517072400754151555",
-      "content": "",
-      "author": "lavenderjun0",
-      "reactions": 10,
-      "channel": "Kathigu-ra"
-    },
-    {
-      "id": "1517165948350627862",
-      "channel_id": "1131839817982947429",
-      "content": "？怎麼剛上來看dc我的肚子變大了",
-      "author": "ass191044",
-      "reactions": 9,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1517169978984370297",
-      "channel_id": "1131839817982947429",
-      "content": "Morimens chat is in slowmode so I'm here for now",
-      "author": "._.aahh",
-      "reactions": 9,
-      "channel": "🔸綜合討論"
+      "id": "1517166105993412669",
+      "channel_id": "1170692781216378960",
+      "content": "I goon to Izutsumi from Dungeon Meshi and to Pickman",
+      "author": "reloaded_morimens_pm_fan",
+      "reactions": 30,
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

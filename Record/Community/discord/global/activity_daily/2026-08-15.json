@@ -1,10 +1,11 @@
 {
   "date": "2026-08-15",
-  "messages": 7368,
+  "messages": 12400,
   "unique_authors": 292,
-  "reactions_total": 715,
-  "attachments": 410,
+  "reactions_total": 1162,
+  "attachments": 689,
   "channel_activity": {
+    "🔸general-chat": 5032,
     "🔸綜合討論": 871,
     "🔸欢乐梗图": 8,
     "🔸课间休息闲聊": 171,
@@ -75,35 +76,36 @@
     "求融災組隊，目標350+": 1
   },
   "hourly_activity": {
-    "7": 724,
-    "8": 310,
-    "9": 153,
-    "10": 138,
-    "11": 301,
-    "12": 352,
-    "13": 293,
-    "14": 338,
-    "15": 203,
-    "16": 267,
-    "17": 527,
-    "18": 334,
-    "19": 152,
-    "20": 109,
-    "22": 298,
-    "23": 283,
-    "21": 163,
-    "0": 180,
-    "1": 332,
-    "2": 355,
-    "3": 440,
-    "4": 580,
-    "5": 284,
-    "6": 252
+    "0": 556,
+    "1": 378,
+    "2": 369,
+    "3": 637,
+    "4": 709,
+    "5": 424,
+    "6": 452,
+    "7": 838,
+    "8": 419,
+    "9": 355,
+    "10": 341,
+    "11": 490,
+    "12": 679,
+    "13": 641,
+    "14": 929,
+    "15": 498,
+    "16": 396,
+    "17": 903,
+    "18": 585,
+    "19": 424,
+    "20": 448,
+    "21": 262,
+    "22": 344,
+    "23": 323
   },
   "message_types": {
-    "0": 5220,
-    "19": 2121,
-    "20": 25,
+    "19": 4079,
+    "0": 8286,
+    "20": 31,
+    "23": 2,
     "4": 2
   },
   "top_reacted_messages": [
@@ -122,6 +124,14 @@
       "author": "rerollassnggas",
       "reactions": 18,
       "channel": "Please set Caraboo's Exalt cost to 100."
+    },
+    {
+      "id": "1538178959097991238",
+      "channel_id": "1400750050208125010",
+      "content": "I think u both deserve a mute ngl <:Ramona_tuff_:1441426630420467753>",
+      "author": "im_just_a_reader",
+      "reactions": 16,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1538124237435441193",
@@ -148,6 +158,14 @@
       "channel": "Gathering Feedback - Part 3..."
     },
     {
+      "id": "1538071926226944081",
+      "channel_id": "1400750050208125010",
+      "content": "get an ak 67",
+      "author": "princess.goth",
+      "reactions": 8,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1538203378331553832",
       "channel_id": "1131839817982947429",
       "content": "剩我常駐角全+12了……",
@@ -164,6 +182,14 @@
       "channel": "jenkins alleyway dumpster bin"
     },
     {
+      "id": "1538180561238098051",
+      "channel_id": "1400750050208125010",
+      "content": "in addition to whatever angbak is doing ppep should get muted again",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1538178824695447633",
       "channel_id": "1433513650299076780",
       "content": "started 2 weeks ago and managed a super scuffed 325",
@@ -178,6 +204,14 @@
       "author": "luna_.90",
       "reactions": 7,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538197451452846180",
+      "channel_id": "1400750050208125010",
+      "content": "",
+      "author": "ashley_graves1129",
+      "reactions": 6,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1538114516364173332",
@@ -233,38 +267,6 @@
       "content": "這世界沒救了",
       "author": "luna_.90",
       "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538220846563197050",
-      "channel_id": "1131839817982947429",
-      "content": "我是菜狗\n我英文程度堪憂...<:Caeus_pity:1468258836606484732>",
-      "author": "nemu_s_t_a_r",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538221544826740788",
-      "channel_id": "1131839817982947429",
-      "content": "今天的字能排67嗎\n其他地方看到的",
-      "author": "nemu_s_t_a_r",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538269197669236837",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "catlan_33586",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1538058921820946472",
-      "channel_id": "1131839817982947429",
-      "content": "11天沒資源只能打這樣了  差1階傷害差好多  打不過的降一階都變成無腦打",
-      "author": "tenriarahi",
-      "reactions": 5,
       "channel": "🔸綜合討論"
     }
   ]

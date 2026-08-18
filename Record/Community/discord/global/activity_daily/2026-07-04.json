@@ -1,10 +1,11 @@
 {
   "date": "2026-07-04",
-  "messages": 12621,
+  "messages": 18996,
   "unique_authors": 383,
-  "reactions_total": 996,
-  "attachments": 635,
+  "reactions_total": 1556,
+  "attachments": 863,
   "channel_activity": {
+    "🔸morimens-game-chat": 6375,
     "🔸general-chat": 5049,
     "🔸綜合討論": 606,
     "🔸deutscher-chatraum": 12,
@@ -71,35 +72,35 @@
     "1523042242707853535": 24
   },
   "hourly_activity": {
-    "7": 590,
-    "8": 578,
-    "9": 1015,
-    "10": 608,
-    "11": 959,
-    "12": 508,
-    "13": 434,
-    "14": 350,
-    "15": 1128,
-    "16": 677,
-    "17": 440,
-    "18": 357,
-    "19": 383,
-    "20": 295,
-    "21": 202,
-    "22": 385,
-    "23": 444,
-    "0": 317,
-    "1": 563,
-    "2": 853,
-    "3": 383,
-    "4": 444,
-    "5": 316,
-    "6": 392
+    "0": 466,
+    "1": 1087,
+    "2": 979,
+    "3": 669,
+    "4": 763,
+    "5": 458,
+    "6": 701,
+    "7": 895,
+    "8": 705,
+    "9": 1122,
+    "10": 686,
+    "11": 1441,
+    "12": 674,
+    "13": 884,
+    "14": 643,
+    "15": 1318,
+    "16": 1087,
+    "17": 857,
+    "18": 652,
+    "19": 763,
+    "20": 423,
+    "21": 738,
+    "22": 463,
+    "23": 522
   },
   "message_types": {
-    "0": 2628,
-    "19": 871,
-    "20": 7
+    "0": 6841,
+    "19": 3024,
+    "20": 16
   },
   "top_reacted_messages": [
     {
@@ -133,6 +134,30 @@
       "author": "khaduong2211._85445",
       "reactions": 12,
       "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1522979329083047956",
+      "channel_id": "1170692781216378960",
+      "content": "Investigation-Cocoon Battle Replay\nKeeper: Pontos1（102021260）\n\nAlva, Data is Fle",
+      "author": "angbak",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1522979834475577587",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "bagels5899",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1523022528904433830",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "YAGPDB.xyz",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1522898927568031814",
@@ -223,44 +248,20 @@
       "channel": "Nefraea Posting (Weekly)"
     },
     {
-      "id": "1522773136414871676",
-      "channel_id": "1131839817982947429",
-      "content": "。。。新钥令为什么选了这么个谜之图片",
-      "author": "xyakoto",
+      "id": "1522790387092295787",
+      "channel_id": "1170692781216378960",
+      "content": "Can i touch his grasshopper 🤤",
+      "author": "kevsalvador",
       "reactions": 6,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1522788294256099449",
-      "channel_id": "1131839817982947429",
-      "content": "穷穷<:Saya_cry:1513123577384271963>",
-      "author": "akalanden",
+      "id": "1522796806898192426",
+      "channel_id": "1170692781216378960",
+      "content": "biva shud make a good game",
+      "author": "fibrinogen",
       "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1522861279847518229",
-      "channel_id": "1131839817982947429",
-      "content": "：什麼叫有一群癡漢癡女在我體內伸出手抓我的胸肌",
-      "author": "under_bright_light",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1522983824118513824",
-      "channel_id": "1131839817982947429",
-      "content": "准备去时间通关记录",
-      "author": "galagalaguo",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1522992731901792308",
-      "channel_id": "1131839817982947429",
-      "content": "Morimens\n忘卻前夜\n5771\n代號密境",
-      "author": "nemu_s_t_a_r",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

@@ -1,0 +1,227 @@
+{
+  "date": "2026-08-17",
+  "messages": 17928,
+  "unique_authors": 446,
+  "reactions_total": 1540,
+  "attachments": 838,
+  "channel_activity": {
+    "🔸綜合討論": 1465,
+    "🔸阵容构建": 15,
+    "🔸晒卡分享": 3,
+    "🔸欢乐梗图": 1,
+    "🔸课间休息闲聊": 445,
+    "🔸交友频道": 5,
+    "🔸한국어-채팅방": 26,
+    "🔸chaîne-française": 37,
+    "🔸русский-канал": 2258,
+    "🔸phòng-chat-tiếng-việt": 612,
+    "🔸canal-español": 276,
+    "🔸canal-português": 324,
+    "🔸ruang-obrolan-indonesia": 165,
+    "🔸ห้องสนทนาภาษาไทย": 129,
+    "🔸traphase": 21,
+    "🔸lore-chat": 105,
+    "🔸lets-count": 22,
+    "🔸team-building": 437,
+    "🔸邀请码互助┊swap-invitation-codes": 15,
+    "🔸game-question": 3485,
+    "🔸忘却前夜┊morimens-tv": 3,
+    "🔸游戏问题": 1,
+    "🔸机器人命令┊bot-commands": 63,
+    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 2,
+    "🔸general-chat": 8013
+  },
+  "hourly_activity": {
+    "0": 1357,
+    "1": 1113,
+    "2": 730,
+    "3": 410,
+    "4": 438,
+    "5": 693,
+    "6": 241,
+    "7": 763,
+    "8": 937,
+    "9": 596,
+    "10": 450,
+    "11": 429,
+    "12": 708,
+    "13": 915,
+    "14": 920,
+    "15": 732,
+    "16": 550,
+    "17": 334,
+    "18": 587,
+    "19": 1143,
+    "20": 720,
+    "21": 741,
+    "22": 1261,
+    "23": 1160
+  },
+  "message_types": {
+    "0": 11461,
+    "19": 6420,
+    "20": 47
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1538765705825230918",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "0.0._.0_0.",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538963278271742124",
+      "channel_id": "1131839817982947429",
+      "content": "最後的425…<:Tulu_zzz:1468259861598044402>",
+      "author": "xianrenwurao",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538743201328791683",
+      "channel_id": "1131839817982947429",
+      "content": "挺简单的啊",
+      "author": "ponponnyaru",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538910669225726035",
+      "channel_id": "1131839817982947429",
+      "content": "何意味...",
+      "author": "quackdayo",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538924307852427305",
+      "channel_id": "1131839817982947429",
+      "content": "+12大佬🛐 🛐 🛐",
+      "author": "0.0._.0_0.",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538700945754693632",
+      "channel_id": "1400750050208125010",
+      "content": "catfishing.net\n#784 - 0/10\n🐟🐟🐟🐟🐟\n🐟🐟🐟🐟🐟",
+      "author": "syruponstrawberrycake",
+      "reactions": 8,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1538921052988514404",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "foxcatfurry",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538761502813851748",
+      "channel_id": "1131839817982947429",
+      "content": "🫡",
+      "author": "xyakoto",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538777907374194698",
+      "channel_id": "1174983699935277147",
+      "content": "我有90级朵了  \n所以有人要借我的银钥朵嘛<:Lily_wow:1356084702468899117>",
+      "author": "sweet_25367",
+      "reactions": 6,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1539049901651009558",
+      "channel_id": "1433513650299076780",
+      "content": "kind of a dumb question but is glotan the same thing as lotan: cetarchon?",
+      "author": "eyo.io",
+      "reactions": 6,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1538702630023598110",
+      "channel_id": "1400750050208125010",
+      "content": "guys",
+      "author": "serahh__",
+      "reactions": 6,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1538703623351963688",
+      "channel_id": "1400750050208125010",
+      "content": "@avery",
+      "author": "serahh__",
+      "reactions": 6,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1538703944774066257",
+      "channel_id": "1400750050208125010",
+      "content": "https://klipy.com/gifs/rose-blackpink-rose-5",
+      "author": "serahh__",
+      "reactions": 6,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1538722162083500063",
+      "channel_id": "1400750050208125010",
+      "content": "kill mimi",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1538797944944328736",
+      "channel_id": "1131839817982947429",
+      "content": "馬上去儲一個<:Horla_cry:1357186646294138890>",
+      "author": "oiia_0216",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1538879264101896242",
+      "channel_id": "1131839817982947429",
+      "content": "融災開打",
+      "author": "arthasiv",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1539019404543529032",
+      "channel_id": "1433513650299076780",
+      "content": "\"Ah, great channel you have there! Imma go show my appreciation of this channel ",
+      "author": "watchthew0rldburn",
+      "reactions": 5,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1538699149522767983",
+      "channel_id": "1400750050208125010",
+      "content": "can i join the secret discord",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1538701211400675418",
+      "channel_id": "1400750050208125010",
+      "content": "Lowk we might have to rob u",
+      "author": "serahh__",
+      "reactions": 5,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1538701383530717234",
+      "channel_id": "1400750050208125010",
+      "content": "when a boy cant accept your boundaries in bed immeditaly lleave him because he m",
+      "author": "chaoticreaper5932",
+      "reactions": 5,
+      "channel": "🔸general-chat"
+    }
+  ]
+}

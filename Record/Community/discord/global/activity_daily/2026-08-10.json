@@ -1,10 +1,11 @@
 {
   "date": "2026-08-10",
-  "messages": 9001,
+  "messages": 16957,
   "unique_authors": 361,
-  "reactions_total": 1139,
-  "attachments": 499,
+  "reactions_total": 1706,
+  "attachments": 770,
   "channel_activity": {
+    "🔸general-chat": 7956,
     "🔸綜合討論": 1657,
     "🔸阵容构建": 23,
     "🔸剧情交流": 9,
@@ -87,35 +88,37 @@
     "help for d-tide": 1
   },
   "hourly_activity": {
-    "8": 402,
-    "9": 438,
-    "10": 464,
-    "11": 548,
-    "12": 750,
-    "13": 235,
-    "14": 284,
-    "15": 389,
-    "16": 466,
-    "17": 228,
-    "18": 186,
-    "19": 335,
-    "21": 197,
-    "23": 161,
-    "22": 179,
-    "20": 126,
-    "0": 222,
-    "1": 362,
-    "2": 525,
-    "3": 495,
-    "4": 323,
-    "5": 421,
-    "6": 581,
-    "7": 684
+    "0": 1061,
+    "1": 728,
+    "2": 967,
+    "3": 521,
+    "4": 366,
+    "5": 467,
+    "6": 812,
+    "7": 958,
+    "8": 412,
+    "9": 515,
+    "10": 812,
+    "11": 665,
+    "12": 992,
+    "13": 490,
+    "14": 545,
+    "15": 1061,
+    "16": 1089,
+    "17": 472,
+    "18": 468,
+    "19": 624,
+    "20": 520,
+    "21": 614,
+    "22": 840,
+    "23": 958
   },
   "message_types": {
-    "0": 6374,
-    "19": 2564,
-    "20": 63
+    "0": 11020,
+    "19": 5864,
+    "46": 1,
+    "20": 69,
+    "23": 3
   },
   "top_reacted_messages": [
     {
@@ -125,6 +128,14 @@
       "author": "morimensstaff06",
       "reactions": 319,
       "channel": "🔸礼包码┊gift-codes"
+    },
+    {
+      "id": "1536350070922936502",
+      "channel_id": "1400750050208125010",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 11,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1536290255504932874",
@@ -141,6 +152,14 @@
       "author": "sexysneakystoat1625",
       "reactions": 10,
       "channel": "Training Dummy"
+    },
+    {
+      "id": "1536334782147854428",
+      "channel_id": "1400750050208125010",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 9,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1536446027916116149",
@@ -255,28 +274,12 @@
       "channel": "🔸game-question"
     },
     {
-      "id": "1536344463528693840",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "annabelle0868",
+      "id": "1536416777452392458",
+      "channel_id": "1400750050208125010",
+      "content": "being British is my least favourite disability",
+      "author": "simplyandy",
       "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1536335124621299825",
-      "channel_id": "1174983699935277147",
-      "content": "",
-      "author": "fatfat_seal",
-      "reactions": 5,
-      "channel": "🔸晒卡分享"
-    },
-    {
-      "id": "1536440815222792202",
-      "channel_id": "1300659662311526512",
-      "content": "",
-      "author": "tipsy.17",
-      "reactions": 5,
-      "channel": "🔸canal-español"
+      "channel": "🔸general-chat"
     }
   ]
 }

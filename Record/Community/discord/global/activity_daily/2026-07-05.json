@@ -1,10 +1,11 @@
 {
   "date": "2026-07-05",
-  "messages": 12380,
+  "messages": 17177,
   "unique_authors": 369,
-  "reactions_total": 871,
-  "attachments": 675,
+  "reactions_total": 1362,
+  "attachments": 897,
   "channel_activity": {
+    "🔸morimens-game-chat": 4797,
     "🔸general-chat": 3094,
     "🔸綜合討論": 934,
     "🔸阵容构建": 81,
@@ -75,35 +76,35 @@
     "1523127071465935178": 1
   },
   "hourly_activity": {
-    "12": 979,
-    "13": 884,
-    "14": 937,
-    "15": 1155,
-    "16": 1001,
-    "17": 726,
-    "18": 169,
-    "19": 141,
-    "20": 189,
+    "0": 168,
+    "1": 338,
+    "2": 1176,
+    "3": 857,
+    "4": 524,
+    "5": 633,
+    "6": 596,
+    "7": 886,
+    "8": 711,
+    "9": 763,
+    "10": 699,
+    "11": 1397,
+    "12": 1248,
+    "13": 1095,
+    "14": 1058,
+    "15": 1343,
+    "16": 1252,
+    "17": 1307,
+    "18": 300,
+    "19": 234,
+    "20": 253,
     "21": 91,
     "22": 129,
-    "23": 119,
-    "0": 103,
-    "1": 269,
-    "2": 646,
-    "3": 439,
-    "4": 243,
-    "5": 457,
-    "6": 418,
-    "7": 655,
-    "8": 504,
-    "9": 659,
-    "10": 571,
-    "11": 896
+    "23": 119
   },
   "message_types": {
-    "0": 1118,
-    "19": 481,
-    "20": 1
+    "0": 4260,
+    "19": 2133,
+    "20": 4
   },
   "top_reacted_messages": [
     {
@@ -139,6 +140,14 @@
       "channel": "maybe Forever"
     },
     {
+      "id": "1523343299488911441",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1523256567032578139",
       "channel_id": "1131839817982947429",
       "content": "",
@@ -161,6 +170,30 @@
       "author": "xianrenwurao",
       "reactions": 7,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1523162135171956736",
+      "channel_id": "1170692781216378960",
+      "content": "it's just hard to sleep when a lot of things hurt, it'll take a while",
+      "author": "reya.li",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1523164892142637056",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "undeterredhomo",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1523345838993178755",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1523162041756553247",
@@ -211,60 +244,28 @@
       "channel": "🔸lore-chat"
     },
     {
-      "id": "1523418819996024982",
-      "channel_id": "1131839817982947429",
+      "id": "1523287228183351347",
+      "channel_id": "1170692781216378960",
+      "content": "make raid 0!",
+      "author": "_venush",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1523291568918888468",
+      "channel_id": "1170692781216378960",
+      "content": "only 450 casual dtides are allowed to have opinions!",
+      "author": "_venush",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1523355658362290377",
+      "channel_id": "1170692781216378960",
       "content": "",
-      "author": "gensono0609",
+      "author": "jmjmjm6667",
       "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1523138165425311865",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "roselia_millsage_avemujica",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1523269252147318886",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1523270841310253076",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "akalanden",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1523285899515920485",
-      "channel_id": "1131839817982947429",
-      "content": "101279766",
-      "author": "yi000607",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1523291988571586613",
-      "channel_id": "1131839817982947429",
-      "content": "🤓 ☝️",
-      "author": "gensono0609",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1523312565428420649",
-      "channel_id": "1131839817982947429",
-      "content": "你是污衊圖魯的那位嗎",
-      "author": "yi000607",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

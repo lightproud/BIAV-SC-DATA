@@ -1,10 +1,11 @@
 {
   "date": "2026-07-01",
-  "messages": 13598,
+  "messages": 21325,
   "unique_authors": 458,
-  "reactions_total": 1584,
-  "attachments": 762,
+  "reactions_total": 2536,
+  "attachments": 1146,
   "channel_activity": {
+    "🔸morimens-game-chat": 7727,
     "🔸general-chat": 3709,
     "🔸game-question": 2959,
     "🔸綜合討論": 1206,
@@ -83,35 +84,35 @@
     "Help Needed: Team Building": 6
   },
   "hourly_activity": {
-    "19": 435,
-    "20": 673,
-    "21": 1018,
-    "22": 732,
-    "23": 167,
-    "0": 367,
-    "1": 639,
-    "2": 439,
-    "3": 629,
-    "4": 908,
-    "5": 929,
-    "6": 1132,
-    "7": 475,
-    "8": 643,
-    "9": 249,
-    "10": 482,
-    "11": 540,
-    "12": 660,
-    "13": 637,
-    "14": 531,
-    "15": 517,
-    "16": 413,
-    "17": 181,
-    "18": 202
+    "0": 619,
+    "1": 1000,
+    "2": 878,
+    "3": 977,
+    "4": 1194,
+    "5": 1124,
+    "6": 1292,
+    "7": 694,
+    "8": 904,
+    "9": 744,
+    "10": 762,
+    "11": 890,
+    "12": 1219,
+    "13": 825,
+    "14": 1038,
+    "15": 972,
+    "16": 764,
+    "17": 521,
+    "18": 637,
+    "19": 900,
+    "20": 900,
+    "21": 1329,
+    "22": 762,
+    "23": 380
   },
   "message_types": {
-    "0": 1014,
-    "19": 494,
-    "20": 1
+    "0": 5803,
+    "19": 3427,
+    "20": 6
   },
   "top_reacted_messages": [
     {
@@ -155,6 +156,14 @@
       "channel": "🔸lore-chat"
     },
     {
+      "id": "1521996303062663348",
+      "channel_id": "1170692781216378960",
+      "content": "425 10 Blue Teams",
+      "author": "frosthief",
+      "reactions": 14,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1521883919442641027",
       "channel_id": "1300659495550062592",
       "content": "Accidental everyone ping for a KR translator recruitment post or something like ",
@@ -193,6 +202,14 @@
       "author": "beanthere37",
       "reactions": 10,
       "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1521758604758356068",
+      "channel_id": "1170692781216378960",
+      "content": "Badges, darkness heart, pearls, sedimentation \nAll worthless to me now, I got my",
+      "author": "aurora3981",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1522028533143175331",
@@ -243,36 +260,20 @@
       "channel": "🔸한국어-채팅방"
     },
     {
-      "id": "1521769105827303607",
-      "channel_id": "1400750050208125010",
-      "content": "",
-      "author": "jmjmjm6667",
+      "id": "1521686513644208409",
+      "channel_id": "1170692781216378960",
+      "content": "ultimate duo",
+      "author": "tek2yuhdome",
       "reactions": 8,
-      "channel": "🔸general-chat"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1521905387689738341",
-      "channel_id": "1400750050208125010",
-      "content": "Bro was a gambler all along 😭 🙏",
-      "author": "altair_kaslana",
+      "id": "1521688033131237477",
+      "channel_id": "1170692781216378960",
+      "content": "<:Ogier_cheer:1468259351889318049>",
+      "author": "guava3442",
       "reactions": 8,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1521713143577972930",
-      "channel_id": "1131839817982947429",
-      "content": "今天終於第二隻90了",
-      "author": "jjlin0103",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1521911231621890232",
-      "channel_id": "1131839817982947429",
-      "content": "~~貓因為得罪了阿格帕里所以被關在迷宮，逃出後懷恨在心所以把觸發毒設定20%~~",
-      "author": "annabelle0868",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

@@ -1,10 +1,11 @@
 {
   "date": "2026-08-08",
-  "messages": 7302,
+  "messages": 16761,
   "unique_authors": 316,
-  "reactions_total": 868,
-  "attachments": 464,
+  "reactions_total": 1675,
+  "attachments": 800,
   "channel_activity": {
+    "🔸general-chat": 9459,
     "🔸綜合討論": 601,
     "🔸阵容构建": 10,
     "🔸欢乐梗图": 2,
@@ -69,39 +70,47 @@
     "【Newcomer Help】Forum Introduction": 4
   },
   "hourly_activity": {
-    "7": 273,
-    "8": 273,
-    "9": 265,
-    "10": 361,
-    "11": 116,
-    "12": 307,
-    "13": 338,
-    "14": 378,
-    "15": 530,
-    "16": 262,
-    "17": 492,
-    "19": 533,
-    "20": 72,
-    "21": 188,
-    "22": 249,
-    "23": 293,
-    "18": 714,
-    "1": 126,
-    "2": 272,
-    "3": 244,
-    "4": 327,
-    "5": 396,
-    "6": 236,
-    "0": 57
+    "0": 212,
+    "1": 401,
+    "2": 329,
+    "3": 661,
+    "4": 641,
+    "5": 529,
+    "6": 272,
+    "7": 346,
+    "8": 850,
+    "9": 661,
+    "10": 434,
+    "11": 553,
+    "12": 936,
+    "13": 538,
+    "14": 735,
+    "15": 1176,
+    "16": 946,
+    "17": 1508,
+    "18": 1456,
+    "19": 1061,
+    "20": 327,
+    "21": 628,
+    "22": 575,
+    "23": 986
   },
   "message_types": {
-    "19": 2288,
-    "0": 4974,
-    "23": 1,
-    "20": 38,
+    "0": 10015,
+    "19": 6697,
+    "20": 46,
+    "23": 2,
     "21": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1535576107380908092",
+      "channel_id": "1400750050208125010",
+      "content": "I'm not reliant on anyone!!!!",
+      "author": "stormimi",
+      "reactions": 12,
+      "channel": "🔸general-chat"
+    },
     {
       "id": "1535560768886677594",
       "channel_id": "1131839817982947429",
@@ -143,6 +152,14 @@
       "channel": "Chiikawa guyz🥳🥳"
     },
     {
+      "id": "1535576554304839801",
+      "channel_id": "1400750050208125010",
+      "content": "<@770354215943929936> I see you sweetheart~",
+      "author": "zenji_shiro",
+      "reactions": 8,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1535565547377262633",
       "channel_id": "1131839817982947429",
       "content": "不滅的雞骨",
@@ -167,6 +184,22 @@
       "channel": "🔸game-question"
     },
     {
+      "id": "1535577532911456266",
+      "channel_id": "1400750050208125010",
+      "content": "<@770354215943929936> yeeeeees?",
+      "author": "zenji_shiro",
+      "reactions": 7,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1535695684102135879",
+      "channel_id": "1400750050208125010",
+      "content": "I'm not getting mpregged again",
+      "author": "_kokoday0",
+      "reactions": 7,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1535669156236759171",
       "channel_id": "1131839817982947429",
       "content": "~~不然凹8次~~",
@@ -183,6 +216,38 @@
       "channel": "🔸game-question"
     },
     {
+      "id": "1535577804861743114",
+      "channel_id": "1400750050208125010",
+      "content": "<@770354215943929936> what's bad? Work? Work sucks...",
+      "author": "zenji_shiro",
+      "reactions": 6,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1535578741340770375",
+      "channel_id": "1400750050208125010",
+      "content": "<@770354215943929936> hope you're well in the shadow realm hag",
+      "author": "chaoticreaper5932",
+      "reactions": 6,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1535579299288186911",
+      "channel_id": "1400750050208125010",
+      "content": "How long is the ban Restricted Rue",
+      "author": "bocchi_the_raf",
+      "reactions": 6,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1535587417946595409",
+      "channel_id": "1400750050208125010",
+      "content": "LR Daima Goku when I need him to crit",
+      "author": "zenji_shiro",
+      "reactions": 6,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1535559264872169522",
       "channel_id": "1131839817982947429",
       "content": "終於400<:Corpo_advance:1459080545882341376>",
@@ -196,70 +261,6 @@
       "content": "嘛有专造起码能看出来是萝坦在c了<:Lotan_proud:1356053120651755641>",
       "author": "sweet_25367",
       "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1535624055158345729",
-      "channel_id": "1131839817982947429",
-      "content": "那個額外打完甚至還是滿血",
-      "author": "abhartach_0",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1535648975133347963",
-      "channel_id": "1131839817982947429",
-      "content": "你可以先推羊媽色圖",
-      "author": "heikwok",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1535670593674936360",
-      "channel_id": "1131839817982947429",
-      "content": "以前還會算你遊死抗最高爆了xx次 哪個造物最多人用",
-      "author": "heikwok",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1535686398642884618",
-      "channel_id": "1131839817982947429",
-      "content": "这什么神秘单词 没头绪",
-      "author": "ling_an_",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1535683202138775633",
-      "channel_id": "1326453763355185215",
-      "content": "",
-      "author": "10_katz_01",
-      "reactions": 6,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1535707397266346035",
-      "channel_id": "1433513650299076780",
-      "content": "But will reset now to do a5",
-      "author": "denyess",
-      "reactions": 6,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1535785629470695514",
-      "channel_id": "1433513650299076780",
-      "content": "Hey if you like him you like him",
-      "author": "teleftaios",
-      "reactions": 6,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1535575478264397854",
-      "channel_id": "1131839817982947429",
-      "content": "有大佬可以带带我嘛<a:A_DalaoDalao:999005980710948984>",
-      "author": "nemu_s_t_a_r",
-      "reactions": 5,
       "channel": "🔸綜合討論"
     }
   ]

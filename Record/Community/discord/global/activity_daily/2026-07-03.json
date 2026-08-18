@@ -1,10 +1,11 @@
 {
   "date": "2026-07-03",
-  "messages": 13394,
+  "messages": 19019,
   "unique_authors": 367,
-  "reactions_total": 970,
-  "attachments": 759,
+  "reactions_total": 1544,
+  "attachments": 1000,
   "channel_activity": {
+    "🔸morimens-game-chat": 5625,
     "🔸general-chat": 6833,
     "🔸綜合討論": 572,
     "🔸chaîne-française": 45,
@@ -81,35 +82,36 @@
     "I need help in building a team": 4
   },
   "hourly_activity": {
-    "16": 350,
-    "17": 175,
-    "18": 608,
-    "19": 800,
-    "20": 882,
-    "21": 839,
-    "22": 640,
-    "23": 777,
-    "0": 167,
-    "1": 667,
-    "2": 501,
-    "3": 495,
-    "4": 717,
-    "5": 371,
-    "6": 237,
-    "7": 226,
-    "8": 545,
-    "9": 655,
-    "10": 440,
-    "11": 821,
-    "12": 300,
-    "13": 728,
-    "14": 637,
-    "15": 816
+    "0": 220,
+    "1": 817,
+    "2": 736,
+    "3": 687,
+    "4": 821,
+    "5": 711,
+    "6": 470,
+    "7": 394,
+    "8": 986,
+    "9": 778,
+    "10": 572,
+    "11": 1049,
+    "12": 498,
+    "13": 1216,
+    "14": 1122,
+    "15": 1035,
+    "16": 675,
+    "17": 547,
+    "18": 737,
+    "19": 961,
+    "20": 1141,
+    "21": 979,
+    "22": 804,
+    "23": 1063
   },
   "message_types": {
-    "0": 1936,
-    "19": 1506,
-    "20": 14,
+    "0": 5772,
+    "19": 3287,
+    "20": 20,
+    "46": 2,
     "23": 1
   },
   "top_reacted_messages": [
@@ -120,6 +122,14 @@
       "author": "ijustgetsofrivvy",
       "reactions": 18,
       "channel": "Aeon of sagacity"
+    },
+    {
+      "id": "1522581653526937660",
+      "channel_id": "1170692781216378960",
+      "content": "425 no limited OE including support",
+      "author": "fibrinogen",
+      "reactions": 17,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1522420244759576626",
@@ -162,6 +172,22 @@
       "channel": "✅「Answered」Is Tulu female?"
     },
     {
+      "id": "1522581624200368288",
+      "channel_id": "1170692781216378960",
+      "content": "ugh finally done with last clear",
+      "author": "fibrinogen",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1522699574404321502",
+      "channel_id": "1170692781216378960",
+      "content": "So I finished the part 1 story.",
+      "author": "masiakasaurusofwar",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1522508736130973786",
       "channel_id": "1131839817982947429",
       "content": "上次說他沒拉是不是看到了",
@@ -176,6 +202,14 @@
       "author": "samin_",
       "reactions": 9,
       "channel": "Clementine 🦋"
+    },
+    {
+      "id": "1522609527743053906",
+      "channel_id": "1170692781216378960",
+      "content": "i hate this game",
+      "author": "gersona6",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1522462479232401408",
@@ -234,44 +268,12 @@
       "channel": "i tried to draw in the morimens art style, i think I'm doing good :)"
     },
     {
-      "id": "1522464610106740906",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "roselia_millsage_avemujica",
+      "id": "1522578961388011653",
+      "channel_id": "1170692781216378960",
+      "content": "finally got the 350",
+      "author": "enchaaanttt",
       "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1522474241436553237",
-      "channel_id": "1131839817982947429",
-      "content": "母樹仍然是無群攻角最嚴厲的母親",
-      "author": "xianrenwurao",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1522573190151536680",
-      "channel_id": "1131839817982947429",
-      "content": "看了感覺看了一堆屁股",
-      "author": "huangziqiao_45693",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1522591358261530686",
-      "channel_id": "1131839817982947429",
-      "content": "来了",
-      "author": "cassidy_xue",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1522613568833589358",
-      "channel_id": "1131839817982947429",
-      "content": "探索好強 真有肉鴿那味<:Thumbsup:1356086340298473574>\n一開始打得很痛苦 後面輕如鬆 王前做狀態沒壓力 最後王關5張高級靈感+他召",
-      "author": "_buqi",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

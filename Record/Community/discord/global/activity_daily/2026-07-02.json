@@ -1,10 +1,11 @@
 {
   "date": "2026-07-02",
-  "messages": 15455,
+  "messages": 21677,
   "unique_authors": 374,
-  "reactions_total": 1123,
-  "attachments": 738,
+  "reactions_total": 1800,
+  "attachments": 993,
   "channel_activity": {
+    "🔸morimens-game-chat": 6222,
     "🔸general-chat": 5115,
     "🔸綜合討論": 762,
     "🔸课间休息闲聊": 91,
@@ -77,35 +78,35 @@
     "Help Needed: Team Building": 1
   },
   "hourly_activity": {
-    "15": 1156,
-    "16": 328,
-    "17": 626,
-    "18": 201,
-    "19": 605,
-    "20": 256,
-    "21": 534,
-    "22": 236,
-    "23": 275,
-    "0": 192,
-    "1": 455,
-    "2": 417,
-    "3": 245,
-    "4": 311,
-    "5": 724,
-    "6": 750,
-    "7": 728,
-    "8": 813,
-    "9": 989,
-    "10": 1386,
-    "11": 1163,
-    "12": 786,
-    "13": 1221,
-    "14": 1058
+    "0": 526,
+    "1": 742,
+    "2": 715,
+    "3": 512,
+    "4": 384,
+    "5": 962,
+    "6": 885,
+    "7": 791,
+    "8": 884,
+    "9": 1112,
+    "10": 1548,
+    "11": 1484,
+    "12": 1298,
+    "13": 1557,
+    "14": 1290,
+    "15": 1463,
+    "16": 685,
+    "17": 1053,
+    "18": 398,
+    "19": 1037,
+    "20": 590,
+    "21": 934,
+    "22": 359,
+    "23": 468
   },
   "message_types": {
-    "0": 1136,
-    "19": 483,
-    "20": 5
+    "19": 2421,
+    "0": 5415,
+    "20": 10
   },
   "top_reacted_messages": [
     {
@@ -205,6 +206,14 @@
       "channel": "🛍️ 周边速报：「沉渊渡影」唤醒体徽章预售开启┊Merch News: \"Shadows Adrift\" Awakener Badges Pre-order Opens!"
     },
     {
+      "id": "1522065819356500048",
+      "channel_id": "1170692781216378960",
+      "content": "I would give it a 6 or 7",
+      "author": "syruponstrawberrycake",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1522181450697408603",
       "channel_id": "1131839817982947429",
       "content": "~~<:Brown_think:1459080117308620996> 小故事有延伸了 貓因為得罪了阿格帕里所以被關在迷宮，逃出後為了讓世界感受自己的痛苦 創",
@@ -237,6 +246,14 @@
       "channel": "🛍️ 周边速报：「沉渊渡影」唤醒体徽章预售开启┊Merch News: \"Shadows Adrift\" Awakener Badges Pre-order Opens!"
     },
     {
+      "id": "1522201382210371634",
+      "channel_id": "1170692781216378960",
+      "content": "Part 1 completed A2C5 nm done in 5 days",
+      "author": "angbak",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1522277640621396078",
       "channel_id": "1400750050208125010",
       "content": "I am the whale of my gacha \nmoney is my body and gambling is my blood \nI have sp",
@@ -251,22 +268,6 @@
       "author": "xiii_c",
       "reactions": 6,
       "channel": "🔸general-chat"
-    },
-    {
-      "id": "1522048393021751336",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "3.1415927",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1522055000853970944",
-      "channel_id": "1326453763355185215",
-      "content": "Xu: don’t care about you, pampers you so you will let your guard down, let you d",
-      "author": "_venush",
-      "reactions": 6,
-      "channel": "🔸lore-chat"
     }
   ]
 }

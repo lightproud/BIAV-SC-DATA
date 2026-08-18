@@ -1,0 +1,193 @@
+{
+  "date": "2026-08-18",
+  "messages": 1597,
+  "unique_authors": 78,
+  "reactions_total": 52,
+  "attachments": 63,
+  "channel_activity": {
+    "🔸綜合討論": 9,
+    "🔸한국어-채팅방": 4,
+    "🔸chaîne-française": 10,
+    "🔸русский-канал": 519,
+    "🔸canal-español": 17,
+    "🔸canal-português": 8,
+    "🔸ruang-obrolan-indonesia": 6,
+    "🔸ห้องสนทนาภาษาไทย": 1,
+    "🔸lore-chat": 3,
+    "🔸team-building": 6,
+    "🔸机器人命令┊bot-commands": 1,
+    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 1,
+    "🔸game-question": 438,
+    "🔸general-chat": 574
+  },
+  "hourly_activity": {
+    "0": 1122,
+    "1": 475
+  },
+  "message_types": {
+    "0": 1148,
+    "19": 449
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1539068085166669904",
+      "channel_id": "1400750050208125010",
+      "content": "",
+      "author": "k.y.u.",
+      "reactions": 3,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1539061597971026040",
+      "channel_id": "1433513650299076780",
+      "content": "I have this rn",
+      "author": ".tryshot.",
+      "reactions": 2,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1539063234777055343",
+      "channel_id": "1433513650299076780",
+      "content": "AREN'T YOU HAVING FUN",
+      "author": "corvim",
+      "reactions": 2,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1539062183135281295",
+      "channel_id": "1400750050208125010",
+      "content": "Lore accurate btw",
+      "author": "serahh__",
+      "reactions": 2,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1539067915855462421",
+      "channel_id": "1400750050208125010",
+      "content": "<:Nymph_dead:1356082627509092372>",
+      "author": "k.y.u.",
+      "reactions": 2,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1539081143524003861",
+      "channel_id": "1400750050208125010",
+      "content": "https://tenor.com/view/yui-yuigahama-yahallo-gif-18724491",
+      "author": "moyashi0672",
+      "reactions": 2,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1539073409969815632",
+      "channel_id": "1300659580446969918",
+      "content": "еще б вот это все с колабой с и адеквута",
+      "author": "soulfly132",
+      "reactions": 1,
+      "channel": "🔸русский-канал"
+    },
+    {
+      "id": "1539075330378305576",
+      "channel_id": "1300659580446969918",
+      "content": "давайте я скажу что оба попуски которые 3 часа своей жизни потратили на хуету и ",
+      "author": "soulfly132",
+      "reactions": 1,
+      "channel": "🔸русский-канал"
+    },
+    {
+      "id": "1539075563300589588",
+      "channel_id": "1300659580446969918",
+      "content": "брат арка ейджлордизма это хорошо но вы буквально 3 часа занимаетесь софисткой п",
+      "author": "soulfly132",
+      "reactions": 1,
+      "channel": "🔸русский-канал"
+    },
+    {
+      "id": "1539062059101196329",
+      "channel_id": "1433513650299076780",
+      "content": "you need 900 more sparks for 19 sf10s\n25 per week, that's 36 weeks",
+      "author": "watchthew0rldburn",
+      "reactions": 1,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1539062507635736577",
+      "channel_id": "1433513650299076780",
+      "content": "and then arc3 comes and makes it irrelevant lol",
+      "author": "enchaaanttt",
+      "reactions": 1,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1539062933106065438",
+      "channel_id": "1433513650299076780",
+      "content": "Caraboo demon ? <:Aurita_please:1356053110375714817>",
+      "author": "godsyndromemf",
+      "reactions": 1,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1539063777784365136",
+      "channel_id": "1433513650299076780",
+      "content": "go for E2 mouch",
+      "author": "corvim",
+      "reactions": 1,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1539065339994702017",
+      "channel_id": "1433513650299076780",
+      "content": ":^)",
+      "author": "lithanor",
+      "reactions": 1,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1539065406398926858",
+      "channel_id": "1433513650299076780",
+      "content": "Oh I was wrong it’s 5 Leigh dupes 6 total",
+      "author": ".tryshot.",
+      "reactions": 1,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1539066508519542966",
+      "channel_id": "1433513650299076780",
+      "content": "I heard they do on version change (so 2.6 -> 2.7) so you'll have a long time sti",
+      "author": "corvim",
+      "reactions": 1,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1539068361382826025",
+      "channel_id": "1433513650299076780",
+      "content": "I mean the goal is to outlive the poisoned enemy while I build exalt and corrosi",
+      "author": ".tryshot.",
+      "reactions": 1,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1539069114360922133",
+      "channel_id": "1433513650299076780",
+      "content": "Ima just hope my 400% DR saves me",
+      "author": "errorloadingprofile",
+      "reactions": 1,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1539070060596039681",
+      "channel_id": "1433513650299076780",
+      "content": "so 2 more?",
+      "author": ".tryshot.",
+      "reactions": 1,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1539071967074844768",
+      "channel_id": "1433513650299076780",
+      "content": "Complex Stupid vs Singular Button stupid",
+      "author": "corvim",
+      "reactions": 1,
+      "channel": "🔸game-question"
+    }
+  ]
+}
