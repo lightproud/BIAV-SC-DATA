@@ -1,8 +1,8 @@
 {
   "date": "2026-08-18",
-  "archived_at": "2026-08-18T01:05:30.710863+00:00",
+  "archived_at": "2026-08-18T03:43:59.591324+00:00",
   "source": "bilibili",
-  "item_count": 6,
+  "item_count": 9,
   "items": [
     {
       "title": "明明是由扫帚组成的怪物，在我眼中却是美丽的电竞选手",
@@ -51,6 +51,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "8.17-8.31 无超限限定425",
+      "summary": "虽然打完了，但难度肯定比上期难，毕竟好几把都凹了死扛\n  └ 真不会练的李 (0赞): 大佬喵[以闪亮之名_爱你哦]\n  └ 伊川川川伊 (0赞): 开播再打一遍[tv_doge]",
+      "source": "bilibili",
+      "time": "2026-08-18T02:54:54+00:00",
+      "url": "https://www.bilibili.com/video/BV1XZbr61EAc",
+      "engagement": 42,
+      "is_hot": false,
+      "author": "唬隌洳鄞",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 39,
+        "comment_count": 3,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/001745afba0a21233efc2ea1dcb0afbde958856c.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "【沙耶之歌/同人手书/绘画】慢慢看不清你的臉..",
       "summary": "",
       "source": "bilibili",
@@ -69,6 +92,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/c877aa865d6ca9461a1606e72fdbf0af5b03d23e.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "点进即看阳寿抽卡（）",
+      "summary": "好吓人啊，好吓人啊\n我刚睡醒就要接受如此之惊吓吗\n现在的脑子应该是有点不清醒的，我想倒头就睡（）\n  └ 五笔的眼泪 (0赞): 666",
+      "source": "bilibili",
+      "time": "2026-08-18T01:50:02+00:00",
+      "url": "https://www.bilibili.com/video/BV1Q3bz6uEbZ",
+      "engagement": 9,
+      "is_hot": false,
+      "author": "星源star_",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 8,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/42a45e22696a6b63170f1e45a432724d9c368445.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -138,6 +184,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/98eefbfac5bb0effb12442aa7a4a1825aa4b9a6c.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "「沙耶之歌」沉寂",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-18T03:40:01+00:00",
+      "url": "https://www.bilibili.com/video/BV1Qjbr6CEGV",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "热辣裹尸袋-",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 0,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/5e3453f1a62e014620cea712a3c3373771daaed3.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

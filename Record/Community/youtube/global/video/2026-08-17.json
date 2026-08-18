@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-18T01:05:30.711476+00:00",
+  "archived_at": "2026-08-18T03:43:59.594230+00:00",
   "source": "youtube",
-  "item_count": 22,
+  "item_count": 23,
   "items": [
     {
       "title": "Хранитель, я дойду до тебя.. 🗝#Morimens #cardbuilder #gacha #genshinimpact",
@@ -374,6 +374,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/23WWfQs0f5w/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens We&#39;re Losing Our Selves",
+      "summary": "Vtuber #VtuberEN #malevtuber #vstreamer #smallstreamer #gaming #morimens #Peak.",
+      "source": "youtube",
+      "time": "2026-08-17T14:04:34Z",
+      "url": "https://www.youtube.com/watch?v=-1Vux1VB0o0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "BreadRuin",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/-1Vux1VB0o0/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

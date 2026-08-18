@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-18T01:05:30.843616+00:00",
+  "archived_at": "2026-08-18T03:43:59.730158+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★4 Just um, alot of text, you know?",
@@ -27,6 +27,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Hartanto Agung Wicaksono",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 widihdih, gak tiap hari nie aku lihat ga",
+      "summary": "widihdih, gak tiap hari nie aku lihat game GACHA yang sangat f2p friendly! aku ada suggesti yang opsional, Namun bisakah tambahin animasinya karakter? aku lihat hanya 3(atau 4) karakter punya animasi",
+      "source": "google_play",
+      "time": "2026-08-17T02:34:48",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-c8efcfe2-542a-490a-8d5f-8547ac193e42",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Yuli Nicha",
       "tags": [],
       "lang": "id",
       "platform_region": "id",

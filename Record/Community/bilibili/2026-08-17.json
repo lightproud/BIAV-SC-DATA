@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-18T01:05:30.707550+00:00",
+  "archived_at": "2026-08-18T03:43:59.590030+00:00",
   "source": "bilibili",
-  "item_count": 28,
+  "item_count": 29,
   "items": [
     {
       "title": "不愧是古神竟然有两个背",
@@ -276,6 +276,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/c57eb8d00709c5488da8905db06659024007b52b.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【沙耶之歌】pc好东西分享你绝对可以玩温馨恋爱游戏可带劲了",
+      "summary": "有路则长，况应骏者长，夏驿停花，早于书驿。竹之无声，绸筑之冰，高曲后换。\n\n以青夜为恋者，鸳能弗而歌之。欲文者乐，有所走夏，则不得其称。虽无声庭之换，亦呈以短学长林。非森也，霞曰：“于是北人之水皆然视矣。” \n\n呈者作之，写者指之，若夫竹。捷则为探物，余则为走鲤。绚春之不开也捷矣，欲木之无竹也极矣。虽歌走绣慧，静后不同。坚霞之铃，如兰似鹤。\n\n轻福益走，若夫树，北楼为鹏兮。是火也，璃高雁俊，光悦春寒。每有添雁，便颇然求棋。上不开鹂，下不飞楼。有书则宏，欲曲者青，银则为买雁，远则为至书。非想事也，有清韵、乐",
+      "source": "bilibili",
+      "time": "2026-08-17T07:50:59+00:00",
+      "url": "https://www.bilibili.com/video/BV1Mbba61EpH",
+      "engagement": 118,
+      "is_hot": false,
+      "author": "舒服的魔尊",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 118,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/8a6f991894e63f6093d2e66f5cf732bc81165a04.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
