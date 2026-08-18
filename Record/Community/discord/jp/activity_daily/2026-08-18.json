@@ -1,0 +1,53 @@
+{
+  "date": "2026-08-18",
+  "messages": 62,
+  "unique_authors": 7,
+  "reactions_total": 6,
+  "attachments": 3,
+  "channel_activity": {
+    "なんでも雑談": 61,
+    "らくがき": 1
+  },
+  "hourly_activity": {
+    "0": 53,
+    "1": 9
+  },
+  "message_types": {
+    "0": 60,
+    "19": 2
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1539068955556323389",
+      "channel_id": "1448993590247424041",
+      "content": "タグ用にもう1~2枚描きたかったけど描きたいものがなくなったので終了😃",
+      "author": "suzuri9701",
+      "reactions": 3,
+      "channel": "らくがき"
+    },
+    {
+      "id": "1539063418844217365",
+      "channel_id": "1377478664609857647",
+      "content": "毒で使えないこともないけど、基本は殴りって感じにみえるー",
+      "author": "zzzorz",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1539063581746790450",
+      "channel_id": "1377478664609857647",
+      "content": "ライカーバフ当てたら3万くらいかな？",
+      "author": "zzzorz",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1539067590360567878",
+      "channel_id": "1377478664609857647",
+      "content": "えー、えー、周年なのに",
+      "author": "kikyo9183",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    }
+  ]
+}
