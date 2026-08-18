@@ -1,8 +1,8 @@
 {
   "date": "2026-08-18",
-  "archived_at": "2026-08-18T03:43:59.659980+00:00",
+  "archived_at": "2026-08-18T06:40:09.886511+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[正面] 有美女……",
@@ -94,6 +94,30 @@
         "playtime_forever": 10741,
         "votes_up": 0,
         "timestamp_created": 1786987373
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Morimens might be most generous gacha game on the...",
+      "summary": "Morimens might be most generous gacha game on the market, and it's a game worth taking advantage of that generosity for. \r\n\r\nI think the story is a little bit weak in the beginning (and the end of arc1 felt rushed), but the characters/ gameplay carry it for me. The aesthetic and themes in here are top notch, and the music conveys this game's tone quite well. \r\n\r\nThe deets:\r\n - The way this game has massaged the sensibilities of Lovecraftian horror into game mechanics is very cool. \r\n - Awakeners being good at low investment/dupes are good. There are enough of them in this game that I'm bringing it up.\r\n - Low effort dailies, as well as a more involved rotating gauntlet mode that makes deliberate planning/team building feel rewarding. This is super helpful for managing the time investment with Morimens. \r\n - Guaranteed SSR at 30 pulls. Even if you miss the 50/50, your account is improving.\r\n - Roguelike deckbuilders are neat, even if this one is a little less insistent on the roguelike aspect of the genre (rewarding investment/build quality a little bit more than its contemporaries). \r\n\r\n\r\nI'd recommend playing this on mobile, but I'm on here every once in a while to reduce eye strain. Seamless account linking was also a plus.",
+      "source": "steam_review",
+      "time": "2026-08-18T05:11:15+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198381750399/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198381750399",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1712,
+        "votes_up": 0,
+        "timestamp_created": 1787029875
       },
       "region": "global",
       "archive_subtype": "review",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-18",
-  "archived_at": "2026-08-18T03:43:59.591324+00:00",
+  "archived_at": "2026-08-18T06:40:09.850032+00:00",
   "source": "bilibili",
-  "item_count": 9,
+  "item_count": 12,
   "items": [
     {
       "title": "明明是由扫帚组成的怪物，在我眼中却是美丽的电竞选手",
@@ -28,6 +28,52 @@
       "platform_region": "cn"
     },
     {
+      "title": "［相位］一血船妹也能翻盘？！",
+      "summary": "感谢来自王不见王的投稿\n  └ 型唯亚 (3赞): 我说死了复活才是最快的清毒方法有没有人懂的（）\n  └ Ann_0001 (2赞): 献祭流有无说法[doge]\n  └ 白日梦见空 (1赞): 这把太极限了，细节音乐卡点[星星眼]",
+      "source": "bilibili",
+      "time": "2026-08-18T05:34:47+00:00",
+      "url": "https://www.bilibili.com/video/BV1vTbr6DEUs",
+      "engagement": 139,
+      "is_hot": false,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 133,
+        "comment_count": 6,
+        "comments_fetched": 3,
+        "danmaku": 1
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/5cfca9bcf5fda2258c643750c99513b314c23009.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "栗小妹，超海粉毛鱼被你叫区我不挑你的理，但我若回归羊皮你该叫我什么？😡",
+      "summary": "栗小妹，超海粉毛鱼被你叫区我不挑你的理，但我若回归羊皮你该叫我什么？😡\n话又说回来，再见了旺达女士，希望你喜欢这2个月的戏份👋\n  └ Coliner_ (2赞): 再见了旺达女士，希望你喜欢这2个月属于你的戏份👋\n  └ 水无月月月月月月月月 (1赞): 主播你是不是也玩1999？我在助战列表刷到一个和你同名的[doge]",
+      "source": "bilibili",
+      "time": "2026-08-17T22:53:09+00:00",
+      "url": "https://www.bilibili.com/video/BV16Lb66xEy6",
+      "engagement": 135,
+      "is_hot": false,
+      "author": "Coliner_",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 131,
+        "comment_count": 4,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/30af8f2ef763d11681bb6cb45f41ac6d80d7bb5a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "【忘却前夜】8.17-8.30神秘低配融灾400",
       "summary": "没有专造2000血出头的神国太弱了，\n没想到这期除了助战打的最轻松的竟然是我们鸟弟。。。\n  └ A-Tomesdays (0赞): 1-4的两个打的极其丑陋，神国真的不适合账号80级以下的玩[藏狐]",
       "source": "bilibili",
@@ -46,6 +92,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/98232b28129ac5f22466792b8c903fae8f9e4f59.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "「忘却前夜」神秘鸟蛛大战5-5利兹",
+      "summary": "-\n  └ 额度了奶奶 (0赞): [打call][打call][打call]\n  └ NO-66Momo (0赞): @依笑胜星华 这个随便抄",
+      "source": "bilibili",
+      "time": "2026-08-17T23:29:23+00:00",
+      "url": "https://www.bilibili.com/video/BV1hobz6BEvN",
+      "engagement": 125,
+      "is_hot": false,
+      "author": "第零类假象",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 123,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/514f9a802add47cf8bda4f4caedc7c00ad29f085.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

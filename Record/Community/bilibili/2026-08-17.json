@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-18T03:43:59.590030+00:00",
+  "archived_at": "2026-08-18T06:40:09.848495+00:00",
   "source": "bilibili",
-  "item_count": 29,
+  "item_count": 30,
   "items": [
     {
       "title": "不愧是古神竟然有两个背",
@@ -483,6 +483,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/6d3c0a480da0b5a88c9b9c0a385c2d61035e198c.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "忘却前夜8.3-8.16融灾，首次425记录",
+      "summary": "感觉这期水温下降了，也是让我吃到425了，很多配队甚至角色都是第一次玩\n依旧手法依托，依旧死抗mvp",
+      "source": "bilibili",
+      "time": "2026-08-17T09:16:55+00:00",
+      "url": "https://www.bilibili.com/video/BV1nUbe6zEAX",
+      "engagement": 100,
+      "is_hot": false,
+      "author": "树懒吃土豆",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 100,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/7b693ec59ab957119a63704db6e627c99febbdd5.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

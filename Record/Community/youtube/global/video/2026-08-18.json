@@ -1,8 +1,8 @@
 {
   "date": "2026-08-18",
-  "archived_at": "2026-08-18T03:43:59.591999+00:00",
+  "archived_at": "2026-08-18T06:40:09.847629+00:00",
   "source": "youtube",
-  "item_count": 11,
+  "item_count": 13,
   "items": [
     {
       "title": "WALNUT BRAIN TIME in Morimens, then in Slay the Spire 2 A10 CO-OP with my Sis",
@@ -153,6 +153,40 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/YDdP8hQRvqU/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "🦖 D-tide reset 400 ou + Morimens",
+      "summary": "Made with Restream. Livestream on 30+ platforms at once via https://restream.io enfin le reset semi hebdo et là let'z gow poncé le ...",
+      "source": "youtube",
+      "time": "2026-08-18T04:45:30Z",
+      "url": "https://www.youtube.com/watch?v=23WWfQs0f5w",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "T-rex",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/23WWfQs0f5w/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】7章やりますわよ",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-18T04:32:50Z",
+      "url": "https://www.youtube.com/watch?v=gX6ToZcNoGk",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "かっこん",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/gX6ToZcNoGk/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
