@@ -1,10 +1,11 @@
 {
   "date": "2026-07-09",
-  "messages": 11566,
+  "messages": 19119,
   "unique_authors": 360,
-  "reactions_total": 1323,
-  "attachments": 643,
+  "reactions_total": 2300,
+  "attachments": 931,
   "channel_activity": {
+    "🔸morimens-game-chat": 7553,
     "🔸general-chat": 3673,
     "🔸綜合討論": 1141,
     "🔸课间休息闲聊": 13,
@@ -73,35 +74,35 @@
     "When should you commit to wheel jail?": 6
   },
   "hourly_activity": {
-    "7": 720,
-    "8": 1171,
-    "9": 448,
-    "10": 1083,
-    "11": 711,
-    "12": 523,
-    "13": 746,
-    "14": 1033,
-    "15": 375,
-    "16": 305,
-    "17": 344,
-    "18": 144,
-    "19": 344,
-    "20": 251,
-    "21": 232,
-    "22": 545,
-    "23": 370,
-    "0": 273,
-    "1": 101,
-    "2": 234,
-    "3": 426,
-    "4": 369,
-    "5": 348,
-    "6": 470
+    "0": 351,
+    "1": 133,
+    "2": 414,
+    "3": 712,
+    "4": 745,
+    "5": 522,
+    "6": 707,
+    "7": 957,
+    "8": 1419,
+    "9": 795,
+    "10": 1760,
+    "11": 996,
+    "12": 887,
+    "13": 1132,
+    "14": 1273,
+    "15": 603,
+    "16": 859,
+    "17": 1017,
+    "18": 366,
+    "19": 495,
+    "20": 807,
+    "21": 466,
+    "22": 929,
+    "23": 774
   },
   "message_types": {
-    "19": 1035,
-    "0": 2201,
-    "20": 1
+    "0": 6971,
+    "19": 3813,
+    "20": 6
   },
   "top_reacted_messages": [
     {
@@ -137,12 +138,76 @@
       "channel": "✅「Answered」Reality Verges"
     },
     {
+      "id": "1524719762775740426",
+      "channel_id": "1170692781216378960",
+      "content": "niko has calmed down a little bit compared to yesterday so their tolerance is a ",
+      "author": "nikolazuli",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1524607674577195108",
       "channel_id": "1131839817982947429",
       "content": "有沒有大佬可以帶帶我",
       "author": "water_heart",
       "reactions": 13,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1524830889094283487",
+      "channel_id": "1170692781216378960",
+      "content": "Oh also I made a thing",
+      "author": "guava3442",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1524721540715905105",
+      "channel_id": "1170692781216378960",
+      "content": "Hey guys Rain from discord here with the current news:",
+      "author": "princess.goth",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1524740822854271048",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1524806582473330832",
+      "channel_id": "1170692781216378960",
+      "content": "67",
+      "author": "bru0001",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1524821825207664680",
+      "channel_id": "1170692781216378960",
+      "content": "ok my first agenda post has been completed",
+      "author": "yorusakurai",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1524883080849133729",
+      "channel_id": "1170692781216378960",
+      "content": "Nuke this place",
+      "author": "2ndselna",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1524730282475782274",
+      "channel_id": "1170692781216378960",
+      "content": "<@1471414323883540501> i played a mouche comp so starved even draco said it felt",
+      "author": "princess.goth",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1524921430653927625",
@@ -169,100 +234,36 @@
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1524740799407853679",
-      "channel_id": "1400750050208125010",
+      "id": "1524721966735691807",
+      "channel_id": "1170692781216378960",
+      "content": "i will kill myself and send you a video recording of it with 0 censoring",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1524786181848694866",
+      "channel_id": "1170692781216378960",
+      "content": "I just won a jackpot guys <a:7sSlots1:522036196096999434> <a:7sSlots2:5220361971",
+      "author": "anicillia",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1524788159005589584",
+      "channel_id": "1170692781216378960",
       "content": "",
       "author": "jmjmjm6667",
       "reactions": 7,
-      "channel": "🔸general-chat"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1524573659497500722",
-      "channel_id": "1131839817982947429",
-      "content": "野貓之所以退坑就是因為瑪爾不帶我打425（造謠",
-      "author": "ernest_heart",
+      "id": "1524805906435412138",
+      "channel_id": "1170692781216378960",
+      "content": "390 in 29 days",
+      "author": "angbak",
       "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1524629252216061977",
-      "channel_id": "1131839817982947429",
-      "content": "🛐 我终于有+12灵魂诞生了",
-      "author": "gensono0609",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1524667112738525234",
-      "channel_id": "1131839817982947429",
-      "content": "我也要找大佬大腿\n拜託了",
-      "author": "fon_tain",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1524811677227421898",
-      "channel_id": "1131839817982947429",
-      "content": "喔幹差點複製錯",
-      "author": "yusi4172",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1524831191977558156",
-      "channel_id": "1131839817982947429",
-      "content": "戳了一下（？",
-      "author": "yusi4172",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1524805441803255890",
-      "channel_id": "1326453763355185215",
-      "content": "||hastur in|| a2ch3 ||for some reason||",
-      "author": "arsenyx_9999",
-      "reactions": 7,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1524765417648820295",
-      "channel_id": "1433513650299076780",
-      "content": "depends ch5 is def very gay",
-      "author": "princess.goth",
-      "reactions": 7,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1524676999090667570",
-      "channel_id": "1524673055094214688",
-      "content": "damn, i really need some of these to adorn my desk... being a european is unluck",
-      "author": "reya.li",
-      "reactions": 7,
-      "channel": "🛍️ 周边速报：「银雾礼笺」命轮镭射票预售开启┊Merch News: \"Misty Invitation\" WoD Holo Tickets Pre-order Opens!"
-    },
-    {
-      "id": "1524630064396898435",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1524667144153993296",
-      "channel_id": "1131839817982947429",
-      "content": "你說有沒有一種可能我連續5天在4.25睡覺就可以自動425呢...",
-      "author": "coleerouo",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1524705419635855470",
-      "channel_id": "1131839817982947429",
-      "content": "Xi jinping",
-      "author": "arul1070",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

@@ -1,10 +1,11 @@
 {
   "date": "2026-08-01",
-  "messages": 14779,
+  "messages": 23408,
   "unique_authors": 329,
-  "reactions_total": 1110,
-  "attachments": 739,
+  "reactions_total": 2264,
+  "attachments": 1250,
   "channel_activity": {
+    "🔸morimens-game-chat": 8629,
     "🔸general-chat": 6869,
     "🔸綜合討論": 441,
     "🔸阵容构建": 9,
@@ -80,37 +81,37 @@
     "1532974494149251272": 1
   },
   "hourly_activity": {
-    "19": 266,
-    "20": 222,
-    "21": 492,
-    "22": 972,
-    "23": 1060,
-    "1": 456,
-    "2": 777,
-    "3": 1006,
-    "4": 263,
-    "5": 258,
-    "6": 493,
-    "7": 632,
-    "8": 438,
-    "9": 704,
-    "10": 1004,
-    "11": 673,
-    "12": 765,
-    "13": 814,
-    "14": 871,
-    "15": 786,
-    "16": 759,
-    "17": 571,
-    "18": 178,
-    "0": 319
+    "0": 473,
+    "1": 739,
+    "2": 1247,
+    "3": 1253,
+    "4": 718,
+    "5": 704,
+    "6": 759,
+    "7": 677,
+    "8": 694,
+    "9": 1006,
+    "10": 1219,
+    "11": 1113,
+    "12": 1117,
+    "13": 1214,
+    "14": 1385,
+    "15": 1313,
+    "16": 1231,
+    "17": 877,
+    "18": 894,
+    "19": 756,
+    "20": 370,
+    "21": 831,
+    "22": 1458,
+    "23": 1360
   },
   "message_types": {
-    "19": 5045,
-    "0": 9677,
-    "20": 52,
+    "0": 14880,
+    "19": 8450,
+    "20": 72,
+    "46": 2,
     "23": 2,
-    "46": 1,
     "4": 1,
     "21": 1
   },
@@ -138,6 +139,14 @@
       "author": "cwz.io",
       "reactions": 12,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532943402042130625",
+      "channel_id": "1170692781216378960",
+      "content": "J e n k i n.",
+      "author": "coldrinkies",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1532934441863745617",
@@ -204,6 +213,22 @@
       "channel": "🔸阵容构建"
     },
     {
+      "id": "1533078041981485246",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1533182527270031583",
+      "channel_id": "1170692781216378960",
+      "content": "I did it…",
+      "author": "makiyujipicsstache",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1533144170263351406",
       "channel_id": "1131839817982947429",
       "content": "历经114514天本可终于毕业惹",
@@ -212,68 +237,44 @@
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1533129955683074179",
-      "channel_id": "1400750050208125010",
-      "content": "I will make you all bear witness to my MASTERPIECE because I lowk want attention",
-      "author": "cooked_chicken99",
+      "id": "1533065769062240426",
+      "channel_id": "1170692781216378960",
+      "content": "one more .... only one more",
+      "author": "sexysneakystoat1625",
       "reactions": 7,
-      "channel": "🔸general-chat"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1533077677815238816",
-      "channel_id": "1131839817982947429",
-      "content": "我其实没啥感觉（？）\n可能我出金太多了（？）",
-      "author": "cassidy_xue",
+      "id": "1533172062858776877",
+      "channel_id": "1170692781216378960",
+      "content": "Oh sh**\nEoS imminent guys !",
+      "author": "legendaryredz",
       "reactions": 7,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1533097413890412775",
-      "channel_id": "1131839817982947429",
-      "content": "就我发不了情了",
-      "author": "gensono0609",
+      "id": "1533198956295618784",
+      "channel_id": "1170692781216378960",
+      "content": "Well, I started during Second Anni\n\nBut it was honestly real nice\n\nWe've got\n- U",
+      "author": "snorlax01",
       "reactions": 7,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1532905279057035275",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "xuanxue007",
+      "id": "1533218039825305600",
+      "channel_id": "1170692781216378960",
+      "content": "*Ellie flirting with every girl",
+      "author": "legendaryredz",
       "reactions": 7,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1532979544351445082",
-      "channel_id": "1131839817982947429",
-      "content": "原来可以完全不开大招，疯狂用4就行了（）",
-      "author": "xyakoto",
+      "id": "1533219720562479304",
+      "channel_id": "1170692781216378960",
+      "content": "KaDe is quitting in two months <:Fkeeper_peak:1468258784051859684>",
+      "author": "sirtealot",
       "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1533050714450825337",
-      "channel_id": "1131839817982947429",
-      "content": "母豬多來一點給鍵帽充爽了就給你盾擊加強",
-      "author": "hon_ey0",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1533140607210356826",
-      "channel_id": "1131839817982947429",
-      "content": "幹 剛剛把我屁魘好癢發錯群組🫠🫠",
-      "author": "yi000607",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1532999776294015240",
-      "channel_id": "1131839817982947429",
-      "content": "还差一个<:Horla_cry:1357186646294138890>",
-      "author": "cassidy_xue",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

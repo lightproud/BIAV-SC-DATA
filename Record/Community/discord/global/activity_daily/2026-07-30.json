@@ -1,10 +1,11 @@
 {
   "date": "2026-07-30",
-  "messages": 14322,
+  "messages": 22438,
   "unique_authors": 319,
-  "reactions_total": 1394,
-  "attachments": 718,
+  "reactions_total": 2190,
+  "attachments": 1079,
   "channel_activity": {
+    "🔸morimens-game-chat": 8116,
     "🔸general-chat": 6301,
     "🔸綜合討論": 854,
     "🔸剧情交流": 50,
@@ -93,35 +94,35 @@
     "求隊伍跟目前強度排行😭": 2
   },
   "hourly_activity": {
-    "13": 1235,
-    "14": 790,
-    "15": 571,
-    "16": 413,
-    "17": 493,
-    "18": 398,
-    "19": 528,
-    "20": 353,
-    "21": 231,
-    "22": 161,
-    "23": 433,
-    "0": 463,
-    "1": 64,
-    "2": 692,
-    "3": 763,
-    "4": 637,
-    "5": 535,
-    "6": 428,
-    "7": 654,
-    "8": 918,
-    "9": 1134,
-    "10": 990,
-    "11": 660,
-    "12": 778
+    "0": 805,
+    "1": 374,
+    "2": 988,
+    "3": 975,
+    "4": 1068,
+    "5": 722,
+    "6": 601,
+    "7": 801,
+    "8": 1303,
+    "9": 1764,
+    "10": 1402,
+    "11": 1078,
+    "12": 1101,
+    "13": 1668,
+    "14": 1027,
+    "15": 877,
+    "16": 633,
+    "17": 1221,
+    "18": 798,
+    "19": 770,
+    "20": 908,
+    "21": 537,
+    "22": 256,
+    "23": 761
   },
   "message_types": {
-    "0": 9661,
-    "19": 4613,
-    "20": 33,
+    "0": 14905,
+    "19": 7480,
+    "20": 38,
     "23": 1,
     "4": 14
   },
@@ -133,6 +134,14 @@
       "author": "morimensstaff06",
       "reactions": 403,
       "channel": "🔸礼包码┊gift-codes"
+    },
+    {
+      "id": "1532387641729876191",
+      "channel_id": "1170692781216378960",
+      "content": "much sigil",
+      "author": "not_blueberry",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1532331510236057620",
@@ -149,6 +158,30 @@
       "author": "a._0320",
       "reactions": 9,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532226152129892443",
+      "channel_id": "1170692781216378960",
+      "content": "ive never been this broke",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1532234204438462506",
+      "channel_id": "1170692781216378960",
+      "content": "What the hell is this",
+      "author": "vinsette",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1532255268023304273",
+      "channel_id": "1170692781216378960",
+      "content": "2 more days",
+      "author": "angbak",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1532323337475330161",
@@ -173,6 +206,30 @@
       "author": "zarles0",
       "reactions": 7,
       "channel": "🔸canal-español"
+    },
+    {
+      "id": "1532248557569052742",
+      "channel_id": "1170692781216378960",
+      "content": "<@296679098703544321>",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1532445109575094273",
+      "channel_id": "1170692781216378960",
+      "content": "Just enjoy the majestic lady",
+      "author": "cooked_chicken99",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1532480609220300942",
+      "channel_id": "1170692781216378960",
+      "content": "okay. just three more",
+      "author": "poki5539",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1532208263779586198",
@@ -229,62 +286,6 @@
       "author": "ipowerilya",
       "reactions": 6,
       "channel": "Allow multiple quill to seal conversion at the same time"
-    },
-    {
-      "id": "1532248128886149190",
-      "channel_id": "1131839817982947429",
-      "content": "有大佬可以產糧給我吃嗎",
-      "author": "foxcatfurry",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1532253599336239146",
-      "channel_id": "1326453763355185215",
-      "content": "we got shafted out of ultra lotan",
-      "author": "nikolazuli",
-      "reactions": 6,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1532262212863791185",
-      "channel_id": "1433513650299076780",
-      "content": "And people looking for Thais will get 4x Tawill",
-      "author": "spruzzetto",
-      "reactions": 6,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1532324646337122446",
-      "channel_id": "1400750050208125010",
-      "content": "I'M BACCKKK",
-      "author": "forsmile0",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1532381517798576329",
-      "channel_id": "1131839817982947429",
-      "content": "[Jump to original message](https://discord.com/channels/@me/1131839817982947429/",
-      "author": "Make it a Quote",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1532381854936862721",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "heikwok",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1532393397602488371",
-      "channel_id": "1131839817982947429",
-      "content": "原來還會有三個同時出現的<:Brown_think:1459080117308620996>",
-      "author": "oiia_0216",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
     }
   ]
 }

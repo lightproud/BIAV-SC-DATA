@@ -1,10 +1,11 @@
 {
   "date": "2026-07-20",
-  "messages": 16026,
+  "messages": 25859,
   "unique_authors": 384,
-  "reactions_total": 1886,
-  "attachments": 677,
+  "reactions_total": 3049,
+  "attachments": 1104,
   "channel_activity": {
+    "🔸morimens-game-chat": 9833,
     "🔸general-chat": 4152,
     "🔸綜合討論": 1974,
     "🔸剧情交流": 2,
@@ -73,35 +74,36 @@
     "1528676738924544100": 1
   },
   "hourly_activity": {
-    "0": 380,
-    "1": 349,
-    "2": 474,
-    "3": 454,
-    "4": 540,
-    "5": 462,
-    "6": 288,
-    "7": 876,
-    "8": 1097,
-    "9": 580,
-    "10": 554,
-    "11": 616,
-    "12": 621,
-    "13": 1308,
-    "14": 1457,
-    "15": 601,
-    "16": 458,
-    "17": 577,
-    "18": 1045,
-    "19": 615,
-    "20": 323,
-    "21": 985,
-    "22": 662,
-    "23": 704
+    "0": 703,
+    "1": 526,
+    "2": 548,
+    "3": 778,
+    "4": 698,
+    "5": 922,
+    "6": 438,
+    "7": 1469,
+    "8": 1658,
+    "9": 989,
+    "10": 1153,
+    "11": 1180,
+    "12": 1295,
+    "13": 1887,
+    "14": 1818,
+    "15": 1078,
+    "16": 1558,
+    "17": 1307,
+    "18": 1263,
+    "19": 910,
+    "20": 536,
+    "21": 1288,
+    "22": 856,
+    "23": 1001
   },
   "message_types": {
-    "19": 1378,
-    "0": 2767,
-    "20": 7
+    "19": 4990,
+    "0": 8980,
+    "20": 14,
+    "46": 1
   },
   "top_reacted_messages": [
     {
@@ -137,12 +139,44 @@
       "channel": "Tawiwi is a patootie T^T"
     },
     {
+      "id": "1528806132347572365",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "ina.zuma",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1528887616022511658",
+      "channel_id": "1170692781216378960",
+      "content": "officially 425 on every ring",
+      "author": "princess.goth",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1528581546955505745",
       "channel_id": "1131839817982947429",
       "content": "",
       "author": "yi000607",
       "reactions": 11,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528850239291658393",
+      "channel_id": "1170692781216378960",
+      "content": "stupid glotan dooodle",
+      "author": "fishhazardthewizard",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1528878994395631646",
+      "channel_id": "1170692781216378960",
+      "content": "glotan kit leak\n\nexalt (heavenly typhoon): do a big hit of damage and give the p",
+      "author": "reya.li",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1528627048875163698",
@@ -159,6 +193,14 @@
       "author": "ahuahuahua",
       "reactions": 10,
       "channel": "融災數值"
+    },
+    {
+      "id": "1528722085843832892",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1528728160110252192",
@@ -209,60 +251,20 @@
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1528775578411471030",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "gensono0609",
+      "id": "1528615221776748614",
+      "channel_id": "1170692781216378960",
+      "content": "keyflare is fake run 3 burial ground instead",
+      "author": "syruponstrawberrycake",
       "reactions": 8,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1528801353038696670",
-      "channel_id": "1131839817982947429",
-      "content": "SP蘿坦\n\n會不會是深海角色呢",
-      "author": "arachnids_nacha",
+      "id": "1528717503952453662",
+      "channel_id": "1170692781216378960",
+      "content": "gmm <:Horla_shy:1468259514091573350> <:Horla_shy:1468259514091573350>",
+      "author": "glitzy_x",
       "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528722843552977048",
-      "channel_id": "1300659718653476925",
-      "content": "",
-      "author": "jmjmjm6667",
-      "reactions": 8,
-      "channel": "🔸canal-português"
-    },
-    {
-      "id": "1528593636625879150",
-      "channel_id": "1131839817982947429",
-      "content": "这次还挺简单的，一个小时就打完了（",
-      "author": "xyakoto",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528639292069642310",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "0.0._.0_0.",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528648609405468742",
-      "channel_id": "1131839817982947429",
-      "content": "那我在此收回支持忘卻一切言論",
-      "author": "nemu_s_t_a_r",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528681900716195910",
-      "channel_id": "1131839817982947429",
-      "content": "这是第五界域，神（人）域",
-      "author": "gensono0609",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

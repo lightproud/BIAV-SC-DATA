@@ -1,11 +1,11 @@
 {
   "date": "2026-07-05",
-  "messages": 17177,
+  "messages": 17747,
   "unique_authors": 369,
-  "reactions_total": 1362,
-  "attachments": 897,
+  "reactions_total": 1430,
+  "attachments": 933,
   "channel_activity": {
-    "🔸morimens-game-chat": 4797,
+    "🔸morimens-game-chat": 5367,
     "🔸general-chat": 3094,
     "🔸綜合討論": 934,
     "🔸阵容构建": 81,
@@ -76,6 +76,10 @@
     "1523127071465935178": 1
   },
   "hourly_activity": {
+    "20": 287,
+    "21": 295,
+    "22": 263,
+    "23": 317,
     "0": 168,
     "1": 338,
     "2": 1176,
@@ -95,15 +99,11 @@
     "16": 1252,
     "17": 1307,
     "18": 300,
-    "19": 234,
-    "20": 253,
-    "21": 91,
-    "22": 129,
-    "23": 119
+    "19": 234
   },
   "message_types": {
-    "0": 4260,
-    "19": 2133,
+    "0": 4588,
+    "19": 2375,
     "20": 4
   },
   "top_reacted_messages": [
@@ -244,6 +244,14 @@
       "channel": "🔸lore-chat"
     },
     {
+      "id": "1523474768173465620",
+      "channel_id": "1170692781216378960",
+      "content": "what is this stacked shop",
+      "author": "not_blueberry",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1523287228183351347",
       "channel_id": "1170692781216378960",
       "content": "make raid 0!",
@@ -256,14 +264,6 @@
       "channel_id": "1170692781216378960",
       "content": "only 450 casual dtides are allowed to have opinions!",
       "author": "_venush",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1523355658362290377",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "jmjmjm6667",
       "reactions": 5,
       "channel": "🔸morimens-game-chat"
     }

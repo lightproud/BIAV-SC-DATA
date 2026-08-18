@@ -1,10 +1,11 @@
 {
   "date": "2026-07-10",
-  "messages": 10966,
+  "messages": 18048,
   "unique_authors": 315,
-  "reactions_total": 1020,
-  "attachments": 608,
+  "reactions_total": 1619,
+  "attachments": 852,
   "channel_activity": {
+    "🔸morimens-game-chat": 7082,
     "🔸general-chat": 3560,
     "🔸綜合討論": 817,
     "🔸剧情交流": 5,
@@ -61,37 +62,46 @@
     "1524949563054751814": 2
   },
   "hourly_activity": {
-    "11": 513,
-    "12": 310,
-    "13": 597,
-    "14": 675,
-    "15": 1106,
-    "16": 698,
-    "17": 187,
-    "18": 333,
-    "19": 333,
-    "20": 142,
-    "21": 250,
-    "22": 575,
-    "23": 215,
-    "0": 587,
-    "1": 380,
-    "2": 634,
-    "3": 210,
-    "4": 277,
-    "5": 317,
-    "6": 273,
-    "7": 375,
-    "8": 310,
-    "9": 824,
-    "10": 845
+    "0": 601,
+    "1": 459,
+    "2": 783,
+    "3": 286,
+    "4": 365,
+    "5": 435,
+    "6": 573,
+    "7": 652,
+    "8": 579,
+    "9": 1135,
+    "10": 1165,
+    "11": 1010,
+    "12": 714,
+    "13": 1292,
+    "14": 1312,
+    "15": 1254,
+    "16": 830,
+    "17": 389,
+    "18": 900,
+    "19": 955,
+    "20": 522,
+    "21": 396,
+    "22": 684,
+    "23": 757
   },
   "message_types": {
-    "0": 1050,
-    "19": 741,
-    "20": 6
+    "0": 5571,
+    "19": 3296,
+    "20": 11,
+    "46": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1525102998089633962",
+      "channel_id": "1170692781216378960",
+      "content": "whaaat",
+      "author": "sooneruzuki",
+      "reactions": 15,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1525110284010786816",
       "channel_id": "1131839817982947429",
@@ -99,6 +109,30 @@
       "author": "water_heart",
       "reactions": 13,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1525131002517651486",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "spooky_penguin_",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1525139038107861093",
+      "channel_id": "1170692781216378960",
+      "content": "does remind me of this classic someone talented drew https://x.com/bbasiljuice/s",
+      "author": "reya.li",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1525137079833591868",
+      "channel_id": "1170692781216378960",
+      "content": "we should force morimens to never make a male again so the woman can dress/expre",
+      "author": "princess.goth",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1525070313107488868",
@@ -115,6 +149,14 @@
       "author": "wraithdust",
       "reactions": 8,
       "channel": "sneep"
+    },
+    {
+      "id": "1525099396415488150",
+      "channel_id": "1170692781216378960",
+      "content": "but like i already have a couple dupes and (being the whale i am) got the caro b",
+      "author": "gerbil4265",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1525045371921891338",
@@ -139,6 +181,38 @@
       "author": "eresh69",
       "reactions": 7,
       "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1525099961212207255",
+      "channel_id": "1170692781216378960",
+      "content": "I meant 400 dollars",
+      "author": "omegamart",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1525183644111601776",
+      "channel_id": "1170692781216378960",
+      "content": "Its an investment",
+      "author": "cornonthemacabre_",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1525229458313711626",
+      "channel_id": "1170692781216378960",
+      "content": "ogier bcs we would lose the least value by him being gone",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1525262198023389234",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "legendaryredz",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1525050224740139158",
@@ -179,78 +253,6 @@
       "author": "ahuahuahua",
       "reactions": 6,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1525165562945077378",
-      "channel_id": "1131839817982947429",
-      "content": "~~Consider這個字意思不就是可能不會改嘛~~",
-      "author": "ahuahuahua",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1525166187334340749",
-      "channel_id": "1131839817982947429",
-      "content": "我要去發第四篇關回放的有問了",
-      "author": "ahuahuahua",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1525183175641272462",
-      "channel_id": "1131839817982947429",
-      "content": "這是安樂死嗎",
-      "author": "ernest_heart",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1525019981329334363",
-      "channel_id": "1300659662311526512",
-      "content": "<:Ramona_breakinto:1468258544452370483>",
-      "author": "duxadidus",
-      "reactions": 6,
-      "channel": "🔸canal-español"
-    },
-    {
-      "id": "1525065180566917160",
-      "channel_id": "1326453763355185215",
-      "content": "i mean if we think about disollution may just be happening in real life, we just",
-      "author": "yorusakurai",
-      "reactions": 6,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1525069578974138408",
-      "channel_id": "1326453763355185215",
-      "content": "so bigbooba male Thais or twinky slut Tawil or Your Misty Mommy Next Door N are ",
-      "author": "_venush",
-      "reactions": 6,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1525080175975333972",
-      "channel_id": "1400750050208125010",
-      "content": "i alr have 1",
-      "author": "lapisstephie",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1525235907110895696",
-      "channel_id": "1300659552701648960",
-      "content": "🍾🥂\n<@188420519530463233>",
-      "author": "gedo1743",
-      "reactions": 5,
-      "channel": "🔸chaîne-française"
-    },
-    {
-      "id": "1525243124174033007",
-      "channel_id": "1496819686699040860",
-      "content": "been a while since i've finished one big sketchbook page, bear with me if it loo",
-      "author": "glitzy_x",
-      "reactions": 5,
-      "channel": "doreposting / unserious doodles / doreyap"
     }
   ]
 }

@@ -1,10 +1,11 @@
 {
   "date": "2026-07-24",
-  "messages": 15565,
+  "messages": 26662,
   "unique_authors": 384,
-  "reactions_total": 1315,
-  "attachments": 715,
+  "reactions_total": 2758,
+  "attachments": 1103,
   "channel_activity": {
+    "🔸morimens-game-chat": 11097,
     "🔸general-chat": 3924,
     "🔸綜合討論": 2663,
     "🔸阵容构建": 92,
@@ -102,35 +103,35 @@
     "V2.5.2 狂欢之行┊A Night of Revelry┊광란의 행진": 4
   },
   "hourly_activity": {
-    "7": 474,
-    "8": 346,
-    "9": 823,
-    "10": 543,
-    "11": 776,
-    "12": 1538,
-    "13": 1203,
-    "14": 1153,
-    "15": 1435,
-    "16": 1037,
-    "17": 760,
-    "18": 707,
-    "19": 464,
-    "20": 402,
-    "21": 343,
-    "22": 483,
-    "23": 743,
-    "0": 440,
-    "1": 297,
-    "2": 291,
-    "3": 341,
-    "4": 323,
-    "5": 367,
-    "6": 276
+    "0": 666,
+    "1": 342,
+    "2": 340,
+    "3": 925,
+    "4": 750,
+    "5": 550,
+    "6": 430,
+    "7": 601,
+    "8": 761,
+    "9": 1189,
+    "10": 831,
+    "11": 1250,
+    "12": 2549,
+    "13": 2105,
+    "14": 1794,
+    "15": 2181,
+    "16": 1693,
+    "17": 1255,
+    "18": 1261,
+    "19": 1086,
+    "20": 1042,
+    "21": 815,
+    "22": 1077,
+    "23": 1169
   },
   "message_types": {
-    "19": 1119,
-    "0": 2032,
-    "20": 4
+    "19": 5581,
+    "0": 8657,
+    "20": 14
   },
   "top_reacted_messages": [
     {
@@ -166,12 +167,60 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1530146307593867376",
+      "channel_id": "1170692781216378960",
+      "content": "Uh huh",
+      "author": "sirtealot",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1530341388779126885",
+      "channel_id": "1170692781216378960",
+      "content": "Don't mess with me",
+      "author": "spooky_penguin_",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1530189377140162610",
+      "channel_id": "1170692781216378960",
+      "content": "fellas what do we think of the capitalist chaos",
+      "author": "2ndselna",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1530171523724349442",
       "channel_id": "1131839817982947429",
       "content": "莱拉看完了烛鲸技能吓得原地辞职跑路（悲",
       "author": "polkarain",
       "reactions": 10,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1530190889073246258",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "legendaryredz",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1530197860891627531",
+      "channel_id": "1170692781216378960",
+      "content": "<@452731110556696596>",
+      "author": "arisuu0604",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1530209359886553293",
+      "channel_id": "1170692781216378960",
+      "content": "Welp jail done",
+      "author": "notpantswagon",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1530181412508926032",
@@ -206,91 +255,43 @@
       "channel": "📜 V2.5.3 版本前瞻┊Version Outlook┊버전 미리보기"
     },
     {
+      "id": "1530186382440529940",
+      "channel_id": "1170692781216378960",
+      "content": "Not gonna lie \nPChaos looks more interesting to me than GLotan entire kit\nArachn",
+      "author": "legendaryredz",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1530192529851416676",
+      "channel_id": "1170692781216378960",
+      "content": "WE ARE ALL SKIPPING GLOTAN ❌ AND PULLING DORESAIN ✅",
+      "author": "princess.goth",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1530196171165794375",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "moyashi0672",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1530345029279813714",
+      "channel_id": "1170692781216378960",
+      "content": "67 +133",
+      "author": "angbak",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1530211472649748701",
       "channel_id": "1131839817982947429",
       "content": "摸蝦大人不會嫌棄非黃種人\n摸蝦大人不會把你的鑰令扔進大混池\n摸蝦大人不會把你的銀鑰拐x0.75",
       "author": "arachnids_nacha",
       "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530212194233356479",
-      "channel_id": "1131839817982947429",
-      "content": "稍微算了一下，假设60级，100力，100强效，100爆伤，3叠轮子，觉醒后等了3回合：\n基础伤害 = 1600\n遗物基础伤害增幅 = 1\n命轮基础伤害增幅 =",
-      "author": "polkarain",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530262606525235271",
-      "channel_id": "1131839817982947429",
-      "content": "~~哪次沒有~~",
-      "author": "annabelle0868",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530220718116179998",
-      "channel_id": "1530220718116179998",
-      "content": "今天去玩拼豆玩上瘾了（）搜了半天没看到自推就画了\n||第一次搞这种可能有bug<:Horla_cry:1357186646294138890> ||\n可自行替换",
-      "author": "kuyuki1145",
-      "reactions": 8,
-      "channel": "试着搞了拼豆图纸（"
-    },
-    {
-      "id": "1530119449481318502",
-      "channel_id": "1131839817982947429",
-      "content": "難道說被視姦都是因為我不檢點嘛……",
-      "author": "ahuahuahua",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530192457927626843",
-      "channel_id": "1131839817982947429",
-      "content": "神鯨餛飩",
-      "author": "annabelle0868",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530199991132618873",
-      "channel_id": "1131839817982947429",
-      "content": "四小強難道不是小艾 水母 小騎士 摸蝦嗎",
-      "author": "arachnids_nacha",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530200458675621998",
-      "channel_id": "1131839817982947429",
-      "content": "一哥也有自己的怨念",
-      "author": "xyakoto",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530253848957161493",
-      "channel_id": "1131839817982947429",
-      "content": "反正我算了下，你3启60级，100力，等个三回合就能打出200k以上",
-      "author": "polkarain",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530271161559027752",
-      "channel_id": "1131839817982947429",
-      "content": "啧",
-      "author": "lurenjiao",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530067182673985718",
-      "channel_id": "1131839817982947429",
-      "content": "有大佬可以帶帶我嗎",
-      "author": "water_heart",
-      "reactions": 7,
       "channel": "🔸綜合討論"
     }
   ]

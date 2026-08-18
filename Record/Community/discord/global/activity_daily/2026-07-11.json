@@ -1,10 +1,11 @@
 {
   "date": "2026-07-11",
-  "messages": 9586,
+  "messages": 15100,
   "unique_authors": 335,
-  "reactions_total": 983,
-  "attachments": 557,
+  "reactions_total": 1581,
+  "attachments": 853,
   "channel_activity": {
+    "🔸morimens-game-chat": 5514,
     "🔸general-chat": 2915,
     "🔸綜合討論": 663,
     "🔸阵容构建": 20,
@@ -69,35 +70,35 @@
     "Need help with p drive lv 70": 4
   },
   "hourly_activity": {
-    "0": 394,
-    "1": 177,
-    "2": 332,
-    "3": 332,
-    "4": 559,
-    "5": 239,
-    "6": 212,
-    "7": 204,
-    "8": 501,
-    "9": 742,
-    "10": 384,
-    "11": 295,
-    "12": 536,
-    "13": 690,
-    "14": 422,
-    "15": 574,
-    "16": 708,
-    "17": 446,
-    "18": 292,
-    "19": 323,
-    "20": 170,
-    "21": 267,
-    "22": 551,
-    "23": 236
+    "0": 592,
+    "1": 342,
+    "2": 402,
+    "3": 462,
+    "4": 638,
+    "5": 614,
+    "6": 535,
+    "7": 696,
+    "8": 894,
+    "9": 899,
+    "10": 487,
+    "11": 380,
+    "12": 751,
+    "13": 879,
+    "14": 724,
+    "15": 757,
+    "16": 989,
+    "17": 847,
+    "18": 559,
+    "19": 578,
+    "20": 303,
+    "21": 503,
+    "22": 696,
+    "23": 573
   },
   "message_types": {
-    "19": 1089,
-    "0": 1803,
-    "20": 22,
+    "0": 5485,
+    "19": 2910,
+    "20": 33,
     "23": 1
   },
   "top_reacted_messages": [
@@ -118,6 +119,14 @@
       "channel": "Tuff"
     },
     {
+      "id": "1525341818840158298",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "guava3442",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1525535239676625097",
       "channel_id": "1131839817982947429",
       "content": "官宣《忘卻前夜》關服🙏\n親愛的守密人：\n非常感謝各位守密人一直以來對《忘卻前夜》的支持與喜愛，有大家的一路陪伴，我們才能堅持在這2年多的時間裏持續拓展遊戲內容。",
@@ -132,6 +141,14 @@
       "author": "samin_",
       "reactions": 12,
       "channel": "Sorel ❤️"
+    },
+    {
+      "id": "1525482741221818409",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1525487140031692850",
@@ -158,6 +175,22 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1525427887447085187",
+      "channel_id": "1170692781216378960",
+      "content": "WTF",
+      "author": "_shadow_reeper_",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1525594091830906921",
+      "channel_id": "1170692781216378960",
+      "content": "Fastest Pontos clear (Real)",
+      "author": "frosthief",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1525507693035520060",
       "channel_id": "1131839817982947429",
       "content": "全是+12，吓晕",
@@ -172,6 +205,22 @@
       "author": "sa_84qn",
       "reactions": 8,
       "channel": "泰旖絲"
+    },
+    {
+      "id": "1525386415750385684",
+      "channel_id": "1170692781216378960",
+      "content": "Im from israel and my fav awaker is kathigura",
+      "author": "tnimreppep",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1525501114789920839",
+      "channel_id": "1170692781216378960",
+      "content": "Trick question! Both are bottoms",
+      "author": "mythicmoonwort",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1525444138827513916",
@@ -212,54 +261,6 @@
       "author": "jmjmjm6667",
       "reactions": 7,
       "channel": "Sketchs"
-    },
-    {
-      "id": "1525487622909198336",
-      "channel_id": "1525487140031692850",
-      "content": "",
-      "author": "jmjmjm6667",
-      "reactions": 7,
-      "channel": "Sketchs"
-    },
-    {
-      "id": "1525487949855068200",
-      "channel_id": "1525487140031692850",
-      "content": "",
-      "author": "jmjmjm6667",
-      "reactions": 7,
-      "channel": "Sketchs"
-    },
-    {
-      "id": "1525323021496090725",
-      "channel_id": "1400750050208125010",
-      "content": "",
-      "author": "rehtael",
-      "reactions": 6,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1525366466734718987",
-      "channel_id": "1131839817982947429",
-      "content": "有大佬可以草死我嗎",
-      "author": "ahuahuahua",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1525499844351758477",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "yi000607",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1525508866182348810",
-      "channel_id": "1131839817982947429",
-      "content": "这个不也是花钱就有了吗",
-      "author": "gensono0609",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
     }
   ]
 }

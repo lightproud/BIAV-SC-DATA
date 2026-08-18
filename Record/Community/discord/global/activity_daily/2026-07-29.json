@@ -1,10 +1,11 @@
 {
   "date": "2026-07-29",
-  "messages": 15797,
+  "messages": 24352,
   "unique_authors": 334,
-  "reactions_total": 1194,
-  "attachments": 746,
+  "reactions_total": 2059,
+  "attachments": 1130,
   "channel_activity": {
+    "🔸morimens-game-chat": 8555,
     "🔸general-chat": 6196,
     "🔸綜合討論": 674,
     "🔸阵容构建": 21,
@@ -84,35 +85,35 @@
     "求融災組隊，目標350+": 8
   },
   "hourly_activity": {
-    "22": 1044,
-    "23": 782,
-    "8": 578,
-    "9": 717,
-    "10": 786,
-    "11": 1092,
-    "12": 1074,
-    "13": 1266,
-    "14": 665,
-    "15": 626,
-    "16": 569,
-    "17": 574,
-    "18": 672,
-    "19": 492,
-    "20": 530,
-    "21": 870,
-    "0": 268,
-    "1": 349,
-    "2": 271,
-    "3": 400,
-    "4": 501,
-    "5": 367,
-    "6": 787,
-    "7": 517
+    "0": 584,
+    "1": 506,
+    "2": 630,
+    "3": 757,
+    "4": 643,
+    "5": 515,
+    "6": 964,
+    "7": 650,
+    "8": 1043,
+    "9": 1074,
+    "10": 1124,
+    "11": 1493,
+    "12": 1448,
+    "13": 1615,
+    "14": 1182,
+    "15": 1016,
+    "16": 993,
+    "17": 806,
+    "18": 1024,
+    "19": 844,
+    "20": 1032,
+    "21": 1765,
+    "22": 1555,
+    "23": 1089
   },
   "message_types": {
-    "0": 10808,
-    "19": 4932,
-    "20": 51,
+    "0": 16185,
+    "19": 8099,
+    "20": 62,
     "18": 1,
     "6": 1,
     "4": 3,
@@ -126,6 +127,14 @@
       "author": "morimensstaff03",
       "reactions": 16,
       "channel": "Divine Realms, Aliemus Costs and other Future Worries"
+    },
+    {
+      "id": "1532123780166451371",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "poki5539",
+      "reactions": 14,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1532042243412590613",
@@ -150,6 +159,14 @@
       "author": "arachnids_nacha",
       "reactions": 9,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1532004576746803422",
+      "channel_id": "1170692781216378960",
+      "content": "Oh hey, it's been exactly one year! 🎂",
+      "author": "sophiechoice",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1531892269450399945",
@@ -190,6 +207,14 @@
       "author": "morimensstaff03",
       "reactions": 7,
       "channel": "Please rework how Propagation Caro works for the future units"
+    },
+    {
+      "id": "1532144500007243846",
+      "channel_id": "1170692781216378960",
+      "content": "the first flails are always the worst ones",
+      "author": "nirski",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1531994863824928961",
@@ -254,30 +279,6 @@
       "author": "samin_",
       "reactions": 6,
       "channel": "William 🗝️"
-    },
-    {
-      "id": "1532165092022419516",
-      "channel_id": "1400750050208125010",
-      "content": "🫃🏽 ⏸️",
-      "author": "bocchi_the_raf",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1531995381955563725",
-      "channel_id": "1400750050208125010",
-      "content": "https://klipy.com/gifs/ayuwoki-2",
-      "author": "bocchi_the_raf",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1531996542930518197",
-      "channel_id": "1400750050208125010",
-      "content": "Im adopting you, get ready",
-      "author": "eury_illia",
-      "reactions": 5,
-      "channel": "🔸general-chat"
     }
   ]
 }

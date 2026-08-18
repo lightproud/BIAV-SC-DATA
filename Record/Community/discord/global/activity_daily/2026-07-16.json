@@ -1,10 +1,11 @@
 {
   "date": "2026-07-16",
-  "messages": 13286,
+  "messages": 19447,
   "unique_authors": 269,
-  "reactions_total": 984,
-  "attachments": 561,
+  "reactions_total": 1539,
+  "attachments": 833,
   "channel_activity": {
+    "🔸morimens-game-chat": 6161,
     "🔸general-chat": 5771,
     "🔸綜合討論": 1629,
     "🔸阵容构建": 2,
@@ -81,37 +82,47 @@
     "In need of guidance": 6
   },
   "hourly_activity": {
-    "18": 1070,
-    "19": 268,
-    "20": 439,
-    "21": 209,
-    "22": 337,
-    "23": 125,
-    "0": 187,
-    "1": 448,
-    "2": 411,
-    "3": 377,
-    "4": 429,
-    "5": 690,
-    "6": 386,
-    "7": 387,
-    "8": 530,
-    "9": 584,
-    "10": 843,
-    "11": 577,
-    "12": 568,
-    "13": 411,
-    "14": 1213,
-    "15": 747,
-    "16": 1140,
-    "17": 910
+    "0": 341,
+    "1": 496,
+    "2": 479,
+    "3": 501,
+    "4": 498,
+    "5": 816,
+    "6": 598,
+    "7": 699,
+    "8": 903,
+    "9": 972,
+    "10": 1057,
+    "11": 1210,
+    "12": 811,
+    "13": 785,
+    "14": 1522,
+    "15": 1060,
+    "16": 1255,
+    "17": 1112,
+    "18": 1468,
+    "19": 572,
+    "20": 514,
+    "21": 419,
+    "22": 753,
+    "23": 606
   },
   "message_types": {
-    "19": 208,
-    "0": 609,
+    "0": 4522,
+    "19": 2442,
+    "20": 13,
+    "46": 1,
     "23": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1527293228171399301",
+      "channel_id": "1170692781216378960",
+      "content": "hm",
+      "author": "sooneruzuki",
+      "reactions": 16,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1527169459683459193",
       "channel_id": "1131839817982947429",
@@ -185,6 +196,14 @@
       "channel": "🔸lore-chat"
     },
     {
+      "id": "1527307218649747579",
+      "channel_id": "1170692781216378960",
+      "content": "very nsfw image don't ban pls <:Murphy_embarrassed:1356085635374383145>",
+      "author": "not_blueberry",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1527262402775875726",
       "channel_id": "1131839817982947429",
       "content": "",
@@ -249,28 +268,12 @@
       "channel": "🔸lore-chat"
     },
     {
-      "id": "1527245795752153161",
-      "channel_id": "1131839817982947429",
-      "content": "||查了一下1680刚好是个不错的骨灰盒价格||",
-      "author": "navirecorbeau",
+      "id": "1527275298843000982",
+      "channel_id": "1170692781216378960",
+      "content": "i do like re-evo tho...",
+      "author": "arandomflamev2",
       "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1527272345629102110",
-      "channel_id": "1131839817982947429",
-      "content": "多大點事 不就是殺人/吃人/標本/藝術品/香水嗎？",
-      "author": "annabelle0868",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1527280493874384976",
-      "channel_id": "1131839817982947429",
-      "content": "<@614083839131648021> 品格良好",
-      "author": "kemomimi_",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

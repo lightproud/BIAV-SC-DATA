@@ -1,10 +1,11 @@
 {
   "date": "2026-07-14",
-  "messages": 13507,
+  "messages": 19079,
   "unique_authors": 277,
-  "reactions_total": 1142,
-  "attachments": 588,
+  "reactions_total": 1681,
+  "attachments": 833,
   "channel_activity": {
+    "🔸morimens-game-chat": 5572,
     "🔸general-chat": 4764,
     "🔸綜合討論": 1144,
     "🔸阵容构建": 116,
@@ -73,35 +74,35 @@
     "回鍋想問陣容組成": 1
   },
   "hourly_activity": {
-    "0": 603,
-    "1": 513,
-    "2": 539,
-    "3": 561,
-    "4": 384,
-    "5": 227,
-    "6": 287,
-    "7": 366,
-    "8": 900,
-    "9": 1488,
-    "10": 909,
-    "11": 978,
-    "12": 484,
-    "13": 732,
-    "14": 524,
-    "15": 391,
-    "16": 506,
-    "17": 520,
-    "18": 362,
-    "19": 706,
-    "20": 364,
-    "21": 266,
-    "22": 557,
-    "23": 340
+    "0": 719,
+    "1": 893,
+    "2": 980,
+    "3": 804,
+    "4": 694,
+    "5": 370,
+    "6": 428,
+    "7": 599,
+    "8": 1159,
+    "9": 1821,
+    "10": 1169,
+    "11": 1236,
+    "12": 651,
+    "13": 926,
+    "14": 619,
+    "15": 652,
+    "16": 792,
+    "17": 773,
+    "18": 486,
+    "19": 1072,
+    "20": 565,
+    "21": 439,
+    "22": 686,
+    "23": 546
   },
   "message_types": {
-    "0": 3037,
-    "19": 1722,
-    "20": 5
+    "19": 3574,
+    "0": 6753,
+    "20": 9
   },
   "top_reacted_messages": [
     {
@@ -127,6 +128,14 @@
       "author": "calmdreab",
       "reactions": 13,
       "channel": "Stuck together on Silver Day"
+    },
+    {
+      "id": "1526675888534454453",
+      "channel_id": "1170692781216378960",
+      "content": "for my covenant video i wanted to show how to reroll and wasted 1.2k stamps and ",
+      "author": "princess.goth",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1526520341747470446",
@@ -225,6 +234,14 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1526388269410029781",
+      "channel_id": "1170692781216378960",
+      "content": "Reset everyday.Bosses 1 turn anyway",
+      "author": "noreadjustwhale",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1526668587098570877",
       "channel_id": "1131839817982947429",
       "content": "神秘149/150<:Horla_cry:1357186646294138890>",
@@ -247,22 +264,6 @@
       "author": "calmdreab",
       "reactions": 7,
       "channel": "银色情人节看家产贴贴"
-    },
-    {
-      "id": "1526425476514582599",
-      "channel_id": "1131839817982947429",
-      "content": "大佬",
-      "author": "asbhic_1284",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1526440362032369756",
-      "channel_id": "1131839817982947429",
-      "content": "谁那么色",
-      "author": "ling_an_",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
     }
   ]
 }

@@ -1,10 +1,11 @@
 {
   "date": "2026-07-17",
-  "messages": 12641,
+  "messages": 18008,
   "unique_authors": 305,
-  "reactions_total": 1401,
-  "attachments": 641,
+  "reactions_total": 1869,
+  "attachments": 890,
   "channel_activity": {
+    "🔸morimens-game-chat": 5367,
     "🔸general-chat": 3192,
     "🔸綜合討論": 3181,
     "🔸阵容构建": 110,
@@ -71,35 +72,35 @@
     "【新人帮助】论坛介绍": 2
   },
   "hourly_activity": {
-    "0": 240,
-    "1": 181,
-    "2": 272,
-    "3": 523,
-    "4": 682,
-    "5": 464,
-    "6": 351,
-    "7": 486,
-    "8": 475,
-    "9": 442,
-    "10": 439,
-    "11": 1142,
-    "12": 615,
-    "13": 642,
-    "14": 730,
-    "15": 691,
-    "16": 1259,
-    "17": 1131,
-    "18": 350,
-    "19": 374,
-    "20": 315,
-    "21": 391,
-    "22": 268,
-    "23": 178
+    "0": 450,
+    "1": 436,
+    "2": 661,
+    "3": 709,
+    "4": 849,
+    "5": 487,
+    "6": 532,
+    "7": 574,
+    "8": 514,
+    "9": 503,
+    "10": 641,
+    "11": 1334,
+    "12": 935,
+    "13": 925,
+    "14": 1156,
+    "15": 988,
+    "16": 1459,
+    "17": 1585,
+    "18": 556,
+    "19": 773,
+    "20": 660,
+    "21": 542,
+    "22": 457,
+    "23": 282
   },
   "message_types": {
-    "0": 2159,
-    "19": 1028,
-    "20": 5
+    "19": 2823,
+    "0": 5722,
+    "20": 14
   },
   "top_reacted_messages": [
     {
@@ -125,6 +126,14 @@
       "author": "yusi4172",
       "reactions": 11,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1527618314728247378",
+      "channel_id": "1170692781216378960",
+      "content": "@ everyone",
+      "author": "lightproud",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1527673502256332932",
@@ -207,6 +216,30 @@
       "channel": "Notice Regarding Music Content Adjustments and Our Sincere Apology"
     },
     {
+      "id": "1527644253122072606",
+      "channel_id": "1170692781216378960",
+      "content": "|| https://vxtwitter.com/i/status/2077071042888274385 ||\n<:Aigis_scared:13560531",
+      "author": "not_blueberry",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1527761090937749574",
+      "channel_id": "1170692781216378960",
+      "content": "*AFTER SUCH SUFFERING... AFTER SUCH WAITING...*\n\n*IT IS DONE!*",
+      "author": "the_black_butterfly",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1527811433830682694",
+      "channel_id": "1170692781216378960",
+      "content": "This game is too addictive. I need to stop, haha.",
+      "author": "vice4499",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1527660578133377034",
       "channel_id": "1131839817982947429",
       "content": "但是拯救了忘卻前夜的兌換碼有時限，這是不是表示他們會忘記",
@@ -227,38 +260,6 @@
       "channel_id": "1131839817982947429",
       "content": "",
       "author": "roselia_millsage_avemujica",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1527719089613836288",
-      "channel_id": "1131839817982947429",
-      "content": "https://x.com/i/status/2076172869940425125",
-      "author": "souri.10244",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1527721583588671568",
-      "channel_id": "1131839817982947429",
-      "content": "~~我們退了他找誰去吃什麼不平等交易，莫絲栗子地瓜~~",
-      "author": "yusi4172",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1527727590239113228",
-      "channel_id": "1131839817982947429",
-      "content": "我要印成本子發給大家",
-      "author": "souri.10244",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1527594853217599518",
-      "channel_id": "1131839817982947429",
-      "content": "大佬都是玩游戏，就我被鳥哥、鳥弟、神父、鯊魚、杜勒和皮克曼玩了",
-      "author": "shchng.",
       "reactions": 6,
       "channel": "🔸綜合討論"
     }

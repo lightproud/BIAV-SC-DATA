@@ -1,10 +1,11 @@
 {
   "date": "2026-07-22",
-  "messages": 16477,
+  "messages": 23192,
   "unique_authors": 318,
-  "reactions_total": 1386,
-  "attachments": 790,
+  "reactions_total": 2131,
+  "attachments": 1098,
   "channel_activity": {
+    "🔸morimens-game-chat": 6715,
     "🔸general-chat": 9166,
     "🔸綜合討論": 998,
     "🔸阵容构建": 254,
@@ -66,35 +67,36 @@
     "1529328091195904111": 1
   },
   "hourly_activity": {
-    "16": 510,
-    "17": 849,
-    "18": 396,
-    "19": 310,
-    "20": 717,
-    "21": 405,
-    "22": 174,
-    "23": 401,
-    "3": 1162,
-    "4": 1170,
-    "5": 370,
-    "6": 376,
-    "7": 756,
-    "8": 662,
-    "9": 879,
-    "10": 1187,
-    "11": 708,
-    "12": 793,
-    "13": 707,
-    "14": 559,
-    "15": 421,
-    "0": 722,
-    "1": 1159,
-    "2": 1084
+    "0": 901,
+    "1": 1557,
+    "2": 1547,
+    "3": 1535,
+    "4": 1230,
+    "5": 457,
+    "6": 587,
+    "7": 876,
+    "8": 727,
+    "9": 998,
+    "10": 1514,
+    "11": 1018,
+    "12": 1047,
+    "13": 1119,
+    "14": 1185,
+    "15": 846,
+    "16": 792,
+    "17": 998,
+    "18": 573,
+    "19": 686,
+    "20": 1141,
+    "21": 783,
+    "22": 509,
+    "23": 566
   },
   "message_types": {
-    "0": 1183,
-    "19": 584,
-    "20": 5
+    "0": 5273,
+    "19": 3200,
+    "20": 13,
+    "18": 1
   },
   "top_reacted_messages": [
     {
@@ -120,6 +122,14 @@
       "author": "lightproud",
       "reactions": 14,
       "channel": "Statement on the PV-Related Feedback"
+    },
+    {
+      "id": "1529556843381264628",
+      "channel_id": "1170692781216378960",
+      "content": "not really, but also yes really\nshe can deal a LOT of damage thanks to her soulf",
+      "author": "watchthew0rldburn",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1529432364663570475",
@@ -160,6 +170,14 @@
       "author": "morimensstaff06",
       "reactions": 9,
       "channel": "V2.5.3 战斗吧守密人┊Ready to Fight, Keeper?┊겨루어라, 수호자여"
+    },
+    {
+      "id": "1529406651977699420",
+      "channel_id": "1170692781216378960",
+      "content": "https://x.com/corpusants/status/2079767774134473132",
+      "author": "xiii_c",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1529571625748529355",
@@ -218,44 +236,28 @@
       "channel": "Statement on the PV-Related Feedback"
     },
     {
-      "id": "1529308331137699990",
-      "channel_id": "1400750050208125010",
-      "content": "https://x.com/i/status/2079627646284288449",
-      "author": "k.y.u.",
+      "id": "1529469165671547014",
+      "channel_id": "1170692781216378960",
+      "content": "hell yeah",
+      "author": "sooneruzuki",
       "reactions": 6,
-      "channel": "🔸general-chat"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1529318295143059507",
-      "channel_id": "1400750050208125010",
-      "content": "im blocking everyone who has wang",
-      "author": "eury_illia",
+      "id": "1529512717214285875",
+      "channel_id": "1170692781216378960",
+      "content": "TAKE ME OUT TO DINNER FIRST, LADY",
+      "author": "tortelliniharbingerno.11",
       "reactions": 6,
-      "channel": "🔸general-chat"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1529435497326317629",
-      "channel_id": "1131839817982947429",
-      "content": "原来我进来这里会被发现<:Brown_think:1459080117308620996>",
-      "author": "morimensstaff06",
+      "id": "1529562698260418640",
+      "channel_id": "1170692781216378960",
+      "content": "hsr?? you mean the hit new gamemode hectic skybound rail from critically acclaim",
+      "author": "fishhazardthewizard",
       "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1529461729111707698",
-      "channel_id": "1174983699935277147",
-      "content": "",
-      "author": "yuu._.0324",
-      "reactions": 6,
-      "channel": "🔸晒卡分享"
-    },
-    {
-      "id": "1529593258211151992",
-      "channel_id": "1300659662311526512",
-      "content": "🤫",
-      "author": "tipsy.17",
-      "reactions": 6,
-      "channel": "🔸canal-español"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

@@ -1,10 +1,11 @@
 {
   "date": "2026-07-28",
-  "messages": 20145,
+  "messages": 28583,
   "unique_authors": 392,
-  "reactions_total": 1503,
-  "attachments": 914,
+  "reactions_total": 2440,
+  "attachments": 1401,
   "channel_activity": {
+    "🔸morimens-game-chat": 8438,
     "🔸general-chat": 8680,
     "🔸綜合討論": 1031,
     "🔸剧情交流": 10,
@@ -94,35 +95,36 @@
     "1531528089673404476": 1
   },
   "hourly_activity": {
-    "15": 1539,
-    "16": 889,
-    "17": 1163,
-    "18": 490,
-    "19": 500,
-    "20": 1155,
-    "21": 1114,
-    "22": 912,
-    "23": 476,
-    "0": 351,
-    "1": 696,
-    "2": 712,
-    "3": 682,
-    "4": 719,
-    "5": 583,
-    "6": 1166,
-    "7": 666,
-    "8": 799,
-    "9": 793,
-    "10": 841,
-    "11": 1053,
-    "12": 615,
-    "13": 949,
-    "14": 1282
+    "0": 686,
+    "1": 1091,
+    "2": 921,
+    "3": 1063,
+    "4": 1002,
+    "5": 852,
+    "6": 1362,
+    "7": 1056,
+    "8": 976,
+    "9": 1267,
+    "10": 1330,
+    "11": 1362,
+    "12": 883,
+    "13": 1129,
+    "14": 1553,
+    "15": 2041,
+    "16": 1277,
+    "17": 1574,
+    "18": 717,
+    "19": 640,
+    "20": 1847,
+    "21": 1771,
+    "22": 1274,
+    "23": 909
   },
   "message_types": {
-    "0": 13301,
-    "19": 6781,
-    "20": 50,
+    "0": 18728,
+    "19": 9777,
+    "20": 64,
+    "46": 1,
     "4": 11,
     "21": 2
   },
@@ -152,6 +154,22 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1531470794679390339",
+      "channel_id": "1170692781216378960",
+      "content": "fresh wip",
+      "author": "mosske",
+      "reactions": 14,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1531765901584633857",
+      "channel_id": "1170692781216378960",
+      "content": "to all the new players here is a very good tier list to help you",
+      "author": "gersona6",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1531652110557646903",
       "channel_id": "1445556242381672559",
       "content": "some more practice/study, focusing on expressions this time-",
@@ -166,6 +184,14 @@
       "author": "iamnotbunny",
       "reactions": 11,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1531501851277660361",
+      "channel_id": "1170692781216378960",
+      "content": "wip update, goin to bed now",
+      "author": "mosske",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1531693199041630349",
@@ -216,6 +242,14 @@
       "channel": "My morimens arts"
     },
     {
+      "id": "1531519104366936146",
+      "channel_id": "1170692781216378960",
+      "content": "scary",
+      "author": "sadnekobasu",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1531599590313295922",
       "channel_id": "1531599590313295922",
       "content": "修了一下bug<:Horla_cry:1357186646294138890> \n顺便放一下拼好的😋\n然后你们有啥想要的角色我可以画口牙欢迎点图<:Leigh_",
@@ -240,52 +274,20 @@
       "channel": "Tinct 🎶"
     },
     {
-      "id": "1531602043926482994",
-      "channel_id": "1131839817982947429",
-      "content": "繁血什麼的當然是拿來拐輔助😾 \n我的輔助在輔助輔助輔助主C",
-      "author": "water_heart",
+      "id": "1531682187714367641",
+      "channel_id": "1170692781216378960",
+      "content": "Castor best bird boi.\nI will forever use him.",
+      "author": "coldrinkies",
       "reactions": 7,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1531604258590294057",
-      "channel_id": "1131839817982947429",
-      "content": "校貓雷達要響了",
-      "author": "ernest_heart",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1531697254828740920",
-      "channel_id": "1131839817982947429",
-      "content": "我的形狀",
-      "author": "ahuahuahua",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1531634433243877498",
-      "channel_id": "1326453763355185215",
-      "content": "they just cant wait to put their evil self insert counterpart in case eos happen",
+      "id": "1531705454110183595",
+      "channel_id": "1170692781216378960",
+      "content": "im new",
       "author": "yorusakurai",
-      "reactions": 6,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1531635565198446653",
-      "channel_id": "1326453763355185215",
-      "content": "People like the fics I write , that's a start , right?",
-      "author": "10_katz_01",
-      "reactions": 6,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1531559555706785913",
-      "channel_id": "1131839817982947429",
-      "content": "我的天哪",
-      "author": "navirecorbeau",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

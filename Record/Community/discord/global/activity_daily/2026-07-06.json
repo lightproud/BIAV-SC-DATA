@@ -1,10 +1,11 @@
 {
   "date": "2026-07-06",
-  "messages": 12065,
+  "messages": 17868,
   "unique_authors": 366,
-  "reactions_total": 1193,
-  "attachments": 568,
+  "reactions_total": 1720,
+  "attachments": 891,
   "channel_activity": {
+    "🔸morimens-game-chat": 5803,
     "🔸general-chat": 3848,
     "🔸綜合討論": 1104,
     "🔸русский-канал": 51,
@@ -70,35 +71,36 @@
     "1523740046690357289": 1
   },
   "hourly_activity": {
-    "19": 323,
-    "20": 162,
-    "21": 297,
-    "22": 196,
-    "23": 627,
-    "0": 149,
-    "1": 150,
-    "2": 537,
-    "3": 475,
-    "4": 556,
-    "5": 389,
-    "6": 199,
-    "7": 305,
-    "8": 621,
-    "9": 453,
-    "10": 590,
-    "11": 362,
-    "12": 1172,
-    "13": 1290,
-    "14": 743,
-    "15": 762,
-    "16": 563,
-    "17": 442,
-    "18": 702
+    "0": 400,
+    "1": 357,
+    "2": 793,
+    "3": 544,
+    "4": 690,
+    "5": 519,
+    "6": 336,
+    "7": 501,
+    "8": 824,
+    "9": 771,
+    "10": 837,
+    "11": 425,
+    "12": 1284,
+    "13": 1547,
+    "14": 1013,
+    "15": 951,
+    "16": 909,
+    "17": 1236,
+    "18": 1167,
+    "19": 816,
+    "20": 541,
+    "21": 511,
+    "22": 252,
+    "23": 644
   },
   "message_types": {
-    "19": 145,
-    "0": 302,
-    "20": 1
+    "0": 4022,
+    "19": 2222,
+    "20": 6,
+    "46": 1
   },
   "top_reacted_messages": [
     {
@@ -124,6 +126,22 @@
       "author": "wild_pansy",
       "reactions": 12,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1523593451155886140",
+      "channel_id": "1170692781216378960",
+      "content": "I'm not even sure what is aigis doing in my gelot team. I have become so powerfu",
+      "author": "aurora3981",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1523668036198858822",
+      "channel_id": "1170692781216378960",
+      "content": "lowest possible amount of +12 clementine damage <@1164303137293729792>",
+      "author": "reya.li",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1523533455881666771",
@@ -238,28 +256,12 @@
       "channel": "여름인데 수영복 스킨 한번 내주세요 現在是夏天，請推出泳裝皮膚吧。"
     },
     {
-      "id": "1523628860959101029",
-      "channel_id": "1131839817982947429",
-      "content": "群佬除我",
-      "author": "ahuahuahua",
+      "id": "1523569518490812447",
+      "channel_id": "1170692781216378960",
+      "content": "<:Ogier_cheer:1468259351889318049>",
+      "author": "guava3442",
       "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1523631834427293736",
-      "channel_id": "1131839817982947429",
-      "content": "不可能，這不符合狗體功學",
-      "author": "ernest_heart",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1523697061348773889",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "akalanden",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

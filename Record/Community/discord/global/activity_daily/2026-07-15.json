@@ -1,10 +1,11 @@
 {
   "date": "2026-07-15",
-  "messages": 12989,
+  "messages": 18259,
   "unique_authors": 261,
-  "reactions_total": 1042,
-  "attachments": 598,
+  "reactions_total": 1552,
+  "attachments": 815,
   "channel_activity": {
+    "🔸morimens-game-chat": 5270,
     "🔸general-chat": 5085,
     "🔸綜合討論": 1208,
     "🔸阵容构建": 22,
@@ -71,34 +72,35 @@
     "想要問一下配隊": 7
   },
   "hourly_activity": {
-    "22": 316,
-    "23": 455,
-    "0": 607,
-    "1": 381,
-    "2": 412,
-    "3": 496,
-    "4": 791,
-    "5": 428,
-    "6": 580,
-    "7": 874,
-    "8": 593,
-    "9": 632,
-    "10": 655,
-    "11": 412,
-    "12": 475,
-    "13": 386,
-    "14": 468,
-    "15": 551,
-    "16": 386,
-    "17": 257,
-    "18": 493,
-    "19": 966,
-    "20": 1043,
-    "21": 332
+    "0": 955,
+    "1": 488,
+    "2": 799,
+    "3": 1124,
+    "4": 899,
+    "5": 490,
+    "6": 692,
+    "7": 1081,
+    "8": 784,
+    "9": 833,
+    "10": 776,
+    "11": 497,
+    "12": 603,
+    "13": 499,
+    "14": 687,
+    "15": 679,
+    "16": 486,
+    "17": 625,
+    "18": 678,
+    "19": 1148,
+    "20": 1172,
+    "21": 634,
+    "22": 610,
+    "23": 1020
   },
   "message_types": {
-    "0": 34,
-    "19": 13
+    "0": 3396,
+    "19": 1917,
+    "20": 4
   },
   "top_reacted_messages": [
     {
@@ -116,6 +118,14 @@
       "author": "hericium.e.",
       "reactions": 16,
       "channel": "Corposant doodle"
+    },
+    {
+      "id": "1526765398299775117",
+      "channel_id": "1170692781216378960",
+      "content": "yay :D",
+      "author": "watchthew0rldburn",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1527004202205839410",
@@ -166,6 +176,14 @@
       "channel": "Corposant OE \"bug\""
     },
     {
+      "id": "1526951897636798494",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "yorusakurai",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1526900173060440074",
       "channel_id": "1131839817982947429",
       "content": "~~突然在思考，貓會不會做紀念喚醒體<:Brown_think:1459080117308620996> 比如說一個有貢獻的玩家嘎了然後生前非常喜歡玩忘卻……想",
@@ -180,6 +198,14 @@
       "author": "paopao_00533",
       "reactions": 7,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1526937140481757245",
+      "channel_id": "1170692781216378960",
+      "content": "need money for corpo pls donate",
+      "author": "46982105",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1526907883264938006",
@@ -236,30 +262,6 @@
       "author": "yi000607",
       "reactions": 6,
       "channel": "🔸阵容构建"
-    },
-    {
-      "id": "1526757010840883280",
-      "channel_id": "1326453763355185215",
-      "content": "How much further down bro they're already at the bottom of the sea 😭",
-      "author": "eresh69",
-      "reactions": 6,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1526812478510727341",
-      "channel_id": "1400750050208125010",
-      "content": "Doesn't stop you from having beef w/ each other LMAO",
-      "author": "fayrbrant",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1526901894830882877",
-      "channel_id": "1131839817982947429",
-      "content": "~~我會倒模自己的py然後掛上校貓的名字賣，直到他願意出(？)~~",
-      "author": "shostakovich524",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
     }
   ]
 }

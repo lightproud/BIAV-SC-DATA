@@ -1,10 +1,11 @@
 {
   "date": "2026-07-12",
-  "messages": 13424,
+  "messages": 22198,
   "unique_authors": 276,
-  "reactions_total": 1298,
-  "attachments": 633,
+  "reactions_total": 1965,
+  "attachments": 928,
   "channel_activity": {
+    "🔸morimens-game-chat": 8774,
     "🔸general-chat": 5238,
     "🔸綜合討論": 1061,
     "🔸阵容构建": 93,
@@ -67,35 +68,35 @@
     "Leigh x I LICK and TICKLE Leigh's ARMPIT": 2
   },
   "hourly_activity": {
-    "0": 332,
-    "1": 108,
-    "2": 373,
-    "3": 358,
-    "4": 789,
-    "5": 718,
-    "6": 648,
-    "7": 501,
-    "8": 674,
-    "9": 514,
-    "10": 717,
-    "11": 1102,
-    "12": 704,
-    "13": 617,
-    "14": 375,
-    "15": 755,
-    "16": 412,
-    "17": 564,
-    "18": 366,
-    "19": 416,
-    "20": 907,
-    "21": 515,
-    "22": 280,
-    "23": 679
+    "0": 514,
+    "1": 439,
+    "2": 915,
+    "3": 826,
+    "4": 909,
+    "5": 1033,
+    "6": 835,
+    "7": 893,
+    "8": 884,
+    "9": 1160,
+    "10": 1117,
+    "11": 1465,
+    "12": 1294,
+    "13": 1107,
+    "14": 944,
+    "15": 1015,
+    "16": 578,
+    "17": 979,
+    "18": 663,
+    "19": 633,
+    "20": 1282,
+    "21": 1064,
+    "22": 782,
+    "23": 867
   },
   "message_types": {
-    "19": 2009,
-    "0": 2928,
-    "20": 12,
+    "0": 8422,
+    "19": 5285,
+    "20": 16,
     "23": 1
   },
   "top_reacted_messages": [
@@ -148,6 +149,22 @@
       "channel": "【 Fan-Made 】 Vulthoom-Inspired Awakener, Persephone"
     },
     {
+      "id": "1525963717144084702",
+      "channel_id": "1170692781216378960",
+      "content": "im getting corpo AA",
+      "author": "princess.goth",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1525981853402665154",
+      "channel_id": "1170692781216378960",
+      "content": "trolley problem:\n\non the track it is currently speeding down, there is kade.\non ",
+      "author": "not_blueberry",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1525819767133306881",
       "channel_id": "1400750050208125010",
       "content": "DONT REACT WITH A PREGNANT MAN TO MY MESSAGE WHAT",
@@ -170,6 +187,14 @@
       "author": "jmjmjm6667",
       "reactions": 9,
       "channel": "🔸general-chat"
+    },
+    {
+      "id": "1525938606710067291",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "reya.li",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1525823886506070097",
@@ -204,6 +229,14 @@
       "channel": "普池強化 300普抽何意味？"
     },
     {
+      "id": "1525940193109082153",
+      "channel_id": "1170692781216378960",
+      "content": "Penis",
+      "author": "spooky_penguin_",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1525789946231652392",
       "channel_id": "1326453763355185215",
       "content": "So, yeah, Celeste isn’t a god, as evidenced by the fact that we didn’t automatic",
@@ -226,38 +259,6 @@
       "author": "water_heart",
       "reactions": 7,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1525711006427254966",
-      "channel_id": "1525711006427254966",
-      "content": "got fed up with not having morimerch, made some myself <:Helot_slack_off:1459092",
-      "author": "anjuthemage",
-      "reactions": 7,
-      "channel": "Chibi Pontos"
-    },
-    {
-      "id": "1525819819566301314",
-      "channel_id": "1400750050208125010",
-      "content": "???",
-      "author": "myd4rlingfllinora",
-      "reactions": 6,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1525828335538802699",
-      "channel_id": "1400750050208125010",
-      "content": "𓋴𓏏𓅱𓊪 𓂋𓅂𓄿𓎢𓏏𓇋𓈖𓎼 𓅃𓇋𓏏𓉔 𓋴𓇋𓇨 𓋴𓅂𓆯𓅂𓈖 𓄿𓈖𓂧 𓏏𓉔𓅂 𓅓𓊪𓂋𓅂𓎼 𓅂𓅓𓅱𓆓𓇋 𓅃𓉔𓇌 𓅓𓅂",
-      "author": "myd4rlingfllinora",
-      "reactions": 6,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1525828465184477304",
-      "channel_id": "1400750050208125010",
-      "content": "𓇌𓅱𓅲 𓆑𓅲𓎢𓈎𓇋𓈖𓎼 𓂧𓅱𓎼 𓏏𓉔𓅱𓋴𓅂 𓄿𓂋𓅂 𓅓𓇌 𓊪𓄿𓏏𓋴 𓇌𓅱𓅲 𓃀𓃭𓅱𓅱𓂧 𓎢𓃭𓅱𓏏",
-      "author": "myd4rlingfllinora",
-      "reactions": 6,
-      "channel": "🔸general-chat"
     }
   ]
 }

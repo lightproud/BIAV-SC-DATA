@@ -1,10 +1,11 @@
 {
   "date": "2026-07-08",
-  "messages": 10050,
+  "messages": 17620,
   "unique_authors": 343,
-  "reactions_total": 789,
-  "attachments": 532,
+  "reactions_total": 1699,
+  "attachments": 834,
   "channel_activity": {
+    "🔸morimens-game-chat": 7570,
     "🔸general-chat": 3360,
     "🔸綜合討論": 803,
     "🔸剧情交流": 1,
@@ -78,35 +79,36 @@
     "Team Building (1 day playing)": 2
   },
   "hourly_activity": {
-    "0": 308,
-    "1": 130,
-    "2": 299,
-    "3": 204,
-    "4": 403,
-    "5": 189,
-    "6": 196,
-    "7": 856,
-    "8": 669,
-    "9": 411,
-    "10": 369,
-    "11": 209,
-    "12": 482,
-    "13": 844,
-    "14": 1008,
-    "15": 628,
-    "16": 629,
-    "17": 462,
-    "18": 325,
-    "19": 378,
-    "20": 344,
-    "21": 278,
-    "22": 157,
-    "23": 272
+    "0": 500,
+    "1": 303,
+    "2": 568,
+    "3": 675,
+    "4": 708,
+    "5": 475,
+    "6": 653,
+    "7": 1031,
+    "8": 856,
+    "9": 743,
+    "10": 585,
+    "11": 366,
+    "12": 859,
+    "13": 1223,
+    "14": 1580,
+    "15": 1112,
+    "16": 1235,
+    "17": 719,
+    "18": 428,
+    "19": 483,
+    "20": 710,
+    "21": 805,
+    "22": 491,
+    "23": 512
   },
   "message_types": {
-    "19": 1392,
-    "0": 1961,
-    "20": 6,
+    "0": 6666,
+    "19": 4252,
+    "20": 10,
+    "6": 1,
     "46": 1
   },
   "top_reacted_messages": [
@@ -119,12 +121,28 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1524530826140848270",
+      "channel_id": "1170692781216378960",
+      "content": "Clearing W5 with Pontos be like",
+      "author": "sirtealot",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1524387864970920036",
       "channel_id": "1131839817982947429",
       "content": "",
       "author": "gensono0609",
       "reactions": 12,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1524399806284300378",
+      "channel_id": "1170692781216378960",
+      "content": "can i commit the forbidden HANDHOLDING on their belly",
+      "author": "zettaizer0",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1524266249813626970",
@@ -143,6 +161,14 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1524420166182637690",
+      "channel_id": "1170692781216378960",
+      "content": "hi guys i finally did it",
+      "author": "azurecoloredsky.",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1524274347819274382",
       "channel_id": "1131839817982947429",
       "content": "地瓜那麼卑微嗎<:Horla_cry:1357186646294138890>",
@@ -157,6 +183,14 @@
       "author": "bread.guy",
       "reactions": 9,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1524386954924265642",
+      "channel_id": "1170692781216378960",
+      "content": "ok final version i think it came out great",
+      "author": "yorusakurai",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1524245925734912100",
@@ -181,6 +215,22 @@
       "author": "mouffinate",
       "reactions": 8,
       "channel": "pick your prom partner"
+    },
+    {
+      "id": "1524425137837834312",
+      "channel_id": "1170692781216378960",
+      "content": "When you tap the piss ring around your awakeners they release it",
+      "author": "sisuluasex",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1524451146054238332",
+      "channel_id": "1170692781216378960",
+      "content": "I JUST ACCIDENTALLY USED SILVER ON STANDARED <:24_clown:1468259444423921871>",
+      "author": "stupid1omor1plush",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1524549977269997669",
@@ -221,54 +271,6 @@
       "author": "kam03212000",
       "reactions": 7,
       "channel": "🔸晒卡分享"
-    },
-    {
-      "id": "1524467414354624775",
-      "channel_id": "1524467414354624775",
-      "content": "Xu spellbound doesn't work on Karen's soulforge as per image attached (image wit",
-      "author": "2ndselna",
-      "reactions": 7,
-      "channel": "Xu spellbound doesn't increase fixed poison in Karen Soulforge"
-    },
-    {
-      "id": "1524368433477582918",
-      "channel_id": "1131839817982947429",
-      "content": "不是吧\n為什麼感覺我好像每次都找不到主C的專造",
-      "author": "water_heart",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1524375193026560072",
-      "channel_id": "1131839817982947429",
-      "content": "相信腦缸\n~~不夠就多顆一點~~",
-      "author": "yusi4172",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1524389859685437471",
-      "channel_id": "1131839817982947429",
-      "content": "~~沒凹怎麼打過了~~死抗剩9%🤩",
-      "author": "ass191044",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1524412229565284372",
-      "channel_id": "1131839817982947429",
-      "content": "我想那是界域問題",
-      "author": "water_heart",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1524426175550849104",
-      "channel_id": "1131839817982947429",
-      "content": "~~一張指令卡生一顆胎啦~~",
-      "author": "yusi4172",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
     }
   ]
 }

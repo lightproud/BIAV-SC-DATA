@@ -1,10 +1,11 @@
 {
   "date": "2026-07-26",
-  "messages": 10966,
+  "messages": 21113,
   "unique_authors": 283,
-  "reactions_total": 868,
-  "attachments": 547,
+  "reactions_total": 2071,
+  "attachments": 983,
   "channel_activity": {
+    "🔸morimens-game-chat": 10147,
     "🔸general-chat": 3656,
     "🔸綜合討論": 987,
     "🔸剧情交流": 6,
@@ -65,35 +66,37 @@
     "How retroactive is this?": 4
   },
   "hourly_activity": {
-    "9": 629,
-    "10": 632,
-    "11": 906,
-    "12": 549,
-    "13": 649,
-    "14": 706,
-    "15": 807,
-    "16": 543,
-    "17": 399,
-    "18": 434,
-    "19": 479,
-    "20": 788,
-    "21": 371,
-    "22": 202,
-    "23": 299,
-    "0": 341,
-    "1": 410,
-    "2": 278,
-    "3": 188,
-    "4": 251,
-    "5": 283,
-    "6": 269,
-    "7": 346,
-    "8": 207
+    "0": 661,
+    "1": 655,
+    "2": 768,
+    "3": 633,
+    "4": 490,
+    "5": 454,
+    "6": 379,
+    "7": 653,
+    "8": 690,
+    "9": 1045,
+    "10": 1254,
+    "11": 1465,
+    "12": 893,
+    "13": 1320,
+    "14": 1242,
+    "15": 1428,
+    "16": 1010,
+    "17": 1068,
+    "18": 678,
+    "19": 971,
+    "20": 1344,
+    "21": 581,
+    "22": 730,
+    "23": 701
   },
   "message_types": {
-    "0": 6781,
-    "19": 2256,
-    "20": 17
+    "0": 13060,
+    "19": 6114,
+    "20": 25,
+    "46": 1,
+    "23": 1
   },
   "top_reacted_messages": [
     {
@@ -137,6 +140,14 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1530985048965255451",
+      "channel_id": "1170692781216378960",
+      "content": "Yay 350",
+      "author": "sno_w",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1530948182706618398",
       "channel_id": "1131839817982947429",
       "content": "",
@@ -151,6 +162,22 @@
       "author": "ka_0414",
       "reactions": 8,
       "channel": "🔸相位对弈"
+    },
+    {
+      "id": "1530856525772619868",
+      "channel_id": "1170692781216378960",
+      "content": "make counter great again!\nmake counter great again!\nmake counter great again!",
+      "author": "glitzy_x",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1530997563006783631",
+      "channel_id": "1170692781216378960",
+      "content": "Saya rouse scrambles your cards cost. Your not playing sanga 4 cost for 4. You p",
+      "author": "kinbote.",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1530898678074708138",
@@ -193,6 +220,30 @@
       "channel": "🔸课间休息闲聊"
     },
     {
+      "id": "1530842783760388268",
+      "channel_id": "1170692781216378960",
+      "content": "Going to rant here a little because I just got set off on a topic but “a5 advice",
+      "author": "fishhazardthewizard",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1530856812021022851",
+      "channel_id": "1170692781216378960",
+      "content": "IF Aura is inversely proportional to bricked account. then i am the AURA farmer ",
+      "author": "morified53",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1531069722966233129",
+      "channel_id": "1170692781216378960",
+      "content": "Should I sleep or wait for glotan",
+      "author": "spooky_penguin_",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1530927010044710942",
       "channel_id": "1131839817982947429",
       "content": "",
@@ -206,54 +257,6 @@
       "content": "還有黃金熊",
       "author": "foxcatfurry",
       "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530839720358187049",
-      "channel_id": "1131839817982947429",
-      "content": "大佬不要視姦我",
-      "author": "ahuahuahua",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530829642116763708",
-      "channel_id": "1530829642116763708",
-      "content": "守密人你好：\n       弥萨格大学预计于7月27日08:00~11:00（UTC+8）进行校内设施维护。\n       维护结束后需要重新登入并更新资源，补",
-      "author": "morimensstaff02",
-      "reactions": 6,
-      "channel": "V2.5.3.0 停服维护公告"
-    },
-    {
-      "id": "1530957634625081515",
-      "channel_id": "1180850818509971466",
-      "content": "蘿坦！綻放你真正的女性魅力吧啊啊啊啊啊啊啊啊",
-      "author": "hon_ey0",
-      "reactions": 5,
-      "channel": "🔸相位对弈"
-    },
-    {
-      "id": "1530977378304655392",
-      "channel_id": "1180850818509971466",
-      "content": "是說羅坦把🐳丟出去不就是射🐳了嗎…",
-      "author": "akkom730",
-      "reactions": 5,
-      "channel": "🔸相位对弈"
-    },
-    {
-      "id": "1530879819644932156",
-      "channel_id": "1241345906826153984",
-      "content": "挖空的地方比我想像的還要透明有點小可惜",
-      "author": "yolo_mode",
-      "reactions": 5,
-      "channel": "打算開一個圖樓可能圖之後就丟這裡了"
-    },
-    {
-      "id": "1530827637054771290",
-      "channel_id": "1131839817982947429",
-      "content": "靠忘却赚的钱又充回忘却，完美闭环",
-      "author": "ponponnyaru",
-      "reactions": 5,
       "channel": "🔸綜合討論"
     }
   ]

@@ -1,10 +1,11 @@
 {
   "date": "2026-07-19",
-  "messages": 16379,
+  "messages": 22989,
   "unique_authors": 181,
-  "reactions_total": 855,
-  "attachments": 610,
+  "reactions_total": 1664,
+  "attachments": 888,
   "channel_activity": {
+    "🔸morimens-game-chat": 6610,
     "🔸general-chat": 8101,
     "🔸綜合討論": 1622,
     "🔸阵容构建": 7,
@@ -55,35 +56,35 @@
     "1528249757821304942": 1
   },
   "hourly_activity": {
-    "22": 997,
-    "23": 608,
-    "11": 258,
-    "12": 556,
-    "13": 473,
-    "14": 792,
-    "15": 1052,
-    "16": 1014,
-    "17": 987,
-    "18": 987,
-    "19": 932,
-    "20": 1277,
-    "21": 1056,
-    "0": 581,
-    "1": 527,
-    "2": 294,
-    "3": 448,
-    "4": 926,
-    "5": 377,
-    "6": 399,
-    "7": 537,
-    "8": 637,
-    "9": 321,
-    "10": 343
+    "0": 625,
+    "1": 559,
+    "2": 351,
+    "3": 523,
+    "4": 984,
+    "5": 390,
+    "6": 450,
+    "7": 717,
+    "8": 722,
+    "9": 458,
+    "10": 671,
+    "11": 453,
+    "12": 1093,
+    "13": 1034,
+    "14": 1435,
+    "15": 1510,
+    "16": 1526,
+    "17": 1671,
+    "18": 1536,
+    "19": 1206,
+    "20": 1490,
+    "21": 1289,
+    "22": 1127,
+    "23": 1169
   },
   "message_types": {
-    "19": 156,
-    "0": 523,
-    "20": 2
+    "19": 2703,
+    "0": 4577,
+    "20": 11
   },
   "top_reacted_messages": [
     {
@@ -111,6 +112,46 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1528379624235733064",
+      "channel_id": "1170692781216378960",
+      "content": "1 year 185",
+      "author": "craux.",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1528380195696934973",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "bagels5899",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1528383414959607980",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "spooky_penguin_",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1528460389568872602",
+      "channel_id": "1170692781216378960",
+      "content": "when i put my hand under the water\nit gets wet",
+      "author": "nirski",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1528538510540279950",
+      "channel_id": "1170692781216378960",
+      "content": "Finally hit 400 points in D-tide this time around <:Dexter_cheer:145907361962289",
+      "author": "_yaksha",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1528449542167728199",
       "channel_id": "1131839817982947429",
       "content": "我上輩子怕是不止不簽聯絡簿，還把別人的聯絡簿燒了吧",
@@ -125,6 +166,22 @@
       "author": "yi000607",
       "reactions": 8,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1528378888923644034",
+      "channel_id": "1170692781216378960",
+      "content": "<@595414429957619725> <@523084324724146193> <@1471414323883540501> <@11337412379",
+      "author": "angbak",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1528381449479127190",
+      "channel_id": "1170692781216378960",
+      "content": "I bought this to pair with erica for skey",
+      "author": "angbak",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1528494325183414295",
@@ -143,108 +200,52 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1528453537686880336",
+      "channel_id": "1170692781216378960",
+      "content": "Hahahahaha",
+      "author": "fishhazardthewizard",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1528456297551364196",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "syruponstrawberrycake",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1528457019864911995",
+      "channel_id": "1170692781216378960",
+      "content": "[The fifth night](https://media.discordapp.net/stickers/1446565119009099967.png?",
+      "author": "not_blueberry",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1528459437763858442",
+      "channel_id": "1170692781216378960",
+      "content": "2 too many",
+      "author": "bagels5899",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1528489267821809868",
+      "channel_id": "1170692781216378960",
+      "content": "FUCK",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1528523850558734619",
       "channel_id": "1400750050208125010",
       "content": "Gonna win against spain in my dream",
       "author": "bruhlucifer",
       "reactions": 6,
       "channel": "🔸general-chat"
-    },
-    {
-      "id": "1528516065146044639",
-      "channel_id": "1400750050208125010",
-      "content": "this match is literally unstoppable force vs immovable object",
-      "author": "simplyandy",
-      "reactions": 6,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1528411686661259335",
-      "channel_id": "1131839817982947429",
-      "content": "我還想吃屎…… 越吃越香",
-      "author": "yi000607",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528414530760343712",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "nemu_s_t_a_r",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528426564167929997",
-      "channel_id": "1131839817982947429",
-      "content": "坐牢结束",
-      "author": "ponponnyaru",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528450983569395824",
-      "channel_id": "1131839817982947429",
-      "content": "好\n# 抽卡台！",
-      "author": "yusi4172",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528306933138849873",
-      "channel_id": "1131839817982947429",
-      "content": "吼吼吼到了",
-      "author": "encyoverride",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528503891388268614",
-      "channel_id": "1131839817982947429",
-      "content": "卡點打個水船",
-      "author": "xianrenwurao",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528478943181799455",
-      "channel_id": "1433513650299076780",
-      "content": "pollux is a skip",
-      "author": "princess.goth",
-      "reactions": 5,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1528427689067942018",
-      "channel_id": "1131839817982947429",
-      "content": "虽然我上上个星期和这个星期也是这么说()",
-      "author": "kemomimi_",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528428149564506202",
-      "channel_id": "1131839817982947429",
-      "content": "我",
-      "author": "ahuahuahua",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528381902166429816",
-      "channel_id": "1131839817982947429",
-      "content": "<:Helot_slack_off:1459092159465521184> 我114天才第一次打425",
-      "author": "gensono0609",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528334055702134855",
-      "channel_id": "1528334055702134855",
-      "content": "https://x.com/SaminDraws/status/2078772296987140364?s=20",
-      "author": "samin_",
-      "reactions": 5,
-      "channel": "Winkle ☕"
     }
   ]
 }

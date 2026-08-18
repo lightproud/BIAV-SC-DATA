@@ -1,10 +1,11 @@
 {
   "date": "2026-07-25",
-  "messages": 14426,
+  "messages": 22347,
   "unique_authors": 302,
-  "reactions_total": 1210,
-  "attachments": 602,
+  "reactions_total": 2242,
+  "attachments": 955,
   "channel_activity": {
+    "🔸morimens-game-chat": 7921,
     "🔸general-chat": 6056,
     "🔸綜合討論": 2361,
     "🔸阵容构建": 2,
@@ -59,35 +60,36 @@
     "Returning/casual player seeking guidance on account progression": 1
   },
   "hourly_activity": {
-    "7": 792,
-    "8": 474,
-    "9": 334,
-    "10": 572,
-    "11": 484,
-    "12": 630,
-    "13": 686,
-    "14": 690,
-    "15": 818,
-    "16": 920,
-    "17": 876,
-    "18": 924,
-    "19": 706,
-    "20": 363,
-    "21": 548,
-    "22": 376,
-    "23": 392,
-    "0": 200,
-    "1": 552,
-    "2": 628,
-    "3": 512,
-    "4": 407,
-    "5": 857,
-    "6": 685
+    "0": 610,
+    "1": 839,
+    "2": 727,
+    "3": 778,
+    "4": 1081,
+    "5": 984,
+    "6": 733,
+    "7": 1098,
+    "8": 878,
+    "9": 756,
+    "10": 954,
+    "11": 834,
+    "12": 1158,
+    "13": 1466,
+    "14": 1071,
+    "15": 1097,
+    "16": 1178,
+    "17": 1319,
+    "18": 1254,
+    "19": 819,
+    "20": 688,
+    "21": 880,
+    "22": 652,
+    "23": 493
   },
   "message_types": {
-    "19": 2024,
-    "0": 4031,
-    "20": 1
+    "19": 4919,
+    "0": 9054,
+    "46": 2,
+    "20": 2
   },
   "top_reacted_messages": [
     {
@@ -131,6 +133,14 @@
       "channel": "🔸lore-chat"
     },
     {
+      "id": "1530514695746883616",
+      "channel_id": "1170692781216378960",
+      "content": "Any tips for d-tide? I'm really in a horny to 400 but I'm only clearing a4",
+      "author": "at.se",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1530507627954704415",
       "channel_id": "1131839817982947429",
       "content": "坐牢結束...",
@@ -147,12 +157,68 @@
       "channel": "🔸lore-chat"
     },
     {
+      "id": "1530378863484604487",
+      "channel_id": "1170692781216378960",
+      "content": "telling people to calm down is the worst possible thing. i go from calm to angry",
+      "author": "monchi3524",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1530670236100067562",
+      "channel_id": "1170692781216378960",
+      "content": "arc 1 complete <:Ogier_cheer:1468259351889318049>",
+      "author": "chuddest.",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1530518534046617741",
       "channel_id": "1524457119955554374",
       "content": "",
       "author": "wjcjskw",
       "reactions": 7,
       "channel": "这个那个"
+    },
+    {
+      "id": "1530378949534683187",
+      "channel_id": "1170692781216378960",
+      "content": "what is wrong with u",
+      "author": "monchi3524",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1530384656539844608",
+      "channel_id": "1170692781216378960",
+      "content": "Come on :(( Uvhash is better than Doresain",
+      "author": "crowlov1",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1530562231933206690",
+      "channel_id": "1170692781216378960",
+      "content": "What do you think about mine ?",
+      "author": "legendaryredz",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1530581894188761170",
+      "channel_id": "1170692781216378960",
+      "content": "🫃",
+      "author": "doktor.sex",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1530692072732885072",
+      "channel_id": "1170692781216378960",
+      "content": "Im more of a story and style over function sort of guy",
+      "author": "kyriostaiga3",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1530627255699771432",
@@ -185,70 +251,6 @@
       "author": "morimensstaff02",
       "reactions": 6,
       "channel": "台服PC包體資料更新異常問題說明及解決方案"
-    },
-    {
-      "id": "1530700723308728350",
-      "channel_id": "1530675125123551402",
-      "content": "Dear Keepers,\n\n    Due to unexpected technical issues arising from a domain upda",
-      "author": "climbkaly",
-      "reactions": 6,
-      "channel": "台服PC包體資料更新異常問題說明及解決方案"
-    },
-    {
-      "id": "1530618159365623888",
-      "channel_id": "1530178712190845098",
-      "content": "i don't agree with something here. Its not subliminally, we're actively saying h",
-      "author": "arandomflamev2",
-      "reactions": 6,
-      "channel": "V2.5.3 蚀灭·萝坦✦唤醒体&命轮介绍┊Lotan: Cetarchon✦Awakener & Wheel of Destiny Introduction┊침식·로탄✦각성체 & 명륜 소개"
-    },
-    {
-      "id": "1530432162816327732",
-      "channel_id": "1131839817982947429",
-      "content": "神鯨一到店，所有喝酒的人便都看着他笑，有的叫道，“神鯨，你脸上又添上新伤疤了！”他不回答，对柜里说，“三次短刃，要合成巨剑•鲸落。”便打出蚀灭。他們又故意高聲嚷",
-      "author": "fgoisaac",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530437733967986858",
-      "channel_id": "1131839817982947429",
-      "content": "<@727340747669635132> 你的頭像是這個人嗎\n||https://cdn.discordapp.com/attachments/1325094",
-      "author": "ernest_heart",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530454229905313892",
-      "channel_id": "1530454229905313892",
-      "content": "https://x.com/SaminDraws/status/2080892614002221170?s=20",
-      "author": "samin_",
-      "reactions": 6,
-      "channel": "Leigh ❤️"
-    },
-    {
-      "id": "1530532327657308222",
-      "channel_id": "1131839817982947429",
-      "content": "算完了 差700紫瓶",
-      "author": "heikwok",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530532758911189168",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1530544123323617280",
-      "channel_id": "1131839817982947429",
-      "content": "# 吓哭所有人",
-      "author": "ling_an_",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
     }
   ]
 }

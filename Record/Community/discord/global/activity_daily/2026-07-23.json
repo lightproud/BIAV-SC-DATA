@@ -1,10 +1,11 @@
 {
   "date": "2026-07-23",
-  "messages": 17316,
+  "messages": 25158,
   "unique_authors": 332,
-  "reactions_total": 2101,
-  "attachments": 770,
+  "reactions_total": 3080,
+  "attachments": 1139,
   "channel_activity": {
+    "🔸morimens-game-chat": 7842,
     "🔸general-chat": 7459,
     "🔸綜合討論": 2257,
     "🔸阵容构建": 40,
@@ -70,35 +71,36 @@
     "Where to invest standard pulls?": 1
   },
   "hourly_activity": {
-    "12": 1336,
-    "13": 1500,
-    "14": 1247,
-    "15": 1705,
-    "16": 1222,
-    "17": 960,
-    "18": 462,
-    "19": 752,
-    "20": 476,
-    "21": 198,
-    "22": 332,
-    "23": 357,
-    "0": 350,
-    "1": 406,
-    "2": 605,
-    "3": 351,
-    "4": 415,
-    "5": 335,
-    "6": 322,
-    "7": 311,
-    "8": 1090,
-    "9": 909,
-    "10": 1004,
-    "11": 671
+    "0": 557,
+    "1": 724,
+    "2": 820,
+    "3": 789,
+    "4": 768,
+    "5": 552,
+    "6": 416,
+    "7": 595,
+    "8": 1397,
+    "9": 1258,
+    "10": 1209,
+    "11": 1093,
+    "12": 1884,
+    "13": 2006,
+    "14": 1822,
+    "15": 2130,
+    "16": 1629,
+    "17": 1391,
+    "18": 649,
+    "19": 1127,
+    "20": 788,
+    "21": 483,
+    "22": 523,
+    "23": 548
   },
   "message_types": {
-    "19": 2002,
-    "0": 2224,
-    "20": 5
+    "19": 4735,
+    "0": 7324,
+    "20": 13,
+    "46": 1
   },
   "top_reacted_messages": [
     {
@@ -118,12 +120,76 @@
       "channel": "📜 V2.5.3 版本前瞻┊Version Outlook┊버전 미리보기"
     },
     {
+      "id": "1529834249400750193",
+      "channel_id": "1170692781216378960",
+      "content": "If g lotan sucks, I'm pulling mouchette AA like the f2p that I am",
+      "author": "aurora3981",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1529958746502205701",
+      "channel_id": "1170692781216378960",
+      "content": "Shining ⭐✨Tornado",
+      "author": "mythicmoonwort",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1529662205878866060",
+      "channel_id": "1170692781216378960",
+      "content": "double digits soon",
+      "author": "not_blueberry",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1529810523258880010",
+      "channel_id": "1170692781216378960",
+      "content": "hidden footage of devs crafting Glotan's kit",
+      "author": "arandomflamev2",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1529831841823985776",
+      "channel_id": "1170692781216378960",
+      "content": "https://www.reddit.com/r/Morimens/s/k0NzieLTqg",
+      "author": "angbak",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1529938969356402840",
+      "channel_id": "1170692781216378960",
+      "content": "extremely cursed meme i thought of while shopping",
+      "author": "reya.li",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1529752219065520248",
       "channel_id": "1529382823562051675",
       "content": "QEZD-NLSQ-DLDC",
       "author": "morimensstaff06",
       "reactions": 9,
       "channel": "V2.5.3 战斗吧守密人┊Ready to Fight, Keeper?┊겨루어라, 수호자여"
+    },
+    {
+      "id": "1529805565189034059",
+      "channel_id": "1170692781216378960",
+      "content": "Did you know that kit is a russian word for whale? <:LotanSuperior:1439677768580",
+      "author": "sirtealot",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1529834410025943170",
+      "channel_id": "1170692781216378960",
+      "content": "this is so sick",
+      "author": "_venush",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1529833197297205318",
@@ -174,92 +240,28 @@
       "channel": "V2.5.3 战斗吧守密人┊Ready to Fight, Keeper?┊겨루어라, 수호자여"
     },
     {
-      "id": "1529873314447757532",
-      "channel_id": "1400750050208125010",
-      "content": "donnt be a vergil great granny",
-      "author": "the_saviour777",
+      "id": "1529713663815192656",
+      "channel_id": "1170692781216378960",
+      "content": "nechromicon streaming tide and doing it properly for the first time \n\nHas AA Mou",
+      "author": "angbak",
       "reactions": 7,
-      "channel": "🔸general-chat"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1529833716908687432",
-      "channel_id": "1131839817982947429",
-      "content": "我已經從3：00每30分鐘上來看一次了",
-      "author": "yi000607",
+      "id": "1529832206707462224",
+      "channel_id": "1170692781216378960",
+      "content": "<:Aurita_please:1356053110375714817>",
+      "author": "syruponstrawberrycake",
       "reactions": 7,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1529899519485935856",
-      "channel_id": "1300659802455674972",
-      "content": "",
-      "author": "jisuchan",
+      "id": "1529863115473289306",
+      "channel_id": "1170692781216378960",
+      "content": "btw guys does this background look like snow?",
+      "author": "arandomflamev2",
       "reactions": 7,
-      "channel": "🔸ห้องสนทนาภาษาไทย"
-    },
-    {
-      "id": "1529833994777006190",
-      "channel_id": "1131839817982947429",
-      "content": "拜託下毒鯨魚就好 放過小騎士",
-      "author": "yi000607",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1529843180143378532",
-      "channel_id": "1131839817982947429",
-      "content": "到底是誰在玩列車",
-      "author": "water_heart",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1529843659875287291",
-      "channel_id": "1131839817982947429",
-      "content": "https://cdn.discordapp.com/attachments/626307652292706307/1529740723908251739/IM",
-      "author": "ernest_heart",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1529834944753307719",
-      "channel_id": "1529828936878522560",
-      "content": "truly a whale",
-      "author": "polkarain",
-      "reactions": 6,
-      "channel": "📜 V2.5.3 版本前瞻┊Version Outlook┊버전 미리보기"
-    },
-    {
-      "id": "1529719863147233281",
-      "channel_id": "1131839817982947429",
-      "content": "有沒有大佬可以帶帶我",
-      "author": "water_heart",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1529760554120642561",
-      "channel_id": "1131839817982947429",
-      "content": "感谢兑换码 深海老头+3了<:Helot_slack_off:1459092159465521184>",
-      "author": "galagalaguo",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1529776088425824397",
-      "channel_id": "1131839817982947429",
-      "content": "都說了忘卻前夜不是需要思考的遊戲\n我們已經幫你們把需要思考的環節拔掉了\n順從運氣吧",
-      "author": "water_heart",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1529768164735320124",
-      "channel_id": "1400750050208125010",
-      "content": "Here viy choco capybara for you",
-      "author": "leviathxan",
-      "reactions": 5,
-      "channel": "🔸general-chat"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

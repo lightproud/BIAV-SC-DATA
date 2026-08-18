@@ -1,10 +1,11 @@
 {
   "date": "2026-07-13",
-  "messages": 15838,
+  "messages": 22796,
   "unique_authors": 317,
-  "reactions_total": 1497,
-  "attachments": 816,
+  "reactions_total": 2122,
+  "attachments": 1149,
   "channel_activity": {
+    "🔸morimens-game-chat": 6958,
     "🔸general-chat": 5248,
     "🔸綜合討論": 928,
     "🔸阵容构建": 245,
@@ -75,34 +76,35 @@
     "General guide on how to proceed with account.": 4
   },
   "hourly_activity": {
-    "23": 829,
-    "0": 711,
-    "1": 728,
-    "2": 441,
-    "3": 737,
-    "4": 839,
-    "5": 722,
-    "6": 555,
-    "7": 411,
-    "8": 676,
-    "9": 801,
-    "10": 1153,
-    "11": 971,
-    "12": 865,
-    "13": 998,
-    "14": 723,
-    "15": 561,
-    "16": 850,
-    "17": 567,
-    "18": 174,
-    "19": 311,
-    "20": 159,
-    "21": 740,
-    "22": 316
+    "0": 950,
+    "1": 1146,
+    "2": 1024,
+    "3": 902,
+    "4": 1075,
+    "5": 1362,
+    "6": 752,
+    "7": 930,
+    "8": 927,
+    "9": 903,
+    "10": 1373,
+    "11": 1469,
+    "12": 1297,
+    "13": 1433,
+    "14": 1178,
+    "15": 840,
+    "16": 1104,
+    "17": 605,
+    "18": 296,
+    "19": 551,
+    "20": 301,
+    "21": 1082,
+    "22": 414,
+    "23": 882
   },
   "message_types": {
-    "0": 158,
-    "19": 40
+    "19": 2258,
+    "0": 4887,
+    "20": 11
   },
   "top_reacted_messages": [
     {
@@ -130,12 +132,36 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1526033777925685288",
+      "channel_id": "1170692781216378960",
+      "content": "So the pulls are going alright.",
+      "author": "masiakasaurusofwar",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1526064342792142931",
       "channel_id": "1131839817982947429",
       "content": "終於有輸出了",
       "author": "fon_tain",
       "reactions": 12,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1526174043315765350",
+      "channel_id": "1170692781216378960",
+      "content": "he's stupid",
+      "author": "nigma1337",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1526347536540106812",
+      "channel_id": "1170692781216378960",
+      "content": "AAd my corpo but at what cost",
+      "author": "princess.goth",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1526185704751894739",
@@ -152,6 +178,22 @@
       "author": "nightmarekingrimmu",
       "reactions": 10,
       "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1526197108074348727",
+      "channel_id": "1170692781216378960",
+      "content": "5 luminous core 🔥",
+      "author": "glitzy_x",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1526238670607220807",
+      "channel_id": "1170692781216378960",
+      "content": "i hate traphase!!!!!!",
+      "author": "chinkeeyong",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1526175373002539090",
@@ -210,60 +252,20 @@
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1526225200209854476",
-      "channel_id": "1131839817982947429",
-      "content": "~~除非準備出UR角色 真正飛升p2w~~",
-      "author": "nemu_s_t_a_r",
+      "id": "1526048055990681762",
+      "channel_id": "1170692781216378960",
+      "content": "i got my first limited AA today",
+      "author": "princess.goth",
       "reactions": 6,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1526229869598478468",
-      "channel_id": "1131839817982947429",
-      "content": "KFC爺爺同款斐濟杯",
-      "author": "arachnids_nacha",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1526086242964602930",
-      "channel_id": "1131839817982947429",
+      "id": "1526054186389868746",
+      "channel_id": "1170692781216378960",
       "content": "",
-      "author": "water_heart",
+      "author": "angbak",
       "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1526157034976841810",
-      "channel_id": "1131839817982947429",
-      "content": "把螺旋疊滿了",
-      "author": "yusi4172",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1526112182914383932",
-      "channel_id": "1526112182914383932",
-      "content": "為了慶祝我持續登入這款遊戲滿一年，我畫了這幅速寫！\n\n雖然我是在 达芙黛尔剛推出時第一次玩這款遊戲…… 不久之後，我就停止遊玩了，直到遊戲推出兩週年為止。我從未",
-      "author": "that_one_chippy",
-      "reactions": 6,
-      "channel": "願這把銀鑰引領我們 || 一週年紀念"
-    },
-    {
-      "id": "1526120865991753848",
-      "channel_id": "1526120865991753848",
-      "content": "感谢各位守密人的支持！《忘却前夜》新OST已发布，欢迎收听、下载及分享。\n如果有基于OST的二次创作，也欢迎分享给我们！二创请遵照同人规则，OST内容请勿商用。",
-      "author": "morimensstaff06",
-      "reactions": 6,
-      "channel": "忘却前夜OST：庞托斯EP·无休的凯旋┊Morimens OST: Pontos EP: The Unending Triumph"
-    },
-    {
-      "id": "1526134937911169156",
-      "channel_id": "1400750050208125010",
-      "content": "nvm they're all gone",
-      "author": "nigma1337",
-      "reactions": 5,
-      "channel": "🔸general-chat"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

@@ -1,10 +1,11 @@
 {
   "date": "2026-07-21",
-  "messages": 16902,
+  "messages": 25689,
   "unique_authors": 300,
-  "reactions_total": 1347,
-  "attachments": 682,
+  "reactions_total": 2242,
+  "attachments": 1011,
   "channel_activity": {
+    "🔸morimens-game-chat": 8787,
     "🔸general-chat": 7773,
     "🔸綜合討論": 1730,
     "🔸阵容构建": 4,
@@ -77,35 +78,35 @@
     "V2.5.3 全新唤醒体✦蚀灭·萝坦┊New Awakener✦Lotan: Cetarchon┊신규 각성체✦침식·로탄": 11
   },
   "hourly_activity": {
-    "18": 980,
-    "19": 1019,
-    "20": 869,
-    "21": 641,
-    "22": 365,
-    "23": 984,
-    "0": 500,
-    "1": 422,
-    "2": 513,
-    "3": 308,
-    "4": 756,
-    "5": 847,
-    "6": 964,
-    "7": 1057,
-    "8": 871,
-    "9": 409,
-    "10": 411,
-    "11": 809,
-    "12": 518,
-    "13": 801,
-    "14": 1018,
-    "15": 550,
-    "16": 575,
-    "17": 715
+    "0": 721,
+    "1": 989,
+    "2": 1100,
+    "3": 452,
+    "4": 910,
+    "5": 1091,
+    "6": 1119,
+    "7": 1454,
+    "8": 1239,
+    "9": 747,
+    "10": 954,
+    "11": 1503,
+    "12": 999,
+    "13": 1035,
+    "14": 1530,
+    "15": 899,
+    "16": 811,
+    "17": 1007,
+    "18": 1332,
+    "19": 1358,
+    "20": 1386,
+    "21": 1047,
+    "22": 755,
+    "23": 1251
   },
   "message_types": {
-    "0": 1479,
-    "19": 1125,
-    "20": 2
+    "19": 4480,
+    "0": 6905,
+    "20": 8
   },
   "top_reacted_messages": [
     {
@@ -205,6 +206,22 @@
       "channel": "William Ink Portrait"
     },
     {
+      "id": "1529085672353304737",
+      "channel_id": "1170692781216378960",
+      "content": "Is caecus good for starting the game?",
+      "author": "blanbbb",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1529108931316678677",
+      "channel_id": "1170692781216378960",
+      "content": "corpo is cheap af but i only really care for GODRITA rouse",
+      "author": "sparkling_moose_59074",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1528987748965417030",
       "channel_id": "1528987748965417030",
       "content": "I am excited for this character.",
@@ -213,60 +230,44 @@
       "channel": "Quick Lotan: Cetarchon Sketch!"
     },
     {
-      "id": "1529058995858575390",
-      "channel_id": "1131839817982947429",
-      "content": "Sp羅坦立繪那兩塊是胸貼嗎…",
-      "author": "iamnotbunny",
+      "id": "1528940903803256902",
+      "channel_id": "1170692781216378960",
+      "content": "https://x.com/i/status/2079381436327493744",
+      "author": "kevsalvador",
       "reactions": 6,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1529103320009015346",
-      "channel_id": "1131839817982947429",
-      "content": "玩弄我的感情只是順便",
-      "author": "ahuahuahua",
+      "id": "1529078019829010454",
+      "channel_id": "1170692781216378960",
+      "content": "some say for those 39 days his wife was divorced and his son fatherless",
+      "author": "sparkling_moose_59074",
       "reactions": 6,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1529179698448568330",
-      "channel_id": "1131839817982947429",
-      "content": "能在onlyfans开吗",
-      "author": "ponponnyaru",
+      "id": "1529086009311100958",
+      "channel_id": "1170692781216378960",
+      "content": "<@399824999810072580> imagine if all glotan ends up doing is make a better strik",
+      "author": "arandomflamev2",
       "reactions": 6,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1529184820607848619",
-      "channel_id": "1131839874132090890",
-      "content": "都抽+24",
-      "author": "annabelle0868",
+      "id": "1529131148767133848",
+      "channel_id": "1170692781216378960",
+      "content": "Ghelotan finally!!!",
+      "author": "kevsalvador",
       "reactions": 6,
-      "channel": "🔸阵容构建"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1528945387518300333",
-      "channel_id": "1131839817982947429",
-      "content": "让我想起之前不知道谁发的无毛莱克<:Brown_think:1459080117308620996> 总之我翻出来了<:Horla_shy:1468259514",
-      "author": "ka_0414",
+      "id": "1529131804072743043",
+      "channel_id": "1170692781216378960",
+      "content": "Worth",
+      "author": "aurora3981",
       "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528952003928129626",
-      "channel_id": "1131839817982947429",
-      "content": "雖然我已經外翻了 但還是會有人要把🥵",
-      "author": "yi000607",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1528959361215631450",
-      "channel_id": "1131839817982947429",
-      "content": "我打不過",
-      "author": "ahuahuahua",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

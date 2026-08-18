@@ -1,10 +1,11 @@
 {
   "date": "2026-07-27",
-  "messages": 22863,
+  "messages": 35901,
   "unique_authors": 458,
-  "reactions_total": 1866,
-  "attachments": 1356,
+  "reactions_total": 3544,
+  "attachments": 2062,
   "channel_activity": {
+    "🔸morimens-game-chat": 13038,
     "🔸general-chat": 7776,
     "🔸綜合討論": 2293,
     "🔸阵容构建": 23,
@@ -127,38 +128,48 @@
     "1531192711040991352": 1
   },
   "hourly_activity": {
-    "20": 847,
-    "21": 479,
-    "22": 557,
-    "23": 203,
-    "9": 1100,
-    "10": 990,
-    "11": 1585,
-    "12": 1333,
-    "13": 1265,
-    "14": 1411,
-    "15": 1229,
-    "16": 978,
-    "17": 1197,
-    "18": 1218,
-    "19": 668,
-    "0": 288,
-    "1": 729,
-    "2": 1032,
-    "3": 1271,
-    "4": 788,
-    "5": 914,
-    "6": 867,
-    "7": 1012,
-    "8": 902
+    "0": 780,
+    "1": 1284,
+    "2": 1538,
+    "3": 1747,
+    "4": 1639,
+    "5": 1581,
+    "6": 1444,
+    "7": 1495,
+    "8": 1557,
+    "9": 1728,
+    "10": 1594,
+    "11": 2206,
+    "12": 1885,
+    "13": 2015,
+    "14": 1964,
+    "15": 1776,
+    "16": 1480,
+    "17": 1694,
+    "18": 1796,
+    "19": 1341,
+    "20": 1124,
+    "21": 766,
+    "22": 1010,
+    "23": 457
   },
   "message_types": {
-    "19": 5179,
-    "0": 10745,
-    "20": 44,
+    "0": 18760,
+    "19": 10189,
+    "6": 1,
+    "46": 2,
+    "20": 54,
     "4": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1531372184210116669",
+      "channel_id": "1170692781216378960",
+      "content": "There's more on the way — not just balance changes, but new experiences, new cha",
+      "author": "lightproud",
+      "reactions": 35,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1531280359252037722",
       "channel_id": "1531280359252037722",
@@ -166,6 +177,22 @@
       "author": "_venush",
       "reactions": 26,
       "channel": "Can we please release GLotan Pursuit from dimensional image?"
+    },
+    {
+      "id": "1531224560731422850",
+      "channel_id": "1170692781216378960",
+      "content": "i can now save the rest of my summons for the next story character",
+      "author": "thecloakedphantom",
+      "reactions": 24,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1531370314179805435",
+      "channel_id": "1170692781216378960",
+      "content": "The game’s original combat system was worked out on paper by me and “Mijiu.” I d",
+      "author": "lightproud",
+      "reactions": 16,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1531282109682024458",
@@ -200,6 +227,14 @@
       "channel": "V2.5.3.1 在线维护公告"
     },
     {
+      "id": "1531365774478934197",
+      "channel_id": "1170692781216378960",
+      "content": "If that’s the case, I’ll be apologizing to all of you for a long, long time.",
+      "author": "lightproud",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1531328304160837835",
       "channel_id": "1131839817982947429",
       "content": "",
@@ -208,12 +243,44 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1531372803369079005",
+      "channel_id": "1170692781216378960",
+      "content": "There’s so much we want to put in your hands. The list is just longer than we ca",
+      "author": "lightproud",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1531357950256615544",
       "channel_id": "1531357950256615544",
       "content": "We have always kind of half-joked about very niche or outright bad posses like T",
       "author": "cornonthemacabre_",
       "reactions": 12,
       "channel": "Let us select posses to remove from the random pool"
+    },
+    {
+      "id": "1531225273985404968",
+      "channel_id": "1170692781216378960",
+      "content": "GET AWAY FROM ME",
+      "author": "yorusakurai",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1531264922980188221",
+      "channel_id": "1170692781216378960",
+      "content": "Not only am I mad that the translation was switched to English, but the spelling",
+      "author": "blackdonut5182",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1531371682479079484",
+      "channel_id": "1170692781216378960",
+      "content": "Her pursuit being locked behind image relic feels like cut content that was repu",
+      "author": "rhykotsu",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1531328828457357343",
@@ -240,84 +307,20 @@
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1531306594401386717",
-      "channel_id": "1531306594401386717",
-      "content": "Felt inspired",
-      "author": "azaenya",
-      "reactions": 9,
-      "channel": "24 drawing"
+      "id": "1531147905992233144",
+      "channel_id": "1170692781216378960",
+      "content": "Not exactly pulls but my first AA by choice <:Horla_cry:1357186646294138890>",
+      "author": "leosandlot",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1531278794516729916",
-      "channel_id": "1131839817982947429",
-      "content": "3回合了，但是尝试了蛮久的",
-      "author": "polkarain",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1531285152775540817",
-      "channel_id": "1131839817982947429",
-      "content": "帮我代抽90抽3叠",
-      "author": "ponponnyaru",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1531315346706006107",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1531330909217751060",
-      "channel_id": "1131839817982947429",
-      "content": "走打擊C路線\n然後加固吃滿",
-      "author": "heikwok",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1531381161170042991",
-      "channel_id": "1531381161170042991",
-      "content": "Context:\nA big part of Pontos' kit depends on how many gaunts are in the deck --",
-      "author": "lavache.",
-      "reactions": 8,
-      "channel": "Please relax the condition for Pontos' gaunts generation"
-    },
-    {
-      "id": "1531172680387002548",
-      "channel_id": "1131839817982947429",
-      "content": "依舊草台班子<:Helot_slack_off:1459092159465521184>",
-      "author": "_shimoyo",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1531267448467095592",
-      "channel_id": "1131839817982947429",
-      "content": "還只能打390分",
-      "author": "jjlin0103",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1531322829138821341",
-      "channel_id": "1131839817982947429",
-      "content": "<:Horla_shy:1468259514091573350>",
-      "author": "annabelle0868",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1531331027140874421",
-      "channel_id": "1131839817982947429",
-      "content": "想補+12羊了",
-      "author": "heikwok",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
+      "id": "1531163022070907002",
+      "channel_id": "1170692781216378960",
+      "content": "i swear my finger slipped",
+      "author": "bleu214",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }
