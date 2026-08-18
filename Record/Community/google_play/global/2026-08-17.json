@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-18T06:40:09.942550+00:00",
+  "archived_at": "2026-08-18T09:32:33.533785+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 好评] ★4 Just um, alot of text, you know?",
@@ -44,6 +44,20 @@
       "tags": [],
       "lang": "id",
       "platform_region": "id",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 no way in hell am I going to download an",
+      "summary": "no way in hell am I going to download an additional 5 GB of \"updates\"",
+      "source": "google_play",
+      "time": "2026-08-17T08:39:09",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-20e60afc-ec08-46b2-b643-60cd95a4ab7c",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Daniël van der Zee",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
       "region": "global"
     }
   ],

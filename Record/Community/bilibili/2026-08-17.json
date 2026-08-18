@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "archived_at": "2026-08-18T06:40:09.848495+00:00",
+  "archived_at": "2026-08-18T09:32:33.467178+00:00",
   "source": "bilibili",
-  "item_count": 30,
+  "item_count": 31,
   "items": [
     {
       "title": "不愧是古神竟然有两个背",
@@ -322,6 +322,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/9437f2df70aa1ba036f00d4713c698d8d828e596.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "我正在看着你看着你目不转睛…",
+      "summary": "-\n  └ -昆扬 (0赞): [魔法少女的魔女审判表情包_探头]",
+      "source": "bilibili",
+      "time": "2026-08-17T10:01:30+00:00",
+      "url": "https://www.bilibili.com/video/BV1aPbv6bEBJ",
+      "engagement": 113,
+      "is_hot": false,
+      "author": "胡辣汤爱吃酸菜鱼",
+      "tags": [
+        "篮球"
+      ],
+      "metadata": {
+        "play": 112,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/ad9d295441357264a88c998d3f125daef1e32346.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

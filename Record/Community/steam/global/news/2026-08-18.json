@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-18",
+  "archived_at": "2026-08-18T09:32:33.493728+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam新闻] V2.6.0 His, Her, and Its Wishes",
+      "summary": "Follow the best guide among all the Sherpa,and set out for an altitude of 8,840 meters—Once you reach the summit⛰️,you've arrived at the promised land where all wishes come true.\"Ta-daa~ the Fairy's radiance🌟 shines upon you now. Go get 'em!\"Yes, of course there's a goddess at the snowy mountain's peak!Just like Caraboo's gold coins—it's as real as it gets!Hmm... but before everyone makes their own wish,wouldn't you like to hear... \"Its\" wish?",
+      "source": "official",
+      "time": "2026-08-18T07:00:15+00:00",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183788011",
+      "engagement": 0,
+      "is_hot": true,
+      "author": "lqx02483534",
+      "tags": [
+        "Community Announcements"
+      ],
+      "region": "global",
+      "archive_subtype": "news",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "news"
+}

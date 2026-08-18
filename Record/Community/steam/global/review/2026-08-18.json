@@ -1,8 +1,8 @@
 {
   "date": "2026-08-18",
-  "archived_at": "2026-08-18T06:40:09.886511+00:00",
+  "archived_at": "2026-08-18T09:32:33.493064+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] 有美女……",
@@ -118,6 +118,54 @@
         "playtime_forever": 1712,
         "votes_up": 0,
         "timestamp_created": 1787029875
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] The gameplay is genuinely fun. The art and atmosph...",
+      "summary": "The gameplay is genuinely fun. The art and atmosphere are dark and totally my vibe, but the story is a real pain.",
+      "source": "steam_review",
+      "time": "2026-08-18T08:44:36+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198414003576/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198414003576",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 182,
+        "votes_up": 0,
+        "timestamp_created": 1787042676
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 守密人ＩＤ [h3]101652206 [/h3]\n\n歡迎加手機板/PC版好友\nFeel free...",
+      "summary": "守密人ＩＤ [h3]101652206 [/h3]\n\n歡迎加手機板/PC版好友\nFeel free to add me on mobile version.",
+      "source": "steam_review",
+      "time": "2026-08-18T08:19:30+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198097195632/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198097195632",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 12,
+        "votes_up": 0,
+        "timestamp_created": 1787041170
       },
       "region": "global",
       "archive_subtype": "review",

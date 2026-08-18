@@ -1,8 +1,8 @@
 {
   "date": "2026-08-18",
-  "archived_at": "2026-08-18T06:40:09.847629+00:00",
+  "archived_at": "2026-08-18T09:32:33.467879+00:00",
   "source": "youtube",
-  "item_count": 13,
+  "item_count": 15,
   "items": [
     {
       "title": "WALNUT BRAIN TIME in Morimens, then in Slay the Spire 2 A10 CO-OP with my Sis",
@@ -141,6 +141,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "忘却前夜やらないと　星辰篇",
+      "summary": "１周年前々夜くらい.",
+      "source": "youtube",
+      "time": "2026-08-18T07:30:57Z",
+      "url": "https://www.youtube.com/watch?v=Ka8k6AXIzt0",
+      "engagement": 9,
+      "is_hot": false,
+      "author": "たこに名前を入力",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/Ka8k6AXIzt0/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "🔞 The story is too good :3 - Morimens",
       "summary": "The story is too good :3 Links https://www.twitch.tv/eepyghost https://discord.gg/2hn75MB2zf https://twitter.com/eepyghostie.",
       "source": "youtube",
@@ -170,6 +187,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/23WWfQs0f5w/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens We&#39;re Losing Our Selves",
+      "summary": "Vtuber #VtuberEN #malevtuber #vstreamer #smallstreamer #gaming #morimens #Peak.",
+      "source": "youtube",
+      "time": "2026-08-18T06:48:05Z",
+      "url": "https://www.youtube.com/watch?v=-1Vux1VB0o0",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "BreadRuin",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/-1Vux1VB0o0/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
