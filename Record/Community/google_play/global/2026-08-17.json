@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-17",
+  "archived_at": "2026-08-18T01:05:30.843616+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★4 Just um, alot of text, you know?",
+      "summary": "Just um, alot of text, you know?",
+      "source": "google_play",
+      "time": "2026-08-17T00:30:20",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-4111c00b-adcb-40e1-991f-1e5154e68408",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Flower_lover",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 kenapa d zone ga bsa d auto? ckckckck",
+      "summary": "kenapa d zone ga bsa d auto? ckckckck",
+      "source": "google_play",
+      "time": "2026-08-17T00:25:21",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-45b98c66-5f22-47ef-a95a-06c664dc7233",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Hartanto Agung Wicaksono",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "id",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

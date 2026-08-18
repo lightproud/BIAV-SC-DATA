@@ -1,9 +1,55 @@
 {
   "date": "2026-08-18",
-  "archived_at": "2026-08-17T21:25:39.467492+00:00",
+  "archived_at": "2026-08-18T01:05:30.710863+00:00",
   "source": "bilibili",
-  "item_count": 3,
+  "item_count": 6,
   "items": [
+    {
+      "title": "明明是由扫帚组成的怪物，在我眼中却是美丽的电竞选手",
+      "summary": "刷了一天肉块终于看见扫帚了\n换头来自@斩服零江\n  └ 滴蕾男 (1赞): 哎呦还有扫帚之歌\n  └ 哈姆初一郎 (1赞): 扫帚之歌\n  └ 单推远坂凛的布莱恩 (1赞): 什么扫帚之歌",
+      "source": "bilibili",
+      "time": "2026-08-18T00:56:25+00:00",
+      "url": "https://www.bilibili.com/video/BV12sbz68Evq",
+      "engagement": 235,
+      "is_hot": false,
+      "author": "单纯炫压抑",
+      "tags": [
+        "明星综合"
+      ],
+      "metadata": {
+        "play": 226,
+        "comment_count": 9,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/3adc21bea33f53f5c436345f6f1727dc772fdd3c.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】8.17-8.30神秘低配融灾400",
+      "summary": "没有专造2000血出头的神国太弱了，\n没想到这期除了助战打的最轻松的竟然是我们鸟弟。。。\n  └ A-Tomesdays (0赞): 1-4的两个打的极其丑陋，神国真的不适合账号80级以下的玩[藏狐]",
+      "source": "bilibili",
+      "time": "2026-08-17T17:46:59+00:00",
+      "url": "https://www.bilibili.com/video/BV1tkbB6FExo",
+      "engagement": 134,
+      "is_hot": false,
+      "author": "A-Tomesdays",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 133,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/98232b28129ac5f22466792b8c903fae8f9e4f59.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "【沙耶之歌/同人手书/绘画】慢慢看不清你的臉..",
       "summary": "",
@@ -69,6 +115,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/fa9078a6d6fc093bea6af66c7504b84aa30328bf.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "在今日时分道别",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-18T00:17:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1SZbq6FEFS",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "小龙猫大能力",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 2,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/98eefbfac5bb0effb12442aa7a4a1825aa4b9a6c.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

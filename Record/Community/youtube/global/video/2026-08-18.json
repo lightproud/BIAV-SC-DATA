@@ -1,8 +1,8 @@
 {
   "date": "2026-08-18",
-  "archived_at": "2026-08-17T21:25:39.465246+00:00",
+  "archived_at": "2026-08-18T01:05:30.709549+00:00",
   "source": "youtube",
-  "item_count": 7,
+  "item_count": 11,
   "items": [
     {
       "title": "WALNUT BRAIN TIME in Morimens, then in Slay the Spire 2 A10 CO-OP with my Sis",
@@ -34,6 +34,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/hi4sztJbAPA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【Morimens】Seinget gw game kartu, lupa dah.",
+      "summary": "vtuber #gaming #MinoguchiRomulus 【About】 Greetings, my name is Minoguchi Romulus, I'm an indie v-tuber and I mostly ...",
+      "source": "youtube",
+      "time": "2026-08-17T21:54:33Z",
+      "url": "https://www.youtube.com/watch?v=UIVSIdmho5U",
+      "engagement": 61,
+      "is_hot": false,
+      "author": "Minoguchi Romulus Ch.",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/UIVSIdmho5U/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -73,6 +90,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Morimen&#39;s D-Tide",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-17T22:52:52Z",
+      "url": "https://www.youtube.com/watch?v=6PaW3StrP1M",
+      "engagement": 26,
+      "is_hot": false,
+      "author": "Nazoric",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/6PaW3StrP1M/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "[Morimens] Special Ops: &quot;24&quot; Serene Fission ~ Did Chapter 2 last week so time to see 24&#39;s backstory!",
       "summary": "Yoz everyone, I'm Rozarai, a undead virtual YouTuber. Welcome to my stream and enjoy your stay! Socials Twitter: ...",
       "source": "youtube",
@@ -85,6 +119,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/hbPA0exBBqk/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "🦖 D-tide reset 400 ou + Morimens",
+      "summary": "Made with Restream. Livestream on 30+ platforms at once via https://restream.io enfin le reset semi hebdo et là let'z gow poncé le ...",
+      "source": "youtube",
+      "time": "2026-08-17T22:04:53Z",
+      "url": "https://www.youtube.com/watch?v=lfHr16lyj2A",
+      "engagement": 15,
+      "is_hot": false,
+      "author": "T-rex",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/lfHr16lyj2A/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -119,6 +170,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/oeu2LqRFhls/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Looming Shadow",
+      "summary": "Provided to YouTube by DistroKid Looming Shadow · B.I.A.V. Studio · B.I.A.V. Studio Morimens OST┊Sorel EP: The Rose's ...",
+      "source": "youtube",
+      "time": "2026-08-18T00:44:39Z",
+      "url": "https://www.youtube.com/watch?v=f9YhlHz7DxE",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "B.I.A.V. Studio - Topic",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/f9YhlHz7DxE/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
