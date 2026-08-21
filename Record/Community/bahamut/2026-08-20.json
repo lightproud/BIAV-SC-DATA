@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-20",
+  "archived_at": "2026-08-21T20:00:02.178890+00:00",
+  "source": "bahamut",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "【日服】全新命輪，由暗至暗",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-19T19:59:01.971646+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1541&tnum=2",
+      "engagement": 13,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【問題】Steam版怎麼換到手機版?",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-19T19:59:01.971667+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1540&tnum=1",
+      "engagement": 11,
+      "is_hot": false,
+      "author": "jimnelsonex",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【討論】卡拉布技能組前瞻分析 (先寫理解，待後續情報再更新)",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-19T19:59:01.971688+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1539&tnum=1",
+      "engagement": 10,
+      "is_hot": false,
+      "author": "k93522920",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    }
+  ]
+}

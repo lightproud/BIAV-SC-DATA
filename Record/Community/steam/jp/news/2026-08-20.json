@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-20",
+  "archived_at": "2026-08-21T20:00:02.216387+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam新闻] カードRPG『忘却前夜』、サービス開始から1周年！1周年記念キャンペーンを開催！",
+      "summary": "株式会社オルトプラス（本社：東京都豊島区、代表取締役：石井　武、以下「オルトプラス」）は、運営中のカードRPGタイトル『忘却前夜』（以下「本作」）において、本日2026年8月19日（水）をもちまして、サービス開始から1周年を迎えましたことをお知らせいたします。昨年8月19日のサービス開始以来、多くのプレイヤーの皆様に支えられ、本作は1周年という一つの節目を迎えることができました。皆様への感謝の気持ちを込めて、8月6日より開催中の「1周年記念キャンペーン」では、豪華報酬が獲得できる特別ミッションや限定イベントなど、多彩なコンテンツをご用意しております。また、8月20日より「クレメンタイン」の登場にあわせて新覚醒体イベントを開催するとともに、新スト－リー星辰篇第2章やVersion2.2へのアップデートを記念した豪華アイテムが獲得できる各種キャンペーンも開催いたします。本作のスマートフォンアプリは、App StoreとGoogle Playから、Steam版はストアページからダウンロードいただけます。▼ダウンロードはこちらApp Store：https://apps.apple.com/j...",
+      "source": "official",
+      "time": "2026-08-20T09:44:13+00:00",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228664972",
+      "engagement": 0,
+      "is_hot": true,
+      "author": "takumi-sawaguchi",
+      "tags": [
+        "Community Announcements"
+      ],
+      "region": "jp",
+      "archive_subtype": "news",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "jp",
+  "content_subtype": "news"
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-20",
+  "archived_at": "2026-08-21T20:00:02.217161+00:00",
+  "source": "pixiv",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "マーフィー",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-08-21T00:02:59+09:00",
+      "url": "https://www.pixiv.net/artworks/148672723",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "SiWi.",
+      "tags": [
+        "忘却前夜",
+        "Morimens"
+      ],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/08/21/00/02/59/148672723_p0_square1200.jpg",
+      "content_type": "image"
+    },
+    {
+      "title": "一周年おめでとうございます🎉",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-08-20T23:59:07+09:00",
+      "url": "https://www.pixiv.net/artworks/148672082",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "SiWi.",
+      "tags": [
+        "忘却前夜"
+      ],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/08/20/23/59/07/148672082_p0_square1200.jpg",
+      "content_type": "image"
+    },
+    {
+      "title": "[Doodle] : Morimens",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-08-20T21:04:20+09:00",
+      "url": "https://www.pixiv.net/artworks/148664290",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "NoEyeBunny",
+      "tags": [
+        "漫画",
+        "忘却前夜",
+        "忘卻前夜",
+        "morimens",
+        "ファンアート"
+      ],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/custom-thumb/img/2026/08/20/21/04/20/148664290_p0_custom1200.jpg",
+      "content_type": "image"
+    },
+    {
+      "title": "振り子の精神科医",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-08-20T17:17:54+09:00",
+      "url": "https://www.pixiv.net/artworks/148656150",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "のーまん・ばっと・ひゅーまん",
+      "tags": [
+        "忘却前夜",
+        "morimens",
+        "クレメンタイン(忘却前夜)"
+      ],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/08/20/17/17/54/148656150_p0_square1200.jpg",
+      "content_type": "image"
+    }
+  ]
+}

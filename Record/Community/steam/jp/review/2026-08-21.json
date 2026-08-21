@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-21",
+  "archived_at": "2026-08-21T20:00:02.214989+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] 戦闘システムが面白く、程よい歯ごたえと達成感を味わえる。キャラのイラストの品が良く親しみやすい。",
+      "summary": "戦闘システムが面白く、程よい歯ごたえと達成感を味わえる。キャラのイラストの品が良く親しみやすい。",
+      "source": "steam_review",
+      "time": "2026-08-21T11:02:44+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198745539910/recommended/4226130",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198745539910",
+      "tags": [
+        "japanese"
+      ],
+      "language": "japanese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 9764,
+        "votes_up": 0,
+        "timestamp_created": 1787310164
+      },
+      "region": "jp",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "jp",
+  "content_subtype": "review"
+}

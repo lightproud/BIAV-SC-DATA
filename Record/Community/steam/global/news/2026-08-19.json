@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-19",
+  "archived_at": "2026-08-21T20:00:02.215233+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam新闻] V2.6.0 Caraboo✦Awakener & Wheel of Destiny Introduction",
+      "summary": "Supplementary Notice: Character Kit Clarifications✦ Blessing Card MechanicCards with the \\ keyword also feature \\. Once played, they are removed for the remainder of combat and will not re-enter your deck. This information was accidentally left out of the skill preview graphic.✦ Soulforge Aptitude Description FixThe English description for Soulforge Aptitude was not updated to reflect our latest CN changes.Incorrect:\"Satiety\" increases Max HP by 10~ 100%.Correct:The amount of Max HP bonus provid...",
+      "source": "official",
+      "time": "2026-08-19T14:12:29+00:00",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662742",
+      "engagement": 0,
+      "is_hot": true,
+      "author": "lqx02483534",
+      "tags": [
+        "Community Announcements"
+      ],
+      "region": "global",
+      "archive_subtype": "news",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "news"
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2026-08-19",
+  "archived_at": "2026-08-21T20:00:02.257753+00:00",
+  "source": "google_play",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 game go brrrrrr",
+      "summary": "game go brrrrrr",
+      "source": "google_play",
+      "time": "2026-08-19T13:07:49",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-2085f6ff-824f-4b17-a36b-0757f085e5cc",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "J C",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 The best rogue-like gacha out there. The",
+      "summary": "The best rogue-like gacha out there. The Devs are extremely generous as well.",
+      "source": "google_play",
+      "time": "2026-08-19T11:21:28",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-132b0204-70ef-4fc6-baad-462bb1208b5d",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "SELORONIOS",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 mong game tối ưu thêm :3",
+      "summary": "mong game tối ưu thêm :3",
+      "source": "google_play",
+      "time": "2026-08-19T13:32:51",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=vi#gp-cf1c31bc-935f-4684-88bc-ad1484358cb6",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Echo The Paradise",
+      "tags": [],
+      "lang": "vi",
+      "platform_region": "vn",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 juegazo. super bonito y bien hecho. la h",
+      "summary": "juegazo. super bonito y bien hecho. la historia es entretenida lo que me da rabia esque la playstore no le da mas visualidad para que otros lo vean y lo juegen",
+      "source": "google_play",
+      "time": "2026-08-19T05:52:10",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-81b0ba33-88fb-4e1e-bfa4-f22db726c8b7",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Bell Moisés",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "es",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

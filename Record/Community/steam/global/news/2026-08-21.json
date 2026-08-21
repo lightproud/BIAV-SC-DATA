@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-21",
+  "archived_at": "2026-08-21T20:00:02.215116+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Steam新闻] 📜 V2.6.0 Version Outlook",
+      "summary": "Astral Reign Chapter 6 \"When the Mountain Feasts\" Part 1 will be available after the update. Part 2 will be available after 9:00 on Augest 29.",
+      "source": "official",
+      "time": "2026-08-21T12:15:59+00:00",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228668541",
+      "engagement": 0,
+      "is_hot": true,
+      "author": "lqx02483534",
+      "tags": [
+        "Community Announcements"
+      ],
+      "region": "global",
+      "archive_subtype": "news",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "[Steam新闻] 🎬 V2.6 PV - Summit of Voided Wills (VA: Kugimiya Rie)",
+      "summary": "\"Come with me. The Lady of the Snowy Mountains will grant your every wish.\"\"Bring back the ones you've lost... Offer up your treasures, your wishes... everything!\"✦ Caraboo VA: Kugimiya Rie",
+      "source": "official",
+      "time": "2026-08-21T08:15:26+00:00",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228667891",
+      "engagement": 0,
+      "is_hot": true,
+      "author": "lqx02483534",
+      "tags": [
+        "Community Announcements"
+      ],
+      "region": "global",
+      "archive_subtype": "news",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "news"
+}

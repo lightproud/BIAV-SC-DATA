@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-20",
+  "archived_at": "2026-08-21T20:00:02.257612+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 stuck at 1-2 sd 8 elite",
+      "summary": "stuck at 1-2 sd 8 elite",
+      "source": "google_play",
+      "time": "2026-08-20T01:46:27",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-fc744202-3a33-443b-8b98-ef046240437b",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Fairuz Mujahid",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 Waste of time and data every thing is in",
+      "summary": "Waste of time and data every thing is in a foreign language even the settings and subtitles! Tried going into settings and find something in English but nope Everything is in Japanese or Chinese or whatever. UNINSTALLED!!!",
+      "source": "google_play",
+      "time": "2026-08-19T22:17:29",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-ce8c5341-a151-4e82-9c64-22478a8540ff",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Spaz Matic",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

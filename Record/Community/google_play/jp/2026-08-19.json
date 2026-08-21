@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-19",
+  "archived_at": "2026-08-21T20:00:02.197938+00:00",
+  "source": "google_play",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 難易度高め？のカードゲームぽいですね。個人的に調度良いですが…！めちゃくちゃ楽し",
+      "summary": "難易度高め？のカードゲームぽいですね。個人的に調度良いですが…！めちゃくちゃ楽しいですよ！なんで評価悪いんだろう。 2026/08/19 追記 めっちゃ良くなってる🥺︎面白いのでたくさんの人とやって欲しいですね",
+      "source": "google_play",
+      "time": "2026-08-18T21:21:29",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-711ca8e8-9927-4753-bd39-aafc17cf53fb",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "優里",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "jp",
+      "region": "jp"
+    },
+    {
+      "title": "[Google Play 差评] ★1 運が収束しないんだけど",
+      "summary": "運が収束しないんだけど",
+      "source": "google_play",
+      "time": "2026-08-19T14:11:03",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-526210e2-49f6-4288-b2ed-f28fac4f4317",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "sa se",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "jp",
+      "region": "jp"
+    },
+    {
+      "title": "[Google Play 好评] ★5 きっかけは他のゲームをインストールしている時でした。アイコンに惹かれやってみたら",
+      "summary": "きっかけは他のゲームをインストールしている時でした。アイコンに惹かれやってみたら何とこれが面白いのなんの、キャラクリにも独創性を感じるし何にせよストーリーが良い！次世代RPGの予感がしたのでここに感想を書かせていただきます。",
+      "source": "google_play",
+      "time": "2026-08-19T14:17:03",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-40e3c83d-4e95-4129-b590-6212c1558f52",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "koujikun seki",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "jp",
+      "region": "jp"
+    }
+  ],
+  "region": "jp"
+}

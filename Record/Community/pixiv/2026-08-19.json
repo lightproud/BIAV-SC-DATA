@@ -1,0 +1,48 @@
+{
+  "date": "2026-08-19",
+  "archived_at": "2026-08-21T20:00:02.217312+00:00",
+  "source": "pixiv",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "トゥルー",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-08-19T21:47:56+09:00",
+      "url": "https://www.pixiv.net/artworks/148629131",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "雨部屋のケイ",
+      "tags": [
+        "忘却前夜",
+        "トゥルー",
+        "トゥルー(忘却前夜)",
+        "触手",
+        "少年"
+      ],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/08/19/21/47/56/148629131_p0_square1200.jpg",
+      "content_type": "image"
+    },
+    {
+      "title": "祝_忘却前夜一周年",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-08-19T07:08:48+09:00",
+      "url": "https://www.pixiv.net/artworks/148606322",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Enothela",
+      "tags": [
+        "忘却前夜",
+        "ラモンナ",
+        "シルベスタ"
+      ],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/08/19/07/08/48/148606322_p0_square1200.jpg",
+      "content_type": "image"
+    }
+  ]
+}
