@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-21T20:00:02.176658+00:00",
+  "archived_at": "2026-08-21T21:23:33.487443+00:00",
   "source": "youtube",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "[Morimens] 2.6.0 Patch Notes Overview : Best Rerun Banner, MORE JP CHANGES, and Skin Gacha incoming",
@@ -102,6 +102,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/OWraT1KqIQA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Might as well continue Morimens JP... waiting for 2.6.0",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-21T20:19:07Z",
+      "url": "https://www.youtube.com/watch?v=vLFgMQ9ZKXw",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "kizunoV",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/vLFgMQ9ZKXw/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

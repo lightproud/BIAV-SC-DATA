@@ -1,8 +1,8 @@
 {
   "date": "2026-08-21",
-  "archived_at": "2026-08-21T20:00:02.257495+00:00",
+  "archived_at": "2026-08-21T21:23:33.598397+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 played this last year, but then stopped",
@@ -13,6 +13,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "SuryaD",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 👍",
+      "summary": "👍",
+      "source": "google_play",
+      "time": "2026-08-20T20:31:32",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-723ca648-3900-48cf-abb6-91afba40c32f",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Spidey4Ever",
       "tags": [],
       "lang": "en",
       "platform_region": "us",
