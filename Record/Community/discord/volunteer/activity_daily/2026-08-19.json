@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-19",
+  "messages": 1,
+  "unique_authors": 1,
+  "reactions_total": 1,
+  "attachments": 0,
+  "channel_activity": {
+    "general-discussion": 1
+  },
+  "hourly_activity": {
+    "14": 1
+  },
+  "message_types": {
+    "0": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1539644405210685570",
+      "channel_id": "1402941858606219294",
+      "content": "<@1470253170209853632> Hi! do we have the term sheet for Caraboo yet?",
+      "author": "anicillia",
+      "reactions": 1,
+      "channel": "general-discussion"
+    }
+  ]
+}

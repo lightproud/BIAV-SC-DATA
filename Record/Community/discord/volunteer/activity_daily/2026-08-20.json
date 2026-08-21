@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-20",
+  "messages": 15,
+  "unique_authors": 6,
+  "reactions_total": 11,
+  "attachments": 1,
+  "channel_activity": {
+    "links-and-resources": 1,
+    "general-discussion": 14
+  },
+  "hourly_activity": {
+    "6": 5,
+    "3": 4,
+    "7": 1,
+    "13": 1,
+    "14": 4
+  },
+  "message_types": {
+    "0": 12,
+    "19": 3
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1539887809857462302",
+      "channel_id": "1402537664619479103",
+      "content": "Hello everyone, we've updated some resources — hope they help!\n🫶 \n\nhttps://docs.",
+      "author": "morimensstaff03",
+      "reactions": 5,
+      "channel": "links-and-resources"
+    },
+    {
+      "id": "1539839719226216458",
+      "channel_id": "1402941858606219294",
+      "content": "Not yet — we'll get it over to you as soon as we can! <:celeste_ok:1408324285147",
+      "author": "morimensstaff03",
+      "reactions": 1,
+      "channel": "general-discussion"
+    },
+    {
+      "id": "1539840325630300201",
+      "channel_id": "1402941858606219294",
+      "content": "<@328059424667205633> u can go back Relink",
+      "author": "aegisx",
+      "reactions": 1,
+      "channel": "general-discussion"
+    },
+    {
+      "id": "1539881481432735774",
+      "channel_id": "1402941858606219294",
+      "content": "After Caraboo version update.",
+      "author": "haps",
+      "reactions": 1,
+      "channel": "general-discussion"
+    },
+    {
+      "id": "1539881700715274342",
+      "channel_id": "1402941858606219294",
+      "content": "I asked Kada not so long ago about that.",
+      "author": "haps",
+      "reactions": 1,
+      "channel": "general-discussion"
+    },
+    {
+      "id": "1539881825067864145",
+      "channel_id": "1402941858606219294",
+      "content": "Okay! Please do keep the rest of us updated when any relevant information comes ",
+      "author": "omnichromia",
+      "reactions": 1,
+      "channel": "general-discussion"
+    },
+    {
+      "id": "1539999701980418058",
+      "channel_id": "1402941858606219294",
+      "content": "I know what Pistoles are.\nBut I was talking about 皇家.",
+      "author": "haps",
+      "reactions": 1,
+      "channel": "general-discussion"
+    }
+  ]
+}
