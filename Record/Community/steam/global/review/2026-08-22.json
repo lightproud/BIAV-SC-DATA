@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-22T15:19:41.388079+00:00",
+  "archived_at": "2026-08-22T18:27:13.182202+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] 好玩好玩好玩好玩好玩\r\n类似杀戮尖塔",
@@ -118,6 +118,54 @@
         "playtime_forever": 233,
         "votes_up": 0,
         "timestamp_created": 1787404653
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 克苏鲁风格，画风挺好看的，里面的剧情也挺有意思的，",
+      "summary": "克苏鲁风格，画风挺好看的，里面的剧情也挺有意思的，",
+      "source": "steam_review",
+      "time": "2026-08-22T15:51:27+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198782764462/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198782764462",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 802,
+        "votes_up": 0,
+        "timestamp_created": 1787413887
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] на даркест данжен похоже",
+      "summary": "на даркест данжен похоже",
+      "source": "steam_review",
+      "time": "2026-08-22T14:52:34+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199654122752/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199654122752",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 16,
+        "votes_up": 0,
+        "timestamp_created": 1787410354
       },
       "region": "global",
       "archive_subtype": "review",

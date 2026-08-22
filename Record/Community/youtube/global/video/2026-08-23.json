@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-23",
+  "archived_at": "2026-08-22T18:27:13.135583+00:00",
+  "source": "youtube",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Morimens] 3 lesser known game mechanics and tips",
+      "summary": "Mythag Compendium: ...",
+      "source": "youtube",
+      "time": "2026-08-22T18:09:00Z",
+      "url": "https://www.youtube.com/watch?v=JVLzO-WToWE",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "kizunoV",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/JVLzO-WToWE/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] The problems with PCaro and what I think the fix is",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-22T18:23:23Z",
+      "url": "https://www.youtube.com/watch?v=4eE2pWh_S-I",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "kizunoV",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/4eE2pWh_S-I/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "video"
+}
