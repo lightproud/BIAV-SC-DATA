@@ -1,38 +1,40 @@
 {
   "date": "2026-08-22",
-  "messages": 19360,
+  "messages": 22611,
   "unique_authors": 222,
-  "reactions_total": 1966,
-  "attachments": 862,
+  "reactions_total": 2412,
+  "attachments": 996,
   "channel_activity": {
-    "🔸綜合討論": 1365,
+    "🔸綜合討論": 1382,
+    "🔸morimens-game-chat": 8988,
+    "🔸欢乐梗图": 231,
+    "🔸课间休息闲聊": 264,
+    "🔸chaîne-française": 249,
+    "🔸русский-канал": 808,
+    "🔸canal-español": 145,
+    "🔸canal-português": 609,
+    "🔸ruang-obrolan-indonesia": 208,
+    "🔸lore-chat": 224,
+    "🔸team-building": 888,
+    "🔸general-chat": 4168,
+    "🔸game-question": 2393,
+    "🔸机器人命令┊bot-commands": 62,
+    "Propagation caro needs a rework/buff": 34,
+    "Please rework how Propagation Caro works for the future units": 8,
+    "The greatest and bestest(I know it's not a word) creations of Katz!": 3,
+    "Leigh x I LICK and TICKLE Leigh's ARMPIT": 1,
+    "📜 V2.6.0 版本前瞻┊Version Outlook┊버전 미리보기": 25,
     "🔸阵容构建": 6,
-    "🔸morimens-game-chat": 7291,
     "🔸剧情交流": 16,
     "🔸晒卡分享": 3,
-    "🔸欢乐梗图": 230,
-    "🔸课间休息闲聊": 214,
-    "🔸chaîne-française": 236,
-    "🔸русский-канал": 671,
     "🔸phòng-chat-tiếng-việt": 1278,
-    "🔸canal-español": 140,
-    "🔸canal-português": 288,
-    "🔸ruang-obrolan-indonesia": 206,
     "🔸traphase": 23,
-    "🔸lore-chat": 192,
-    "🔸team-building": 873,
-    "🔸general-chat": 3336,
     "🔸邀请码互助┊swap-invitation-codes": 9,
-    "🔸game-question": 2279,
-    "🔸机器人命令┊bot-commands": 59,
-    "Propagation caro needs a rework/buff": 32,
     "❓「Not really answered」Lotan: Cetarchon exalt damage number does not line up with the hit animation": 1,
-    "Please rework how Propagation Caro works for the future units": 7,
     "✅「已回答」「未解决」氪金玩家和老玩家是否已经成为游戏前进的阻力？": 2,
     "V2.5.1.0 停服维护公告": 15,
     "Lotan: Cetarchon Fanart Submission": 1,
     "DTide Meta Teams and Units": 1,
-    "📜 V2.6.0 版本前瞻┊Version Outlook┊버전 미리보기": 19,
     "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 5,
     "V2.5.0 命运剧院┊Theater of Fate": 3,
     "忘卻8—12要怎過？": 2,
@@ -56,7 +58,6 @@
     "Rough Caraboo doodle": 1,
     "Cara": 1,
     "Mira (Keeper OC) art thread": 4,
-    "The greatest and bestest(I know it's not a word) creations of Katz!": 1,
     "組隊": 8,
     "68等帳號資源規劃請益": 5,
     "請教 融災隊伍及密契": 5,
@@ -95,10 +96,13 @@
     "Kill stealing, we could fix it": 2
   },
   "hourly_activity": {
+    "18": 1634,
+    "19": 1250,
+    "20": 1016,
+    "21": 339,
     "15": 1824,
     "16": 1986,
     "17": 1503,
-    "18": 988,
     "12": 1480,
     "13": 997,
     "14": 1370,
@@ -116,9 +120,9 @@
     "0": 367
   },
   "message_types": {
-    "0": 12613,
-    "19": 6703,
-    "20": 36,
+    "0": 14311,
+    "19": 8252,
+    "20": 40,
     "23": 2,
     "4": 4,
     "6": 1,
@@ -206,6 +210,14 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1540796606348140574",
+      "channel_id": "1170692781216378960",
+      "content": "HE LIVED",
+      "author": "megidola.",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1540777020626313326",
       "channel_id": "1180437373012672522",
       "content": "好糟糕喔，怎麼有人在p這種圖||有沒有圖魯的||",
@@ -214,11 +226,35 @@
       "channel": "🔸欢乐梗图"
     },
     {
+      "id": "1540821293195075726",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "sirtealot",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1540772087667626124",
       "channel_id": "1180437373012672522",
       "content": "",
       "author": "hakurou729",
       "reactions": 10,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1540813239762419784",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "princess.goth",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540799322168238112",
+      "channel_id": "1180437373012672522",
+      "content": "",
+      "author": "bx379866",
+      "reactions": 9,
       "channel": "🔸欢乐梗图"
     },
     {
@@ -238,51 +274,19 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1540822027496325120",
+      "channel_id": "1170692781216378960",
+      "content": "<:Ramona_tuff_:1441426630420467753> i don't eat cake but i can eat 8-9 eggs in t",
+      "author": "laplace.in.my.head",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1540772488022073454",
       "channel_id": "1180437373012672522",
       "content": "做完你的做你的，做完你的做你的",
       "author": "hakurou729",
       "reactions": 8,
-      "channel": "🔸欢乐梗图"
-    },
-    {
-      "id": "1540773403747680397",
-      "channel_id": "1180437373012672522",
-      "content": "嚇哭怎麼炸出一堆生面孔",
-      "author": "ahong0727",
-      "reactions": 8,
-      "channel": "🔸欢乐梗图"
-    },
-    {
-      "id": "1540775876382429264",
-      "channel_id": "1180437373012672522",
-      "content": "仍然不知道為什麼大半夜在p這種東西",
-      "author": "hakurou729",
-      "reactions": 8,
-      "channel": "🔸欢乐梗图"
-    },
-    {
-      "id": "1540777580091932702",
-      "channel_id": "1180437373012672522",
-      "content": "",
-      "author": "xianrenwurao",
-      "reactions": 8,
-      "channel": "🔸欢乐梗图"
-    },
-    {
-      "id": "1540740440813477938",
-      "channel_id": "1170692781216378960",
-      "content": "Admittedly gtawil would be neat",
-      "author": "undeterredhomo",
-      "reactions": 8,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540740061140754562",
-      "channel_id": "1180437373012672522",
-      "content": "<:emoji_133:1510550643625033759>",
-      "author": "licheng.0401",
-      "reactions": 7,
       "channel": "🔸欢乐梗图"
     }
   ]
