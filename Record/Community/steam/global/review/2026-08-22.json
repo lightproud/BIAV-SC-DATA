@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-22T01:05:49.231920+00:00",
+  "archived_at": "2026-08-22T03:41:49.436322+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] 好玩好玩好玩好玩好玩\r\n类似杀戮尖塔",
@@ -46,6 +46,30 @@
         "playtime_forever": 324,
         "votes_up": 0,
         "timestamp_created": 1787350843
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] As an IRL card game connoisseur myself, I actually...",
+      "summary": "As an IRL card game connoisseur myself, I actually haven't played many deck builder-type games, but this one easily takes the cake for me. \n\nThe unsettling cosmic horror nature of the story partners well with the incredible character designs and addicting but not debilitating card system. Every character is unique in their own ways and there are heaps of different ways to pair everyone together. While some characters are better than others there's no reason not to build a character just because you like them; you'll find a purpose for them somewhere which is great for a Gacha game like this.\n\nFor anyone who likes card games in general, the learning curve is a bit steep at the beginning, but if you stick through everything clicks into place and you'll be making plays like a War General soon enough. Highly recommend.",
+      "source": "steam_review",
+      "time": "2026-08-22T02:27:06+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199118725739/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199118725739",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 4039,
+        "votes_up": 0,
+        "timestamp_created": 1787365626
       },
       "region": "global",
       "archive_subtype": "review",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-22T01:05:49.159606+00:00",
+  "archived_at": "2026-08-22T03:41:49.350911+00:00",
   "source": "youtube",
-  "item_count": 8,
+  "item_count": 9,
   "items": [
     {
       "title": "[Morimens] 2.6.0 Patch Notes Overview : Best Rerun Banner, MORE JP CHANGES, and Skin Gacha incoming",
@@ -136,6 +136,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/RwcF2kVtE3A/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】融災禁区・第3波・Ⅴ級警報（2026/08/22）_編成変えて再戦",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-08-22T02:51:34Z",
+      "url": "https://www.youtube.com/watch?v=wghAlNQjZ3k",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/wghAlNQjZ3k/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

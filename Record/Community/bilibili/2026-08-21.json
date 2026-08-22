@@ -1,8 +1,8 @@
 {
   "date": "2026-08-21",
-  "archived_at": "2026-08-22T01:05:49.157156+00:00",
+  "archived_at": "2026-08-22T03:41:49.348532+00:00",
   "source": "bilibili",
-  "item_count": 25,
+  "item_count": 26,
   "items": [
     {
       "title": "忘却前夜丨概念PV「无愿的尖峰」（CV：钉宫理惠）",
@@ -345,6 +345,29 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/6fb3c8d0b3e23c0a49dcc277e42cb65fe9a8f953.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【galgame重启】十二神器 绝望爱恋 沙耶之歌 5",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-21T13:07:19+00:00",
+      "url": "https://www.bilibili.com/video/BV1vb8c6TEA8",
+      "engagement": 131,
+      "is_hot": false,
+      "author": "XTianC-0717",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 131,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/f5141f4305ae970a9df18bd3cca6e737e811aef9.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
