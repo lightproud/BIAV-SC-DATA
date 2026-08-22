@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-22T03:41:49.351525+00:00",
+  "archived_at": "2026-08-22T06:37:01.509187+00:00",
   "source": "bahamut",
-  "item_count": 22,
+  "item_count": 23,
   "items": [
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
@@ -247,6 +247,19 @@
       "engagement": 15,
       "is_hot": false,
       "author": "k93522920",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【心得】2.6.0 卡拉布，新版本重點整理",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-22T06:36:08.246507+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1544&tnum=2",
+      "engagement": 14,
+      "is_hot": false,
+      "author": "t12345825",
       "tags": [],
       "lang": "zh",
       "platform_region": "tw"

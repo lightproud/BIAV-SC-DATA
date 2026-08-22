@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-22T03:41:49.350911+00:00",
+  "archived_at": "2026-08-22T06:37:01.508303+00:00",
   "source": "youtube",
-  "item_count": 9,
+  "item_count": 10,
   "items": [
     {
       "title": "[Morimens] 2.6.0 Patch Notes Overview : Best Rerun Banner, MORE JP CHANGES, and Skin Gacha incoming",
@@ -51,6 +51,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/33ag7-c796s/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens \\\\ НОВЫЙ ПЕРСОНАЖ \\\\ НОВЫЙ БАННЕР \\\\ СКИНЫ НА КАРТОЧКИ \\\\ РЕРАНЫ \\\\ БОЛЬШИЕ ИЗМЕНЕНИЯ (205)",
+      "summary": "Промокод на 1000 Серебра и 5 Ивентовых круток   (В честь 60000 участников на оф. канале дискорда) Код: DC60000 ...",
+      "source": "youtube",
+      "time": "2026-08-22T05:55:24Z",
+      "url": "https://www.youtube.com/watch?v=XKgD35G8nak",
+      "engagement": 28,
+      "is_hot": false,
+      "author": "Closetom",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/XKgD35G8nak/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
