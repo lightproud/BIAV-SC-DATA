@@ -1,9 +1,32 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-21T21:23:33.491389+00:00",
+  "archived_at": "2026-08-22T01:05:49.160794+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 4,
   "items": [
+    {
+      "title": "【忘却前夜】虽然水温很烫但总算是赶上了425末班车",
+      "summary": "2图的菲旺是@立誓0氪吃400 帮我吃的，剩下九张图是自己打的。感谢爱播助我圆梦425\n如果你看回放感觉主播打错了，不要怀疑，主播确实放空大脑在打\n  └ 额度了奶奶 (0赞): [打call][打call][打call]",
+      "source": "bilibili",
+      "time": "2026-08-21T22:58:42+00:00",
+      "url": "https://www.bilibili.com/video/BV1Gb8k6EEEH",
+      "engagement": 102,
+      "is_hot": false,
+      "author": "花岚天音Amane",
+      "tags": [
+        "桌游棋牌"
+      ],
+      "metadata": {
+        "play": 101,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/991d9a20483dd70bc51790edc49865396b867102.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "天使还是怪物？🪽✨️ 让我们为你唱首摇篮曲🐾",
       "summary": "请欣赏我们最新翻唱的《沙耶之歌》🌱✨️ ▶ https://www.youtube.com/watch?v=DgJ_H93D5_U \n\n🩵 FUWAMOCO 最新单曲《Mekurumeku Rendezvous》🩷 电视动画《重生为自动售货机，现在在地下城漫游 第三季》片尾曲 电视动画《重生为自动售货机，现在在地下城漫游 第三季》片尾曲《Mekurumeku Rendezvous》 快来看看我们的动画MV吧！https://www.youtube.com/watch?v=vSwxof0K8lk \n✨️正在",
@@ -23,6 +46,52 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/606e05e2cb00630ff57f77748a0b55d935bf81d2.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "saya 压力很大对吗你的孩子和丈夫呢",
+      "summary": "剪的我好累（✝升天✝）",
+      "source": "bilibili",
+      "time": "2026-08-21T22:11:57+00:00",
+      "url": "https://www.bilibili.com/video/BV1P18k6qEjL",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "小龙猫大能力",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 3,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/cda1cc9338972dab511ad0e6a95ea5d7b893f24a.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "通宵沙耶之歌be like",
+      "summary": "脑子嗡嗡的\n下体濛濛的",
+      "source": "bilibili",
+      "time": "2026-08-21T22:43:48+00:00",
+      "url": "https://www.bilibili.com/video/BV1Eg8k6hE1p",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "煤矿老板是只-因-羊",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 2,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/696d605831bfd36b34ff3cb8ebac2313fcf005cf.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

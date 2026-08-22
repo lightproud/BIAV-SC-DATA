@@ -1,9 +1,22 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-21T21:23:33.487885+00:00",
+  "archived_at": "2026-08-22T01:05:49.160176+00:00",
   "source": "bahamut",
-  "item_count": 21,
+  "item_count": 22,
   "items": [
+    {
+      "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-22T01:04:48.332766+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1144&tnum=246",
+      "engagement": 372,
+      "is_hot": true,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
       "summary": "",

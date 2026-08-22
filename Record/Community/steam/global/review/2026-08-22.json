@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-21T21:23:33.540017+00:00",
+  "archived_at": "2026-08-22T01:05:49.231920+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[正面] 好玩好玩好玩好玩好玩\r\n类似杀戮尖塔",
@@ -22,6 +22,30 @@
         "playtime_forever": 2573,
         "votes_up": 0,
         "timestamp_created": 1787335253
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] I love the art and character design and I really l...",
+      "summary": "I love the art and character design and I really like the gacha animations and mechanics and how you can try every character before you pull for them.",
+      "source": "steam_review",
+      "time": "2026-08-21T22:20:43+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198988401947/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198988401947",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 324,
+        "votes_up": 0,
+        "timestamp_created": 1787350843
       },
       "region": "global",
       "archive_subtype": "review",
