@@ -1,47 +1,55 @@
 {
   "date": "2026-08-22",
-  "messages": 13577,
-  "unique_authors": 206,
-  "reactions_total": 1170,
-  "attachments": 630,
+  "messages": 19360,
+  "unique_authors": 222,
+  "reactions_total": 1966,
+  "attachments": 862,
   "channel_activity": {
-    "🔸綜合討論": 1164,
-    "🔸morimens-game-chat": 5033,
-    "🔸剧情交流": 11,
-    "🔸欢乐梗图": 3,
-    "🔸课间休息闲聊": 205,
+    "🔸綜合討論": 1365,
+    "🔸阵容构建": 6,
+    "🔸morimens-game-chat": 7291,
+    "🔸剧情交流": 16,
+    "🔸晒卡分享": 3,
+    "🔸欢乐梗图": 230,
+    "🔸课间休息闲聊": 214,
+    "🔸chaîne-française": 236,
+    "🔸русский-канал": 671,
+    "🔸phòng-chat-tiếng-việt": 1278,
+    "🔸canal-español": 140,
+    "🔸canal-português": 288,
+    "🔸ruang-obrolan-indonesia": 206,
+    "🔸traphase": 23,
+    "🔸lore-chat": 192,
+    "🔸team-building": 873,
+    "🔸general-chat": 3336,
+    "🔸邀请码互助┊swap-invitation-codes": 9,
+    "🔸game-question": 2279,
+    "🔸机器人命令┊bot-commands": 59,
+    "Propagation caro needs a rework/buff": 32,
+    "❓「Not really answered」Lotan: Cetarchon exalt damage number does not line up with the hit animation": 1,
+    "Please rework how Propagation Caro works for the future units": 7,
+    "✅「已回答」「未解决」氪金玩家和老玩家是否已经成为游戏前进的阻力？": 2,
+    "V2.5.1.0 停服维护公告": 15,
+    "Lotan: Cetarchon Fanart Submission": 1,
+    "DTide Meta Teams and Units": 1,
+    "📜 V2.6.0 版本前瞻┊Version Outlook┊버전 미리보기": 19,
+    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 5,
+    "V2.5.0 命运剧院┊Theater of Fate": 3,
+    "忘卻8—12要怎過？": 2,
+    "New Player, advise on pulling and teams": 8,
     "🔸한국어-채팅방": 12,
-    "🔸chaîne-française": 224,
-    "🔸русский-канал": 532,
-    "🔸phòng-chat-tiếng-việt": 1006,
-    "🔸canal-español": 125,
-    "🔸canal-português": 193,
-    "🔸ruang-obrolan-indonesia": 203,
     "🔸ห้องสนทนาภาษาไทย": 42,
-    "🔸traphase": 22,
-    "🔸lore-chat": 165,
     "🔸lets-count": 5,
-    "🔸team-building": 680,
-    "🔸general-chat": 1446,
-    "🔸邀请码互助┊swap-invitation-codes": 7,
-    "🔸game-question": 1918,
     "🔸游戏问题": 7,
-    "🔸机器人命令┊bot-commands": 45,
     "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 2,
     "AA凱刻斯": 1,
     "+12命輪的特效創作": 8,
     "Stats, they could feel better": 9,
     "Rework the design of Scintilla": 3,
-    "Propagation caro needs a rework/buff": 9,
-    "Please rework how Propagation Caro works for the future units": 3,
-    "V2.5.1.0 停服维护公告": 12,
     "saschys doodle thread": 1,
     "hamposting by yoru": 2,
     "Nefraea + Arachne Posting": 3,
     "Detailed Damage Formula Graphic": 6,
-    "📜 V2.6.0 版本前瞻┊Version Outlook┊버전 미리보기": 12,
-    "V2.5.1 《沙耶之歌》名场面复刻┊Song of Saya: speak for them before she arrives!": 4,
-    "V2.5.0 命运剧院┊Theater of Fate": 1,
     "Help I need a 2nd team": 1,
     "摸魚 放點塗鴉✍️": 5,
     "The updates have been getting worse and this is the worse one so far.": 270,
@@ -53,21 +61,18 @@
     "68等帳號資源規劃請益": 5,
     "請教 融災隊伍及密契": 5,
     "1540666049609863179": 100,
-    "🔸晒卡分享": 2,
     "🔸相位对弈": 1,
     "🔸忘却前夜┊morimens-tv": 1,
     "Arc 1 cut content": 1,
     "Gap between description and actual dmg in GLotan OE": 1,
     "关于新版本改动": 1,
     "Are there any plans to fix iOS version of game?": 1,
-    "✅「已回答」「未解决」氪金玩家和老玩家是否已经成为游戏前进的阻力？": 1,
     "Horla 🌹": 1,
     "The Arc 1 GDoll Incident Compilation": 3,
     "【English Translation】Opinions Collection": 2,
     "剛入坑一天一些問題拜託大佬了": 1,
     "Confused on Stage Achievement": 1,
     "1540636981560606751": 1,
-    "🔸阵容构建": 2,
     "又美又帥的拉蒙娜~": 1,
     "Keeper OC? Keeper OC": 2,
     "GLotan General Guide": 1,
@@ -90,10 +95,13 @@
     "Kill stealing, we could fix it": 2
   },
   "hourly_activity": {
+    "15": 1824,
+    "16": 1986,
+    "17": 1503,
+    "18": 988,
     "12": 1480,
     "13": 997,
     "14": 1370,
-    "15": 518,
     "9": 978,
     "10": 734,
     "11": 1563,
@@ -108,14 +116,23 @@
     "0": 367
   },
   "message_types": {
-    "0": 9326,
-    "19": 4215,
-    "20": 31,
-    "4": 3,
-    "21": 1,
-    "23": 1
+    "0": 12613,
+    "19": 6703,
+    "20": 36,
+    "23": 2,
+    "4": 4,
+    "6": 1,
+    "21": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1540775465474592868",
+      "channel_id": "1180437373012672522",
+      "content": "",
+      "author": "hakurou729",
+      "reactions": 35,
+      "channel": "🔸欢乐梗图"
+    },
     {
       "id": "1540596121985089617",
       "channel_id": "1170692781216378960",
@@ -123,6 +140,62 @@
       "author": "serahh__",
       "reactions": 20,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540772968458883263",
+      "channel_id": "1180437373012672522",
+      "content": "這邊許願難度跟融災一樣在上升",
+      "author": "licheng.0401",
+      "reactions": 19,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1540778844921921656",
+      "channel_id": "1180437373012672522",
+      "content": "",
+      "author": "hakurou729",
+      "reactions": 18,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1540781118188552252",
+      "channel_id": "1180437373012672522",
+      "content": "",
+      "author": "hakurou729",
+      "reactions": 16,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1540785615988330566",
+      "channel_id": "1180437373012672522",
+      "content": "",
+      "author": "hakurou729",
+      "reactions": 16,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1540772865459364080",
+      "channel_id": "1180437373012672522",
+      "content": "我幫他把臉塗黑",
+      "author": "hakurou729",
+      "reactions": 15,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1540789303846764584",
+      "channel_id": "1180437373012672522",
+      "content": "",
+      "author": "hakurou729",
+      "reactions": 15,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1540780608026845335",
+      "channel_id": "1180437373012672522",
+      "content": "然後慣例",
+      "author": "xianrenwurao",
+      "reactions": 14,
+      "channel": "🔸欢乐梗图"
     },
     {
       "id": "1540604075500900442",
@@ -133,12 +206,68 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1540777020626313326",
+      "channel_id": "1180437373012672522",
+      "content": "好糟糕喔，怎麼有人在p這種圖||有沒有圖魯的||",
+      "author": "xianrenwurao",
+      "reactions": 11,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1540772087667626124",
+      "channel_id": "1180437373012672522",
+      "content": "",
+      "author": "hakurou729",
+      "reactions": 10,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1540781394366566492",
+      "channel_id": "1180437373012672522",
+      "content": "@24 24你頭怎麼尖尖的",
+      "author": "hakurou729",
+      "reactions": 9,
+      "channel": "🔸欢乐梗图"
+    },
+    {
       "id": "1540531419405615185",
       "channel_id": "1131839817982947429",
       "content": "这是校猫开小号来视奸我了？",
       "author": "ponponnyaru",
       "reactions": 9,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1540772488022073454",
+      "channel_id": "1180437373012672522",
+      "content": "做完你的做你的，做完你的做你的",
+      "author": "hakurou729",
+      "reactions": 8,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1540773403747680397",
+      "channel_id": "1180437373012672522",
+      "content": "嚇哭怎麼炸出一堆生面孔",
+      "author": "ahong0727",
+      "reactions": 8,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1540775876382429264",
+      "channel_id": "1180437373012672522",
+      "content": "仍然不知道為什麼大半夜在p這種東西",
+      "author": "hakurou729",
+      "reactions": 8,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1540777580091932702",
+      "channel_id": "1180437373012672522",
+      "content": "",
+      "author": "xianrenwurao",
+      "reactions": 8,
+      "channel": "🔸欢乐梗图"
     },
     {
       "id": "1540740440813477938",
@@ -155,126 +284,6 @@
       "author": "licheng.0401",
       "reactions": 7,
       "channel": "🔸欢乐梗图"
-    },
-    {
-      "id": "1540659824130261043",
-      "channel_id": "1170692781216378960",
-      "content": "3 glotan copies in 90 pulls",
-      "author": "gaminator9999",
-      "reactions": 7,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540680120329572423",
-      "channel_id": "1170692781216378960",
-      "content": "https://www.reddit.com/r/Morimens/s/diSsC1j5xh",
-      "author": "angbak",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540629042745843762",
-      "channel_id": "1170692781216378960",
-      "content": "https://cdn.discordapp.com/attachments/1170692781216378960/1524255962460983356/t",
-      "author": "tnimreppep",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540519931093721148",
-      "channel_id": "1170692781216378960",
-      "content": "almost 3 months in but finally decided to try for 400",
-      "author": "mellowneko",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540685431979511908",
-      "channel_id": "1540390360516264127",
-      "content": "Ok, I think this post is not really evolving in a constructive way, especially n",
-      "author": "vxvendetta97",
-      "reactions": 5,
-      "channel": "The updates have been getting worse and this is the worse one so far."
-    },
-    {
-      "id": "1540597116336996353",
-      "channel_id": "1170692781216378960",
-      "content": "If I could roll like this on all my pieces...",
-      "author": "syro_k",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540603854096437320",
-      "channel_id": "1170692781216378960",
-      "content": "Upgrade meaning easier?",
-      "author": "angbak",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540564895035031642",
-      "channel_id": "1170692781216378960",
-      "content": "𝚃𝚏 𝚕𝚒𝚕𝚢 𝚍𝚘𝚒𝚗𝚐 𝚝𝚑𝚎𝚛𝚎",
-      "author": "hollow_xhk",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540703930525286612",
-      "channel_id": "1170692781216378960",
-      "content": "~~Me but Ryker and N <3~~",
-      "author": "aerisvibing",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540723768253481060",
-      "channel_id": "1400750050208125010",
-      "content": "",
-      "author": "arisuu0604",
-      "reactions": 4,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1540654365084491786",
-      "channel_id": "1131839817982947429",
-      "content": "我又沒玩忘卻",
-      "author": "ahuahuahua",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1540655035787255880",
-      "channel_id": "1131839817982947429",
-      "content": "我還在等性器綁定",
-      "author": "ahuahuahua",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1540662981862363189",
-      "channel_id": "1400750050208125010",
-      "content": "I wanna be back home already n play limbus n reverse1999 <:Saya_cry:151312357738",
-      "author": "im_just_a_reader",
-      "reactions": 4,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1540699707880243231",
-      "channel_id": "1540699707880243231",
-      "content": "Some stats are not as worth investing in compared to others, and I would like to",
-      "author": "vxvendetta97",
-      "reactions": 4,
-      "channel": "Stats, they could feel better"
-    },
-    {
-      "id": "1540647976035422278",
-      "channel_id": "1170692781216378960",
-      "content": "WOOHOO",
-      "author": "topazlh",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }
