@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-22T09:26:08.333201+00:00",
+  "archived_at": "2026-08-22T12:34:54.494400+00:00",
   "source": "youtube",
-  "item_count": 10,
+  "item_count": 11,
   "items": [
     {
       "title": "[Morimens] 2.6.0 Patch Notes Overview : Best Rerun Banner, MORE JP CHANGES, and Skin Gacha incoming",
@@ -119,6 +119,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/OWraT1KqIQA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[🔴] LIVE📌STORY NYA BANYAK YA - MORIMENS",
+      "summary": "livestream #viral #games #morimens subcriber : https://www.youtube.com/@DvloopGV Join Discord ...",
+      "source": "youtube",
+      "time": "2026-08-22T10:03:27Z",
+      "url": "https://www.youtube.com/watch?v=74M2MpMHR8s",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Dvloop GV",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/74M2MpMHR8s/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
