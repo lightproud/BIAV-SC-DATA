@@ -1,28 +1,42 @@
 {
   "date": "2026-08-22",
-  "messages": 2081,
-  "unique_authors": 147,
-  "reactions_total": 208,
-  "attachments": 112,
+  "messages": 4631,
+  "unique_authors": 161,
+  "reactions_total": 453,
+  "attachments": 231,
   "channel_activity": {
-    "🔸綜合討論": 44,
-    "🔸morimens-game-chat": 1335,
-    "🔸课间休息闲聊": 63,
-    "🔸русский-канал": 25,
-    "🔸phòng-chat-tiếng-việt": 102,
-    "🔸canal-español": 63,
+    "🔸綜合討論": 252,
+    "🔸阵容构建": 2,
+    "🔸morimens-game-chat": 2163,
+    "🔸剧情交流": 9,
+    "🔸欢乐梗图": 2,
+    "🔸课间休息闲聊": 153,
+    "🔸chaîne-française": 19,
+    "🔸русский-канал": 26,
+    "🔸phòng-chat-tiếng-việt": 263,
+    "🔸canal-español": 93,
+    "🔸ruang-obrolan-indonesia": 108,
+    "🔸ห้องสนทนาภาษาไทย": 20,
+    "🔸lore-chat": 51,
+    "🔸lets-count": 3,
+    "🔸team-building": 114,
+    "🔸general-chat": 201,
+    "🔸邀请码互助┊swap-invitation-codes": 4,
+    "🔸game-question": 1016,
+    "🔸机器人命令┊bot-commands": 24,
+    "又美又帥的拉蒙娜~": 1,
+    "Rework the design of Scintilla": 1,
+    "V2.5.1.0 停服维护公告": 5,
+    "Keeper OC? Keeper OC": 2,
+    "GLotan General Guide": 1,
+    "The Arc 1 GDoll Incident Compilation": 2,
+    "📜 V2.6.0 版本前瞻┊Version Outlook┊버전 미리보기": 8,
+    "V2.6.0 卡拉布✦唤醒体&命轮介绍┊Caraboo✦Awakener & Wheel of Destiny Introduction┊카라부✦각성체 & 명륜 소개": 3,
+    "68等帳號資源規劃請益": 2,
+    "請教 融災隊伍及密契": 2,
     "🔸canal-português": 13,
-    "🔸ruang-obrolan-indonesia": 52,
-    "🔸ห้องสนทนาภาษาไทย": 13,
     "🔸traphase": 8,
-    "🔸lore-chat": 18,
-    "🔸lets-count": 2,
-    "🔸team-building": 91,
-    "🔸general-chat": 32,
-    "🔸邀请码互助┊swap-invitation-codes": 3,
-    "🔸game-question": 135,
     "🔸游戏问题": 2,
-    "🔸机器人命令┊bot-commands": 10,
     "这个下载速度": 1,
     "Base tentacle damage doesnt increase with Max Health": 2,
     "Propagation caro needs a rework/buff": 1,
@@ -33,18 +47,12 @@
     "Divine Realms, Aliemus Costs and other Future Worries": 1,
     "Quadra / 4-Realm Rerun Banners": 3,
     "Please rework how Propagation Caro works for the future units": 1,
-    "V2.5.1.0 停服维护公告": 3,
     "Preview: V2.6.X Exchange Stores, Covenant Bonding & Affinity": 1,
-    "Keeper OC? Keeper OC": 1,
     "MC (OC) & Saya!": 1,
     "Thais Doodle": 1,
     "Happy Birthday Tulu": 1,
-    "📜 V2.6.0 版本前瞻┊Version Outlook┊버전 미리보기": 4,
     "🎬 V2.6.0 概念PV「无愿的尖峰」┊PV - Summit of Voided Wills┊PV『공허한 설산의 정상』": 2,
-    "V2.6.0 卡拉布✦唤醒体&命轮介绍┊Caraboo✦Awakener & Wheel of Destiny Introduction┊카라부✦각성체 & 명륜 소개": 2,
-    "68等帳號資源規劃請益": 1,
     "剛入坑想問一下配隊😭": 1,
-    "請教 融災隊伍及密契": 1,
     "🔸晒卡分享": 1,
     "🔸한국어-채팅방": 3,
     "摸魚 放點塗鴉✍️": 2,
@@ -53,18 +61,37 @@
     "Kill stealing, we could fix it": 2
   },
   "hourly_activity": {
+    "3": 464,
+    "4": 722,
+    "5": 1003,
+    "6": 745,
     "1": 670,
     "2": 660,
-    "3": 384,
     "0": 367
   },
   "message_types": {
-    "0": 1412,
-    "19": 659,
-    "20": 9,
+    "19": 1431,
+    "0": 3186,
+    "20": 13,
     "23": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1540596121985089617",
+      "channel_id": "1170692781216378960",
+      "content": "did they remove my reacts lmao",
+      "author": "serahh__",
+      "reactions": 20,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540604075500900442",
+      "channel_id": "1170692781216378960",
+      "content": "If you spam reacts again you stink",
+      "author": "leviathxan",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1540531419405615185",
       "channel_id": "1131839817982947429",
@@ -82,11 +109,67 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1540597116336996353",
+      "channel_id": "1170692781216378960",
+      "content": "If I could roll like this on all my pieces...",
+      "author": "syro_k",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540603854096437320",
+      "channel_id": "1170692781216378960",
+      "content": "Upgrade meaning easier?",
+      "author": "angbak",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1540564895035031642",
       "channel_id": "1170692781216378960",
       "content": "𝚃𝚏 𝚕𝚒𝚕𝚢 𝚍𝚘𝚒𝚗𝚐 𝚝𝚑𝚎𝚛𝚎",
       "author": "hollow_xhk",
       "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540568263262609541",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "polkarain",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1540584273697054771",
+      "channel_id": "1131839817982947429",
+      "content": "圖黑的是已經滿了",
+      "author": "fon_tain",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1540584766997270608",
+      "channel_id": "1131839874132090890",
+      "content": "這期體感一二波水溫沒上期高\n神鯨4費bug修復有感 道中常常差點\n接下來出兩隊會少5分 不能逃課了<:Horla_cry:1357186646294138890",
+      "author": "cpu7954",
+      "reactions": 4,
+      "channel": "🔸阵容构建"
+    },
+    {
+      "id": "1540574496790937751",
+      "channel_id": "1170692781216378960",
+      "content": "https://klipy.com/gifs/private-70",
+      "author": "2ndselna",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540603628602261534",
+      "channel_id": "1170692781216378960",
+      "content": "https://klipy.com/gifs/eat-cat-like-burger",
+      "author": "leviathxan",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -130,100 +213,28 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1540533728684544064",
+      "id": "1540597701497069590",
       "channel_id": "1170692781216378960",
-      "content": "https://cdn.discordapp.com/attachments/1170692781216378960/1538336777935265792/b",
-      "author": "corvim",
+      "content": "Blue red!",
+      "author": "shanhaijingactivist",
       "reactions": 3,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1540560598637482084",
+      "id": "1540597988051652639",
       "channel_id": "1170692781216378960",
-      "content": "I will NOT mess up the next one",
+      "content": "?afk asleep but if u have any questions or concerns please spam <@75539927326012",
       "author": "serahh__",
       "reactions": 3,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1540546764136783883",
-      "channel_id": "1181152750319456266",
-      "content": "我已经坐在哑谜身上了",
-      "author": "ponponnyaru",
+      "id": "1540598729793601646",
+      "channel_id": "1300659603993923644",
+      "content": "May quá mình whale",
+      "author": "anicillia",
       "reactions": 3,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1540547094635618394",
-      "channel_id": "1181152750319456266",
-      "content": "本可已经进化出贝塔了",
-      "author": "ponponnyaru",
-      "reactions": 3,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1540523907138982029",
-      "channel_id": "1400749543288475770",
-      "content": "All good! I'll look into everything you've told me tysm",
-      "author": "xefii",
-      "reactions": 3,
-      "channel": "🔸team-building"
-    },
-    {
-      "id": "1540545435163304047",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "abhartach_0",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1540545572044537947",
-      "channel_id": "1131839817982947429",
-      "content": "這張超好看的說",
-      "author": "abhartach_0",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1540534339844968558",
-      "channel_id": "1170692781216378960",
-      "content": "I love her wheel of destiny",
-      "author": "palebloodoll",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540540253775986778",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "not_blueberry",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540549753341874206",
-      "channel_id": "1170692781216378960",
-      "content": "angbak mode",
-      "author": "at.se",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540560142959906887",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "serahh__",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540562049648824401",
-      "channel_id": "1170692781216378960",
-      "content": "Wait I lowk love u for that",
-      "author": "serahh__",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
+      "channel": "🔸phòng-chat-tiếng-việt"
     }
   ]
 }
