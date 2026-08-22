@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
-  "archived_at": "2026-08-22T18:27:13.129266+00:00",
+  "archived_at": "2026-08-22T21:20:27.972354+00:00",
   "source": "bahamut",
-  "item_count": 20,
+  "item_count": 21,
   "items": [
     {
       "title": "【閒聊】+12銀芯通訊分享(尚缺：墨菲、皮克曼)",
@@ -260,6 +260,19 @@
       "engagement": 5,
       "is_hot": false,
       "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【創作】【BanGDream!】螢 技能卡、命輪與鑰令",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-22T21:19:32.939734+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1547&tnum=1",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "mimmy170",
       "tags": [],
       "lang": "zh",
       "platform_region": "tw"

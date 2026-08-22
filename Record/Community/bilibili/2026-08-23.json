@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-23",
+  "archived_at": "2026-08-22T21:20:27.973157+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "明明是由黄瓜组成的怪物，在我眼中却是美丽的少女",
+      "summary": "原文案：@动漫从业者厷\n  └ 揽境菱 (1赞): 时·阴·期·下",
+      "source": "bilibili",
+      "time": "2026-08-22T18:36:47+00:00",
+      "url": "https://www.bilibili.com/video/BV1a68U6NEfg",
+      "engagement": 60,
+      "is_hot": false,
+      "author": "坂乔霜",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 58,
+        "comment_count": 2,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/b071396d50eb1d85374af54c5285f3385b99dfca.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    }
+  ]
+}
