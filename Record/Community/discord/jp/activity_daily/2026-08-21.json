@@ -1,11 +1,11 @@
 {
   "date": "2026-08-21",
-  "messages": 530,
+  "messages": 542,
   "unique_authors": 49,
-  "reactions_total": 244,
-  "attachments": 74,
+  "reactions_total": 251,
+  "attachments": 79,
   "channel_activity": {
-    "なんでも雑談": 375,
+    "なんでも雑談": 387,
     "誰でもOKグロ版野次馬スレ": 4,
     "🔰初心者質問": 41,
     "誰でも質問": 19,
@@ -19,6 +19,8 @@
     "繁殖熱狂話題スレ": 5
   },
   "hourly_activity": {
+    "22": 6,
+    "23": 6,
     "20": 18,
     "21": 1,
     "1": 4,
@@ -43,7 +45,7 @@
     "0": 4
   },
   "message_types": {
-    "0": 461,
+    "0": 473,
     "19": 69
   },
   "top_reacted_messages": [
@@ -109,6 +111,14 @@
       "content": "お疲れ様でした",
       "author": "ecstasyrb",
       "reactions": 6,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1540488239042003008",
+      "channel_id": "1377478664609857647",
+      "content": "",
+      "author": "kuroneko4253",
+      "reactions": 5,
       "channel": "なんでも雑談"
     },
     {
@@ -197,14 +207,6 @@
       "content": "星辰科への受診をお勧めします",
       "author": "yasaizujusu",
       "reactions": 4,
-      "channel": "なんでも雑談"
-    },
-    {
-      "id": "1540250772690698240",
-      "channel_id": "1377478664609857647",
-      "content": "融災2並Ⅲ級の精鋭戦",
-      "author": "yamaiame_ql4",
-      "reactions": 3,
       "channel": "なんでも雑談"
     }
   ]
