@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-22T06:37:01.508731+00:00",
+  "archived_at": "2026-08-22T09:26:08.333824+00:00",
   "source": "bilibili",
-  "item_count": 6,
+  "item_count": 9,
   "items": [
     {
       "title": "[忘却前夜]8月到9月的一个版本前瞻，卡拉布24号上线，新命轮魂灵同调，三相池角色复刻（地瓜、福袋、诞墨），新机制灵肉同调，专属秘契同步上线，补一个二百芯兑换码",
@@ -74,6 +74,52 @@
       "platform_region": "cn"
     },
     {
+      "title": "鲁铎尔笑传之拷打沙耶",
+      "summary": "十分的新鲜 十分的美味\n  └ 奈特卡普 (0赞): 何意味。",
+      "source": "bilibili",
+      "time": "2026-08-22T06:21:38+00:00",
+      "url": "https://www.bilibili.com/video/BV1SV8C67EZi",
+      "engagement": 40,
+      "is_hot": false,
+      "author": "CHUo2",
+      "tags": [
+        "电子竞技"
+      ],
+      "metadata": {
+        "play": 39,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/954c445e66bdf81d23b540da79c1f934b93fe6e0.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "明明是由无数薯条和吉他孕育出的怪物，在我眼中却是美丽的少女",
+      "summary": "-\n  └ 赞赞小猫z (1赞): 好有趣的灵感🌚\n  └ 不正常の杰-秽土转生 (1赞): [元祖表情包_期待][元祖表情包_好的]\n[Pastel Palettes 静态表情包_冲啊][Roselia表情包_开心]\n  └ 青葉M0CA (1赞): 你赢了，你的灵感小众又变态",
+      "source": "bilibili",
+      "time": "2026-08-22T06:52:16+00:00",
+      "url": "https://www.bilibili.com/video/BV1QX816bEP5",
+      "engagement": 21,
+      "is_hot": false,
+      "author": "启午0108",
+      "tags": [
+        "同人·手书"
+      ],
+      "metadata": {
+        "play": 15,
+        "comment_count": 6,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/62b520d739abba9cdcacc963fb296b38eb5197c4.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "天使还是怪物？🪽✨️ 让我们为你唱首摇篮曲🐾",
       "summary": "请欣赏我们最新翻唱的《沙耶之歌》🌱✨️ ▶ https://www.youtube.com/watch?v=DgJ_H93D5_U \n\n🩵 FUWAMOCO 最新单曲《Mekurumeku Rendezvous》🩷 电视动画《重生为自动售货机，现在在地下城漫游 第三季》片尾曲 电视动画《重生为自动售货机，现在在地下城漫游 第三季》片尾曲《Mekurumeku Rendezvous》 快来看看我们的动画MV吧！https://www.youtube.com/watch?v=vSwxof0K8lk \n✨️正在",
       "source": "bilibili",
@@ -138,6 +184,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/696d605831bfd36b34ff3cb8ebac2313fcf005cf.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "视觉小说为何如此迷人：远不止于文字与选项【中字】",
+      "summary": "https://www.youtube.com/@CuriousInLCL\n视觉小说是给怪人看的。\n\nPatreon：https://www.patreon.com/c/CuriousInLCL\n音乐合作频道：https://www.youtube.com/@bl1sswav\n第二频道：@curiousarchive-s4p\n──────────────────────\n时间轴：\n\n00:00 - 开场\n02:25 - 第一部分：追溯性文化\n7:59 - 第二部分：神秘媒介 X\n21:47 - 结语\n──",
+      "source": "bilibili",
+      "time": "2026-08-22T09:23:50+00:00",
+      "url": "https://www.bilibili.com/video/BV1NW816JECW",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "StuG_III",
+      "tags": [
+        "动漫杂谈"
+      ],
+      "metadata": {
+        "play": 0,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/0f6e216b3395065d5a5c16b8e89ffff331b80e10.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

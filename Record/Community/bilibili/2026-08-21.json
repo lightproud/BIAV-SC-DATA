@@ -1,8 +1,8 @@
 {
   "date": "2026-08-21",
-  "archived_at": "2026-08-22T06:37:01.506461+00:00",
+  "archived_at": "2026-08-22T09:26:08.331130+00:00",
   "source": "bilibili",
-  "item_count": 26,
+  "item_count": 27,
   "items": [
     {
       "title": "忘却前夜丨概念PV「无愿的尖峰」（CV：钉宫理惠）",
@@ -368,6 +368,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/f5141f4305ae970a9df18bd3cca6e737e811aef9.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "展示可定制",
+      "summary": "-\n  └ 潮汐饭泥 (0赞): 肉块可爱捏[Ave Mujica_开心][Ave Mujica_开心]",
+      "source": "bilibili",
+      "time": "2026-08-21T12:47:17+00:00",
+      "url": "https://www.bilibili.com/video/BV1eq8z6LEJT",
+      "engagement": 131,
+      "is_hot": false,
+      "author": "쥐쥐쥐쥐쥐",
+      "tags": [
+        "搞笑"
+      ],
+      "metadata": {
+        "play": 130,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/56a417dce6915b57a0de3bebfad5244f8a308c65.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

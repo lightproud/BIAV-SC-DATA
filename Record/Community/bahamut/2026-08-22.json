@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-22T06:37:01.509187+00:00",
+  "archived_at": "2026-08-22T09:26:08.334509+00:00",
   "source": "bahamut",
-  "item_count": 23,
+  "item_count": 24,
   "items": [
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
@@ -299,6 +299,19 @@
       "engagement": 5,
       "is_hot": false,
       "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【問題】沙耶和SP蘿坦要幾命才能用?",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-22T09:25:08.641439+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1545&tnum=1",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "drt23r4",
       "tags": [],
       "lang": "zh",
       "platform_region": "tw"

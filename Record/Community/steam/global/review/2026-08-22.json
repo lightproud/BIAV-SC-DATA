@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-22T06:37:01.543978+00:00",
+  "archived_at": "2026-08-22T09:26:08.389745+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] 好玩好玩好玩好玩好玩\r\n类似杀戮尖塔",
@@ -70,6 +70,30 @@
         "playtime_forever": 4039,
         "votes_up": 0,
         "timestamp_created": 1787365626
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 지속적으로 발전하는 게임 앞으로 지켜보고 싶은 게임",
+      "summary": "지속적으로 발전하는 게임 앞으로 지켜보고 싶은 게임",
+      "source": "steam_review",
+      "time": "2026-08-22T07:46:10+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198333442550/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198333442550",
+      "tags": [
+        "koreana"
+      ],
+      "language": "koreana",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 12511,
+        "votes_up": 0,
+        "timestamp_created": 1787384770
       },
       "region": "global",
       "archive_subtype": "review",
