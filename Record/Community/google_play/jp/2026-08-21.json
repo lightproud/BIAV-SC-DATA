@@ -1,8 +1,8 @@
 {
   "date": "2026-08-21",
-  "archived_at": "2026-08-22T12:34:54.549264+00:00",
+  "archived_at": "2026-08-22T15:19:41.368490+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 差评] ★1 対人戦が運ゲーすぎてつまらない",
@@ -13,6 +13,20 @@
       "engagement": 2,
       "is_hot": false,
       "author": "ピカチュウ",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "jp",
+      "region": "jp"
+    },
+    {
+      "title": "[Google Play 好评] ★5 『異次元の色彩』モチーフのキャラが居る時点で避けがたし",
+      "summary": "『異次元の色彩』モチーフのキャラが居る時点で避けがたし",
+      "source": "google_play",
+      "time": "2026-08-21T12:35:49",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-b0f103b9-0ad1-4ecb-9596-15cc19ca9144",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "瀬良まどか",
       "tags": [],
       "lang": "ja",
       "platform_region": "jp",

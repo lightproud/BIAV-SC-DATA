@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-22T12:34:54.568894+00:00",
+  "archived_at": "2026-08-22T15:19:41.388079+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[正面] 好玩好玩好玩好玩好玩\r\n类似杀戮尖塔",
@@ -94,6 +94,30 @@
         "playtime_forever": 12511,
         "votes_up": 0,
         "timestamp_created": 1787384770
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 好玩",
+      "summary": "好玩",
+      "source": "steam_review",
+      "time": "2026-08-22T13:17:33+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199786534536/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199786534536",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 233,
+        "votes_up": 0,
+        "timestamp_created": 1787404653
       },
       "region": "global",
       "archive_subtype": "review",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-22T12:34:54.494400+00:00",
+  "archived_at": "2026-08-22T15:19:41.315687+00:00",
   "source": "youtube",
-  "item_count": 11,
+  "item_count": 13,
   "items": [
     {
       "title": "[Morimens] 2.6.0 Patch Notes Overview : Best Rerun Banner, MORE JP CHANGES, and Skin Gacha incoming",
@@ -51,6 +51,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/33ag7-c796s/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens - Próximos eventos V2.6.0",
+      "summary": "No olviden unirse a el discord :) https://discord.gg/UgmMCae3Sg.",
+      "source": "youtube",
+      "time": "2026-08-22T14:00:05Z",
+      "url": "https://www.youtube.com/watch?v=eZMxd1kZ1kE",
+      "engagement": 43,
+      "is_hot": false,
+      "author": "OcteKG",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/eZMxd1kZ1kE/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -119,6 +136,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/OWraT1KqIQA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Analisi Caraboo e Versione 2.6.0",
+      "summary": "Ciao ragazzi! In questo video vi spiego tutte le novità in arrivo con la versione 2.6.0, compreso il nuovo awakener Caraboo!",
+      "source": "youtube",
+      "time": "2026-08-22T13:54:33Z",
+      "url": "https://www.youtube.com/watch?v=-gXjNRys634",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "MASTERGIGI",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/-gXjNRys634/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

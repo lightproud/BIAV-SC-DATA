@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-22T12:34:54.493637+00:00",
+  "archived_at": "2026-08-22T15:19:41.314942+00:00",
   "source": "bilibili",
-  "item_count": 10,
+  "item_count": 11,
   "items": [
     {
       "title": "[忘却前夜]8月到9月的一个版本前瞻，卡拉布24号上线，新命轮魂灵同调，三相池角色复刻（地瓜、福袋、诞墨），新机制灵肉同调，专属秘契同步上线，补一个二百芯兑换码",
@@ -23,6 +23,29 @@
         "danmaku": 4
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/67a44c201602991e6aa2be82b4599a2c2b37f64b.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "￴",
+      "summary": "@t0uchmyh3art\n  └ 博逝 (1赞): [香奈美·追寻那道光 应援装扮_wink]\n  └ Sayo_i (1赞): 好喜欢。。\n  └ 一只间宫汐 (0赞): @一佳不大",
+      "source": "bilibili",
+      "time": "2026-08-22T07:30:37+00:00",
+      "url": "https://www.bilibili.com/video/BV1AY816VEut",
+      "engagement": 405,
+      "is_hot": false,
+      "author": "殘響404",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 402,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/7adb0b95fd0cc53255549c1bc51c5a684e9230b8.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
