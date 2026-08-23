@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
-  "archived_at": "2026-08-22T21:20:27.974137+00:00",
+  "archived_at": "2026-08-23T01:12:44.428534+00:00",
   "source": "youtube",
-  "item_count": 2,
+  "item_count": 5,
   "items": [
     {
       "title": "[Morimens] 3 lesser known game mechanics and tips",
@@ -22,6 +22,40 @@
       "archive_subtype": "video"
     },
     {
+      "title": "[🔴] LIVE📌STORY NYA BANYAK YA - MORIMENS",
+      "summary": "livestream #viral #games #morimens subcriber : https://www.youtube.com/@DvloopGV Join Discord ...",
+      "source": "youtube",
+      "time": "2026-08-22T22:59:04Z",
+      "url": "https://www.youtube.com/watch?v=74M2MpMHR8s",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Dvloop GV",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/74M2MpMHR8s/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Realm Mastery effects and usefulness",
+      "summary": "Chapters: 0:00 Intro 0:41 Aequor Realm 4:14 Divine Aequor Realm 6:36 Caro Realm 8:03 Ultra Realm 10:44 Propogation Caro ...",
+      "source": "youtube",
+      "time": "2026-08-23T00:16:39Z",
+      "url": "https://www.youtube.com/watch?v=JyVbUGHLxAc",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "kizunoV",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/JyVbUGHLxAc/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "[Morimens] The problems with PCaro and what I think the fix is",
       "summary": "",
       "source": "youtube",
@@ -34,6 +68,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/4eE2pWh_S-I/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Forgetting Isn&#39;t The End",
+      "summary": "Vtuber #VtuberEN #malevtuber #vstreamer #smallstreamer #gaming #morimens.",
+      "source": "youtube",
+      "time": "2026-08-22T22:18:46Z",
+      "url": "https://www.youtube.com/watch?v=qIRhpdfSOOs",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "BreadRuin",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/qIRhpdfSOOs/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
