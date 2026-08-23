@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-23T01:12:44.425059+00:00",
+  "archived_at": "2026-08-23T03:49:35.695645+00:00",
   "source": "bilibili",
-  "item_count": 11,
+  "item_count": 13,
   "items": [
     {
       "title": "[忘却前夜]8月到9月的一个版本前瞻，卡拉布24号上线，新命轮魂灵同调，三相池角色复刻（地瓜、福袋、诞墨），新机制灵肉同调，专属秘契同步上线，补一个二百芯兑换码",
@@ -69,6 +69,52 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/2fc6f3c952ccdb18825c1778ef777febdb96bd08.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "ㅤㅤㅤ",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-22T13:24:02+00:00",
+      "url": "https://www.bilibili.com/video/BV1KS826nEui",
+      "engagement": 138,
+      "is_hot": false,
+      "author": "间宫卓司believer",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 138,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/a4764d292ad450f76a123046fcc00be38b72fae5.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "沙耶之歌实况1:满是血肉的世界？",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-22T10:31:43+00:00",
+      "url": "https://www.bilibili.com/video/BV16R8y6uEnW",
+      "engagement": 103,
+      "is_hot": false,
+      "author": "爱玩游戏的小新哦",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 103,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/69fffe63dbd0e040da1edadf51844584ec48d3c3.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

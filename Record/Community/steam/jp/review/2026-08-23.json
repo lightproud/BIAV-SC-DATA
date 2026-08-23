@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-23",
+  "archived_at": "2026-08-23T03:49:35.755349+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[正面] おもろー",
+      "summary": "おもろー",
+      "source": "steam_review",
+      "time": "2026-08-23T02:27:07+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198829826584/recommended/4226130",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198829826584",
+      "tags": [
+        "japanese"
+      ],
+      "language": "japanese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 447,
+        "votes_up": 0,
+        "timestamp_created": 1787452027
+      },
+      "region": "jp",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] Morimensと忘却前夜という2つのバージョンが存在しますが、日本語版である忘却前夜はあらゆる要素...",
+      "summary": "Morimensと忘却前夜という2つのバージョンが存在しますが、日本語版である忘却前夜はあらゆる要素が弱体化されており、かつストーリーやキャラ実装も遅れていますので、プレイフィールとしてもMorimensの方がオススメです。",
+      "source": "steam_review",
+      "time": "2026-08-22T23:02:08+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198119988668/recommended/4226130",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198119988668",
+      "tags": [
+        "japanese"
+      ],
+      "language": "japanese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 3803,
+        "votes_up": 0,
+        "timestamp_created": 1787439728
+      },
+      "region": "jp",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "jp",
+  "content_subtype": "review"
+}

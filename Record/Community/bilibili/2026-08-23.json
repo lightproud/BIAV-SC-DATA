@@ -1,9 +1,32 @@
 {
   "date": "2026-08-23",
-  "archived_at": "2026-08-23T01:12:44.427913+00:00",
+  "archived_at": "2026-08-23T03:49:35.698744+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
+    {
+      "title": "在充满大便的世界里活下去吧",
+      "summary": "美好 不是吗\n  └ 罗兰J0 (0赞): 蓝人之歌\n  └ ys最强道具 (0赞): [呲牙]",
+      "source": "bilibili",
+      "time": "2026-08-23T02:47:12+00:00",
+      "url": "https://www.bilibili.com/video/BV1TA8x6wER4",
+      "engagement": 158,
+      "is_hot": false,
+      "author": "海马O_o",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 156,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/e8a87d9dea1046195cf4a2b3b9ca9e03b8964e98.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "明明是由黄瓜组成的怪物，在我眼中却是美丽的少女",
       "summary": "原文案：@动漫从业者厷\n  └ 揽境菱 (1赞): 时·阴·期·下",

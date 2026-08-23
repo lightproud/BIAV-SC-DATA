@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
-  "archived_at": "2026-08-23T01:12:44.428534+00:00",
+  "archived_at": "2026-08-23T03:49:35.699464+00:00",
   "source": "youtube",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "[Morimens] 3 lesser known game mechanics and tips",
@@ -85,6 +85,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/qIRhpdfSOOs/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] 2.6.0 Story Chapters + Caraboo Testing",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-23T01:20:55Z",
+      "url": "https://www.youtube.com/watch?v=dw_vfs2y3FE",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "kizunoV",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/dw_vfs2y3FE/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
