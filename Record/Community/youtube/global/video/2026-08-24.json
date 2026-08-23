@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-24",
+  "archived_at": "2026-08-23T18:26:13.554047+00:00",
+  "source": "youtube",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "🔞 Peak story time again :3 - Morimens",
+      "summary": "Peak story time again :3 Links https://www.twitch.tv/eepyghost https://discord.gg/2hn75MB2zf https://twitter.com/eepyghostie.",
+      "source": "youtube",
+      "time": "2026-08-23T17:15:46Z",
+      "url": "https://www.youtube.com/watch?v=CUknlRP8u-0",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "eepyghost",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/CUknlRP8u-0/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Eclipsium - Full Playthrough",
+      "summary": "I decided to try Eclipsium. This is an incredible journey of grief and trauma woven through a darkly beautiful world. I cannot stop ...",
+      "source": "youtube",
+      "time": "2026-08-23T18:00:20Z",
+      "url": "https://www.youtube.com/watch?v=7gco_IZHy20",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Nechromicon-VOD",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/7gco_IZHy20/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Chapter 1-10",
+      "summary": "OLDtaku Plays Anime Games https://www.twitch.tv/howjududat/ https://discord.gg/FB3Ck2Qq #HonkaiStarRail #HonkaiImpact ...",
+      "source": "youtube",
+      "time": "2026-08-23T16:00:00Z",
+      "url": "https://www.youtube.com/watch?v=mboVqGWU08s",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "HowJuDuDat Gaming",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/mboVqGWU08s/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "video"
+}

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
-  "archived_at": "2026-08-23T15:21:14.998424+00:00",
+  "archived_at": "2026-08-23T18:26:13.579055+00:00",
   "source": "steam",
-  "item_count": 7,
+  "item_count": 9,
   "items": [
     {
       "title": "[正面] S'fun",
@@ -166,6 +166,54 @@
         "playtime_forever": 2272,
         "votes_up": 0,
         "timestamp_created": 1787487377
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Sayaaa",
+      "summary": "Sayaaa",
+      "source": "steam_review",
+      "time": "2026-08-23T15:19:58+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199175348890/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199175348890",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 408,
+        "votes_up": 0,
+        "timestamp_created": 1787498398
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 比卡厄斯强",
+      "summary": "比卡厄斯强",
+      "source": "steam_review",
+      "time": "2026-08-23T14:35:33+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198939232963/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198939232963",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 556,
+        "votes_up": 0,
+        "timestamp_created": 1787495733
       },
       "region": "global",
       "archive_subtype": "review",

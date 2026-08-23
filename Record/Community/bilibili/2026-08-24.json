@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-24",
+  "archived_at": "2026-08-23T18:26:13.528193+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "套啥拿啥",
+      "summary": "-\n  └ -昆扬 (0赞): [魔法少女的魔女审判表情包_哦吼吼]\n  └ 小龙猫大能力 (0赞): 好可爱[微笑]",
+      "source": "bilibili",
+      "time": "2026-08-23T16:57:58+00:00",
+      "url": "https://www.bilibili.com/video/BV1PH886vEEQ",
+      "engagement": 10,
+      "is_hot": false,
+      "author": "小龙猫大能力",
+      "tags": [
+        "动画综合"
+      ],
+      "metadata": {
+        "play": 8,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/6df96b177976fc2186b7a651248918dca612b23d.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    }
+  ]
+}
