@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-22T03:41:49.434178+00:00",
+  "archived_at": "2026-08-23T12:36:27.362630+00:00",
   "source": "reddit",
-  "item_count": 13,
+  "item_count": 17,
   "items": [
     {
       "title": "Awakeners by @age_maky",
@@ -217,6 +217,76 @@
       "engagement": 0,
       "is_hot": false,
       "author": "/u/Br4vus",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Sylvester is tired.. by @pushucchi24",
+      "summary": "&#32; submitted by &#32;  /u/OneThanks3   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-22T15:48:11+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vvfurs/sylvester_is_tired_by_pushucchi24/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/OneThanks3",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/278v173d6ykh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2899dd065b59bfb0529133dd46e30c8e07338ead",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "How do I remove the exclamation‼️ sign?",
+      "summary": "On mouchette  &#32; submitted by &#32;  /u/JugantaSaha   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-22T12:56:16+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vvbqpg/how_do_i_remove_the_exclamation_sign/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/JugantaSaha",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/chblnfuwbxkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae1d205d53ccd8290035d99f95e20dbf04b41c69",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Any advice on who to pull? (New-ish player)",
+      "summary": "So, I started playing like a month ago when I randomly discovered the game and have just been messing around. Looking for advice on who to pull next to round out my rosters. I was thinking of pulling gmurphy in the upcoming patch too.  &#32; submitted by &#32;  /u/Mguy94   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-22T14:14:38+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vvdk9l/any_advice_on_who_to_pull_newish_player/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/Mguy94",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/cor7tplpoxkh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=20fe975039e26b7b7433bf17a0fe952ca1013e81",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Porada",
+      "summary": "Witam wszystkich.  Gram od nie dawna i jestem nowym graczem i chciałabym się zapytać czy postać Saya potrzebuje swojej karty WoD czy można ją zastąpić jakąś inną i czy potrzebuje E1 do funkcjonowania? Czytałam różne posty i zdania są podzielone jedni mówią, że nie potrzebuje inni , że potrzebuje.  Chciałam także zapytać czy obecne banery są warte summonowania i wydawania tych kryształów czy lepiej je zostawić na kolejny bo słyszałam, że ma w poniedziałek wejść nowy z dość dobrą postacią.  Dziękuję za porady i pozdrawiam. 😊  &#32; submitted by &#32;  /u/Agatka0   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-22T14:47:58+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vvecye/porada/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/Agatka0",
       "tags": [],
       "metadata": {
         "via": "rss"

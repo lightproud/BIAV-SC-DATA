@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-23T09:26:39.128936+00:00",
+  "archived_at": "2026-08-23T12:36:27.445053+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 Grandioso juego, el gameplay es súper di",
@@ -13,6 +13,34 @@
       "engagement": 0,
       "is_hot": false,
       "author": "J Pimentel",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Very nice game! Can't wait for future up",
+      "summary": "Very nice game! Can't wait for future updates!",
+      "source": "google_play",
+      "time": "2026-08-22T12:30:55",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-a30f8a2f-3764-4501-9cab-bda44984228f",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Hune Linus",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 no words to say just.....\"PERFECT\"👌👌👌 PL",
+      "summary": "no words to say just.....\"PERFECT\"👌👌👌 PLEASE GIVE ME MORE CHARACTERS I ENJOY THE GAME.🤣🤣🤣",
+      "source": "google_play",
+      "time": "2026-08-22T10:53:49",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-b187a335-4be3-4756-abbe-9c6108fdf510",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Xcbxeno Sabban",
       "tags": [],
       "lang": "en",
       "platform_region": "us",
