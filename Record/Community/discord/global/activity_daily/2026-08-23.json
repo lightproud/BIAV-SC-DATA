@@ -1,0 +1,193 @@
+{
+  "date": "2026-08-23",
+  "messages": 1563,
+  "unique_authors": 73,
+  "reactions_total": 88,
+  "attachments": 56,
+  "channel_activity": {
+    "🔸綜合討論": 6,
+    "🔸morimens-game-chat": 697,
+    "🔸한국어-채팅방": 1,
+    "🔸chaîne-française": 105,
+    "🔸русский-канал": 14,
+    "🔸canal-português": 1,
+    "🔸ruang-obrolan-indonesia": 12,
+    "🔸traphase": 12,
+    "🔸team-building": 1,
+    "🔸general-chat": 366,
+    "🔸game-question": 343,
+    "🔸机器人命令┊bot-commands": 4,
+    "Please rework how Propagation Caro works for the future units": 1
+  },
+  "hourly_activity": {
+    "0": 1035,
+    "1": 528
+  },
+  "message_types": {
+    "0": 1118,
+    "19": 443,
+    "20": 2
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1540878448786931732",
+      "channel_id": "1170692781216378960",
+      "content": "faint moment",
+      "author": "nirski",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540877965263638609",
+      "channel_id": "1433513650299076780",
+      "content": "im sure some people enjoy cool big sister on fire trope",
+      "author": "lithanor",
+      "reactions": 3,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1540875080979058739",
+      "channel_id": "1170692781216378960",
+      "content": "will probably wait til Pandia AA before resetting her <:Helot_slack_off:14590921",
+      "author": "mythicmoonwort",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540875941490991104",
+      "channel_id": "1170692781216378960",
+      "content": "Sorry, any excuse to show them off",
+      "author": "zicma",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540892964094484540",
+      "channel_id": "1170692781216378960",
+      "content": "R99?",
+      "author": "angbak",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540875955671801857",
+      "channel_id": "1300659552701648960",
+      "content": "je t'entends pas, je vais quand même l'emmener en dtide",
+      "author": "katal",
+      "reactions": 2,
+      "channel": "🔸chaîne-française"
+    },
+    {
+      "id": "1540890726026580019",
+      "channel_id": "1400750050208125010",
+      "content": "i like churros",
+      "author": "4lunakin",
+      "reactions": 2,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1540893671149539339",
+      "channel_id": "1400750050208125010",
+      "content": "he got the chance to work on the most pathetic yearner of all time",
+      "author": "bocchi_the_raf",
+      "reactions": 2,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1540879920979386459",
+      "channel_id": "1433513650299076780",
+      "content": "just got thais to 15",
+      "author": "lithanor",
+      "reactions": 2,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1540873204829130863",
+      "channel_id": "1170692781216378960",
+      "content": "cat creature good...",
+      "author": "princess.goth",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540874674026709122",
+      "channel_id": "1170692781216378960",
+      "content": "finally feeling fomo over not having AA...",
+      "author": "nirski",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540875100285309059",
+      "channel_id": "1170692781216378960",
+      "content": "need my triangles",
+      "author": "mythicmoonwort",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540875288509030481",
+      "channel_id": "1170692781216378960",
+      "content": "you also get a pyramid from it",
+      "author": "princess.goth",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540875423859220480",
+      "channel_id": "1170692781216378960",
+      "content": "i did not know this i've never talked to any of my characters",
+      "author": "skvr3",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540875497049956402",
+      "channel_id": "1170692781216378960",
+      "content": "one of my friends has the cutest cat I've ever seen it makes me so jealous",
+      "author": "korndog789",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540875710749737052",
+      "channel_id": "1170692781216378960",
+      "content": "if you AA them they are guarenteed dialogue",
+      "author": "princess.goth",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540876108969279528",
+      "channel_id": "1170692781216378960",
+      "content": "just that if you dont care about the convos",
+      "author": "princess.goth",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540877263749382144",
+      "channel_id": "1170692781216378960",
+      "content": "Funny counter gaming",
+      "author": "mythicmoonwort",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540877985446629517",
+      "channel_id": "1170692781216378960",
+      "content": "angbak loved to dr cheese always regardless of character",
+      "author": "princess.goth",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540878102366912602",
+      "channel_id": "1170692781216378960",
+      "content": "man just loves dying",
+      "author": "nirski",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
