@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
-  "archived_at": "2026-08-23T12:36:27.282607+00:00",
+  "archived_at": "2026-08-23T15:21:14.914605+00:00",
   "source": "youtube",
-  "item_count": 15,
+  "item_count": 17,
   "items": [
     {
       "title": "Song of Memento - Русский кавер - Morimens x Saya no Uta - riguruma",
@@ -22,6 +22,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "The FUTURE of Morimens: The Yappening of Caraboo, Banners, D-Tide changes and Arc 3?!",
+      "summary": "This'll be another Sunday live recording/yappening stream where I may or may not repackage and edit some of the more salient ...",
+      "source": "youtube",
+      "time": "2026-08-23T13:37:01Z",
+      "url": "https://www.youtube.com/watch?v=KHXtjNf2REk",
+      "engagement": 226,
+      "is_hot": false,
+      "author": "Rose Guardian Reya",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/KHXtjNf2REk/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "新キャラと新札ゲッツ#suzumenotojimari #新キャラ #忘却前夜 #ショート",
       "summary": "忘却前夜 #ガチャ #ソシャゲ #ショート #shorts.",
       "source": "youtube",
@@ -34,6 +51,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/SsFwObmVxnY/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "IDK What&#39;s Happening... #morimens",
+      "summary": "The Rebirth mechanic really threw me for a loop....This is a moment from my first attempt at the Train - Hard (Arcade) in Morimens.",
+      "source": "youtube",
+      "time": "2026-08-23T15:00:22Z",
+      "url": "https://www.youtube.com/watch?v=c1wqATgG0qE",
+      "engagement": 34,
+      "is_hot": false,
+      "author": "Nechromicon-VOD",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/c1wqATgG0qE/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

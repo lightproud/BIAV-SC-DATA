@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
-  "archived_at": "2026-08-23T12:36:27.365048+00:00",
+  "archived_at": "2026-08-23T15:21:14.998424+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] S'fun",
@@ -70,6 +70,102 @@
         "playtime_forever": 7160,
         "votes_up": 0,
         "timestamp_created": 1787465290
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] First off, mfs here are complaining for all the wr...",
+      "summary": "First off, mfs here are complaining for all the wrong reasons, they geniunely play this like a regular gacha where power is king and you have to be better than everyone else, so here how not be giga gamer elite if you want:\n\n1. The game is extremely generous and you can get characters very easily, even if you didn't save up for them beforehand,\n\n2. While each character have 3 main upgrade and 12 notch, you does not need them all, even at at 1 they provide everything needed about the character, and 3 copy is extremely easy to get, the game give you so much gems to roll you won't even notice.\n\n3. What does the uprgade these guys keep crying about?, 3 are actual gameplay mechanic, the other are literally just bonus, from 4 to 12 are, with the exception of notch 7 and 14, they are ALL small stat buff, 7 is over charge to your ult, this is easy to get and you can reach here pretty easily, and that's about it, 14 gave your ult charge card a buff, you mostly don't need this.\n\n4. Notice how i said you can farm copy, every 10 day the shop refresh and give you a copy for 500 lantern, lantern you get for rolling, this count even for normal pulls which they gave you a shi ton off, literally just play normally and get 1000 of them every ten days, so, if you get unlucky and only roll 1 copy?, 1 month and that unit get to 4, it is that easy.",
+      "source": "steam_review",
+      "time": "2026-08-23T14:00:07+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198341277641/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198341277641",
+      "tags": [
+        "vietnamese"
+      ],
+      "language": "vietnamese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1353,
+        "votes_up": 0,
+        "timestamp_created": 1787493607
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 어려운데 뭔가 굴러감",
+      "summary": "어려운데 뭔가 굴러감",
+      "source": "steam_review",
+      "time": "2026-08-23T13:30:31+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198127225913/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198127225913",
+      "tags": [
+        "koreana"
+      ],
+      "language": "koreana",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2595,
+        "votes_up": 0,
+        "timestamp_created": 1787491831
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 120抽给我一个蚀萝 策划你能绷住吗",
+      "summary": "120抽给我一个蚀萝 策划你能绷住吗",
+      "source": "steam_review",
+      "time": "2026-08-23T12:52:19+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199159158725/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199159158725",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 1779,
+        "votes_up": 0,
+        "timestamp_created": 1787489539
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 劇情頂配，遊戲手感佳，免費\n必須給出登峰造極的評價",
+      "summary": "劇情頂配，遊戲手感佳，免費\n必須給出登峰造極的評價",
+      "source": "steam_review",
+      "time": "2026-08-23T12:16:17+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199227508044/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199227508044",
+      "tags": [
+        "tchinese"
+      ],
+      "language": "tchinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2272,
+        "votes_up": 0,
+        "timestamp_created": 1787487377
       },
       "region": "global",
       "archive_subtype": "review",
