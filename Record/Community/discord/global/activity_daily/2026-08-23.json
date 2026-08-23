@@ -1,34 +1,117 @@
 {
   "date": "2026-08-23",
-  "messages": 1563,
-  "unique_authors": 73,
-  "reactions_total": 88,
-  "attachments": 56,
+  "messages": 2872,
+  "unique_authors": 109,
+  "reactions_total": 197,
+  "attachments": 152,
   "channel_activity": {
-    "🔸綜合討論": 6,
-    "🔸morimens-game-chat": 697,
-    "🔸한국어-채팅방": 1,
-    "🔸chaîne-française": 105,
-    "🔸русский-канал": 14,
-    "🔸canal-português": 1,
-    "🔸ruang-obrolan-indonesia": 12,
-    "🔸traphase": 12,
-    "🔸team-building": 1,
-    "🔸general-chat": 366,
-    "🔸game-question": 343,
-    "🔸机器人命令┊bot-commands": 4,
-    "Please rework how Propagation Caro works for the future units": 1
+    "🔸綜合討論": 21,
+    "🔸morimens-game-chat": 1421,
+    "🔸欢乐梗图": 5,
+    "🔸课间休息闲聊": 5,
+    "🔸한국어-채팅방": 3,
+    "🔸русский-канал": 19,
+    "🔸canal-español": 4,
+    "🔸canal-português": 10,
+    "🔸ruang-obrolan-indonesia": 23,
+    "🔸traphase": 16,
+    "🔸lore-chat": 12,
+    "🔸team-building": 2,
+    "🔸general-chat": 698,
+    "🔸邀请码互助┊swap-invitation-codes": 3,
+    "🔸game-question": 484,
+    "🔸机器人命令┊bot-commands": 7,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 6,
+    "Kill stealing, we could fix it": 2,
+    "希望对新列车进行平衡调整 Request for a train event balance patch": 2,
+    "Are there any plans to fix iOS version of game?": 1,
+    "❓「Not really answered」Lotan: Cetarchon exalt damage number does not line up with the hit animation": 1,
+    "Additional Record Filters": 2,
+    "Please rework how Propagation Caro works for the future units": 8,
+    "V2.5.1.0 停服维护公告": 1,
+    "\"Please Pull Me Now\"": 3,
+    "Lotan: Cetarchon Fanart Submission": 2,
+    "組隊": 1,
+    "請教 融災隊伍及密契": 1,
+    "New Player, advise on pulling and teams": 4,
+    "🔸chaîne-française": 105
   },
   "hourly_activity": {
-    "0": 1035,
-    "1": 528
+    "2": 408,
+    "3": 524,
+    "1": 905,
+    "0": 1035
   },
   "message_types": {
-    "0": 1118,
-    "19": 443,
-    "20": 2
+    "19": 816,
+    "0": 2051,
+    "20": 5
   },
   "top_reacted_messages": [
+    {
+      "id": "1540899226572300288",
+      "channel_id": "1170692781216378960",
+      "content": "If they do the same 24 hour banner for 3.0 anni I will choke a guy",
+      "author": "mythicmoonwort",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540901226714103840",
+      "channel_id": "1170692781216378960",
+      "content": "wha happened to the real kaleido fashionista",
+      "author": "serahh__",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540914596188131348",
+      "channel_id": "1400750050208125010",
+      "content": "issue",
+      "author": "4lunakin",
+      "reactions": 4,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1540898375661002903",
+      "channel_id": "1170692781216378960",
+      "content": "terrifying news on my long blade capabilities",
+      "author": "thereaperinthedresss",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540901382494621706",
+      "channel_id": "1170692781216378960",
+      "content": "[fishstare](https://cdn.discordapp.com/emojis/1437998510518702110.webp?size=48&n",
+      "author": "syruponstrawberrycake",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540901609939410945",
+      "channel_id": "1170692781216378960",
+      "content": "https://tenor.com/view/lowtiergod-low-tier-god-sleep-goodnight-moderators-gif-15",
+      "author": "serahh__",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540911681616482334",
+      "channel_id": "1400750050208125010",
+      "content": "Banned Andy and Monk.",
+      "author": "angbak",
+      "reactions": 3,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1540924925379092570",
+      "channel_id": "1400750050208125010",
+      "content": "https://fxtwitter.com/Pera_1999/status/2091135671151030581",
+      "author": "il0vem4d4r4m1k3j1m4",
+      "reactions": 3,
+      "channel": "🔸general-chat"
+    },
     {
       "id": "1540878448786931732",
       "channel_id": "1170692781216378960",
@@ -43,6 +126,54 @@
       "content": "im sure some people enjoy cool big sister on fire trope",
       "author": "lithanor",
       "reactions": 3,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1540914559739764877",
+      "channel_id": "1170692781216378960",
+      "content": "Mine actually f2p",
+      "author": "mythicmoonwort",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540921972886737067",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "mythicmoonwort",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540925852274139146",
+      "channel_id": "1170692781216378960",
+      "content": "hi",
+      "author": "serahh__",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540913224205996032",
+      "channel_id": "1400750050208125010",
+      "content": "Let me know if there are any such people in the future",
+      "author": "angbak",
+      "reactions": 2,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1540914314754396161",
+      "channel_id": "1433513650299076780",
+      "content": "also null <:Snake_goodjob:1356083729558274149>",
+      "author": "laplace.in.my.head",
+      "reactions": 2,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1540921697828470886",
+      "channel_id": "1433513650299076780",
+      "content": "maybe if you pulled on the wheel banner you'd have more SSR wheels...",
+      "author": "aithan",
+      "reactions": 2,
       "channel": "🔸game-question"
     },
     {
@@ -76,118 +207,6 @@
       "author": "katal",
       "reactions": 2,
       "channel": "🔸chaîne-française"
-    },
-    {
-      "id": "1540890726026580019",
-      "channel_id": "1400750050208125010",
-      "content": "i like churros",
-      "author": "4lunakin",
-      "reactions": 2,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1540893671149539339",
-      "channel_id": "1400750050208125010",
-      "content": "he got the chance to work on the most pathetic yearner of all time",
-      "author": "bocchi_the_raf",
-      "reactions": 2,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1540879920979386459",
-      "channel_id": "1433513650299076780",
-      "content": "just got thais to 15",
-      "author": "lithanor",
-      "reactions": 2,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1540873204829130863",
-      "channel_id": "1170692781216378960",
-      "content": "cat creature good...",
-      "author": "princess.goth",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540874674026709122",
-      "channel_id": "1170692781216378960",
-      "content": "finally feeling fomo over not having AA...",
-      "author": "nirski",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540875100285309059",
-      "channel_id": "1170692781216378960",
-      "content": "need my triangles",
-      "author": "mythicmoonwort",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540875288509030481",
-      "channel_id": "1170692781216378960",
-      "content": "you also get a pyramid from it",
-      "author": "princess.goth",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540875423859220480",
-      "channel_id": "1170692781216378960",
-      "content": "i did not know this i've never talked to any of my characters",
-      "author": "skvr3",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540875497049956402",
-      "channel_id": "1170692781216378960",
-      "content": "one of my friends has the cutest cat I've ever seen it makes me so jealous",
-      "author": "korndog789",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540875710749737052",
-      "channel_id": "1170692781216378960",
-      "content": "if you AA them they are guarenteed dialogue",
-      "author": "princess.goth",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540876108969279528",
-      "channel_id": "1170692781216378960",
-      "content": "just that if you dont care about the convos",
-      "author": "princess.goth",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540877263749382144",
-      "channel_id": "1170692781216378960",
-      "content": "Funny counter gaming",
-      "author": "mythicmoonwort",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540877985446629517",
-      "channel_id": "1170692781216378960",
-      "content": "angbak loved to dr cheese always regardless of character",
-      "author": "princess.goth",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540878102366912602",
-      "channel_id": "1170692781216378960",
-      "content": "man just loves dying",
-      "author": "nirski",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }
