@@ -1,11 +1,11 @@
 {
   "date": "2026-08-22",
-  "messages": 683,
+  "messages": 684,
   "unique_authors": 30,
-  "reactions_total": 255,
-  "attachments": 66,
+  "reactions_total": 259,
+  "attachments": 68,
   "channel_activity": {
-    "なんでも雑談": 399,
+    "なんでも雑談": 400,
     "🔰初心者質問": 35,
     "誰でも質問": 163,
     "落書き投下": 6,
@@ -19,6 +19,7 @@
     "招待コード共有会": 1
   },
   "hourly_activity": {
+    "23": 1,
     "16": 14,
     "17": 7,
     "18": 1,
@@ -40,7 +41,7 @@
     "1": 3
   },
   "message_types": {
-    "0": 605,
+    "0": 606,
     "19": 78
   },
   "top_reacted_messages": [
@@ -98,6 +99,14 @@
       "content": "なんか存在感薄いカード",
       "author": "tomreo",
       "reactions": 5,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1540864052933435412",
+      "channel_id": "1377478664609857647",
+      "content": "終章HARDクレメンタイン来たし超染でもやれないかなぁとチャレンジしたら行けた\nさてはこのパーティーくっそ強いな？",
+      "author": "yasaizujusu",
+      "reactions": 4,
       "channel": "なんでも雑談"
     },
     {
@@ -195,14 +204,6 @@
       "author": "kuroneko4253",
       "reactions": 3,
       "channel": "誰でも質問"
-    },
-    {
-      "id": "1540648990478176257",
-      "channel_id": "1377478664609857647",
-      "content": "実績も取れます",
-      "author": "ktoku743",
-      "reactions": 3,
-      "channel": "なんでも雑談"
     }
   ]
 }
