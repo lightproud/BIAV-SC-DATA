@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
-  "archived_at": "2026-08-23T03:49:35.699464+00:00",
+  "archived_at": "2026-08-23T06:37:40.455781+00:00",
   "source": "youtube",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "[Morimens] 3 lesser known game mechanics and tips",
@@ -34,6 +34,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/74M2MpMHR8s/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[🔴] LIVE📌MORIMENS BENTAR SEBELUM PINDAH GAME - MORIMENS",
+      "summary": "livestream #viral #games #morimens subcriber : https://www.youtube.com/@DvloopGV Join Discord ...",
+      "source": "youtube",
+      "time": "2026-08-23T04:49:45Z",
+      "url": "https://www.youtube.com/watch?v=M3g18xmYVJE",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Dvloop GV",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/M3g18xmYVJE/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

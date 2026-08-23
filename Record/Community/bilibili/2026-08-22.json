@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
-  "archived_at": "2026-08-23T03:49:35.695645+00:00",
+  "archived_at": "2026-08-23T06:37:40.452729+00:00",
   "source": "bilibili",
-  "item_count": 13,
+  "item_count": 14,
   "items": [
     {
       "title": "[忘却前夜]8月到9月的一个版本前瞻，卡拉布24号上线，新命轮魂灵同调，三相池角色复刻（地瓜、福袋、诞墨），新机制灵肉同调，专属秘契同步上线，补一个二百芯兑换码",
@@ -46,6 +46,29 @@
         "danmaku": 0
       },
       "media_url": "https://i1.hdslb.com/bfs/archive/7adb0b95fd0cc53255549c1bc51c5a684e9230b8.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "十一补 明明是由削壁和巧子了组成的怪物 在我眼里却是美丽的少女",
+      "summary": "-\n  └ 我的世界玛丽安 (0赞): 依旧创意工坊",
+      "source": "bilibili",
+      "time": "2026-08-22T09:00:21+00:00",
+      "url": "https://www.bilibili.com/video/BV1dw816YEUY",
+      "engagement": 153,
+      "is_hot": false,
+      "author": "鸠妖耐抄王秽土转生版",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 152,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/066263bdd02d7ff5c389c18d7c883782ffe9ffad.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
