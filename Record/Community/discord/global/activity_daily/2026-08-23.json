@@ -1,69 +1,84 @@
 {
   "date": "2026-08-23",
-  "messages": 6785,
+  "messages": 9616,
   "unique_authors": 177,
-  "reactions_total": 714,
-  "attachments": 274,
+  "reactions_total": 1053,
+  "attachments": 430,
   "channel_activity": {
-    "🔸綜合討論": 297,
-    "🔸morimens-game-chat": 3373,
-    "🔸剧情交流": 16,
+    "🔸綜合討論": 511,
+    "🔸morimens-game-chat": 5014,
+    "🔸剧情交流": 19,
+    "🔸课间休息闲聊": 54,
+    "🔸交友频道": 2,
+    "🔸한국어-채팅방": 7,
+    "🔸chaîne-française": 115,
+    "🔸русский-канал": 32,
+    "🔸phòng-chat-tiếng-việt": 121,
+    "🔸canal-português": 11,
+    "🔸ruang-obrolan-indonesia": 60,
+    "🔸ห้องสนทนาภาษาไทย": 50,
+    "🔸lore-chat": 80,
+    "🔸lets-count": 4,
+    "🔸team-building": 455,
+    "🔸general-chat": 1150,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "🔸game-question": 1712,
+    "🔸机器人命令┊bot-commands": 23,
+    "Propagation caro needs a rework/buff": 1,
+    "Are there any plans to fix iOS version of game?": 2,
+    "關於sp蘿坦的長刀減算跟「額外生效」聯動bug": 1,
+    "Please rework how Propagation Caro works for the future units": 11,
+    "v2.6.0.0 停服维护公告": 32,
+    "V2.5.1.0 停服维护公告": 5,
+    "Castor 🪶": 1,
+    "Clem fa": 1,
+    "The greatest and bestest(I know it's not a word) creations of Katz!": 3,
+    "Mother Tree: Root Version": 11,
+    "DTide Meta Teams and Units": 1,
+    "【English Translation】Opinions Collection": 1,
+    "V2.6.0 百万金券失窃事件┊The Million Rose Script Heist┊백만 금권 도난 사건": 1,
+    "V2.5.0 命运剧院┊Theater of Fate": 1,
+    "入坑半個月求抽卡建議": 1,
+    "組隊": 8,
+    "Should I stop pulling on Aequor? Goliath haunts me": 3,
     "🔸晒卡分享": 1,
     "🔸欢乐梗图": 6,
     "🔸相位对弈": 9,
-    "🔸课间休息闲聊": 9,
-    "🔸русский-канал": 26,
-    "🔸phòng-chat-tiếng-việt": 52,
     "🔸canal-español": 40,
-    "🔸ruang-obrolan-indonesia": 46,
-    "🔸ห้องสนทนาภาษาไทย": 17,
-    "🔸lore-chat": 69,
-    "🔸lets-count": 3,
     "🔸频道建议┊server-suggestions": 1,
-    "🔸team-building": 330,
-    "🔸general-chat": 911,
-    "🔸邀请码互助┊swap-invitation-codes": 4,
-    "🔸game-question": 1339,
-    "🔸机器人命令┊bot-commands": 20,
     "Chapter 6 Boss fight bug": 1,
     "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 8,
     "关于新版本改动": 2,
     "Doresain's rouse: fixed damage killing enemies on exalt does not trigger death analysis effect": 1,
-    "Please rework how Propagation Caro works for the future units": 10,
     "✅「已回答」「未解决」氪金玩家和老玩家是否已经成为游戏前进的阻力？": 1,
-    "v2.6.0.0 停服维护公告": 27,
-    "V2.5.1.0 停服维护公告": 4,
     "Lotan: Cetarchon Fanart Submission": 3,
-    "The greatest and bestest(I know it's not a word) creations of Katz!": 1,
     "📜 V2.6.0 版本前瞻┊Version Outlook┊버전 미리보기": 1,
-    "組隊": 5,
     "忘卻8—12要怎過？": 2,
-    "🔸한국어-채팅방": 3,
-    "🔸canal-português": 10,
     "🔸traphase": 16,
     "Kill stealing, we could fix it": 2,
     "希望对新列车进行平衡调整 Request for a train event balance patch": 2,
-    "Are there any plans to fix iOS version of game?": 1,
     "❓「Not really answered」Lotan: Cetarchon exalt damage number does not line up with the hit animation": 1,
     "Additional Record Filters": 2,
     "\"Please Pull Me Now\"": 3,
     "請教 融災隊伍及密契": 1,
-    "New Player, advise on pulling and teams": 4,
-    "🔸chaîne-française": 105
+    "New Player, advise on pulling and teams": 4
   },
   "hourly_activity": {
+    "6": 1638,
+    "7": 1157,
+    "8": 765,
+    "9": 447,
     "4": 1176,
     "5": 1428,
-    "6": 1176,
     "3": 657,
     "2": 408,
     "1": 905,
     "0": 1035
   },
   "message_types": {
-    "0": 4641,
-    "19": 2126,
-    "20": 18
+    "0": 6388,
+    "19": 3205,
+    "20": 23
   },
   "top_reacted_messages": [
     {
@@ -75,12 +90,52 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1541012037570928701",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "glitzy_x",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541006905609031820",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "dread_empress_meera",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1540942839545073755",
       "channel_id": "1131839817982947429",
       "content": "我是貓最喜歡的英區玩家",
       "author": "yusi4172",
       "reactions": 8,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1540979592674680852",
+      "channel_id": "1131839817982947429",
+      "content": "從來沒有一個遊戲讓我這麼認真看更新公告",
+      "author": "yi000607",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1540989326303961109",
+      "channel_id": "1170692781216378960",
+      "content": "it's feels shit to play. And most of her cards feel shit to play besides her 0",
+      "author": "topazlh",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1540993633426083841",
+      "channel_id": "1170692781216378960",
+      "content": "Does water spill out her hole when tawil drinks?",
+      "author": "leviathxan",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1540959350653456474",
@@ -96,6 +151,14 @@
       "content": "ITS NOT EVEN 30 DOLLARS HES LYING OMFG",
       "author": "serahh__",
       "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541002414763806791",
+      "channel_id": "1170692781216378960",
+      "content": "Yall need helpp",
+      "author": "angbak",
+      "reactions": 5,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -177,54 +240,6 @@
       "author": "leviathxan",
       "reactions": 5,
       "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540960800565366905",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "iTranslator",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540961929432924230",
-      "channel_id": "1170692781216378960",
-      "content": "have you tried winning",
-      "author": "asterfluff",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540968683902603354",
-      "channel_id": "1170692781216378960",
-      "content": "guys they nerfed Sabotage",
-      "author": "_venush",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540974716054147072",
-      "channel_id": "1170692781216378960",
-      "content": "thank you!! wow everyone here is so welcoming and helpful compared to some other",
-      "author": "fishhazardthewizard",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1540943231284412537",
-      "channel_id": "1131839817982947429",
-      "content": "~~原來相位會更新喔~~",
-      "author": "times1_chang",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1540950225106239548",
-      "channel_id": "1131839817982947429",
-      "content": "不看NTR但支持F佬一切创作",
-      "author": "ling_an_",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
     }
   ]
 }
