@@ -1,32 +1,38 @@
 {
   "date": "2026-08-23",
-  "messages": 20666,
+  "messages": 23667,
   "unique_authors": 214,
-  "reactions_total": 1963,
-  "attachments": 876,
+  "reactions_total": 2430,
+  "attachments": 955,
   "channel_activity": {
-    "🔸綜合討論": 786,
+    "🔸綜合討論": 787,
+    "🔸morimens-game-chat": 11751,
+    "🔸欢乐梗图": 12,
+    "🔸课间休息闲聊": 128,
+    "🔸deutscher-chatraum": 2,
+    "🔸русский-канал": 572,
+    "🔸phòng-chat-tiếng-việt": 828,
+    "🔸canal-español": 256,
+    "🔸canal-português": 742,
+    "🔸ruang-obrolan-indonesia": 341,
+    "🔸ห้องสนทนาภาษาไทย": 124,
+    "🔸traphase": 24,
+    "🔸lore-chat": 509,
+    "🔸lets-count": 6,
+    "🔸team-building": 801,
+    "🔸general-chat": 1629,
+    "🔸邀请码互助┊swap-invitation-codes": 17,
+    "🔸game-question": 4375,
+    "🔸机器人命令┊bot-commands": 59,
+    "Why does Pontos' gauntwards call only generate shield once per battle?": 20,
+    "Rework the design of Scintilla": 15,
+    "Please rework how Propagation Caro works for the future units": 18,
+    "Another Aurita fanart": 2,
+    "【English Translation】Opinions Collection": 2,
     "🔸阵容构建": 14,
-    "🔸morimens-game-chat": 9326,
-    "🔸欢乐梗图": 10,
     "🔸chaîne-française": 220,
-    "🔸русский-канал": 480,
-    "🔸phòng-chat-tiếng-việt": 797,
-    "🔸canal-español": 247,
-    "🔸canal-português": 689,
-    "🔸ห้องสนทนาภาษาไทย": 122,
-    "🔸traphase": 17,
-    "🔸lore-chat": 498,
-    "🔸team-building": 625,
-    "🔸general-chat": 1563,
-    "🔸邀请码互助┊swap-invitation-codes": 16,
-    "🔸game-question": 4273,
-    "🔸机器人命令┊bot-commands": 56,
     "堆图ing": 3,
-    "Why does Pontos' gauntwards call only generate shield once per battle?": 18,
     "Stats, they could feel better": 9,
-    "Rework the design of Scintilla": 10,
-    "Please rework how Propagation Caro works for the future units": 17,
     "v2.6.0.0 停服维护公告": 43,
     "Lotan: Cetarchon Fanart Submission": 6,
     "DTide Meta Teams and Units": 10,
@@ -34,9 +40,7 @@
     "Any teams I can build with these?": 3,
     "What teams to build?": 10,
     "New Player, advise on pulling and teams": 7,
-    "🔸课间休息闲聊": 126,
     "🔸한국어-채팅방": 9,
-    "🔸ruang-obrolan-indonesia": 338,
     "🔸忘却前夜┊morimens-tv": 2,
     "🔸游戏问题": 126,
     "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 2,
@@ -71,13 +75,11 @@
     "1541020378741346384": 1,
     "🔸剧情交流": 19,
     "🔸交友频道": 2,
-    "🔸lets-count": 4,
     "Propagation caro needs a rework/buff": 1,
     "Are there any plans to fix iOS version of game?": 2,
     "關於sp蘿坦的長刀減算跟「額外生效」聯動bug": 1,
     "Clem fa": 1,
     "The greatest and bestest(I know it's not a word) creations of Katz!": 3,
-    "【English Translation】Opinions Collection": 1,
     "V2.6.0 百万金券失窃事件┊The Million Rose Script Heist┊백만 금권 도난 사건": 1,
     "🔸晒卡分享": 1,
     "🔸相位对弈": 9,
@@ -93,10 +95,13 @@
     "請教 融災隊伍及密契": 1
   },
   "hourly_activity": {
+    "21": 171,
+    "18": 1103,
+    "19": 1227,
+    "20": 1132,
     "15": 1391,
     "16": 808,
     "17": 747,
-    "18": 632,
     "12": 1144,
     "13": 1797,
     "14": 1695,
@@ -114,9 +119,9 @@
     "0": 1035
   },
   "message_types": {
-    "0": 13842,
-    "19": 6758,
-    "20": 61,
+    "0": 15552,
+    "19": 8047,
+    "20": 63,
     "46": 2,
     "6": 1,
     "21": 2
@@ -179,6 +184,30 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1541166241190912040",
+      "channel_id": "1170692781216378960",
+      "content": "time to make a 5 hr tierlist discussion video",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541166381280530483",
+      "channel_id": "1170692781216378960",
+      "content": "hi everyone, I'm just picking up my sister's favorite Chinese food and my sister",
+      "author": "reya.li",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541168111779319838",
+      "channel_id": "1170692781216378960",
+      "content": "So many humans here",
+      "author": "2ndselna",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1541037078928949318",
       "channel_id": "1131839817982947429",
       "content": "我們在警察面前打砲",
@@ -219,6 +248,14 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1541185684629618788",
+      "channel_id": "1170692781216378960",
+      "content": "At least I am mostly safe\nAs long as I pay my weekly tribute to our rat overlord",
+      "author": "legendaryredz",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1541069536080429076",
       "channel_id": "1131839817982947429",
       "content": "最后一次拿下，以后就只打350了<:Helot_slack_off:1459092159465521184>",
@@ -249,38 +286,6 @@
       "author": "perokun6941",
       "reactions": 6,
       "channel": "📜 V2.6.0 版本前瞻┊Version Outlook┊버전 미리보기"
-    },
-    {
-      "id": "1541093234774642790",
-      "channel_id": "1540333762062319707",
-      "content": "Phiên bản tiếng Việt của poster\n——Do tình nguyện viên <@328059424667205633> thực",
-      "author": "morimensstaff06",
-      "reactions": 6,
-      "channel": "📜 V2.6.0 版本前瞻┊Version Outlook┊버전 미리보기"
-    },
-    {
-      "id": "1541025698570047509",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "ahuahuahua",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1540958165376565301",
-      "channel_id": "1170692781216378960",
-      "content": "ITS NOT EVEN 30 DOLLARS HES LYING OMFG",
-      "author": "serahh__",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541108891570675804",
-      "channel_id": "1540349449015136276",
-      "content": "Just commission that redditor",
-      "author": "aurora3981",
-      "reactions": 5,
-      "channel": "Rework the design of Scintilla"
     }
   ]
 }
