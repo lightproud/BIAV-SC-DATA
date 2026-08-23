@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
-  "archived_at": "2026-08-23T06:37:40.454295+00:00",
+  "archived_at": "2026-08-23T09:26:38.996818+00:00",
   "source": "bahamut",
-  "item_count": 21,
+  "item_count": 22,
   "items": [
     {
       "title": "【閒聊】+12銀芯通訊分享(尚缺：墨菲、皮克曼)",
@@ -258,6 +258,19 @@
       "time": "2026-08-22T18:26:21.818071+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1537&tnum=1",
       "engagement": 5,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【情報】V 2.6.0.0 停服維護公告，萬字更新",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-23T09:26:01.011934+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1548&tnum=1",
+      "engagement": 4,
       "is_hot": false,
       "author": "t12345825",
       "tags": [],
