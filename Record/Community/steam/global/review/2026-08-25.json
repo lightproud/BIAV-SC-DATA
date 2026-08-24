@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-24T18:38:57.592841+00:00",
+  "archived_at": "2026-08-24T21:29:10.751305+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[负面] после обновления произошла какая-то херня, и у мен...",
@@ -22,6 +22,30 @@
         "playtime_forever": 860,
         "votes_up": 0,
         "timestamp_created": 1787593563
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] качественно красиво но не для меня лично",
+      "summary": "качественно красиво но не для меня лично",
+      "source": "steam_review",
+      "time": "2026-08-24T18:25:49+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198668335501/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198668335501",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 6,
+        "votes_up": 0,
+        "timestamp_created": 1787595949
       },
       "region": "global",
       "archive_subtype": "review",

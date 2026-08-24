@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-24T18:38:57.511276+00:00",
+  "archived_at": "2026-08-24T21:29:10.677863+00:00",
   "source": "youtube",
-  "item_count": 8,
+  "item_count": 10,
   "items": [
     {
       "title": "[Morimens] Additional Caraboo clip - 50 Satiety stack exalt shielding/healing on a lvl 60 Caraboo.",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/vBVNoO7tBT0/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] 2.6.0 Patch OVERVIEW STREAM + SPREADSHEET - WHEN I GET HOME",
+      "summary": "Don't know how long. Will be doing other stuff too.",
+      "source": "youtube",
+      "time": "2026-08-24T20:06:59Z",
+      "url": "https://www.youtube.com/watch?v=mb_sY08-N_4",
+      "engagement": 135,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/mb_sY08-N_4/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -136,6 +153,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/mCLaadgJTyU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "карточная RPG гача с сюжетом/Morimens/прохождение",
+      "summary": "Обзор на карточную игру в жанре Roguelite. Увлекательная карточная игра с интересным сюжетом. красивыми ...",
+      "source": "youtube",
+      "time": "2026-08-24T20:38:23Z",
+      "url": "https://www.youtube.com/watch?v=DcR4HME-ZLs",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Night Raven",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/DcR4HME-ZLs/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
