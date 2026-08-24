@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-24T03:54:28.874056+00:00",
+  "archived_at": "2026-08-24T06:55:01.628888+00:00",
   "source": "youtube",
-  "item_count": 11,
+  "item_count": 13,
   "items": [
     {
       "title": "The FUTURE of Morimens: The Yappening of Caraboo, Banners, D-Tide changes and Arc 3?!",
@@ -102,6 +102,40 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/J2i6VPjzQkA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens: Caraboo Gameplay Event With Murphy",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-24T04:17:08Z",
+      "url": "https://www.youtube.com/watch?v=nWyAMFH63kg",
+      "engagement": 27,
+      "is_hot": false,
+      "author": "Khaoz Bunny",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/nWyAMFH63kg/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "(유입환영) 차분하게 차분하게",
+      "summary": "오늘은 뭐할지 모르는 날 #vtuber #sd #sd버츄얼 #추리게임 #퍼리.",
+      "source": "youtube",
+      "time": "2026-08-24T04:40:27Z",
+      "url": "https://www.youtube.com/watch?v=byoyqt3Vk4s",
+      "engagement": 12,
+      "is_hot": false,
+      "author": "Wurpus Palir Ch. 팰리르",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/byoyqt3Vk4s/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

@@ -1,9 +1,32 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-24T03:54:28.873462+00:00",
+  "archived_at": "2026-08-24T06:55:01.628098+00:00",
   "source": "bilibili",
-  "item_count": 8,
+  "item_count": 15,
   "items": [
+    {
+      "title": "【忘却前夜】卡拉布抽取建议",
+      "summary": "└ 扬__yang (5赞): 手感真的无语，3费拿赐福→赐福进抽牌堆等抽上来→打出后再等2回合后才生效，超绝后后后置这谁绷得住[笑哭]\n  └ 金发女人丨型 (18赞): 强度上没发现任何突出点，而且低配差不多是完全没法玩，不建议任何兔头党抽....（虽然我会抽+12）\n  └ 嵬名雾月3104 (3赞): 去混池补图鉴是对的[星星眼]",
+      "source": "bilibili",
+      "time": "2026-08-24T05:29:41+00:00",
+      "url": "https://www.bilibili.com/video/BV1S68v6oETw",
+      "engagement": 2287,
+      "is_hot": true,
+      "author": "金发女人丨型",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 2259,
+        "comment_count": 28,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/14171cef36c279a4b1d267e1010b4794e0488f5d.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "『忘却前夜』金人的回溯、抽卡、灵核养成选择",
       "summary": "-\n  └ 罗伊R95 (0赞): 为什么回溯皮\n  └ 幻觉の概念 (1赞): 以后密契直接绑定了，能不能直接出一个哪些角色要什么密契以及洗什么属性的视频\n  └ 究极凡骨传说 (2赞): 开门了？",
@@ -23,6 +46,75 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/51bd617c343925e14546876b5785016ea910cf32.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】全角色密契结合推荐(密契洗练词条推荐)",
+      "summary": "└ 金发女人丨型 (4赞): 可以先收藏，以后有空慢慢更\n  └ 苍穹余烬 (1赞): 地瓜怎么办，攻瓜防瓜不能切换自如了[大哭]\n  └ _未_闻_花_名_ (2赞): 这集厉害了，但是我根本没高数值或者现成的好板子，很多都是差不多能用就行[笑哭]",
+      "source": "bilibili",
+      "time": "2026-08-24T05:54:10+00:00",
+      "url": "https://www.bilibili.com/video/BV11S8v6DEHi",
+      "engagement": 1473,
+      "is_hot": false,
+      "author": "金发女人丨型",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 1459,
+        "comment_count": 14,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/e147102968d56b1aa63a29cdd1070ef6ef7c5b58.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】3+0卡拉布毒队试玩",
+      "summary": "血很多，配羊妈叠供奉的大招道中伤害还不错，珈仑毒队不太怕负面，戒指给的侵蚀很多\n  └ 芙拉普利菌 (1赞): 羊妈妈能……化区区……为神奇\n  └ 恰柠檬去啦 (0赞): 给的增益不稳定debuff也不稳定，摇不出来想要的效果很恶心，关键回合摇到2回合后效果才生效的debuff就更恶心了[笑哭]只能说愿意roll的话上限可能很高，正常打的话只会血压高[doge]\n  └ 小镇二次元黑猫 (0赞): 刚在n5过关中看过录像，确实很不错，但没有血肉专造的强度还是感觉要打问号",
+      "source": "bilibili",
+      "time": "2026-08-24T05:13:21+00:00",
+      "url": "https://www.bilibili.com/video/BV1428v6XEA8",
+      "engagement": 365,
+      "is_hot": false,
+      "author": "朝星-",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 362,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 1
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/a18ed3ffaa6de0b0a4e5cd5188b21edbfb85a48b.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "［忘却前夜］深海卡拉布试玩融灾5-5栗子",
+      "summary": "-\n  └ _周天子 (0赞): 活蛆？\n  └ 小肠在蠕动 (0赞): 配置\n  └ 烂路寻宝 (0赞): 是拉布布[笑哭]我们还有打赢的可能吗",
+      "source": "bilibili",
+      "time": "2026-08-24T05:02:54+00:00",
+      "url": "https://www.bilibili.com/video/BV1VV8i6NE1S",
+      "engagement": 165,
+      "is_hot": false,
+      "author": "小肠在蠕动",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 160,
+        "comment_count": 5,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/d8bfa75327e7bbc1d05632aa50ab79889901c9fa.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -69,6 +161,52 @@
         "danmaku": 0
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/cdbb2c7f59ec7b22980e18f85a1d2a768df7cdb2.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "[忘却前夜]融灾5–5血肉莉茲 3启卡拉布试用 无羊0死扛0手牌上限",
+      "summary": "增益卡对了零次轴，要玩这种队伍卡拉布不出牌都行。戒指比其他东西都重要，因为只有大招能用了。",
+      "source": "bilibili",
+      "time": "2026-08-24T06:08:58+00:00",
+      "url": "https://www.bilibili.com/video/BV1sQ8v6JEje",
+      "engagement": 57,
+      "is_hot": false,
+      "author": "护林犬",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 57,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/e1ea041bf71f2c5f983075014e90d55933ca79dd.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【忘却前夜】开门大战三启卡拉布+福袋池",
+      "summary": "先抽个低保，还没来得及研究技能，后续看情况抽",
+      "source": "bilibili",
+      "time": "2026-08-24T06:42:19+00:00",
+      "url": "https://www.bilibili.com/video/BV1c58v61Evt",
+      "engagement": 51,
+      "is_hot": false,
+      "author": "青灯不弈",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 51,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/410855bfe3e4fe9e465fb07f16e38c17ec5122b2.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -138,6 +276,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/f021ee598175d0206ba131a031191a2340b11225.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "用自己画过的saya同人做了拼贴图",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-24T06:22:15+00:00",
+      "url": "https://www.bilibili.com/video/BV1jp8v6ME6K",
+      "engagement": 17,
+      "is_hot": false,
+      "author": "二项线性",
+      "tags": [
+        "绘画"
+      ],
+      "metadata": {
+        "play": 17,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/96af6c8e3ee2191107fe8cacb369c601fe96f7fa.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
-  "archived_at": "2026-08-24T03:54:29.002789+00:00",
+  "archived_at": "2026-08-24T06:55:01.756030+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 差评] ★2 Game content is great if F2P but price c",
@@ -13,6 +13,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "R M",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "us",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Love everything about this game! Gacha i",
+      "summary": "Love everything about this game! Gacha is generous without spending any money. The story is lovecraftian and definitely takes inspiration off call of cthulhu, art is amazing! However, i think the most important thing of them all is that the gameplay is actually engaging",
+      "source": "google_play",
+      "time": "2026-08-23T06:38:44",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-b77aeaf1-9511-465c-9e08-4578eedf0571",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Jake",
       "tags": [],
       "lang": "en",
       "platform_region": "us",

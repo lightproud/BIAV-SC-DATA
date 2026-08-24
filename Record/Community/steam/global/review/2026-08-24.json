@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-24T03:54:28.927519+00:00",
+  "archived_at": "2026-08-24T06:55:01.677249+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] yes",
@@ -118,6 +118,54 @@
         "playtime_forever": 1878,
         "votes_up": 0,
         "timestamp_created": 1787532398
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 做工精良 人物众多但抽卡的道具攒的慢",
+      "summary": "做工精良 人物众多但抽卡的道具攒的慢",
+      "source": "steam_review",
+      "time": "2026-08-24T04:19:11+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199559465270/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199559465270",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 16170,
+        "votes_up": 0,
+        "timestamp_created": 1787545151
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] best story + character design in a gacha game i've...",
+      "summary": "best story + character design in a gacha game i've ever witnessed",
+      "source": "steam_review",
+      "time": "2026-08-24T03:15:24+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198364964041/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198364964041",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 4500,
+        "votes_up": 0,
+        "timestamp_created": 1787541324
       },
       "region": "global",
       "archive_subtype": "review",
