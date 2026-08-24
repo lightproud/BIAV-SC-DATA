@@ -1,50 +1,119 @@
 {
   "date": "2026-08-24",
-  "messages": 1375,
-  "unique_authors": 151,
-  "reactions_total": 134,
-  "attachments": 93,
+  "messages": 5942,
+  "unique_authors": 364,
+  "reactions_total": 647,
+  "attachments": 706,
   "channel_activity": {
-    "🔸綜合討論": 10,
-    "🔸morimens-game-chat": 791,
+    "🔸綜合討論": 674,
+    "🔸阵容构建": 1,
+    "🔸morimens-game-chat": 2633,
+    "🔸剧情交流": 4,
+    "🔸晒卡分享": 4,
+    "🔸课间休息闲聊": 9,
+    "🔸한국어-채팅방": 14,
+    "🔸chaîne-française": 10,
+    "🔸русский-канал": 153,
+    "🔸phòng-chat-tiếng-việt": 466,
+    "🔸canal-español": 133,
+    "🔸canal-português": 214,
+    "🔸ruang-obrolan-indonesia": 146,
+    "🔸ห้องสนทนาภาษาไทย": 63,
+    "🔸traphase": 14,
+    "🔸lore-chat": 113,
+    "🔸team-building": 78,
+    "🔸general-chat": 202,
+    "🔸game-question": 909,
+    "🔸游戏问题": 24,
+    "🔸机器人命令┊bot-commands": 17,
+    "小QQ系列-四小強+混沌界域上半": 2,
+    "My dreamscapes reset?": 4,
+    "改版后的同调率获取速度大幅度降低": 7,
+    "请补发赛季奖励": 1,
+    "手机端变成电脑端了": 2,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 5,
+    "Rework the design of Scintilla": 2,
+    "Please add the number of Retry Battle / Time Reversal used to the Mission Clear Screen": 2,
+    "Quadra / 4-Realm Rerun Banners": 1,
+    "Please rework how Propagation Caro works for the future units": 6,
+    "V2.5.1.0 停服维护公告": 5,
+    "General Stores\\Shops Guide": 2,
+    "한국어 번역 피드백 컬렉션": 1,
+    "【English Translation】Opinions Collection": 1,
+    "融災請教": 1,
+    "Should I stop pulling on Aequor? Goliath haunts me": 2,
     "🔸欢乐梗图": 1,
-    "🔸русский-канал": 30,
-    "🔸phòng-chat-tiếng-việt": 25,
-    "🔸canal-español": 14,
-    "🔸canal-português": 48,
-    "🔸ruang-obrolan-indonesia": 30,
-    "🔸ห้องสนทนาภาษาไทย": 10,
-    "🔸lore-chat": 25,
     "🔸lets-count": 1,
-    "🔸team-building": 8,
-    "🔸general-chat": 98,
-    "🔸game-question": 257,
-    "🔸游戏问题": 2,
-    "🔸机器人命令┊bot-commands": 5,
     "AA凱刻斯": 1,
     "莉茲Liz cosplay （標題已經寫ㄌ所以拒絕看到真人的請不要點進來感謝感謝再感謝）": 1,
     "堆图ing": 1,
-    "小QQ系列-四小強+混沌界域上半": 1,
-    "Rework the design of Scintilla": 1,
-    "Please add the number of Retry Battle / Time Reversal used to the Mission Clear Screen": 1,
     "Are there any plans to fix iOS version of game?": 2,
     "Additional Record Filters": 1,
-    "Please rework how Propagation Caro works for the future units": 1,
     "v2.6.0.0 停服维护公告": 7,
-    "V2.5.1.0 停服维护公告": 1,
     "new player need help with teams": 1,
     "New Player, advise on pulling and teams": 1
   },
   "hourly_activity": {
-    "0": 1049,
-    "1": 326
+    "1": 925,
+    "2": 1947,
+    "3": 2021,
+    "0": 1049
   },
   "message_types": {
-    "0": 925,
-    "19": 449,
-    "20": 1
+    "0": 4315,
+    "19": 1618,
+    "20": 8,
+    "6": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1541285279455912046",
+      "channel_id": "1300659495550062592",
+      "content": "<@&1355602011478950030> 안녕하세요, 수호자 여러분.\n\n금일 업데이트 이후 발생한 문제에 대해 설명드립니다.\n\n업데이트 중 발",
+      "author": "morimensstaffjelly",
+      "reactions": 16,
+      "channel": "🔸한국어-채팅방"
+    },
+    {
+      "id": "1541257662417862756",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "angbak",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541261266025447575",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "46982105",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541271375224905768",
+      "channel_id": "1131839817982947429",
+      "content": "...",
+      "author": "kemomimi_",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1541293099282726962",
+      "channel_id": "1131839817982947429",
+      "content": "这辈子能看到吗",
+      "author": "galagalaguo",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1541282065989898372",
+      "channel_id": "1170692781216378960",
+      "content": "SIX SEVEEEENNNN",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1541248982683091025",
       "channel_id": "1170692781216378960",
@@ -60,6 +129,70 @@
       "author": "sashawulph",
       "reactions": 6,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541260072456421376",
+      "channel_id": "1131839817982947429",
+      "content": "感覺像原本大家共用保險套現在一人一個",
+      "author": "yi000607",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1541259660525445130",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "sashawulph",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541261812417175644",
+      "channel_id": "1170692781216378960",
+      "content": "I was looking for these; this template is the classics",
+      "author": "sashawulph",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541273808172875878",
+      "channel_id": "1170692781216378960",
+      "content": "look at this rolly polly",
+      "author": "crowlov1",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541275363383185439",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "sam.chan",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541278711469310032",
+      "channel_id": "1170692781216378960",
+      "content": "Is caraboo just pure gambling LMAO",
+      "author": "coldrinkies",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541281655937835140",
+      "channel_id": "1300659662311526512",
+      "content": "",
+      "author": "ancientbp",
+      "reactions": 5,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1541279507716243567",
+      "channel_id": "1326453763355185215",
+      "content": "<@702167871144591461> gdoll hates him",
+      "author": "fishhazardthewizard",
+      "reactions": 5,
+      "channel": "🔸lore-chat"
     },
     {
       "id": "1541241108640567456",
@@ -78,132 +211,20 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1541240814233976862",
-      "channel_id": "1170692781216378960",
-      "content": "All my guides will be rendered worthless because im a whale",
-      "author": "polkarain",
+      "id": "1541260278556008449",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "fon_tain",
       "reactions": 4,
-      "channel": "🔸morimens-game-chat"
+      "channel": "🔸綜合討論"
     },
     {
-      "id": "1541244196562665532",
-      "channel_id": "1170692781216378960",
-      "content": "Soon",
-      "author": "leviathxan",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541246805235343461",
-      "channel_id": "1170692781216378960",
-      "content": "How",
-      "author": "illiade",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541256221091303545",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "46982105",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541243550199709896",
-      "channel_id": "1433513650299076780",
-      "content": "Mouchette just rouse and win",
-      "author": "bw55555",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1541236011181412443",
-      "channel_id": "1170692781216378960",
-      "content": "https://cdn.discordapp.com/attachments/1170692781216378960/1540530463452565555/I",
-      "author": "corvim",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541238284108439573",
-      "channel_id": "1170692781216378960",
-      "content": "Time to think about their interactions with my Keeper OC and draw it",
-      "author": "leonartona",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541240377602736269",
-      "channel_id": "1170692781216378960",
-      "content": "If I'm getting called a whale for spending $12 I don't even wanna know what you ",
-      "author": "mesozoicguy15",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541241453739647046",
-      "channel_id": "1170692781216378960",
-      "content": "the only way to demonstrate that you're a true expert on a team for guidemaking ",
-      "author": "reya.li",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541242386804641813",
-      "channel_id": "1170692781216378960",
-      "content": "oh it's already maintenance",
-      "author": "laplace.in.my.head",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541243216492240926",
-      "channel_id": "1170692781216378960",
-      "content": "i have a good idea for a caraboo team",
-      "author": "syruponstrawberrycake",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541245814310178946",
-      "channel_id": "1170692781216378960",
-      "content": "cool artwork",
-      "author": "serahh__",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541248067238367435",
-      "channel_id": "1170692781216378960",
-      "content": "A Mirror Dungeon run!",
-      "author": "verdy_heh",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541249090967310438",
-      "channel_id": "1170692781216378960",
-      "content": "Yes way",
-      "author": "leviathxan",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541250386130903051",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "sashawulph",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541251062541979659",
-      "channel_id": "1170692781216378960",
-      "content": "im so blind without my glasses",
-      "author": "princess.goth",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
+      "id": "1541278755832471552",
+      "channel_id": "1131839817982947429",
+      "content": "吓哭了，差一点按平时的习惯把每日商店都买了",
+      "author": "xyakoto",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
     }
   ]
 }
