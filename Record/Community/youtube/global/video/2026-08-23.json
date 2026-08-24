@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
-  "archived_at": "2026-08-23T21:20:37.917771+00:00",
+  "archived_at": "2026-08-24T01:08:30.529498+00:00",
   "source": "youtube",
-  "item_count": 17,
+  "item_count": 18,
   "items": [
     {
       "title": "Song of Memento - Русский кавер - Morimens x Saya no Uta - riguruma",
@@ -51,6 +51,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/SsFwObmVxnY/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[망각전야] 신캐 카라부 스킬셋 최초 공개! 성능 미리보기 및 분석",
+      "summary": "morimens #게임 #망각전야 #공략 디스코드 : https://discord.gg/TaDkgyQ35y 치지직 ...",
+      "source": "youtube",
+      "time": "2026-08-23T14:26:21Z",
+      "url": "https://www.youtube.com/watch?v=MxCYCvKTW4Q",
+      "engagement": 140,
+      "is_hot": false,
+      "author": "박현(Muyeong)",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/MxCYCvKTW4Q/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

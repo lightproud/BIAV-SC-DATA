@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-23T21:20:37.918352+00:00",
+  "archived_at": "2026-08-24T01:08:30.530249+00:00",
   "source": "youtube",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "The FUTURE of Morimens: The Yappening of Caraboo, Banners, D-Tide changes and Arc 3?!",
@@ -34,6 +34,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/D2LQZ3yEiI8/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Directo relax Morimens",
+      "summary": "No olviden unirse al discord :). https://discord.gg/UgmMCae3Sg.",
+      "source": "youtube",
+      "time": "2026-08-23T22:29:39Z",
+      "url": "https://www.youtube.com/watch?v=a79cmxFTHYI",
+      "engagement": 66,
+      "is_hot": false,
+      "author": "OcteKG",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/a79cmxFTHYI/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

@@ -1,9 +1,32 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-23T21:20:37.921333+00:00",
+  "archived_at": "2026-08-24T01:08:30.532403+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
+    {
+      "title": "【忘却前夜】鸟弟1T 5-5利兹 8.15融灾",
+      "summary": "-\n  └ 寂榕 (0赞): 厉害了",
+      "source": "bilibili",
+      "time": "2026-08-23T23:12:27+00:00",
+      "url": "https://www.bilibili.com/video/BV1Hm8h6iEA4",
+      "engagement": 49,
+      "is_hot": false,
+      "author": "上好佳薯片丶",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 46,
+        "comment_count": 3,
+        "comments_fetched": 1,
+        "danmaku": 1
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/49a248bdeb6621ae37d7f7a741affa824d965212.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "套啥拿啥",
       "summary": "-\n  └ -昆扬 (0赞): [魔法少女的魔女审判表情包_哦吼吼]\n  └ 小龙猫大能力 (0赞): 好可爱[微笑]",

@@ -1,0 +1,106 @@
+{
+  "date": "2026-08-24",
+  "archived_at": "2026-08-24T01:08:30.614588+00:00",
+  "source": "steam",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "[正面] yes",
+      "summary": "yes",
+      "source": "steam_review",
+      "time": "2026-08-23T21:45:21+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198107261524/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198107261524",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 44594,
+        "votes_up": 0,
+        "timestamp_created": 1787521521
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Great Game",
+      "summary": "Great Game",
+      "source": "steam_review",
+      "time": "2026-08-23T20:56:52+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198060463051/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198060463051",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2605,
+        "votes_up": 0,
+        "timestamp_created": 1787518612
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] i see saya, i play game",
+      "summary": "i see saya, i play game",
+      "source": "steam_review",
+      "time": "2026-08-23T20:46:48+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199566286540/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199566286540",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 103,
+        "votes_up": 0,
+        "timestamp_created": 1787518008
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] :v",
+      "summary": ":v",
+      "source": "steam_review",
+      "time": "2026-08-23T20:16:15+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198302131173/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198302131173",
+      "tags": [
+        "latam"
+      ],
+      "language": "latam",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 832,
+        "votes_up": 0,
+        "timestamp_created": 1787516175
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

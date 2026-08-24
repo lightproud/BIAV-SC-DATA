@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
-  "archived_at": "2026-08-23T21:20:37.917024+00:00",
+  "archived_at": "2026-08-24T01:08:30.528549+00:00",
   "source": "bilibili",
-  "item_count": 9,
+  "item_count": 11,
   "items": [
     {
       "title": "明明是暗区臭阴组成的怪物，在我眼中却是美丽的少女",
@@ -138,6 +138,52 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/e8a87d9dea1046195cf4a2b3b9ca9e03b8964e98.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "TR6之歌",
+      "summary": "棍木…\n  └ 椰心饽饽 (2赞): 复合三字母的刻板印象[笑哭][喜欢][打call]\n  └ 哈基mi联动版哈罗 (0赞): 那很爽了[喜欢]",
+      "source": "bilibili",
+      "time": "2026-08-23T12:37:48+00:00",
+      "url": "https://www.bilibili.com/video/BV1WZ8t6AEky",
+      "engagement": 134,
+      "is_hot": false,
+      "author": "漆黑唐氏",
+      "tags": [
+        "娱乐粉丝创作"
+      ],
+      "metadata": {
+        "play": 132,
+        "comment_count": 2,
+        "comments_fetched": 2,
+        "danmaku": 2
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/3d197d4aacb27c1b7cf4328b9f5da03c9c0bf3da.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "8.17-8.30 425时代归于绝响",
+      "summary": "再无话说，请速速动手",
+      "source": "bilibili",
+      "time": "2026-08-23T02:50:19+00:00",
+      "url": "https://www.bilibili.com/video/BV1SA8x6wEYm",
+      "engagement": 115,
+      "is_hot": false,
+      "author": "我真是福哩",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 115,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/9b832aa7074f1ddd56dde94487cc9d8d07dd7fd6.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
