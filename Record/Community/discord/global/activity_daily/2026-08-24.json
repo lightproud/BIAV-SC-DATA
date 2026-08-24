@@ -1,0 +1,209 @@
+{
+  "date": "2026-08-24",
+  "messages": 1375,
+  "unique_authors": 151,
+  "reactions_total": 134,
+  "attachments": 93,
+  "channel_activity": {
+    "🔸綜合討論": 10,
+    "🔸morimens-game-chat": 791,
+    "🔸欢乐梗图": 1,
+    "🔸русский-канал": 30,
+    "🔸phòng-chat-tiếng-việt": 25,
+    "🔸canal-español": 14,
+    "🔸canal-português": 48,
+    "🔸ruang-obrolan-indonesia": 30,
+    "🔸ห้องสนทนาภาษาไทย": 10,
+    "🔸lore-chat": 25,
+    "🔸lets-count": 1,
+    "🔸team-building": 8,
+    "🔸general-chat": 98,
+    "🔸game-question": 257,
+    "🔸游戏问题": 2,
+    "🔸机器人命令┊bot-commands": 5,
+    "AA凱刻斯": 1,
+    "莉茲Liz cosplay （標題已經寫ㄌ所以拒絕看到真人的請不要點進來感謝感謝再感謝）": 1,
+    "堆图ing": 1,
+    "小QQ系列-四小強+混沌界域上半": 1,
+    "Rework the design of Scintilla": 1,
+    "Please add the number of Retry Battle / Time Reversal used to the Mission Clear Screen": 1,
+    "Are there any plans to fix iOS version of game?": 2,
+    "Additional Record Filters": 1,
+    "Please rework how Propagation Caro works for the future units": 1,
+    "v2.6.0.0 停服维护公告": 7,
+    "V2.5.1.0 停服维护公告": 1,
+    "new player need help with teams": 1,
+    "New Player, advise on pulling and teams": 1
+  },
+  "hourly_activity": {
+    "0": 1049,
+    "1": 326
+  },
+  "message_types": {
+    "0": 925,
+    "19": 449,
+    "20": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1541248982683091025",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "not_blueberry",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541252007699026051",
+      "channel_id": "1170692781216378960",
+      "content": "game got popular on korea, they have an emoji culture in boards, there are alrea",
+      "author": "sashawulph",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541241108640567456",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "not_blueberry",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541250909990948914",
+      "channel_id": "1170692781216378960",
+      "content": "heh",
+      "author": "bagels5899",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541240814233976862",
+      "channel_id": "1170692781216378960",
+      "content": "All my guides will be rendered worthless because im a whale",
+      "author": "polkarain",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541244196562665532",
+      "channel_id": "1170692781216378960",
+      "content": "Soon",
+      "author": "leviathxan",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541246805235343461",
+      "channel_id": "1170692781216378960",
+      "content": "How",
+      "author": "illiade",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541256221091303545",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "46982105",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541243550199709896",
+      "channel_id": "1433513650299076780",
+      "content": "Mouchette just rouse and win",
+      "author": "bw55555",
+      "reactions": 3,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1541236011181412443",
+      "channel_id": "1170692781216378960",
+      "content": "https://cdn.discordapp.com/attachments/1170692781216378960/1540530463452565555/I",
+      "author": "corvim",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541238284108439573",
+      "channel_id": "1170692781216378960",
+      "content": "Time to think about their interactions with my Keeper OC and draw it",
+      "author": "leonartona",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541240377602736269",
+      "channel_id": "1170692781216378960",
+      "content": "If I'm getting called a whale for spending $12 I don't even wanna know what you ",
+      "author": "mesozoicguy15",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541241453739647046",
+      "channel_id": "1170692781216378960",
+      "content": "the only way to demonstrate that you're a true expert on a team for guidemaking ",
+      "author": "reya.li",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541242386804641813",
+      "channel_id": "1170692781216378960",
+      "content": "oh it's already maintenance",
+      "author": "laplace.in.my.head",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541243216492240926",
+      "channel_id": "1170692781216378960",
+      "content": "i have a good idea for a caraboo team",
+      "author": "syruponstrawberrycake",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541245814310178946",
+      "channel_id": "1170692781216378960",
+      "content": "cool artwork",
+      "author": "serahh__",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541248067238367435",
+      "channel_id": "1170692781216378960",
+      "content": "A Mirror Dungeon run!",
+      "author": "verdy_heh",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541249090967310438",
+      "channel_id": "1170692781216378960",
+      "content": "Yes way",
+      "author": "leviathxan",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541250386130903051",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "sashawulph",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541251062541979659",
+      "channel_id": "1170692781216378960",
+      "content": "im so blind without my glasses",
+      "author": "princess.goth",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
