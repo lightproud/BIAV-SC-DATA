@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-24",
+  "messages": 7,
+  "unique_authors": 3,
+  "reactions_total": 10,
+  "attachments": 0,
+  "channel_activity": {
+    "general-discussion": 7
+  },
+  "hourly_activity": {
+    "7": 7
+  },
+  "message_types": {
+    "19": 3,
+    "0": 4
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1541347748169646080",
+      "channel_id": "1402941858606219294",
+      "content": "Yes, thank you!\nIs Ace all right?",
+      "author": "haps",
+      "reactions": 6,
+      "channel": "general-discussion"
+    },
+    {
+      "id": "1541349381159129088",
+      "channel_id": "1402941858606219294",
+      "content": "Thanks for your concern. We'll keep operating as usual, and the team is still wo",
+      "author": "morimensstaff03",
+      "reactions": 2,
+      "channel": "general-discussion"
+    },
+    {
+      "id": "1541348724108828734",
+      "channel_id": "1402941858606219294",
+      "content": "Let me check on this. I'll report back to you as soon as I have any updates.",
+      "author": "morimensstaff03",
+      "reactions": 1,
+      "channel": "general-discussion"
+    },
+    {
+      "id": "1541349644867477505",
+      "channel_id": "1402941858606219294",
+      "content": "Please take care of yourself!",
+      "author": "haps",
+      "reactions": 1,
+      "channel": "general-discussion"
+    }
+  ]
+}
