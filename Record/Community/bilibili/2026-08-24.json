@@ -1,9 +1,78 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-24T01:08:30.532403+00:00",
+  "archived_at": "2026-08-24T03:54:28.873462+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 8,
   "items": [
+    {
+      "title": "『忘却前夜』金人的回溯、抽卡、灵核养成选择",
+      "summary": "-\n  └ 罗伊R95 (0赞): 为什么回溯皮\n  └ 幻觉の概念 (1赞): 以后密契直接绑定了，能不能直接出一个哪些角色要什么密契以及洗什么属性的视频\n  └ 究极凡骨传说 (2赞): 开门了？",
+      "source": "bilibili",
+      "time": "2026-08-24T02:31:55+00:00",
+      "url": "https://www.bilibili.com/video/BV1sm8Y65EFr",
+      "engagement": 1475,
+      "is_hot": true,
+      "author": "金发女人丨型",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 1467,
+        "comment_count": 8,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/51bd617c343925e14546876b5785016ea910cf32.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "明明是由阴湿肥宅组成的怪物，在我眼中却是美丽的少女",
+      "summary": "沙耶之榔:由大果组成的少女\nBV1wSL96YEhp\n  └ Sakuraの上衫絵梨衣 (2赞): 沙耶，你在哪，，，[兔年吉祥東雪蓮_哭哭]\n  └ Rsd丶时间 (2赞): [笑哭]我的沙耶在哪里。\n  └ JohnUmane7 (2赞): 明明是由阴湿肥宅组成的怪物，在我眼中却是美丽的少女。\n我叫郁纪，是一名vrchat玩家，因为入坑了vr，钱包和良好的精神状态不幸患上绝症去世。\n我的身体侥幸活了下来，但vrc世界却扭曲了我的感官，在我的世界里天地万物都化作白白胖胖的低对比度挂机房。楼房是白色的，路面是白色的，每张收藏地图都变成了白色emo地图，昔日的挚友和路人全部消失成为一行黄字和黄灯。寻常饭菜像是必须用手吃的薯片，空气永远弥漫着改花刀和魔爪的味道，完整的现实对我而言是永不落幕的酷刑，无数次我都想一走了之，直到在便利店遇见沙耶。\n世界上唯有沙耶在我眼中是干净纯粹，身着白裙的黑发少女。但沙耶根本不是人类，她是由vrc世界孕育出的生物，普通人只要看上一眼就会得到精神疾病。只有早已感官扭曲的我才会将她视作少女。我们沉溺于彼此，在布满镜子的vrc挂机房里相依生活。\n沙耶会把不玩VRC的现充加工成白白瘦瘦的美少女，我抛开人类的道德底线，心甘情愿接纳他一切诡异的特质，彻底割裂自己曾经的挚友，我只希望能和沙耶一起成为vrc美少女。",
+      "source": "bilibili",
+      "time": "2026-08-24T02:52:08+00:00",
+      "url": "https://www.bilibili.com/video/BV1zL8Y6KENA",
+      "engagement": 147,
+      "is_hot": false,
+      "author": "JohnUmane7",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 143,
+        "comment_count": 4,
+        "comments_fetched": 3,
+        "danmaku": 2
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/cc0ced75c0d38928e72f485a16809a2ef8ccaf43.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "光速再版！GSC POP UP PARADE 沙耶之歌 沙耶 L size 手办 再版",
+      "summary": "GSC POP UP PARADE 沙耶之歌 沙耶 L size 手办 再版\n  └ 赵清歌GEGE (0赞): https://b23.tv/mall-2YQ3Q-vKmT",
+      "source": "bilibili",
+      "time": "2026-08-24T01:12:49+00:00",
+      "url": "https://www.bilibili.com/video/BV1Mn8e6QEzD",
+      "engagement": 94,
+      "is_hot": false,
+      "author": "赵清歌GEGE",
+      "tags": [
+        "模玩·周边"
+      ],
+      "metadata": {
+        "play": 93,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/cdbb2c7f59ec7b22980e18f85a1d2a768df7cdb2.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
     {
       "title": "【忘却前夜】鸟弟1T 5-5利兹 8.15融灾",
       "summary": "-\n  └ 寂榕 (0赞): 厉害了",
@@ -23,6 +92,75 @@
         "danmaku": 1
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/49a248bdeb6621ae37d7f7a741affa824d965212.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "忘却前夜8.24v2.6.0.0更新公告",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-24T01:28:20+00:00",
+      "url": "https://www.bilibili.com/video/BV1h58e6dEHR",
+      "engagement": 44,
+      "is_hot": false,
+      "author": "卢泓然卢大王",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 44,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/154d27765e483d746cce9bdb3c3dcccedc421f71.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "明明是由阴阳太极组成的怪物，在我眼中却是美丽的少女",
+      "summary": "您也别火气这么大，E总，评论区有些人艾特您，不代表他们是我的什么粉丝，我个人对于您是非常尊重的。我就一个小UP，视频发着玩的\n2021年我就关注您了，一晃五年过来了，我觉得您一个宽宏大量的屠皇，肯定不会跟我这种人计较，是不是\n  └ 帅小台 (1赞): [吃瓜]",
+      "source": "bilibili",
+      "time": "2026-08-24T03:45:00+00:00",
+      "url": "https://www.bilibili.com/video/BV1fa886oEsz",
+      "engagement": 20,
+      "is_hot": false,
+      "author": "T0黑昆虫大王罗二比",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 19,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/f021ee598175d0206ba131a031191a2340b11225.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "全网首发忘却前夜蜜渍假象卡拉布抽奖",
+      "summary": "-\n  └ 风入旧林 (0赞): 将近200抽才出3个，惨败[藏狐]",
+      "source": "bilibili",
+      "time": "2026-08-24T03:25:41+00:00",
+      "url": "https://www.bilibili.com/video/BV1948Y6ZEeF",
+      "engagement": 12,
+      "is_hot": false,
+      "author": "卢泓然卢大王",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 11,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/80e07cd180908a9397e802dc0999c8140d5f8709.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

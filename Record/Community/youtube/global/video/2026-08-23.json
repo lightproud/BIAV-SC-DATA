@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
-  "archived_at": "2026-08-24T01:08:30.529498+00:00",
+  "archived_at": "2026-08-24T03:54:28.872701+00:00",
   "source": "youtube",
-  "item_count": 18,
+  "item_count": 19,
   "items": [
     {
       "title": "Song of Memento - Русский кавер - Morimens x Saya no Uta - riguruma",
@@ -102,6 +102,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/-BZdlgwDw08/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "(유입환영) 차분하게 차분하게",
+      "summary": "오늘은 뭐할지 모르는 날 #vtuber #sd #sd버츄얼 #추리게임 #퍼리.",
+      "source": "youtube",
+      "time": "2026-08-23T14:53:52Z",
+      "url": "https://www.youtube.com/watch?v=byoyqt3Vk4s",
+      "engagement": 12,
+      "is_hot": false,
+      "author": "Wurpus Palir Ch. 팰리르",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/byoyqt3Vk4s/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

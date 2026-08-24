@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-24T01:08:30.530249+00:00",
+  "archived_at": "2026-08-24T03:54:28.874056+00:00",
   "source": "youtube",
-  "item_count": 8,
+  "item_count": 11,
   "items": [
     {
       "title": "The FUTURE of Morimens: The Yappening of Caraboo, Banners, D-Tide changes and Arc 3?!",
@@ -39,6 +39,40 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Finished Kingdom Hearts 1.5 Morimens For a Bit",
+      "summary": "Stream almost daily whenever I have free time we multi-stream on twitch and only on twitch for things that might get us in trouble ...",
+      "source": "youtube",
+      "time": "2026-08-24T03:23:41Z",
+      "url": "https://www.youtube.com/watch?v=q_o4zSklqt8",
+      "engagement": 273,
+      "is_hot": false,
+      "author": "FluffeyPanda's World",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/q_o4zSklqt8/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】生粋のドパガキは涙の代わりに脳汁を流す【８章】",
+      "summary": "最近は高難度を消化したりなどしている Twitter(X)→https://x.com/to_m4fuyu.",
+      "source": "youtube",
+      "time": "2026-08-24T02:08:16Z",
+      "url": "https://www.youtube.com/watch?v=-BZdlgwDw08",
+      "engagement": 81,
+      "is_hot": false,
+      "author": "to真冬",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/-BZdlgwDw08/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Directo relax Morimens",
       "summary": "No olviden unirse al discord :). https://discord.gg/UgmMCae3Sg.",
       "source": "youtube",
@@ -51,6 +85,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/a79cmxFTHYI/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Directo relax Morimens Vamos por esa Caraboo!",
+      "summary": "No olviden unirse al discord :). https://discord.gg/UgmMCae3Sg.",
+      "source": "youtube",
+      "time": "2026-08-24T02:24:35Z",
+      "url": "https://www.youtube.com/watch?v=J2i6VPjzQkA",
+      "engagement": 56,
+      "is_hot": false,
+      "author": "OcteKG",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/J2i6VPjzQkA/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
