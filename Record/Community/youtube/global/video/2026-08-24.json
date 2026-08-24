@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-24T06:55:01.628888+00:00",
+  "archived_at": "2026-08-24T09:46:23.058542+00:00",
   "source": "youtube",
-  "item_count": 13,
+  "item_count": 17,
   "items": [
     {
       "title": "The FUTURE of Morimens: The Yappening of Caraboo, Banners, D-Tide changes and Arc 3?!",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/KHXtjNf2REk/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Flares&#39; Awakener Review : Caraboo - A Tier (Potential S tier pending) Caro Support DPS",
+      "summary": "https://buymeacoffee.com/flares https://discord.gg/tpMMe5W7CT - Personal Flares Discord ...",
+      "source": "youtube",
+      "time": "2026-08-24T07:51:29Z",
+      "url": "https://www.youtube.com/watch?v=Onj0Y0hLkxw",
+      "engagement": 625,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/Onj0Y0hLkxw/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -56,6 +73,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "[Morimens] 2.6.0 Patch OVERVIEW STREAM AFTER VIDEO",
+      "summary": "Don't know how long. Will be doing other stuff too.",
+      "source": "youtube",
+      "time": "2026-08-24T08:31:15Z",
+      "url": "https://www.youtube.com/watch?v=hbbWaUTUQbc",
+      "engagement": 165,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/hbbWaUTUQbc/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "【忘却前夜】生粋のドパガキは涙の代わりに脳汁を流す【８章】",
       "summary": "最近は高難度を消化したりなどしている Twitter(X)→https://x.com/to_m4fuyu.",
       "source": "youtube",
@@ -90,6 +124,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Morimens \\\\ Обзор обновления 2.6 и крутки Карабу + проходим новую сюжетку!",
+      "summary": "Добровольная поддержка: https://www.donationalerts.com/r/closetom Напрямую: 2200700154063498 Т-Банк Соцсети: ...",
+      "source": "youtube",
+      "time": "2026-08-24T08:46:58Z",
+      "url": "https://www.youtube.com/watch?v=Ej_q3MWVYlE",
+      "engagement": 64,
+      "is_hot": false,
+      "author": "Closetom",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/Ej_q3MWVYlE/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Directo relax Morimens Vamos por esa Caraboo!",
       "summary": "No olviden unirse al discord :). https://discord.gg/UgmMCae3Sg.",
       "source": "youtube",
@@ -102,6 +153,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/J2i6VPjzQkA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] 2.6.0 Story Chapters + Caraboo Testing",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-24T07:35:45Z",
+      "url": "https://www.youtube.com/watch?v=dw_vfs2y3FE",
+      "engagement": 51,
+      "is_hot": false,
+      "author": "kizunoV",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/dw_vfs2y3FE/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

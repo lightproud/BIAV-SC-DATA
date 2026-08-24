@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-24T06:55:01.677249+00:00",
+  "archived_at": "2026-08-24T09:46:23.107073+00:00",
   "source": "steam",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "[正面] yes",
@@ -166,6 +166,30 @@
         "playtime_forever": 4500,
         "votes_up": 0,
         "timestamp_created": 1787541324
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 나름 잘만들엇는데\n번역부분 걸려서 재미 느끼기어려움\n난이도 부분은 어렵지 않고 스무스하게...",
+      "summary": "나름 잘만들엇는데\n번역부분 걸려서 재미 느끼기어려움\n난이도 부분은 어렵지 않고 스무스하게 가짐\n성장 개념을 섞엇다는것에 새로움 느낌",
+      "source": "steam_review",
+      "time": "2026-08-24T07:36:36+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198322566280/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198322566280",
+      "tags": [
+        "koreana"
+      ],
+      "language": "koreana",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 215,
+        "votes_up": 0,
+        "timestamp_created": 1787556996
       },
       "region": "global",
       "archive_subtype": "review",
