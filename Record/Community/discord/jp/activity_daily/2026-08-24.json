@@ -1,21 +1,117 @@
 {
   "date": "2026-08-24",
-  "messages": 11,
-  "unique_authors": 8,
-  "reactions_total": 0,
-  "attachments": 0,
+  "messages": 120,
+  "unique_authors": 16,
+  "reactions_total": 20,
+  "attachments": 6,
   "channel_activity": {
-    "なんでも雑談": 5,
-    "誰でも質問": 4,
-    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 1,
-    "つぶやき": 1
+    "なんでも雑談": 74,
+    "🔰初心者質問": 1,
+    "誰でも質問": 10,
+    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 4,
+    "ニムフィーアの毒パ研究日誌": 3,
+    "つぶやき": 23,
+    "誰でもOKグロ版野次馬スレ": 5
   },
   "hourly_activity": {
+    "2": 16,
+    "3": 84,
+    "4": 9,
     "0": 3,
     "1": 8
   },
   "message_types": {
-    "0": 11
+    "0": 109,
+    "19": 11
   },
-  "top_reacted_messages": []
+  "top_reacted_messages": [
+    {
+      "id": "1541281324755714148",
+      "channel_id": "1377478664609857647",
+      "content": "これで推し2人を完凸出来ましタ",
+      "author": "altiar_zain",
+      "reactions": 4,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1541285261793697903",
+      "channel_id": "1377478664609857647",
+      "content": "こっちに完凸したの送り忘れてた…\nやっぱ推しは完凸すべきですな…",
+      "author": "mizuame2",
+      "reactions": 4,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1541294500767596597",
+      "channel_id": "1377478664609857647",
+      "content": "守秘者よ、早く終わらせるのじゃっていうのも好きだなぁ私は",
+      "author": "uru_neo",
+      "reactions": 3,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1541275702161055864",
+      "channel_id": "1377478664609857647",
+      "content": "",
+      "author": "altiar_zain",
+      "reactions": 2,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1541284520538673285",
+      "channel_id": "1377478664609857647",
+      "content": "ナイス〜",
+      "author": "uru_neo",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1541292536373444719",
+      "channel_id": "1377478664609857647",
+      "content": "2ヶ月強おんぶにだっこだった大好きな沙耶たんが同調率15になりました~🥰🥰🥰🥰🥰融災と24特務攻略以外でただの一度もパーティから抜いたことありませんでした~",
+      "author": "ciocux",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1541293753321398272",
+      "channel_id": "1377478664609857647",
+      "content": "５、６章シレストさんいっぱい出てくるから大好き",
+      "author": "ciocux",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1541297133083164692",
+      "channel_id": "1377478664609857647",
+      "content": "まだ2-12まで",
+      "author": "yamaiame_ql4",
+      "reactions": 1,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1541283684433530980",
+      "channel_id": "1458760640351965361",
+      "content": "週奨励增量ください",
+      "author": "foxcatfurry",
+      "reactions": 1,
+      "channel": "つぶやき"
+    },
+    {
+      "id": "1541284339944521868",
+      "channel_id": "1458760640351965361",
+      "content": "||1個250万はエグい‼️これ毎月買うのは金持ちすぎる||",
+      "author": "suzuri9701",
+      "reactions": 1,
+      "channel": "つぶやき"
+    },
+    {
+      "id": "1541290389007237211",
+      "channel_id": "1458760640351965361",
+      "content": "1枚だけやってみてなんとなく分かった🫪",
+      "author": "suzuri9701",
+      "reactions": 1,
+      "channel": "つぶやき"
+    }
+  ]
 }
