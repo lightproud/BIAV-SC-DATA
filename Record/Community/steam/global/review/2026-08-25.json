@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-25",
+  "archived_at": "2026-08-24T18:38:57.592841+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[负面] после обновления произошла какая-то херня, и у мен...",
+      "summary": "после обновления произошла какая-то херня, и у меня полностью перестала запускаться игра. Что только не пробывала, переустанавливала и кнопку ремонт нажимала, а загрузка не двигалась. Может кто-то сталкивался с этой проблемой?",
+      "source": "steam_review",
+      "time": "2026-08-24T17:46:03+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198769230953/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198769230953",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 860,
+        "votes_up": 0,
+        "timestamp_created": 1787593563
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

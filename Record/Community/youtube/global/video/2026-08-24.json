@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-24T15:40:37.631895+00:00",
+  "archived_at": "2026-08-24T18:38:57.509293+00:00",
   "source": "youtube",
-  "item_count": 21,
+  "item_count": 22,
   "items": [
     {
       "title": "The FUTURE of Morimens: The Yappening of Caraboo, Banners, D-Tide changes and Arc 3?!",
@@ -187,6 +187,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/dw_vfs2y3FE/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens \\\\ Обзор Карабу и нововведений в патче 2.6.0 (206)",
+      "summary": "Промокод на 1000 Серебра и 5 Ивентовых круток   (В честь 60000 участников на оф. канале дискорда) Код: DC60000 ...",
+      "source": "youtube",
+      "time": "2026-08-24T15:58:33Z",
+      "url": "https://www.youtube.com/watch?v=M8N5R-NGrI0",
+      "engagement": 39,
+      "is_hot": false,
+      "author": "Closetom",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/M8N5R-NGrI0/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

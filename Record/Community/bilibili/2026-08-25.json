@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-25",
+  "archived_at": "2026-08-24T18:38:57.511670+00:00",
+  "source": "bilibili",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "【忘却前夜】单次侵蚀……有上限",
+      "summary": "呃呃\n  └ 论多厨到底有几种死法 (0赞): 最后我没看错吧，1000万的侵蚀[笑哭]\n  └ 丿丨丨泽 (0赞): [惊讶][惊讶][惊讶]",
+      "source": "bilibili",
+      "time": "2026-08-24T17:09:40+00:00",
+      "url": "https://www.bilibili.com/video/BV1MqhN6GEqa",
+      "engagement": 209,
+      "is_hot": false,
+      "author": "朝星-",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 203,
+        "comment_count": 6,
+        "comments_fetched": 2,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/a8daf9ccd4f705f7d2c6e9c925f0766cc3b2a291.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "明明是由全国第一小学生组成的时代峰峻，在我眼里却是美丽的少女",
+      "summary": "我没米线\n  └ 二阶堂本蛋 (2赞): （男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）\n  └ 未来の群星闪耀之时 (1赞): @银河大玉--AAA专业当区 破绷了\n  └ 普通的天道总司 (1赞): 好雷霆啊",
+      "source": "bilibili",
+      "time": "2026-08-24T16:06:40+00:00",
+      "url": "https://www.bilibili.com/video/BV1LFhK6xEWe",
+      "engagement": 159,
+      "is_hot": false,
+      "author": "败北星光",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 151,
+        "comment_count": 8,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/4755ff6326ccf4bc79f983f89ad38ecc414c651c.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    }
+  ]
+}

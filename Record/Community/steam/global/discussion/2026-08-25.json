@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-25",
+  "archived_at": "2026-08-24T18:38:57.597451+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam论坛] Please support GeForce NOW!",
+      "summary": "Hi B.I.A.V. Studio and the Morimens team,\n\nI’m a big fan of the game and I’ve been really wanting to return to the fandom and experience the latest content. Unfortunately, my current PC setup is quite limited. Even though I have around 30GB of free space left, I still run into storage and extraction errors during installation, making it impossible to install the game locally.\n\nSince Morimens is already available on Steam, could you please consider opting the game into GeForce NOW via the Steamwo",
+      "source": "steam_discussion",
+      "time": "2026-08-24T16:41:10+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/592939340207933245/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Lyra",
+      "tags": [
+        "steam_forum"
+      ],
+      "region": "global",
+      "archive_subtype": "discussion",
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}
