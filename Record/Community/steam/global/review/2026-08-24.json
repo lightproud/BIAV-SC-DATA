@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-24T12:44:31.082714+00:00",
+  "archived_at": "2026-08-24T15:40:37.705260+00:00",
   "source": "steam",
-  "item_count": 10,
+  "item_count": 13,
   "items": [
     {
       "title": "[正面] yes",
@@ -238,6 +238,78 @@
         "playtime_forever": 2398,
         "votes_up": 0,
         "timestamp_created": 1787567049
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 5771ND",
+      "summary": "5771ND",
+      "source": "steam_review",
+      "time": "2026-08-24T13:40:36+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199887586917/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199887586917",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 5749,
+        "votes_up": 0,
+        "timestamp_created": 1787578836
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[负面] 游戏内版本更新速度好慢……",
+      "summary": "游戏内版本更新速度好慢……",
+      "source": "steam_review",
+      "time": "2026-08-24T13:16:32+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198349452858/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198349452858",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 768,
+        "votes_up": 0,
+        "timestamp_created": 1787577392
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 6/10，因为沙耶之歌联动而来的，核心玩法不是很喜欢，只能说卡牌肉鸽确实不是我的菜吧，大部分时候都是...",
+      "summary": "6/10，因为沙耶之歌联动而来的，核心玩法不是很喜欢，只能说卡牌肉鸽确实不是我的菜吧，大部分时候都是自动代打当galgame玩的，但艺术风格不错，很喜欢",
+      "source": "steam_review",
+      "time": "2026-08-24T12:24:53+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198254919340/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198254919340",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1043,
+        "votes_up": 0,
+        "timestamp_created": 1787574293
       },
       "region": "global",
       "archive_subtype": "review",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-24T12:44:30.995256+00:00",
+  "archived_at": "2026-08-24T15:40:37.631895+00:00",
   "source": "youtube",
-  "item_count": 20,
+  "item_count": 21,
   "items": [
     {
       "title": "The FUTURE of Morimens: The Yappening of Caraboo, Banners, D-Tide changes and Arc 3?!",
@@ -221,6 +221,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/byoyqt3Vk4s/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "忘卻前夜 Morimens 카라부 메인딜 h 4-10",
+      "summary": "돌파 좀 더 뚫으면 5장도 무난하게 밀 것 같은 느낌.",
+      "source": "youtube",
+      "time": "2026-08-24T12:46:46Z",
+      "url": "https://www.youtube.com/watch?v=JJ9ayT91c_o",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "사탕발림",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/JJ9ayT91c_o/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

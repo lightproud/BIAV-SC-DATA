@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-24T12:44:30.997265+00:00",
+  "archived_at": "2026-08-24T15:40:37.633457+00:00",
   "source": "bahamut",
-  "item_count": 25,
+  "item_count": 26,
   "items": [
     {
       "title": "【閒聊】+12銀芯通訊分享(尚缺：墨菲、皮克曼)",
@@ -50,6 +50,19 @@
       "time": "2026-08-23T18:25:18.600919+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1522&tnum=4",
       "engagement": 55,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【討論】時間原點發問集中串，3天毀滅倒數",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-24T15:39:04.702504+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1175&tnum=10",
+      "engagement": 43,
       "is_hot": false,
       "author": "t12345825",
       "tags": [],
