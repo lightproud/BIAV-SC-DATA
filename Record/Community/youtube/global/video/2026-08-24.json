@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-24T09:46:23.058542+00:00",
+  "archived_at": "2026-08-24T12:44:30.995256+00:00",
   "source": "youtube",
-  "item_count": 17,
+  "item_count": 20,
   "items": [
     {
       "title": "The FUTURE of Morimens: The Yappening of Caraboo, Banners, D-Tide changes and Arc 3?!",
@@ -34,6 +34,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/Onj0Y0hLkxw/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Overview of 2.6.0 Patch. What to pick for the banner, how to use Origin of Time, etc",
+      "summary": "https://buymeacoffee.com/flares https://discord.gg/tpMMe5W7CT - Personal Flares Discord ...",
+      "source": "youtube",
+      "time": "2026-08-24T10:33:46Z",
+      "url": "https://www.youtube.com/watch?v=CQga_YCEO08",
+      "engagement": 418,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/CQga_YCEO08/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -226,6 +243,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "#忘卻前夜 #morimens 卡布拉的抽卡跟隊伍測試! Kabala&#39;s Pulls and Team Testing!",
+      "summary": "忘卻前夜#morimens 15分左右的時候會是英文版介面,提供給國外的玩家會比較好參考! English UI starts around 15:00 for ...",
+      "source": "youtube",
+      "time": "2026-08-24T10:30:18Z",
+      "url": "https://www.youtube.com/watch?v=SijIlrRwVKA",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Noir",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/SijIlrRwVKA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Eclipsium - Full Playthrough",
       "summary": "I decided to try Eclipsium. This is an incredible journey of grief and trauma woven through a darkly beautiful world. I cannot stop ...",
       "source": "youtube",
@@ -289,6 +323,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/mboVqGWU08s/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Livestreaming Event - Before Spring Fades: Rerun &amp; Garden Memories!",
+      "summary": "Memories.",
+      "source": "youtube",
+      "time": "2026-08-24T12:36:09Z",
+      "url": "https://www.youtube.com/watch?v=8VB-hih4k1M",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "InoLifo",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/8VB-hih4k1M/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

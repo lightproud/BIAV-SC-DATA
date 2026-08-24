@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-24T09:46:23.107073+00:00",
+  "archived_at": "2026-08-24T12:44:31.082714+00:00",
   "source": "steam",
-  "item_count": 8,
+  "item_count": 10,
   "items": [
     {
       "title": "[正面] yes",
@@ -190,6 +190,54 @@
         "playtime_forever": 215,
         "votes_up": 0,
         "timestamp_created": 1787556996
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 개인적으로 슬레이 더 스파이어를 뛰어넘는 최고의 서브컬쳐 덱빌딩 게임이라고 생각합니다 스토...",
+      "summary": "개인적으로 슬레이 더 스파이어를 뛰어넘는 최고의 서브컬쳐 덱빌딩 게임이라고 생각합니다 스토리가 정말 재밌고 엔드컨텐츠의 재미도 훌륭하며 일퀘의 난이도도 낮아 진입장벽이 낮다고 생각합니다. 사소한 문제는 GPT번역된 일부 스토리들은 몰입을 꺤다는 점밖에 없습니다. 게임의 BM시스템도 합리적이고 재화도 많이 줘서 진입장벽이 낮으니 부디 플레이 해보시길 권합니다.",
+      "source": "steam_review",
+      "time": "2026-08-24T12:01:30+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198792040290/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198792040290",
+      "tags": [
+        "koreana"
+      ],
+      "language": "koreana",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 20997,
+        "votes_up": 0,
+        "timestamp_created": 1787572890
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 喜欢玩爱玩 \r\n我是吾王的√",
+      "summary": "喜欢玩爱玩 \r\n我是吾王的√",
+      "source": "steam_review",
+      "time": "2026-08-24T10:24:09+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198736117104/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198736117104",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2398,
+        "votes_up": 0,
+        "timestamp_created": 1787567049
       },
       "region": "global",
       "archive_subtype": "review",

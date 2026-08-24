@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-24T09:46:23.060001+00:00",
+  "archived_at": "2026-08-24T12:44:30.997265+00:00",
   "source": "bahamut",
-  "item_count": 23,
+  "item_count": 25,
   "items": [
     {
       "title": "【閒聊】+12銀芯通訊分享(尚缺：墨菲、皮克曼)",
@@ -57,6 +57,19 @@
       "platform_region": "tw"
     },
     {
+      "title": "【討論】時間原點發問集中串，3天毀滅倒數",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-24T12:43:44.100250+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1175&tnum=9",
+      "engagement": 42,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
       "title": "【攻略】茉夏開荒隊伍與主流陣容推薦",
       "summary": "",
       "source": "bahamut",
@@ -75,6 +88,19 @@
       "source": "bahamut",
       "time": "2026-08-24T08:55:31.196053+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1175&tnum=8",
+      "engagement": 41,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【心得】2.6.0 卡拉布，新版本重點整理",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-24T12:43:44.100319+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1544&tnum=4",
       "engagement": 41,
       "is_hot": false,
       "author": "t12345825",
