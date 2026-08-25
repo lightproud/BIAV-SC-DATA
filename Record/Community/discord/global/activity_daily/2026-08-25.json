@@ -1,39 +1,60 @@
 {
   "date": "2026-08-25",
-  "messages": 4649,
-  "unique_authors": 188,
-  "reactions_total": 301,
-  "attachments": 260,
+  "messages": 8433,
+  "unique_authors": 222,
+  "reactions_total": 558,
+  "attachments": 465,
   "channel_activity": {
-    "🔸綜合討論": 60,
-    "🔸morimens-game-chat": 2039,
-    "🔸晒卡分享": 2,
+    "🔸綜合討論": 512,
+    "🔸阵容构建": 35,
+    "🔸morimens-game-chat": 3039,
+    "🔸剧情交流": 40,
+    "🔸晒卡分享": 3,
+    "🔸相位对弈": 1,
+    "🔸课间休息闲聊": 3,
+    "🔸한국어-채팅방": 18,
+    "🔸русский-канал": 44,
+    "🔸phòng-chat-tiếng-việt": 181,
+    "🔸canal-español": 115,
+    "🔸canal-português": 11,
+    "🔸ruang-obrolan-indonesia": 233,
+    "🔸traphase": 9,
+    "🔸lore-chat": 137,
+    "🔸team-building": 247,
+    "🔸general-chat": 2718,
+    "🔸邀请码互助┊swap-invitation-codes": 3,
+    "🔸game-question": 920,
+    "🔸游戏问题": 5,
+    "🔸机器人命令┊bot-commands": 28,
+    "打算開一個圖樓可能圖之後就丟這裡了": 3,
+    "Steam Game Performance Noticeably Worse": 1,
+    "既然你都做深了密契系统，能不能把背包里的密契容量扩大点，1000个根本不够用害我弄下弄下就背包满了": 6,
+    "卡拉布狂氣爆發施加侵蝕時機錯誤的問題": 13,
+    "Decrease the requirement for embryo generation in Propagation: Caro": 1,
+    "Possible Redesign of Scintilla": 1,
+    "bug：不能编辑配队": 1,
+    "Abrupt FPS drops across the board on PC client.": 4,
+    "💭「处理中」手机端变成电脑端了": 1,
+    "Rework the design of Scintilla": 2,
+    "Propagation caro needs a rework/buff": 1,
+    "Please rework how Propagation Caro works for the future units": 1,
+    "💭「Processing」game client crashed...somewhat": 1,
+    "V2.5.1.0 停服维护公告": 6,
+    "Farosposting & 한국 밈 패러디 뭉탱이": 8,
+    "Lure's art log": 4,
+    "William posting": 6,
+    "morimens team generator!!": 1,
+    "【English Translation】Opinions Collection": 7,
+    "入坑半個月求抽卡建議": 2,
     "🔸欢乐梗图": 1,
-    "🔸한국어-채팅방": 8,
-    "🔸русский-канал": 19,
-    "🔸phòng-chat-tiếng-việt": 66,
-    "🔸canal-español": 97,
-    "🔸canal-português": 10,
-    "🔸ruang-obrolan-indonesia": 177,
     "🔸ห้องสนทนาภาษาไทย": 25,
-    "🔸traphase": 4,
-    "🔸lore-chat": 86,
-    "🔸team-building": 106,
-    "🔸general-chat": 1407,
-    "🔸邀请码互助┊swap-invitation-codes": 1,
-    "🔸game-question": 483,
-    "🔸机器人命令┊bot-commands": 16,
-    "卡拉布狂氣爆發施加侵蝕時機錯誤的問題": 1,
-    "Abrupt FPS drops across the board on PC client.": 3,
     "Roses script shop": 1,
     "Impact of Version 2.6 Affinity Changes on Player Experience": 2,
     "Stats, they could feel better": 4,
     "❓「Not really answered」Lotan: Cetarchon exalt damage number does not line up with the hit animation": 3,
     "Amber-Tinted Death does not benefit from PChaos stat enhancement": 2,
-    "V2.5.1.0 停服维护公告": 2,
     "So THIS happened.": 2,
     "moss’s art dump": 1,
-    "【English Translation】Opinions Collection": 1,
     "How to best use the 5 Origin of Time?": 1,
     "New Player, advise on pulling and teams": 2,
     "【Newcomer Help】Forum Introduction": 1,
@@ -46,17 +67,45 @@
     "DTide Meta Teams and Units": 3
   },
   "hourly_activity": {
+    "4": 1417,
+    "5": 1444,
+    "6": 833,
+    "3": 1086,
     "1": 762,
     "2": 1795,
-    "3": 996,
     "0": 1096
   },
   "message_types": {
-    "0": 3119,
-    "19": 1516,
-    "20": 14
+    "0": 5778,
+    "19": 2624,
+    "20": 29,
+    "4": 2
   },
   "top_reacted_messages": [
+    {
+      "id": "1541656163484045354",
+      "channel_id": "1170692781216378960",
+      "content": "hi rain",
+      "author": "syruponstrawberrycake",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541686457771495455",
+      "channel_id": "1170692781216378960",
+      "content": "24mil per month to clear out the shop",
+      "author": "watchthew0rldburn",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541667790224629771",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "xyakoto",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
     {
       "id": "1541599497333903420",
       "channel_id": "1170692781216378960",
@@ -64,6 +113,14 @@
       "author": "aegisx",
       "reactions": 7,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541672770126225468",
+      "channel_id": "1541672770126225468",
+      "content": "",
+      "author": "zitiron",
+      "reactions": 6,
+      "channel": "Farosposting & 한국 밈 패러디 뭉탱이"
     },
     {
       "id": "1541614607309869066",
@@ -82,6 +139,54 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1541664523444944958",
+      "channel_id": "1131839817982947429",
+      "content": "~~校貓自己就~~",
+      "author": "foxcatfurry",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1541678894774620291",
+      "channel_id": "1170692781216378960",
+      "content": "[This Is Fine (@Hayase_Satoru)](https://media.discordapp.net/stickers/1525688261",
+      "author": "verdy_heh",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541681664516948048",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "rubyjaneval",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541681752819507270",
+      "channel_id": "1170692781216378960",
+      "content": "am i rich guys",
+      "author": "azalea_h",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541688681906044998",
+      "channel_id": "1170692781216378960",
+      "content": "I don't know but I lv6 her rouse for aliemus so I can frenzy faster",
+      "author": "aurora3981",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541665610822586470",
+      "channel_id": "1445556242381672559",
+      "content": "warm-cold hand contrast~",
+      "author": "zzio_",
+      "reactions": 4,
+      "channel": "William posting"
+    },
+    {
       "id": "1541620162732625940",
       "channel_id": "1326453763355185215",
       "content": "castor...........................",
@@ -98,6 +203,30 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1541692958498365441",
+      "channel_id": "1170692781216378960",
+      "content": "Yay",
+      "author": "sno_w",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541700970013270046",
+      "channel_id": "1170692781216378960",
+      "content": ">use caraboo blessing\n> - 150 str\n>enemy has a 176x6 atk\n>missed chance\n\n🥀 🥀 🥀",
+      "author": "azalea_h",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541682718549745726",
+      "channel_id": "1173463482503536711",
+      "content": "卡拉布和她的小孩🤩",
+      "author": "ass191044",
+      "reactions": 3,
+      "channel": "🔸剧情交流"
+    },
+    {
       "id": "1541623029866561556",
       "channel_id": "1170692781216378960",
       "content": "Pyramid? <:Saya_question:1513124492119904357> \nI used one on my OE lvl 80 Pollux",
@@ -111,110 +240,6 @@
       "content": "I LOVE 50 BARRIERS WITH NO WINKLE",
       "author": "omegamart",
       "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541644522159743006",
-      "channel_id": "1170692781216378960",
-      "content": "Now get her E2",
-      "author": "az123456789",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541650231513587712",
-      "channel_id": "1170692781216378960",
-      "content": "Frost is f2p when compared to sophie. Sophie is a full +12 acc",
-      "author": "aurora3981",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541650686947627028",
-      "channel_id": "1170692781216378960",
-      "content": "Frost, join me. Together we can 10/10/5 every Awakener!",
-      "author": "sophiechoice",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541632834211684466",
-      "channel_id": "1300659603993923644",
-      "content": "Yêu anh",
-      "author": "khaduong2211._85445",
-      "reactions": 3,
-      "channel": "🔸phòng-chat-tiếng-việt"
-    },
-    {
-      "id": "1541635217658482862",
-      "channel_id": "1326453763355185215",
-      "content": "geez castor, how come biav lets you have 2 unique sprites?",
-      "author": "nikolazuli",
-      "reactions": 3,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1541647337334644777",
-      "channel_id": "1326453763355185215",
-      "content": "shit is tuff",
-      "author": "cas727",
-      "reactions": 3,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1541641442051620974",
-      "channel_id": "1400750050208125010",
-      "content": "winkle so cute though",
-      "author": "bunnycide420",
-      "reactions": 3,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1541644728301392002",
-      "channel_id": "1400750050208125010",
-      "content": "cuz she is cute and deserves it <:Celeste_agree:1400771815076528258>",
-      "author": "bunnycide420",
-      "reactions": 3,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1541599921667580065",
-      "channel_id": "1170692781216378960",
-      "content": ":c",
-      "author": "topazlh",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541612560564879380",
-      "channel_id": "1170692781216378960",
-      "content": "I think for long term players,  the strat is probably-> clear all nightmare,  th",
-      "author": "polkarain",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541620782877114369",
-      "channel_id": "1131839817982947429",
-      "content": "<:Lotan_proud:1356053120651755641>",
-      "author": "iamnotbunny",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1541627670582927411",
-      "channel_id": "1170692781216378960",
-      "content": "it looks like this",
-      "author": "nowave2863",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541628277955887184",
-      "channel_id": "1170692781216378960",
-      "content": "crit rate is cringe just restart the fight 2000 times until all hits are crits",
-      "author": "bunnycide420",
-      "reactions": 2,
       "channel": "🔸morimens-game-chat"
     }
   ]
