@@ -1,41 +1,60 @@
 {
   "date": "2026-08-25",
-  "messages": 1277,
-  "unique_authors": 111,
-  "reactions_total": 110,
-  "attachments": 90,
+  "messages": 4649,
+  "unique_authors": 188,
+  "reactions_total": 301,
+  "attachments": 260,
   "channel_activity": {
-    "🔸綜合討論": 14,
-    "🔸morimens-game-chat": 727,
-    "🔸한국어-채팅방": 1,
-    "🔸русский-канал": 12,
-    "🔸canal-español": 54,
-    "🔸ruang-obrolan-indonesia": 61,
-    "🔸ห้องสนทนาภาษาไทย": 2,
-    "🔸traphase": 1,
-    "🔸lore-chat": 3,
+    "🔸綜合討論": 60,
+    "🔸morimens-game-chat": 2039,
+    "🔸晒卡分享": 2,
+    "🔸欢乐梗图": 1,
+    "🔸한국어-채팅방": 8,
+    "🔸русский-канал": 19,
+    "🔸phòng-chat-tiếng-việt": 66,
+    "🔸canal-español": 97,
+    "🔸canal-português": 10,
+    "🔸ruang-obrolan-indonesia": 177,
+    "🔸ห้องสนทนาภาษาไทย": 25,
+    "🔸traphase": 4,
+    "🔸lore-chat": 86,
+    "🔸team-building": 106,
+    "🔸general-chat": 1407,
+    "🔸邀请码互助┊swap-invitation-codes": 1,
+    "🔸game-question": 483,
+    "🔸机器人命令┊bot-commands": 16,
+    "卡拉布狂氣爆發施加侵蝕時機錯誤的問題": 1,
+    "Abrupt FPS drops across the board on PC client.": 3,
+    "Roses script shop": 1,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 2,
+    "Stats, they could feel better": 4,
+    "❓「Not really answered」Lotan: Cetarchon exalt damage number does not line up with the hit animation": 3,
+    "Amber-Tinted Death does not benefit from PChaos stat enhancement": 2,
+    "V2.5.1.0 停服维护公告": 2,
+    "So THIS happened.": 2,
+    "moss’s art dump": 1,
+    "【English Translation】Opinions Collection": 1,
+    "How to best use the 5 Origin of Time?": 1,
+    "New Player, advise on pulling and teams": 2,
+    "【Newcomer Help】Forum Introduction": 1,
     "🔸lets-count": 2,
     "🔸频道建议┊server-suggestions": 1,
-    "🔸team-building": 55,
-    "🔸general-chat": 84,
-    "🔸game-question": 234,
-    "🔸机器人命令┊bot-commands": 9,
     "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 1,
-    "Stats, they could feel better": 3,
     "Are there any plans to fix iOS version of game?": 1,
     "Additional Record Filters": 5,
     "Quadra / 4-Realm Rerun Banners": 3,
-    "V2.5.1.0 停服维护公告": 1,
     "DTide Meta Teams and Units": 3
   },
   "hourly_activity": {
-    "0": 1096,
-    "1": 181
+    "1": 762,
+    "2": 1795,
+    "3": 996,
+    "0": 1096
   },
   "message_types": {
-    "0": 842,
-    "19": 428,
-    "20": 7
+    "0": 3119,
+    "19": 1516,
+    "20": 14
   },
   "top_reacted_messages": [
     {
@@ -55,12 +74,108 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1541638916652929075",
+      "channel_id": "1170692781216378960",
+      "content": "WOW 2 WORM",
+      "author": "decarabla",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541620162732625940",
+      "channel_id": "1326453763355185215",
+      "content": "castor...........................",
+      "author": "hikarimew",
+      "reactions": 4,
+      "channel": "🔸lore-chat"
+    },
+    {
       "id": "1541606109800960020",
       "channel_id": "1170692781216378960",
       "content": "",
       "author": "baul_punyan",
       "reactions": 4,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541623029866561556",
+      "channel_id": "1170692781216378960",
+      "content": "Pyramid? <:Saya_question:1513124492119904357> \nI used one on my OE lvl 80 Pollux",
+      "author": "frosthief",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541632594548891790",
+      "channel_id": "1170692781216378960",
+      "content": "I LOVE 50 BARRIERS WITH NO WINKLE",
+      "author": "omegamart",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541644522159743006",
+      "channel_id": "1170692781216378960",
+      "content": "Now get her E2",
+      "author": "az123456789",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541650231513587712",
+      "channel_id": "1170692781216378960",
+      "content": "Frost is f2p when compared to sophie. Sophie is a full +12 acc",
+      "author": "aurora3981",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541650686947627028",
+      "channel_id": "1170692781216378960",
+      "content": "Frost, join me. Together we can 10/10/5 every Awakener!",
+      "author": "sophiechoice",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541632834211684466",
+      "channel_id": "1300659603993923644",
+      "content": "Yêu anh",
+      "author": "khaduong2211._85445",
+      "reactions": 3,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1541635217658482862",
+      "channel_id": "1326453763355185215",
+      "content": "geez castor, how come biav lets you have 2 unique sprites?",
+      "author": "nikolazuli",
+      "reactions": 3,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1541647337334644777",
+      "channel_id": "1326453763355185215",
+      "content": "shit is tuff",
+      "author": "cas727",
+      "reactions": 3,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1541641442051620974",
+      "channel_id": "1400750050208125010",
+      "content": "winkle so cute though",
+      "author": "bunnycide420",
+      "reactions": 3,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1541644728301392002",
+      "channel_id": "1400750050208125010",
+      "content": "cuz she is cute and deserves it <:Celeste_agree:1400771815076528258>",
+      "author": "bunnycide420",
+      "reactions": 3,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1541599921667580065",
@@ -79,123 +194,27 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1541598157920534688",
+      "id": "1541620782877114369",
+      "channel_id": "1131839817982947429",
+      "content": "<:Lotan_proud:1356053120651755641>",
+      "author": "iamnotbunny",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1541627670582927411",
       "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "laplace.in.my.head",
+      "content": "it looks like this",
+      "author": "nowave2863",
       "reactions": 2,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1541598791449321492",
+      "id": "1541628277955887184",
       "channel_id": "1170692781216378960",
-      "content": "glotan is like very bad at the new ch in arc 2 right? The freeze only removing i",
-      "author": "grimalkaiser",
+      "content": "crit rate is cringe just restart the fight 2000 times until all hits are crits",
+      "author": "bunnycide420",
       "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541600050885562468",
-      "channel_id": "1170692781216378960",
-      "content": "and this",
-      "author": "aegisx",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541605280926933032",
-      "channel_id": "1170692781216378960",
-      "content": "aaaaw. started playing today and just missed YouSavedMorimens, it seems. either ",
-      "author": "tharja.",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541608474599882752",
-      "channel_id": "1170692781216378960",
-      "content": "I rounded down <:Aurita_please:1356053110375714817>",
-      "author": "frosthief",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541609605707079790",
-      "channel_id": "1170692781216378960",
-      "content": "E1 is great for dps\nE2 is nice\nE3 is borderline required",
-      "author": "corvim",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541610742166323263",
-      "channel_id": "1170692781216378960",
-      "content": "Speedwalk is at ch7",
-      "author": "angbak",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541612048025264208",
-      "channel_id": "1170692781216378960",
-      "content": "I heard madness is like 20mil....",
-      "author": "polkarain",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541613146328797224",
-      "channel_id": "1170692781216378960",
-      "content": "gbumlot",
-      "author": "laplace.in.my.head",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541614780534624396",
-      "channel_id": "1170692781216378960",
-      "content": "https://cdn.discordapp.com/attachments/1170692781216378960/1524255962460983356/t",
-      "author": "acornn1",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541614946872332388",
-      "channel_id": "1170692781216378960",
-      "content": "modern Morimens truly has a powercreep problem\n\nCaecus wishes he could scam as h",
-      "author": "bagels5899",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541616670299136100",
-      "channel_id": "1170692781216378960",
-      "content": "Always gamble",
-      "author": "ashd3x",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541618400894132257",
-      "channel_id": "1170692781216378960",
-      "content": "innocent fairy wip",
-      "author": "mosske",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541598574868037782",
-      "channel_id": "1170692781216378960",
-      "content": "saw ppl leak GOgier at X",
-      "author": "aegisx",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541599170022875257",
-      "channel_id": "1170692781216378960",
-      "content": "𝚂𝚑𝚎 𝚌𝚊𝚗 𝚓𝚞𝚜𝚝 𝚞𝚗𝚏𝚛𝚎𝚎𝚣𝚎 𝚋𝚎𝚌𝚊𝚞𝚜𝚎 𝚜𝚑𝚎'𝚜 𝚝𝚑𝚎 𝚠𝚑𝚊𝚕𝚎",
-      "author": "hollow_xhk",
-      "reactions": 1,
       "channel": "🔸morimens-game-chat"
     }
   ]
