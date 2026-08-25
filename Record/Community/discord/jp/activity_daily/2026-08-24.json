@@ -1,12 +1,12 @@
 {
   "date": "2026-08-24",
-  "messages": 700,
+  "messages": 704,
   "unique_authors": 31,
-  "reactions_total": 168,
-  "attachments": 56,
+  "reactions_total": 174,
+  "attachments": 57,
   "channel_activity": {
-    "なんでも雑談": 458,
-    "🔰初心者質問": 55,
+    "なんでも雑談": 461,
+    "🔰初心者質問": 56,
     "忘却前夜絵を密かに載せます": 3,
     "誰でも質問": 38,
     "つぶやき": 67,
@@ -17,6 +17,7 @@
     "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 4
   },
   "hourly_activity": {
+    "22": 4,
     "19": 28,
     "20": 4,
     "21": 3,
@@ -41,8 +42,8 @@
     "1": 8
   },
   "message_types": {
-    "0": 639,
-    "19": 61
+    "0": 642,
+    "19": 62
   },
   "top_reacted_messages": [
     {
@@ -83,6 +84,14 @@
       "content": "さっき作りましたものー",
       "author": "zzzorz",
       "reactions": 7,
+      "channel": "なんでも雑談"
+    },
+    {
+      "id": "1541568853274792026",
+      "channel_id": "1377478664609857647",
+      "content": "これが...ファロスだ <:like:1390953064021758004>",
+      "author": "partycatss.",
+      "reactions": 6,
       "channel": "なんでも雑談"
     },
     {
@@ -196,14 +205,6 @@
       "author": "hikage_san",
       "reactions": 2,
       "channel": "なんでも雑談"
-    },
-    {
-      "id": "1541410762235576403",
-      "channel_id": "1391701560496623688",
-      "content": "ダフォ/オルラ/サルバ/カーシア(2凸)orファイントですかねー",
-      "author": "zzzorz",
-      "reactions": 2,
-      "channel": "🔰初心者質問"
     }
   ]
 }
