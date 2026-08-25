@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-25T06:43:44.466896+00:00",
+  "archived_at": "2026-08-25T09:35:11.595520+00:00",
   "source": "youtube",
-  "item_count": 18,
+  "item_count": 20,
   "items": [
     {
       "title": "[Morimens] 2.6.0 Patch OVERVIEW STREAM AFTER VIDEO",
@@ -175,6 +175,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "[Morimens] 600+ Standard Pulls!",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-25T09:00:36Z",
+      "url": "https://www.youtube.com/watch?v=o7X_Yt9zJYo",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "Zyocuh",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/o7X_Yt9zJYo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "First Train Clear (Hard) | Morimens",
       "summary": "Thought about P-Dive, quickly sunk that option, so I finally took a serious run against the train! 0:00 - Intro Ramblings & Wasted ...",
       "source": "youtube",
@@ -306,6 +323,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/6oVpVHA7ALI/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】5-14失われた光【ボス戦】",
+      "summary": "雰囲気で守秘者をやっている凡人の、特に見所もないボス戦.",
+      "source": "youtube",
+      "time": "2026-08-25T09:33:23Z",
+      "url": "https://www.youtube.com/watch?v=s4q2qtDgPig",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ソニカ",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/s4q2qtDgPig/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

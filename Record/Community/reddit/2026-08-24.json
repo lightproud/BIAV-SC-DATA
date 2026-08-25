@@ -1,0 +1,130 @@
+{
+  "date": "2026-08-24",
+  "archived_at": "2026-08-25T09:35:11.630638+00:00",
+  "source": "reddit",
+  "item_count": 7,
+  "items": [
+    {
+      "title": "GLotan by @haneopng",
+      "summary": "&#32; submitted by &#32;  /u/OneThanks3   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-24T13:20:00+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vx2myk/glotan_by_haneopng/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/OneThanks3",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/1t3jjsotnblh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7d3023843049587ffdfa8f98a85fc315149c679e",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Its Beyblade!",
+      "summary": "&#32; submitted by &#32;  /u/HessianQrow   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-24T13:44:14+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vx38u0/its_beyblade/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/HessianQrow",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/exjw8upaublh1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=dc2d1714e8618532c4b22ab6777254174bdc39f4",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "My art Caraboo 🍎",
+      "summary": "&#32; submitted by &#32;  /u/Laftsir   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-24T15:00:04+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vx58nq/my_art_caraboo/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/Laftsir",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/yx58pqms7clh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0db1746d0651b0be79174c854b19e2722354dd1",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "How badly was Affinity gain nerfed?",
+      "summary": "It&#39;s pretty obvious that the recent changes to the affinity system have made it much harder to gain affinity. In order to figure out how the new Affinity system works, I gathered some data (here&#39;s the spreadsheet, if anyone&#39;s interested: https://docs.google.com/spreadsheets/d/1fBKJLwJg_Mp9Ap6mx1cj-Q1RL16CSVG6gPABHbZrc5Q/edit?usp=sharing).  According to BIAV&#39;s update notes, there are five factors that impact affinity gain: Arithmetica Used, Cards Played, Aliemus Used, Keyflare Used, and Recommended Level. I tested the first four, but haven&#39;t had time to test the impact that recommended level has on affinity gained. There doesn&#39;t appear to be any element of randomness involved (i.e. if you take the same sequence of actions, affinity gained should always be the same). The following values assume that each factor scales linearly with itself and additively with other factors. These assumptions could be completely incorrect, so take the specific values with a grain of salt. However, these assumptions seem to line up with affinity gain I&#39;ve seen in other parts of the game. Arithmetica appears to provide roughly 1 point of affinity per point of arithmetica. Playing cards appears to provide roughly 1 point of affinity for every 2 cards played. Aliemus appears to provide roughly 1 point of affinity per 10 aliemus consumed. Finally, Keyflare seems to provide 1-2 points of affinity for every 1000 keyflare consumed. Now, if these numbers are correct, affinity gain has been nuked from orbit. Before, you could expect to gain roughly 100-150 affinity for a mission depending on difficulty and which WoDs you equipped. Now, your main DPS might get 70-80 affinity for very long missions and supports will be lucky to gain 30-40.  A lot of people don&#39;t care much about the affinity system, but there are a lot of free pulls and story content gated behind it, even if the story content is generally just fanservice. I like the direction BIAV was trying to go wit",
+      "source": "reddit",
+      "time": "2026-08-24T15:23:26+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vx5vdc/how_badly_was_affinity_gain_nerfed/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/m0rdr3dnought",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "New code: DWSF-RKEN-NLTY",
+      "summary": "Setting =&gt; Account =&gt; Redemption Code   &#32; submitted by &#32;  /u/DrExluxk   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-24T11:38:22+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vx0c8k/new_code_dwsfrkennlty/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/DrExluxk",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://preview.redd.it/gpmp32au7blh1.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=6d378edd379678da0e9335ef92d6f995e1f8a81b",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "Did a bit of an oopsie",
+      "summary": "I am used to buying everyday the 6 Steppenwolf covenants from the shop and today I did the same, as usual I hit &quot;max&quot; and bought every piece I could. I just woke up, so I was kind of in &quot;auto-mode&quot; and didn&#39;t really pay attention. They even put a warning to try and stop me, but to no avail &quot;Do you want to buy all this stuff?&quot; &quot;Oh, how nice of them, but it&#39;s only 6 pieces so I think I can afford it. Continue&quot; Welp, little did I know they removed the 6 cap, so now I have 4500+ pieces of Steppenwolf and an empty wallet  I&#39;ve been laughing for the past 5 minutes, totally totally on me but man my Counter Caecus will be having veeeeeery good Covenants 💀  &#32; submitted by &#32;  /u/Used_Load_5789   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-24T09:43:09+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vwy4dv/did_a_bit_of_an_oopsie/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/Used_Load_5789",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "media_url": "https://external-preview.redd.it/NWNzc285NDdtYWxoMal8pFGjEIqT50iH-HY0xKSCxCZM58Y50y-wo4atiDNB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a771dd79ed867393f3e2ecffca49d88cd14f1f4d",
+      "content_type": "image",
+      "lang": "en",
+      "platform_region": "global"
+    },
+    {
+      "title": "She's so sick of the simping, lmao",
+      "summary": "&quot;Nobody cares about your William&quot; is so funny I can taste the salt from here  &#32; submitted by &#32;  /u/StarAboveWillows   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-24T10:50:30+00:00",
+      "url": "https://old.reddit.com/r/Morimens/comments/1vwzd2g/shes_so_sick_of_the_simping_lmao/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "/u/StarAboveWillows",
+      "tags": [],
+      "metadata": {
+        "via": "rss"
+      },
+      "lang": "en",
+      "platform_region": "global"
+    }
+  ]
+}

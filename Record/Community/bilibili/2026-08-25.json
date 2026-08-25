@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-25T06:43:44.466349+00:00",
+  "archived_at": "2026-08-25T09:35:11.594838+00:00",
   "source": "bilibili",
-  "item_count": 9,
+  "item_count": 14,
   "items": [
     {
       "title": "[忘却前夜]觅星于怀卡池规则分析与抽取建议",
@@ -23,6 +23,75 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/0310ab50a87fa2ed49c98d7af9044e5747e876d5.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【压实度切片】史亚之歌",
+      "summary": "└ 易拉罐广告狗 (0赞): 我去，原视频被作者删了[大哭]",
+      "source": "bilibili",
+      "time": "2026-08-25T06:49:30+00:00",
+      "url": "https://www.bilibili.com/video/BV1T4hg6WESF",
+      "engagement": 468,
+      "is_hot": false,
+      "author": "反伤百分百的Tc",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 467,
+        "comment_count": 1,
+        "comments_fetched": 1,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/34b857802e10a11ff8333e29df2684444468e604.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "明明是由闹吃和古振兴组成的怪物，在我眼中却是美丽的少女",
+      "summary": "模仿:BV1wSL96YEhp\n原创:@动漫从业者厷\n  └ 谁在异想天开 (2赞): 坐等文案\n  └ 不知有道 (2赞): 参考文案：https://www.bilibili.com/video/BV1wSL96YEhp/?spm_id_from=333.337.search-card.all.click&amp;vd_source=11deb488021a4c332b93ac5dff3723bc\n  └ 不知有道 (2赞): 我在说什么",
+      "source": "bilibili",
+      "time": "2026-08-25T06:28:41+00:00",
+      "url": "https://www.bilibili.com/video/BV17Mhg6qEWH",
+      "engagement": 283,
+      "is_hot": false,
+      "author": "不知有道",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 278,
+        "comment_count": 5,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/c6d9a81d9cc0190b8baf308ab60b6d3b9dd3011b.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "【融灾n2-5】粉毛鱼还在喝汤，某黑皮女子羡慕哭了",
+      "summary": "我说n6n7是防杀队的天下有没有懂的，不信可以看看下周主线困难的数值，相信大多数人都没有1t能秒掉对面的顶级攻杀队(更别说你c罗还得做任务来凹)\n  └ Coliner_ (2赞): 我们粉毛鱼就是这样的神血喝汤奇男子啊[星星眼]\n  └ 生活仍在继续12138 (1赞): 如果按照小猫说的和现在N5的数值，防杀才是几乎没办法打N7的\n  └ 红茶喜欢喝红茶 (0赞): 調查行動——編隊分享\n守密人：查莉兹（100391812） 隊伍名：-\n\n卡拉布、蜜果的謊言、淤泥裡的童話、機械降神\n墨菲、櫻花下的迷思、溯洄時計、生機榨取\n皮克曼、牧羊人的手杖、渴求的畫筆、再衍化\n凱刻斯、傷痛之鰭、神王的頌歌、遠方的歡宴\n獵食決心\n\n@@4q9LyjyVy4Zx1yteBknmAQ@@",
+      "source": "bilibili",
+      "time": "2026-08-25T04:50:18+00:00",
+      "url": "https://www.bilibili.com/video/BV1C5h36nEkn",
+      "engagement": 254,
+      "is_hot": false,
+      "author": "红茶喜欢喝红茶",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 251,
+        "comment_count": 3,
+        "comments_fetched": 3,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/7d5c73bb319c65f20b947ba5ca1d9e77bf4eeec2.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
@@ -74,6 +143,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "【忘却前夜】献祭打侵蚀……",
+      "summary": "123",
+      "source": "bilibili",
+      "time": "2026-08-25T08:14:29+00:00",
+      "url": "https://www.bilibili.com/video/BV1KjhV6ZE3R",
+      "engagement": 161,
+      "is_hot": false,
+      "author": "朝星-",
+      "tags": [
+        "手机游戏"
+      ],
+      "metadata": {
+        "play": 161,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i2.hdslb.com/bfs/archive/288e82a437fa043312af7d67a32d6f2bcdd4b2e5.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "明明是由全国第一小学生组成的时代峰峻，在我眼里却是美丽的少女",
       "summary": "我没米线\n  └ 二阶堂本蛋 (2赞): （男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）（男人叹气声）\n  └ 未来の群星闪耀之时 (1赞): @银河大玉--AAA专业当区 破绷了\n  └ 普通的天道总司 (1赞): 好雷霆啊",
       "source": "bilibili",
@@ -115,6 +207,29 @@
         "danmaku": 1
       },
       "media_url": "https://i0.hdslb.com/bfs/archive/2f7dc89aabdf18d264ffa2e1e1bc5ec05a55c13c.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "冰墓之神dess是如何使用飓风的",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-25T08:27:55+00:00",
+      "url": "https://www.bilibili.com/video/BV1ArhG6QEGL",
+      "engagement": 135,
+      "is_hot": false,
+      "author": "spade258",
+      "tags": [
+        "网络游戏"
+      ],
+      "metadata": {
+        "play": 135,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i1.hdslb.com/bfs/archive/ec52b44dab8c8e2ae0466fdb02464ccc9421e9dd.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"

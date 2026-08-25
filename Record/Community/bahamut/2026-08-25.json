@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-25T06:43:44.467528+00:00",
+  "archived_at": "2026-08-25T09:35:11.596153+00:00",
   "source": "bahamut",
-  "item_count": 23,
+  "item_count": 25,
   "items": [
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
@@ -278,6 +278,19 @@
       "platform_region": "tw"
     },
     {
+      "title": "【情報】我寫的「卡拉布」宣傳，登上巴哈姆特首頁囉 !",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-25T09:33:59.224137+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1550&tnum=1",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
       "title": "【情報】V2.6.0 仙女教派宣傳冊",
       "summary": "",
       "source": "bahamut",
@@ -299,6 +312,19 @@
       "engagement": 2,
       "is_hot": false,
       "author": "jack01212537",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "tw"
+    },
+    {
+      "title": "【討論】新手入門 組隊抽卡求助",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-25T09:33:59.224169+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1549&tnum=1",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "dong0701",
       "tags": [],
       "lang": "zh",
       "platform_region": "tw"
