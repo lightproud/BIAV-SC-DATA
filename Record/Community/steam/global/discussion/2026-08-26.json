@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-25T18:38:09.751759+00:00",
+  "archived_at": "2026-08-25T21:26:16.289753+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Steam论坛] What is Token of Concord?",
@@ -13,6 +13,23 @@
       "engagement": 3,
       "is_hot": false,
       "author": "Zorlond",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] Posse for a strike team",
+      "summary": "What posse do you all use for a Mouchette & GLotan team? I'm running this team for story mode hard and wondering which posse is best",
+      "source": "steam_discussion",
+      "time": "2026-08-25T20:01:15+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/592939625666866848/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "DingusDork",
       "tags": [
         "steam_forum"
       ],

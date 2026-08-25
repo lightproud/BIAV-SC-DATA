@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-25T18:38:09.721641+00:00",
+  "archived_at": "2026-08-25T21:26:16.250797+00:00",
   "source": "bilibili",
-  "item_count": 36,
+  "item_count": 37,
   "items": [
     {
       "title": "【忘却前夜】单次侵蚀……有上限",
@@ -562,6 +562,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/0bbfbf1f0c6d0938f5cea6b29b5bd5ccc85ebbc3.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "第一期也是最后一期425（）",
+      "summary": "同调率获取不改我还要继续诋毁5771……我会一直诗笺你",
+      "source": "bilibili",
+      "time": "2026-08-25T11:29:46+00:00",
+      "url": "https://www.bilibili.com/video/av117155819556582",
+      "engagement": 101,
+      "is_hot": false,
+      "author": "酸辣柠檬苦汁",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/f81ff0cfcb484cd79fbc6b8997c1ad3b1467ff18.jpg",
       "content_type": "video"
     },
     {

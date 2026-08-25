@@ -1,9 +1,22 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-25T18:38:09.723299+00:00",
+  "archived_at": "2026-08-25T21:26:16.253166+00:00",
   "source": "bahamut",
-  "item_count": 21,
+  "item_count": 23,
   "items": [
+    {
+      "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-25T21:25:11.659153+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=938&tnum=255",
+      "engagement": 433,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
       "summary": "",
@@ -273,6 +286,19 @@
       "engagement": 2,
       "is_hot": false,
       "author": "jack01212537",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【問題】新人入坑疑問",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-25T21:25:11.659197+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1552&tnum=1",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "rain373",
       "tags": [],
       "lang": "zh",
       "platform_region": ""

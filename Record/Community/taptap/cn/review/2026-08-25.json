@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-25T18:38:09.773362+00:00",
+  "archived_at": "2026-08-25T21:26:16.319327+00:00",
   "source": "taptap",
-  "item_count": 91,
+  "item_count": 93,
   "items": [
     {
       "title": "画风喜欢的不得了，玩法是杀戮尖塔这也很熟悉，就是...没搞懂我升级角色了，怎么场内卡牌的伤害还是没变啊？那我升级角色还有",
@@ -1180,6 +1180,32 @@
       "source": "taptap_review",
       "time": "2026-08-25T11:37:34.240092+00:00",
       "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "来自 Android 设备",
+      "summary": "来自 Android 设备",
+      "source": "taptap_review",
+      "time": "2026-08-25T11:25:36.074376+00:00",
+      "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "来自 Android 设备",
+      "summary": "来自 Android 设备",
+      "source": "taptap_review",
+      "time": "2026-08-25T11:25:36.074397+00:00",
+      "url": "https://www.taptap.cn/review/50206630#to-reply",
       "engagement": 0,
       "is_hot": false,
       "author": "",
