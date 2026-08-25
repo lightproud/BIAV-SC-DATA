@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-25T09:35:11.704155+00:00",
+  "archived_at": "2026-08-25T12:44:01.909233+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 juegazo solo mejoraría un poco las anima",
@@ -16,6 +16,20 @@
       "tags": [],
       "lang": "es",
       "platform_region": "es",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 지딜 좋아해서 독딜 메타로 즐기는중인데.. 모르겠음 아직도..",
+      "summary": "지딜 좋아해서 독딜 메타로 즐기는중인데.. 모르겠음 아직도..",
+      "source": "google_play",
+      "time": "2026-08-24T11:13:37",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-95c23f51-283c-4231-bb11-7aa573786f93",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "워황",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "kr",
       "region": "global"
     }
   ],

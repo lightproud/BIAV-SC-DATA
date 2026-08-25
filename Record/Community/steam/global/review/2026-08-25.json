@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-25T09:35:11.632284+00:00",
+  "archived_at": "2026-08-25T12:44:01.825861+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
     {
       "title": "[负面] после обновления произошла какая-то херня, и у мен...",
@@ -118,6 +118,54 @@
         "playtime_forever": 2081,
         "votes_up": 0,
         "timestamp_created": 1787635151
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 无",
+      "summary": "",
+      "source": "steam_review",
+      "time": "2026-08-25T10:10:00+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199865539344/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199865539344",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 996,
+        "votes_up": 0,
+        "timestamp_created": 1787652600
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] и снова гачи",
+      "summary": "и снова гачи",
+      "source": "steam_review",
+      "time": "2026-08-25T09:05:32+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199095712612/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199095712612",
+      "tags": [
+        "russian"
+      ],
+      "language": "russian",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 17,
+        "votes_up": 0,
+        "timestamp_created": 1787648732
       },
       "region": "global",
       "archive_subtype": "review",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-25T09:35:11.595520+00:00",
+  "archived_at": "2026-08-25T12:44:01.742674+00:00",
   "source": "youtube",
-  "item_count": 20,
+  "item_count": 24,
   "items": [
     {
       "title": "[Morimens] 2.6.0 Patch OVERVIEW STREAM AFTER VIDEO",
@@ -34,6 +34,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/vBVNoO7tBT0/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】忘却篇エンディングテーマ「忘却より▼」",
+      "summary": "忘却篇エンディングテーマ「忘却より▽」 歌唱：Emi Evans 作詞：霁月@B.I.A.V. Studio 作曲：F.R.K.@B.I.A.V. Studio 「忘却 ...",
+      "source": "youtube",
+      "time": "2026-08-25T10:00:26Z",
+      "url": "https://www.youtube.com/watch?v=mhRwZEUC1xs",
+      "engagement": 219,
+      "is_hot": false,
+      "author": "忘却前夜【日本版公式】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/mhRwZEUC1xs/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -175,6 +192,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "イベントやっていきます！【#忘却前夜】",
+      "summary": "steamURL https://store.steampowered.com/app/4226130/_/",
+      "source": "youtube",
+      "time": "2026-08-25T10:21:13Z",
+      "url": "https://www.youtube.com/watch?v=PdQ4oDwRRls",
+      "engagement": 9,
+      "is_hot": false,
+      "author": "バグッチャーYT",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/PdQ4oDwRRls/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "[Morimens] 600+ Standard Pulls!",
       "summary": "",
       "source": "youtube",
@@ -238,6 +272,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/Af_jilNsEl0/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "#忘卻前夜 #morimens Regional D-Effect Zone Wave 2:Alert V! 融災2-5 Boss戰的部分",
+      "summary": "忘卻前夜 #morimens 融災更新,8月17號~8月31日. Regional D-Effect Zone Update ( August 17-August 31). 2-5 Boss會招喚小怪跟 ...",
+      "source": "youtube",
+      "time": "2026-08-25T10:00:25Z",
+      "url": "https://www.youtube.com/watch?v=LSqM9OF2fBs",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Noir",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/LSqM9OF2fBs/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -340,6 +391,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/s4q2qtDgPig/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "#忘卻前夜 #morimens 卡布拉低配隊伍測試! Kabala Low-Investment Team Testing!",
+      "summary": "忘卻前夜 #morimens 這是我的小號. This is tested on my alt account. 這邊使用的配置就非常低,不過相對的難度也沒辦法打得這麼高, ...",
+      "source": "youtube",
+      "time": "2026-08-25T10:00:31Z",
+      "url": "https://www.youtube.com/watch?v=4QiGilCkvao",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Noir",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/4QiGilCkvao/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
