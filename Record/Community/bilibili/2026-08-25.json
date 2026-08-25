@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-25T15:40:21.464884+00:00",
+  "archived_at": "2026-08-25T18:38:09.721641+00:00",
   "source": "bilibili",
-  "item_count": 35,
+  "item_count": 36,
   "items": [
     {
       "title": "【忘却前夜】单次侵蚀……有上限",
@@ -545,6 +545,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/2a46658274d7af1facf7a7340214f335e29aba19.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】第一个＋12限定角色",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-25T13:39:44+00:00",
+      "url": "https://www.bilibili.com/video/av117156406759055",
+      "engagement": 114,
+      "is_hot": false,
+      "author": "HK潜夜听风",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/0bbfbf1f0c6d0938f5cea6b29b5bd5ccc85ebbc3.jpg",
       "content_type": "video"
     },
     {

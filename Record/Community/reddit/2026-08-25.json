@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-25T15:40:21.538492+00:00",
+  "archived_at": "2026-08-25T18:38:09.771692+00:00",
   "source": "reddit",
-  "item_count": 34,
+  "item_count": 35,
   "items": [
     {
       "title": "Mommy? I mean, mommy— no, wt mommy? Mommy",
@@ -502,6 +502,19 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/Ostrichslinger",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "[New Linux player diary - part 3] - The fight against tooltips continues",
+      "summary": "Part 1 | Part 2  Finished Chapter 3 and still loving the game. Didn&#39;t know a true &quot;boss fight&quot; was possible in a card game, but you did is. Great work! Finished it with :  Final 1 | Final 2 | Final 3 - Couldn&#39;t go into the final fight with Sanga Ult up because i had to use it on an elite before to stay alive. Got it back mid fight by playing aggressively for it. This boss also marks my first full &quot;death&quot; or reset this run. Count is 1 now.   The good  Still very much love the English translators you had for translating the chapters. They are INSANELY good at catching the Lovecraft drift. 10/10 Love that you revamped the tool tip system and are now showing tooltips for all keywords in a card. Was one of my most mayor complains in part 2, but i never saw anything while playing through chapter 3 from start to finish that didnt have its mechanics explained. 9001/10 Desktop client Linux performance via Proton has improved a lot. Dunno if it was because of Valve or you, but it runs butter smooth now ( except the one exception mentioned in &quot;terrbile&quot; )  The bad The fucking tooltips again  Do you not know how a &quot;newspace&quot; work? Or how a &quot;newline&quot; work? Pressing the ENTER key ?! Stuff like this is complicated for no reason at all. Now that you have your keyword highlighting figured out, you should move to keywording things and using your FUCKING ENTER KEY. For example Path of Exile Patch 3.29 :   Skills, Items and Modifiers that once stated that Increases and Reductions to Spell Damage also apply to Attack Damage have been replaced with the new Arcane Might Keyword. This is purely a desciptive change.    This is a quick draft of what i mean.  Why are the most important keywords hidden at the bottom of the tooltip box? Like why is retain down there, but nowhere else? Move them up into a box above / below the card name with an iconic icon. Same is for AL gain. That should be an icon on top or below the card name as well. Removes clutter from the actual card text.  The terrible  Your little &quot;login with steam&quot; popup still doesnt work on Linux if you installed the game via steam and are using native Wayland via &quot;PROTON_ENABLE_WAYLAND=1&quot; on Proton-CachyOS or GE-Proton. You have to set &quot;PROTON_ENABLE_WAYLAND=0&quot; for it to flicker up the &quot;login via steam&quot; dialog only when you move your mouse. Once you clicked &quot;login via steam&quot; you can close the game and go &quot;PROTON_ENABLE_WAYLAND=1&quot; again and it works flawless. But you need to click way below the &quot;login&quot; button 15 times on the landing page. Because the hitbox is bugged.  Thank you for making such an insane game and can&#39;t wait for what awaits me in chapters beyond!  &#32; submitted by &#32;  /u/KsiaN   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-25T14:29:07+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1vy1gae/new_linux_player_diary_part_3_the_fight_against/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/KsiaN",
       "tags": [],
       "lang": "en",
       "platform_region": ""
