@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-25T03:47:39.003829+00:00",
+  "archived_at": "2026-08-25T06:43:44.466896+00:00",
   "source": "youtube",
-  "item_count": 15,
+  "item_count": 18,
   "items": [
     {
       "title": "[Morimens] 2.6.0 Patch OVERVIEW STREAM AFTER VIDEO",
@@ -107,6 +107,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Morimens \\\\ Проходим основной сюжет 6 главы с Карабу",
+      "summary": "Добровольная поддержка: https://www.donationalerts.com/r/closetom Напрямую: 2200700154063498 Т-Банк Соцсети: ...",
+      "source": "youtube",
+      "time": "2026-08-25T05:54:55Z",
+      "url": "https://www.youtube.com/watch?v=rJXhy8M0GOk",
+      "engagement": 29,
+      "is_hot": false,
+      "author": "Closetom",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/rJXhy8M0GOk/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Встречаем Caraboo. Крутим и тестируем | Morimens",
       "summary": "Новая девочка в Морименс - Карабу. Посмотрим на что способна, особенно если нам хватит на неё круток. Если вам ...",
       "source": "youtube",
@@ -192,6 +209,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Worm Clown Girl Morimens Pulls! [Iriam VOD 8/24/26]",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-25T04:25:13Z",
+      "url": "https://www.youtube.com/watch?v=Af_jilNsEl0",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Mennie Taiko ch. BondliveEN",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/Af_jilNsEl0/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "The Last Gap (Stream 29) MORIMENS",
       "summary": "In which Ghoti's computer was out of commission for 8 days after this.",
       "source": "youtube",
@@ -255,6 +289,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/fmGFPbUGyUg/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【Live】Morimens การเดินทางครั้งใหม่ได้เริ่มต้นแล้ว",
+      "summary": "มาร่วมเป็นดอกไม้ของลามุกันนะคะ เพื่อเข้าถึงสิทธิพิเศษต่างๆ ...",
+      "source": "youtube",
+      "time": "2026-08-25T05:26:53Z",
+      "url": "https://www.youtube.com/watch?v=6oVpVHA7ALI",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Lamu Ch.",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/6oVpVHA7ALI/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

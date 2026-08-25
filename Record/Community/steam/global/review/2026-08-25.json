@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-25T03:47:39.091369+00:00",
+  "archived_at": "2026-08-25T06:43:44.500878+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[负面] после обновления произошла какая-то херня, и у мен...",
@@ -94,6 +94,30 @@
         "playtime_forever": 622,
         "votes_up": 0,
         "timestamp_created": 1787622118
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] 说的过去的游戏",
+      "summary": "说的过去的游戏",
+      "source": "steam_review",
+      "time": "2026-08-25T05:19:11+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199849676134/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199849676134",
+      "tags": [
+        "schinese"
+      ],
+      "language": "schinese",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2081,
+        "votes_up": 0,
+        "timestamp_created": 1787635151
       },
       "region": "global",
       "archive_subtype": "review",

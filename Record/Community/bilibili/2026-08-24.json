@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
-  "archived_at": "2026-08-25T03:47:39.002223+00:00",
+  "archived_at": "2026-08-25T06:43:44.465093+00:00",
   "source": "bilibili",
-  "item_count": 43,
+  "item_count": 45,
   "items": [
     {
       "title": "【忘却前夜】卡拉布抽取建议",
@@ -465,6 +465,29 @@
       "platform_region": "cn"
     },
     {
+      "title": "沙耶之歌打戏",
+      "summary": "犹豫？是我，还是你",
+      "source": "bilibili",
+      "time": "2026-08-24T08:09:38+00:00",
+      "url": "https://www.bilibili.com/video/BV1Sc8v6WEwJ",
+      "engagement": 134,
+      "is_hot": false,
+      "author": "尘峰16",
+      "tags": [
+        "日常"
+      ],
+      "metadata": {
+        "play": 133,
+        "comment_count": 1,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/aac5199b6cde5075e9f637b9fbc5acd5f895e8f1.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
       "title": "【𝐌𝐎𝐍𝐓𝐀𝐆𝐄𝐌 𝐕𝐎𝐋𝐓𝐀𝐑】沙耶？",
       "summary": "MONTAGEM VOLTAR (Slowed)",
       "source": "bilibili",
@@ -506,6 +529,29 @@
         "danmaku": 0
       },
       "media_url": "https://i2.hdslb.com/bfs/archive/1e393af2769c88bc0e74e243e29404d3d703c5fc.jpg",
+      "content_type": "image",
+      "lang": "zh",
+      "platform_region": "cn"
+    },
+    {
+      "title": "沙耶之歌实况2:郁纪和沙耶的初次相见？",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-24T11:21:13+00:00",
+      "url": "https://www.bilibili.com/video/BV1NEhP6vEiU",
+      "engagement": 103,
+      "is_hot": false,
+      "author": "爱玩游戏的小新哦",
+      "tags": [
+        "单机游戏"
+      ],
+      "metadata": {
+        "play": 103,
+        "comment_count": 0,
+        "comments_fetched": 0,
+        "danmaku": 0
+      },
+      "media_url": "https://i0.hdslb.com/bfs/archive/2c4d87c7a1faf03af14fd2da1088918c37e37717.jpg",
       "content_type": "image",
       "lang": "zh",
       "platform_region": "cn"
