@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-25T12:44:01.742674+00:00",
+  "archived_at": "2026-08-25T15:40:21.466387+00:00",
   "source": "youtube",
-  "item_count": 24,
+  "item_count": 28,
   "items": [
     {
       "title": "[Morimens] 2.6.0 Patch OVERVIEW STREAM AFTER VIDEO",
@@ -209,6 +209,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Morimens OST- The Fairy’s Request",
+      "summary": "I absolutely love this game and it's OST, but couldn't find it anywhere on YouTube so I took it upon myself to upload some themes.",
+      "source": "youtube",
+      "time": "2026-08-25T14:24:48Z",
+      "url": "https://www.youtube.com/watch?v=bDhawsPQDto",
+      "engagement": 8,
+      "is_hot": false,
+      "author": "SeaLily",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/bDhawsPQDto/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "[Morimens] 600+ Standard Pulls!",
       "summary": "",
       "source": "youtube",
@@ -260,6 +277,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Morimens OST- Hyperborea",
+      "summary": "I absolutely love this game and it's OST, but couldn't find it anywhere on YouTube so I took it upon myself to upload some themes.",
+      "source": "youtube",
+      "time": "2026-08-25T14:03:35Z",
+      "url": "https://www.youtube.com/watch?v=PXLfKoIG-Qg",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "SeaLily",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/PXLfKoIG-Qg/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Worm Clown Girl Morimens Pulls! [Iriam VOD 8/24/26]",
       "summary": "",
       "source": "youtube",
@@ -289,6 +323,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/LSqM9OF2fBs/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens OST- Great Fairy of the Peaks",
+      "summary": "I absolutely love this game and it's OST, but couldn't find it anywhere on YouTube so I took it upon myself to upload some themes.",
+      "source": "youtube",
+      "time": "2026-08-25T14:12:43Z",
+      "url": "https://www.youtube.com/watch?v=Agm871w8KO0",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "SeaLily",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/Agm871w8KO0/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -408,6 +459,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/4QiGilCkvao/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "忘卻前夜 Morimens 카라부-모스 H5-11",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-25T14:20:39Z",
+      "url": "https://www.youtube.com/watch?v=spX4oYaP6Zw",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "사탕발림",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/spX4oYaP6Zw/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

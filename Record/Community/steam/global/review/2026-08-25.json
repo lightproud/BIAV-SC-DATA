@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-25T12:44:01.825861+00:00",
+  "archived_at": "2026-08-25T15:40:21.544227+00:00",
   "source": "steam",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "[负面] после обновления произошла какая-то херня, и у мен...",
@@ -171,6 +171,29 @@
       "archive_subtype": "review",
       "lang": "",
       "platform_region": "global"
+    },
+    {
+      "title": "[负面] 튜토리얼 중 소리 조절도 불가하고...\n1배속은 너무 느리고 2배속은 스킵처럼 너무 빠릅니...",
+      "summary": "튜토리얼 중 소리 조절도 불가하고...\n1배속은 너무 느리고 2배속은 스킵처럼 너무 빠릅니다..",
+      "source": "steam_review",
+      "time": "2026-08-25T14:22:33+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198110607524/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198110607524",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 61,
+        "votes_up": 0,
+        "timestamp_created": 1787667753
+      },
+      "region": "global",
+      "archive_subtype": "review"
     }
   ],
   "region": "global",
