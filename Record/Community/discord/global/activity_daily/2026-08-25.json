@@ -1,0 +1,202 @@
+{
+  "date": "2026-08-25",
+  "messages": 1277,
+  "unique_authors": 111,
+  "reactions_total": 110,
+  "attachments": 90,
+  "channel_activity": {
+    "🔸綜合討論": 14,
+    "🔸morimens-game-chat": 727,
+    "🔸한국어-채팅방": 1,
+    "🔸русский-канал": 12,
+    "🔸canal-español": 54,
+    "🔸ruang-obrolan-indonesia": 61,
+    "🔸ห้องสนทนาภาษาไทย": 2,
+    "🔸traphase": 1,
+    "🔸lore-chat": 3,
+    "🔸lets-count": 2,
+    "🔸频道建议┊server-suggestions": 1,
+    "🔸team-building": 55,
+    "🔸general-chat": 84,
+    "🔸game-question": 234,
+    "🔸机器人命令┊bot-commands": 9,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 1,
+    "Stats, they could feel better": 3,
+    "Are there any plans to fix iOS version of game?": 1,
+    "Additional Record Filters": 5,
+    "Quadra / 4-Realm Rerun Banners": 3,
+    "V2.5.1.0 停服维护公告": 1,
+    "DTide Meta Teams and Units": 3
+  },
+  "hourly_activity": {
+    "0": 1096,
+    "1": 181
+  },
+  "message_types": {
+    "0": 842,
+    "19": 428,
+    "20": 7
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1541599497333903420",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "aegisx",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541614607309869066",
+      "channel_id": "1170692781216378960",
+      "content": "At least she's straightforward",
+      "author": "xiii_c",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541606109800960020",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "baul_punyan",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541599921667580065",
+      "channel_id": "1170692781216378960",
+      "content": ":c",
+      "author": "topazlh",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541612560564879380",
+      "channel_id": "1170692781216378960",
+      "content": "I think for long term players,  the strat is probably-> clear all nightmare,  th",
+      "author": "polkarain",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541598157920534688",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "laplace.in.my.head",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541598791449321492",
+      "channel_id": "1170692781216378960",
+      "content": "glotan is like very bad at the new ch in arc 2 right? The freeze only removing i",
+      "author": "grimalkaiser",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541600050885562468",
+      "channel_id": "1170692781216378960",
+      "content": "and this",
+      "author": "aegisx",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541605280926933032",
+      "channel_id": "1170692781216378960",
+      "content": "aaaaw. started playing today and just missed YouSavedMorimens, it seems. either ",
+      "author": "tharja.",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541608474599882752",
+      "channel_id": "1170692781216378960",
+      "content": "I rounded down <:Aurita_please:1356053110375714817>",
+      "author": "frosthief",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541609605707079790",
+      "channel_id": "1170692781216378960",
+      "content": "E1 is great for dps\nE2 is nice\nE3 is borderline required",
+      "author": "corvim",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541610742166323263",
+      "channel_id": "1170692781216378960",
+      "content": "Speedwalk is at ch7",
+      "author": "angbak",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541612048025264208",
+      "channel_id": "1170692781216378960",
+      "content": "I heard madness is like 20mil....",
+      "author": "polkarain",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541613146328797224",
+      "channel_id": "1170692781216378960",
+      "content": "gbumlot",
+      "author": "laplace.in.my.head",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541614780534624396",
+      "channel_id": "1170692781216378960",
+      "content": "https://cdn.discordapp.com/attachments/1170692781216378960/1524255962460983356/t",
+      "author": "acornn1",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541614946872332388",
+      "channel_id": "1170692781216378960",
+      "content": "modern Morimens truly has a powercreep problem\n\nCaecus wishes he could scam as h",
+      "author": "bagels5899",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541616670299136100",
+      "channel_id": "1170692781216378960",
+      "content": "Always gamble",
+      "author": "ashd3x",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541618400894132257",
+      "channel_id": "1170692781216378960",
+      "content": "innocent fairy wip",
+      "author": "mosske",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541598574868037782",
+      "channel_id": "1170692781216378960",
+      "content": "saw ppl leak GOgier at X",
+      "author": "aegisx",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541599170022875257",
+      "channel_id": "1170692781216378960",
+      "content": "𝚂𝚑𝚎 𝚌𝚊𝚗 𝚓𝚞𝚜𝚝 𝚞𝚗𝚏𝚛𝚎𝚎𝚣𝚎 𝚋𝚎𝚌𝚊𝚞𝚜𝚎 𝚜𝚑𝚎'𝚜 𝚝𝚑𝚎 𝚠𝚑𝚊𝚕𝚎",
+      "author": "hollow_xhk",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
