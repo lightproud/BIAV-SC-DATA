@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-25T01:07:51.389147+00:00",
+  "archived_at": "2026-08-25T03:47:39.003829+00:00",
   "source": "youtube",
-  "item_count": 12,
+  "item_count": 15,
   "items": [
     {
       "title": "[Morimens] 2.6.0 Patch OVERVIEW STREAM AFTER VIDEO",
@@ -124,6 +124,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "[Morimens] Livestreaming Event - Before Spring Fades: Rerun &amp; Garden Memories!",
+      "summary": "Memories.",
+      "source": "youtube",
+      "time": "2026-08-25T03:08:05Z",
+      "url": "https://www.youtube.com/watch?v=8VB-hih4k1M",
+      "engagement": 13,
+      "is_hot": false,
+      "author": "InoLifo",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/8VB-hih4k1M/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Caraboo через фиксированный урон с коррозией реальна? Обзор персонажа в Morimens",
       "summary": "В Морименс вышел новый крупный патч который привнес в игру много нововведений. Одно из них это Карабу, новый ...",
       "source": "youtube",
@@ -153,6 +170,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/0InRPw2UN60/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens: Caraboo Exalt Corrosion Bonus Full Game Play",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-25T03:16:42Z",
+      "url": "https://www.youtube.com/watch?v=kGNijXrvlx8",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Khaoz Bunny",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/kGNijXrvlx8/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -204,6 +238,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/DcR4HME-ZLs/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【MORIMENS】 What is going on with this Gacha Game?",
+      "summary": "HEYYY EVERYONE TONIGHT we will be playing a game called Morimens I have heard such amazing things from the artistic ...",
+      "source": "youtube",
+      "time": "2026-08-25T02:39:40Z",
+      "url": "https://www.youtube.com/watch?v=fmGFPbUGyUg",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "HayHayHayden",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/fmGFPbUGyUg/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
