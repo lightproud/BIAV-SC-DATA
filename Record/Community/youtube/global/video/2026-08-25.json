@@ -1,9 +1,26 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-24T21:29:10.677863+00:00",
+  "archived_at": "2026-08-25T01:07:51.389147+00:00",
   "source": "youtube",
-  "item_count": 10,
+  "item_count": 12,
   "items": [
+    {
+      "title": "[Morimens] 2.6.0 Patch OVERVIEW STREAM AFTER VIDEO",
+      "summary": "Don't know how long. Will be doing other stuff too.",
+      "source": "youtube",
+      "time": "2026-08-24T22:39:13Z",
+      "url": "https://www.youtube.com/watch?v=hbbWaUTUQbc",
+      "engagement": 590,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/hbbWaUTUQbc/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
     {
       "title": "[Morimens] Additional Caraboo clip - 50 Satiety stack exalt shielding/healing on a lvl 60 Caraboo.",
       "summary": "https://buymeacoffee.com/flares https://discord.gg/tpMMe5W7CT - Personal Flares Discord ...",
@@ -51,6 +68,23 @@
       "lang": "",
       "platform_region": "global",
       "media_url": "https://i.ytimg.com/vi/J2i6VPjzQkA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Directo relax Morimens.",
+      "summary": "No olviden unirse al discord :). https://discord.gg/UgmMCae3Sg.",
+      "source": "youtube",
+      "time": "2026-08-24T22:07:17Z",
+      "url": "https://www.youtube.com/watch?v=fjNJyqJgYWY",
+      "engagement": 47,
+      "is_hot": false,
+      "author": "OcteKG",
+      "tags": [],
+      "lang": "",
+      "platform_region": "global",
+      "media_url": "https://i.ytimg.com/vi/fjNJyqJgYWY/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

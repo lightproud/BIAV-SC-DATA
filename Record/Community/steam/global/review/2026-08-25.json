@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-24T21:29:10.751305+00:00",
+  "archived_at": "2026-08-25T01:07:51.446038+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[负面] после обновления произошла какая-то херня, и у мен...",
@@ -46,6 +46,30 @@
         "playtime_forever": 6,
         "votes_up": 0,
         "timestamp_created": 1787595949
+      },
+      "region": "global",
+      "archive_subtype": "review",
+      "lang": "",
+      "platform_region": "global"
+    },
+    {
+      "title": "[正面] Its great give it a try",
+      "summary": "Its great give it a try",
+      "source": "steam_review",
+      "time": "2026-08-25T00:15:04+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199149507825/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199149507825",
+      "tags": [
+        "english"
+      ],
+      "language": "english",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 273,
+        "votes_up": 0,
+        "timestamp_created": 1787616904
       },
       "region": "global",
       "archive_subtype": "review",
