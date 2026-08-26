@@ -1,0 +1,201 @@
+{
+  "date": "2026-08-26",
+  "messages": 1347,
+  "unique_authors": 95,
+  "reactions_total": 133,
+  "attachments": 61,
+  "channel_activity": {
+    "🔸綜合討論": 11,
+    "🔸morimens-game-chat": 868,
+    "🔸晒卡分享": 1,
+    "🔸русский-канал": 77,
+    "🔸canal-español": 56,
+    "🔸canal-português": 35,
+    "🔸ruang-obrolan-indonesia": 7,
+    "🔸traphase": 1,
+    "🔸lore-chat": 3,
+    "🔸team-building": 9,
+    "🔸general-chat": 124,
+    "🔸邀请码互助┊swap-invitation-codes": 1,
+    "🔸game-question": 127,
+    "🔸机器人命令┊bot-commands": 7,
+    "Improve the damage scaling of Caraboo's ultimate": 1,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 3,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 2,
+    "Additional Record Filters": 2,
+    "Quadra / 4-Realm Rerun Banners": 9,
+    "Please rework how Propagation Caro works for the future units": 2,
+    "V2.6.0 百万金券失窃事件┊The Million Rose Script Heist┊백만 금권 도난 사건": 1
+  },
+  "hourly_activity": {
+    "0": 962,
+    "1": 385
+  },
+  "message_types": {
+    "0": 904,
+    "19": 434,
+    "20": 9
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1541973450959224893",
+      "channel_id": "1170692781216378960",
+      "content": "Can I dislike a tweet",
+      "author": "spooky_penguin_",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541969524029653032",
+      "channel_id": "1170692781216378960",
+      "content": "<@267888098732539914>",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541965453012766730",
+      "channel_id": "1170692781216378960",
+      "content": "hi",
+      "author": "serahh__",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541978393615142912",
+      "channel_id": "1170692781216378960",
+      "content": "DOUBLE YIPPEEE",
+      "author": "moonandmymuse",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541962835372937288",
+      "channel_id": "1170692781216378960",
+      "content": "They lay down sangas?",
+      "author": "guava3442",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541970656768557117",
+      "channel_id": "1170692781216378960",
+      "content": "say wallahi",
+      "author": "princess.goth",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541972087378280610",
+      "channel_id": "1170692781216378960",
+      "content": "see I wasnt lying",
+      "author": "serahh__",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541973598753783910",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "spooky_penguin_",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541976848169304075",
+      "channel_id": "1170692781216378960",
+      "content": "queer art",
+      "author": "princess.goth",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541962340658847795",
+      "channel_id": "1170692781216378960",
+      "content": "<@296679098703544321> i killed ACTUAL boss with caraboo dps(?)!",
+      "author": "2ndselna",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541963356305489990",
+      "channel_id": "1170692781216378960",
+      "content": "All roads lead to Xu",
+      "author": "mythicmoonwort",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541965622156599346",
+      "channel_id": "1170692781216378960",
+      "content": "alr i have all my gnosiseses its time to clear chapter 8",
+      "author": "serahh__",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541967823205703710",
+      "channel_id": "1170692781216378960",
+      "content": "VORTICE IS AWESOME",
+      "author": "azel_1",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541969809657434132",
+      "channel_id": "1170692781216378960",
+      "content": "calls will be made",
+      "author": "serahh__",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541970258317938708",
+      "channel_id": "1170692781216378960",
+      "content": "https://klipy.com/gifs/sparxie-sparxie-hsr-7",
+      "author": "serahh__",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541970792248639538",
+      "channel_id": "1170692781216378960",
+      "content": "that sounds painful",
+      "author": "serahh__",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541970971005550622",
+      "channel_id": "1170692781216378960",
+      "content": "lowk same ive heard enough sparxie slander tonight",
+      "author": "serahh__",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541971143479525447",
+      "channel_id": "1170692781216378960",
+      "content": "shes cute and whimsical u must allow this",
+      "author": "serahh__",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541972011818164224",
+      "channel_id": "1170692781216378960",
+      "content": "Okay now I saw porn",
+      "author": "spooky_penguin_",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541975790319570984",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "nirski",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
