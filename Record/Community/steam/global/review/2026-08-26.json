@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-26T03:52:49.915239+00:00",
+  "archived_at": "2026-08-26T06:44:03.088216+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] good",
@@ -69,6 +69,29 @@
         "playtime_forever": 361,
         "votes_up": 0,
         "timestamp_created": 1787702931
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 满星游戏 无论策略  智谋 画面  剧情   牛",
+      "summary": "满星游戏 无论策略  智谋 画面  剧情   牛",
+      "source": "steam_review",
+      "time": "2026-08-26T04:57:00+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198872617535/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198872617535",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 6576,
+        "votes_up": 0,
+        "timestamp_created": 1787720220
       },
       "region": "global",
       "archive_subtype": "review"

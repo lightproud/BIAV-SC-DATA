@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-26T03:52:49.821517+00:00",
+  "archived_at": "2026-08-26T06:44:03.007683+00:00",
   "source": "youtube",
-  "item_count": 20,
+  "item_count": 22,
   "items": [
     {
       "title": "FINALLY, some good FOOD in Morimens! Pulling + playing CARABOO",
@@ -340,6 +340,40 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/fUY5LbX73MQ/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "morimens strength stack deck",
+      "summary": "mostly made it bc I rolled saya (who is surprisingly strong) but ryker is tbh one of the best characters purely in terms of just how ...",
+      "source": "youtube",
+      "time": "2026-08-26T05:59:17Z",
+      "url": "https://www.youtube.com/watch?v=yEQ3iSlcE8Q",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "zeg makker",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/yEQ3iSlcE8Q/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Limbus company - Morimen Dailies",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-26T04:32:05Z",
+      "url": "https://www.youtube.com/watch?v=7Uu5fY7co3U",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Skilrexz",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/7Uu5fY7co3U/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

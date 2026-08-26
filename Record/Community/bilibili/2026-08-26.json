@@ -1,9 +1,43 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-26T03:52:49.823934+00:00",
+  "archived_at": "2026-08-26T06:44:03.009440+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
+    {
+      "title": "400代打录屏",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-25T18:38:21+00:00",
+      "url": "https://www.bilibili.com/video/av117157581035190",
+      "engagement": 107,
+      "is_hot": false,
+      "author": "小肠在蠕动",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/2c6abca2541e50dcb40fb5a70c2881031188a233.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜|威守】关于学弟邀请我参加他婚礼这件事",
+      "summary": "音频来自@张天翊（yi）\nooc在我",
+      "source": "bilibili",
+      "time": "2026-08-26T05:16:15+00:00",
+      "url": "https://www.bilibili.com/video/av117160097879426",
+      "engagement": 85,
+      "is_hot": false,
+      "author": "亓瑶_",
+      "tags": [
+        "仿妆cos"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/8796b807ddfabe5de997c7aa813f7cfbbc63f575.jpg",
+      "content_type": "video"
+    },
     {
       "title": "最低配塔薇战胜神国笨蛋伪神",
       "summary": "",

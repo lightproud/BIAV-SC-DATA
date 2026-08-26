@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-26T03:52:49.907173+00:00",
+  "archived_at": "2026-08-26T06:44:03.080255+00:00",
   "source": "reddit",
-  "item_count": 14,
+  "item_count": 16,
   "items": [
     {
       "title": "Soul Rewind Core strategy and new bulk of Origins of Time",
@@ -182,6 +182,32 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/silence_in_static",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "So this is my first introduction to Castor like ever.. he's so freaking cute?!",
+      "summary": "&#32; submitted by &#32;  /u/DinoDex   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-26T04:43:15+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1vyn3fk/so_this_is_my_first_introduction_to_castor_like/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/DinoDex",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Rate my build",
+      "summary": "I have been working on my Pontos, and I want to ask how optimal is this build? Im trying to give him the best build possible. Should I switch the ali regen? I heard that it doesn’t make a difference whatsoever but I had some good pieces.   &#32; submitted by &#32;  /u/Outrageous_Finding71   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-26T04:34:19+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1vymxcd/rate_my_build/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Outrageous_Finding71",
       "tags": [],
       "lang": "en",
       "platform_region": ""
