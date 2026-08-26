@@ -1,0 +1,29 @@
+{
+  "date": "2026-08-26",
+  "messages": 15,
+  "unique_authors": 5,
+  "reactions_total": 1,
+  "attachments": 0,
+  "channel_activity": {
+    "なんでも雑談": 3,
+    "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)": 11,
+    "ニムフィーアの毒パ研究日誌": 1
+  },
+  "hourly_activity": {
+    "1": 13,
+    "0": 2
+  },
+  "message_types": {
+    "0": 15
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1541982530348122113",
+      "channel_id": "1528389964319162368",
+      "content": "<:Wanda_approved:1356053028787982558>",
+      "author": "yasaizujusu",
+      "reactions": 1,
+      "channel": "忘却前夜キャラの妄想を語ろう(性癖大公開部屋)"
+    }
+  ]
+}
