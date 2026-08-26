@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-26T06:44:03.009917+00:00",
+  "archived_at": "2026-08-26T09:38:47.926728+00:00",
   "source": "bahamut",
-  "item_count": 24,
+  "item_count": 25,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -273,6 +273,19 @@
       "engagement": 6,
       "is_hot": false,
       "author": "mimmy170",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【問題】新人入坑疑問",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-26T09:37:47.932256+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1552&tnum=2",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "rain373",
       "tags": [],
       "lang": "zh",
       "platform_region": ""
