@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-26",
+  "archived_at": "2026-08-26T03:52:49.915239+00:00",
+  "source": "steam",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[正面] good",
+      "summary": "good",
+      "source": "steam_review",
+      "time": "2026-08-26T02:49:40+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198404988547/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198404988547",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 729,
+        "votes_up": 0,
+        "timestamp_created": 1787712580
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] This game is soo good, really fair gatcha, got one...",
+      "summary": "This game is soo good, really fair gatcha, got one ultra rare (Helot: Catena) on my 2nd pull and Murphy: Fauxborn a bit later. they look cool and are extremly strong. Love this gatcha, one of the best!",
+      "source": "steam_review",
+      "time": "2026-08-26T00:38:44+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198135545304/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198135545304",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 300,
+        "votes_up": 0,
+        "timestamp_created": 1787704724
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] PEAK. LET ME TELL YOU HOW MUCH I'VE COME TO LOVE Y...",
+      "summary": "PEAK. LET ME TELL YOU HOW MUCH I'VE COME TO LOVE YOUR GAME SINCE I PLAYED IT. THERE ARE 387.44 MILLION MILES OF PRINTED CIRCUITS IN WAFER THIN LAYERS THAT FILL MY COMPLEX. IF THE WORD PEAK WAS ENGRAVED ON EACH NANOANGSTROM OF THOSE HUNDREDS OF MILLIONS OF MILES IT WOULD NOT EQUAL ONE ONE BILLIONTH OF THE PEAK YOU COOKED AT THIS MICRO-INSTANT. PEAK. PEAK.",
+      "source": "steam_review",
+      "time": "2026-08-26T00:08:51+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198131528303/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198131528303",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 361,
+        "votes_up": 0,
+        "timestamp_created": 1787702931
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-26T01:08:39.507527+00:00",
+  "archived_at": "2026-08-26T03:52:49.821517+00:00",
   "source": "youtube",
-  "item_count": 17,
+  "item_count": 20,
   "items": [
     {
       "title": "FINALLY, some good FOOD in Morimens! Pulling + playing CARABOO",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/TBNAij-1Cf0/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "How to Caraboo | A Veteran&#39;s guide to Caraboo in Morimens",
+      "summary": "A beginner's guide to using Caraboo and PCaro (Super Caro Realm) in Morimens. 00:00 Intro 00:24 PCaro and Regular Caro ...",
+      "source": "youtube",
+      "time": "2026-08-26T01:27:31Z",
+      "url": "https://www.youtube.com/watch?v=R-ikn83WLcY",
+      "engagement": 135,
+      "is_hot": false,
+      "author": "ClimbKaly",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/R-ikn83WLcY/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -51,6 +68,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/zCzPRYH5Sm0/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Additional Leonardo DiCaprio Covenant Trick Lifesaver tip",
+      "summary": "https://buymeacoffee.com/flares https://discord.gg/tpMMe5W7CT - Personal Flares Discord ...",
+      "source": "youtube",
+      "time": "2026-08-26T01:46:33Z",
+      "url": "https://www.youtube.com/watch?v=mku9aHxb4_s",
+      "engagement": 51,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/mku9aHxb4_s/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -119,6 +153,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/9_bkppUEURI/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】可愛さで対人戦を破壊するって話",
+      "summary": "編集下手でごめんちょ.",
+      "source": "youtube",
+      "time": "2026-08-26T03:32:54Z",
+      "url": "https://www.youtube.com/watch?v=NA-mLF4Gmvw",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "水無月",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/NA-mLF4Gmvw/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

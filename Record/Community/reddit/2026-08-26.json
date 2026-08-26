@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-26T01:08:39.578247+00:00",
+  "archived_at": "2026-08-26T03:52:49.907173+00:00",
   "source": "reddit",
-  "item_count": 13,
+  "item_count": 14,
   "items": [
     {
       "title": "Soul Rewind Core strategy and new bulk of Origins of Time",
@@ -169,6 +169,19 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/HaliaxZero",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Team Set Up",
+      "summary": "New to the game and wondering what the most viable set up is out of my current roster.  &#32; submitted by &#32;  /u/silence_in_static   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-26T01:17:20+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1vyio1x/team_set_up/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/silence_in_static",
       "tags": [],
       "lang": "en",
       "platform_region": ""

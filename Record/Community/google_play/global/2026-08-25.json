@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "archived_at": "2026-08-26T01:08:39.672845+00:00",
+  "archived_at": "2026-08-26T03:52:49.990487+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 差评] ★1 28K de cristaux (pour les vœux) pour avo",
@@ -15,6 +15,20 @@
       "author": "Call me YA",
       "tags": [],
       "lang": "fr",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Morimens, I'm baaaaack!!!! Let's have so",
+      "summary": "Morimens, I'm baaaaack!!!! Let's have some fun!!!",
+      "source": "google_play",
+      "time": "2026-08-25T02:38:51",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-f7407a0a-4fb5-47c9-a7e6-0e43e3230f42",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Stanley Emmanuel Marcelin",
+      "tags": [],
+      "lang": "en",
       "platform_region": "",
       "region": "global"
     }
