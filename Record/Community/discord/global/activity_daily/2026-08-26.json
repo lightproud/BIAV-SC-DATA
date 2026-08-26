@@ -1,38 +1,52 @@
 {
   "date": "2026-08-26",
-  "messages": 9389,
-  "unique_authors": 171,
-  "reactions_total": 1001,
-  "attachments": 508,
+  "messages": 12658,
+  "unique_authors": 218,
+  "reactions_total": 1324,
+  "attachments": 676,
   "channel_activity": {
-    "🔸綜合討論": 528,
-    "🔸morimens-game-chat": 4294,
+    "🔸綜合討論": 731,
+    "🔸morimens-game-chat": 5503,
+    "🔸课间休息闲聊": 61,
+    "🔸한국어-채팅방": 49,
+    "🔸chaîne-française": 6,
+    "🔸русский-канал": 364,
+    "🔸phòng-chat-tiếng-việt": 222,
+    "🔸canal-español": 97,
+    "🔸canal-português": 75,
+    "🔸ruang-obrolan-indonesia": 493,
+    "🔸ห้องสนทนาภาษาไทย": 79,
+    "🔸traphase": 132,
+    "🔸lore-chat": 373,
+    "🔸服务器公告┊server-announcement": 8,
+    "🔸team-building": 282,
+    "🔸general-chat": 606,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "🔸game-question": 3235,
+    "🔸机器人命令┊bot-commands": 32,
+    "✅「Recorded」Everyone left :(": 3,
+    "Possible Redesign of Scintilla": 4,
+    "Singularity Prism applies to Pursuit: Dramatic Encounter": 1,
+    "(AR & FL) Mute Jukebox creates copies with Singularity Beacon": 1,
+    "還我1000銀": 3,
+    "Please rework how Propagation Caro works for the future units": 8,
+    "V2.5.1.0 停服维护公告": 7,
+    "\"Won't you accept my blessing, dear follower?\" - Caraboo 🪱": 3,
+    "morimens team generator!!": 1,
+    "🎧 V2.6.0 广播剧《风雪夜》┊Radio Drama - A Snowy Night┊오디오 드라마 『눈보라 치는 밤』": 13,
+    "融災隊伍詢問": 129,
+    "入坑三天新人": 7,
     "🔸晒卡分享": 4,
-    "🔸课间休息闲聊": 43,
-    "🔸한국어-채팅방": 21,
-    "🔸русский-канал": 302,
-    "🔸phòng-chat-tiếng-việt": 143,
-    "🔸canal-español": 88,
-    "🔸canal-português": 68,
-    "🔸ruang-obrolan-indonesia": 264,
-    "🔸traphase": 22,
-    "🔸lore-chat": 52,
     "🔸lets-count": 2,
-    "🔸team-building": 239,
-    "🔸general-chat": 557,
-    "🔸game-question": 2575,
-    "🔸机器人命令┊bot-commands": 28,
     "是不是也該在這裡蓋個圖樓👁️": 2,
     "我重生了，重生到忘卻前夜宣布關服的那天【多人接力抽象文】": 1,
     "Unlocking future Traphase lines": 2,
     "✅「已回答」超維塔維身上為什麼會有怒": 2,
     "✅「Recorded」Omniscient Verity copying  Mental Interference": 2,
     "✅「Recorded」Add more covenant capacity": 4,
-    "✅「Recorded」Everyone left :(": 2,
     "✅「已記錄」卡拉布專屬造物與效果描述不符": 1,
     "✅「Recorded」Steam Game Performance Noticeably Worse": 1,
     "✅「已记录」既然你都做深了密契系统，能不能把背包里的密契容量扩大点，1000个根本不够用害我弄下弄下就背包满了": 2,
-    "Possible Redesign of Scintilla": 3,
     "✅「已解决」bug：不能编辑配队": 2,
     "✅「Recorded」Abrupt FPS drops across the board on PC client.": 1,
     "✅「Answered」can not get caraboo dialog for traphase because she doesnt exist in traphase": 3,
@@ -43,20 +57,12 @@
     "✅「已解决」手机端变成电脑端了": 2,
     "Why does Pontos' gauntwards call only generate shield once per battle?": 9,
     "💭「Processing」Lotan: Cetarchon exalt damage number does not line up with the hit animation": 4,
-    "還我1000銀": 2,
     "✅「已回答」建議列車的隨機初始受祝造物和專屬造物改為自選": 1,
-    "\"Won't you accept my blessing, dear follower?\" - Caraboo 🪱": 1,
     "liz liz liz liz.....": 1,
     "I NEED GDOLL CONTENT😭😭😭😭": 1,
-    "🎧 V2.6.0 广播剧《风雪夜》┊Radio Drama - A Snowy Night┊오디오 드라마 『눈보라 치는 밤』": 8,
-    "融災隊伍詢問": 4,
-    "入坑三天新人": 6,
     "組隊": 1,
     "D-Tide Teams (and Who to Pull from Choice Banner)": 3,
     "🔸deutscher-chatraum": 2,
-    "🔸chaîne-française": 1,
-    "🔸ห้องสนทนาภาษาไทย": 6,
-    "🔸邀请码互助┊swap-invitation-codes": 2,
     "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 1,
     "New affinity system is bad": 5,
     "Reverting Affinty rework": 2,
@@ -66,7 +72,6 @@
     "卡拉布狂氣爆發施加侵蝕時機錯誤的問題": 1,
     "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 5,
     "V2.6.0.1 在线维护公告": 10,
-    "V2.5.1.0 停服维护公告": 2,
     "Mira (Keeper OC) art thread": 1,
     "【English Translation】Opinions Collection": 1,
     "入坑半個月求抽卡建議": 5,
@@ -75,7 +80,6 @@
     "Decrease the requirement for embryo generation in Propagation: Caro": 1,
     "Impact of Version 2.6 Affinity Changes on Player Experience": 5,
     "Additional Record Filters": 3,
-    "Please rework how Propagation Caro works for the future units": 3,
     "Niko's Event Unlock Recommendations (Lore-focused)": 1,
     "🏆 忘却前夜第5届塔薇杯┊The 5th Tawil Cup of Morimens": 4,
     "1541982613210660984": 1,
@@ -83,10 +87,13 @@
     "V2.6.0 百万金券失窃事件┊The Million Rose Script Heist┊백만 금권 도난 사건": 1
   },
   "hourly_activity": {
+    "9": 837,
+    "10": 1094,
+    "11": 1251,
+    "12": 730,
     "6": 1167,
     "7": 999,
     "8": 1100,
-    "9": 643,
     "4": 970,
     "5": 1032,
     "3": 889,
@@ -95,15 +102,23 @@
     "0": 962
   },
   "message_types": {
-    "0": 6250,
-    "19": 3096,
+    "0": 8480,
+    "19": 4129,
+    "20": 29,
     "46": 2,
-    "20": 23,
     "4": 15,
     "6": 2,
     "21": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1542127856279228506",
+      "channel_id": "1354754985119846581",
+      "content": "Ив: Art contribution: Saya sprite redraws\n\nKeni: Art contribution: Saya sprite r",
+      "author": "morimensstaff03",
+      "reactions": 16,
+      "channel": "🔸服务器公告┊server-announcement"
+    },
     {
       "id": "1542067200372772904",
       "channel_id": "1542067200372772904",
@@ -113,12 +128,60 @@
       "channel": "🎧 V2.6.0 广播剧《风雪夜》┊Radio Drama - A Snowy Night┊오디오 드라마 『눈보라 치는 밤』"
     },
     {
+      "id": "1542127802273374309",
+      "channel_id": "1354754985119846581",
+      "content": "Dear Keepers,\n\nWe recently came across a fan-made video created by members of ou",
+      "author": "morimensstaff03",
+      "reactions": 10,
+      "channel": "🔸服务器公告┊server-announcement"
+    },
+    {
       "id": "1542039224474279977",
       "channel_id": "1170692781216378960",
       "content": "I got him first pull",
       "author": "blackie0343",
       "reactions": 7,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542137453492838451",
+      "channel_id": "1131839817982947429",
+      "content": "~~畢竟我們已經是遊戲發展的阻礙了…~~",
+      "author": "iamnotbunny",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1542142830015942786",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "sashawulph",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542126955112042576",
+      "channel_id": "1354754985119846581",
+      "content": "亲爱的守密人：\n\n我们在社区中注意到一些玩家共同建设的作品——【Morimens Boss Compendium】，这份作品让我们深受触动，经与组织者沟通，我们",
+      "author": "morimensstaff03",
+      "reactions": 6,
+      "channel": "🔸服务器公告┊server-announcement"
+    },
+    {
+      "id": "1542127154689740902",
+      "channel_id": "1354754985119846581",
+      "content": "Dear Keepers of Secrets,\n\nWe recently came across a remarkable community-created",
+      "author": "morimensstaff03",
+      "reactions": 6,
+      "channel": "🔸服务器公告┊server-announcement"
+    },
+    {
+      "id": "1542127340484567110",
+      "channel_id": "1354754985119846581",
+      "content": "亲爱的守密人：\n\n我们在社区中注意到一些玩家自发创作的视频——【Song of Memento - Русский кавер 】，创作者们以俄语重新演绎了 S",
+      "author": "morimensstaff03",
+      "reactions": 6,
+      "channel": "🔸服务器公告┊server-announcement"
     },
     {
       "id": "1542071257619763261",
@@ -161,6 +224,22 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1542136127853559861",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1542138015370182666",
+      "channel_id": "1170692781216378960",
+      "content": "Keeper lvl 69!",
+      "author": "cooked_chicken99",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1542036505776754778",
       "channel_id": "1170692781216378960",
       "content": "Come to Florida there’s….and…..",
@@ -185,84 +264,12 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1542087362434048050",
-      "channel_id": "1131839817982947429",
-      "content": "這血量非常有安全感",
-      "author": "xianrenwurao",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1542069474772131941",
-      "channel_id": "1170692781216378960",
-      "content": "no i think its the mentality of \"They have Saya so they like pedo\"",
-      "author": "crowlov1",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1542073593205358643",
-      "channel_id": "1170692781216378960",
-      "content": "Ramona pulling up against tawil with nothing but pure determination",
-      "author": "cooked_chicken99",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1542079860623679548",
-      "channel_id": "1170692781216378960",
-      "content": "But i don't think i can easily 500 \n\n(EASILY)",
-      "author": "angbak",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1542081113445367890",
-      "channel_id": "1170692781216378960",
-      "content": "<:monkey_think:1484058192131395716>",
-      "author": "pisaurafan",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1542103508139114576",
-      "channel_id": "1170692781216378960",
-      "content": "<@296679098703544321> \nlook\nI need whale to make her win in cocoon\nCaraboo is C ",
-      "author": "sexysneakystoat1625",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1542078117630447726",
+      "id": "1542127075094433812",
       "channel_id": "1433513650299076780",
-      "content": "Pontos / Wanda, and now Caraboo could too",
-      "author": "snorlax01",
+      "content": "https://tenor.com/view/ryker-morimens-let%27s-go-gambling-gif-131998585377830966",
+      "author": "sovieticonion",
       "reactions": 4,
       "channel": "🔸game-question"
-    },
-    {
-      "id": "1542078923674878002",
-      "channel_id": "1463456408249831446",
-      "content": "（浮水發出哀蹦自取的聲音",
-      "author": "ass191044",
-      "reactions": 4,
-      "channel": "是不是也該在這裡蓋個圖樓👁️"
-    },
-    {
-      "id": "1542031799054770317",
-      "channel_id": "1131839817982947429",
-      "content": "该发1000抽了<:Lily_wow:1356084702468899117>",
-      "author": "sweet_25367",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1542035093256798208",
-      "channel_id": "1170692781216378960",
-      "content": "I hope never",
-      "author": "leviathxan",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }
