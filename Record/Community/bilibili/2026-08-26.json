@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-26T12:45:57.024429+00:00",
+  "archived_at": "2026-08-26T16:16:41.991354+00:00",
   "source": "bilibili",
-  "item_count": 10,
+  "item_count": 13,
   "items": [
     {
       "title": "忘却前夜丨广播剧《风雪夜》（CV：钉宫理惠）",
@@ -73,6 +73,23 @@
       "content_type": "video"
     },
     {
+      "title": "忘却前夜 能让人看到星星也能让人安息的白色棒棒 癫狂列车熔朵",
+      "summary": "表演了一段意义不明的电表倒转\n然后很悲剧的发现打了两段伤害对面就拉满加固了\n\n背景音乐：\nCarlos Gardel - &quot;por una cabeza&quot;\nFreddie Green - &quot;Corner Pocket&quot;",
+      "source": "bilibili",
+      "time": "2026-08-26T12:57:33+00:00",
+      "url": "https://www.bilibili.com/video/av117161892781897",
+      "engagement": 181,
+      "is_hot": false,
+      "author": "夢遊遊遊遊",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/9893b4caf7b1769cfdefcd118e8a4eb779226883.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "【忘却前夜】卡拉布极限猴戏，狂生12张赐福！",
       "summary": "原理是塔薇法则双发 + 哈姆林大招双发 + 上行音 = 4发奇迹赐福，这里面有个关键点是必须要先开双发，然后再吃血池，才能生成多张赐福，否则只能生成一张，可能是bug，早用早享受。\n应用场景：利用法则塔薇或者哈姆林增加赐福数量叠加供奉做任务赚取资源；如果急的话可以操作完后塔薇开始印翅膀，携带纯白初遇把牌库底的翅膀和赐福全部洗上来，然后哪里亮了点哪里。",
       "source": "bilibili",
@@ -87,6 +104,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/279f940cff7e3a524d6a127776fc183eb0f43372.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "船新队伍——神老头！防杀队的新大辅卡拉布，堂堂登场！",
+      "summary": "赫赫赫，都给我来抽老头（）",
+      "source": "bilibili",
+      "time": "2026-08-26T14:28:10+00:00",
+      "url": "https://www.bilibili.com/video/av117162261875801",
+      "engagement": 139,
+      "is_hot": false,
+      "author": "夜雨-月明",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/f9577c727dc8230facd8f8c0a1a5815972a23778.jpg",
       "content_type": "video"
     },
     {
@@ -155,6 +189,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/8796b807ddfabe5de997c7aa813f7cfbbc63f575.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】人偶雪山消融之时",
+      "summary": "雪山消融之时，比造价高的双持狂气回充命轮更优秀的回转+解决了不暴击的问题，可以说是主回转套件的不二之选",
+      "source": "bilibili",
+      "time": "2026-08-26T15:06:26+00:00",
+      "url": "https://www.bilibili.com/video/av117162412937369",
+      "engagement": 69,
+      "is_hot": false,
+      "author": "跳段木偶舞",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/89085bc72d3bafb8238edc3012d96f422fc971a9.jpg",
       "content_type": "video"
     },
     {

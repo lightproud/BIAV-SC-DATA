@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-27",
+  "archived_at": "2026-08-26T16:16:42.026345+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam论坛] What is Token of Concord?",
+      "summary": "This new item is strange. The description doesn't really help, and I can't find anywhere to use it. Not in the character screens, not in the shop, not in inventory... What is this thing?",
+      "source": "steam_discussion",
+      "time": "2026-08-26T16:07:12+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/592939340207894773/",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "Zorlond",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}

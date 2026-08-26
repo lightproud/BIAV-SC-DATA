@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-26T12:45:57.088038+00:00",
+  "archived_at": "2026-08-26T16:16:42.038393+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 8,
   "items": [
     {
       "title": "[正面] good",
@@ -115,6 +115,75 @@
         "playtime_forever": 1415,
         "votes_up": 0,
         "timestamp_created": 1787745565
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 日克系太貌美了，小氪或者不氪都能玩，太貌美了，哥弟激推",
+      "summary": "日克系太貌美了，小氪或者不氪都能玩，太貌美了，哥弟激推",
+      "source": "steam_review",
+      "time": "2026-08-26T14:56:41+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198784045560/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198784045560",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1522,
+        "votes_up": 0,
+        "timestamp_created": 1787756201
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 게임이 재미만 있으면 된다는 걸 다시금 알려준 게임인 듯\n본인이 카드 게임을 좋아한다면 한...",
+      "summary": "게임이 재미만 있으면 된다는 걸 다시금 알려준 게임인 듯\n본인이 카드 게임을 좋아한다면 한 번 플레이 해보는 걸 추천함",
+      "source": "steam_review",
+      "time": "2026-08-26T14:51:27+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198076235163/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198076235163",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 14481,
+        "votes_up": 0,
+        "timestamp_created": 1787755887
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 可惡，錯過了沙耶聯動",
+      "summary": "可惡，錯過了沙耶聯動",
+      "source": "steam_review",
+      "time": "2026-08-26T14:22:09+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198343503925/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198343503925",
+      "tags": [
+        "tchinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 31,
+        "votes_up": 0,
+        "timestamp_created": 1787754129
       },
       "region": "global",
       "archive_subtype": "review"
