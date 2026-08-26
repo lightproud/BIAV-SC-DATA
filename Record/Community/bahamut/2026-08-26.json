@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-26T16:16:41.993503+00:00",
+  "archived_at": "2026-08-26T19:45:55.802587+00:00",
   "source": "bahamut",
-  "item_count": 25,
+  "item_count": 26,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -12,6 +12,19 @@
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=938&tnum=255",
       "engagement": 433,
       "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-25T19:44:53.830622+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1144&tnum=248",
+      "engagement": 375,
+      "is_hot": true,
       "author": "t12345825",
       "tags": [],
       "lang": "zh",

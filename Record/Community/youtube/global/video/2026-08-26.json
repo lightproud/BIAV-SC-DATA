@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-26T16:16:41.992348+00:00",
+  "archived_at": "2026-08-26T19:45:55.801553+00:00",
   "source": "youtube",
-  "item_count": 33,
+  "item_count": 35,
   "items": [
     {
       "title": "FINALLY, some good FOOD in Morimens! Pulling + playing CARABOO",
@@ -277,6 +277,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "모리멘스 (망각전야) - 8/17 시즌 융재금구 W4A5(코멘터리)",
+      "summary": "레무리아 덱의 초반부 전개에 대해서 궁금하다는 의견이 있어 조금 더 편집한 풀플레이 코멘터리 버전입니다. 다만 쉐도우플레이를 ...",
+      "source": "youtube",
+      "time": "2026-08-26T13:45:23Z",
+      "url": "https://www.youtube.com/watch?v=_mk661BWxDU",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "때까치",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/_mk661BWxDU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "King in the Abyss",
       "summary": "Provided to YouTube by DistroKid King in the Abyss · B.I.A.V. Studio · B.I.A.V. Studio Morimens OST┊Ghost Ship of Sundered ...",
       "source": "youtube",
@@ -374,6 +391,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/5VJgTepKTds/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "모리멘스 (망각전야) - 8/17 시즌 융재금구 W2A5",
+      "summary": "항상 아슬아슬해 보이지만 매번 이기는 조합.",
+      "source": "youtube",
+      "time": "2026-08-26T13:41:17Z",
+      "url": "https://www.youtube.com/watch?v=DJw0UL9-VXc",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "때까치",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/DJw0UL9-VXc/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

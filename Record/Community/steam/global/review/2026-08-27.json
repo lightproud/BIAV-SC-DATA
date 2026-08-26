@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-27",
+  "archived_at": "2026-08-26T19:45:55.889384+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[正面] 相见恨晚啊5771！",
+      "summary": "相见恨晚啊5771！",
+      "source": "steam_review",
+      "time": "2026-08-26T17:37:12+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199767624992/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199767624992",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1045,
+        "votes_up": 0,
+        "timestamp_created": 1787765832
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 一款如优雅沁心的小众甜点的二游",
+      "summary": "一款如优雅沁心的小众甜点的二游",
+      "source": "steam_review",
+      "time": "2026-08-26T16:52:05+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199249164410/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199249164410",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1805,
+        "votes_up": 0,
+        "timestamp_created": 1787763125
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
