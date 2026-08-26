@@ -1,9 +1,26 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-26T09:38:47.944071+00:00",
+  "archived_at": "2026-08-26T12:45:57.038735+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
+    {
+      "title": "[Steam论坛] Pulls guide... but, like, REALLY basic Pulls guide",
+      "summary": "I'm new to this style of game, and honestly I'm finding it a bit hard to wrap my head around. I can find lots of information about \"who to pull for,\" but I'm not even sure I know what pulling is or how it works. Is there a \"for real absolute dummies\" guide to this?...",
+      "source": "steam_discussion",
+      "time": "2026-08-26T12:17:58+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591812495357978957/",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "Lister",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
     {
       "title": "[Steam论坛] What is Token of Concord?",
       "summary": "This new item is strange. The description doesn't really help, and I can't find anywhere to use it. Not in the character screens, not in the shop, not in inventory... What is this thing?",
@@ -30,6 +47,23 @@
       "engagement": 1,
       "is_hot": false,
       "author": "DingusDork",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] 唤醒体",
+      "summary": "哪个防御型唤醒体比较好啊",
+      "source": "steam_discussion",
+      "time": "2026-08-26T11:29:47+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591813764140012968/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "心已被她占据",
       "tags": [
         "steam_forum"
       ],

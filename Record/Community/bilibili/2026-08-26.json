@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-26T09:38:47.922767+00:00",
+  "archived_at": "2026-08-26T12:45:57.024429+00:00",
   "source": "bilibili",
-  "item_count": 7,
+  "item_count": 10,
   "items": [
     {
       "title": "忘却前夜丨广播剧《风雪夜》（CV：钉宫理惠）",
@@ -22,6 +22,40 @@
       "content_type": "video"
     },
     {
+      "title": "【AI拉蒙娜】《STYX HELIX》天地万象，轮回因果！",
+      "summary": "能和我做个约定吗？嗯.....我们约定，不管发生什么，你都永远记得【拉蒙娜】，如何？",
+      "source": "bilibili",
+      "time": "2026-08-26T11:05:15+00:00",
+      "url": "https://www.bilibili.com/video/av117160886210112",
+      "engagement": 262,
+      "is_hot": false,
+      "author": "是一只猫猫头呢",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/6f26841fcfc359c294949d03c5dd23230d3ae90d.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜卡拉布哈姆林队——一轮牌库9张礼物",
+      "summary": "很难不是bug\n概率卡池结束后修复\n小概率一周内修复",
+      "source": "bilibili",
+      "time": "2026-08-26T09:58:30+00:00",
+      "url": "https://www.bilibili.com/video/av117161205045939",
+      "engagement": 245,
+      "is_hot": false,
+      "author": "子夜唯雪",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/6b7f8b1e6f59e3ee8b1de086b31f2ebbfdc12dea.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "【忘却前夜】免疫中毒……",
       "summary": "123",
       "source": "bilibili",
@@ -36,6 +70,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/125eff72ac3f9db1e946dec625933e229e662e23.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】卡拉布极限猴戏，狂生12张赐福！",
+      "summary": "原理是塔薇法则双发 + 哈姆林大招双发 + 上行音 = 4发奇迹赐福，这里面有个关键点是必须要先开双发，然后再吃血池，才能生成多张赐福，否则只能生成一张，可能是bug，早用早享受。\n应用场景：利用法则塔薇或者哈姆林增加赐福数量叠加供奉做任务赚取资源；如果急的话可以操作完后塔薇开始印翅膀，携带纯白初遇把牌库底的翅膀和赐福全部洗上来，然后哪里亮了点哪里。",
+      "source": "bilibili",
+      "time": "2026-08-26T10:41:57+00:00",
+      "url": "https://www.bilibili.com/video/av117161372752601",
+      "engagement": 174,
+      "is_hot": false,
+      "author": "问君何忧",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/279f940cff7e3a524d6a127776fc183eb0f43372.jpg",
       "content_type": "video"
     },
     {
