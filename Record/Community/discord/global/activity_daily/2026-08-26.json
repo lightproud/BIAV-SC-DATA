@@ -1,58 +1,101 @@
 {
   "date": "2026-08-26",
-  "messages": 3418,
+  "messages": 6526,
   "unique_authors": 168,
-  "reactions_total": 305,
-  "attachments": 140,
+  "reactions_total": 680,
+  "attachments": 274,
   "channel_activity": {
-    "🔸綜合討論": 81,
-    "🔸morimens-game-chat": 1814,
-    "🔸课间休息闲聊": 8,
+    "🔸綜合討論": 256,
+    "🔸morimens-game-chat": 3124,
+    "🔸晒卡分享": 3,
+    "🔸课间休息闲聊": 41,
+    "🔸한국어-채팅방": 15,
+    "🔸deutscher-chatraum": 2,
+    "🔸chaîne-française": 1,
+    "🔸русский-канал": 298,
+    "🔸phòng-chat-tiếng-việt": 41,
+    "🔸canal-português": 65,
+    "🔸ruang-obrolan-indonesia": 249,
+    "🔸ห้องสนทนาภาษาไทย": 6,
+    "🔸lore-chat": 18,
+    "🔸lets-count": 1,
+    "🔸team-building": 89,
+    "🔸general-chat": 321,
+    "🔸邀请码互助┊swap-invitation-codes": 2,
+    "🔸game-question": 1807,
+    "🔸机器人命令┊bot-commands": 21,
+    "《沙耶之歌》名场面复刻┊song-of-saya-speak-for-them-before-she-arrives": 1,
+    "New affinity system is bad": 5,
+    "Reverting Affinty rework": 2,
+    "Improve the damage scaling of Caraboo's ultimate": 3,
+    "✅「Answered」Add more covenant capacity": 3,
+    "卡拉布專屬造物與效果描述不符": 2,
+    "卡拉布狂氣爆發施加侵蝕時機錯誤的問題": 1,
+    "想拚混池首抽 請教": 1,
+    "Why does Pontos' gauntwards call only generate shield once per battle?": 1,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 5,
+    "V2.6.0.1 在线维护公告": 10,
+    "V2.5.1.0 停服维护公告": 2,
+    "Mira (Keeper OC) art thread": 1,
+    "【English Translation】Opinions Collection": 1,
+    "入坑三天新人": 5,
+    "入坑半個月求抽卡建議": 5,
     "🔸日本語チャンネル": 1,
-    "🔸한국어-채팅방": 12,
-    "🔸русский-канал": 295,
-    "🔸phòng-chat-tiếng-việt": 16,
     "🔸canal-español": 87,
-    "🔸canal-português": 64,
-    "🔸ruang-obrolan-indonesia": 39,
-    "🔸ห้องสนทนาภาษาไทย": 4,
-    "🔸lore-chat": 8,
-    "🔸team-building": 38,
-    "🔸general-chat": 281,
-    "🔸game-question": 616,
     "🔸忘却前夜┊morimens-tv": 1,
-    "🔸机器人命令┊bot-commands": 15,
     "Decrease the requirement for embryo generation in Propagation: Caro": 1,
     "Impact of Version 2.6 Affinity Changes on Player Experience": 5,
-    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 3,
     "Additional Record Filters": 3,
     "Please rework how Propagation Caro works for the future units": 3,
-    "V2.5.1.0 停服维护公告": 1,
     "Niko's Event Unlock Recommendations (Lore-focused)": 1,
     "🏆 忘却前夜第5届塔薇杯┊The 5th Tawil Cup of Morimens": 4,
-    "入坑半個月求抽卡建議": 2,
     "1541982613210660984": 1,
-    "🔸晒卡分享": 1,
     "🔸traphase": 1,
-    "🔸邀请码互助┊swap-invitation-codes": 1,
-    "Improve the damage scaling of Caraboo's ultimate": 1,
     "Quadra / 4-Realm Rerun Banners": 9,
     "V2.6.0 百万金券失窃事件┊The Million Rose Script Heist┊백만 금권 도난 사건": 1
   },
   "hourly_activity": {
+    "4": 970,
+    "5": 1032,
+    "6": 1046,
+    "3": 889,
     "1": 884,
     "2": 743,
-    "3": 829,
     "0": 962
   },
   "message_types": {
-    "0": 2384,
-    "19": 1015,
-    "20": 16,
+    "19": 2138,
+    "0": 4365,
+    "20": 19,
+    "4": 1,
     "6": 2,
     "21": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1542039224474279977",
+      "channel_id": "1170692781216378960",
+      "content": "I got him first pull",
+      "author": "blackie0343",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542039022786969600",
+      "channel_id": "1170692781216378960",
+      "content": "?afk asleep, if u have any questions please bother <@755399273260122112> on my b",
+      "author": "serahh__",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542063622212288552",
+      "channel_id": "1433513650299076780",
+      "content": "I've only been p~~l~~aying for 8 Months",
+      "author": "snorlax01",
+      "reactions": 6,
+      "channel": "🔸game-question"
+    },
     {
       "id": "1541973450959224893",
       "channel_id": "1170692781216378960",
@@ -62,12 +105,76 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1542036505776754778",
+      "channel_id": "1170692781216378960",
+      "content": "Come to Florida there’s….and…..",
+      "author": "frosthief",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542063357140672522",
+      "channel_id": "1433513650299076780",
+      "content": "Wait I also jave \n\n- GLotan WoD E3\n- Saya WoD E3\n- Arachne WoD E3\n- Vortice WoD ",
+      "author": "snorlax01",
+      "reactions": 5,
+      "channel": "🔸game-question"
+    },
+    {
       "id": "1541969524029653032",
       "channel_id": "1170692781216378960",
       "content": "<@267888098732539914>",
       "author": "princess.goth",
       "reactions": 5,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542031799054770317",
+      "channel_id": "1131839817982947429",
+      "content": "该发1000抽了<:Lily_wow:1356084702468899117>",
+      "author": "sweet_25367",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1542035093256798208",
+      "channel_id": "1170692781216378960",
+      "content": "I hope never",
+      "author": "leviathxan",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542039335082266676",
+      "channel_id": "1170692781216378960",
+      "content": "the layers are listed in the sheet, with examples. \nFinal shield = ([base shield",
+      "author": "nuttyputty5612",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542037926001774682",
+      "channel_id": "1300659603993923644",
+      "content": "r xong hết chỗ nạp rẻ r <:Aurita_please:1356053110375714817> <:Helot_slack_off:1",
+      "author": "huangyu44",
+      "reactions": 4,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1542047182692159519",
+      "channel_id": "1433513650299076780",
+      "content": "<:Qing_Heart:1512807790069022811>",
+      "author": "wuyan_kana",
+      "reactions": 4,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1542062221654368347",
+      "channel_id": "1433513650299076780",
+      "content": "Pollux can die",
+      "author": "guava3442",
+      "reactions": 4,
+      "channel": "🔸game-question"
     },
     {
       "id": "1541993995331182693",
@@ -102,115 +209,27 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1541986234287530024",
-      "channel_id": "1170692781216378960",
-      "content": "I really hope they rebalance pcaro",
-      "author": "utsuro.bune",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541988952653692970",
-      "channel_id": "1170692781216378960",
-      "content": "holy shit i finally have castor bruh im so happy",
-      "author": "nirski",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541992682841440266",
-      "channel_id": "1170692781216378960",
-      "content": "https://klipy.com/gifs/whimsical-creature",
-      "author": "azaenya",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1542002118007726120",
-      "channel_id": "1170692781216378960",
-      "content": "Or, alternatively, if you're Asian.",
-      "author": "syro_k",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1542000594238316634",
-      "channel_id": "1542000594238316634",
-      "content": "牌逢对手尽在「相位对弈」赛事活动！\n由守密人们自发组成的赛事组竭诚举办的第5届「塔薇杯」将于9月18日正式开赛，届时Bilibili、Discord双平台将同步",
-      "author": "morimensstaff06",
-      "reactions": 3,
-      "channel": "🏆 忘却前夜第5届塔薇杯┊The 5th Tawil Cup of Morimens"
-    },
-    {
-      "id": "1541962835372937288",
-      "channel_id": "1170692781216378960",
-      "content": "They lay down sangas?",
-      "author": "guava3442",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541970656768557117",
-      "channel_id": "1170692781216378960",
-      "content": "say wallahi",
-      "author": "princess.goth",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541972087378280610",
-      "channel_id": "1170692781216378960",
-      "content": "see I wasnt lying",
-      "author": "serahh__",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541973598753783910",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "spooky_penguin_",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541976848169304075",
-      "channel_id": "1170692781216378960",
-      "content": "queer art",
-      "author": "princess.goth",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541990760306573332",
+      "id": "1542024467486875758",
       "channel_id": "1131839817982947429",
-      "content": "？？？",
-      "author": "cassidy_xue",
-      "reactions": 2,
+      "content": "",
+      "author": "water_heart",
+      "reactions": 3,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1541985880896573532",
+      "id": "1542031520217169940",
       "channel_id": "1170692781216378960",
-      "content": "hmm? yes i am aware how that works",
-      "author": "slymate_",
-      "reactions": 2,
+      "content": "anyway im out but thank you o old wise ones for blessing me with knowledge",
+      "author": "potolman",
+      "reactions": 3,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1541987267101597826",
+      "id": "1542032566801137704",
       "channel_id": "1170692781216378960",
-      "content": "E3 Pollux the goat",
-      "author": "sovieticonion",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541989226218917969",
-      "channel_id": "1170692781216378960",
-      "content": "(there isn't much of a competition 🤫 )",
-      "author": "thereaperinthedresss",
-      "reactions": 2,
+      "content": "Ch6 part 2 is 2 resets later right? Gotta get ready to clear it before they patc",
+      "author": "aurora3981",
+      "reactions": 3,
       "channel": "🔸morimens-game-chat"
     }
   ]
