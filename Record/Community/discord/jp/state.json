@@ -1,7 +1,7 @@
 {
   "channels": {
     "1377478664609857647": {
-      "last_message_id": "1542073425009451042",
+      "last_message_id": "1542115693829554256",
       "name": "なんでも雑談",
       "cold_started": true,
       "last_historical_message_id": "1378523440742400000",
@@ -84,7 +84,7 @@
       "name": "フレンド募集（非表示）"
     },
     "1391701560496623688": {
-      "last_message_id": "1542067534344229006",
+      "last_message_id": "1542078714685161554",
       "name": "🔰初心者質問",
       "cold_started": true,
       "last_historical_message_id": "1378523440742400000",
@@ -327,7 +327,7 @@
       "last_message_id": "1511043315200561395"
     },
     "thread:1510911214346305566": {
-      "last_message_id": "1542018447070855269"
+      "last_message_id": "1542080236588498996"
     },
     "thread:1510847739045482596": {
       "last_message_id": "1519621081382785115"
@@ -396,7 +396,7 @@
       "last_message_id": "1537065098953097236"
     },
     "thread:1419203289945342054": {
-      "last_message_id": "1541413293992976456"
+      "last_message_id": "1542091194798973008"
     },
     "thread:1417695507500765194": {
       "last_message_id": "1541196716525752370"
@@ -1187,6 +1187,6 @@
     }
   },
   "historical_month": null,
-  "last_run": "2026-08-26T07:31:03.672515+00:00",
+  "last_run": "2026-08-26T10:17:33.346412+00:00",
   "history_backfill_complete": true
 }
