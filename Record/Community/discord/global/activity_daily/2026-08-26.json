@@ -1,40 +1,56 @@
 {
   "date": "2026-08-26",
-  "messages": 1347,
-  "unique_authors": 95,
-  "reactions_total": 133,
-  "attachments": 61,
+  "messages": 3418,
+  "unique_authors": 168,
+  "reactions_total": 305,
+  "attachments": 140,
   "channel_activity": {
-    "🔸綜合討論": 11,
-    "🔸morimens-game-chat": 868,
+    "🔸綜合討論": 81,
+    "🔸morimens-game-chat": 1814,
+    "🔸课间休息闲聊": 8,
+    "🔸日本語チャンネル": 1,
+    "🔸한국어-채팅방": 12,
+    "🔸русский-канал": 295,
+    "🔸phòng-chat-tiếng-việt": 16,
+    "🔸canal-español": 87,
+    "🔸canal-português": 64,
+    "🔸ruang-obrolan-indonesia": 39,
+    "🔸ห้องสนทนาภาษาไทย": 4,
+    "🔸lore-chat": 8,
+    "🔸team-building": 38,
+    "🔸general-chat": 281,
+    "🔸game-question": 616,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 15,
+    "Decrease the requirement for embryo generation in Propagation: Caro": 1,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 5,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 3,
+    "Additional Record Filters": 3,
+    "Please rework how Propagation Caro works for the future units": 3,
+    "V2.5.1.0 停服维护公告": 1,
+    "Niko's Event Unlock Recommendations (Lore-focused)": 1,
+    "🏆 忘却前夜第5届塔薇杯┊The 5th Tawil Cup of Morimens": 4,
+    "入坑半個月求抽卡建議": 2,
+    "1541982613210660984": 1,
     "🔸晒卡分享": 1,
-    "🔸русский-канал": 77,
-    "🔸canal-español": 56,
-    "🔸canal-português": 35,
-    "🔸ruang-obrolan-indonesia": 7,
     "🔸traphase": 1,
-    "🔸lore-chat": 3,
-    "🔸team-building": 9,
-    "🔸general-chat": 124,
     "🔸邀请码互助┊swap-invitation-codes": 1,
-    "🔸game-question": 127,
-    "🔸机器人命令┊bot-commands": 7,
     "Improve the damage scaling of Caraboo's ultimate": 1,
-    "Impact of Version 2.6 Affinity Changes on Player Experience": 3,
-    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 2,
-    "Additional Record Filters": 2,
     "Quadra / 4-Realm Rerun Banners": 9,
-    "Please rework how Propagation Caro works for the future units": 2,
     "V2.6.0 百万金券失窃事件┊The Million Rose Script Heist┊백만 금권 도난 사건": 1
   },
   "hourly_activity": {
-    "0": 962,
-    "1": 385
+    "1": 884,
+    "2": 743,
+    "3": 829,
+    "0": 962
   },
   "message_types": {
-    "0": 904,
-    "19": 434,
-    "20": 9
+    "0": 2384,
+    "19": 1015,
+    "20": 16,
+    "6": 2,
+    "21": 1
   },
   "top_reacted_messages": [
     {
@@ -54,6 +70,22 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1541993995331182693",
+      "channel_id": "1170692781216378960",
+      "content": "this but horror and morimens",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542001797290270740",
+      "channel_id": "1170692781216378960",
+      "content": "wtf that is not arachne",
+      "author": "serahh__",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1541965453012766730",
       "channel_id": "1170692781216378960",
       "content": "hi",
@@ -68,6 +100,46 @@
       "author": "moonandmymuse",
       "reactions": 4,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541986234287530024",
+      "channel_id": "1170692781216378960",
+      "content": "I really hope they rebalance pcaro",
+      "author": "utsuro.bune",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541988952653692970",
+      "channel_id": "1170692781216378960",
+      "content": "holy shit i finally have castor bruh im so happy",
+      "author": "nirski",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1541992682841440266",
+      "channel_id": "1170692781216378960",
+      "content": "https://klipy.com/gifs/whimsical-creature",
+      "author": "azaenya",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542002118007726120",
+      "channel_id": "1170692781216378960",
+      "content": "Or, alternatively, if you're Asian.",
+      "author": "syro_k",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542000594238316634",
+      "channel_id": "1542000594238316634",
+      "content": "牌逢对手尽在「相位对弈」赛事活动！\n由守密人们自发组成的赛事组竭诚举办的第5届「塔薇杯」将于9月18日正式开赛，届时Bilibili、Discord双平台将同步",
+      "author": "morimensstaff06",
+      "reactions": 3,
+      "channel": "🏆 忘却前夜第5届塔薇杯┊The 5th Tawil Cup of Morimens"
     },
     {
       "id": "1541962835372937288",
@@ -110,90 +182,34 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1541962340658847795",
+      "id": "1541990760306573332",
+      "channel_id": "1131839817982947429",
+      "content": "？？？",
+      "author": "cassidy_xue",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1541985880896573532",
       "channel_id": "1170692781216378960",
-      "content": "<@296679098703544321> i killed ACTUAL boss with caraboo dps(?)!",
-      "author": "2ndselna",
+      "content": "hmm? yes i am aware how that works",
+      "author": "slymate_",
       "reactions": 2,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1541963356305489990",
+      "id": "1541987267101597826",
       "channel_id": "1170692781216378960",
-      "content": "All roads lead to Xu",
-      "author": "mythicmoonwort",
+      "content": "E3 Pollux the goat",
+      "author": "sovieticonion",
       "reactions": 2,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1541965622156599346",
+      "id": "1541989226218917969",
       "channel_id": "1170692781216378960",
-      "content": "alr i have all my gnosiseses its time to clear chapter 8",
-      "author": "serahh__",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541967823205703710",
-      "channel_id": "1170692781216378960",
-      "content": "VORTICE IS AWESOME",
-      "author": "azel_1",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541969809657434132",
-      "channel_id": "1170692781216378960",
-      "content": "calls will be made",
-      "author": "serahh__",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541970258317938708",
-      "channel_id": "1170692781216378960",
-      "content": "https://klipy.com/gifs/sparxie-sparxie-hsr-7",
-      "author": "serahh__",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541970792248639538",
-      "channel_id": "1170692781216378960",
-      "content": "that sounds painful",
-      "author": "serahh__",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541970971005550622",
-      "channel_id": "1170692781216378960",
-      "content": "lowk same ive heard enough sparxie slander tonight",
-      "author": "serahh__",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541971143479525447",
-      "channel_id": "1170692781216378960",
-      "content": "shes cute and whimsical u must allow this",
-      "author": "serahh__",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541972011818164224",
-      "channel_id": "1170692781216378960",
-      "content": "Okay now I saw porn",
-      "author": "spooky_penguin_",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1541975790319570984",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "nirski",
+      "content": "(there isn't much of a competition 🤫 )",
+      "author": "thereaperinthedresss",
       "reactions": 2,
       "channel": "🔸morimens-game-chat"
     }
