@@ -1,6 +1,6 @@
 {
   "guild_id": "1131791637933199470",
-  "updated_at": "2026-08-27T00:59:25.939860+00:00",
+  "updated_at": "2026-08-27T13:54:36.012212+00:00",
   "channels": [
     {
       "id": "1131791637933199471",
@@ -228,11 +228,11 @@
     },
     {
       "id": "1180845276823564288",
-      "name": "🔸有問必答┊official-q-a",
+      "name": "🔸官方问答┊official-q-a",
       "type": 15,
       "parent_id": "1355086706163974316",
       "position": 23,
-      "topic": "**有問必答：**守密人可以在這裡反饋遊戲BUG、建議等，我們會認真解答；\n\n**Official Q&A：**Keepers can report game bugs, suggestions, etc. here, and we will answer them seriously;"
+      "topic": "**官方问答：**守密人可以在這裡反饋遊戲BUG、建議等，我們會認真解答；\n\n**Official Q&A：**Keepers can report game bugs, suggestions, etc. here, and we will answer them seriously;"
     },
     {
       "id": "1180850818509971466",
