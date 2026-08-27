@@ -1,8 +1,8 @@
 {
   "date": "2026-08-27",
-  "archived_at": "2026-08-26T19:45:55.803190+00:00",
+  "archived_at": "2026-08-27T00:27:05.424737+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "【忘却前夜新手向】抽卡怎么抽？队伍怎么组？融灾怎么打？一期视频为你解惑！",
@@ -19,6 +19,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/cda7dfbdf873fd6649138e1e7e91d016098614e2.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】 同调率速刷技巧分享",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-26T21:28:01+00:00",
+      "url": "https://www.bilibili.com/video/av117163922817595",
+      "engagement": 244,
+      "is_hot": false,
+      "author": "夏茉琳summerring",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/e04bbb414d4458264e1cc34d11fe401dad79e6d3.jpg",
       "content_type": "video"
     }
   ]

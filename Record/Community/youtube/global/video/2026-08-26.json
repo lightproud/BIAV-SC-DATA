@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-26T19:45:55.801553+00:00",
+  "archived_at": "2026-08-27T00:27:05.424128+00:00",
   "source": "youtube",
-  "item_count": 35,
+  "item_count": 36,
   "items": [
     {
       "title": "FINALLY, some good FOOD in Morimens! Pulling + playing CARABOO",
@@ -289,6 +289,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/_mk661BWxDU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "모리멘스 (망각전야) - 8/17 시즌 융재금구 W3A5",
+      "summary": "심리교살(타격 수 증가), 고통착취(힘 증가) 패턴이 플레이어의 영지각성 사용에 따라 서로 맞교대 됩니다. 영상과 같이 고통착취 2회가 ...",
+      "source": "youtube",
+      "time": "2026-08-26T13:43:14Z",
+      "url": "https://www.youtube.com/watch?v=3rO18OeK5n4",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "때까치",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/3rO18OeK5n4/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

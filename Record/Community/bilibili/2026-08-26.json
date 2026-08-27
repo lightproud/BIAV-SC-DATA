@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-26T19:45:55.800609+00:00",
+  "archived_at": "2026-08-27T00:27:05.423390+00:00",
   "source": "bilibili",
-  "item_count": 13,
+  "item_count": 14,
   "items": [
     {
       "title": "忘却前夜丨广播剧《风雪夜》（CV：钉宫理惠）",
@@ -138,6 +138,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/b8d2d6e8073a95931a4b20d69a7e6d582bf407de.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "手游【忘却前夜】回合制类 游戏试玩",
+      "summary": "游戏名：忘却前夜",
+      "source": "bilibili",
+      "time": "2026-08-26T13:52:44+00:00",
+      "url": "https://www.bilibili.com/video/av117162043773114",
+      "engagement": 110,
+      "is_hot": false,
+      "author": "冥长石",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/7203ff8055d41f62f0039fe44bbbab115cbc9f71.jpg",
       "content_type": "video"
     },
     {
