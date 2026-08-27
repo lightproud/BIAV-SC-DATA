@@ -1,0 +1,153 @@
+{
+  "date": "2026-08-27",
+  "messages": 391,
+  "unique_authors": 44,
+  "reactions_total": 21,
+  "attachments": 14,
+  "channel_activity": {
+    "🔸綜合討論": 2,
+    "🔸morimens-game-chat": 85,
+    "🔸课间休息闲聊": 1,
+    "🔸русский-канал": 26,
+    "🔸phòng-chat-tiếng-việt": 1,
+    "🔸canal-español": 1,
+    "🔸canal-português": 26,
+    "🔸ruang-obrolan-indonesia": 27,
+    "🔸lore-chat": 8,
+    "🔸team-building": 2,
+    "🔸game-question": 206,
+    "🔸游戏问题": 1,
+    "🔸机器人命令┊bot-commands": 3,
+    "Caraboo 30k?": 1,
+    "Mother Tree: Root Version": 1
+  },
+  "hourly_activity": {
+    "0": 391
+  },
+  "message_types": {
+    "19": 99,
+    "0": 292
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1542324074972315659",
+      "channel_id": "1170692781216378960",
+      "content": "That and commissioning art are the two joys I have with spending money",
+      "author": "korndog789",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542323117769101403",
+      "channel_id": "1170692781216378960",
+      "content": "is morimens saved",
+      "author": "not_blueberry",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542323708616769656",
+      "channel_id": "1170692781216378960",
+      "content": "Gacha players are the scum of the earth",
+      "author": "601671_",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542324958481481909",
+      "channel_id": "1170692781216378960",
+      "content": "candle?",
+      "author": "bw55555",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542326517378453534",
+      "channel_id": "1433513650299076780",
+      "content": "Vortice! Strong!!",
+      "author": "justeunchatennuyeux",
+      "reactions": 2,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1542323079718633482",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "not_blueberry",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542324255361081504",
+      "channel_id": "1170692781216378960",
+      "content": "I have one I almost keep on payroll",
+      "author": "korndog789",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542325328188407948",
+      "channel_id": "1170692781216378960",
+      "content": "It is my goal in life to be a great patron of the finer things",
+      "author": "korndog789",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542330493385711679",
+      "channel_id": "1170692781216378960",
+      "content": "your numbers should be what it is",
+      "author": "corvim",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542330635882856528",
+      "channel_id": "1170692781216378960",
+      "content": "It's only 2% max",
+      "author": "guava3442",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542326345621577780",
+      "channel_id": "1300659580446969918",
+      "content": "Я хочу ролить за 10!",
+      "author": "noreadjustwhale",
+      "reactions": 1,
+      "channel": "🔸русский-канал"
+    },
+    {
+      "id": "1542326966051668038",
+      "channel_id": "1300659662311526512",
+      "content": "",
+      "author": "salami_87",
+      "reactions": 1,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1542326875789983834",
+      "channel_id": "1326453763355185215",
+      "content": "its the keeper. the full explanation is in his deepdive",
+      "author": "nikolazuli",
+      "reactions": 1,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1542329831146913952",
+      "channel_id": "1433513650299076780",
+      "content": "yep",
+      "author": "corvim",
+      "reactions": 1,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1542329849387946037",
+      "channel_id": "1433513650299076780",
+      "content": "Yep",
+      "author": "601671_",
+      "reactions": 1,
+      "channel": "🔸game-question"
+    }
+  ]
+}
