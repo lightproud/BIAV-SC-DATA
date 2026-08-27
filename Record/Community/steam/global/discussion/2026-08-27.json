@@ -1,8 +1,8 @@
 {
   "date": "2026-08-27",
-  "archived_at": "2026-08-27T00:27:05.429768+00:00",
+  "archived_at": "2026-08-27T13:46:31.901569+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[Steam论坛] Pulls guide... but, like, REALLY basic Pulls guide",
@@ -30,6 +30,23 @@
       "engagement": 4,
       "is_hot": false,
       "author": "Zorlond",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] 唤醒体",
+      "summary": "哪个防御型唤醒体比较好啊",
+      "source": "steam_discussion",
+      "time": "2026-08-27T05:17:57+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591813764140012968/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "心已被她占据",
       "tags": [
         "steam_forum"
       ],

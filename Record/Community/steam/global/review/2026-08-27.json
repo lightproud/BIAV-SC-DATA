@@ -1,8 +1,8 @@
 {
   "date": "2026-08-27",
-  "archived_at": "2026-08-27T00:27:05.473491+00:00",
+  "archived_at": "2026-08-27T13:46:31.951284+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 6,
   "items": [
     {
       "title": "[正面] 相见恨晚啊5771！",
@@ -46,6 +46,98 @@
         "playtime_forever": 1805,
         "votes_up": 0,
         "timestamp_created": 1787763125
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] good game, peak story, absolute peak chracter",
+      "summary": "good game, peak story, absolute peak chracter",
+      "source": "steam_review",
+      "time": "2026-08-27T07:59:07+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199744766423/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199744766423",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3903,
+        "votes_up": 0,
+        "timestamp_created": 1787817547
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] It's a great game with an amazing art-style and a...",
+      "summary": "It's a great game with an amazing art-style and a very enjoyable gameplay loop. They use a very reasonable system for obtaining characters, and the dev team while small is very dedicated.\r\n\r\nHighly recommend if you are a fan of the art style, cult horror themes or other games in the genre like Slay The Spire etc.",
+      "source": "steam_review",
+      "time": "2026-08-27T05:19:11+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198119291682/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198119291682",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 16562,
+        "votes_up": 0,
+        "timestamp_created": 1787807951
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] DOPAMINE GAMEPLAY",
+      "summary": "DOPAMINE GAMEPLAY",
+      "source": "steam_review",
+      "time": "2026-08-27T04:52:11+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198073204827/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198073204827",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 333,
+        "votes_up": 0,
+        "timestamp_created": 1787806331
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 美工很好看啊，我喜欢这个肉鸽玩法",
+      "summary": "美工很好看啊，我喜欢这个肉鸽玩法",
+      "source": "steam_review",
+      "time": "2026-08-27T03:46:27+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199871869467/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199871869467",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1112,
+        "votes_up": 0,
+        "timestamp_created": 1787802387
       },
       "region": "global",
       "archive_subtype": "review"

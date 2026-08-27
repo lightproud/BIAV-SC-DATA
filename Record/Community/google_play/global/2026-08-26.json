@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-26",
+  "archived_at": "2026-08-27T13:46:32.032128+00:00",
+  "source": "google_play",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 ni game bagus bangat, storinya juga bagu",
+      "summary": "ni game bagus bangat, storinya juga bagussssss",
+      "source": "google_play",
+      "time": "2026-08-26T12:23:26",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-8022b900-a4e6-4f83-9507-d2fd9912742b",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Dilan Ramadan",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 developer, tolong tambahkan hadiah emoji",
+      "summary": "developer, tolong tambahkan hadiah emoji(ekspresi)di traphase seperti dulu, menang berapa kali dapet ekspresi(emoji)🙏🙏🙏",
+      "source": "google_play",
+      "time": "2026-08-26T06:49:16",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-49ab9c99-aa25-4551-9437-a2248ce7d5c9",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Temsyah Gilang",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 es un juego increíble...",
+      "summary": "es un juego increíble...",
+      "source": "google_play",
+      "time": "2026-08-26T00:41:29",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-4d482100-925d-4313-aa7b-f12520438a62",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Eloísa Guillen",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

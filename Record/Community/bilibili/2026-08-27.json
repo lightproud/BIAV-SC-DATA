@@ -1,9 +1,43 @@
 {
   "date": "2026-08-27",
-  "archived_at": "2026-08-27T00:27:05.424737+00:00",
+  "archived_at": "2026-08-27T13:46:31.892354+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 8,
   "items": [
+    {
+      "title": "［相位/教学］麻痹队——也许是最难讲的阵容",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-27T05:34:57+00:00",
+      "url": "https://www.bilibili.com/video/av117165835487825",
+      "engagement": 692,
+      "is_hot": false,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/0a60251ed0f8e4a6d5468dcd33e1d4565176e3bf.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】神奇的白色大区能让守咪人变得坚硬无比这不神奇吗？（0+0卡拉布5-5融灾）",
+      "summary": "天胡造物，要是有算力和强效就更好了。至于没戒指怎么办你别问🥲",
+      "source": "bilibili",
+      "time": "2026-08-27T08:35:08+00:00",
+      "url": "https://www.bilibili.com/video/av117166506512612",
+      "engagement": 359,
+      "is_hot": false,
+      "author": "夜行性孩子",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/318bc0c43545f9d47b88a149a08ca0c5f234399c.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜新手向】抽卡怎么抽？队伍怎么组？融灾怎么打？一期视频为你解惑！",
       "summary": "按道理来说其实聊到融灾抽卡规划的时候主播应该掏出一个排行榜，但是主播本质普通玩家，瞎排榜等下老冯飞了",
@@ -22,6 +56,23 @@
       "content_type": "video"
     },
     {
+      "title": "杜莫布耶，堂堂来袭（）",
+      "summary": "赫赫赫，爱杜TV来喽（",
+      "source": "bilibili",
+      "time": "2026-08-27T03:41:34+00:00",
+      "url": "https://www.bilibili.com/video/av117165382438350",
+      "engagement": 335,
+      "is_hot": false,
+      "author": "夜雨-月明",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/39ddcdd2972e76bbc6942c27c0f1e34c8caa097b.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "【忘却前夜】 同调率速刷技巧分享",
       "summary": "",
       "source": "bilibili",
@@ -36,6 +87,57 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/e04bbb414d4458264e1cc34d11fe401dad79e6d3.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】蚀灭罗坦本体0启无专低配融灾禁区5-5",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-26T17:40:26+00:00",
+      "url": "https://www.bilibili.com/video/av117162647816173",
+      "engagement": 107,
+      "is_hot": false,
+      "author": "如今我面无表情",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/4eb0695de84ee2276cd9f04ed51105ad3dd67bdd.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【AI拉蒙娜】《红色高跟鞋》&quot;我爱你有种左灯右行的冲突 疯狂却怕没有退路&quot;",
+      "summary": "此身即为，揭露未来之人！",
+      "source": "bilibili",
+      "time": "2026-08-27T04:00:00+00:00",
+      "url": "https://www.bilibili.com/video/av117164761746264",
+      "engagement": 99,
+      "is_hot": false,
+      "author": "是一只猫猫头呢",
+      "tags": [
+        "VOCALOID·UTAU"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/74af7b94f26c9653d4fd4640060c9face2a0e72b.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜 卡拉布环娜娅娅羊妈 5-5",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-27T06:12:35+00:00",
+      "url": "https://www.bilibili.com/video/av117165969640593",
+      "engagement": 69,
+      "is_hot": false,
+      "author": "寂榕",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/21706bf9854ea571564181d25c3d15ea1d3b3b49.jpg",
       "content_type": "video"
     }
   ]

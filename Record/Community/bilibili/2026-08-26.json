@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
-  "archived_at": "2026-08-27T00:27:05.423390+00:00",
+  "archived_at": "2026-08-27T13:46:31.893947+00:00",
   "source": "bilibili",
-  "item_count": 14,
+  "item_count": 15,
   "items": [
     {
       "title": "忘却前夜丨广播剧《风雪夜》（CV：钉宫理惠）",
@@ -121,6 +121,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/f9577c727dc8230facd8f8c0a1a5815972a23778.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "融灾400(8.17-8.30)",
+      "summary": "融灾400留档纪念，渣操很多。。。\n1-5 沙耶水船 凹了下死扛。惊天200w血\n2-5 鸟兄弟，老样子能进王关就能过\n3-5 自爆茉夏\n4-5 神国，这期烧牌打的好痛苦，回溯了好多世界线才过。并且命轮都升配了。本来鲨鱼一般都是捡两个死扛r命轮或者sr的，这会都升到灵魂诞生和极夜了\n5-5 借了个莫斯 堆了很多精通。就还行",
+      "source": "bilibili",
+      "time": "2026-08-26T14:49:59+00:00",
+      "url": "https://www.bilibili.com/video/av117161808959719",
+      "engagement": 128,
+      "is_hot": false,
+      "author": "rikkaaaaaaaa__",
+      "tags": [
+        "单机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/86227465d718141f5d17b774c604af96849e48c1.jpg",
       "content_type": "video"
     },
     {
