@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-28",
+  "messages": 7,
+  "unique_authors": 3,
+  "reactions_total": 4,
+  "attachments": 4,
+  "channel_activity": {
+    "なんでも雑談": 5,
+    "ニムフィーアの毒パ研究日誌": 2
+  },
+  "hourly_activity": {
+    "0": 7
+  },
+  "message_types": {
+    "0": 7
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1542688504515919914",
+      "channel_id": "1377478664609857647",
+      "content": "クリア8人目は貰いました。プライドなんてもうありません",
+      "author": "yamaiame_ql4",
+      "reactions": 4,
+      "channel": "なんでも雑談"
+    }
+  ]
+}
