@@ -1,0 +1,106 @@
+{
+  "date": "2026-08-28",
+  "messages": 103,
+  "unique_authors": 28,
+  "reactions_total": 12,
+  "attachments": 5,
+  "channel_activity": {
+    "🔸綜合討論": 10,
+    "🔸한국어-채팅방": 1,
+    "🔸canal-español": 19,
+    "🔸canal-português": 2,
+    "🔸general-chat": 1,
+    "🔸game-question": 36,
+    "🔸morimens-game-chat": 34
+  },
+  "hourly_activity": {
+    "0": 103
+  },
+  "message_types": {
+    "0": 75,
+    "19": 27,
+    "20": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1542689279535489218",
+      "channel_id": "1433513650299076780",
+      "content": "Mobile sucks",
+      "author": "snorlax01",
+      "reactions": 2,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1542688700687843399",
+      "channel_id": "1170692781216378960",
+      "content": "This video will make you see video games differently...\n\nBut if you want to stay",
+      "author": "climbkaly",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542688868434714654",
+      "channel_id": "1433513650299076780",
+      "content": "use either one on the pollux team",
+      "author": "blecnes",
+      "reactions": 1,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1542688888831610984",
+      "channel_id": "1433513650299076780",
+      "content": "is lacking vuln and caro realm",
+      "author": "blecnes",
+      "reactions": 1,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1542689096802115635",
+      "channel_id": "1433513650299076780",
+      "content": "Yeah, can use Aigis instead of Clem on the Castor, Pollux Team and can give Thai",
+      "author": "snorlax01",
+      "reactions": 1,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1542689209071181904",
+      "channel_id": "1433513650299076780",
+      "content": "Mb double clicked",
+      "author": "snorlax01",
+      "reactions": 1,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1542686444852879503",
+      "channel_id": "1170692781216378960",
+      "content": "And it DISGUSTS ME",
+      "author": "ilusha1666",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542687410079662151",
+      "channel_id": "1170692781216378960",
+      "content": "hiiiiiiiiiiiiiiiiiiiiii kaly",
+      "author": "2ndselna",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542687542237728798",
+      "channel_id": "1170692781216378960",
+      "content": "no its not impressive\nyes im just going around demanding praise",
+      "author": "2ndselna",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1542688716504440852",
+      "channel_id": "1170692781216378960",
+      "content": "https://klipy.com/gifs/stabby-duck-very-mad-stabby-duck",
+      "author": "2ndselna",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
