@@ -1,8 +1,8 @@
 {
   "date": "2026-08-28",
-  "archived_at": "2026-08-28T00:14:48.450784+00:00",
+  "archived_at": "2026-08-28T14:54:41.160250+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 12,
   "items": [
     {
       "title": "[正面] tengo que jugarlo mirando reels sino es imposible,...",
@@ -92,6 +92,190 @@
         "playtime_forever": 5930,
         "votes_up": 0,
         "timestamp_created": 1787853404
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 비주얼, 분위기 매우 만족스러움\r\n반복전투 피로도 이슈도 적음\r\n잡졸들은 오토로 해결가능하...",
+      "summary": "비주얼, 분위기 매우 만족스러움\r\n반복전투 피로도 이슈도 적음\r\n잡졸들은 오토로 해결가능하고 보스전은 수동으로 전투하는 맛 양쪽을 챙김",
+      "source": "steam_review",
+      "time": "2026-08-28T13:53:39+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198154549077/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198154549077",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 271,
+        "votes_up": 0,
+        "timestamp_created": 1787925219
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 여기는 내 실타래험실타래이야...",
+      "summary": "여기는 내 실타래험실타래이야...",
+      "source": "steam_review",
+      "time": "2026-08-28T09:55:34+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199554903648/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199554903648",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1885,
+        "votes_up": 0,
+        "timestamp_created": 1787910934
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Дизайнеру минус",
+      "summary": "Дизайнеру минус",
+      "source": "steam_review",
+      "time": "2026-08-28T09:25:36+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198260119858/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198260119858",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 94,
+        "votes_up": 0,
+        "timestamp_created": 1787909136
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] No anime please",
+      "summary": "No anime please",
+      "source": "steam_review",
+      "time": "2026-08-28T08:55:03+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199654812777/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199654812777",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 40,
+        "votes_up": 0,
+        "timestamp_created": 1787907303
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Снова аниме",
+      "summary": "Снова аниме",
+      "source": "steam_review",
+      "time": "2026-08-28T02:39:02+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198772667529/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198772667529",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 130,
+        "votes_up": 0,
+        "timestamp_created": 1787884742
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] La traduccion al spanish la escribieron con el cul...",
+      "summary": "La traduccion al spanish la escribieron con el culo y no con las manos pero todo lo demas excelente la primera vez que juego, juegos como este y me ha resultado enviciante el juego super divertido lo recomiendo pero eso si el spanish traducido horrible",
+      "source": "steam_review",
+      "time": "2026-08-28T01:35:19+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199647986775/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199647986775",
+      "tags": [
+        "spanish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 747,
+        "votes_up": 0,
+        "timestamp_created": 1787880919
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] I'm hooked ;-;",
+      "summary": "I'm hooked ;-;",
+      "source": "steam_review",
+      "time": "2026-08-28T01:28:34+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198850308914/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198850308914",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1931,
+        "votes_up": 0,
+        "timestamp_created": 1787880514
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] NAKAMA MOTO MOTO",
+      "summary": "NAKAMA MOTO MOTO",
+      "source": "steam_review",
+      "time": "2026-08-28T00:04:33+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198155940046/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198155940046",
+      "tags": [
+        "spanish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 10389,
+        "votes_up": 0,
+        "timestamp_created": 1787875473
       },
       "region": "global",
       "archive_subtype": "review"

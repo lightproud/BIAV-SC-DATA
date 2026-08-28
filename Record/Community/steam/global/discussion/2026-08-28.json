@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-28",
+  "archived_at": "2026-08-28T14:54:41.160829+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam论坛] free saya still available?",
+      "summary": "Hello, title , since the event ends on 29 , but is not accessible, i'm wondering if there is still a way to get a free copy?\n\nI started the event but never had time to continue so i'm a bit bummed.",
+      "source": "steam_discussion",
+      "time": "2026-08-28T02:33:15+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591813764140055729/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Kijima_tim",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}

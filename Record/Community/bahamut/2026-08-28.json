@@ -1,9 +1,22 @@
 {
   "date": "2026-08-28",
-  "archived_at": "2026-08-28T00:14:48.409106+00:00",
+  "archived_at": "2026-08-28T14:54:41.129129+00:00",
   "source": "bahamut",
-  "item_count": 22,
+  "item_count": 28,
   "items": [
+    {
+      "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-28T14:52:44.546303+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1144&tnum=250",
+      "engagement": 377,
+      "is_hot": true,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
     {
       "title": "【閒聊】+12銀芯通訊分享(尚缺：墨菲、皮克曼)",
       "summary": "",
@@ -24,6 +37,19 @@
       "time": "2026-08-28T00:13:52.757955+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1516&tnum=4",
       "engagement": 59,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【攻略】你真的需要卡拉布嗎❓卡拉布抽取建議",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-28T14:52:44.546240+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1551&tnum=3",
+      "engagement": 58,
       "is_hot": false,
       "author": "t12345825",
       "tags": [],
@@ -78,6 +104,19 @@
       "engagement": 34,
       "is_hot": false,
       "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【心得】融災簡易攻略：無課小號實測＋本尊對照(還是依照個人情況做調整為主喔!(更新這期融災,425達成,分享與紀念",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-28T14:52:44.546107+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1492&tnum=5",
+      "engagement": 32,
+      "is_hot": false,
+      "author": "Daisuke1990",
       "tags": [],
       "lang": "zh",
       "platform_region": ""
@@ -252,6 +291,19 @@
       "platform_region": ""
     },
     {
+      "title": "【討論】新手入門 組隊抽卡求助",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-28T14:52:44.546355+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1549&tnum=2",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "dong0701",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
       "title": "【情報】V2.6.0 仙女教派宣傳冊",
       "summary": "",
       "source": "bahamut",
@@ -260,6 +312,32 @@
       "engagement": 5,
       "is_hot": false,
       "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【情報】10000銀芯獎勵！ V2.6 UGC創作徵集開啟！",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-28T14:52:44.546013+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1555&tnum=1",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【閒聊】沒想到抽到卡拉布隔天收到的銀芯通訊竟然是詐騙",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-08-28T14:52:44.546161+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1554&tnum=1",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "pkppkkpk",
       "tags": [],
       "lang": "zh",
       "platform_region": ""

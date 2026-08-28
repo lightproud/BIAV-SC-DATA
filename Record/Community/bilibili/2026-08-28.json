@@ -1,9 +1,26 @@
 {
   "date": "2026-08-28",
-  "archived_at": "2026-08-28T00:14:48.408164+00:00",
+  "archived_at": "2026-08-28T14:54:41.126729+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 8,
   "items": [
+    {
+      "title": "【忘却淋夜】蠕虫仙女卡拉布仙蛆下凡，携全常驻正义出击融灾",
+      "summary": "图片在评论区，淋系视频注意，内容纯属虚构，无恶意诋毁，不良引导，视频中所用语言皆为虚构和节目效果，无任何针对和低俗作用，请仔细了解淋的含义再决定是否观看\n对号入座前请仔细阅读文案\nBGM：めらみぽっぷ - 『鏡と鐘』",
+      "source": "bilibili",
+      "time": "2026-08-28T04:48:29+00:00",
+      "url": "https://www.bilibili.com/video/av117171321572103",
+      "engagement": 1244,
+      "is_hot": false,
+      "author": "花葉月",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/9d742138d7faba43b6e5c38ad56238a1890b794f.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】星辰篇5选池分析&amp;建议",
       "summary": "",
@@ -22,6 +39,23 @@
       "content_type": "video"
     },
     {
+      "title": "【忘却前夜】20级同调率曜闪卡框效果展示",
+      "summary": "敷如衍。。刷了五天就这玩意，录视频都无从下手因为发现根本没什么好展示的\n觉醒会比指令卡稍微华丽一点，但是一整局只能见一次。有点搞笑了吧",
+      "source": "bilibili",
+      "time": "2026-08-28T11:41:39+00:00",
+      "url": "https://www.bilibili.com/video/av117172932188376",
+      "engagement": 461,
+      "is_hot": false,
+      "author": "CyaneuS_ky",
+      "tags": [
+        "同人·手书"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/eca414b45f51b4dc5885d29102ad881303bd357a.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "好感度系统改动实装后 的弥萨格校猫be like：",
       "summary": "没话讲",
       "source": "bilibili",
@@ -36,6 +70,74 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/1e98db40a0bc91c61b8931a3fa36c79ba0435b74.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "冒冒头",
+      "summary": "第一次做这个很兴奋，所以想多分享一下\n(๑╹ヮ╹๑)ﾉ",
+      "source": "bilibili",
+      "time": "2026-08-27T17:23:56+00:00",
+      "url": "https://www.bilibili.com/video/av117168620441919",
+      "engagement": 230,
+      "is_hot": false,
+      "author": "张轻衣",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/32b33ecb6f5c614a6063ea9b6eef92c4c23c6ba9.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "最错失良机的一集-卡拉布毒队速通2-5，5-5",
+      "summary": "错失良机能不能从忘却前夜里拱出去😡",
+      "source": "bilibili",
+      "time": "2026-08-28T10:23:52+00:00",
+      "url": "https://www.bilibili.com/video/av117172546374620",
+      "engagement": 218,
+      "is_hot": false,
+      "author": "Coliner_",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/2a42ebf002c5065f2b626eee25623618d907cb38.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "卡拉布配队探索，基于杜勒的防杀队",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-27T17:20:18+00:00",
+      "url": "https://www.bilibili.com/video/av117168486227630",
+      "engagement": 156,
+      "is_hot": false,
+      "author": "Skdmess",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/d39576f37eabeadf6fe7470778a3706f1e2b4b9c.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "我曾有9次必胜的决心……",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-28T14:05:50+00:00",
+      "url": "https://www.bilibili.com/video/av117173502674856",
+      "engagement": 113,
+      "is_hot": false,
+      "author": "梦依流苏_myls",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/dba3847033e7e2267770d52710d82112d94a53ac.jpg",
       "content_type": "video"
     }
   ]

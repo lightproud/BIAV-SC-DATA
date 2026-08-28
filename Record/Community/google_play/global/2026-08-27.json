@@ -1,8 +1,8 @@
 {
   "date": "2026-08-27",
-  "archived_at": "2026-08-28T00:14:48.497817+00:00",
+  "archived_at": "2026-08-28T14:54:41.264612+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 лучшая игрулька",
@@ -15,6 +15,20 @@
       "author": "Джунка Иношима",
       "tags": [],
       "lang": "ru",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 como le falta mejorar el rendimiento per",
+      "summary": "como le falta mejorar el rendimiento pero está bien por ay está con las de gama baja",
+      "source": "google_play",
+      "time": "2026-08-27T03:58:16",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-e476b021-debd-4404-b0c0-e828ccb2b8d3",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "daniel flores artiaga",
+      "tags": [],
+      "lang": "es",
       "platform_region": "",
       "region": "global"
     }
