@@ -1,8 +1,8 @@
 {
   "date": "2026-08-27",
-  "archived_at": "2026-08-27T13:46:31.893147+00:00",
+  "archived_at": "2026-08-28T00:14:48.407333+00:00",
   "source": "youtube",
-  "item_count": 17,
+  "item_count": 18,
   "items": [
     {
       "title": "[Morimens] Flares&#39; Caraboo Advanced Guide - Editor Edition",
@@ -136,6 +136,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/o6o8D1BnpWQ/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens achievement grinding",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-27T00:30:04Z",
+      "url": "https://www.youtube.com/watch?v=gFVXxbmC5sU",
+      "engagement": 10,
+      "is_hot": false,
+      "author": "Nazoric",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/gFVXxbmC5sU/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-27",
-  "archived_at": "2026-08-27T13:46:31.951284+00:00",
+  "archived_at": "2026-08-28T00:14:48.439352+00:00",
   "source": "steam",
-  "item_count": 6,
+  "item_count": 12,
   "items": [
     {
       "title": "[正面] 相见恨晚啊5771！",
@@ -138,6 +138,144 @@
         "playtime_forever": 1112,
         "votes_up": 0,
         "timestamp_created": 1787802387
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Просто копия позорная",
+      "summary": "Просто копия позорная",
+      "source": "steam_review",
+      "time": "2026-08-27T15:04:45+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199882313883/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199882313883",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 75,
+        "votes_up": 0,
+        "timestamp_created": 1787843085
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 이 집 스토리 맛있네",
+      "summary": "이 집 스토리 맛있네",
+      "source": "steam_review",
+      "time": "2026-08-27T14:22:39+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199158488596/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199158488596",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 493,
+        "votes_up": 0,
+        "timestamp_created": 1787840559
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Just insane. The story, the graphics, the mechanic...",
+      "summary": "Just insane. The story, the graphics, the mechanics, soundtracks and musics, please continue to make us dream!!",
+      "source": "steam_review",
+      "time": "2026-08-27T12:55:11+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199194140451/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199194140451",
+      "tags": [
+        "french"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1785,
+        "votes_up": 0,
+        "timestamp_created": 1787835311
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 初始资源太少",
+      "summary": "初始资源太少",
+      "source": "steam_review",
+      "time": "2026-08-27T12:51:34+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198054347558/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198054347558",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 452,
+        "votes_up": 0,
+        "timestamp_created": 1787835094
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Аниме пацаны",
+      "summary": "Аниме пацаны",
+      "source": "steam_review",
+      "time": "2026-08-27T12:38:31+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198798536605/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198798536605",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 63,
+        "votes_up": 0,
+        "timestamp_created": 1787834311
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Странные рисунки",
+      "summary": "Странные рисунки",
+      "source": "steam_review",
+      "time": "2026-08-27T12:30:31+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198830315388/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198830315388",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 53,
+        "votes_up": 0,
+        "timestamp_created": 1787833831
       },
       "region": "global",
       "archive_subtype": "review"

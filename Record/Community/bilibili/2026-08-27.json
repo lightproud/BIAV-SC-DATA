@@ -1,8 +1,8 @@
 {
   "date": "2026-08-27",
-  "archived_at": "2026-08-27T13:46:31.892354+00:00",
+  "archived_at": "2026-08-28T00:14:48.407863+00:00",
   "source": "bilibili",
-  "item_count": 8,
+  "item_count": 10,
   "items": [
     {
       "title": "［相位/教学］麻痹队——也许是最难讲的阵容",
@@ -87,6 +87,40 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/e04bbb414d4458264e1cc34d11fe401dad79e6d3.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【融灾n5-5】栗子会阴到sp吗？",
+      "summary": "虽然爆了死抗——但这是n5-5，全限3+3啊(以前这队进门就被踹出来)；虽然爆了死抗——但没磨到光锥，比卡拉布上线前快了至少四回合，就说卡拉布对老头是不是加强吧",
+      "source": "bilibili",
+      "time": "2026-08-27T08:44:13+00:00",
+      "url": "https://www.bilibili.com/video/av117166573619148",
+      "engagement": 127,
+      "is_hot": false,
+      "author": "红茶喜欢喝红茶",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/6f818fe62066c289cc7db967483cada8ae59096a.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "〖相位〗出血大队，好玩爱玩",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-27T11:31:39+00:00",
+      "url": "https://www.bilibili.com/video/av117167127338649",
+      "engagement": 123,
+      "is_hot": false,
+      "author": "只想摸鱼的屑-",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/17eca613eb84ea33b2fac0dc946c329d47625c3e.jpg",
       "content_type": "video"
     },
     {

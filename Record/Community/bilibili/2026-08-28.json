@@ -1,0 +1,42 @@
+{
+  "date": "2026-08-28",
+  "archived_at": "2026-08-28T00:14:48.408164+00:00",
+  "source": "bilibili",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "【忘却前夜】星辰篇5选池分析&amp;建议",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-27T20:29:25+00:00",
+      "url": "https://www.bilibili.com/video/av117169358637081",
+      "engagement": 633,
+      "is_hot": false,
+      "author": "萨摩_不耶",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/5dcf590ffa6ed3fd16dab10079fb54371ebbba8e.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "好感度系统改动实装后 的弥萨格校猫be like：",
+      "summary": "没话讲",
+      "source": "bilibili",
+      "time": "2026-08-27T18:34:27+00:00",
+      "url": "https://www.bilibili.com/video/av117168905658151",
+      "engagement": 350,
+      "is_hot": false,
+      "author": "花岚天音Amane",
+      "tags": [
+        "桌游棋牌"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/1e98db40a0bc91c61b8931a3fa36c79ba0435b74.jpg",
+      "content_type": "video"
+    }
+  ]
+}

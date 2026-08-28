@@ -1,0 +1,102 @@
+{
+  "date": "2026-08-28",
+  "archived_at": "2026-08-28T00:14:48.450784+00:00",
+  "source": "steam",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "[正面] tengo que jugarlo mirando reels sino es imposible,...",
+      "summary": "tengo que jugarlo mirando reels sino es imposible, demasiado lento este juego",
+      "source": "steam_review",
+      "time": "2026-08-27T22:43:20+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198317428281/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198317428281",
+      "tags": [
+        "spanish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 73,
+        "votes_up": 0,
+        "timestamp_created": 1787870600
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] May the silver key guide us",
+      "summary": "May the silver key guide us",
+      "source": "steam_review",
+      "time": "2026-08-27T21:48:51+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199740940126/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199740940126",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 7032,
+        "votes_up": 0,
+        "timestamp_created": 1787867331
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] I have low hours here as I've mostly played the ga...",
+      "summary": "I have low hours here as I've mostly played the game on its mobile edition. I do recommend playing it on PC though, since you can more easily read card text without your finger in the way.\r\nMorimens is a weird game on the surface. A gacha that limits team-building options sounds sacriligeous to the status-quo of absolute freedom in the face of optimization. However, working within those limitations encourages diverse teambuilding that I don't often see in other games. For example, a team may struggle with survivability, so you can choose to change some characters, and by extension realm/element gimmicks to shore up that weakness (or you can just lean into it and nuke stuff, but you're likely to be doing endgame level stuff at that point).\r\nAs for what you're getting into gacha-wise, the game is relatively generous with pulls, especially if you aren't trying to pull every character as they drop. However the game very much wants you to pull for duplicate characters, with some members of its cast being much noticeably more \"clunky\" if you haven't summoned for their extra copies (Kathigu-Ra being a prime example). Every month though you are given the opportunity to get 1 free copy of a character you own, so even if you miss out on copies, you can slowly build them up over time.\r\nIf you're a fan of deckbuilders and other games akin to Slay the Spire, you've got a good game to look into here.",
+      "source": "steam_review",
+      "time": "2026-08-27T21:08:26+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198448496337/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198448496337",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 234,
+        "votes_up": 0,
+        "timestamp_created": 1787864906
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Good game, some really hot characters. :)",
+      "summary": "Good game, some really hot characters. :)",
+      "source": "steam_review",
+      "time": "2026-08-27T17:56:44+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198839736784/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198839736784",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 5930,
+        "votes_up": 0,
+        "timestamp_created": 1787853404
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
