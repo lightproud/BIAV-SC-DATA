@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-29",
+  "archived_at": "2026-08-28T23:52:34.268879+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] hidden gem",
+      "summary": "hidden gem",
+      "source": "steam_review",
+      "time": "2026-08-28T19:00:08+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199633342137/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199633342137",
+      "tags": [
+        "indonesian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 821,
+        "votes_up": 0,
+        "timestamp_created": 1787943608
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

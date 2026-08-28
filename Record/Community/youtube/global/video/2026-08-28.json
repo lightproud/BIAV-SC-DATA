@@ -1,8 +1,8 @@
 {
   "date": "2026-08-28",
-  "archived_at": "2026-08-28T14:54:41.128325+00:00",
+  "archived_at": "2026-08-28T23:52:34.177506+00:00",
   "source": "youtube",
-  "item_count": 17,
+  "item_count": 18,
   "items": [
     {
       "title": "Guía Morimens - Nueva función + Tienda",
@@ -136,6 +136,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/phXZs1kiaDo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens overexplained Arc 2 3-10 fight with Caraboo and GLotan",
+      "summary": "https://www.twitch.tv/Nazoric https://www.youtube.com/@Cirozan/streams.",
+      "source": "youtube",
+      "time": "2026-08-28T15:21:43Z",
+      "url": "https://www.youtube.com/watch?v=ZPrHVWejLMg",
+      "engagement": 32,
+      "is_hot": false,
+      "author": "Nazoric",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/ZPrHVWejLMg/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
