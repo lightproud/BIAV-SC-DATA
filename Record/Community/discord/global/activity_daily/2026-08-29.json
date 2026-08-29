@@ -1,48 +1,50 @@
 {
   "date": "2026-08-29",
-  "messages": 21423,
+  "messages": 24263,
   "unique_authors": 339,
-  "reactions_total": 1841,
-  "attachments": 979,
+  "reactions_total": 2367,
+  "attachments": 1099,
   "channel_activity": {
-    "🔸綜合討論": 987,
+    "🔸綜合討論": 990,
+    "🔸morimens-game-chat": 9819,
+    "🔸课间休息闲聊": 641,
+    "🔸chaîne-française": 62,
+    "🔸русский-канал": 3715,
+    "🔸canal-español": 465,
+    "🔸canal-português": 163,
+    "🔸ruang-obrolan-indonesia": 390,
+    "🔸ห้องสนทนาภาษาไทย": 45,
+    "🔸traphase": 43,
+    "🔸lore-chat": 229,
+    "🔸team-building": 1329,
+    "🔸general-chat": 799,
+    "🔸邀请码互助┊swap-invitation-codes": 13,
+    "🔸game-question": 3109,
+    "🔸机器人命令┊bot-commands": 67,
+    "Corposant and Last Verse \"Bugfix\"": 626,
+    "✅「Recorded」Abrupt FPS drops across the board on PC client.": 3,
+    "Please rework how Propagation Caro works for the future units": 94,
+    "V2.6.0.2 在线维护公告": 11,
+    "V2.5.1.0 停服维护公告": 15,
+    "DRAWING ALISTAIR UNTIL HE BECOMES PLAYABLE🙏🙏🙏": 5,
     "🔸阵容构建": 62,
-    "🔸morimens-game-chat": 8322,
     "🔸한국어-채팅방": 120,
-    "🔸chaîne-française": 58,
-    "🔸русский-канал": 3325,
     "🔸phòng-chat-tiếng-việt": 1117,
-    "🔸canal-español": 433,
-    "🔸canal-português": 141,
-    "🔸ห้องสนทนาภาษาไทย": 28,
-    "🔸traphase": 23,
-    "🔸lore-chat": 214,
     "🔸频道建议┊server-suggestions": 6,
-    "🔸team-building": 1205,
-    "🔸general-chat": 736,
-    "🔸邀请码互助┊swap-invitation-codes": 10,
-    "🔸game-question": 2966,
     "🔸游戏问题": 73,
-    "🔸机器人命令┊bot-commands": 62,
     "Castor & Pollux Fanart": 3,
     "菜雞四小強玩家的抱怨之旅new": 10,
     "Miryam Talent Not Working": 12,
-    "Corposant and Last Verse \"Bugfix\"": 146,
     "Better handling of nerfs through bug fixes": 33,
     "Arc 1 cut content": 1,
     "Talent for everyone?": 1,
-    "Please rework how Propagation Caro works for the future units": 84,
-    "V2.6.0.2 在线维护公告": 9,
-    "V2.5.1.0 停服维护公告": 14,
     "morimens team generator!!": 1,
     "Morimens New Player Handbook by Cheri [V2.5 UGC Contest]": 1,
     "The Arc 1 GDoll Incident Compilation": 4,
     "融災組隊": 15,
     "🔸剧情交流": 2,
     "🔸相位对弈": 1,
-    "🔸课间休息闲聊": 639,
     "🔸日本語チャンネル": 3,
-    "🔸ruang-obrolan-indonesia": 387,
     "?": 4,
     "忘却篇主线第七章bug": 5,
     "Caraboo Blessing \"Missed Chance\" should be reworked": 1,
@@ -50,7 +52,6 @@
     "Doresain's rouse: fixed damage killing enemies on exalt does not trigger death": 5,
     "Caraboo eat ya": 2,
     "caraboo fanart wip": 1,
-    "DRAWING ALISTAIR UNTIL HE BECOMES PLAYABLE🙏🙏🙏": 4,
     "liz liz liz liz.....": 22,
     "Mira (Keeper OC) art thread": 2,
     "新手求助，無課的話，目前抽的這陣容後期的培養方向？": 9,
@@ -81,11 +82,14 @@
     "Detailed Damage Formula Graphic": 3
   },
   "hourly_activity": {
+    "20": 1004,
+    "22": 1288,
+    "21": 1022,
+    "23": 123,
     "16": 1283,
     "17": 1110,
     "18": 1189,
     "19": 963,
-    "20": 597,
     "9": 629,
     "10": 696,
     "11": 1314,
@@ -104,13 +108,29 @@
     "0": 937
   },
   "message_types": {
-    "0": 14828,
-    "19": 6524,
-    "20": 68,
+    "0": 16614,
+    "19": 7572,
+    "20": 74,
     "4": 2,
     "46": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1543389403265634497",
+      "channel_id": "1542954773261721731",
+      "content": "Ok, I think it's pretty clear that some people have different opinions and they ",
+      "author": "vxvendetta97",
+      "reactions": 22,
+      "channel": "Corposant and Last Verse \"Bugfix\""
+    },
+    {
+      "id": "1543365308071280721",
+      "channel_id": "1542954773261721731",
+      "content": "My curiosity comes from the dichotomy between these two viewpoints; may I ask wh",
+      "author": "arkaether",
+      "reactions": 21,
+      "channel": "Corposant and Last Verse \"Bugfix\""
+    },
     {
       "id": "1543309028900343891",
       "channel_id": "1170692781216378960",
@@ -136,6 +156,14 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1543388630989414521",
+      "channel_id": "1542954773261721731",
+      "content": "so it's a problem",
+      "author": "nirski",
+      "reactions": 9,
+      "channel": "Corposant and Last Verse \"Bugfix\""
+    },
+    {
       "id": "1543258289654071297",
       "channel_id": "1170692781216378960",
       "content": "Naraka will be S tier discard unit but hates having Corpo on the team because of",
@@ -158,6 +186,22 @@
       "author": "luckyinitial",
       "reactions": 9,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1543365721965334648",
+      "channel_id": "1170692781216378960",
+      "content": "idea",
+      "author": "serahh__",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543370127947595906",
+      "channel_id": "1542954773261721731",
+      "content": "While this event mostly flew under the radar of most users and resulted in littl",
+      "author": "arkaether",
+      "reactions": 8,
+      "channel": "Corposant and Last Verse \"Bugfix\""
     },
     {
       "id": "1543251139061882971",
@@ -192,6 +236,30 @@
       "channel": "🔸team-building"
     },
     {
+      "id": "1543387561035300994",
+      "channel_id": "1170692781216378960",
+      "content": "Innovate",
+      "author": "corvim",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543382148625600523",
+      "channel_id": "1542954773261721731",
+      "content": "Honestly, I will just tell them that putting a patch up at the end of the work w",
+      "author": "vxvendetta97",
+      "reactions": 7,
+      "channel": "Corposant and Last Verse \"Bugfix\""
+    },
+    {
+      "id": "1543388998666424321",
+      "channel_id": "1542954773261721731",
+      "content": "Ellie opened that thread for communicating with the Devs, not with children",
+      "author": "topazlh",
+      "reactions": 7,
+      "channel": "Corposant and Last Verse \"Bugfix\""
+    },
+    {
       "id": "1543249056476831745",
       "channel_id": "1131839817982947429",
       "content": "還差一場...",
@@ -206,70 +274,6 @@
       "author": "cyerce_002",
       "reactions": 7,
       "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543231261688987658",
-      "channel_id": "1542954773261721731",
-      "content": "Its a shitty precedence to set about Biav being able to shadow nerf something at",
-      "author": "dracozion",
-      "reactions": 7,
-      "channel": "Corposant and Last Verse \"Bugfix\""
-    },
-    {
-      "id": "1543121964070215781",
-      "channel_id": "1131839817982947429",
-      "content": "给你看看",
-      "author": "kemomimi_",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1543077222712082453",
-      "channel_id": "1170692781216378960",
-      "content": "I’m now missing only 9 characters after 40 days of playing, maybe that’s a sign ",
-      "author": "loirel",
-      "reactions": 7,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543300090817544193",
-      "channel_id": "1131839817982947429",
-      "content": "尾巴翘起来的小猫咪！<:Lily_wow:1356084702468899117>",
-      "author": "sweet_25367",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1543304516005269516",
-      "channel_id": "1131839817982947429",
-      "content": "Wordle 1898 5/6\n\n⬛⬛⬛🟨⬛\n🟨⬛⬛🟨🟨\n⬛🟨🟨🟨⬛\n⬛🟩⬛🟨🟩\n🟩🟩🟩🟩🟩\n\n后入中",
-      "author": "galagalaguo",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1543270120715980870",
-      "channel_id": "1542954773261721731",
-      "content": "\"Oh so you're begging for compensation?\" Yes. Exactly that. Why act like asking ",
-      "author": "inkouah",
-      "reactions": 6,
-      "channel": "Corposant and Last Verse \"Bugfix\""
-    },
-    {
-      "id": "1543252761909399684",
-      "channel_id": "1542907680522510418",
-      "content": "To be honest I don't think this would help too much with a lot of the worst edge",
-      "author": "reya.li",
-      "reactions": 6,
-      "channel": "Caraboo Blessing \"Missed Chance\" should be reworked"
-    },
-    {
-      "id": "1543221335323574333",
-      "channel_id": "1543221335323574333",
-      "content": "",
-      "author": "rocketmacaron",
-      "reactions": 6,
-      "channel": "Caraboo eat ya"
     }
   ]
 }
