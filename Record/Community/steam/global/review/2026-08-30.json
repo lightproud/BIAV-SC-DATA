@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-30",
+  "archived_at": "2026-08-29T18:11:10.233267+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] 好玩 这个游戏在小号上打了60h  这个号上的主号太非了  总时长80h打完全部主线  画风和剧情都...",
+      "summary": "好玩 这个游戏在小号上打了60h  这个号上的主号太非了  总时长80h打完全部主线  画风和剧情都挺喜欢的  属于卡牌游戏",
+      "source": "steam_review",
+      "time": "2026-08-29T17:01:27+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199220294219/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199220294219",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1220,
+        "votes_up": 0,
+        "timestamp_created": 1788022887
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

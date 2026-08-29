@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
-  "archived_at": "2026-08-29T12:16:49.317068+00:00",
+  "archived_at": "2026-08-29T18:11:10.169960+00:00",
   "source": "bilibili",
-  "item_count": 15,
+  "item_count": 18,
   "items": [
     {
       "title": "🎧 忘却前夜丨V2.6.0 广播剧《风雪夜》",
@@ -53,6 +53,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/550d802dfd56a388317c57ae4f0530fe19da47bd.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "还是会想你们",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-29T15:19:26+00:00",
+      "url": "https://www.bilibili.com/video/av117179458521928",
+      "engagement": 416,
+      "is_hot": false,
+      "author": "蹈海者",
+      "tags": [
+        "影视剪辑"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/17a48a6eb607b7dcd2a1de4cabdd0478a9b36a30.jpg",
       "content_type": "video"
     },
     {
@@ -124,6 +141,23 @@
       "content_type": "video"
     },
     {
+      "title": "【忘却前夜】三启60杜勒5-5",
+      "summary": "卡拉布和杜勒的相性比我预想的更高些\n卡拉布提高生命上限使得熔炉每回合获得量更高，也让杜勒大招回血没那么容易达到无低重创的阈值，其次繁血机制提高了杜勒大招回血量，正常普血杜勒三启60级的大招回血量是三百大几四百开头，繁血可以将他拉到六七百，极高提升了生存端\n其次卡拉布的礼物可以提高低配杜勒的下限，银钥狂气算力抽牌都是很好用的机制\n卡拉布自身的生存也很高，大招高额护盾量，在没叠满10层饱餐情况下的提高生命上限也相当于回血了，2c两回合的虚弱也能让boss战基本做到全覆盖虚弱，3c的护盾也还凑合，就是比较吃指令",
+      "source": "bilibili",
+      "time": "2026-08-29T12:17:32+00:00",
+      "url": "https://www.bilibili.com/video/av117178737236162",
+      "engagement": 152,
+      "is_hot": false,
+      "author": "跳段木偶舞",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/62273105317ed8a5b10f0c1cfe8281b3170710b0.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "起舞吧，像时钟一样！",
       "summary": "起舞吧，像时钟一样！\n背景meme素材来自：BV1td4y1d7B3",
       "source": "bilibili",
@@ -155,6 +189,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/ca8b3a800ff8aff4ce2fcce3e7f2c36639dd1025.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】第一场boss战，对面打音响上了",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-29T05:25:16+00:00",
+      "url": "https://www.bilibili.com/video/av117177093064850",
+      "engagement": 110,
+      "is_hot": false,
+      "author": "闭月梦",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/d89e227e1f8635eb2c57541328d8060b6a58475e.jpg",
       "content_type": "video"
     },
     {

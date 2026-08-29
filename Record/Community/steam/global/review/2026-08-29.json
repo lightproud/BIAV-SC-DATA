@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
-  "archived_at": "2026-08-29T12:16:49.397356+00:00",
+  "archived_at": "2026-08-29T18:11:10.233490+00:00",
   "source": "steam",
-  "item_count": 6,
+  "item_count": 8,
   "items": [
     {
       "title": "[正面] hidden gem",
@@ -138,6 +138,52 @@
         "playtime_forever": 718,
         "votes_up": 0,
         "timestamp_created": 1787981635
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] i can finally stop playing ♥♥♥♥♥♥♥ company",
+      "summary": "i can finally stop playing ♥♥♥♥♥♥♥ company",
+      "source": "steam_review",
+      "time": "2026-08-29T13:25:39+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198121371305/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198121371305",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 619,
+        "votes_up": 0,
+        "timestamp_created": 1788009939
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Its slay the spire with a customizable party that...",
+      "summary": "Its slay the spire with a customizable party that represents your \"class\". Tons of characters and the fairly cloned battle system is very well done. Yes its a gacha but I havent spent a dime and already pulled a ton of characters in only 6 hours played. \r\n\r\nIf you like StS and you like party based RPGs, you GOTTA play this.",
+      "source": "steam_review",
+      "time": "2026-08-29T12:22:12+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198004847858/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198004847858",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 565,
+        "votes_up": 0,
+        "timestamp_created": 1788006132
       },
       "region": "global",
       "archive_subtype": "review"

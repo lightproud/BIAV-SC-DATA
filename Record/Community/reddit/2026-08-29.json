@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
-  "archived_at": "2026-08-29T12:16:49.391597+00:00",
+  "archived_at": "2026-08-29T18:11:10.230387+00:00",
   "source": "reddit",
-  "item_count": 21,
+  "item_count": 23,
   "items": [
     {
       "title": "Ramona, what are you doing?",
@@ -273,6 +273,32 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/waynesko",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "OMG THIS IS HUGE RIGHT?? 🤯🤯",
+      "summary": "Spent all of my cores and around 5k silver, but I think it was worth it?  &#32; submitted by &#32;  /u/Sora_theSilentDragon   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-29T13:34:14+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1w1mq4w/omg_this_is_huge_right/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Sora_theSilentDragon",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Which unit(s) do you hate, even tho everyone else say they're amazing?",
+      "summary": "Doesn&#39;t have to be completely serious and can even be a completely personal reason. May it be playstyle, a grudge because of past experiences or just you can&#39;t wrapping your head around why they&#39;re so popular and high regarded.  &#32; submitted by &#32;  /u/-Esphir-   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-29T14:17:12+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1w1nqet/which_units_do_you_hate_even_tho_everyone_else/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/-Esphir-",
       "tags": [],
       "lang": "en",
       "platform_region": ""

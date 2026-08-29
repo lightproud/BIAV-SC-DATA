@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-30",
+  "archived_at": "2026-08-29T18:11:10.206633+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam论坛] Hard mode bug, please help",
+      "summary": "After completing Chapter 2 on Hard Mode, Chapter 3 on Hard Mode does not unlock.\n\nRequirements shown in-game\n\nThe game states that the requirements to unlock Chapter 3 on Hard Mode are:\n\nComplete Chapter 3.5 on Normal Mode\nComplete Chapter 2 on Hard Mode\n\nI have completed both requirements, but Chapter 3 on Hard Mode is still locked....",
+      "source": "steam_discussion",
+      "time": "2026-08-29T16:39:57+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591813764140199602/",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Vsolqt",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}
