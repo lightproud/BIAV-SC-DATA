@@ -1,40 +1,61 @@
 {
   "date": "2026-08-29",
-  "messages": 8048,
+  "messages": 16715,
   "unique_authors": 339,
-  "reactions_total": 875,
-  "attachments": 463,
+  "reactions_total": 1526,
+  "attachments": 812,
   "channel_activity": {
-    "🔸綜合討論": 293,
-    "🔸阵容构建": 3,
-    "🔸morimens-game-chat": 3516,
-    "🔸课间休息闲聊": 634,
+    "🔸綜合討論": 850,
+    "🔸阵容构建": 57,
+    "🔸morimens-game-chat": 6775,
+    "🔸剧情交流": 2,
+    "🔸相位对弈": 1,
+    "🔸课间休息闲聊": 639,
+    "🔸日本語チャンネル": 3,
+    "🔸한국어-채팅방": 119,
+    "🔸chaîne-française": 47,
+    "🔸русский-канал": 1804,
+    "🔸phòng-chat-tiếng-việt": 921,
+    "🔸canal-español": 404,
+    "🔸canal-português": 108,
+    "🔸ruang-obrolan-indonesia": 387,
+    "🔸ห้องสนทนาภาษาไทย": 25,
+    "🔸traphase": 21,
+    "🔸lore-chat": 127,
+    "🔸team-building": 1160,
+    "🔸general-chat": 632,
+    "🔸邀请码互助┊swap-invitation-codes": 6,
+    "🔸game-question": 2152,
+    "🔸机器人命令┊bot-commands": 55,
+    "Castor & Pollux Fanart": 2,
+    "?": 4,
+    "忘却篇主线第七章bug": 5,
+    "Corposant and Last Verse \"Bugfix\"": 111,
+    "Better handling of nerfs through bug fixes": 30,
+    "Caraboo Blessing \"Missed Chance\" should be reworked": 1,
+    "Why does Pontos' gauntwards call only generate shield once per battle?": 6,
+    "Doresain's rouse: fixed damage killing enemies on exalt does not trigger death": 5,
+    "Please rework how Propagation Caro works for the future units": 80,
+    "V2.6.0.2 在线维护公告": 2,
+    "V2.5.1.0 停服维护公告": 13,
+    "Caraboo eat ya": 2,
+    "caraboo fanart wip": 1,
+    "DRAWING ALISTAIR UNTIL HE BECOMES PLAYABLE🙏🙏🙏": 4,
+    "liz liz liz liz.....": 22,
+    "Mira (Keeper OC) art thread": 2,
+    "The Arc 1 GDoll Incident Compilation": 1,
+    "新手求助，無課的話，目前抽的這陣容後期的培養方向？": 9,
+    "刚回归": 4,
+    "新人求助，后续游玩培养方向": 34,
+    "融災組隊": 11,
+    "New Player, advise on pulling and teams": 3,
     "🔸交友频道": 1,
-    "🔸한국어-채팅방": 6,
-    "🔸chaîne-française": 7,
-    "🔸русский-канал": 46,
-    "🔸phòng-chat-tiếng-việt": 192,
-    "🔸canal-español": 377,
-    "🔸canal-português": 23,
-    "🔸ruang-obrolan-indonesia": 104,
-    "🔸ห้องสนทนาภาษาไทย": 6,
-    "🔸traphase": 18,
-    "🔸lore-chat": 124,
     "🔸lets-count": 5,
-    "🔸team-building": 793,
-    "🔸general-chat": 179,
-    "🔸邀请码互助┊swap-invitation-codes": 3,
-    "🔸game-question": 1549,
-    "🔸机器人命令┊bot-commands": 29,
     "放点摸鱼": 5,
     "堆图ing": 5,
-    "?": 1,
     "Honeyed Deceit WoD bug": 1,
-    "忘却篇主线第七章bug": 2,
     "Properly distinguish the \"Strike\" designation into accurate terms": 1,
     "Remove \"Team Unique\" from Wheels of Destiny text": 6,
-    "Corposant and Last Verse \"Bugfix\"": 15,
-    "Better handling of nerfs through bug fixes": 6,
     "Decrease the requirement for embryo generation in Propagation: Caro": 1,
     "Impact of Version 2.6 Affinity Changes on Player Experience": 2,
     "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 4,
@@ -44,22 +65,23 @@
     "希望对新列车进行平衡调整 Request for a train event balance patch": 1,
     "Divine Realms, Aliemus Costs and other Future Worries": 1,
     "Quadra / 4-Realm Rerun Banners": 5,
-    "Please rework how Propagation Caro works for the future units": 9,
-    "V2.5.1.0 停服维护公告": 7,
     "Undying Piety ❤️‍🔥": 1,
     "Caraboo (again)!": 5,
     "\"In the midst of this filth-ridden world, she alone glows with beauty\" 💚": 1,
-    "liz liz liz liz.....": 13,
     "William posting": 6,
     "uvhash...": 3,
     "Detailed Damage Formula Graphic": 3,
-    "刚回归": 2,
-    "新人求助，后续游玩培养方向": 17,
-    "融災組隊": 5,
-    "🔸日本語チャンネル": 1,
     "🔸频道建议┊server-suggestions": 1
   },
   "hourly_activity": {
+    "9": 629,
+    "10": 696,
+    "11": 1314,
+    "12": 1502,
+    "13": 1372,
+    "14": 1703,
+    "15": 1432,
+    "16": 434,
     "2": 732,
     "3": 777,
     "4": 628,
@@ -67,18 +89,25 @@
     "6": 1302,
     "7": 830,
     "8": 486,
-    "9": 415,
     "1": 761,
     "0": 937
   },
   "message_types": {
-    "0": 5313,
-    "19": 2697,
-    "20": 36,
-    "46": 1,
-    "4": 1
+    "0": 11456,
+    "19": 5199,
+    "20": 57,
+    "4": 2,
+    "46": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1543260558827196446",
+      "channel_id": "1170692781216378960",
+      "content": "Dtide done",
+      "author": "rocketmacaron",
+      "reactions": 14,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1543166315072589894",
       "channel_id": "1131839817982947429",
@@ -88,12 +117,44 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1543258289654071297",
+      "channel_id": "1170692781216378960",
+      "content": "Naraka will be S tier discard unit but hates having Corpo on the team because of",
+      "author": "bagels5899",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543230123464204449",
+      "channel_id": "1542954773261721731",
+      "content": "It's shitty to rerun Corpo and then Horla and then decide suddenly oh it's a bug",
+      "author": "dracozion",
+      "reactions": 9,
+      "channel": "Corposant and Last Verse \"Bugfix\""
+    },
+    {
       "id": "1543172477344157717",
       "channel_id": "1131839817982947429",
       "content": "大、大佬們好（緊張）<:Murphy_embarrassed:1356085635374383145> \n我...是剛入坑這遊戲的新手...<:Aurita_p",
       "author": "luckyinitial",
       "reactions": 9,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1543251139061882971",
+      "channel_id": "1543251139061882971",
+      "content": "Scene from Arc 2 Chapter 6-9\nUID: 101099695",
+      "author": "eri_gugu",
+      "reactions": 8,
+      "channel": "Castor & Pollux Fanart"
+    },
+    {
+      "id": "1543232286332420106",
+      "channel_id": "1542954773261721731",
+      "content": "I think it's kinda unfair to ignore what they're saying because they poured reso",
+      "author": "shapeshifterfey",
+      "reactions": 8,
+      "channel": "Corposant and Last Verse \"Bugfix\""
     },
     {
       "id": "1543170622727921675",
@@ -112,6 +173,30 @@
       "channel": "🔸team-building"
     },
     {
+      "id": "1543249056476831745",
+      "channel_id": "1131839817982947429",
+      "content": "還差一場...",
+      "author": "heikwok",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1543289717091598376",
+      "channel_id": "1170692781216378960",
+      "content": "oh well thank you for the WoD too 😭 🙏",
+      "author": "cyerce_002",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543231261688987658",
+      "channel_id": "1542954773261721731",
+      "content": "Its a shitty precedence to set about Biav being able to shadow nerf something at",
+      "author": "dracozion",
+      "reactions": 7,
+      "channel": "Corposant and Last Verse \"Bugfix\""
+    },
+    {
       "id": "1543121964070215781",
       "channel_id": "1131839817982947429",
       "content": "给你看看",
@@ -126,6 +211,30 @@
       "author": "loirel",
       "reactions": 7,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543270120715980870",
+      "channel_id": "1542954773261721731",
+      "content": "\"Oh so you're begging for compensation?\" Yes. Exactly that. Why act like asking ",
+      "author": "inkouah",
+      "reactions": 6,
+      "channel": "Corposant and Last Verse \"Bugfix\""
+    },
+    {
+      "id": "1543252761909399684",
+      "channel_id": "1542907680522510418",
+      "content": "To be honest I don't think this would help too much with a lot of the worst edge",
+      "author": "reya.li",
+      "reactions": 6,
+      "channel": "Caraboo Blessing \"Missed Chance\" should be reworked"
+    },
+    {
+      "id": "1543221335323574333",
+      "channel_id": "1543221335323574333",
+      "content": "",
+      "author": "rocketmacaron",
+      "reactions": 6,
+      "channel": "Caraboo eat ya"
     },
     {
       "id": "1543177783205691392",
@@ -149,94 +258,6 @@
       "content": "they ran out of claude tokens for the boss mechanics",
       "author": "princess.goth",
       "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543178545398943825",
-      "channel_id": "1131839817982947429",
-      "content": "大、大佬們好（緊張）<:Murphy_embarrassed:1356085635374383145> \n我...是剛入坑這遊戲的新手...<:Aurita_p",
-      "author": "navirecorbeau",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1543183445503778917",
-      "channel_id": "1131839817982947429",
-      "content": "話說我從118變119了",
-      "author": "akkom730",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1543061351927382016",
-      "channel_id": "1170692781216378960",
-      "content": "One day, traphase paralysis will be ported over to morimens bosses",
-      "author": "angbak",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543116672360120352",
-      "channel_id": "1131839817982947429",
-      "content": "~~我是覺得以你貓的敏感度而言我們是相信他沒做完啦~~",
-      "author": "yusi4172",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1543188118113484861",
-      "channel_id": "1131839817982947429",
-      "content": "夏茉琳教的方法真的刷比较快了",
-      "author": "ka_0414",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1543074312070758500",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "mythicmoonwort",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543074428899041292",
-      "channel_id": "1170692781216378960",
-      "content": "Mooooo or whatever sound whales make",
-      "author": "shanhaijingactivist",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543101373309263983",
-      "channel_id": "1170692781216378960",
-      "content": "She doesn't get the +20% numbers on pilots from horla wheel anymore",
-      "author": "bru0001",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543125043733602304",
-      "channel_id": "1170692781216378960",
-      "content": "if youre not a meta slave, simply follow your heart~ <:Casiah_wink:1356053053568",
-      "author": "glitzy_x",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543131160551489557",
-      "channel_id": "1170692781216378960",
-      "content": "that 1 poison will really make a change",
-      "author": "technaid",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543137258092101672",
-      "channel_id": "1170692781216378960",
-      "content": "yo fuck this UNNERF AFFINITY GAIN PLEASE???",
-      "author": "glitzy_x",
-      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     }
   ]
