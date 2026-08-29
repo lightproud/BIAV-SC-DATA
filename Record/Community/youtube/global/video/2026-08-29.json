@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
-  "archived_at": "2026-08-28T23:52:34.180006+00:00",
+  "archived_at": "2026-08-29T05:34:56.571153+00:00",
   "source": "youtube",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
     {
       "title": "[Morimens] : มุ่งสู่ Hyperborea (อีกรอบ)",
@@ -56,6 +56,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "【MORIMENS】 What is going on with this Gacha Game?",
+      "summary": "HEYYY EVERYONE TONIGHT we will be playing a game called Morimens I have heard such amazing things from the artistic ...",
+      "source": "youtube",
+      "time": "2026-08-29T02:48:57Z",
+      "url": "https://www.youtube.com/watch?v=fmGFPbUGyUg",
+      "engagement": 36,
+      "is_hot": false,
+      "author": "HayHayHayden",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/fmGFPbUGyUg/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "イベントやっていきます！【#忘却前夜】",
       "summary": "steamURL https://store.steampowered.com/app/4226130/_/",
       "source": "youtube",
@@ -68,6 +85,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/ezS5pR0p1WA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Caraboo Ghelot clears H5-11 Cocoon",
+      "summary": "I'll also link the full footage of the clear separately in case people are curious about retries etc. I don't think Cariboo needs many ...",
+      "source": "youtube",
+      "time": "2026-08-29T00:23:15Z",
+      "url": "https://www.youtube.com/watch?v=vEO6LvYkr30",
+      "engagement": 18,
+      "is_hot": false,
+      "author": "kizunoV",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/vEO6LvYkr30/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

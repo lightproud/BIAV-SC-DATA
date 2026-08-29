@@ -1,8 +1,8 @@
 {
   "date": "2026-08-28",
-  "archived_at": "2026-08-28T23:52:34.176676+00:00",
+  "archived_at": "2026-08-29T05:34:56.568132+00:00",
   "source": "bilibili",
-  "item_count": 11,
+  "item_count": 12,
   "items": [
     {
       "title": "[忘却前夜]9月份最新兑换码五百银芯和五个无垢（补两个可能没有兑换掉的，共四百银芯）截止到9月11号",
@@ -189,6 +189,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/dba3847033e7e2267770d52710d82112d94a53ac.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "无偿卡雕 忘却前夜图鲁",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-28T12:37:00+00:00",
+      "url": "https://www.bilibili.com/video/av117173150353352",
+      "engagement": 105,
+      "is_hot": false,
+      "author": "DLYHL",
+      "tags": [
+        "手工"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/cd5ede80cdbbe3dd93df99334041c2dcaafb2e99.jpg",
       "content_type": "video"
     }
   ]

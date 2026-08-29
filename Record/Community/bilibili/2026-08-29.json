@@ -1,9 +1,26 @@
 {
   "date": "2026-08-29",
-  "archived_at": "2026-08-28T23:52:34.179433+00:00",
+  "archived_at": "2026-08-29T05:34:56.568915+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 6,
   "items": [
+    {
+      "title": "🎧 忘却前夜丨V2.6.0 广播剧《风雪夜》",
+      "summary": "https://youtu.be/X1TXBSzTKhs\n🎧 V2.6.0 广播剧《风雪夜》\n\n「真的好冷……好冷啊……你呢？你感觉到冷了吗？」\n「不要哭嘛，我试过，哭是没有用的。」\n✦ 卡拉布CV：钉宫理惠\n\n📹 中文：https://youtu.be/X1TXBSzTKhs\n\n——✦——✦—— ✦✦✦ ——✦——✦——\n\n🎧 V2.6.0 Radio Drama - A Snowy Night\n\n&quot;It was so, so cold... And you? Are you feeling cold",
+      "source": "bilibili",
+      "time": "2026-08-29T01:00:00+00:00",
+      "url": "https://www.bilibili.com/video/av117172512883273",
+      "engagement": 630,
+      "is_hot": false,
+      "author": "难忘今宵攻略组",
+      "tags": [
+        "动态漫.广播剧"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/0ad8f1e7864aa61491cc29773fb357f823366419.jpg",
+      "content_type": "video"
+    },
     {
       "title": "忘却前夜 这是什么 能拐血量 吃一口 癫狂列车熔朵",
       "summary": "老实说还挺无聊的\n全程都在那里挂机做状态等输出回合\n\n99k忍耐\n吃了脚+矫正器+希洛+5层法则+1300强效\n好感人的伤害\n加油啊莉莉（\n\n背景音乐：Rigël Theatre - &quot;Lurie&quot;",
@@ -22,6 +39,23 @@
       "content_type": "video"
     },
     {
+      "title": "【忘却前夜】盘点于丽埃特那些体现女性力量的绝美时刻",
+      "summary": "内容纯属虚构，无恶意诋毁，不良引导，视频中所用语言皆为虚构和节目效果，无任何针对和低俗作用，请仔细了解淋的含义再决定是否观看\n对号入座前请仔细阅读文案\nBGM：葉月ゆら - Anima",
+      "source": "bilibili",
+      "time": "2026-08-29T04:24:15+00:00",
+      "url": "https://www.bilibili.com/video/av117176875027170",
+      "engagement": 222,
+      "is_hot": false,
+      "author": "花葉月",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/acaf363dd2f0f38c1c3afe63f82e7376ca3f4223.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "因为我刚好遇见你",
       "summary": "视频素材来源@忘却前夜Morimens",
       "source": "bilibili",
@@ -36,6 +70,40 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/ca8b3a800ff8aff4ce2fcce3e7f2c36639dd1025.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】艾神来了……",
+      "summary": "造物有点好",
+      "source": "bilibili",
+      "time": "2026-08-29T05:01:43+00:00",
+      "url": "https://www.bilibili.com/video/av117177025894313",
+      "engagement": 108,
+      "is_hot": false,
+      "author": "朝星-",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/0f91069e9d23726ac0b6a4f71a6b11ecdeb3cca9.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "不可以吃小蛋糕哦，这样会长满蛀牙的",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-29T00:44:01+00:00",
+      "url": "https://www.bilibili.com/video/av117176019193924",
+      "engagement": 16,
+      "is_hot": false,
+      "author": "小汐小希",
+      "tags": [
+        "动画综合"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/b5b69c951b1f245940c87418d8bf939408f669cb.jpg",
       "content_type": "video"
     }
   ]

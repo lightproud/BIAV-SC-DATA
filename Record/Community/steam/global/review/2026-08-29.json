@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
-  "archived_at": "2026-08-28T23:52:34.268879+00:00",
+  "archived_at": "2026-08-29T05:34:56.625229+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[正面] hidden gem",
@@ -23,6 +23,29 @@
         "playtime_forever": 821,
         "votes_up": 0,
         "timestamp_created": 1787943608
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Странные изображения",
+      "summary": "Странные изображения",
+      "source": "steam_review",
+      "time": "2026-08-29T00:17:49+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198400301583/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198400301583",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 169,
+        "votes_up": 0,
+        "timestamp_created": 1787962669
       },
       "region": "global",
       "archive_subtype": "review"

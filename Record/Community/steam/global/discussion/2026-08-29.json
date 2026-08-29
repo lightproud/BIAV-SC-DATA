@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
-  "archived_at": "2026-08-28T23:52:34.179724+00:00",
+  "archived_at": "2026-08-29T05:34:56.571668+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Steam论坛] Invitation Code",
@@ -30,6 +30,23 @@
       "engagement": 1,
       "is_hot": false,
       "author": "Vsolqt",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] 求帮助",
+      "summary": "为什么战斗界面的手牌总是有一部分显示不全？进入全屏也没用，和窗口缩放无关。",
+      "source": "steam_discussion",
+      "time": "2026-08-29T04:05:37+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591814056255424628/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "850838035",
       "tags": [
         "steam_forum"
       ],
