@@ -1,41 +1,148 @@
 {
   "date": "2026-08-29",
-  "messages": 1358,
-  "unique_authors": 85,
-  "reactions_total": 189,
-  "attachments": 75,
+  "messages": 8048,
+  "unique_authors": 339,
+  "reactions_total": 875,
+  "attachments": 463,
   "channel_activity": {
-    "🔸綜合討論": 12,
-    "🔸morimens-game-chat": 788,
+    "🔸綜合討論": 293,
+    "🔸阵容构建": 3,
+    "🔸morimens-game-chat": 3516,
+    "🔸课间休息闲聊": 634,
+    "🔸交友频道": 1,
+    "🔸한국어-채팅방": 6,
+    "🔸chaîne-française": 7,
+    "🔸русский-канал": 46,
+    "🔸phòng-chat-tiếng-việt": 192,
+    "🔸canal-español": 377,
+    "🔸canal-português": 23,
+    "🔸ruang-obrolan-indonesia": 104,
+    "🔸ห้องสนทนาภาษาไทย": 6,
+    "🔸traphase": 18,
+    "🔸lore-chat": 124,
+    "🔸lets-count": 5,
+    "🔸team-building": 793,
+    "🔸general-chat": 179,
+    "🔸邀请码互助┊swap-invitation-codes": 3,
+    "🔸game-question": 1549,
+    "🔸机器人命令┊bot-commands": 29,
+    "放点摸鱼": 5,
+    "堆图ing": 5,
+    "?": 1,
+    "Honeyed Deceit WoD bug": 1,
+    "忘却篇主线第七章bug": 2,
+    "Properly distinguish the \"Strike\" designation into accurate terms": 1,
+    "Remove \"Team Unique\" from Wheels of Destiny text": 6,
+    "Corposant and Last Verse \"Bugfix\"": 15,
+    "Better handling of nerfs through bug fixes": 6,
+    "Decrease the requirement for embryo generation in Propagation: Caro": 1,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 2,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 4,
+    "Rework the design of Scintilla": 2,
+    "Please add the number of Retry Battle / Time Reversal used to the Mission Clear Screen": 1,
+    "Kill stealing, we could fix it": 7,
+    "希望对新列车进行平衡调整 Request for a train event balance patch": 1,
+    "Divine Realms, Aliemus Costs and other Future Worries": 1,
+    "Quadra / 4-Realm Rerun Banners": 5,
+    "Please rework how Propagation Caro works for the future units": 9,
+    "V2.5.1.0 停服维护公告": 7,
+    "Undying Piety ❤️‍🔥": 1,
+    "Caraboo (again)!": 5,
+    "\"In the midst of this filth-ridden world, she alone glows with beauty\" 💚": 1,
+    "liz liz liz liz.....": 13,
+    "William posting": 6,
+    "uvhash...": 3,
+    "Detailed Damage Formula Graphic": 3,
+    "刚回归": 2,
+    "新人求助，后续游玩培养方向": 17,
+    "融災組隊": 5,
     "🔸日本語チャンネル": 1,
-    "🔸한국어-채팅방": 2,
-    "🔸русский-канал": 11,
-    "🔸phòng-chat-tiếng-việt": 4,
-    "🔸canal-español": 244,
-    "🔸canal-português": 16,
-    "🔸ruang-obrolan-indonesia": 56,
-    "🔸lore-chat": 13,
-    "🔸lets-count": 2,
-    "🔸频道建议┊server-suggestions": 1,
-    "🔸team-building": 122,
-    "🔸general-chat": 10,
-    "🔸邀请码互助┊swap-invitation-codes": 1,
-    "🔸game-question": 70,
-    "🔸机器人命令┊bot-commands": 2,
-    "Corposant and Last Verse \"Bugfix\"": 1,
-    "Rework the design of Scintilla": 1,
-    "William posting": 1
+    "🔸频道建议┊server-suggestions": 1
   },
   "hourly_activity": {
-    "0": 937,
-    "1": 421
+    "2": 732,
+    "3": 777,
+    "4": 628,
+    "5": 1180,
+    "6": 1302,
+    "7": 830,
+    "8": 486,
+    "9": 415,
+    "1": 761,
+    "0": 937
   },
   "message_types": {
-    "19": 509,
-    "0": 848,
-    "20": 1
+    "0": 5313,
+    "19": 2697,
+    "20": 36,
+    "46": 1,
+    "4": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1543166315072589894",
+      "channel_id": "1131839817982947429",
+      "content": "大、大佬們好（緊張）\n我...是剛入坑這遊戲的新手...\n最近幾天才剛玩...阿嗚...！（咬到舌頭）\n嗚嗚...有沒有（委屈）大佬...可以帶帶我...",
+      "author": "water_heart",
+      "reactions": 14,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1543172477344157717",
+      "channel_id": "1131839817982947429",
+      "content": "大、大佬們好（緊張）<:Murphy_embarrassed:1356085635374383145> \n我...是剛入坑這遊戲的新手...<:Aurita_p",
+      "author": "luckyinitial",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1543170622727921675",
+      "channel_id": "1131839817982947429",
+      "content": "大、大佬們好（緊張）<:Murphy_embarrassed:1356085635374383145> \n我...是剛入坑這遊戲的新手...<:Aurita_p",
+      "author": "ling_an_",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1543145288682835998",
+      "channel_id": "1400749543288475770",
+      "content": "behold: the third row of tentacles!",
+      "author": "ishner",
+      "reactions": 8,
+      "channel": "🔸team-building"
+    },
+    {
+      "id": "1543121964070215781",
+      "channel_id": "1131839817982947429",
+      "content": "给你看看",
+      "author": "kemomimi_",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1543077222712082453",
+      "channel_id": "1170692781216378960",
+      "content": "I’m now missing only 9 characters after 40 days of playing, maybe that’s a sign ",
+      "author": "loirel",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543177783205691392",
+      "channel_id": "1131839817982947429",
+      "content": "大、大佬們好（緊張）<:Murphy_embarrassed:1356085635374383145> \n我...是剛入坑這遊戲的新手...<:Aurita_p",
+      "author": "cwz.io",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1543152651930304624",
+      "channel_id": "1543152651930304624",
+      "content": "",
+      "author": "floriography",
+      "reactions": 6,
+      "channel": "Caraboo (again)!"
+    },
     {
       "id": "1543060575087632404",
       "channel_id": "1170692781216378960",
@@ -43,6 +150,22 @@
       "author": "princess.goth",
       "reactions": 6,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543178545398943825",
+      "channel_id": "1131839817982947429",
+      "content": "大、大佬們好（緊張）<:Murphy_embarrassed:1356085635374383145> \n我...是剛入坑這遊戲的新手...<:Aurita_p",
+      "author": "navirecorbeau",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1543183445503778917",
+      "channel_id": "1131839817982947429",
+      "content": "話說我從118變119了",
+      "author": "akkom730",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
     },
     {
       "id": "1543061351927382016",
@@ -53,147 +176,67 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1543050073770819605",
-      "channel_id": "1170692781216378960",
-      "content": "I bought it",
-      "author": "brainrot_in_a_vat",
+      "id": "1543116672360120352",
+      "channel_id": "1131839817982947429",
+      "content": "~~我是覺得以你貓的敏感度而言我們是相信他沒做完啦~~",
+      "author": "yusi4172",
       "reactions": 4,
-      "channel": "🔸morimens-game-chat"
+      "channel": "🔸綜合討論"
     },
     {
-      "id": "1543054004567806072",
-      "channel_id": "1170692781216378960",
-      "content": "Its worth picking up one copy of Heart of Silver as well",
-      "author": "cornonthemacabre_",
+      "id": "1543188118113484861",
+      "channel_id": "1131839817982947429",
+      "content": "夏茉琳教的方法真的刷比较快了",
+      "author": "ka_0414",
       "reactions": 4,
-      "channel": "🔸morimens-game-chat"
+      "channel": "🔸綜合討論"
     },
     {
-      "id": "1543057153558839326",
-      "channel_id": "1170692781216378960",
-      "content": "\"Fixed an issue where Corposant players were spending money on Horla wheel\"",
-      "author": "cornonthemacabre_",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543057227047378946",
-      "channel_id": "1170692781216378960",
-      "content": "“Fixed an issue where Corposant players”",
-      "author": "frosthief",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543059085350412400",
-      "channel_id": "1170692781216378960",
-      "content": "Yay",
-      "author": "james0064",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543066024985755650",
-      "channel_id": "1170692781216378960",
-      "content": "no",
-      "author": "princess.goth",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543066117772415046",
-      "channel_id": "1170692781216378960",
-      "content": "she kills you",
-      "author": "princess.goth",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543060937374957639",
-      "channel_id": "1445556242381672559",
-      "content": "William with a ponytail because i have a thing for ponytails  <:Karen_guilty:146",
-      "author": "zzio_",
-      "reactions": 4,
-      "channel": "William posting"
-    },
-    {
-      "id": "1543054632786337844",
-      "channel_id": "1170692781216378960",
-      "content": "i spent my 1k sediment on pearls",
-      "author": "princess.goth",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543054648242339893",
+      "id": "1543074312070758500",
       "channel_id": "1170692781216378960",
       "content": "",
-      "author": "zarles0",
-      "reactions": 3,
+      "author": "mythicmoonwort",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1543056751119704074",
+      "id": "1543074428899041292",
       "channel_id": "1170692781216378960",
-      "content": "Nymph is one of 5 wheels I never cared to max out so…..",
-      "author": "frosthief",
-      "reactions": 3,
+      "content": "Mooooo or whatever sound whales make",
+      "author": "shanhaijingactivist",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1543060175861063834",
+      "id": "1543101373309263983",
       "channel_id": "1170692781216378960",
-      "content": "i beat IS D7 today",
-      "author": "princess.goth",
-      "reactions": 3,
+      "content": "She doesn't get the +20% numbers on pilots from horla wheel anymore",
+      "author": "bru0001",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1543060793191563264",
+      "id": "1543125043733602304",
       "channel_id": "1170692781216378960",
-      "content": "where does biav development time go?\n- new story content and design? ❌\n- another",
-      "author": "zier.0",
-      "reactions": 3,
+      "content": "if youre not a meta slave, simply follow your heart~ <:Casiah_wink:1356053053568",
+      "author": "glitzy_x",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1543062034248241175",
+      "id": "1543131160551489557",
       "channel_id": "1170692781216378960",
-      "content": "It's okay, we'll get awakener changes. \n\nMouchette skills dont count as strikes ",
-      "author": "angbak",
-      "reactions": 3,
+      "content": "that 1 poison will really make a change",
+      "author": "technaid",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1543066169706151958",
+      "id": "1543137258092101672",
       "channel_id": "1170692781216378960",
-      "content": "Can confirm",
-      "author": "serahh__",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543063974961221703",
-      "channel_id": "1542954773261721731",
-      "content": "太棒了 校貓平等傷害所有人",
-      "author": "yi000607",
-      "reactions": 3,
-      "channel": "Corposant and Last Verse \"Bugfix\""
-    },
-    {
-      "id": "1543050578463035512",
-      "channel_id": "1170692781216378960",
-      "content": "Yay lmao",
-      "author": "james0064",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543051983982698558",
-      "channel_id": "1170692781216378960",
-      "content": "especially with AA corpo supporting it :)",
-      "author": "princess.goth",
-      "reactions": 2,
+      "content": "yo fuck this UNNERF AFFINITY GAIN PLEASE???",
+      "author": "glitzy_x",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     }
   ]
