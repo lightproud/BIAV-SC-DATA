@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
-  "archived_at": "2026-08-29T05:34:56.625229+00:00",
+  "archived_at": "2026-08-29T12:16:49.397356+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 6,
   "items": [
     {
       "title": "[正面] hidden gem",
@@ -46,6 +46,98 @@
         "playtime_forever": 169,
         "votes_up": 0,
         "timestamp_created": 1787962669
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 1",
+      "summary": "1",
+      "source": "steam_review",
+      "time": "2026-08-29T08:14:43+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198784741197/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198784741197",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 513,
+        "votes_up": 0,
+        "timestamp_created": 1787991283
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 这个游戏福利是其他二游的十万倍",
+      "summary": "这个游戏福利是其他二游的十万倍",
+      "source": "steam_review",
+      "time": "2026-08-29T06:28:11+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199789532075/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199789532075",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 835,
+        "votes_up": 0,
+        "timestamp_created": 1787984891
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 美工赢了，时摆组很美味，福利可以，玩法不错\n但是！资源不够用，卡关很难受，而且你游的卡池爆率很古怪啊...",
+      "summary": "美工赢了，时摆组很美味，福利可以，玩法不错\n但是！资源不够用，卡关很难受，而且你游的卡池爆率很古怪啊喂（",
+      "source": "steam_review",
+      "time": "2026-08-29T06:20:02+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198685971219/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198685971219",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1134,
+        "votes_up": 0,
+        "timestamp_created": 1787984402
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面]",
+      "summary": "",
+      "source": "steam_review",
+      "time": "2026-08-29T05:33:55+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198024099118/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198024099118",
+      "tags": [
+        "french"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 718,
+        "votes_up": 0,
+        "timestamp_created": 1787981635
       },
       "region": "global",
       "archive_subtype": "review"

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
-  "archived_at": "2026-08-29T05:34:56.568915+00:00",
+  "archived_at": "2026-08-29T12:16:49.317068+00:00",
   "source": "bilibili",
-  "item_count": 6,
+  "item_count": 15,
   "items": [
     {
       "title": "🎧 忘却前夜丨V2.6.0 广播剧《风雪夜》",
@@ -19,6 +19,40 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/0ad8f1e7864aa61491cc29773fb357f823366419.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】应该是目前强度最高的卡拉布配队，可供参考",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-29T12:04:02+00:00",
+      "url": "https://www.bilibili.com/video/av117178669992866",
+      "engagement": 555,
+      "is_hot": false,
+      "author": "金发女人丨型",
+      "tags": [
+        "单机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/257491b14385b32715f1b85eb25542bc7c9f0e61.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】零氪新手怎么玩？开服零氪咸鱼老登和你漫谈",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-29T07:31:13+00:00",
+      "url": "https://www.bilibili.com/video/av117177545917863",
+      "engagement": 445,
+      "is_hot": false,
+      "author": "奕懿丶艾兮",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/550d802dfd56a388317c57ae4f0530fe19da47bd.jpg",
       "content_type": "video"
     },
     {
@@ -39,6 +73,23 @@
       "content_type": "video"
     },
     {
+      "title": "［相位］难道栗子是对的？",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-29T07:47:55+00:00",
+      "url": "https://www.bilibili.com/video/av117177680202867",
+      "engagement": 284,
+      "is_hot": false,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/dfedb512f313b1d3a1afed15123b500e6b03dfd6.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "【忘却前夜】盘点于丽埃特那些体现女性力量的绝美时刻",
       "summary": "内容纯属虚构，无恶意诋毁，不良引导，视频中所用语言皆为虚构和节目效果，无任何针对和低俗作用，请仔细了解淋的含义再决定是否观看\n对号入座前请仔细阅读文案\nBGM：葉月ゆら - Anima",
       "source": "bilibili",
@@ -53,6 +104,40 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/acaf363dd2f0f38c1c3afe63f82e7376ca3f4223.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】不是很懂怎么玩，大招伤害是怎么计算的？",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-29T05:02:09+00:00",
+      "url": "https://www.bilibili.com/video/av117177009046874",
+      "engagement": 203,
+      "is_hot": false,
+      "author": "闭月梦",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/5c413c764ef5dff0bcadea586599f41271ef581d.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "起舞吧，像时钟一样！",
+      "summary": "起舞吧，像时钟一样！\n背景meme素材来自：BV1td4y1d7B3",
+      "source": "bilibili",
+      "time": "2026-08-29T11:30:00+00:00",
+      "url": "https://www.bilibili.com/video/av117176639954317",
+      "engagement": 146,
+      "is_hot": false,
+      "author": "百合子堂堂登场",
+      "tags": [
+        "动画综合"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/67136acdf88aa93a7697301588051a18f58a9848.jpg",
       "content_type": "video"
     },
     {
@@ -87,6 +172,74 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/0f91069e9d23726ac0b6a4f71a6b11ecdeb3cca9.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】最后一次融灾-菲旺掌箍全体难五",
+      "summary": "最后一次融灾400",
+      "source": "bilibili",
+      "time": "2026-08-29T07:09:40+00:00",
+      "url": "https://www.bilibili.com/video/av117177478808301",
+      "engagement": 105,
+      "is_hot": false,
+      "author": "刀锋之誓",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/dfc7bbbfd725190816f6000bfaff38813fdfce89.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜：万血区区打列车，因为太拖磨，最后呗打入异世界",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-29T10:03:21+00:00",
+      "url": "https://www.bilibili.com/video/av117178200296287",
+      "engagement": 92,
+      "is_hot": false,
+      "author": "抱着狗狗不敢说话",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/e6c23a20009824e21602266d09d6a623c2fdfb7f.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "死神灭却师之王友哈巴赫被(忘却前夜)混沌之神凯蒂拉古吊打 ，凯蒂拉古  : 什么全知全能修改未来所有？我就是所有的未来化身！",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-29T08:35:12+00:00",
+      "url": "https://www.bilibili.com/video/av117177864887973",
+      "engagement": 47,
+      "is_hot": false,
+      "author": "五罗云熙",
+      "tags": [
+        "动画综合"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/3203ee45b34ab661ca5ad1ad6e6f276d234cc830.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】卡拉布毒队三启试玩",
+      "summary": "我对卡拉布一直都好评的）\n极高的生存和用起来很舒服的各种礼物在水温提高后应该能更好得发挥出作用",
+      "source": "bilibili",
+      "time": "2026-08-29T11:43:16+00:00",
+      "url": "https://www.bilibili.com/video/av117178602950930",
+      "engagement": 27,
+      "is_hot": false,
+      "author": "跳段木偶舞",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/dc2ebcf2099a2467df5c6b6765f03939890806fc.jpg",
       "content_type": "video"
     },
     {

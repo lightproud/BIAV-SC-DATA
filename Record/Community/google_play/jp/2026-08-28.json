@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-28",
+  "archived_at": "2026-08-29T12:16:49.487258+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 シナリオが読みづらい",
+      "summary": "シナリオが読みづらい",
+      "source": "google_play",
+      "time": "2026-08-28T09:26:48",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-c8f8a7c2-a23a-4fb5-b23b-5f96de103ee6",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "山下利光",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "",
+      "region": "jp"
+    },
+    {
+      "title": "[Google Play 中评] ★3 第一部のラストがとても良かった 全体的にクトゥルフ成分含むファンタジーという印象",
+      "summary": "第一部のラストがとても良かった 全体的にクトゥルフ成分含むファンタジーという印象だが 個人的にコズミックホラー要素の不足を感じる 融蝕は鬱要素だがホラーではないように感じる",
+      "source": "google_play",
+      "time": "2026-08-28T07:37:58",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-61f87a3e-a2be-43c2-bbe6-9779da3b10e9",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "KrnK forssell",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "",
+      "region": "jp"
+    }
+  ],
+  "region": "jp"
+}

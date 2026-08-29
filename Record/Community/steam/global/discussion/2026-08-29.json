@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
-  "archived_at": "2026-08-29T05:34:56.571668+00:00",
+  "archived_at": "2026-08-29T12:16:49.318372+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 5,
   "items": [
     {
       "title": "[Steam论坛] Invitation Code",
@@ -47,6 +47,40 @@
       "engagement": 0,
       "is_hot": false,
       "author": "850838035",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] 邮箱绑定为什么一直失败w",
+      "summary": "如题，绑定的时候一直说环境不安全要换WiFi，已经试过热点和wifi了，梯子加速器啥的也试过了，电脑管家都关了，都绑不上",
+      "source": "steam_discussion",
+      "time": "2026-08-29T11:36:19+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591814056255453635/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Yakui小伙当量巨大",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] 邀请码 我的",
+      "summary": "7W1CKS2O8H",
+      "source": "steam_discussion",
+      "time": "2026-08-29T08:41:13+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591814056255441627/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "lixiaolong99",
       "tags": [
         "steam_forum"
       ],
