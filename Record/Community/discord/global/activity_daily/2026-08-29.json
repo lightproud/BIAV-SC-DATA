@@ -1,0 +1,200 @@
+{
+  "date": "2026-08-29",
+  "messages": 1358,
+  "unique_authors": 85,
+  "reactions_total": 189,
+  "attachments": 75,
+  "channel_activity": {
+    "🔸綜合討論": 12,
+    "🔸morimens-game-chat": 788,
+    "🔸日本語チャンネル": 1,
+    "🔸한국어-채팅방": 2,
+    "🔸русский-канал": 11,
+    "🔸phòng-chat-tiếng-việt": 4,
+    "🔸canal-español": 244,
+    "🔸canal-português": 16,
+    "🔸ruang-obrolan-indonesia": 56,
+    "🔸lore-chat": 13,
+    "🔸lets-count": 2,
+    "🔸频道建议┊server-suggestions": 1,
+    "🔸team-building": 122,
+    "🔸general-chat": 10,
+    "🔸邀请码互助┊swap-invitation-codes": 1,
+    "🔸game-question": 70,
+    "🔸机器人命令┊bot-commands": 2,
+    "Corposant and Last Verse \"Bugfix\"": 1,
+    "Rework the design of Scintilla": 1,
+    "William posting": 1
+  },
+  "hourly_activity": {
+    "0": 937,
+    "1": 421
+  },
+  "message_types": {
+    "19": 509,
+    "0": 848,
+    "20": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1543060575087632404",
+      "channel_id": "1170692781216378960",
+      "content": "they ran out of claude tokens for the boss mechanics",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543061351927382016",
+      "channel_id": "1170692781216378960",
+      "content": "One day, traphase paralysis will be ported over to morimens bosses",
+      "author": "angbak",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543050073770819605",
+      "channel_id": "1170692781216378960",
+      "content": "I bought it",
+      "author": "brainrot_in_a_vat",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543054004567806072",
+      "channel_id": "1170692781216378960",
+      "content": "Its worth picking up one copy of Heart of Silver as well",
+      "author": "cornonthemacabre_",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543057153558839326",
+      "channel_id": "1170692781216378960",
+      "content": "\"Fixed an issue where Corposant players were spending money on Horla wheel\"",
+      "author": "cornonthemacabre_",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543057227047378946",
+      "channel_id": "1170692781216378960",
+      "content": "“Fixed an issue where Corposant players”",
+      "author": "frosthief",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543059085350412400",
+      "channel_id": "1170692781216378960",
+      "content": "Yay",
+      "author": "james0064",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543066024985755650",
+      "channel_id": "1170692781216378960",
+      "content": "no",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543066117772415046",
+      "channel_id": "1170692781216378960",
+      "content": "she kills you",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543060937374957639",
+      "channel_id": "1445556242381672559",
+      "content": "William with a ponytail because i have a thing for ponytails  <:Karen_guilty:146",
+      "author": "zzio_",
+      "reactions": 4,
+      "channel": "William posting"
+    },
+    {
+      "id": "1543054632786337844",
+      "channel_id": "1170692781216378960",
+      "content": "i spent my 1k sediment on pearls",
+      "author": "princess.goth",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543054648242339893",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "zarles0",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543056751119704074",
+      "channel_id": "1170692781216378960",
+      "content": "Nymph is one of 5 wheels I never cared to max out so…..",
+      "author": "frosthief",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543060175861063834",
+      "channel_id": "1170692781216378960",
+      "content": "i beat IS D7 today",
+      "author": "princess.goth",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543060793191563264",
+      "channel_id": "1170692781216378960",
+      "content": "where does biav development time go?\n- new story content and design? ❌\n- another",
+      "author": "zier.0",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543062034248241175",
+      "channel_id": "1170692781216378960",
+      "content": "It's okay, we'll get awakener changes. \n\nMouchette skills dont count as strikes ",
+      "author": "angbak",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543066169706151958",
+      "channel_id": "1170692781216378960",
+      "content": "Can confirm",
+      "author": "serahh__",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543063974961221703",
+      "channel_id": "1542954773261721731",
+      "content": "太棒了 校貓平等傷害所有人",
+      "author": "yi000607",
+      "reactions": 3,
+      "channel": "Corposant and Last Verse \"Bugfix\""
+    },
+    {
+      "id": "1543050578463035512",
+      "channel_id": "1170692781216378960",
+      "content": "Yay lmao",
+      "author": "james0064",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543051983982698558",
+      "channel_id": "1170692781216378960",
+      "content": "especially with AA corpo supporting it :)",
+      "author": "princess.goth",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
