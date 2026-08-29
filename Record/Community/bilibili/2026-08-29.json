@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
-  "archived_at": "2026-08-29T18:11:10.169960+00:00",
+  "archived_at": "2026-08-29T23:00:14.393828+00:00",
   "source": "bilibili",
-  "item_count": 18,
+  "item_count": 20,
   "items": [
     {
       "title": "🎧 忘却前夜丨V2.6.0 广播剧《风雪夜》",
@@ -175,6 +175,23 @@
       "content_type": "video"
     },
     {
+      "title": "虐杀n5！金人队卡徐菲旺轻松肘飞融灾",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-29T14:48:37+00:00",
+      "url": "https://www.bilibili.com/video/av117179324370164",
+      "engagement": 123,
+      "is_hot": false,
+      "author": "夜雨-月明",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/cb43d5122f9e1bafaeaf6bbfc7e2a2476675068f.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "因为我刚好遇见你",
       "summary": "视频素材来源@忘却前夜Morimens",
       "source": "bilibili",
@@ -240,6 +257,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/dfc7bbbfd725190816f6000bfaff38813fdfce89.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "你只有一管血是吧",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-29T04:05:35+00:00",
+      "url": "https://www.bilibili.com/video/av117176791080288",
+      "engagement": 102,
+      "is_hot": false,
+      "author": "akira-nisika",
+      "tags": [
+        "单机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/1d12b8f374a3f0c264eb8e37b16c807ff8052c74.jpg",
       "content_type": "video"
     },
     {

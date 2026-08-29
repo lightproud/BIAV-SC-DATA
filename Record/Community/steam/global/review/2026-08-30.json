@@ -1,8 +1,8 @@
 {
   "date": "2026-08-30",
-  "archived_at": "2026-08-29T18:11:10.233267+00:00",
+  "archived_at": "2026-08-29T23:00:14.485604+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[正面] 好玩 这个游戏在小号上打了60h  这个号上的主号太非了  总时长80h打完全部主线  画风和剧情都...",
@@ -23,6 +23,29 @@
         "playtime_forever": 1220,
         "votes_up": 0,
         "timestamp_created": 1788022887
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] such an amazing game, the story is everything ive...",
+      "summary": "such an amazing game, the story is everything ive ever wanted from a gacha game",
+      "source": "steam_review",
+      "time": "2026-08-29T19:38:26+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198449733050/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198449733050",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 946,
+        "votes_up": 0,
+        "timestamp_created": 1788032306
       },
       "region": "global",
       "archive_subtype": "review"

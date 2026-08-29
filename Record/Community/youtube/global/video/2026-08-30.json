@@ -1,9 +1,26 @@
 {
   "date": "2026-08-30",
-  "archived_at": "2026-08-29T18:11:10.212649+00:00",
+  "archived_at": "2026-08-29T23:00:14.396729+00:00",
   "source": "youtube",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
+    {
+      "title": "[Morimens] Affinity Farming Guide 2026. How to &quot;quickly&quot; hit 20 Affinity featuring CN whale strat",
+      "summary": "https://buymeacoffee.com/flares https://discord.gg/tpMMe5W7CT - Personal Flares Discord ...",
+      "source": "youtube",
+      "time": "2026-08-29T22:29:08Z",
+      "url": "https://www.youtube.com/watch?v=iV1vPItSRn8",
+      "engagement": 82,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/iV1vPItSRn8/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
     {
       "title": "【忘卻前夜 Morimens】Interesting Poison Team With Caraboo ?",
       "summary": "I mean how often do u see a team where faros is actually a real carry Great survivability and we can use the multi hit on caraboo to ...",
@@ -17,6 +34,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/dPsUb5XxZPI/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] 2.6.0 New Dtide",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-29T20:13:34Z",
+      "url": "https://www.youtube.com/watch?v=kk-JKA4cY9E",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "kizunoV",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/kk-JKA4cY9E/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
