@@ -1,18 +1,36 @@
 {
   "date": "2026-08-30",
-  "messages": 3,
-  "unique_authors": 2,
-  "reactions_total": 0,
+  "messages": 13,
+  "unique_authors": 3,
+  "reactions_total": 2,
   "attachments": 0,
   "channel_activity": {
-    "general-discussion": 3
+    "general-discussion": 13
   },
   "hourly_activity": {
-    "20": 1,
-    "21": 2
+    "21": 10,
+    "22": 2,
+    "20": 1
   },
   "message_types": {
-    "0": 3
+    "0": 13
   },
-  "top_reacted_messages": []
+  "top_reacted_messages": [
+    {
+      "id": "1543729282046500935",
+      "channel_id": "1402941858606219294",
+      "content": "SO many interactions in this game that literally can't be distinguished between ",
+      "author": "arkaether",
+      "reactions": 1,
+      "channel": "general-discussion"
+    },
+    {
+      "id": "1543745904622837830",
+      "channel_id": "1402941858606219294",
+      "content": "roll the die? like Ryker? Ryker mentioned?",
+      "author": ".dredge.",
+      "reactions": 1,
+      "channel": "general-discussion"
+    }
+  ]
 }
