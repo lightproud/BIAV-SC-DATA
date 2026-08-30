@@ -1,27 +1,28 @@
 {
   "date": "2026-08-29",
-  "messages": 24263,
+  "messages": 25251,
   "unique_authors": 339,
-  "reactions_total": 2367,
-  "attachments": 1099,
+  "reactions_total": 2511,
+  "attachments": 1133,
   "channel_activity": {
+    "🔸morimens-game-chat": 10346,
+    "🔸русский-канал": 3923,
+    "🔸canal-español": 484,
+    "🔸canal-português": 167,
+    "🔸ruang-obrolan-indonesia": 409,
+    "🔸lore-chat": 235,
+    "🔸team-building": 1419,
+    "🔸general-chat": 804,
+    "🔸game-question": 3205,
+    "🔸机器人命令┊bot-commands": 72,
+    "Corposant and Last Verse \"Bugfix\"": 634,
+    "New Player, advise on pulling and teams": 4,
     "🔸綜合討論": 990,
-    "🔸morimens-game-chat": 9819,
     "🔸课间休息闲聊": 641,
     "🔸chaîne-française": 62,
-    "🔸русский-канал": 3715,
-    "🔸canal-español": 465,
-    "🔸canal-português": 163,
-    "🔸ruang-obrolan-indonesia": 390,
     "🔸ห้องสนทนาภาษาไทย": 45,
     "🔸traphase": 43,
-    "🔸lore-chat": 229,
-    "🔸team-building": 1329,
-    "🔸general-chat": 799,
     "🔸邀请码互助┊swap-invitation-codes": 13,
-    "🔸game-question": 3109,
-    "🔸机器人命令┊bot-commands": 67,
-    "Corposant and Last Verse \"Bugfix\"": 626,
     "✅「Recorded」Abrupt FPS drops across the board on PC client.": 3,
     "Please rework how Propagation Caro works for the future units": 94,
     "V2.6.0.2 在线维护公告": 11,
@@ -57,7 +58,6 @@
     "新手求助，無課的話，目前抽的這陣容後期的培養方向？": 9,
     "刚回归": 4,
     "新人求助，后续游玩培养方向": 34,
-    "New Player, advise on pulling and teams": 3,
     "🔸交友频道": 1,
     "🔸lets-count": 5,
     "放点摸鱼": 5,
@@ -82,10 +82,10 @@
     "Detailed Damage Formula Graphic": 3
   },
   "hourly_activity": {
+    "23": 1111,
     "20": 1004,
     "22": 1288,
     "21": 1022,
-    "23": 123,
     "16": 1283,
     "17": 1110,
     "18": 1189,
@@ -108,9 +108,9 @@
     "0": 937
   },
   "message_types": {
-    "0": 16614,
-    "19": 7572,
-    "20": 74,
+    "0": 17256,
+    "19": 7915,
+    "20": 77,
     "4": 2,
     "46": 1
   },
@@ -132,12 +132,28 @@
       "channel": "Corposant and Last Verse \"Bugfix\""
     },
     {
+      "id": "1543406462640980019",
+      "channel_id": "1542954773261721731",
+      "content": "self-promoting my own comment because it's gotten lost in the drama, but I docum",
+      "author": "arkaether",
+      "reactions": 19,
+      "channel": "Corposant and Last Verse \"Bugfix\""
+    },
+    {
       "id": "1543309028900343891",
       "channel_id": "1170692781216378960",
       "content": "Anyone knows a good aliemus battery?",
       "author": "cute.sandwich",
       "reactions": 17,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543397698529403032",
+      "channel_id": "1542954773261721731",
+      "content": "Sir I just woke up and it's 7am",
+      "author": "angbak",
+      "reactions": 15,
+      "channel": "Corposant and Last Verse \"Bugfix\""
     },
     {
       "id": "1543260558827196446",
@@ -154,6 +170,14 @@
       "author": "water_heart",
       "reactions": 14,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1543405490913021972",
+      "channel_id": "1542954773261721731",
+      "content": "<@193043069275209728> comment removed",
+      "author": "angbak",
+      "reactions": 9,
+      "channel": "Corposant and Last Verse \"Bugfix\""
     },
     {
       "id": "1543388630989414521",
@@ -186,6 +210,14 @@
       "author": "luckyinitial",
       "reactions": 9,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1543406097992261745",
+      "channel_id": "1542954773261721731",
+      "content": "Honestly you could undo the horla wheel bugfix AND buff pilot shielding by 20%\na",
+      "author": "nirski",
+      "reactions": 8,
+      "channel": "Corposant and Last Verse \"Bugfix\""
     },
     {
       "id": "1543365721965334648",
@@ -240,38 +272,6 @@
       "channel_id": "1170692781216378960",
       "content": "Innovate",
       "author": "corvim",
-      "reactions": 7,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543382148625600523",
-      "channel_id": "1542954773261721731",
-      "content": "Honestly, I will just tell them that putting a patch up at the end of the work w",
-      "author": "vxvendetta97",
-      "reactions": 7,
-      "channel": "Corposant and Last Verse \"Bugfix\""
-    },
-    {
-      "id": "1543388998666424321",
-      "channel_id": "1542954773261721731",
-      "content": "Ellie opened that thread for communicating with the Devs, not with children",
-      "author": "topazlh",
-      "reactions": 7,
-      "channel": "Corposant and Last Verse \"Bugfix\""
-    },
-    {
-      "id": "1543249056476831745",
-      "channel_id": "1131839817982947429",
-      "content": "還差一場...",
-      "author": "heikwok",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1543289717091598376",
-      "channel_id": "1170692781216378960",
-      "content": "oh well thank you for the WoD too 😭 🙏",
-      "author": "cyerce_002",
       "reactions": 7,
       "channel": "🔸morimens-game-chat"
     }
