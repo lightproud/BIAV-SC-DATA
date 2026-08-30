@@ -1,51 +1,83 @@
 {
   "date": "2026-08-30",
-  "messages": 3243,
-  "unique_authors": 202,
-  "reactions_total": 266,
-  "attachments": 211,
+  "messages": 10707,
+  "unique_authors": 300,
+  "reactions_total": 1355,
+  "attachments": 604,
   "channel_activity": {
-    "🔸綜合討論": 69,
-    "🔸morimens-game-chat": 1593,
+    "🔸綜合討論": 862,
+    "🔸阵容构建": 107,
+    "🔸morimens-game-chat": 5649,
+    "🔸剧情交流": 1,
+    "🔸相位对弈": 1,
+    "🔸课间休息闲聊": 200,
+    "🔸日本語チャンネル": 5,
+    "🔸한국어-채팅방": 18,
+    "🔸chaîne-française": 4,
+    "🔸русский-канал": 101,
+    "🔸phòng-chat-tiếng-việt": 52,
+    "🔸canal-español": 316,
+    "🔸canal-português": 327,
+    "🔸ruang-obrolan-indonesia": 421,
+    "🔸ห้องสนทนาภาษาไทย": 438,
+    "🔸traphase": 12,
+    "🔸lore-chat": 68,
+    "🔸lets-count": 5,
+    "🔸频道建议┊server-suggestions": 3,
+    "🔸team-building": 414,
+    "🔸general-chat": 238,
+    "🔸邀请码互助┊swap-invitation-codes": 10,
+    "🔸game-question": 1289,
+    "🔸游戏问题": 7,
+    "🔸机器人命令┊bot-commands": 45,
+    "某些常駐角色的+12推薦及心得": 26,
+    "攻略碎碎念 -- 論如何跨lv打boss#V2.5攻略征集# #MorimensGameGuide": 1,
+    "卡拉布超限爆發效果與描述不符": 1,
+    "卡拉布解鎖啟靈2後技能界面並未顯示打擊防禦的特殊效果": 1,
+    "Corposant and Last Verse \"Bugfix\"": 15,
+    "Better handling of nerfs through bug fixes": 8,
+    "Possible discussion of codebase overhaul?": 2,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 6,
+    "Doresain's rouse: fixed damage killing enemies on exalt does not trigger death": 1,
+    "Kill stealing, we could fix it": 1,
+    "Relax the condition for Pontos' gaunts generation": 3,
+    "Quadra / 4-Realm Rerun Banners": 1,
+    "V2.6.0.2 在线维护公告": 4,
+    "V2.5.1.0 停服维护公告": 8,
+    "WIP castor&pollux": 2,
+    "liz liz liz liz.....": 7,
+    "morimens sybau 💔": 16,
+    "【新人帮助】论坛介绍": 2,
+    "【Newcomer Help】Forum Introduction": 1,
     "🔸晒卡分享": 1,
-    "🔸课间休息闲聊": 3,
-    "🔸한국어-채팅방": 1,
-    "🔸русский-канал": 19,
-    "🔸phòng-chat-tiếng-việt": 6,
-    "🔸canal-español": 116,
-    "🔸canal-português": 324,
-    "🔸ruang-obrolan-indonesia": 166,
-    "🔸ห้องสนทนาภาษาไทย": 23,
-    "🔸lore-chat": 42,
-    "🔸lets-count": 1,
-    "🔸team-building": 309,
-    "🔸general-chat": 44,
-    "🔸邀请码互助┊swap-invitation-codes": 3,
-    "🔸game-question": 488,
-    "🔸机器人命令┊bot-commands": 15,
-    "Corposant and Last Verse \"Bugfix\"": 7,
-    "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
     "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 2,
     "V2.6.X 投票 Polls": 1,
     "Please rework how Propagation Caro works for the future units": 1,
-    "V2.5.1.0 停服维护公告": 1,
     "DRAWING ALISTAIR UNTIL HE BECOMES PLAYABLE🙏🙏🙏": 1,
-    "liz liz liz liz.....": 4,
     "The Arc 1 GDoll Incident Compilation": 1,
     "🔥10000银芯奖励！V2.6 UGC创作征集开启！": 1
   },
   "hourly_activity": {
+    "4": 1027,
+    "5": 1245,
+    "6": 1008,
+    "7": 1037,
+    "8": 964,
+    "9": 1061,
+    "10": 974,
+    "11": 469,
     "0": 846,
     "1": 930,
     "2": 467,
-    "3": 679,
-    "4": 321
+    "3": 679
   },
   "message_types": {
-    "19": 1086,
-    "0": 2148,
-    "20": 8,
-    "46": 1
+    "0": 6769,
+    "19": 3898,
+    "46": 2,
+    "20": 35,
+    "23": 2,
+    "4": 1
   },
   "top_reacted_messages": [
     {
@@ -57,12 +89,92 @@
       "channel": "Corposant and Last Verse \"Bugfix\""
     },
     {
+      "id": "1543521768130748456",
+      "channel_id": "1170692781216378960",
+      "content": "oushi",
+      "author": "tnimreppep",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543478243980615751",
+      "channel_id": "1170692781216378960",
+      "content": "yeah usually, i do have 1 adult tooth tho",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543478808022097930",
+      "channel_id": "1170692781216378960",
+      "content": "But I will be banned",
+      "author": "crowlov1",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543489563157209151",
+      "channel_id": "1542909753708249200",
+      "content": "don’t worry only filthy Faded Legacy Awakeners are like that\nClassy Astral Reign",
+      "author": "_venush",
+      "reactions": 7,
+      "channel": "Better handling of nerfs through bug fixes"
+    },
+    {
       "id": "1543423684713259139",
       "channel_id": "1170692781216378960",
       "content": "Thais GOATed\nLocal woman too horny to be erased from existence",
       "author": "zicma",
       "reactions": 7,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543540884757544960",
+      "channel_id": "1131839817982947429",
+      "content": "哈喽哈喽我是高岭，玩忘却看高岭，超多粉丝宝宝真实反映，看完融灾分数掉了很多💅",
+      "author": "ponponnyaru",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1543477643901669432",
+      "channel_id": "1170692781216378960",
+      "content": "Ehhh teeth aren't organs it's okay",
+      "author": "zenji_shiro",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543483780289929357",
+      "channel_id": "1170692781216378960",
+      "content": "And just like that, game chat has become general chat...",
+      "author": "zenji_shiro",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543485843254153357",
+      "channel_id": "1170692781216378960",
+      "content": "Once u stop eating babies then we'll talk",
+      "author": "chaimiko",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543553476645101670",
+      "channel_id": "1170692781216378960",
+      "content": "its been done",
+      "author": "dread_empress_meera",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543543175652839534",
+      "channel_id": "1542909753708249200",
+      "content": "Just invest in the obvious favorites and you have nothing to worry about <:Casto",
+      "author": "cornonthemacabre_",
+      "reactions": 6,
+      "channel": "Better handling of nerfs through bug fixes"
     },
     {
       "id": "1543429244473053287",
@@ -89,124 +201,44 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1543426752976781342",
+      "id": "1543500738485944372",
       "channel_id": "1131839817982947429",
-      "content": "犹豫再三又氪了个12800把这俩搞到+12了",
-      "author": "ponponnyaru",
+      "content": "我要用我自己畫的火柴人丟球抽象圖貼在報償上面",
+      "author": "water_heart",
       "reactions": 5,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1543416324934471680",
+      "id": "1543501973007892511",
+      "channel_id": "1131839817982947429",
+      "content": "我覺得我有必要去嘗試加強一下區寶寶\n又是經典的在效果描述上挑毛病\n你們這超限描述給的賜福沒寫有代價啊（",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1543509152788381747",
+      "channel_id": "1131839817982947429",
+      "content": "就粗一點",
+      "author": "heikwok",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1543557654616477766",
+      "channel_id": "1131839817982947429",
+      "content": "嘻嘻，不好意思打不过（",
+      "author": "xyakoto",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1543479734858420225",
       "channel_id": "1170692781216378960",
-      "content": "<:Brown_think:1459080117308620996>",
-      "author": "snorlax01",
-      "reactions": 4,
+      "content": "2 hours ago we are squabbling over nerfs.\n\nAnd now Ellie showing teeth collectio",
+      "author": "crowlov1",
+      "reactions": 5,
       "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543418759316902039",
-      "channel_id": "1170692781216378960",
-      "content": "Like...  spend money on the game or find a way to turn yourself into a sea creat",
-      "author": "syro_k",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543422952236785664",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "guava3442",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543426734215528518",
-      "channel_id": "1170692781216378960",
-      "content": "Preparation for madness",
-      "author": "angbak",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543427828815765514",
-      "channel_id": "1170692781216378960",
-      "content": "this is so depressing 😭",
-      "author": "ice3564",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543428814095392798",
-      "channel_id": "1170692781216378960",
-      "content": "4 stages of f2p\n\nFree 2 play\nFailed 2 pull\nForced 2 pay\nFun 2 pay",
-      "author": "dixi024",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543433631010258975",
-      "channel_id": "1170692781216378960",
-      "content": "Okay Mouchette wheel ready",
-      "author": "angbak",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543450294833389589",
-      "channel_id": "1170692781216378960",
-      "content": "YEEAY 300k",
-      "author": "craux.",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543462240915693648",
-      "channel_id": "1170692781216378960",
-      "content": "Is AA Horla good? I got her wheel +12, did I under-invest in her?",
-      "author": "climbkaly",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543463734511403078",
-      "channel_id": "1170692781216378960",
-      "content": "my account is cooked if not cause i got lost in that sub stat rerolling",
-      "author": "rosee_bell",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543463951944253471",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "azalea_h",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543471495471300660",
-      "channel_id": "1170692781216378960",
-      "content": "Gdoll cutting 30% max hp off of nef is very cool<:Saya_yum:1513124263291387975>",
-      "author": "aurora3981",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543426614694645840",
-      "channel_id": "1326453763355185215",
-      "content": "o-oh her fight gimmick could be a pain in the ass in dtide...",
-      "author": "nikolazuli",
-      "reactions": 3,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1543434043591368774",
-      "channel_id": "1400749543288475770",
-      "content": "Brain no work good sorry",
-      "author": "elcuellinx",
-      "reactions": 3,
-      "channel": "🔸team-building"
     }
   ]
 }
