@@ -1,8 +1,8 @@
 {
   "date": "2026-08-31",
-  "archived_at": "2026-08-30T20:32:36.146904+00:00",
+  "archived_at": "2026-08-30T23:09:39.213975+00:00",
   "source": "reddit",
-  "item_count": 7,
+  "item_count": 9,
   "items": [
     {
       "title": "Tried to make a visual Covenant equpiment guide",
@@ -91,6 +91,32 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/Zelos1002",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Jackpot!",
+      "summary": "&#32; submitted by &#32;  /u/yoo-hyo-ri   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-30T21:08:11+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1w2thw5/jackpot/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/yoo-hyo-ri",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "How do you get higher Dzone score?",
+      "summary": "I know part of this is a skill issue, cus for example i couldn&#39;t get an extra clear on W3 with a poison team. But other than that do I need to level my characters, get more wheels, improve covenant? Which is the most important thing rn  &#32; submitted by &#32;  /u/Separate-Discount472   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-08-30T21:59:27+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1w2uqtr/how_do_you_get_higher_dzone_score/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Separate-Discount472",
       "tags": [],
       "lang": "en",
       "platform_region": ""

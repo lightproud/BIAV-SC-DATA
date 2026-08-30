@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-31",
+  "archived_at": "2026-08-30T23:09:39.193641+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam论坛] Buying Aetheric Stone at 2.5 mill a pop, good value or scam?",
+      "summary": "We can now get Aetheric Stones from Mythag Shop for 2.5 million Rose Scrips. Do y9ou think they are good value?\nAfter playing the game for 1 year (low spender) I have around 32 millions, unsure if I should get them, but they are throttling my ability to upgrade Awakeners and their cards....",
+      "source": "steam_discussion",
+      "time": "2026-08-30T22:45:58+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/592939340207951897/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Fanta",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}

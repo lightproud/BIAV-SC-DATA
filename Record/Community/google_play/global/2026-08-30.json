@@ -1,8 +1,8 @@
 {
   "date": "2026-08-30",
-  "archived_at": "2026-08-30T20:32:36.231481+00:00",
+  "archived_at": "2026-08-30T23:09:39.291093+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 差评] ★2 nerfing corpo was just unnecessary that'",
@@ -15,6 +15,34 @@
       "author": "ShXlohrj",
       "tags": [],
       "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Great, Very simple, good story",
+      "summary": "Great, Very simple, good story",
+      "source": "google_play",
+      "time": "2026-08-29T21:45:35",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-29e79d0f-7cf0-40eb-b803-47ba3b385572",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Aru",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 un juego excepcional. es lo que puedo de",
+      "summary": "un juego excepcional. es lo que puedo decir",
+      "source": "google_play",
+      "time": "2026-08-29T22:08:56",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-c7c2de82-00a8-4f85-bd59-49fd0b7d1df0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Skay Amgs",
+      "tags": [],
+      "lang": "es",
       "platform_region": "",
       "region": "global"
     }

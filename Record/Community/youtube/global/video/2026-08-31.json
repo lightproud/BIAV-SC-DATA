@@ -1,8 +1,8 @@
 {
   "date": "2026-08-31",
-  "archived_at": "2026-08-30T20:32:36.223684+00:00",
+  "archived_at": "2026-08-30T23:09:39.282967+00:00",
   "source": "youtube",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "Morimens Chapter 1-13",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/Ax0Xz-UDaDA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Reproduction Frenzy: Pollux",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-08-30T21:09:59Z",
+      "url": "https://www.youtube.com/watch?v=M5t0qkR4Pj0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ularkanojo (flos)",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/M5t0qkR4Pj0/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
