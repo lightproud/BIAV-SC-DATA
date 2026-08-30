@@ -1,8 +1,8 @@
 {
   "date": "2026-08-30",
-  "archived_at": "2026-08-29T23:00:14.485604+00:00",
+  "archived_at": "2026-08-30T03:33:24.232905+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] 好玩 这个游戏在小号上打了60h  这个号上的主号太非了  总时长80h打完全部主线  画风和剧情都...",
@@ -46,6 +46,29 @@
         "playtime_forever": 946,
         "votes_up": 0,
         "timestamp_created": 1788032306
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] I liked the game. It's a chill game you can play w...",
+      "summary": "I liked the game. It's a chill game you can play while working on something else.",
+      "source": "steam_review",
+      "time": "2026-08-29T22:35:59+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199677311370/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199677311370",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 143,
+        "votes_up": 0,
+        "timestamp_created": 1788042959
       },
       "region": "global",
       "archive_subtype": "review"

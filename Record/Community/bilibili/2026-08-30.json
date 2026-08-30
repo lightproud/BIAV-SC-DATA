@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-30",
+  "archived_at": "2026-08-30T03:33:24.146813+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Pollux",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-30T00:35:30+00:00",
+      "url": "https://www.bilibili.com/video/av117181639560387",
+      "engagement": 18,
+      "is_hot": false,
+      "author": "7klixey",
+      "tags": [
+        "同人·手书"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/56b7a272019a8d1544cf1d31c9ada60b9428f034.jpg",
+      "content_type": "video"
+    }
+  ]
+}

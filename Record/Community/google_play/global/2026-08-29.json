@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
-  "archived_at": "2026-08-29T23:00:14.558035+00:00",
+  "archived_at": "2026-08-30T03:33:24.306610+00:00",
   "source": "google_play",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[Google Play 好评] ★5 Where do I begin, this is a great game f",
@@ -57,6 +57,20 @@
       "author": "Roberto Orecchioni",
       "tags": [],
       "lang": "it",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 geometry dash best of players",
+      "summary": "geometry dash best of players",
+      "source": "google_play",
+      "time": "2026-08-29T03:05:45",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-9dc41aff-9e70-4213-9eb3-1d5431d4c801",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Kainer KANTO",
+      "tags": [],
+      "lang": "en",
       "platform_region": "",
       "region": "global"
     }
