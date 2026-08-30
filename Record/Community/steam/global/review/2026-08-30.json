@@ -1,8 +1,8 @@
 {
   "date": "2026-08-30",
-  "archived_at": "2026-08-30T11:14:21.862903+00:00",
+  "archived_at": "2026-08-30T16:01:21.092711+00:00",
   "source": "steam",
-  "item_count": 8,
+  "item_count": 11,
   "items": [
     {
       "title": "[正面] 好玩 这个游戏在小号上打了60h  这个号上的主号太非了  总时长80h打完全部主线  画风和剧情都...",
@@ -184,6 +184,75 @@
         "playtime_forever": 93,
         "votes_up": 0,
         "timestamp_created": 1788065480
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 很有趣的打牌游戏，类肉鸽的设计锦上添花，但是走格子式的地图探索缺乏足够自由度使之大打折扣，以及，为什...",
+      "summary": "很有趣的打牌游戏，类肉鸽的设计锦上添花，但是走格子式的地图探索缺乏足够自由度使之大打折扣，以及，为什么是抽卡游戏啊",
+      "source": "steam_review",
+      "time": "2026-08-30T12:06:22+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199587098274/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199587098274",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1515,
+        "votes_up": 0,
+        "timestamp_created": 1788091582
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] .",
+      "summary": ".",
+      "source": "steam_review",
+      "time": "2026-08-30T10:28:23+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198130115018/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198130115018",
+      "tags": [
+        "french"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 17184,
+        "votes_up": 0,
+        "timestamp_created": 1788085703
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] haowan",
+      "summary": "haowan",
+      "source": "steam_review",
+      "time": "2026-08-30T10:08:14+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199738201349/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199738201349",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2066,
+        "votes_up": 0,
+        "timestamp_created": 1788084494
       },
       "region": "global",
       "archive_subtype": "review"

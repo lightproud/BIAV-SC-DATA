@@ -1,8 +1,8 @@
 {
   "date": "2026-08-30",
-  "archived_at": "2026-08-30T11:14:21.806729+00:00",
+  "archived_at": "2026-08-30T16:01:21.036147+00:00",
   "source": "bilibili",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "阿拉克涅会不会太轮椅了一点≡ω≡",
@@ -36,6 +36,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/317636c8456e157abeb804b572ef48a6ac753a67.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】三口气看完(2)下期预告:被数值碾压了,炸了一命看广告复活了(!_!)",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-29T17:35:28+00:00",
+      "url": "https://www.bilibili.com/video/av117179945127401",
+      "engagement": 131,
+      "is_hot": false,
+      "author": "闭月梦",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/f937f971ec0f3a1200912133566f503d8a8b5bde.jpg",
       "content_type": "video"
     },
     {
