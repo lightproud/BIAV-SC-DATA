@@ -1,8 +1,8 @@
 {
   "date": "2026-08-30",
-  "archived_at": "2026-08-30T16:01:21.092711+00:00",
+  "archived_at": "2026-08-30T20:32:36.113442+00:00",
   "source": "steam",
-  "item_count": 11,
+  "item_count": 12,
   "items": [
     {
       "title": "[正面] 好玩 这个游戏在小号上打了60h  这个号上的主号太非了  总时长80h打完全部主线  画风和剧情都...",
@@ -253,6 +253,29 @@
         "playtime_forever": 2066,
         "votes_up": 0,
         "timestamp_created": 1788084494
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] muy bueno es todos sus aspecto (principalmente su...",
+      "summary": "muy bueno es todos sus aspecto (principalmente su historia), hasta en un capitulo le podes dar un cierto cierre a la historia si no quieres seguir jugando, ya q considero después de tal punto es puro pósame que no es necesario jugarlo",
+      "source": "steam_review",
+      "time": "2026-08-30T15:47:44+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198996095224/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198996095224",
+      "tags": [
+        "spanish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 20862,
+        "votes_up": 0,
+        "timestamp_created": 1788104864
       },
       "region": "global",
       "archive_subtype": "review"

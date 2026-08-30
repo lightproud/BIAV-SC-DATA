@@ -1,8 +1,8 @@
 {
   "date": "2026-08-30",
-  "archived_at": "2026-08-30T16:01:21.036147+00:00",
+  "archived_at": "2026-08-30T20:32:36.063926+00:00",
   "source": "bilibili",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "阿拉克涅会不会太轮椅了一点≡ω≡",
@@ -19,6 +19,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/f232fa8ba049decda9edbed76c4b6007968ee361.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】 解放双手同调率速刷宏命令",
+      "summary": "UP水平低下请见谅\n元极助手官网：https://yuanjizhushou.com/\n宏命令分享：https://pan.quark.cn/s/1bf5812a47f4",
+      "source": "bilibili",
+      "time": "2026-08-30T13:10:22+00:00",
+      "url": "https://www.bilibili.com/video/av117184592349933",
+      "engagement": 286,
+      "is_hot": false,
+      "author": "冥苏_",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/3eee8ecab6656b41a3ddff0fc058c1e1523c0426.jpg",
       "content_type": "video"
     },
     {

@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-31",
+  "archived_at": "2026-08-30T20:32:36.153190+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[正面] Saya Morimens got her feet out",
+      "summary": "Saya Morimens got her feet out",
+      "source": "steam_review",
+      "time": "2026-08-30T18:44:50+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198021932400/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198021932400",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 9758,
+        "votes_up": 0,
+        "timestamp_created": 1788115490
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] [i]This review has been automatically flagged for...",
+      "summary": "[i]This review has been automatically flagged for containing potentially harmful content and the review text has been hidden as a result.[/i]",
+      "source": "steam_review",
+      "time": "2026-08-30T18:16:40+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199401261922/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199401261922",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 21137,
+        "votes_up": 0,
+        "timestamp_created": 1788113800
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
