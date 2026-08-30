@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
-  "archived_at": "2026-08-30T03:33:24.306610+00:00",
+  "archived_at": "2026-08-30T11:14:21.965147+00:00",
   "source": "google_play",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "[Google Play 好评] ★5 Where do I begin, this is a great game f",
@@ -71,6 +71,20 @@
       "author": "Kainer KANTO",
       "tags": [],
       "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 I want this game to be rich and big as i",
+      "summary": "I want this game to be rich and big as it deserves",
+      "source": "google_play",
+      "time": "2026-08-29T08:37:19",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-06c64ede-4da3-467b-a43c-ae0996bdd927",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Umm",
+      "tags": [],
+      "lang": "ru",
       "platform_region": "",
       "region": "global"
     }

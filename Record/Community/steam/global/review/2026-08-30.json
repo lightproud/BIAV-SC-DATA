@@ -1,8 +1,8 @@
 {
   "date": "2026-08-30",
-  "archived_at": "2026-08-30T03:33:24.232905+00:00",
+  "archived_at": "2026-08-30T11:14:21.862903+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 8,
   "items": [
     {
       "title": "[正面] 好玩 这个游戏在小号上打了60h  这个号上的主号太非了  总时长80h打完全部主线  画风和剧情都...",
@@ -69,6 +69,121 @@
         "playtime_forever": 143,
         "votes_up": 0,
         "timestamp_created": 1788042959
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] абсолютно не понимаю ебанавтов, которые ставят игр...",
+      "summary": "абсолютно не понимаю ебанавтов, которые ставят игре дизы за не очень хороший перевод, невозможность зайти и за \"не люблю карточки и аниме\", радуйтесь, что ИНДИ студия, инди, ♥♥♥♥♥, студия, сделала хотя бы какой-то перевод для русского и других языков и продолжает его улучшать, то что вы не можете войти в игру - это проблема не создателей, а вашего ♥♥♥♥♥♥♥ интернета и отруба сервов клаудфлаера, играю с прошлого года и проблем с заходом НЕТ, как и со скачиванием обновы. Про последнее вообще не понимаю, ну правда, это даже не в рофл пишется, ♥♥♥♥♥ ты скачиваешь игру с аниме стилистикой, гачей и карточками, а потом жалуешься на аниме стилистику, гачу и карточки???? Игра ебейшая, артстайл ебейший, боёвка классная, да и сюжет, если использовать больше 1 извилины мозга, можно прекрасно понять и с кривым переводом.",
+      "source": "steam_review",
+      "time": "2026-08-30T09:06:51+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199103863847/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199103863847",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 22434,
+        "votes_up": 0,
+        "timestamp_created": 1788080811
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] me parece un juego divertido, espero que se haga m...",
+      "summary": "me parece un juego divertido, espero que se haga más conocido, aunque es poco probable de este lado del charco, en fin, me gusto el juego, y quiero seguir jugándolo",
+      "source": "steam_review",
+      "time": "2026-08-30T07:43:11+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199851024503/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199851024503",
+      "tags": [
+        "spanish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 6889,
+        "votes_up": 0,
+        "timestamp_created": 1788075791
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 可以的可以的，纯是被画风吸引来玩的",
+      "summary": "可以的可以的，纯是被画风吸引来玩的",
+      "source": "steam_review",
+      "time": "2026-08-30T06:30:06+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199386997033/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199386997033",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 7008,
+        "votes_up": 0,
+        "timestamp_created": 1788071406
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] come to the game by randomly founding it on steam...",
+      "summary": "come to the game by randomly founding it on steam store\r\ngameplay wise very good, very f2p\r\ncharacter desgin is truly a hit (in love with tawil first sight)",
+      "source": "steam_review",
+      "time": "2026-08-30T05:46:53+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199879163775/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199879163775",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2059,
+        "votes_up": 0,
+        "timestamp_created": 1788068813
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 遊戲是好遊戲，但只要玩一會兒，就能清晰而明確地預見到此後的氪金之路。\n前期免費體驗的越久，後期氪金的...",
+      "summary": "遊戲是好遊戲，但只要玩一會兒，就能清晰而明確地預見到此後的氪金之路。\n前期免費體驗的越久，後期氪金的壓力就越大。\n寧可你做個200RMB的買斷，也比用Steam上架一個氪金手游要好。",
+      "source": "steam_review",
+      "time": "2026-08-30T04:51:20+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198043085805/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198043085805",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 93,
+        "votes_up": 0,
+        "timestamp_created": 1788065480
       },
       "region": "global",
       "archive_subtype": "review"

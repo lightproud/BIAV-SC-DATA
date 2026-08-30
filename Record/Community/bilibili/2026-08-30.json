@@ -1,9 +1,60 @@
 {
   "date": "2026-08-30",
-  "archived_at": "2026-08-30T03:33:24.146813+00:00",
+  "archived_at": "2026-08-30T11:14:21.806729+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 4,
   "items": [
+    {
+      "title": "阿拉克涅会不会太轮椅了一点≡ω≡",
+      "summary": "感觉手法可以再优化一下，可以先出蜘蛛的三费卡再出一费卡可以得到三张命运裁断，不过无伤大雅了，不需要赶轮次。",
+      "source": "bilibili",
+      "time": "2026-08-30T07:35:59+00:00",
+      "url": "https://www.bilibili.com/video/av117183300570430",
+      "engagement": 337,
+      "is_hot": false,
+      "author": "忆秋蝶君",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/f232fa8ba049decda9edbed76c4b6007968ee361.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "你的意思是我抽25个角色等于升两级？？？",
+      "summary": "这集不是串的，我是真觉得这设计很幽默",
+      "source": "bilibili",
+      "time": "2026-08-30T10:12:50+00:00",
+      "url": "https://www.bilibili.com/video/av117183921259797",
+      "engagement": 182,
+      "is_hot": false,
+      "author": "全忘却最尊重圣婴之人",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/317636c8456e157abeb804b572ef48a6ac753a67.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】三个视频打完第2章,共两个半小时,蹲坑食用(1) 省略了一些剧情,把时长缩到了两个半小时,剧情大致有连接起来,虽然不是很清晰",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-29T17:24:46+00:00",
+      "url": "https://www.bilibili.com/video/av117179911506999",
+      "engagement": 112,
+      "is_hot": false,
+      "author": "闭月梦",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/dd7bcdc8647f0b7efaa3f15c7f4b37cf2b2d913e.jpg",
+      "content_type": "video"
+    },
     {
       "title": "Pollux",
       "summary": "",

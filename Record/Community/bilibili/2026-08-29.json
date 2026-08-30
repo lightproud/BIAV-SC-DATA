@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
-  "archived_at": "2026-08-30T03:33:24.141406+00:00",
+  "archived_at": "2026-08-30T11:14:21.804677+00:00",
   "source": "bilibili",
-  "item_count": 20,
+  "item_count": 22,
   "items": [
     {
       "title": "🎧 忘却前夜丨V2.6.0 广播剧《风雪夜》",
@@ -104,6 +104,40 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/dfedb512f313b1d3a1afed15123b500e6b03dfd6.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "神秘写诗女1vs4，看完绷不住了",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-29T15:19:34+00:00",
+      "url": "https://www.bilibili.com/video/av117179458526492",
+      "engagement": 256,
+      "is_hot": false,
+      "author": "-风岬",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/26430e67d3e163fddab380a4cd9a3441afcb3a6f.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】打怪,过剧情的在后面视频的第2个视频",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-29T12:49:04+00:00",
+      "url": "https://www.bilibili.com/video/av117178837765394",
+      "engagement": 244,
+      "is_hot": false,
+      "author": "闭月梦",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/53706789cce8336822605a3bd69fbd9cdc4da888.jpg",
       "content_type": "video"
     },
     {
