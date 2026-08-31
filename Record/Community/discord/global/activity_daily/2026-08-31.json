@@ -1,56 +1,103 @@
 {
   "date": "2026-08-31",
-  "messages": 6696,
-  "unique_authors": 320,
-  "reactions_total": 1339,
-  "attachments": 523,
+  "messages": 18104,
+  "unique_authors": 491,
+  "reactions_total": 2895,
+  "attachments": 1217,
   "channel_activity": {
-    "🔸綜合討論": 658,
-    "🔸morimens-game-chat": 3773,
+    "🔸綜合討論": 1605,
+    "🔸阵容构建": 9,
+    "🔸morimens-game-chat": 8114,
+    "🔸剧情交流": 5,
+    "🔸欢乐梗图": 5,
+    "🔸课间休息闲聊": 48,
+    "🔸日本語チャンネル": 9,
+    "🔸한국어-채팅방": 670,
+    "🔸deutscher-chatraum": 49,
+    "🔸chaîne-française": 178,
+    "🔸русский-канал": 738,
+    "🔸phòng-chat-tiếng-việt": 564,
+    "🔸canal-español": 277,
+    "🔸canal-português": 210,
+    "🔸ruang-obrolan-indonesia": 622,
+    "🔸ห้องสนทนาภาษาไทย": 191,
+    "🔸traphase": 26,
+    "🔸lore-chat": 160,
+    "🔸lets-count": 2,
+    "🔸team-building": 517,
+    "🔸general-chat": 175,
+    "🔸邀请码互助┊swap-invitation-codes": 6,
+    "🔸game-question": 1911,
+    "🔸游戏问题": 1,
+    "🔸机器人命令┊bot-commands": 41,
+    "摸魚 放點塗鴉✍️": 1,
+    "堆图ing": 1,
+    "Slay the Spire Morimens Modding Log 殺戮尖塔模組": 8,
+    "菜雞四小強玩家的抱怨之旅new": 2,
+    "Poison and Counter stacks......救救毒反队吧。": 10,
+    "how did this even make it past the idea stage?? possibly destroyed the game in 1 update": 3,
+    "📢 「官方问答」频道使用说明┊Official Q&A Channel - Guide": 1,
+    "Jenkin the little rat": 32,
+    "Logged in Mobile using Gplay but should've been Qookka acc": 3,
+    "Reset feature remaining after selecting \"enlightenment reset\"": 5,
+    "D-tide feedback": 1691,
+    "卡拉布超限爆發效果與描述不符": 1,
+    "卡拉布解鎖啟靈2後技能界面並未顯示打擊防禦的特殊效果": 1,
+    "?": 2,
+    "忘却篇主线第七章bug": 3,
+    "Properly distinguish the \"Strike\" designation into accurate terms": 2,
+    "Remove \"Team Unique\" from Wheels of Destiny text": 4,
+    "Crashes during traphase": 2,
+    "Corposant and Last Verse \"Bugfix\"": 7,
+    "Better handling of nerfs through bug fixes": 7,
+    "Abrupt FPS drops across the board on PC client.": 2,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 2,
+    "Dead enemy still existing and black screen": 1,
+    "Doresain's rouse: fixed damage killing enemies on exalt does not trigger death": 1,
+    "Increase the points gain by extra clears in new dzone to 10": 13,
+    "繁育沒有提高卡茜亞的超限爆發的固定力量": 1,
+    "希望对新列车进行平衡调整 Request for a train event balance patch": 3,
+    "Please rework how Propagation Caro works for the future units": 44,
+    "阿格里帕最終法則相關": 1,
+    "V2.6.0.3 在线维护公告": 32,
+    "V2.6.0.2 在线维护公告": 10,
+    "V2.5.1.0 停服维护公告": 8,
+    "Preview: V2.6.X Adjustments Based on Community Feedback 2": 1,
+    "MORE AURITA!!! MORE MORE MORE!!!": 3,
+    "What is a la peace?": 1,
+    "liz liz liz liz.....": 24,
+    "Mira (Keeper OC) art thread": 2,
+    "I NEED GDOLL CONTENT😭😭😭😭": 4,
+    "Morimens New Player Handbook by Cheri [V2.5 UGC Contest]": 2,
+    "🔥10000银芯奖励！V2.6 UGC创作征集开启！": 2,
+    "剛開遊戲想問問題": 21,
     "🔸晒卡分享": 1,
-    "🔸课间休息闲聊": 5,
-    "🔸한국어-채팅방": 23,
-    "🔸русский-канал": 174,
-    "🔸phòng-chat-tiếng-việt": 269,
-    "🔸canal-español": 240,
-    "🔸canal-português": 203,
-    "🔸ruang-obrolan-indonesia": 122,
-    "🔸ห้องสนทนาภาษาไทย": 140,
-    "🔸traphase": 1,
-    "🔸lore-chat": 34,
-    "🔸lets-count": 1,
-    "🔸team-building": 40,
-    "🔸general-chat": 49,
-    "🔸邀请码互助┊swap-invitation-codes": 3,
-    "🔸game-question": 393,
-    "🔸机器人命令┊bot-commands": 15,
     "無課新手投資推薦": 1,
-    "Logged in Mobile using Gplay but should've been Qookka acc": 1,
-    "Reset feature remaining after selecting \"enlightenment reset\"": 1,
     "Please let us pick which blessed relic to start with in train mode": 1,
-    "D-tide feedback": 498,
-    "Corposant and Last Verse \"Bugfix\"": 3,
-    "Better handling of nerfs through bug fixes": 5,
-    "Increase the points gain by extra clears in new dzone to 10": 9,
-    "Please rework how Propagation Caro works for the future units": 6,
     "💭「Processing」game client crashed...somewhat": 1,
-    "V2.6.0.2 在线维护公告": 9,
-    "V2.5.1.0 停服维护公告": 2,
-    "liz liz liz liz.....": 11,
-    "hamposting by yoru": 3,
-    "🔥10000银芯奖励！V2.6 UGC创作征集开启！": 1
+    "hamposting by yoru": 3
   },
   "hourly_activity": {
+    "4": 1496,
+    "5": 1557,
+    "6": 1506,
+    "7": 1497,
+    "8": 1007,
+    "9": 1238,
+    "10": 1469,
+    "11": 1224,
+    "12": 941,
+    "13": 59,
     "0": 737,
     "1": 1920,
     "2": 1987,
-    "3": 1466,
-    "4": 586
+    "3": 1466
   },
   "message_types": {
-    "19": 2393,
-    "0": 4292,
-    "20": 10,
+    "0": 12078,
+    "19": 5998,
+    "20": 26,
+    "46": 1,
     "4": 1
   },
   "top_reacted_messages": [
@@ -61,6 +108,22 @@
       "author": "corvim",
       "reactions": 31,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543844957859745862",
+      "channel_id": "1543844957859745862",
+      "content": "Hello there,\nI wanted to talk about the character Jenkin, and how she could pote",
+      "author": "fishhazardthewizard",
+      "reactions": 21,
+      "channel": "Jenkin the little rat"
+    },
+    {
+      "id": "1543922035590303804",
+      "channel_id": "1543922035590303804",
+      "content": "Poison/Counter max stack is around 200-400K, depending on your team's total heal",
+      "author": "xyakoto",
+      "reactions": 20,
+      "channel": "Poison and Counter stacks......救救毒反队吧。"
     },
     {
       "id": "1543816908745347172",
@@ -79,12 +142,84 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1543938676755664996",
+      "channel_id": "1543760297637187614",
+      "content": "if morimens could pass a month without shooting itself in the foot that would be",
+      "author": "bagels5899",
+      "reactions": 15,
+      "channel": "D-tide feedback"
+    },
+    {
+      "id": "1543943085283614760",
+      "channel_id": "1543760297637187614",
+      "content": "like, tbh, for a completely brand new player who has never tried DTide before...",
+      "author": "psychefu",
+      "reactions": 14,
+      "channel": "D-tide feedback"
+    },
+    {
       "id": "1543798100873715714",
       "channel_id": "1170692781216378960",
       "content": "if anyone needs a *completely reasonable and fair* chart",
       "author": "fjantsa",
       "reactions": 14,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543938712524558387",
+      "channel_id": "1170692781216378960",
+      "content": "Hello light im Israeli morimens veteran, hello from sunny Tel Aviv and I must sa",
+      "author": "dimas677_",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543950276728197180",
+      "channel_id": "1170692781216378960",
+      "content": "I would like d-zone to not be balanced around emergency gnosis as an excuse.",
+      "author": "skigloves",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543946467998433351",
+      "channel_id": "1543760297637187614",
+      "content": "the dtide update is a disaster on every level. there is absolutely nothing good ",
+      "author": "specterdo",
+      "reactions": 12,
+      "channel": "D-tide feedback"
+    },
+    {
+      "id": "1543952067041951764",
+      "channel_id": "1170692781216378960",
+      "content": "I'm femboy?",
+      "author": "bru0001",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543909787358597181",
+      "channel_id": "1543909787358597181",
+      "content": "EVERYTHING in this update was bad (except caraboo) like how did you possibly thi",
+      "author": "kullervo47.",
+      "reactions": 11,
+      "channel": "how did this even make it past the idea stage?? possibly destroyed the game in 1 update"
+    },
+    {
+      "id": "1543944846878965790",
+      "channel_id": "1543760297637187614",
+      "content": "You're a level 80 player with multiple oe characters, I don't think you can spea",
+      "author": "xiii_c",
+      "reactions": 11,
+      "channel": "D-tide feedback"
+    },
+    {
+      "id": "1543936698323574874",
+      "channel_id": "1543936698323574874",
+      "content": "守密人你好：\n       弥萨格大学校务处将于8月31日18:55(UTC+8) 进行校内设施修复，更新完成后您将得到通知，重新进入游戏。对于更新可能给大家带",
+      "author": "morimensstaff03",
+      "reactions": 11,
+      "channel": "V2.6.0.3 在线维护公告"
     },
     {
       "id": "1543805400581804215",
@@ -119,100 +254,12 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1543797927972180039",
-      "channel_id": "1170692781216378960",
-      "content": "THIS IS WAVE 1 MOB 1 TURN 3",
-      "author": "technaid",
+      "id": "1543902785760923668",
+      "channel_id": "1131839817982947429",
+      "content": "先把融灾端上来 明天主线你们就不会骂了",
+      "author": "galagalaguo",
       "reactions": 10,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543805540608647321",
-      "channel_id": "1170692781216378960",
-      "content": "labubupdate blugh",
-      "author": "mosske",
-      "reactions": 10,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543832647082442752",
-      "channel_id": "1170692781216378960",
-      "content": "3rd place I guess",
-      "author": "mengluo",
-      "reactions": 10,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543838414967803984",
-      "channel_id": "1170692781216378960",
-      "content": "i dont even play morimens i just play doresain",
-      "author": "glitzy_x",
-      "reactions": 10,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543796265970700338",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "angbak",
-      "reactions": 9,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543797522173001799",
-      "channel_id": "1170692781216378960",
-      "content": "bro 5 mil is probably the amount of damage ive done over my ENTIRE PLAY TIME OF ",
-      "author": "acornn1",
-      "reactions": 9,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543800140530196501",
-      "channel_id": "1170692781216378960",
-      "content": "I'm from Tel Aviv Israel and I love these dtide changes 🇮🇱❤️",
-      "author": "zartymo",
-      "reactions": 9,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543801305074634924",
-      "channel_id": "1170692781216378960",
-      "content": "guys guys this update was well thought out, now more people will play traphase!!",
-      "author": "flocke999",
-      "reactions": 9,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543809228857282647",
-      "channel_id": "1170692781216378960",
-      "content": "Flares crash out will be legendary I'm dming him the f slur pass he needs more s",
-      "author": "zartymo",
-      "reactions": 8,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543814589286981753",
-      "channel_id": "1170692781216378960",
-      "content": "idk im not doing more dtide",
-      "author": "princess.goth",
-      "reactions": 8,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543817298257649718",
-      "channel_id": "1170692781216378960",
-      "content": "unplayable doesnt begin to",
-      "author": "serahh__",
-      "reactions": 8,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1543817477895618731",
-      "channel_id": "1170692781216378960",
-      "content": "Guys can my E4 G.Lotan clear D-tide ?",
-      "author": "vox2277",
-      "reactions": 8,
-      "channel": "🔸morimens-game-chat"
+      "channel": "🔸綜合討論"
     }
   ]
 }
