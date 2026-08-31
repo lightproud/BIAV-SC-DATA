@@ -1,8 +1,8 @@
 {
   "date": "2026-08-30",
-  "archived_at": "2026-08-30T23:09:39.126656+00:00",
+  "archived_at": "2026-08-31T03:32:09.174896+00:00",
   "source": "bilibili",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "阿拉克涅会不会太轮椅了一点≡ω≡",
@@ -87,6 +87,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/dd7bcdc8647f0b7efaa3f15c7f4b37cf2b2d913e.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "K-0617的葬礼（自存）",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-30T11:24:11+00:00",
+      "url": "https://www.bilibili.com/video/av117184122591109",
+      "engagement": 102,
+      "is_hot": false,
+      "author": "小不列颠的厌战",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/693cd55804cb1b14d56c22b472d9d72efc23b856.jpg",
       "content_type": "video"
     },
     {

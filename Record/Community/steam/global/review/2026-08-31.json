@@ -1,8 +1,8 @@
 {
   "date": "2026-08-31",
-  "archived_at": "2026-08-30T23:09:39.220424+00:00",
+  "archived_at": "2026-08-31T03:32:09.267275+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] Saya Morimens got her feet out",
@@ -46,6 +46,52 @@
         "playtime_forever": 21137,
         "votes_up": 0,
         "timestamp_created": 1788113800
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] I have to leave a review after finishing the first...",
+      "summary": "I have to leave a review after finishing the first chapter, as wow the buildup and payoff are crazy good. My jaw was dropped at the end, as all the dots connected themselves at the same time at the climax. Holy crap. Not to mention, the gameplay also is very fun, yes it is inspired by Slay the Spire, but it's unique in a way that doesn't detract from the fun of this type of gameplay. As for the gacha, access to resources is fairly generous, though they don't spoil you that much for just getting the game, rather it is reasonably distributed as you progress. I am chuffed to bits, though my review may change as I progress, it's been a great experience, and I'm surprised it took me so long to hear of this gacha game.",
+      "source": "steam_review",
+      "time": "2026-08-31T01:43:33+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199125718695/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199125718695",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 521,
+        "votes_up": 0,
+        "timestamp_created": 1788140613
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] First impressions are great. Great soundtrack and...",
+      "summary": "First impressions are great. Great soundtrack and a decent card battler system.",
+      "source": "steam_review",
+      "time": "2026-08-30T22:08:16+00:00",
+      "url": "https://steamcommunity.com/profiles/76561197963962869/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561197963962869",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 136,
+        "votes_up": 0,
+        "timestamp_created": 1788127696
       },
       "region": "global",
       "archive_subtype": "review"
