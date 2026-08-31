@@ -1,8 +1,8 @@
 {
   "date": "2026-08-31",
-  "archived_at": "2026-08-31T12:40:09.798631+00:00",
+  "archived_at": "2026-08-31T20:39:44.847156+00:00",
   "source": "bilibili",
-  "item_count": 8,
+  "item_count": 12,
   "items": [
     {
       "title": "【忘却前夜】第一期癫狂容灾纪念(挑战525中)",
@@ -73,6 +73,57 @@
       "content_type": "video"
     },
     {
+      "title": "【忘却前夜】尤乌2-7",
+      "summary": "被克完了，精通盾和力量跟生命上限挂钩（请输入文本）\n扣死扛也是神秘的要死\n5-7血炼那个狂热机制看都不想看一眼，没狂热还能蒸一蒸\n有网瘾的建议来打一把n7\n能不能进门扣我100黑印直接给我尤乌专造，反正也要凹商店）",
+      "source": "bilibili",
+      "time": "2026-08-31T13:34:14+00:00",
+      "url": "https://www.bilibili.com/video/av117190363713673",
+      "engagement": 255,
+      "is_hot": false,
+      "author": "跳段木偶舞",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/2af9808febc783f1398d4c67ee6206c118e705bb.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】融灾禁区4-6诺",
+      "summary": "诺好像有杀4-7的伤害，我没有练度空间做的一坨也能打4-6（\n旺达10梦引减伤触手但是不加触手攻击次数，配合诺的大盾可以顶住墨菲爆发，主要是只有三段的落地战难过",
+      "source": "bilibili",
+      "time": "2026-08-31T15:00:41+00:00",
+      "url": "https://www.bilibili.com/video/av117190716035329",
+      "engagement": 240,
+      "is_hot": false,
+      "author": "朝星-",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/98e2e4a58a805357368e242a36b1a5422a701afd.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜奥尔拉史诗级削弱",
+      "summary": "局内没有异常，就文本显示错误",
+      "source": "bilibili",
+      "time": "2026-08-31T11:59:37+00:00",
+      "url": "https://www.bilibili.com/video/av117189994618680",
+      "engagement": 227,
+      "is_hot": false,
+      "author": "Munatic_",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/df60ff722f90645f33185fd745f0ebb117e459e6.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "[忘却前夜]第一期融灾475留档",
       "summary": "还是得拼好队，只能说幸亏没融栗子么。",
       "source": "bilibili",
@@ -104,6 +155,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/d057d0af139209114a32aea06adeab32925ca3c4.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】3启鸟弟无灵芝融灾2-6",
+      "summary": "鸟弟带神父石板或者24畸体回噬（蹲坑成长命轮，可以补充大量双爆），拉布布密契可以带36室之环，我因为借了三启低配就没带。\n道中一觉拉布布，二觉羊妈，靠羊妈大招复制拉布布三费卡塞礼物做任务。精英和王关可以二觉鸟弟补充输出。王关拉布布给的银钥可以轻松完成队伍四觉醒。",
+      "source": "bilibili",
+      "time": "2026-08-31T12:24:38+00:00",
+      "url": "https://www.bilibili.com/video/av117190095275843",
+      "engagement": 156,
+      "is_hot": false,
+      "author": "Potatis_土豆",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/a723b6f2b26be4b65057f271f98f644f8c39fbe7.jpg",
       "content_type": "video"
     },
     {

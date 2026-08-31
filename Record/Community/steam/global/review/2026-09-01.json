@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-01",
+  "archived_at": "2026-08-31T20:39:44.902633+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] For an f2p experience this is currently sitting wi...",
+      "summary": "For an f2p experience this is currently sitting within my top 3 gacha games. I've been using a story guide so I can know what to experience chronologically since the game doesn't really give the greatest order on that. The story is to my liking though. The gameplay is also very fun. I love that you can mix and match teams to your liking and create your very own abomination. This also probably one of the most generous gacha's I've played. The devs really do give out a plethora of rewards very very often. I'm very much enjoying my experience and I'll continue playing for the foreseeable future.",
+      "source": "steam_review",
+      "time": "2026-08-31T17:38:37+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198025677121/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198025677121",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 14165,
+        "votes_up": 0,
+        "timestamp_created": 1788197917
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

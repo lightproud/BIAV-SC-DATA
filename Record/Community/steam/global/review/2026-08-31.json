@@ -1,8 +1,8 @@
 {
   "date": "2026-08-31",
-  "archived_at": "2026-08-31T12:40:09.865528+00:00",
+  "archived_at": "2026-08-31T20:39:44.882266+00:00",
   "source": "steam",
-  "item_count": 12,
+  "item_count": 13,
   "items": [
     {
       "title": "[正面] Best gacha hands down, rivals Limbus pretty strong...",
@@ -276,6 +276,29 @@
         "playtime_forever": 590,
         "votes_up": 0,
         "timestamp_created": 1788155870
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Similar with slay the spire, with anime character...",
+      "summary": "Similar with slay the spire, with anime character and arts, decent story, and some gacha system. Worth trying.",
+      "source": "steam_review",
+      "time": "2026-08-31T13:07:47+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198202424086/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198202424086",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2821,
+        "votes_up": 0,
+        "timestamp_created": 1788181667
       },
       "region": "global",
       "archive_subtype": "review"

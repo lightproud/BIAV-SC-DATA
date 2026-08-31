@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-31",
+  "archived_at": "2026-08-31T20:39:44.958064+00:00",
+  "source": "google_play",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 로그라이크 카드게임",
+      "summary": "로그라이크 카드게임",
+      "source": "google_play",
+      "time": "2026-08-30T18:30:37",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-d4caa574-ce86-4c34-aa9c-9d8cc47de1af",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "[J in]",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 너무 복잡하달까요..",
+      "summary": "너무 복잡하달까요..",
+      "source": "google_play",
+      "time": "2026-08-30T17:30:38",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-35e76581-046e-4a80-8a98-58f5a9251fce",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Aya",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 la historia te atrapa es muy interesante",
+      "summary": "la historia te atrapa es muy interesante El único detalle que le pongo es a la jugabilidad, juego demasiado fácil y no siento reto alguno y se vuelve tedioso al jugar y aburrido",
+      "source": "google_play",
+      "time": "2026-08-30T20:29:59",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-8c852ed2-36e5-4bf7-ac00-c8000fb1b933",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Julio Cesar Chacon",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

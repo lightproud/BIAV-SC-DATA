@@ -1,8 +1,8 @@
 {
   "date": "2026-08-30",
-  "archived_at": "2026-08-31T12:40:09.859873+00:00",
+  "archived_at": "2026-08-31T20:39:44.883975+00:00",
   "source": "google_play",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
     {
       "title": "[Google Play 中评] ★3 계정 탈퇴하려는데 기기 모델명이랑 도시 지역까지 입력하라는 건 좀....",
@@ -69,6 +69,34 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Afandi Lot",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 Love the art and the game mechanic syste",
+      "summary": "Love the art and the game mechanic system, but the main issues I keep having is at beginning tutorial where I have to tap on glowing area to move and I couldn't tap on it no matter what. The game isn't glitching or lagging because I can tap icon on bottom right to see Draw File, it's just the glowing path part that doesn't work. Even after forcing close, it keep stuck at same spot",
+      "source": "google_play",
+      "time": "2026-08-30T12:57:37",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-fdf4ac43-27af-404d-b340-447721721f2d",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "チェシャー",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 tambahin ringkasan cerita setiap nyelesa",
+      "summary": "tambahin ringkasan cerita setiap nyelesain chapter dong min, kadang MLS nungguin cerita waktu misi di setiap chapter. dan dari poin itu gw cukup yakin bakal ada banyak player lain yang kebantu",
+      "source": "google_play",
+      "time": "2026-08-30T13:45:39",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-362be527-bf50-4e3c-a505-f831de9dddd0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Kokekab",
       "tags": [],
       "lang": "id",
       "platform_region": "",
