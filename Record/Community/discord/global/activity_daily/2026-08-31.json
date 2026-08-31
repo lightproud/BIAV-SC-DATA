@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-31",
+  "messages": 6696,
+  "unique_authors": 320,
+  "reactions_total": 1339,
+  "attachments": 523,
+  "channel_activity": {
+    "🔸綜合討論": 658,
+    "🔸morimens-game-chat": 3773,
+    "🔸晒卡分享": 1,
+    "🔸课间休息闲聊": 5,
+    "🔸한국어-채팅방": 23,
+    "🔸русский-канал": 174,
+    "🔸phòng-chat-tiếng-việt": 269,
+    "🔸canal-español": 240,
+    "🔸canal-português": 203,
+    "🔸ruang-obrolan-indonesia": 122,
+    "🔸ห้องสนทนาภาษาไทย": 140,
+    "🔸traphase": 1,
+    "🔸lore-chat": 34,
+    "🔸lets-count": 1,
+    "🔸team-building": 40,
+    "🔸general-chat": 49,
+    "🔸邀请码互助┊swap-invitation-codes": 3,
+    "🔸game-question": 393,
+    "🔸机器人命令┊bot-commands": 15,
+    "無課新手投資推薦": 1,
+    "Logged in Mobile using Gplay but should've been Qookka acc": 1,
+    "Reset feature remaining after selecting \"enlightenment reset\"": 1,
+    "Please let us pick which blessed relic to start with in train mode": 1,
+    "D-tide feedback": 498,
+    "Corposant and Last Verse \"Bugfix\"": 3,
+    "Better handling of nerfs through bug fixes": 5,
+    "Increase the points gain by extra clears in new dzone to 10": 9,
+    "Please rework how Propagation Caro works for the future units": 6,
+    "💭「Processing」game client crashed...somewhat": 1,
+    "V2.6.0.2 在线维护公告": 9,
+    "V2.5.1.0 停服维护公告": 2,
+    "liz liz liz liz.....": 11,
+    "hamposting by yoru": 3,
+    "🔥10000银芯奖励！V2.6 UGC创作征集开启！": 1
+  },
+  "hourly_activity": {
+    "0": 737,
+    "1": 1920,
+    "2": 1987,
+    "3": 1466,
+    "4": 586
+  },
+  "message_types": {
+    "19": 2393,
+    "0": 4292,
+    "20": 10,
+    "4": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1543816914562977865",
+      "channel_id": "1170692781216378960",
+      "content": "One last thing before I leave you all to react with disdain, ridicule, and self-",
+      "author": "corvim",
+      "reactions": 31,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543816908745347172",
+      "channel_id": "1170692781216378960",
+      "content": "\"Unplayable\" doesn't begin to describe this update, this game rewards pure whali",
+      "author": "corvim",
+      "reactions": 20,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543803099984957523",
+      "channel_id": "1170692781216378960",
+      "content": "Yo guys PEEP IT",
+      "author": "syro_k",
+      "reactions": 16,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543798100873715714",
+      "channel_id": "1170692781216378960",
+      "content": "if anyone needs a *completely reasonable and fair* chart",
+      "author": "fjantsa",
+      "reactions": 14,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543805400581804215",
+      "channel_id": "1170692781216378960",
+      "content": "a non-vortice comp omg",
+      "author": "flocke999",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543809642436755649",
+      "channel_id": "1170692781216378960",
+      "content": "-# *Not every piece of content needs to be beatable by everyone immediately. May",
+      "author": "fjantsa",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543818111466348664",
+      "channel_id": "1170692781216378960",
+      "content": "ellie will fund it by herself dw",
+      "author": "serahh__",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543824668341833728",
+      "channel_id": "1170692781216378960",
+      "content": "In other news I can imagine her VA's other role saying this in a wildly differen",
+      "author": "thereaperinthedresss",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543797927972180039",
+      "channel_id": "1170692781216378960",
+      "content": "THIS IS WAVE 1 MOB 1 TURN 3",
+      "author": "technaid",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543805540608647321",
+      "channel_id": "1170692781216378960",
+      "content": "labubupdate blugh",
+      "author": "mosske",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543832647082442752",
+      "channel_id": "1170692781216378960",
+      "content": "3rd place I guess",
+      "author": "mengluo",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543838414967803984",
+      "channel_id": "1170692781216378960",
+      "content": "i dont even play morimens i just play doresain",
+      "author": "glitzy_x",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543796265970700338",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "angbak",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543797522173001799",
+      "channel_id": "1170692781216378960",
+      "content": "bro 5 mil is probably the amount of damage ive done over my ENTIRE PLAY TIME OF ",
+      "author": "acornn1",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543800140530196501",
+      "channel_id": "1170692781216378960",
+      "content": "I'm from Tel Aviv Israel and I love these dtide changes 🇮🇱❤️",
+      "author": "zartymo",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543801305074634924",
+      "channel_id": "1170692781216378960",
+      "content": "guys guys this update was well thought out, now more people will play traphase!!",
+      "author": "flocke999",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543809228857282647",
+      "channel_id": "1170692781216378960",
+      "content": "Flares crash out will be legendary I'm dming him the f slur pass he needs more s",
+      "author": "zartymo",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543814589286981753",
+      "channel_id": "1170692781216378960",
+      "content": "idk im not doing more dtide",
+      "author": "princess.goth",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543817298257649718",
+      "channel_id": "1170692781216378960",
+      "content": "unplayable doesnt begin to",
+      "author": "serahh__",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1543817477895618731",
+      "channel_id": "1170692781216378960",
+      "content": "Guys can my E4 G.Lotan clear D-tide ?",
+      "author": "vox2277",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
