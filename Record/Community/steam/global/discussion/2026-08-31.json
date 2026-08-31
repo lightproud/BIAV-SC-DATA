@@ -1,9 +1,26 @@
 {
   "date": "2026-08-31",
-  "archived_at": "2026-08-31T03:32:09.240895+00:00",
+  "archived_at": "2026-08-31T12:40:09.801100+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 5,
   "items": [
+    {
+      "title": "[Steam论坛] Invitation Code",
+      "summary": "1D1EGZ10U1",
+      "source": "steam_discussion",
+      "time": "2026-08-31T11:48:33+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/603039786130771940/",
+      "engagement": 233,
+      "is_hot": true,
+      "author": "Znye",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
     {
       "title": "[Steam论坛] Buying Aetheric Stone at 2.5 mill a pop, good value or scam?",
       "summary": "We can now get Aetheric Stones from Mythag Shop for 2.5 million Rose Scrips. Do y9ou think they are good value?\nAfter playing the game for 1 year (low spender) I have around 32 millions, unsure if I should get them, but they are throttling my ability to upgrade Awakeners and their cards....",
@@ -13,6 +30,57 @@
       "engagement": 1,
       "is_hot": false,
       "author": "Fanta",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] BRUUUUUUUH",
+      "summary": "Corrosion no longer damages through the 'basic' immunity...\nCorrection - no, i'm dumb, devs applied specific type of immunity to fifth event battle's boss.",
+      "source": "steam_discussion",
+      "time": "2026-08-31T07:34:32+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591813764140191334/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "N-Zero",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] LIZ APPRECIATION POST!!!",
+      "summary": "I LOVE Liz, she's been my main assault since I first started (cause I was somehow lucky enough to get her before finishing the first chapter of the campaign) and it turns out Liz isn't a very popular character, for you to understand how impopular she is:the third most rare achievement in game is the one you get after finishing her backstory (an achievement that only 2.3% of players have, me included) and I can't help but wonder why, she's cool to use and her backstory is really awesome! I can ba",
+      "source": "steam_discussion",
+      "time": "2026-08-31T07:33:27+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591813764140033850/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "V_4_Victory",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] D зона убила игру",
+      "summary": "спасибо за превращение в пейтувин помойку",
+      "source": "steam_discussion",
+      "time": "2026-08-31T04:19:10+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591814056255613472/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Лимон",
       "tags": [
         "steam_forum"
       ],

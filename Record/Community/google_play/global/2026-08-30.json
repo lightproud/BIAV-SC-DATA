@@ -1,9 +1,23 @@
 {
   "date": "2026-08-30",
-  "archived_at": "2026-08-31T03:32:09.337998+00:00",
+  "archived_at": "2026-08-31T12:40:09.859873+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 5,
   "items": [
+    {
+      "title": "[Google Play 中评] ★3 계정 탈퇴하려는데 기기 모델명이랑 도시 지역까지 입력하라는 건 좀....",
+      "summary": "계정 탈퇴하려는데 기기 모델명이랑 도시 지역까지 입력하라는 건 좀....",
+      "source": "google_play",
+      "time": "2026-08-30T08:38:34",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-af92f15f-c213-48fd-870b-21382b399eb5",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Hj 27",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "",
+      "region": "global"
+    },
     {
       "title": "[Google Play 差评] ★2 nerfing corpo was just unnecessary that'",
       "summary": "nerfing corpo was just unnecessary that's just lame",
@@ -43,6 +57,20 @@
       "author": "Skay Amgs",
       "tags": [],
       "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 freeze trus whitescreen. Update: Nerf ka",
+      "summary": "freeze trus whitescreen. Update: Nerf karakter dengan dalih \"bug fix\", padahal karakternya sudah rilis lebih dari satu tahun, tanpa peringatan dan tanpa kompensasi apapun. Dengan nerf dan balancing semena-mena ini, saya urungkan niat untuk top up atau mengeluarkan uang di game ini. Terima kasih.",
+      "source": "google_play",
+      "time": "2026-08-30T05:32:04",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-bbc0e943-b038-4309-9ca7-99139a7039a9",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Afandi Lot",
+      "tags": [],
+      "lang": "id",
       "platform_region": "",
       "region": "global"
     }

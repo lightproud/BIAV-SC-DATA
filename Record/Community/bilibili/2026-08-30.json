@@ -1,8 +1,8 @@
 {
   "date": "2026-08-30",
-  "archived_at": "2026-08-31T03:32:09.174896+00:00",
+  "archived_at": "2026-08-31T12:40:09.799128+00:00",
   "source": "bilibili",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "阿拉克涅会不会太轮椅了一点≡ω≡",
@@ -70,6 +70,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/f937f971ec0f3a1200912133566f503d8a8b5bde.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜⎮凯蒂古拉】BANG BANG BANG MEME",
+      "summary": "好歹是在十二点之前做完了。。。粗制滥造，希望以后能打磨一个更好的版本\n事已至此凯蒂古拉生日快乐\n____\n部分镜头参考原PV与游戏内CG\n后半段使用模板BV1vrotB7E7U",
+      "source": "bilibili",
+      "time": "2026-08-30T14:20:15+00:00",
+      "url": "https://www.bilibili.com/video/av117184894338320",
+      "engagement": 128,
+      "is_hot": false,
+      "author": "_HoshiYukibana_",
+      "tags": [
+        "同人·手书"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/ae1488b25faec7db5cec80e2fe4793a72c8349cd.jpg",
       "content_type": "video"
     },
     {

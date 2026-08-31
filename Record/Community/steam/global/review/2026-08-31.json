@@ -1,9 +1,78 @@
 {
   "date": "2026-08-31",
-  "archived_at": "2026-08-31T03:32:09.267275+00:00",
+  "archived_at": "2026-08-31T12:40:09.865528+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 12,
   "items": [
+    {
+      "title": "[正面] Best gacha hands down, rivals Limbus pretty strong...",
+      "summary": "Best gacha hands down, rivals Limbus pretty strongly in my opinion.",
+      "source": "steam_review",
+      "time": "2026-08-31T07:50:51+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198012654426/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198012654426",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 4046,
+        "votes_up": 1,
+        "timestamp_created": 1788162651
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] For a game that only updates its main story, once...",
+      "summary": "For a game that only updates its main story, once in a blue moon. It's VERY reliant on endgame content to keep players around in between months of content drought. And boy did the new update to DTide (the main endgame) just suck out all the fun out of it.\nHEAVILY inflating the enemy HPs only makes it an absolute grind to go through and is incredibly hostile to F2P players like myself.\nIt's been fun while it lasted, but it seems its time to move on to other games.",
+      "source": "steam_review",
+      "time": "2026-08-31T07:26:42+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198311164948/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198311164948",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 17437,
+        "votes_up": 1,
+        "timestamp_created": 1788161202
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Currently holding a negative review until d-tide i...",
+      "summary": "Currently holding a negative review until d-tide is reverted or reworked",
+      "source": "steam_review",
+      "time": "2026-08-31T06:24:30+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198381439562/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198381439562",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 4163,
+        "votes_up": 1,
+        "timestamp_created": 1788157470
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[正面] Saya Morimens got her feet out",
       "summary": "Saya Morimens got her feet out",
@@ -92,6 +161,121 @@
         "playtime_forever": 136,
         "votes_up": 0,
         "timestamp_created": 1788127696
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] New endgame content changes are awful. Had no fun...",
+      "summary": "New endgame content changes are awful. Had no fun trying to clear D-tide after this patch\r\nIf they fix it, i will change the review",
+      "source": "steam_review",
+      "time": "2026-08-31T12:14:42+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199861306159/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199861306159",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 9217,
+        "votes_up": 0,
+        "timestamp_created": 1788178482
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 新手入坑 游戏挺好的，就是卡太多 眼花缭乱",
+      "summary": "新手入坑 游戏挺好的，就是卡太多 眼花缭乱",
+      "source": "steam_review",
+      "time": "2026-08-31T11:05:32+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199004945924/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199004945924",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1095,
+        "votes_up": 0,
+        "timestamp_created": 1788174332
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I will change my review to positive when I see Lig...",
+      "summary": "I will change my review to positive when I see Light (head of B.I.A.V. Studio) stream clearing the new end-game content himself, even on a fully maxed out developer account.",
+      "source": "steam_review",
+      "time": "2026-08-31T10:31:05+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198053341692/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198053341692",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 28644,
+        "votes_up": 0,
+        "timestamp_created": 1788172265
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Eldritch horrors beyond human comprehension? \r\nCut...",
+      "summary": "Eldritch horrors beyond human comprehension? \r\nCute anime waifu's? \r\nAll wrapped up in a Slay The Spire flavored package? \r\n\r\nSIGN ME THE HELL UP",
+      "source": "steam_review",
+      "time": "2026-08-31T06:05:01+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198043159342/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198043159342",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 631,
+        "votes_up": 0,
+        "timestamp_created": 1788156301
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 好玩",
+      "summary": "好玩",
+      "source": "steam_review",
+      "time": "2026-08-31T05:57:50+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199885283088/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199885283088",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 590,
+        "votes_up": 0,
+        "timestamp_created": 1788155870
       },
       "region": "global",
       "archive_subtype": "review"
