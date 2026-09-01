@@ -1,20 +1,30 @@
 {
   "date": "2026-08-31",
-  "messages": 2,
+  "messages": 4,
   "unique_authors": 2,
-  "reactions_total": 1,
+  "reactions_total": 2,
   "attachments": 0,
   "channel_activity": {
-    "general-discussion": 2
+    "general-discussion": 3,
+    "2026 July - August Contribution Log: V2.6.0 Updates": 1
   },
   "hourly_activity": {
+    "20": 2,
     "9": 2
   },
   "message_types": {
-    "19": 1,
-    "0": 1
+    "19": 2,
+    "0": 2
   },
   "top_reacted_messages": [
+    {
+      "id": "1544087983899021394",
+      "channel_id": "1402941858606219294",
+      "content": "ym u DONT pull the \"it's not a bug, it's a feature\" ??? /j",
+      "author": "myxxlight",
+      "reactions": 1,
+      "channel": "general-discussion"
+    },
     {
       "id": "1543916579723542569",
       "channel_id": "1402941858606219294",
