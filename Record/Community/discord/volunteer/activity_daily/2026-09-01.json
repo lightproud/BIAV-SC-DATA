@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-01",
+  "messages": 5,
+  "unique_authors": 3,
+  "reactions_total": 2,
+  "attachments": 0,
+  "channel_activity": {
+    "general-discussion": 2,
+    "2026 July - August Contribution Log: V2.6.0 Updates": 3
+  },
+  "hourly_activity": {
+    "2": 4,
+    "3": 1
+  },
+  "message_types": {
+    "19": 4,
+    "0": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1544174340248051712",
+      "channel_id": "1402941858606219294",
+      "content": "We're so sorry to have kept you waiting. We're still working on it and will upda",
+      "author": "morimensstaff03",
+      "reactions": 1,
+      "channel": "general-discussion"
+    },
+    {
+      "id": "1544176753402978394",
+      "channel_id": "1541392788330119258",
+      "content": "ooh yah,,, thx for letting me know~",
+      "author": "myxxlight",
+      "reactions": 1,
+      "channel": "2026 July - August Contribution Log: V2.6.0 Updates"
+    }
+  ]
+}
