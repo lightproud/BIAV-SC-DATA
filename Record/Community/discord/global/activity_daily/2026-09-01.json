@@ -1,0 +1,129 @@
+{
+  "date": "2026-09-01",
+  "messages": 314,
+  "unique_authors": 50,
+  "reactions_total": 13,
+  "attachments": 18,
+  "channel_activity": {
+    "🔸綜合討論": 10,
+    "🔸morimens-game-chat": 186,
+    "🔸canal-español": 6,
+    "🔸canal-português": 38,
+    "🔸ruang-obrolan-indonesia": 1,
+    "🔸ห้องสนทนาภาษาไทย": 2,
+    "🔸team-building": 6,
+    "🔸general-chat": 2,
+    "🔸game-question": 17,
+    "某些常駐角色的+12推薦及心得": 1,
+    "Jenkin the little rat": 2,
+    "D-tide feedback": 40,
+    "Corposant and Last Verse \"Bugfix\"": 1,
+    "Please rework how Propagation Caro works for the future units": 1,
+    "V2.5.1.0 停服维护公告": 1
+  },
+  "hourly_activity": {
+    "0": 314
+  },
+  "message_types": {
+    "0": 242,
+    "19": 72
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1544134981964664982",
+      "channel_id": "1170692781216378960",
+      "content": "@biavstudios WHAT are u sending me man I just want nympheas wheel",
+      "author": "serahh__",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544139682017845330",
+      "channel_id": "1131839817982947429",
+      "content": "你赶紧也打一个给我看看<:Lily_wow:1356084702468899117>",
+      "author": "sweet_25367",
+      "reactions": 1,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1544135787749314721",
+      "channel_id": "1170692781216378960",
+      "content": "It s gonna take a while...",
+      "author": "gugali",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544135795470770327",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "aerisvibing",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544137090919309402",
+      "channel_id": "1170692781216378960",
+      "content": "Might have to reset my w1 madness",
+      "author": "guava3442",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544137830266183810",
+      "channel_id": "1170692781216378960",
+      "content": "i still play",
+      "author": "arisuu0604",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544138136601497700",
+      "channel_id": "1170692781216378960",
+      "content": "Can't even clear w5 hard",
+      "author": "guava3442",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544138709723783249",
+      "channel_id": "1170692781216378960",
+      "content": "https://tenor.com/view/cat-cat-bubble-sealed-away-forever-gif-25826821",
+      "author": "amirganj",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544139227070079036",
+      "channel_id": "1170692781216378960",
+      "content": "Hi rain can I tell you about the injustices of jenkin’s kit and why biav hates h",
+      "author": "fishhazardthewizard",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544140398232862821",
+      "channel_id": "1170692781216378960",
+      "content": "Dont hesitate to listen to the best tide guide maker morimens ever had and borro",
+      "author": "katal",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544141293322637453",
+      "channel_id": "1170692781216378960",
+      "content": "people have done madness with it but idk your level of investment",
+      "author": "cornonthemacabre_",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544136141408706581",
+      "channel_id": "1300659718653476925",
+      "content": "YouBelievedInMorimens",
+      "author": "mushisho",
+      "reactions": 1,
+      "channel": "🔸canal-português"
+    }
+  ]
+}
