@@ -1,8 +1,8 @@
 {
   "date": "2026-08-31",
-  "archived_at": "2026-08-31T20:39:44.847156+00:00",
+  "archived_at": "2026-09-01T00:23:46.324647+00:00",
   "source": "bilibili",
-  "item_count": 12,
+  "item_count": 13,
   "items": [
     {
       "title": "【忘却前夜】第一期癫狂容灾纪念(挑战525中)",
@@ -172,6 +172,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/a723b6f2b26be4b65057f271f98f644f8c39fbe7.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】抽卡",
+      "summary": "攒一下资源，等淡墨复刻再抽淡墨。",
+      "source": "bilibili",
+      "time": "2026-08-31T10:39:49+00:00",
+      "url": "https://www.bilibili.com/video/av117189675846719",
+      "engagement": 118,
+      "is_hot": false,
+      "author": "SherbetWhite",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/1ddb126ac965007355e39efb724a3195f14658ec.jpg",
       "content_type": "video"
     },
     {

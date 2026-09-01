@@ -1,8 +1,8 @@
 {
   "date": "2026-08-31",
-  "archived_at": "2026-08-31T20:39:44.958064+00:00",
+  "archived_at": "2026-09-01T00:23:46.514498+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 好评] ★5 로그라이크 카드게임",
@@ -41,6 +41,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Julio Cesar Chacon",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 El juego es realmente hermoso",
+      "summary": "El juego es realmente hermoso",
+      "source": "google_play",
+      "time": "2026-08-30T22:03:49",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-12f4466d-e39c-4af0-b2c9-eb07139aec79",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Hkfzz06_",
       "tags": [],
       "lang": "es",
       "platform_region": "",

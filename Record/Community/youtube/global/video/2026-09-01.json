@@ -1,8 +1,8 @@
 {
   "date": "2026-09-01",
-  "archived_at": "2026-08-31T20:39:44.847548+00:00",
+  "archived_at": "2026-09-01T00:23:46.325321+00:00",
   "source": "youtube",
-  "item_count": 7,
+  "item_count": 9,
   "items": [
     {
       "title": "[Morimens] NEW D-Tide Madness ATTEMPT. ARE THE CN NUMBERS REAL part 2",
@@ -73,6 +73,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Morimens D-Zone 2.6.0.3 patch review/opinion",
+      "summary": "VoD for D-Zone clears: https://youtube.com/live/VoX5EAHYg2Q https://www.twitch.tv/Nazoric ...",
+      "source": "youtube",
+      "time": "2026-08-31T21:14:52Z",
+      "url": "https://www.youtube.com/watch?v=48Rs4y_ypDo",
+      "engagement": 11,
+      "is_hot": false,
+      "author": "Nazoric",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/48Rs4y_ypDo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "🔞 Some more peak story :3 - Morimens",
       "summary": "Some more peak story :3 Links https://www.twitch.tv/eepyghost https://discord.gg/tSq5H32dAm ...",
       "source": "youtube",
@@ -119,6 +136,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/QleyEoPwKcU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【MORIMENS】 STARTING CHAPTER 9! | BEEN A WHILE BUT WE BACK",
+      "summary": "Game: Morimens __Follow me on Social Media!__ Bluesky: https://bsky.app/profile/adagiovt.vtubers.social Twitch: ...",
+      "source": "youtube",
+      "time": "2026-09-01T00:17:50Z",
+      "url": "https://www.youtube.com/watch?v=xh6Fb6LSRRY",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "AdagioVT",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/xh6Fb6LSRRY/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

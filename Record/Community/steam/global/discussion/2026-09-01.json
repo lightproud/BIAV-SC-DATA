@@ -1,9 +1,26 @@
 {
   "date": "2026-09-01",
-  "archived_at": "2026-08-31T20:39:44.882665+00:00",
+  "archived_at": "2026-09-01T00:23:46.377179+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
+    {
+      "title": "[Steam论坛] Is Pollux worth it?",
+      "summary": "Is it worth investing my monthly dupe thingies on Pollux(currently E1) if I already have an OE Jenkins? I'm currently running jenkins with castor/arachme/horla and wondering if a high investment pollux would be better than her",
+      "source": "steam_discussion",
+      "time": "2026-08-31T23:27:52+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591814056255650541/",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "DingusDork",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
     {
       "title": "[Steam论坛] LIZ APPRECIATION POST!!!",
       "summary": "I LOVE Liz, she's been my main assault since I first started (cause I was somehow lucky enough to get her before finishing the first chapter of the campaign) and it turns out Liz isn't a very popular character, for you to understand how impopular she is:the third most rare achievement in game is the one you get after finishing her backstory (an achievement that only 2.3% of players have, me included) and I can't help but wonder why, she's cool to use and her backstory is really awesome! I can ba",

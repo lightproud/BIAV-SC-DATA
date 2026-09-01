@@ -1,8 +1,8 @@
 {
   "date": "2026-09-01",
-  "archived_at": "2026-08-31T20:39:44.902633+00:00",
+  "archived_at": "2026-09-01T00:23:46.419843+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[正面] For an f2p experience this is currently sitting wi...",
@@ -23,6 +23,29 @@
         "playtime_forever": 14165,
         "votes_up": 0,
         "timestamp_created": 1788197917
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I could write an essay about the great things abou...",
+      "summary": "I could write an essay about the great things about this game and only include a small paragraph about minor issues that don't really ruin my personal experience with it, but the current endgame rebalance is just abhorrent. \n\nThere is no difficulty for midgame players like there used to be, so it starts off on baby mode and immediately ramps it up to the previous highest difficulty on the next difficulty level with two more still to go. Enemy stats are completely over bloated with no semblance of gradual increase in difficulty and newer players - without resorting to cheesing at least one stage - have no chance in getting the secondary uncap materials in any serious quantity to level up their strongest characters. Having an established account allowed me to at least snatch any rewards that matter, but it was not fun and I can't imagine every bi-weekly reset will be like that, as the current final wave already includes probably one of the best examples of a fight as to why the current rebalance just doesn't work. \n\nWill change it to positive if we get any decent changes within the next weeks, at latest by the next reset, otherwise it might be time to jump the ship for me. Thankfully I don't really have any sunk cost fallacy in this game, but it is nonetheless heart-breaking seeing it be this mismanaged as it is a game I grew to love and enjoy on a daily basis during the last few months.",
+      "source": "steam_review",
+      "time": "2026-08-31T21:12:54+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198013400028/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198013400028",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 16896,
+        "votes_up": 0,
+        "timestamp_created": 1788210774
       },
       "region": "global",
       "archive_subtype": "review"
