@@ -1,8 +1,8 @@
 {
   "date": "2026-09-01",
-  "archived_at": "2026-09-01T08:18:09.558811+00:00",
+  "archived_at": "2026-09-01T13:56:19.079315+00:00",
   "source": "bilibili",
-  "item_count": 18,
+  "item_count": 24,
   "items": [
     {
       "title": "【忘却前夜】8.31-9.13容灾攻略",
@@ -39,6 +39,23 @@
       "content_type": "video"
     },
     {
+      "title": "图解什么的也只有晚上才能搓出来",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-01T08:39:10+00:00",
+      "url": "https://www.bilibili.com/video/av117194876783108",
+      "engagement": 286,
+      "is_hot": false,
+      "author": "AAA木柴批发",
+      "tags": [
+        "手工"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/7e1df0f6fdf79d927d514ed1f53e16ad805127c7.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "忘却前夜新融灾七宗罪",
       "summary": "xm长命百岁，算了，xm货权甲",
       "source": "bilibili",
@@ -53,6 +70,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/1180ae4c74f3228d4e353103093cc3f58c60d7a3.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】8.31-9.13神秘低配融灾420",
+      "summary": "逆天膨胀，第五波是人打的？？？\n理论5-2 1启莫斯就够了，但我打了两把每次都差一点点，\n实在不想动脑了，遂换助战平推。。。",
+      "source": "bilibili",
+      "time": "2026-09-01T09:55:49+00:00",
+      "url": "https://www.bilibili.com/video/av117195161998933",
+      "engagement": 208,
+      "is_hot": false,
+      "author": "A-Tomesdays",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/67807ff85b2251628c8dae21336d8e82864c82b4.jpg",
       "content_type": "video"
     },
     {
@@ -155,6 +189,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/a33a606fa9ad12982580cf96777df6cc6e921042.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】旺达卡西亚逃课癫狂第三波全流程",
+      "summary": "注意点：1.卡西亚多放统统消失，给自己刷狂气，有大就开；2.旺达平时注意不要烧太多梦引，保证小怪自爆回合有10梦引大招和静海就能抗住；3.庞托斯可以在小怪自爆的下一回合开大，保住生存；4.最好带个引舵或者无垢启示录，或者其余回血的，免得被1点伤害刮死。\n后期boss力量几乎是降完了的，所以可以换其他生存位代替庞托斯和温科尔的位置，只要撑过前期就是胜利。",
+      "source": "bilibili",
+      "time": "2026-09-01T11:59:28+00:00",
+      "url": "https://www.bilibili.com/video/av117195614983295",
+      "engagement": 117,
+      "is_hot": false,
+      "author": "问君何忧",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/d36199edcc3d56f66a03b5e2217ab9860f4970a2.jpg",
       "content_type": "video"
     },
     {
@@ -294,6 +345,40 @@
       "content_type": "video"
     },
     {
+      "title": "第二十九话 浊世昭辉",
+      "summary": "(本视频为《忘却前夜》同人二创，非官方出品，无任何商业用途) 【出场演员：皮克曼 萝坦 哈姆林 莱克 汀克特 卡茜亚 波吕克斯 卡斯托尔 希洛】希洛后面估计要下线很长一段时间了 兄控也是很可怕的！最后那个无罪圣裁的光芒四射跟游戏里面波吕克斯大招应该非常还原吧？AI日语发音稍微有点问题 问题不大",
+      "source": "bilibili",
+      "time": "2026-09-01T12:00:00+00:00",
+      "url": "https://www.bilibili.com/video/av117169157312726",
+      "engagement": 19,
+      "is_hot": false,
+      "author": "比较瓜皮",
+      "tags": [
+        "动画综合"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/0ae3a5ddfe3618e1ba60b85b2955b7d9fbbe37f4.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "第三十话 王权反击",
+      "summary": "(本视频为《忘却前夜》同人二创，非官方出品，无任何商业用途) 【出场演员：旺达 索蕾尔 图鲁 阿拉克涅 达芙黛尔 卡茜亚】最后散发的卡茜亚挺有魔女的感觉 AI日语发音稍微有点问题 AI老毛病了这个属于",
+      "source": "bilibili",
+      "time": "2026-09-01T12:02:00+00:00",
+      "url": "https://www.bilibili.com/video/av117180012171682",
+      "engagement": 18,
+      "is_hot": false,
+      "author": "比较瓜皮",
+      "tags": [
+        "动画综合"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/056f9f2bf279e2ce91f61a14906c72e20977ca08.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "第一期525，世界级痛苦海人",
       "summary": "",
       "source": "bilibili",
@@ -308,6 +393,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/a45116c1c46f61ffb1856545654dde7621c736b9.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "克莱门汀（尝试拉镜）",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-01T13:43:15+00:00",
+      "url": "https://www.bilibili.com/video/av117196068033634",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "绝望乡下人",
+      "tags": [
+        "绘画"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/c835cbafb8beaccf989a85e3cb0e56851794f9d9.jpg",
       "content_type": "video"
     }
   ]

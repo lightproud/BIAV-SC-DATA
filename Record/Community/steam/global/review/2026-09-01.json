@@ -1,8 +1,8 @@
 {
   "date": "2026-09-01",
-  "archived_at": "2026-09-01T08:18:09.597010+00:00",
+  "archived_at": "2026-09-01T13:56:19.138840+00:00",
   "source": "steam",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "[正面] Beautiful Art and Beautiful game to play.",
@@ -161,6 +161,29 @@
         "playtime_forever": 122,
         "votes_up": 0,
         "timestamp_created": 1788221751
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] New update made the endgame worse than ever",
+      "summary": "New update made the endgame worse than ever",
+      "source": "steam_review",
+      "time": "2026-09-01T10:07:37+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199246734411/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199246734411",
+      "tags": [
+        "ukrainian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 18725,
+        "votes_up": 0,
+        "timestamp_created": 1788257257
       },
       "region": "global",
       "archive_subtype": "review"

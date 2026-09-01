@@ -1,9 +1,22 @@
 {
   "date": "2026-09-01",
-  "archived_at": "2026-09-01T08:18:09.560193+00:00",
+  "archived_at": "2026-09-01T13:56:19.080182+00:00",
   "source": "bahamut",
-  "item_count": 26,
+  "item_count": 32,
   "items": [
+    {
+      "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-01T13:55:16.600925+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=938&tnum=258",
+      "engagement": 436,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
       "summary": "",
@@ -39,6 +52,19 @@
       "engagement": 280,
       "is_hot": true,
       "author": "hhe02547783",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【心得】星辰篇必修課：淺談「牌權」的重要性",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-01T13:55:16.600869+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1491&tnum=4",
+      "engagement": 65,
+      "is_hot": true,
+      "author": "t12345825",
       "tags": [],
       "lang": "zh",
       "platform_region": ""
@@ -252,6 +278,19 @@
       "platform_region": ""
     },
     {
+      "title": "【討論】超高血量融災討論",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-01T13:25:16.600608+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1559&tnum=2",
+      "engagement": 11,
+      "is_hot": false,
+      "author": "hhe02547783",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
       "title": "【問題】沙耶和SP蘿坦要幾命才能用?",
       "summary": "",
       "source": "bahamut",
@@ -330,11 +369,50 @@
       "platform_region": ""
     },
     {
+      "title": "【情報】【禮包碼】 DC 61000守密人進駐達成禮",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-01T13:55:16.600807+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1556&tnum=1",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "hhe02547783",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【心得】(新)融災簡易攻略:做個簡單的隊伍分享,讓可能不是玩這麼久的玩家參考~",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-01T13:55:16.600670+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1558&tnum=1",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Daisuke1990",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
       "title": "【日服】【情報】萊克 技能卡、命輪和鑰令",
       "summary": "",
       "source": "bahamut",
       "time": "2026-08-31T20:38:45.350012+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1546&tnum=1",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "jack01212537",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【日服】【情報】茉夏 技能卡、命輪和鑰令",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-01T13:55:16.600733+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1557&tnum=1",
       "engagement": 2,
       "is_hot": false,
       "author": "jack01212537",

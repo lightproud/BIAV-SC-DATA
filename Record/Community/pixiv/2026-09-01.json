@@ -1,8 +1,8 @@
 {
   "date": "2026-09-01",
-  "archived_at": "2026-09-01T08:18:09.621896+00:00",
+  "archived_at": "2026-09-01T13:56:19.165896+00:00",
   "source": "pixiv",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "X(旧Twitter)まとめ3",
@@ -22,6 +22,25 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/09/01/02/23/25/149133695_p0_square1200.jpg",
+      "content_type": "image"
+    },
+    {
+      "title": "トゥルー",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-09-01T21:47:43+09:00",
+      "url": "https://www.pixiv.net/artworks/149161411",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "modoki",
+      "tags": [
+        "トゥルー",
+        "忘却前夜",
+        "異形"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/09/01/21/47/43/149161411_p0_square1200.jpg",
       "content_type": "image"
     }
   ]

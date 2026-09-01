@@ -1,8 +1,8 @@
 {
   "date": "2026-08-31",
-  "archived_at": "2026-09-01T08:18:09.589487+00:00",
+  "archived_at": "2026-09-01T13:56:19.131237+00:00",
   "source": "appstore",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "Concerning direction with extreme HP bloat",
@@ -15,6 +15,20 @@
       "author": "cvt213",
       "tags": [],
       "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "도저히 못참겠다",
+      "summary": "아트랑 더빙 붙잡고 번역 개판 나는 것도 참았고 난이도 설정 개판인 것도 참았는데 이번 업데이트는 진심으로 못참겠다. 신융재 진심으로 먹기 싫어서 중간에 뱉고 토했음. 이딴게 보상컷? 안먹어요 통뇌 니네가 다 드세요.",
+      "source": "appstore",
+      "time": "2026-08-30T18:51:05-07:00",
+      "url": "https://apps.apple.com/kr/app/id6447354150?see-all=reviews#as-14492121583",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Mir_9876",
+      "tags": [],
+      "lang": "ko",
       "platform_region": "",
       "region": "global"
     }

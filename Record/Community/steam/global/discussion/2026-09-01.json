@@ -1,8 +1,8 @@
 {
   "date": "2026-09-01",
-  "archived_at": "2026-09-01T08:18:09.584704+00:00",
+  "archived_at": "2026-09-01T13:56:19.118406+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[Steam论坛] Is Pollux worth it?",
@@ -22,6 +22,23 @@
       "archive_subtype": "discussion"
     },
     {
+      "title": "[Steam论坛] BRUUUUUUUH",
+      "summary": "Corrosion no longer damages through the 'basic' immunity...\nCorrection - no, i'm dumb, devs applied specific type of immunity to fifth event battle's boss.",
+      "source": "steam_discussion",
+      "time": "2026-09-01T09:19:10+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591813764140191334/",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "N-Zero",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
       "title": "[Steam论坛] LIZ APPRECIATION POST!!!",
       "summary": "I LOVE Liz, she's been my main assault since I first started (cause I was somehow lucky enough to get her before finishing the first chapter of the campaign) and it turns out Liz isn't a very popular character, for you to understand how impopular she is:the third most rare achievement in game is the one you get after finishing her backstory (an achievement that only 2.3% of players have, me included) and I can't help but wonder why, she's cool to use and her backstory is really awesome! I can ba",
       "source": "steam_discussion",
@@ -30,6 +47,23 @@
       "engagement": 2,
       "is_hot": false,
       "author": "V_4_Victory",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] D зона убила игру",
+      "summary": "спасибо за превращение в пейтувин помойку",
+      "source": "steam_discussion",
+      "time": "2026-09-01T09:13:33+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591814056255613472/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Лимон",
       "tags": [
         "steam_forum"
       ],

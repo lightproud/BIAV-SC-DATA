@@ -1,8 +1,8 @@
 {
   "date": "2026-08-31",
-  "archived_at": "2026-09-01T08:18:09.697021+00:00",
+  "archived_at": "2026-09-01T13:56:19.228400+00:00",
   "source": "google_play",
-  "item_count": 6,
+  "item_count": 9,
   "items": [
     {
       "title": "[Google Play 好评] ★5 로그라이크 카드게임",
@@ -85,6 +85,48 @@
       "author": "Val Venegas",
       "tags": [],
       "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 充的钱充到怪身上了，每当我对这游戏有好感键帽就来恶心人了，新融灾中登给一棍子打死",
+      "summary": "充的钱充到怪身上了，每当我对这游戏有好感键帽就来恶心人了，新融灾中登给一棍子打死了是吧？N3那数值诗人？进来一看2000k还以为进列车了，你游平等恶心所有玩家算数一数二的，别的游戏膨胀也是有抽卡资源的随便打，没抽卡资源的数值膨胀，你游倒好，角色没膨胀多少怪却膨胀爆了，主线膨胀融灾膨胀，你要膨胀你大大方方膨胀多出点超模轮椅角色也没人说你，结果最近的海老头蛆一条，拉布布蛆一条，蚀罗强点但也处处充满你键帽小巧思，中登拿不全你个b资源本，一棍子打死中登跟小登一桌，联动真叫你圈着米不知天地为何物了😅",
+      "source": "google_play",
+      "time": "2026-08-31T13:06:47",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-e2e4e9da-b4c9-4239-b779-22103aba4afb",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "爱丽丝利德尔",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 버그 고칠 시간에 융제 다시 돌려내고 입장문 적어라. 라이트 유저나 고인",
+      "summary": "버그 고칠 시간에 융제 다시 돌려내고 입장문 적어라. 라이트 유저나 고인물 둘 다 만족시키지 못하는 최종 콘텐츠는 처음 보고, 캐릭 픽업 끝나고 나서야 몇 개월 동안 방치한 버그 고치는 건 정말 신뢰도 떨어지는 행위라고 생각한다",
+      "source": "google_play",
+      "time": "2026-08-31T13:38:52",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-e080adf6-741d-4d14-ad2b-5062be17d6b6",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "김나연",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 เกมดีภาพสวยของแจกพอได้อยู่ถ้าขยันเล่นก็พ",
+      "summary": "เกมดีภาพสวยของแจกพอได้อยู่ถ้าขยันเล่นก็พอมีตัวใช้เยอะแต่อยากให้มีปุ่มเล่นอัตโนมัตหน่อยค่ะภาษาไทยแทบอ่านไม่รู้เรื่องอยากให้ปรับจริงๆกาชาออกยากมากตัวหน้าตู้ไม่มีโอกาสออกเลยได้แต่การ์ดไม่อยากให้รวมกับตัวละครเลยค่ะเพราะตู้แยกก็มีอยู่",
+      "source": "google_play",
+      "time": "2026-08-31T12:35:31",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=th#gp-ce3d143a-62f3-4989-811a-1dd40cbe74f5",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "jun ttm",
+      "tags": [],
+      "lang": "th",
       "platform_region": "",
       "region": "global"
     }

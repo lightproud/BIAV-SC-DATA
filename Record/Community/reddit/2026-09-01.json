@@ -1,8 +1,8 @@
 {
   "date": "2026-09-01",
-  "archived_at": "2026-09-01T08:18:09.615120+00:00",
+  "archived_at": "2026-09-01T13:56:19.158309+00:00",
   "source": "reddit",
-  "item_count": 17,
+  "item_count": 21,
   "items": [
     {
       "title": "Dtide needs one new difficulty back: old a4",
@@ -221,6 +221,58 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/ahdjhs1",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Goliath and Miryam by @limaotanuki",
+      "summary": "&#32; submitted by &#32;  /u/OneThanks3   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-01T09:46:50+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1w4777c/goliath_and_miryam_by_limaotanuki/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/OneThanks3",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "【JP】 Mouchette skill kits, Wheel and special key order",
+      "summary": "First off, This is NOT A fanmade OC, This is from morimens Japan localized server that BIAV has ran with different skill kits and effects. Awakener [Mouchette] Chaos · Assault [Stats] Vitality: 126 Attack: 149 Defense: 126 Base Aliemus: 100 Before Personality Deepening Sigil Yield: 1.2% Death Resistance: 10.8% Personality Deepening &lt;12&gt; Sigil Yield: 3.6% Death Resistance: 32.4% ※ At Lv. 60. [Skills] ・Exalt [Shining☆Tornado] Deals 537 DMG to all enemies. This turn, all Awakeners deal 179 additional DMG with Strike. ・Over-Exaltation [Disaster☆Tornado] Increases the Crit DMG of this Exalt by 100%. Reduces the Arithmetica Cost of all Strike cards in hand by 1 until their next use. The first time this is activated in battle, additionally inflicts [Sleep] on all enemies for 1 turn. ■Sleep Changes the enemy&#39;s current Intent to [Unable to Act]. ------------------------------------ ・Rouse [Mist Realm Vestige] Arithmetica Cost: 3 Mouchette gains 30% of her Base-Aliemus as Aliemus. Increases the team&#39;s DMG Amplification by 25%. (Above is Fixed Effect Throughout ALL characters) - Rouse: After using 2 Strike cards each turn, Mouchette activates the Pursuit [Dramatic Encounter]. Activates up to 3 times per turn. After Mouchette activates Exalt, the number of damage activations of [Dramatic Encounter] this turn is increased by 1. Retain. Prepare 1. ※Rouse effect only trigger once per battle (I think BIAV do this is bc they might have characters to generate rouse cards in the future.) (Pursuit [Dramatic Encounter] Arithmetica Cost: 0) Deals 239 DMG once to the enemy with the highest HP. -------------------------------------- ・Skill [Mortal Blast] Arithmetica Cost: 2 Deals 45 DMG to all enemies 2 times. Draw 1 Strike for every 1 Arithmetica Cost spent(on this card). Counts as Strike. Prepare 1. Retain. ・Skill [Storm Impact] Arithmetica Cost: 3 Deals 105 DMG 3 times to random enemies. Counts as Strike. The next time Mouchette uses her [Basic Defense], activates the Pursuit [Dramatic Encounter]. ・Skill [Attack] Arithmetica Cost: 1 Deals 30 DMG. Mouchette gains 10 Aliemus. ・Skill [Defense] Arithmetica Cost: 1 Generates 26 Shield. Mouchette gains 10 Aliemus. ※ At Lv. 60 and Skill Lv. 6. ------------------------------------------------- [Enlightenment] ・ Enlightenment 1 [Mist Realm Traveler] Increases the Base DMG of [Dramatic Encounter] by 30%. For every 1% Death Resistance granted by Mouchette&#39;s equipped wheel and covenant, increases the Base DMG of [Dramatic Encounter] by 1%. ・Enlightenment 2 [Days Beyond Return] [Mortal Blast] additionally draws 1 Strike. [Storm Impact] additionally causes Mouchette&#39;s next [Basic Defense] to gain 10 additional Aliemus. ・Enlightenment 3 [A Cleaved Future] Increases Mouchette&#39;s Exalt Crit Rate by 50%. After Mouchette activates the Pursuit [Dramatic Encounter], the Final DMG of subsequent [Dramatic Encounter] activations this turn is increased by 15%. ・Absolute Axium[Self That Pierces the Mist] Enhances Rouse [Mist Realm Vestige]： After Mouchette activates Exalt, the number of [Dramatic Encounter] damage activations this turn is additionally increased by 1. The Strike DMG Amplification granted by [Shining☆Tornado] is doubled. --------------------------------------------------- [Talent] ・Soulforge Aptitude： This Talent is only effective in stages of [Astral Reign]. Increases this Awakener&#39;s Vitality, Attack, and Defense by 30%. When this Awakener uses Gnosis Rouse for the first time, gains 250 Key Energy. -Above is Fixed Effect Throughout characters- [Dramatic Encounter] increases the Final DMG of Mouchette&#39;s next Exalt by 20%. Stacks up to 10 times. Increases Mouchette&#39;s Strike Crit Rate and Crit DMG by 50%. ※ At Lv. 10. ------------------------------------------------- SSR Wheel [Endless Slaughter] A versatile Wheel that increases the wielder&#39;s Base DMG and the Crit Rate and Crit DMG of Pursuit, while allowing Pursuit to gain Key Energy. [Stats] Before Enhancement Death Resistance: 21.6% Enhancement &lt;12&gt; Death Resistance: 43.2% [Effects] Before Enhancement Increases the wielder&#39;s Base DMG by 11%. Increases the wielder&#39;s Pursuit Crit Rate and Crit DMG by 18%. After activating Pursuit, gains 18 Key Energy. Enhancement &lt;12&gt; Increases the wielder&#39;s Base DMG by 20%. Increases the wielder&#39;s Pursuit Crit Rate and Crit DMG by 30%. After activating Pursuit, gains 30 Key Energy. SR Wheel [The Light of Reason] A damage-focused Wheel that increases the wielder&#39;s Base DMG and the Crit Rate and Crit DMG of Pursuit. [Stats] Before Enhancement Black Seal Drop Rate: 3.6% Enhancement &lt;12&gt; Black Seal Drop Rate: 6.0% [Effects] Before Enhancement Increases the wielder&#39;s Pursuit Crit Rate and Crit DMG by 9%. Enhancement &lt;12&gt; Increases the wielder&#39;s Pursuit Crit Rate and Crit DMG by 15%. Posse [Beyond the Mist] Draw 2 [Strike] cards. Mouchette: This turn, increases the number of times [Dramatic Encounter] deals damage by 1. ※ At Investigation Level Lv. 60. -------------------------------------- Translator Rambing: I wonder how she will pull helot back up... well support burst turn with helot will work, just about the Aliemus charge....Where to get them?? Edit：fixxed term sigil yeild  &#32; submitted by &#32;  /u/HAHA1216   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-01T12:46:21+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1w4aylc/jp_mouchette_skill_kits_wheel_and_special_key/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/HAHA1216",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Bound Covenants for support (borrowable) awakeners?",
+      "summary": "So, I have a bound dreams set for my arachne and I set her as my support awakener for other people to use. In the support screen, I don’t see that bound set as an option to equip or select for her. I can choose a different set if I want but I just want to know for sure if when someone uses my arachne they get to use the bound set or the equipped set. I can see an icon above the equipped set showing she has something bound, but the UI is confusing me a bit. Edit: Unequipping the set allows the bound set to be automatically equipped, thanks for the quick responses!  &#32; submitted by &#32;  /u/rvs2714   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-01T08:28:30+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1w45tb1/bound_covenants_for_support_borrowable_awakeners/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/rvs2714",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Arachne team suggestions",
+      "summary": "Recently got Arachne to E2 (still no WoD sadly) and i really want to use her with my AA Casiah. If i get lucky with the myriad banner i will hopefully get Castor but still i don&#39;t who to use as fourth slot, which i suppose it will be a keyflare bot therefore i was thinking about E1 Tawil but i rarely see her being used, let alone in an arachne team lmao  &#32; submitted by &#32;  /u/Fish_Far   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-01T13:42:50+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1w4cdu1/arachne_team_suggestions/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Fish_Far",
       "tags": [],
       "lang": "en",
       "platform_region": ""
