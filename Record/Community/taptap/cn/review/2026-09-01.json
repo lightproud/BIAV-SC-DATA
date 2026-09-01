@@ -1,8 +1,8 @@
 {
   "date": "2026-09-01",
-  "archived_at": "2026-09-01T13:56:19.160451+00:00",
+  "archived_at": "2026-09-01T18:09:52.109181+00:00",
   "source": "taptap",
-  "item_count": 57,
+  "item_count": 59,
   "items": [
     {
       "title": "美工厉害了天知道我看到这两张插画的震惊。抽卡嘛跟其他二游大差不差又或者说是我自己太非（bushi。。每一个卡池第一次出金",
@@ -738,6 +738,32 @@
       "source": "taptap_review",
       "time": "2026-09-01T13:55:36.701286+00:00",
       "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "来自 Android 设备",
+      "summary": "来自 Android 设备",
+      "source": "taptap_review",
+      "time": "2026-09-01T13:09:05.110847+00:00",
+      "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "来自 Android 设备",
+      "summary": "来自 Android 设备",
+      "source": "taptap_review",
+      "time": "2026-09-01T13:09:05.110871+00:00",
+      "url": "https://www.taptap.cn/review/50291998#to-reply",
       "engagement": 0,
       "is_hot": false,
       "author": "",

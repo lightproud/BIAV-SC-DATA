@@ -1,8 +1,8 @@
 {
   "date": "2026-09-01",
-  "archived_at": "2026-09-01T13:56:19.138840+00:00",
+  "archived_at": "2026-09-01T18:09:52.083886+00:00",
   "source": "steam",
-  "item_count": 8,
+  "item_count": 9,
   "items": [
     {
       "title": "[正面] Beautiful Art and Beautiful game to play.",
@@ -184,6 +184,29 @@
         "playtime_forever": 18725,
         "votes_up": 0,
         "timestamp_created": 1788257257
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] БОЖЕ МОЙ, ЭТО ЛУЧШЕЕ ЧТО СЛУЧАЛОСЬ СО МНОЙ ПОСЛЕ Р...",
+      "summary": "БОЖЕ МОЙ, ЭТО ЛУЧШЕЕ ЧТО СЛУЧАЛОСЬ СО МНОЙ ПОСЛЕ РЕВЕРСА.\nБезумно люблю и обожаю, надеюсь, что ребята не забросят, потому что оно стоит того на все сиксевен из сиксевен\nбезумно красивые дизайны, безумно приятный геймплей\nux, правда, иногда бесит НО ЭТО УЖЕ НЕВАЖНО, ПОТОМУ ЧТО КРАСИВО\nГУД ЛАК КИТАЙСКИ БРАТЬЯ",
+      "source": "steam_review",
+      "time": "2026-09-01T15:19:29+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199173918377/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199173918377",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 767,
+        "votes_up": 0,
+        "timestamp_created": 1788275969
       },
       "region": "global",
       "archive_subtype": "review"

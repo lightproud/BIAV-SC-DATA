@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-02",
+  "archived_at": "2026-09-01T18:09:52.113447+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] 忘却过去，请开始新的生活",
+      "summary": "忘却过去，请开始新的生活",
+      "source": "steam_review",
+      "time": "2026-09-01T16:55:12+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199677070547/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199677070547",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1510,
+        "votes_up": 0,
+        "timestamp_created": 1788281712
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
