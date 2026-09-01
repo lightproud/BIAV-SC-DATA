@@ -1,129 +1,248 @@
 {
   "date": "2026-09-01",
-  "messages": 314,
-  "unique_authors": 50,
-  "reactions_total": 13,
-  "attachments": 18,
+  "messages": 7714,
+  "unique_authors": 397,
+  "reactions_total": 1309,
+  "attachments": 460,
   "channel_activity": {
-    "🔸綜合討論": 10,
-    "🔸morimens-game-chat": 186,
-    "🔸canal-español": 6,
-    "🔸canal-português": 38,
-    "🔸ruang-obrolan-indonesia": 1,
-    "🔸ห้องสนทนาภาษาไทย": 2,
-    "🔸team-building": 6,
-    "🔸general-chat": 2,
-    "🔸game-question": 17,
+    "🔸綜合討論": 552,
+    "🔸morimens-game-chat": 2932,
+    "🔸剧情交流": 45,
+    "🔸晒卡分享": 1,
+    "🔸相位对弈": 4,
+    "🔸课间休息闲聊": 121,
+    "🔸交友频道": 4,
+    "🔸日本語チャンネル": 4,
+    "🔸한국어-채팅방": 8,
+    "🔸deutscher-chatraum": 1,
+    "🔸chaîne-française": 3,
+    "🔸русский-канал": 158,
+    "🔸phòng-chat-tiếng-việt": 86,
+    "🔸canal-español": 205,
+    "🔸canal-português": 129,
+    "🔸ruang-obrolan-indonesia": 281,
+    "🔸ห้องสนทนาภาษาไทย": 66,
+    "🔸traphase": 4,
+    "🔸lore-chat": 463,
+    "🔸lets-count": 1,
+    "🔸频道建议┊server-suggestions": 1,
+    "🔸team-building": 283,
+    "🔸general-chat": 325,
+    "🔸邀请码互助┊swap-invitation-codes": 3,
+    "🔸game-question": 1614,
+    "🔸游戏问题": 17,
+    "🔸机器人命令┊bot-commands": 14,
+    "Covenant unbinding": 1,
+    "關於蝕滅蘿坦及新融災，無解的設計限制可否再調整": 4,
+    "D-tide Feedback (New)": 22,
+    "無法獲得護盾效果表現形式不同之錯誤": 2,
+    "problem 7004006": 1,
+    "Jenkin the little rat": 8,
+    "D-tide Discussion": 239,
+    "Corposant and Last Verse \"Bugfix\"": 4,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
+    "Kill stealing, we could fix it": 1,
+    "Quadra / 4-Realm Rerun Banners": 1,
+    "Please rework how Propagation Caro works for the future units": 14,
+    "无愿的尖峰": 2,
+    "V2.6.0.3 在线维护公告": 2,
+    "【6/10】脚本/外挂账号的处理说明": 1,
+    "V2.5.1.0 停服维护公告": 9,
+    "部分唤醒体原型总结": 1,
+    "Preview: V2.6.X Adjustments Based on Community Feedback 2": 1,
+    "Preview: V2.6.X Gameplay & Rewards": 1,
+    "dump of my gf saying DIABOLICAL stuff abt mori chars": 3,
+    "I Drew Caraboo": 1,
+    "Hi are there any jenkins, 24, and Gdoll fanarts here 🥺🥺🥺": 1,
+    "liz liz liz liz.....": 1,
+    "Thais Doodle": 1,
+    "I NEED GDOLL CONTENT😭😭😭😭": 7,
+    "Lure's art log": 1,
+    "morimens team generator!!": 5,
+    "融災求助": 1,
+    "入坑三天新人": 11,
+    "New player, need advise on pull and team": 1,
     "某些常駐角色的+12推薦及心得": 1,
-    "Jenkin the little rat": 2,
-    "D-tide feedback": 40,
-    "Corposant and Last Verse \"Bugfix\"": 1,
-    "Please rework how Propagation Caro works for the future units": 1,
-    "V2.5.1.0 停服维护公告": 1
+    "D-tide feedback": 40
   },
   "hourly_activity": {
-    "0": 314
+    "0": 679,
+    "1": 975,
+    "2": 688,
+    "3": 889,
+    "4": 1354,
+    "5": 1117,
+    "6": 892,
+    "7": 825,
+    "8": 295
   },
   "message_types": {
-    "0": 242,
-    "19": 72
+    "0": 5548,
+    "19": 2145,
+    "20": 18,
+    "4": 2,
+    "6": 1
   },
   "top_reacted_messages": [
     {
-      "id": "1544134981964664982",
-      "channel_id": "1170692781216378960",
-      "content": "@biavstudios WHAT are u sending me man I just want nympheas wheel",
-      "author": "serahh__",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
+      "id": "1544154210977849424",
+      "channel_id": "1544152565921611837",
+      "content": "- The jump from Normal mode to Hard mode is WAY too much. A tenfold increase in ",
+      "author": "msmidc7",
+      "reactions": 47,
+      "channel": "D-tide Feedback (New)"
     },
     {
-      "id": "1544139682017845330",
+      "id": "1544154244146270258",
+      "channel_id": "1544152565921611837",
+      "content": "- Locking levelling rewards behind content you can not clear is completely dissu",
+      "author": "msmidc7",
+      "reactions": 44,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544154409674477658",
+      "channel_id": "1544152565921611837",
+      "content": "- There is no reasonable middle ground to the new difficulty changes. We went fr",
+      "author": "msmidc7",
+      "reactions": 44,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544154166614564864",
+      "channel_id": "1544152565921611837",
+      "content": "- New players can’t feasibly clear Normal mode in the time that it took them to ",
+      "author": "msmidc7",
+      "reactions": 42,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544154378330443858",
+      "channel_id": "1544152565921611837",
+      "content": "- Helot: Catena as a boss is way too over-tuned. The high amounts of HP and puni",
+      "author": "msmidc7",
+      "reactions": 41,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544154473553989746",
+      "channel_id": "1544152565921611837",
+      "content": "- People who normally did a3/a4 as their max clear have no home anymore. They ar",
+      "author": "msmidc7",
+      "reactions": 41,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544154338035896330",
+      "channel_id": "1544152565921611837",
+      "content": "- As seen from multiple clears it takes around 50-60 turns to clear some content",
+      "author": "msmidc7",
+      "reactions": 38,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544154501999759451",
+      "channel_id": "1544152565921611837",
+      "content": "- A lot of limited units at high investment can not clear this D-Zone. Not every",
+      "author": "msmidc7",
+      "reactions": 37,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544154279357448272",
+      "channel_id": "1544152565921611837",
+      "content": "- High spenders can barely clear nightmare/madness mode, which dissuades them fr",
+      "author": "msmidc7",
+      "reactions": 35,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544154539664482344",
+      "channel_id": "1544152565921611837",
+      "content": "- The ECOG/Gnosis has proven not to be a good balancing tool with the massive in",
+      "author": "msmidc7",
+      "reactions": 32,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544190649165811814",
+      "channel_id": "1544152565921611837",
+      "content": "## Poison/Counter cap. ##\n\nMax poison stack is around 200K-400K depending on you",
+      "author": "xyakoto",
+      "reactions": 22,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544165175471509707",
+      "channel_id": "1544152565921611837",
+      "content": "About Gnosis use\n\nUsing Gnosis in D-Zone was a good idea in principle, but the d",
+      "author": "fenris_oozz",
+      "reactions": 20,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544208937036021760",
+      "channel_id": "1544152565921611837",
+      "content": "1. BIAV clearly introduced these changes to force players to spend more, but mar",
+      "author": "bu0465_15110",
+      "reactions": 20,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544173261993287721",
+      "channel_id": "1544152565921611837",
+      "content": "1. Another thing that really worries me is the environment-specific design for n",
+      "author": "fenris_oozz",
+      "reactions": 19,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544164830871560242",
+      "channel_id": "1544152565921611837",
+      "content": "Many of the carries in this game are incapable of reaching the damage requiremen",
+      "author": "wuyan_kana",
+      "reactions": 18,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544166133521711134",
+      "channel_id": "1544152565921611837",
+      "content": "My feedback on the three biggest issues I have with the new DTide changes. \n\nI a",
+      "author": "kqtie7505",
+      "reactions": 16,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544152565921611837",
+      "channel_id": "1544152565921611837",
+      "content": "Apologises, please provide your feedback here instead. \n\nKindly post your discus",
+      "author": "angbak",
+      "reactions": 14,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544156896993222736",
+      "channel_id": "1544152565921611837",
+      "content": "Proposed changes to Ghelot boss:\n\nOnly gain fervor on the turns shes using the c",
+      "author": "polkarain",
+      "reactions": 12,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544203910271475804",
       "channel_id": "1131839817982947429",
-      "content": "你赶紧也打一个给我看看<:Lily_wow:1356084702468899117>",
+      "content": "阿临是区，破防",
       "author": "sweet_25367",
-      "reactions": 1,
+      "reactions": 10,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1544135787749314721",
-      "channel_id": "1170692781216378960",
-      "content": "It s gonna take a while...",
-      "author": "gugali",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544135795470770327",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "aerisvibing",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544137090919309402",
-      "channel_id": "1170692781216378960",
-      "content": "Might have to reset my w1 madness",
-      "author": "guava3442",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544137830266183810",
-      "channel_id": "1170692781216378960",
-      "content": "i still play",
-      "author": "arisuu0604",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544138136601497700",
-      "channel_id": "1170692781216378960",
-      "content": "Can't even clear w5 hard",
-      "author": "guava3442",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544138709723783249",
-      "channel_id": "1170692781216378960",
-      "content": "https://tenor.com/view/cat-cat-bubble-sealed-away-forever-gif-25826821",
-      "author": "amirganj",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544139227070079036",
-      "channel_id": "1170692781216378960",
-      "content": "Hi rain can I tell you about the injustices of jenkin’s kit and why biav hates h",
-      "author": "fishhazardthewizard",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544140398232862821",
-      "channel_id": "1170692781216378960",
-      "content": "Dont hesitate to listen to the best tide guide maker morimens ever had and borro",
-      "author": "katal",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544141293322637453",
-      "channel_id": "1170692781216378960",
-      "content": "people have done madness with it but idk your level of investment",
-      "author": "cornonthemacabre_",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544136141408706581",
-      "channel_id": "1300659718653476925",
-      "content": "YouBelievedInMorimens",
-      "author": "mushisho",
-      "reactions": 1,
-      "channel": "🔸canal-português"
+      "id": "1544188468232585276",
+      "channel_id": "1326453763355185215",
+      "content": "this is lorechat wtf is a meta",
+      "author": "nikolazuli",
+      "reactions": 10,
+      "channel": "🔸lore-chat"
     }
   ]
 }
