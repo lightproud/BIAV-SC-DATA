@@ -1,8 +1,8 @@
 {
   "date": "2026-08-31",
-  "archived_at": "2026-09-01T00:23:46.324647+00:00",
+  "archived_at": "2026-09-01T08:18:09.559513+00:00",
   "source": "bilibili",
-  "item_count": 13,
+  "item_count": 14,
   "items": [
     {
       "title": "【忘却前夜】第一期癫狂容灾纪念(挑战525中)",
@@ -104,6 +104,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/98e2e4a58a805357368e242a36b1a5422a701afd.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】新融灾490",
+      "summary": "4-7打力竭了，没有+1224和血希实在没法打，只能出一队4-6神国了，键帽真是欠艹了",
+      "source": "bilibili",
+      "time": "2026-08-31T14:25:39+00:00",
+      "url": "https://www.bilibili.com/video/av117190565105980",
+      "engagement": 237,
+      "is_hot": false,
+      "author": "星咏ようむ",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/7d0f682816e169bd7e9626666b2bea27a34aa5fe.jpg",
       "content_type": "video"
     },
     {

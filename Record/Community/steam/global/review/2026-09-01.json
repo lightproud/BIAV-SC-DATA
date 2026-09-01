@@ -1,9 +1,32 @@
 {
   "date": "2026-09-01",
-  "archived_at": "2026-09-01T00:23:46.419843+00:00",
+  "archived_at": "2026-09-01T08:18:09.597010+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 7,
   "items": [
+    {
+      "title": "[正面] Beautiful Art and Beautiful game to play.",
+      "summary": "Beautiful Art and Beautiful game to play.",
+      "source": "steam_review",
+      "time": "2026-09-01T01:22:21+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198001091829/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198001091829",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 27,
+        "votes_up": 1,
+        "timestamp_created": 1788225741
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[正面] For an f2p experience this is currently sitting wi...",
       "summary": "For an f2p experience this is currently sitting within my top 3 gacha games. I've been using a story guide so I can know what to experience chronologically since the game doesn't really give the greatest order on that. The story is to my liking though. The gameplay is also very fun. I love that you can mix and match teams to your liking and create your very own abomination. This also probably one of the most generous gacha's I've played. The devs really do give out a plethora of rewards very very often. I'm very much enjoying my experience and I'll continue playing for the foreseeable future.",
@@ -46,6 +69,98 @@
         "playtime_forever": 16896,
         "votes_up": 0,
         "timestamp_created": 1788210774
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 不推荐，太能骗氪。新的融灾更新更是让人窒息。",
+      "summary": "不推荐，太能骗氪。新的融灾更新更是让人窒息。",
+      "source": "steam_review",
+      "time": "2026-09-01T05:51:54+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198098857637/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198098857637",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 12530,
+        "votes_up": 0,
+        "timestamp_created": 1788241914
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Great story, fun mechanics. Though it is a gacha,...",
+      "summary": "Great story, fun mechanics. Though it is a gacha, the developers are VERY generous. Keeps me coming back most days.",
+      "source": "steam_review",
+      "time": "2026-09-01T05:51:11+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198006012963/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198006012963",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3629,
+        "votes_up": 0,
+        "timestamp_created": 1788241871
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 出一下原画设定集，赶紧。别哪天被剑帽运营似了我买不到。你游现在能让我玩下去的第一美术，第二玩法，但是...",
+      "summary": "出一下原画设定集，赶紧。别哪天被剑帽运营似了我买不到。你游现在能让我玩下去的第一美术，第二玩法，但是我喜欢玩法为什么不去玩塔。剑帽你赶紧和安东尼一起趋势得了",
+      "source": "steam_review",
+      "time": "2026-09-01T01:41:12+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199756210428/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199756210428",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 35338,
+        "votes_up": 0,
+        "timestamp_created": 1788226872
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Um jogo rpg de turno realmente fantastico",
+      "summary": "Um jogo rpg de turno realmente fantastico",
+      "source": "steam_review",
+      "time": "2026-09-01T00:15:51+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199273961766/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199273961766",
+      "tags": [
+        "brazilian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 122,
+        "votes_up": 0,
+        "timestamp_created": 1788221751
       },
       "region": "global",
       "archive_subtype": "review"

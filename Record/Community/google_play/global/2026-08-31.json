@@ -1,8 +1,8 @@
 {
   "date": "2026-08-31",
-  "archived_at": "2026-09-01T00:23:46.514498+00:00",
+  "archived_at": "2026-09-01T08:18:09.697021+00:00",
   "source": "google_play",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
     {
       "title": "[Google Play 好评] ★5 로그라이크 카드게임",
@@ -55,6 +55,34 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Hkfzz06_",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 เกมดีแต่เรทออกตัวระดับนรกแตกสุ่มตู้ตัวละ",
+      "summary": "เกมดีแต่เรทออกตัวระดับนรกแตกสุ่มตู้ตัวละครออกทองมา3-4รอบมีแต่การ์ดตัวละคร ตัวละครละอยู่ไหน",
+      "source": "google_play",
+      "time": "2026-08-31T06:47:38",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=th#gp-bc45425c-d65e-4f60-ae09-8a9d56383af4",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Amiya kun",
+      "tags": [],
+      "lang": "th",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 10/10 me encantó todo",
+      "summary": "10/10 me encantó todo",
+      "source": "google_play",
+      "time": "2026-08-31T04:19:48",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-9f6f0cff-15a5-4e89-a478-6e5161e79504",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Val Venegas",
       "tags": [],
       "lang": "es",
       "platform_region": "",

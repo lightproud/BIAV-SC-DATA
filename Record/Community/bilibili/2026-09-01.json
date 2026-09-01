@@ -1,9 +1,26 @@
 {
   "date": "2026-09-01",
-  "archived_at": "2026-09-01T00:23:46.325834+00:00",
+  "archived_at": "2026-09-01T08:18:09.558811+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 18,
   "items": [
+    {
+      "title": "【忘却前夜】8.31-9.13容灾攻略",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-01T07:38:28+00:00",
+      "url": "https://www.bilibili.com/video/av117194625127654",
+      "engagement": 777,
+      "is_hot": false,
+      "author": "金发女人丨型",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/81a855ee70094498b2b1991e486a17f2af8d31f0.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】8.31-9.14新融灾第一期450无灵知个人记录（防瓜、鸟弟、庞卡、莫丝，本次融灾不是我打的）",
       "summary": "不想先去体验膨胀的数值，所以第一期找人打了，顺便看一下我的账号大概能打多少\n新融灾非常吃单队练度，以及防杀队堂堂崛起，数值膨胀太厉害，光锥已经人手一个了\n普通攻杀的队伍非法则在n6n7数值不够看\n不过说一下，如果和以前一样打400低保还是可以全打困难就行，就是没法拼好队了\n总的来说就是水快把我淹死喵了\n3图推荐试试固伤队，逃课奇效，庞卡实在是太……呃……太苟了",
@@ -19,6 +36,261 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/704ad46ab4de2a041024752c1f380385f795f1d8.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜新融灾七宗罪",
+      "summary": "xm长命百岁，算了，xm货权甲",
+      "source": "bilibili",
+      "time": "2026-09-01T04:02:00+00:00",
+      "url": "https://www.bilibili.com/video/av117191370348605",
+      "engagement": 252,
+      "is_hot": false,
+      "author": "无生持",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/1180ae4c74f3228d4e353103093cc3f58c60d7a3.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜 磨半天的 新融灾5-4血希",
+      "summary": "打得头有点晕\n我有巨物恐惧症\n看到对面的大数值就吓得昏倒在地了\n\n背景音乐：Seycara - &quot;Sey-chan&#x27;s Waltz&quot;",
+      "source": "bilibili",
+      "time": "2026-08-31T17:46:31+00:00",
+      "url": "https://www.bilibili.com/video/av117191336794356",
+      "engagement": 186,
+      "is_hot": false,
+      "author": "夢遊遊遊遊",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/5463fadb9d5becc77354a4be4f672cc4b5070344.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜/调查行动】山宴Part15 谎言同盟",
+      "summary": "天呐又是我们人美心善古道热心的遛弯大爷n叔叔！\n原来是命运女神为两个丈育区区指引来了高等教育人才",
+      "source": "bilibili",
+      "time": "2026-09-01T03:14:24+00:00",
+      "url": "https://www.bilibili.com/video/av117193585334375",
+      "engagement": 157,
+      "is_hot": false,
+      "author": "赛博山头渔夫",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/41a7363deefd5431247faa0bc461633823f575f4.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜/调查行动】山宴Part16 无愿的尖峰",
+      "summary": "白月光哥你复活罢✋✋\n我是区我是区我是区我是区，打得我要菠萝菠萝哒",
+      "source": "bilibili",
+      "time": "2026-09-01T05:08:06+00:00",
+      "url": "https://www.bilibili.com/video/av117194037925935",
+      "engagement": 143,
+      "is_hot": false,
+      "author": "赛博山头渔夫",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/3cb76a804ab5b26d8c7cd1c6c6e345e9dcb2ec54.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】混沌之域  间隙Ⅲ~Ⅳ",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-08-31T16:15:26+00:00",
+      "url": "https://www.bilibili.com/video/av117190967692537",
+      "engagement": 131,
+      "is_hot": false,
+      "author": "闭月梦",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/755633bc671fc4aecc6bff347b58001cffb75512.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "新融灾首日2灵芝430分，打死我也不想再打了",
+      "summary": "我曹了密码的校猫，这个新融灾真极霸恶心吧，打了一整天给我脑袋都打得不清醒了。纯纯够使，融灾一开我就赶着来吃这一坨我也是佩服自己\n第五波最恶心，史诗级膨胀，第一段就有2000k血，超高伤害，血希超神机制1t能打几k血，看来正经加强也是加强到对面去了。还好我带的是拉布布喔，进门还有3k+血，还有大盾拿，要是带别的队友不知道被殴打成啥样。莫丝确实牛逼，还好当初没有给跳了\n这个配置的鸟弟也能打n6，不过也就打打24了，用24发的小卡片蹲几回合就赢了，还没赢的话爆一次死扛也赢了，这还不赢就是配置有问题了。至于道中怎",
+      "source": "bilibili",
+      "time": "2026-08-31T16:07:48+00:00",
+      "url": "https://www.bilibili.com/video/av117190967695396",
+      "engagement": 125,
+      "is_hot": false,
+      "author": "娃娃机小硬币",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/7538d4e529ae3451d5dbe65fca9ad5805f30cd26.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜/调查行动】山宴Part17 大梦",
+      "summary": "哇塞神国直通车！",
+      "source": "bilibili",
+      "time": "2026-09-01T05:09:48+00:00",
+      "url": "https://www.bilibili.com/video/av117194037926094",
+      "engagement": 118,
+      "is_hot": false,
+      "author": "赛博山头渔夫",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/a33a606fa9ad12982580cf96777df6cc6e921042.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】星辰篇主线6-16无愿的尖峰通关记录",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-01T06:33:51+00:00",
+      "url": "https://www.bilibili.com/video/av117194373466222",
+      "engagement": 113,
+      "is_hot": false,
+      "author": "嘎啦嘎啦果",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/9ef942f15880b3f112662a0d2cfed3291be266f9.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜/调查行动】山宴Part13 宴中人",
+      "summary": "我草对的对的对的对的背刺全都对了谁能懂我😋😋😋😋😋😋😋",
+      "source": "bilibili",
+      "time": "2026-09-01T03:00:17+00:00",
+      "url": "https://www.bilibili.com/video/av117193534676302",
+      "engagement": 112,
+      "is_hot": false,
+      "author": "赛博山头渔夫",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/fe729eb43d0a97d75aaa0079ac32657fe5992aa3.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜/调查行动】山宴Part14 另一种春天",
+      "summary": "一念之差天差地别呀",
+      "source": "bilibili",
+      "time": "2026-09-01T03:05:41+00:00",
+      "url": "https://www.bilibili.com/video/av117193551386560",
+      "engagement": 109,
+      "is_hot": false,
+      "author": "赛博山头渔夫",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/e25358e43882935d34fae1d3ebf26801a48c8df1.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "首次融灾改版480记录，会尝试更高分，评论区持续更新观战复制码",
+      "summary": "校🐱你自己看看那个4-7和5-7还是人类吗？",
+      "source": "bilibili",
+      "time": "2026-09-01T03:06:45+00:00",
+      "url": "https://www.bilibili.com/video/av117193568356917",
+      "engagement": 103,
+      "is_hot": false,
+      "author": "Coliner_",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/9ff7c80c3ad86b276cc9b607f8b70ced93179c51.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜/调查行动】山宴Part12 七节命运",
+      "summary": "我草对的对的对的对的这小骗子太帅了谁能懂我😋😋😋😋",
+      "source": "bilibili",
+      "time": "2026-09-01T02:46:27+00:00",
+      "url": "https://www.bilibili.com/video/av117193484279659",
+      "engagement": 90,
+      "is_hot": false,
+      "author": "赛博山头渔夫",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/8a4d1e1ea0ac713dae3e4b38f5b6800092893f63.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜/调查行动】山宴Part11 逆向",
+      "summary": "未亡人",
+      "source": "bilibili",
+      "time": "2026-09-01T02:27:32+00:00",
+      "url": "https://www.bilibili.com/video/av117193417168646",
+      "engagement": 84,
+      "is_hot": false,
+      "author": "赛博山头渔夫",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/8a288c596f5db58c82fb5acf1caf66369de27f03.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜/调查行动】山宴Part10 先行者",
+      "summary": "学长入机解说前情提要笑死我了啊",
+      "source": "bilibili",
+      "time": "2026-09-01T02:16:51+00:00",
+      "url": "https://www.bilibili.com/video/av117193350125535",
+      "engagement": 80,
+      "is_hot": false,
+      "author": "赛博山头渔夫",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/bc76281fae90073b3e7079e93a8e893ad427a776.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜首期融灾470留念",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-01T05:10:05+00:00",
+      "url": "https://www.bilibili.com/video/av117194054763805",
+      "engagement": 30,
+      "is_hot": false,
+      "author": "雾汐Mistide",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/64e991a2cc256698ea5888382c233a48ec8af058.jpg",
       "content_type": "video"
     },
     {
