@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-02",
+  "archived_at": "2026-09-01T23:00:57.738612+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam论坛] Is Pollux worth it?",
+      "summary": "Is it worth investing my monthly dupe thingies on Pollux(currently E1) if I already have an OE Jenkins? I'm currently running jenkins with castor/arachme/horla and wondering if a high investment pollux would be better than her",
+      "source": "steam_discussion",
+      "time": "2026-09-01T20:04:38+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591814056255650541/",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "DingusDork",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}

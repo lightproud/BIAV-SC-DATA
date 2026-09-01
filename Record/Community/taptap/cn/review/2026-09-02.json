@@ -1,8 +1,8 @@
 {
   "date": "2026-09-02",
-  "archived_at": "2026-09-01T18:09:52.108468+00:00",
+  "archived_at": "2026-09-01T23:00:57.816046+00:00",
   "source": "taptap",
-  "item_count": 13,
+  "item_count": 18,
   "items": [
     {
       "title": "游戏的玩法是有的，刚玩那几天很上头。\n优点是:日常还有各种活动都不是很肝，没有那种紧迫性，想玩就玩，不想玩了就不玩，日常",
@@ -169,6 +169,71 @@
       "engagement": 0,
       "is_hot": false,
       "author": "咕咕嘎嘎",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "展开",
+      "summary": "展开",
+      "source": "taptap_review",
+      "time": "2026-09-01T23:00:18.767333+00:00",
+      "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "来自 Vivo X100",
+      "summary": "来自 Vivo X100",
+      "source": "taptap_review",
+      "time": "2026-09-01T23:00:18.767489+00:00",
+      "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "来自 Web 官网",
+      "summary": "来自 Web 官网",
+      "source": "taptap_review",
+      "time": "2026-09-01T23:00:18.767690+00:00",
+      "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "4",
+      "summary": "4",
+      "source": "taptap_review",
+      "time": "2026-09-01T23:00:18.767732+00:00",
+      "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "5",
+      "summary": "5",
+      "source": "taptap_review",
+      "time": "2026-09-01T23:00:18.767868+00:00",
+      "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
       "tags": [],
       "lang": "zh",
       "platform_region": ""

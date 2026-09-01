@@ -1,9 +1,26 @@
 {
   "date": "2026-09-02",
-  "archived_at": "2026-09-01T18:09:52.040684+00:00",
+  "archived_at": "2026-09-01T23:00:57.726558+00:00",
   "source": "bilibili",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
+    {
+      "title": "【忘却前夜】星辰篇主线 H6-10 无愿的尖峰无灵芝 通关记录",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-01T18:13:42+00:00",
+      "url": "https://www.bilibili.com/video/av117197124996240",
+      "engagement": 127,
+      "is_hot": false,
+      "author": "嘎啦嘎啦果",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/6fea6927df25faa5c1ff02d392dbba2a70fca4c2.jpg",
+      "content_type": "video"
+    },
     {
       "title": "［忘却前夜］h6-10三星无灵芝 索蕾尔展示你真正的女性魅力吧！",
       "summary": "",
