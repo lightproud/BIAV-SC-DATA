@@ -1,8 +1,8 @@
 {
   "date": "2026-09-01",
-  "archived_at": "2026-09-01T23:00:57.723845+00:00",
+  "archived_at": "2026-09-02T02:48:50.358039+00:00",
   "source": "bilibili",
-  "item_count": 29,
+  "item_count": 30,
   "items": [
     {
       "title": "【忘却前夜】8.31-9.13容灾攻略",
@@ -308,6 +308,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/e25358e43882935d34fae1d3ebf26801a48c8df1.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】H6-10无死扛",
+      "summary": "大蛆感觉不如融灾血希一根，随便打打1T就秒了2阶段，最快可能能打2T，我们四辅就是要抱团互拐踢掉所有输出型呀",
+      "source": "bilibili",
+      "time": "2026-09-01T12:22:00+00:00",
+      "url": "https://www.bilibili.com/video/av117195732424170",
+      "engagement": 104,
+      "is_hot": false,
+      "author": "星咏ようむ",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/12065a9335cda2e6c53992ca4139d62afdec0fc9.jpg",
       "content_type": "video"
     },
     {

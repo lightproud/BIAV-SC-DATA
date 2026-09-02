@@ -1,8 +1,8 @@
 {
   "date": "2026-09-02",
-  "archived_at": "2026-09-01T23:00:57.738612+00:00",
+  "archived_at": "2026-09-02T02:48:50.370962+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Steam论坛] Is Pollux worth it?",
@@ -13,6 +13,23 @@
       "engagement": 5,
       "is_hot": false,
       "author": "DingusDork",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] BRUUUUUUUH",
+      "summary": "Corrosion no longer damages through the 'basic' immunity...\nCorrection - no, i'm dumb, devs applied specific type of immunity to fifth event battle's boss.",
+      "source": "steam_discussion",
+      "time": "2026-09-02T02:22:15+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591813764140191334/",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "N-Zero",
       "tags": [
         "steam_forum"
       ],

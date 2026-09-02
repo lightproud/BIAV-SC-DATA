@@ -1,8 +1,8 @@
 {
   "date": "2026-09-02",
-  "archived_at": "2026-09-01T23:00:57.724658+00:00",
+  "archived_at": "2026-09-02T02:48:50.356129+00:00",
   "source": "youtube",
-  "item_count": 3,
+  "item_count": 6,
   "items": [
     {
       "title": "DESCUBRÍ EL GACHA DE HORROR CÓSMICO DEFINITIVO",
@@ -39,6 +39,40 @@
       "archive_subtype": "video"
     },
     {
+      "title": "忘却前夜　融災すべりこみ",
+      "summary": "今回も普通にキツい.",
+      "source": "youtube",
+      "time": "2026-09-01T23:24:46Z",
+      "url": "https://www.youtube.com/watch?v=3IqUBbXDy-A",
+      "engagement": 86,
+      "is_hot": false,
+      "author": "たこに名前を入力",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/3IqUBbXDy-A/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】星辰編行くぞ！【星辰編１章】",
+      "summary": "あっこからどうなんの？？？？？？？？？？？？？？？？？？？？？？？？ Twitter(X)→https://x.com/to_m4fuyu.",
+      "source": "youtube",
+      "time": "2026-09-02T01:59:39Z",
+      "url": "https://www.youtube.com/watch?v=ngppFKsB55c",
+      "engagement": 83,
+      "is_hot": false,
+      "author": "to真冬",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/ngppFKsB55c/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Directo relax Morimens.",
       "summary": "No olviden unirse al discord :). https://discord.gg/UgmMCae3Sg.",
       "source": "youtube",
@@ -51,6 +85,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/OisVfQ7i8cc/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【Morimens】D-tides 475 融灾禁区（8.31-9.14）",
+      "summary": "morimens #忘却前夜.",
+      "source": "youtube",
+      "time": "2026-09-02T02:13:35Z",
+      "url": "https://www.youtube.com/watch?v=VX8A1anxTSc",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ぽんぽん",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/VX8A1anxTSc/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
