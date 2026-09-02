@@ -1,8 +1,8 @@
 {
   "date": "2026-09-02",
-  "archived_at": "2026-09-02T07:37:48.068031+00:00",
+  "archived_at": "2026-09-02T13:14:24.788866+00:00",
   "source": "bahamut",
-  "item_count": 21,
+  "item_count": 22,
   "items": [
     {
       "title": "【閒聊】+12銀芯通訊分享(尚缺：墨菲、皮克曼)",
@@ -52,6 +52,19 @@
       "engagement": 48,
       "is_hot": false,
       "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【討論】超高血量融災討論",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-02T13:13:20.466413+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1559&tnum=6",
+      "engagement": 47,
+      "is_hot": false,
+      "author": "hhe02547783",
       "tags": [],
       "lang": "zh",
       "platform_region": ""

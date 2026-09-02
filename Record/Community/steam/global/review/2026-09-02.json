@@ -1,8 +1,8 @@
 {
   "date": "2026-09-02",
-  "archived_at": "2026-09-02T07:37:48.076644+00:00",
+  "archived_at": "2026-09-02T13:14:24.795657+00:00",
   "source": "steam",
-  "item_count": 24,
+  "item_count": 31,
   "items": [
     {
       "title": "[负面] 지금 이글을 보고있다면 절대로 유입되지 말것\n\n2주만에 엔드컨텐츠 인플레가 10배가왔고\n기...",
@@ -373,6 +373,98 @@
       "archive_subtype": "review"
     },
     {
+      "title": "[负面] 좋은말로 할때 융재 롤백해라",
+      "summary": "좋은말로 할때 융재 롤백해라",
+      "source": "steam_review",
+      "time": "2026-09-02T11:40:37+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198127119509/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198127119509",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 16661,
+        "votes_up": 1,
+        "timestamp_created": 1788349237
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 게임이 이상해졌어요\r\n패치 후 렉이 엄청 심해져서 장기간 플레이가 불가능하고\r\n엔드 컨텐츠...",
+      "summary": "게임이 이상해졌어요\r\n패치 후 렉이 엄청 심해져서 장기간 플레이가 불가능하고\r\n엔드 컨텐츠의 난이도가 말도 안되게 올라가서 기존에 플레이핟너 것보다 낮은 난이도로 플레이해도 될까말까인 수준\r\n뭔가 망가졌어.....",
+      "source": "steam_review",
+      "time": "2026-09-02T10:16:31+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198046810171/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198046810171",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 13474,
+        "votes_up": 1,
+        "timestamp_created": 1788344191
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 신규 컨텐츠를 게임 2년 이상 한 핵과금들 기준으로 만드는 미친 돈미새들입니다\n한 달 동안...",
+      "summary": "신규 컨텐츠를 게임 2년 이상 한 핵과금들 기준으로 만드는 미친 돈미새들입니다\n한 달 동안 100만원 정도 쓴 저는 감히 따라갈 엄두도 못 내겠네요\n더 시간 낭비하게 되기 전에 탈출합니다",
+      "source": "steam_review",
+      "time": "2026-09-02T08:55:19+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199018533977/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561199018533977",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 13128,
+        "votes_up": 1,
+        "timestamp_created": 1788339319
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I don't know where to begin.. Absolutely atrocious...",
+      "summary": "I don't know where to begin.. Absolutely atrocious update in so many levels. \n\n1. New D-Tide stat check and difficulty spike is so mindbogglingly stupid, I really have doubts the devs actually play and test the game. It's so bad that even the whales are infuriated with this update. This update practically killed build crafting and funneled the team comp to only select characters, not to mention the insanity of the dmg and HP bloat, like genuinely insane level of bloat. If this is your answer to \"+12 AA will not affect future difficulties\" then eat a bag of rocks, man. All those apologies and promises, for a small indie team the dev sure acts like a AAA one, in a bad way.\n\n2. Corposant, or rather Horla's WoD interaction with Corposant \"bugfix\". Right, bugfix. So it's not technically a nerf but bugfix so you can't really compensate players anything like the game told you, so if this is the case then what should I expect for the future if you can just label this nerf as \"bugfix\" and call it a day. I'm just speaking about this ambiguity, not even talking about the absolute crap that is the nerf itself. This Corpo + Horla's WoD combo has been in the game for so long, I don't believe you only know about this.. \"bug\" recently. And the fact that this stuff came out AFTER her rerun is downright evil. \n\n3. Affinity system grind becoming an absolute slog. Don't know what else to say. \n\n4. Lastly, the way you guys are handling community's feedback, and keep promising stuff, only to deliver this absolute pathetic update before rolling back and conjuring an apology speech again, and again, and again is TIRING. It's becoming a pattern now, and truthfully I don't find any of the apology and promise genuine after the n-th times you guys did it. I always recommend Morimens for the fun build crafting and pretty interesting story, but as it is I don't think I even wanna go back to the game let alone recommending it to people. I'm out.",
+      "source": "steam_review",
+      "time": "2026-09-02T08:26:36+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198985309048/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198985309048",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 8582,
+        "votes_up": 1,
+        "timestamp_created": 1788337596
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
       "title": "[正面] 忘却过去，请开始新的生活",
       "summary": "忘却过去，请开始新的生活",
       "source": "steam_review",
@@ -552,6 +644,75 @@
         "playtime_forever": 219,
         "votes_up": 0,
         "timestamp_created": 1788319021
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Fix your game damn.",
+      "summary": "Fix your game damn.",
+      "source": "steam_review",
+      "time": "2026-09-02T12:25:17+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198145980479/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198145980479",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 30397,
+        "votes_up": 0,
+        "timestamp_created": 1788351917
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 융재 돌려라 뒤지기싫으면 1급도 안깨진다 개새들아",
+      "summary": "융재 돌려라 뒤지기싫으면 1급도 안깨진다 개새들아",
+      "source": "steam_review",
+      "time": "2026-09-02T12:09:07+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198406612110/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198406612110",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 26653,
+        "votes_up": 0,
+        "timestamp_created": 1788350947
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 策划有木了，本来融灾终于追到400一挡了，还没养到稳定拿呢，一波膨胀直接给我踹飞了，现在打个350都...",
+      "summary": "策划有木了，本来融灾终于追到400一挡了，还没养到稳定拿呢，一波膨胀直接给我踹飞了，现在打个350都费劲，谁信他那套“啊原先档位难度不会变”之类的说辞也是这辈子有了，融5那一个β银芯固化吞我神国一半爆发不说输出和血量还跟着涨，新出的小怪还是boss，要机制有机制要数值有数值，合着我养半天角色养到怪身上了是吧，之前都说血希是区，现在血希跳槽到对面一个锁链+链球把我拍飞了",
+      "source": "steam_review",
+      "time": "2026-09-02T11:53:21+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199552278450/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199552278450",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 24903,
+        "votes_up": 0,
+        "timestamp_created": 1788350001
       },
       "region": "global",
       "archive_subtype": "review"

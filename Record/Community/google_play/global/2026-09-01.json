@@ -1,8 +1,8 @@
 {
   "date": "2026-09-01",
-  "archived_at": "2026-09-02T07:37:48.203979+00:00",
+  "archived_at": "2026-09-02T13:14:24.933939+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 존잼임. 덱 빌딩의 맛이 있고 하드 모드 난이도도 좀 있음. 인플레 좀",
@@ -15,6 +15,20 @@
       "author": "kim rey",
       "tags": [],
       "lang": "ko",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 never been that much hooked on a gatcha",
+      "summary": "never been that much hooked on a gatcha Lovecraft ~ interesting story very cool character design and not only female gooner characters , also SP versions are Canon rogue like fun and deep gameplay very satisfying when combination of characters workout no elemental system ~ but every character belongs to a realm that has its own mechanic, up to two can be combined also it's very easy to pull characters, but u can have up to 12 dupes to unlock full potential. give it a try !",
+      "source": "google_play",
+      "time": "2026-09-01T10:21:06",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=de#gp-7231d79a-6fa6-4253-bc6f-3b5769f9fa70",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Tobias Asendorf",
+      "tags": [],
+      "lang": "de",
       "platform_region": "",
       "region": "global"
     }
