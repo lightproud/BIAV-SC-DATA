@@ -1,8 +1,8 @@
 {
   "date": "2026-09-02",
-  "archived_at": "2026-09-02T18:26:14.127188+00:00",
+  "archived_at": "2026-09-02T22:59:23.497070+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 really enjoyable game with interesting p",
@@ -13,6 +13,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Bittexu",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 I really love this game, ever since turn",
+      "summary": "I really love this game, ever since turn based gacha games or any gacha game in general got released, nothing can compare to this level of storytelling and the matches make me actually think my next move. I hope you keep going devs since you're awesomeeeee! other notes are: I really love the charcters and designs, the UI's too this game has it all!",
+      "source": "google_play",
+      "time": "2026-09-01T19:48:48",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-2036497c-6107-421f-afe4-1236620e3b1d",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "aldrian paul francisco",
       "tags": [],
       "lang": "en",
       "platform_region": "",

@@ -1,9 +1,43 @@
 {
   "date": "2026-09-03",
-  "archived_at": "2026-09-02T18:26:13.994840+00:00",
+  "archived_at": "2026-09-02T22:59:23.341909+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
+    {
+      "title": "啥比校猫看看你整出来的什么贵物😅",
+      "summary": "你说的对，但是这就是血链·希洛。血量1400万，银芯固化，除觉醒外所有意图都是攻击，伤害转出血，出血每回合只减半，还有禁止获得护盾，链球免疫加回血，出一张牌2层狂热，敢出6张牌就啊啊啊啊啊啊！！！",
+      "source": "bilibili",
+      "time": "2026-09-02T16:38:10+00:00",
+      "url": "https://www.bilibili.com/video/av117202359422133",
+      "engagement": 106,
+      "is_hot": false,
+      "author": "普崔塞德",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/b2a9ebac741e4094bbd7adff7e96646a3f817753.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【抽奖】1000粉了，随便聊聊",
+      "summary": "感谢我的所有粉丝们捏~❤️",
+      "source": "bilibili",
+      "time": "2026-09-02T18:37:29+00:00",
+      "url": "https://www.bilibili.com/video/av117202862743501",
+      "engagement": 76,
+      "is_hot": false,
+      "author": "花岚天音Amane",
+      "tags": [
+        "桌游棋牌"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/0b0145f4c275070a18e5f8620134841feabc2381.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】温卡诞船融灾禁区癫狂4墨菲",
       "summary": "船神来了",
