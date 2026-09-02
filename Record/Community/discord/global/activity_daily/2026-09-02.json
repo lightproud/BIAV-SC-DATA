@@ -1,54 +1,96 @@
 {
   "date": "2026-09-02",
-  "messages": 2673,
-  "unique_authors": 175,
-  "reactions_total": 323,
-  "attachments": 106,
+  "messages": 10208,
+  "unique_authors": 346,
+  "reactions_total": 1329,
+  "attachments": 522,
   "channel_activity": {
-    "🔸綜合討論": 56,
-    "🔸morimens-game-chat": 1846,
-    "🔸课间休息闲聊": 9,
-    "🔸한국어-채팅방": 2,
+    "🔸綜合討論": 605,
+    "🔸阵容构建": 61,
+    "🔸morimens-game-chat": 5428,
+    "🔸剧情交流": 1,
+    "🔸欢乐梗图": 4,
+    "🔸相位对弈": 5,
+    "🔸课间休息闲聊": 47,
+    "🔸日本語チャンネル": 2,
+    "🔸한국어-채팅방": 13,
+    "🔸русский-канал": 294,
+    "🔸phòng-chat-tiếng-việt": 286,
+    "🔸canal-español": 99,
+    "🔸canal-português": 7,
+    "🔸ruang-obrolan-indonesia": 273,
+    "🔸ห้องสนทนาภาษาไทย": 35,
+    "🔸traphase": 3,
+    "🔸lore-chat": 87,
+    "🔸team-building": 161,
+    "🔸general-chat": 465,
+    "🔸邀请码互助┊swap-invitation-codes": 2,
+    "🔸game-question": 1834,
+    "🔸机器人命令┊bot-commands": 16,
+    "Half of my assignments disappeared": 5,
+    "关于老角色平衡问题": 1,
+    "Can't log into Morimens on Steam, stuck on trying to load the User Account Center": 6,
+    "Pls listen to the community (long post warning)": 8,
+    "龐托斯牌庫顯示問題": 1,
+    "月末提醒橫幅": 1,
+    "無法獲得護盾效果表現形式不同之錯誤": 2,
+    "这游戏还有玩下去的意义吗": 7,
+    "problem 7004006": 1,
+    "Jenkin the little rat": 15,
+    "D-tide Discussion": 365,
+    "Fragrant Morphogenesis appears to be bugged when used with Caraboo": 1,
+    "Corposant and Last Verse \"Bugfix\"": 3,
+    "Better handling of nerfs through bug fixes": 1,
+    "New affinity system is bad": 1,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 2,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 4,
+    "Doresain's rouse: fixed damage killing enemies on exalt does not trigger death": 3,
+    "V2.6.0.3 在线维护公告": 3,
+    "V2.5.1.0 停服维护公告": 12,
+    "Preview: V2.6.X Adjustments Based on Community Feedback 2": 2,
+    "Gtulu will save us all": 1,
+    "Funny worm meme edit": 4,
+    "Agrippa 🕸️": 1,
+    "William posting": 3,
+    "morimens team generator!!": 10,
+    "V2.5.0 命运剧院┊Theater of Fate": 2,
+    "融災求助": 4,
+    "New player here": 1,
+    "New player, need advise on pull and team": 3,
     "🔸chaîne-française": 2,
-    "🔸русский-канал": 105,
-    "🔸phòng-chat-tiếng-việt": 6,
-    "🔸canal-español": 4,
-    "🔸canal-português": 4,
-    "🔸ruang-obrolan-indonesia": 71,
-    "🔸ห้องสนทนาภาษาไทย": 1,
-    "🔸traphase": 2,
-    "🔸lore-chat": 35,
     "🔸lets-count": 1,
-    "🔸team-building": 27,
-    "🔸general-chat": 84,
-    "🔸game-question": 302,
     "🔸忘却前夜┊morimens-tv": 1,
-    "🔸机器人命令┊bot-commands": 3,
-    "Can't log into Morimens on Steam, stuck on trying to load the User Account Center": 1,
-    "Pls listen to the community (long post warning)": 6,
-    "D-tide Discussion": 83,
-    "Corposant and Last Verse \"Bugfix\"": 1,
-    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 1,
-    "V2.5.1.0 停服维护公告": 5,
     "dump of my gf saying DIABOLICAL stuff abt mori chars": 2,
-    "William posting": 2,
-    "morimens team generator!!": 9,
-    "融災求助": 1,
     "1544524210918129784": 1
   },
   "hourly_activity": {
+    "3": 823,
+    "4": 638,
+    "5": 964,
+    "6": 1265,
+    "7": 1496,
+    "8": 872,
+    "9": 703,
+    "10": 1260,
     "0": 760,
     "1": 824,
-    "2": 603,
-    "3": 486
+    "2": 603
   },
   "message_types": {
-    "19": 862,
-    "0": 1805,
-    "20": 5,
+    "0": 6708,
+    "19": 3480,
+    "20": 19,
     "21": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1544626492091269140",
+      "channel_id": "1544012767076294656",
+      "content": "谢谢您的来贴<:Hameln_love:1468257934348783749> ！\n这次版本开放了更高挑战性的关卡、也相应地追加了奖励，本意是希望作为有激励的",
+      "author": "morimensstaff06",
+      "reactions": 26,
+      "channel": "这游戏还有玩下去的意义吗"
+    },
     {
       "id": "1544516954747047956",
       "channel_id": "1544516954747047956",
@@ -64,6 +106,118 @@
       "author": "fenris_oozz",
       "reactions": 13,
       "channel": "Pls listen to the community (long post warning)"
+    },
+    {
+      "id": "1544560362882596944",
+      "channel_id": "1131839817982947429",
+      "content": "已投降",
+      "author": "gensono0609",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1544603622032154664",
+      "channel_id": "1131839817982947429",
+      "content": "苟99回合",
+      "author": "water_heart",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1544577798855721010",
+      "channel_id": "1170692781216378960",
+      "content": "Maybe I should kill myself",
+      "author": "zenji_shiro",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544607506280616026",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "dracozion",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544584905181102191",
+      "channel_id": "1170692781216378960",
+      "content": "||Liz always wanted to be a ballet dancer, she signs to a dance company but turn",
+      "author": "sinistar_intent",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544657383610130472",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "spooky_penguin_",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544579541656277143",
+      "channel_id": "1543760297637187614",
+      "content": "excited for this balanced and reasonable change to D-Tide",
+      "author": "vadeas.",
+      "reactions": 7,
+      "channel": "D-tide Discussion"
+    },
+    {
+      "id": "1544631326190338129",
+      "channel_id": "1543760297637187614",
+      "content": "Don’t call light dad, gives me goosebumps. Imagine having a dad that constantly ",
+      "author": "fenris_oozz",
+      "reactions": 7,
+      "channel": "D-tide Discussion"
+    },
+    {
+      "id": "1544644182696796191",
+      "channel_id": "1543760297637187614",
+      "content": "Its just so depressing that apparently you gotta spend 10k+ to have a voice that",
+      "author": "anni7777",
+      "reactions": 7,
+      "channel": "D-tide Discussion"
+    },
+    {
+      "id": "1544562518427435008",
+      "channel_id": "1131839817982947429",
+      "content": "神秘打金队",
+      "author": "catlan_33586",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1544603401634062336",
+      "channel_id": "1131839817982947429",
+      "content": "我打5-4打得快破防了",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1544581149077278731",
+      "channel_id": "1131839874132090890",
+      "content": "<:Aurita_please:1356053110375714817>",
+      "author": "abhartach_0",
+      "reactions": 6,
+      "channel": "🔸阵容构建"
+    },
+    {
+      "id": "1544583955137695816",
+      "channel_id": "1170692781216378960",
+      "content": "She is a ballerina",
+      "author": "serahh__",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544598783135055882",
+      "channel_id": "1170692781216378960",
+      "content": "Could have just added an alert 6 or something",
+      "author": "flare43",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1544497312418767008",
@@ -87,126 +241,6 @@
       "content": "just AA your whole account ig",
       "author": "utsuro.bune",
       "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544547505985818684",
-      "channel_id": "1170692781216378960",
-      "content": "<@296679098703544321>",
-      "author": "melwyn7591",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544525568073146459",
-      "channel_id": "1170692781216378960",
-      "content": "surely this is enough for veil?",
-      "author": "2ndselna",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544510235874426980",
-      "channel_id": "1131839817982947429",
-      "content": "~~没有红夫人，可以拿利兹当平替吗~~",
-      "author": "ka_0414",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1544506439018487810",
-      "channel_id": "1170692781216378960",
-      "content": "was this a newbie too?",
-      "author": "loirel",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544508229520986273",
-      "channel_id": "1170692781216378960",
-      "content": "It is after you pull AA and it does 5% hp damage.",
-      "author": "mengluo",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544525943081803776",
-      "channel_id": "1170692781216378960",
-      "content": "The rats contain multiverses",
-      "author": "601671_",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544531427079749723",
-      "channel_id": "1170692781216378960",
-      "content": "Thats why i havent been playing",
-      "author": "justeunchatennuyeux",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544542619487572059",
-      "channel_id": "1170692781216378960",
-      "content": "I have been here since launch",
-      "author": "_venush",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544522495640608858",
-      "channel_id": "1445556242381672559",
-      "content": "WIP. Yeah i cant wait for them to reveal Fingal design anymore (if they will eve",
-      "author": "zzio_",
-      "reactions": 4,
-      "channel": "William posting"
-    },
-    {
-      "id": "1544499292126060544",
-      "channel_id": "1170692781216378960",
-      "content": "Draco isnt a whale ngl",
-      "author": "angbak",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544503330854928384",
-      "channel_id": "1170692781216378960",
-      "content": "Emergency gnosis in DTide should not be a thing <:Fkeeper_peak:14682587840518596",
-      "author": "sirtealot",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544523876577316945",
-      "channel_id": "1170692781216378960",
-      "content": "OH WAIT ACTUALLY",
-      "author": "azel_1",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544523885473562634",
-      "channel_id": "1170692781216378960",
-      "content": "YAYYYYYY",
-      "author": "azel_1",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544524283932450946",
-      "channel_id": "1170692781216378960",
-      "content": "do u call urself the lust artist because u acc draw it or is it just like soundi",
-      "author": "serahh__",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544524674418090115",
-      "channel_id": "1170692781216378960",
-      "content": "Horla",
-      "author": "corvim",
-      "reactions": 3,
       "channel": "🔸morimens-game-chat"
     }
   ]
