@@ -1,8 +1,8 @@
 {
   "date": "2026-09-02",
-  "archived_at": "2026-09-02T02:48:50.359757+00:00",
+  "archived_at": "2026-09-02T07:37:48.068031+00:00",
   "source": "bahamut",
-  "item_count": 19,
+  "item_count": 21,
   "items": [
     {
       "title": "【閒聊】+12銀芯通訊分享(尚缺：墨菲、皮克曼)",
@@ -65,6 +65,19 @@
       "engagement": 41,
       "is_hot": false,
       "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【討論】超高血量融災討論",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-02T07:36:42.617787+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1559&tnum=4",
+      "engagement": 39,
+      "is_hot": false,
+      "author": "hhe02547783",
       "tags": [],
       "lang": "zh",
       "platform_region": ""
@@ -245,6 +258,19 @@
       "time": "2026-09-01T18:08:44.875083+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1546&tnum=1",
       "engagement": 2,
+      "is_hot": false,
+      "author": "jack01212537",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【創作】血噬．雷婭 技能卡、命輪、鑰令",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-02T06:56:42.617749+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1560&tnum=1",
+      "engagement": 1,
       "is_hot": false,
       "author": "jack01212537",
       "tags": [],

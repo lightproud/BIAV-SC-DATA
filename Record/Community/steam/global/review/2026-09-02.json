@@ -1,9 +1,239 @@
 {
   "date": "2026-09-02",
-  "archived_at": "2026-09-02T02:48:50.415312+00:00",
+  "archived_at": "2026-09-02T07:37:48.076644+00:00",
   "source": "steam",
-  "item_count": 7,
+  "item_count": 24,
   "items": [
+    {
+      "title": "[负面] 지금 이글을 보고있다면 절대로 유입되지 말것\n\n2주만에 엔드컨텐츠 인플레가 10배가왔고\n기...",
+      "summary": "지금 이글을 보고있다면 절대로 유입되지 말것\n\n2주만에 엔드컨텐츠 인플레가 10배가왔고\n기존캐릭터의 대다수가 사용불가상태이며\n개발사는 어떠한 해명도 하고있지 않음\n풀풀단아니고선 엄두도못내는 스펙이 와버림\n\n지난 융재 5파보스 체력 500만 언더\n이번 변경융재 5파보스 체력 4500만이상\n\n체퍼뎀이 아니면 딜넣을수단이 거의 없어진 심각한 상태\n\n\n외적으로 기존에도 가장기초적인 번역이슈부터 각종찐빠 및 가챠캐릭 너프가 있었으며(보상x) 현재 진행중인 문제사항",
+      "source": "steam_review",
+      "time": "2026-09-02T02:48:51+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198053366766/recommended/3052450",
+      "engagement": 7,
+      "is_hot": false,
+      "author": "76561198053366766",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 13937,
+        "votes_up": 7,
+        "timestamp_created": 1788317331
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] The direction the developers have taken with this...",
+      "summary": "The direction the developers have taken with this game recently has been nothing short of disappointing. Under the pretense of \"reworking\" the endgame, they have actively made it worse. They resorted to one of the most despised forms of balancing in a PvE game: instead of making any meaningful mechanical adjustments, they simply inflated enemy stats and called it a day.\n\nContent that was supposed to have a gradual, stair-step progression curve now has enemy scaling amplified by factors of five or even ten between stages. The result is that even players with endgame-level builds cannot clear the final stages, while newer players run straight into a wall just trying to move from the first step to the second. And, of course, they decided to lock essential progression resources behind that wall.\n\nThen, under the label of a \"bug fix,\" they suddenly wiped out nearly 16% of one character's performance after that behavior had remained in the game for almost a year. They offered no meaningful explanation afterward and took no follow-up action. They seem to have forgotten that this is a gacha game. Calling something a \"bug fix\" is not a blank check that lets you suddenly nerf a character's long-established performance after players have already made decisions about investing in that character.\n\nWhat makes all of this even more absurd is that these are the things they chose to spend their time doing while ignoring the feedback players have consistently given them in the hope of making the game better. Players have repeatedly asked for unique illustrations for character cards. They have repeatedly asked for more skins for characters. Every time, the developers' answer was essentially:\n\n\"Those things require roughly the same amount of resources as developing an entirely new character, so realistically, they are difficult to implement. Instead, we will quickly provide other ways for players to show their dedication to the characters they love.\"\n\nWhen they added an extra passive to the final upgrade tier of characters—something that had previously been completely unnecessary—they fed us the same kind of reassuring line:\n\n\"This is meant to reward players who have poured their love into these characters. We will never allow power inflation to be balanced around characters at their maximum upgrade tier.\"\n\nAnd players accepted that. So what did those players get in return?\n\nUnannounced character nerfs. Power inflation so extreme that even bringing a full lineup of maxed-out characters is no longer enough. Ham-fisted mechanics whose entire design philosophy seems to be: \"Don't play cards!\" \"Don't attack enemies!\" \"Don't even gain shields!\", \"We scaled HP up by more than 10x but anyway—Don’t fight prolonged!”. New-player progression has been crippled because the progression curve itself has collapsed, creating massive barriers for anyone trying to get into the game. And after all the talk about \"rewarding players who love their characters,\" what do we get? Barely noticeable card borders that require a ridiculous amount of pointless effort to unlock.\n\nThis does not even look like simple greed. If money were the goal, they could at least use some kind of carrot-and-stick approach to tempt players into thinking, \"Maybe if I invest just a little more, I can clear this.\" Instead, their recent decisions feel completely one-dimensional, with no apparent plan for what the consequences are supposed to be.\n\nIt's not as though this game has never made mistakes before. It has, plenty of times. And players were willing to give them the benefit of the doubt. \"They make a lot of mistakes, but those mistakes come from caring about the game.\" That was the excuse people were willing to accept. But at this point, their decision-making has reached a singularity; it could no longer distinguish from malice.\n\nI'm not writing such a harsh review just to dismiss this game as garbage. I love this game, and I have seen countless times how much the developers themselves care about it. That is exactly why it is so painful—and so difficult to understand—to watch the game fall apart in such an unreasonable way through their recent decisions.\n\nWhat players want now is not merely damage control for the current situation. We want a commitment to make sure this never happens again. The developers spent a long time building trust with their players. But that trust has gradually been spent, mistake after incomprehensible mistake, until now there is virtually none left.\n\nI hope they understand that the love and trust players have for this game are not infinite.",
+      "source": "steam_review",
+      "time": "2026-09-02T03:14:14+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198171776529/recommended/3052450",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "76561198171776529",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 27618,
+        "votes_up": 5,
+        "timestamp_created": 1788318854
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 지금 하는건 비추임. 진짜 비추임. 어떻게 나올지는 모르겠지만 익숙한 돈독 오른느낌이 강함",
+      "summary": "지금 하는건 비추임. 진짜 비추임. 어떻게 나올지는 모르겠지만 익숙한 돈독 오른느낌이 강함",
+      "source": "steam_review",
+      "time": "2026-09-02T02:57:16+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198399421731/recommended/3052450",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "76561198399421731",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 131,
+        "votes_up": 5,
+        "timestamp_created": 1788317836
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 한정 각성체 출시 후 1년 정도 지났는데 버그픽스라는 명목하에 간접너프 후 다른 공지 속에...",
+      "summary": "한정 각성체 출시 후 1년 정도 지났는데 버그픽스라는 명목하에 간접너프 후 다른 공지 속에 조그맣게 추가해놓는 치졸함. 그러고나서 기존보다 난이도를 괴상하게 높게잡은 성장재화 파밍처인데 융재 출시.\r\n이런 이슈들에 목소리 내는 사람들이 한둘이 아닌데도 못본척 못들은척 묵묵부답인 운영.\r\n융재 개편전엔 디코에서 세심하게 고려해서 난이도 조정할거라고 이빨까던 사람은 이 사단이 났을땐 코빼기도 안비침",
+      "source": "steam_review",
+      "time": "2026-09-02T03:17:11+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199020878491/recommended/3052450",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "76561199020878491",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 27357,
+        "votes_up": 4,
+        "timestamp_created": 1788319031
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Tragically mismanaged. Whatever few resources they...",
+      "summary": "Tragically mismanaged. Whatever few resources they had available for gameplay development were instead allocated towards enshittification...",
+      "source": "steam_review",
+      "time": "2026-09-02T03:46:14+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198198851013/recommended/3052450",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "76561198198851013",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 22709,
+        "votes_up": 3,
+        "timestamp_created": 1788320774
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 피드백 적극 수용하고 유저들과 소통하기로 극찬받았었는데 왜 갑자기 이런 행동을..",
+      "summary": "피드백 적극 수용하고 유저들과 소통하기로 극찬받았었는데 왜 갑자기 이런 행동을..",
+      "source": "steam_review",
+      "time": "2026-09-02T03:55:57+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198369930303/recommended/3052450",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "76561198369930303",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 12877,
+        "votes_up": 2,
+        "timestamp_created": 1788321357
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 통뇌야 입꾹닥 하지말고 소통을 하자",
+      "summary": "통뇌야 입꾹닥 하지말고 소통을 하자",
+      "source": "steam_review",
+      "time": "2026-09-02T03:24:28+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198881641004/recommended/3052450",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "76561198881641004",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 57007,
+        "votes_up": 2,
+        "timestamp_created": 1788319468
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Redemption code : youkilledmorimens\nStart in Augus...",
+      "summary": "Redemption code : youkilledmorimens\nStart in August 31, 2026",
+      "source": "steam_review",
+      "time": "2026-09-02T03:16:23+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198207266448/recommended/3052450",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "76561198207266448",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 1138,
+        "votes_up": 2,
+        "timestamp_created": 1788318983
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 엔컨 난이도랑 보상컷을 하루만에 10배 올려놓고 내내 입꾹닫하는 레전드 게임",
+      "summary": "엔컨 난이도랑 보상컷을 하루만에 10배 올려놓고 내내 입꾹닫하는 레전드 게임",
+      "source": "steam_review",
+      "time": "2026-09-02T03:10:39+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199246993385/recommended/3052450",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "76561199246993385",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 14410,
+        "votes_up": 2,
+        "timestamp_created": 1788318639
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Recent unfriendly changes to end game, lack of com...",
+      "summary": "Recent unfriendly changes to end game, lack of communication, and massive HP inflation to the point not even most whales can clear.\n\nIf you are fine with sinking a few hundred to a few thousand dollars into a character for it to be unusable due to a \"bugfix\" and still be unable to clear the obscene difficulties of the end game (where all of the pull currency rewards are, so F2P players get nothing because they can't clear) then go ahead. \n\nOtherwise, stay away",
+      "source": "steam_review",
+      "time": "2026-09-02T01:43:24+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198355295546/recommended/3052450",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "76561198355295546",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 8390,
+        "votes_up": 2,
+        "timestamp_created": 1788313404
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[负面] Love this game dearly, but the developer's recent...",
       "summary": "Love this game dearly, but the developer's recent questionable vision combined with lacking communication, mind bogglingly awful design choices and rushed updates makes it impossible to recommend.\nWill consider changing my review if BIAV manages to take care of the current mess, but I'm not particularly hopeful.",
@@ -23,6 +253,121 @@
         "playtime_forever": 76264,
         "votes_up": 1,
         "timestamp_created": 1788306473
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 최종 컨텐츠 인플레 x10 대단해",
+      "summary": "최종 컨텐츠 인플레 x10 대단해",
+      "source": "steam_review",
+      "time": "2026-09-02T05:37:00+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198053610242/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198053610242",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 7046,
+        "votes_up": 1,
+        "timestamp_created": 1788327420
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] the new update ruined a lot.",
+      "summary": "the new update ruined a lot.",
+      "source": "steam_review",
+      "time": "2026-09-02T04:47:47+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198320381320/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198320381320",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 7494,
+        "votes_up": 1,
+        "timestamp_created": 1788324467
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 0氪直接走不用考虑,尼玛我充钱都充怪上面了是吧,凭什么我充3000还能玩这么憋屈",
+      "summary": "0氪直接走不用考虑,尼玛我充钱都充怪上面了是吧,凭什么我充3000还能玩这么憋屈",
+      "source": "steam_review",
+      "time": "2026-09-02T04:27:46+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199068298646/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561199068298646",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 13577,
+        "votes_up": 1,
+        "timestamp_created": 1788323266
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 08 31 게임이 죽었다",
+      "summary": "08 31 게임이 죽었다",
+      "source": "steam_review",
+      "time": "2026-09-02T04:12:53+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198818355925/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198818355925",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 48794,
+        "votes_up": 1,
+        "timestamp_created": 1788322373
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Fix dzone",
+      "summary": "Fix dzone",
+      "source": "steam_review",
+      "time": "2026-09-02T01:56:48+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198124720594/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198124720594",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 3539,
+        "votes_up": 1,
+        "timestamp_created": 1788314208
       },
       "region": "global",
       "archive_subtype": "review"
@@ -161,6 +506,52 @@
         "playtime_forever": 48,
         "votes_up": 0,
         "timestamp_created": 1788306915
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Buen juego, para ser un gacha. Esto si te gustan l...",
+      "summary": "Buen juego, para ser un gacha. Esto si te gustan los juegos de cartas por turnos",
+      "source": "steam_review",
+      "time": "2026-09-02T05:23:30+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198852034244/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198852034244",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1591,
+        "votes_up": 0,
+        "timestamp_created": 1788326610
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] ㅇㅅㅇ",
+      "summary": "ㅇㅅㅇ",
+      "source": "steam_review",
+      "time": "2026-09-02T03:17:01+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199021727994/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199021727994",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 219,
+        "votes_up": 0,
+        "timestamp_created": 1788319021
       },
       "region": "global",
       "archive_subtype": "review"

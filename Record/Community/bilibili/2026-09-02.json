@@ -1,9 +1,60 @@
 {
   "date": "2026-09-02",
-  "archived_at": "2026-09-02T02:48:50.360300+00:00",
+  "archived_at": "2026-09-02T07:37:48.066688+00:00",
   "source": "bilibili",
-  "item_count": 4,
+  "item_count": 7,
   "items": [
+    {
+      "title": "【忘却前夜】癫狂容灾首日谈(白云出釉制作)",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-02T04:05:56+00:00",
+      "url": "https://www.bilibili.com/video/av117199456966664",
+      "engagement": 1715,
+      "is_hot": false,
+      "author": "金发女人丨型",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/f95e284dd4252b410f60515a472e78cca1670191.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】阵容教学第十七期：菲旺卡拉布",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-02T03:49:50+00:00",
+      "url": "https://www.bilibili.com/video/av117199389857962",
+      "engagement": 1630,
+      "is_hot": false,
+      "author": "金发女人丨型",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/976b475b8cda4fd64969885887ba7147249b5a66.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "「忘却前夜」8.31融灾450",
+      "summary": "练度不足以赤满500所以就打个450吧\n图一盾瓜，有生赐之血舒服很多，死扛给多了\n图二kks，玩羊皮凯菲打不过，只能请出血链大人来破盾了\n图三大福袋，纯瘾大想玩大福袋了\n图四神国，借的法则诞墨，我自己的应该也能过但得凹个造物\n图五莫丝，挺过道中就行，后面光锥没用忘记没保留了（展示容错）",
+      "source": "bilibili",
+      "time": "2026-09-01T23:30:22+00:00",
+      "url": "https://www.bilibili.com/video/av117198366447826",
+      "engagement": 135,
+      "is_hot": false,
+      "author": "肉夹馍里不要放青椒",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/4e4450c9b5ec7d0ff045e8bfcbf3b4644174b2e2.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】星辰篇主线 H6-10 无愿的尖峰无灵芝 通关记录",
       "summary": "",
