@@ -1,8 +1,8 @@
 {
   "date": "2026-09-02",
-  "archived_at": "2026-09-02T13:14:24.785331+00:00",
+  "archived_at": "2026-09-02T18:26:13.990961+00:00",
   "source": "bilibili",
-  "item_count": 11,
+  "item_count": 16,
   "items": [
     {
       "title": "【忘却前夜】癫狂容灾首日谈(白云出釉制作)",
@@ -39,6 +39,40 @@
       "content_type": "video"
     },
     {
+      "title": "[忘却前夜]明明是由超标数值组成的怪物，在我眼中却是美丽的少女",
+      "summary": "你喜欢我，我喜欢你",
+      "source": "bilibili",
+      "time": "2026-09-02T14:19:54+00:00",
+      "url": "https://www.bilibili.com/video/av117201872879733",
+      "engagement": 1093,
+      "is_hot": false,
+      "author": "梦依流苏_myls",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/e2b2ef254a10a053709b07f97fbd0098ecc0b76b.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】最美数值策划非忘却前夜莫属，一星期前所有人都说必抽的茉夏，现在成了控人插件",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-02T14:56:19+00:00",
+      "url": "https://www.bilibili.com/video/av117202007098816",
+      "engagement": 962,
+      "is_hot": false,
+      "author": "嘎啦嘎啦果",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/fb74a4f5dbe7e47131335e162884ab593c2d8e32.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "【忘却前夜】卡拉布融灾登顶清算于丽埃特",
       "summary": "技术力低，无恶意诋毁，不良引导，视频中所用语言皆为虚构和节目效果，无任何针对和低俗作用",
       "source": "bilibili",
@@ -53,6 +87,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/11d0c4b4ab065c27da5b1834d361e3f951ef7bb9.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "怒凹5小时，庞凯徐卡癫狂5-7血希，粉毛鱼首杀来了",
+      "summary": "回溯限制25回合能不能从癫狂模式拱出去，25回合以后没有容错全靠临场决断，校猫你卖大月卡就给我卖好东西啊我超威😡",
+      "source": "bilibili",
+      "time": "2026-09-02T12:54:46+00:00",
+      "url": "https://www.bilibili.com/video/av117201520626865",
+      "engagement": 164,
+      "is_hot": false,
+      "author": "Coliner_",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/f63c08c6b98e7c4b4d49683dc8a8598078177f1d.jpg",
       "content_type": "video"
     },
     {
@@ -87,6 +138,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/4e61ade63960e8df2b9216f03d9f71b3bef06791.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "癫狂水温烫死粉毛鱼，庞凯旺投奔魔术师3-7逃课阵容",
+      "summary": "并非非凯刻斯不可，但是癫狂水温真的有点瘟死反击队了，只能依赖超微戒指给的魔术师永久降力玩一玩3-7了。（注：非原创阵容，学习排行榜打法，只不过把粉毛鱼塞进来起一个加速的作用而已）",
+      "source": "bilibili",
+      "time": "2026-09-02T09:10:52+00:00",
+      "url": "https://www.bilibili.com/video/av117200547678349",
+      "engagement": 148,
+      "is_hot": false,
+      "author": "Coliner_",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/598ef6c456a224f6bee1af4aa5c7af06d93bd27a.jpg",
       "content_type": "video"
     },
     {
@@ -138,6 +206,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/6fea6927df25faa5c1ff02d392dbba2a70fca4c2.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "舍弃大脑新融灾400",
+      "summary": "难绷的是400甚至拿不满银芯\n我就是那个爱抽3启主c打n4拼好队的，谢谢你拼好队希望你喜欢这一年来你的戏份。凹了两天最后还是不想打了舍弃脑子混个低保得了，你游已正式成为我的手办收藏小破游，只为xp服务了，刷同调去了喵",
+      "source": "bilibili",
+      "time": "2026-09-02T10:01:13+00:00",
+      "url": "https://www.bilibili.com/video/av117200849471425",
+      "engagement": 125,
+      "is_hot": false,
+      "author": "永眠体",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/4f76d6a309f01d9c9b6c60804cfc09e656472208.jpg",
       "content_type": "video"
     },
     {

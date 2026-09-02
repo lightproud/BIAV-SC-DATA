@@ -1,8 +1,8 @@
 {
   "date": "2026-09-02",
-  "archived_at": "2026-09-02T13:14:24.858840+00:00",
+  "archived_at": "2026-09-02T18:26:14.062729+00:00",
   "source": "taptap",
-  "item_count": 49,
+  "item_count": 51,
   "items": [
     {
       "title": "游戏的玩法是有的，刚玩那几天很上头。\n优点是:日常还有各种活动都不是很肝，没有那种紧迫性，想玩就玩，不想玩了就不玩，日常",
@@ -634,6 +634,32 @@
       "source": "taptap_review",
       "time": "2026-09-02T13:13:41.377412+00:00",
       "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "来自 Android 设备",
+      "summary": "来自 Android 设备",
+      "source": "taptap_review",
+      "time": "2026-09-01T18:25:32.672249+00:00",
+      "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "来自 Android 设备",
+      "summary": "来自 Android 设备",
+      "source": "taptap_review",
+      "time": "2026-09-01T18:25:32.672272+00:00",
+      "url": "https://www.taptap.cn/review/50291998#to-reply",
       "engagement": 0,
       "is_hot": false,
       "author": "",

@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-03",
+  "archived_at": "2026-09-02T18:26:14.039938+00:00",
+  "source": "youtube",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "🔞 Reading time again :3 - Morimens",
+      "summary": "Reading time again :3 Links https://www.twitch.tv/eepyghost https://discord.gg/tSq5H32dAm https://twitter.com/eepyghostie.",
+      "source": "youtube",
+      "time": "2026-09-02T17:01:51Z",
+      "url": "https://www.youtube.com/watch?v=4Si1ZwH130w",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "eepyghost",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/4Si1ZwH130w/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "video"
+}

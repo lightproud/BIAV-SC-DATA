@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-03",
+  "archived_at": "2026-09-02T18:26:14.001608+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Steam论坛] Is Pollux worth it?",
+      "summary": "Is it worth investing my monthly dupe thingies on Pollux(currently E1) if I already have an OE Jenkins? I'm currently running jenkins with castor/arachme/horla and wondering if a high investment pollux would be better than her",
+      "source": "steam_discussion",
+      "time": "2026-09-02T17:55:42+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591814056255650541/",
+      "engagement": 8,
+      "is_hot": false,
+      "author": "DingusDork",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] The new D-Tide changes are a disaster that need to be reverted.",
+      "summary": "The backlash on all other social media and especially on Discord has been severe enough that I'm optimistic that it will be reverted but I wanted to post here about it anyway. \n\nWhy are the changes so bad?  Users on the Morimens Discord diagnose the problems as:\n>New players can’t feasibly clear Normal mode in the time that it took them to clear a1-a2 on the previous D-Zone.\n>The jump from Normal mode to Hard mode is WAY too much. A tenfold increase in HP is too high of a gap for players to reas",
+      "source": "steam_discussion",
+      "time": "2026-09-02T17:51:26+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591814398006335284/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Trans Winkle",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}
