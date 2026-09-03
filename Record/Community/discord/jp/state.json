@@ -1,7 +1,7 @@
 {
   "channels": {
     "1377478664609857647": {
-      "last_message_id": "1545036398732771389",
+      "last_message_id": "1545111309836615771",
       "name": "💬なんでも雑談（ネタバレあり）",
       "cold_started": true,
       "last_historical_message_id": "1378523440742400000",
@@ -84,7 +84,7 @@
       "name": "フレンド募集（非表示）"
     },
     "1391701560496623688": {
-      "last_message_id": "1544974896516435989",
+      "last_message_id": "1545085869969383526",
       "name": "🔰初心者質問",
       "cold_started": true,
       "last_historical_message_id": "1378523440742400000",
@@ -115,7 +115,7 @@
       ]
     },
     "1400058619726266462": {
-      "last_message_id": "1545032162502250607",
+      "last_message_id": "1545104855629041675",
       "name": "🙋誰でも質問",
       "cold_started": true,
       "last_historical_message_id": "1378523440742400000",
@@ -393,7 +393,7 @@
       "last_message_id": "1542282512016081007"
     },
     "thread:1419638694876418130": {
-      "last_message_id": "1542586186306949130"
+      "last_message_id": "1545068819922550814"
     },
     "thread:1419203289945342054": {
       "last_message_id": "1545014643326582794"
@@ -1087,7 +1087,7 @@
       "last_message_id": "1543894779148898304"
     },
     "thread:1528389964319162368": {
-      "last_message_id": "1544998475152752690"
+      "last_message_id": "1545062803184820274"
     },
     "thread:1528590903160344689": {
       "last_message_id": "1545035179968430122"
@@ -1219,16 +1219,16 @@
       "last_message_id": "1545010256394846279"
     },
     "thread:1545007866060996629": {
-      "last_message_id": "1545007866060996629"
+      "last_message_id": "1545078250642874418"
     },
     "thread:1544998415887241256": {
-      "last_message_id": "1544998415887241256"
+      "last_message_id": "1545098426218315828"
     },
     "thread:1544992919784521738": {
-      "last_message_id": "1544993343044456509"
+      "last_message_id": "1545097082568843404"
     }
   },
   "historical_month": null,
-  "last_run": "2026-09-03T11:43:36.936814+00:00",
+  "last_run": "2026-09-03T16:41:24.150148+00:00",
   "history_backfill_complete": true
 }
