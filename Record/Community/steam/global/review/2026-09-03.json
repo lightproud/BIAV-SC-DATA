@@ -1,9 +1,32 @@
 {
   "date": "2026-09-03",
-  "archived_at": "2026-09-03T13:15:34.780784+00:00",
+  "archived_at": "2026-09-03T18:21:07.198277+00:00",
   "source": "steam",
-  "item_count": 15,
+  "item_count": 18,
   "items": [
+    {
+      "title": "[负面] look at the amount of time i spend on this game an...",
+      "summary": "look at the amount of time i spend on this game and believe me, that this is THE WORST state of this game right now.\n\nthey get sold out to a new publisher, that trying to squeezing the money from players as much as possible.\nrework end game mode, that gutted 90% of comps. with an absurd amount of HP inflation. 5-6 times more than before. (previously from 2-5 millions to 10-30 millions)\n\nwith new character \"Caraboo\", they added a new \"terrain\" item into this game and only her can get an additional effects from it, where it change her single target attack to AOE, and deal damage 1 more time(double damage), and reduce action cost from 2 to 1. so expect newer character to get this kind of shilling too. this is really really close to be as shameless as ether veil from ZZZ.\n\nthe game is already predatory more than any gacha games on the market as it is. making it already a very difficult game to recommend to anyone, now they making it worse. and with many lies and radio silence from developers since the new update, you should stay away from this game.\n\nJP server was a mistake. absolute axiom was a mistake. divine realm was a mistake.",
+      "source": "steam_review",
+      "time": "2026-09-03T15:17:22+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198065565531/recommended/3052450",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "76561198065565531",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 67791,
+        "votes_up": 3,
+        "timestamp_created": 1788448642
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[负面] The patch 2.6 is a miserable experience, and the r...",
       "summary": "The patch 2.6 is a miserable experience, and the radio silence from the devs is very concerning.\n\nIf you were thinking of trying this game, do yourself a favor and stay away.",
@@ -161,6 +184,29 @@
         "playtime_forever": 102501,
         "votes_up": 1,
         "timestamp_created": 1788426231
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I loved this game, I really did. But, the last upd...",
+      "summary": "I loved this game, I really did. But, the last update was your typical gacha devs doing gacha things. The update made the game feel so greedy that now, not even whales can clear the endgame. Unless they backtrack the decision, I'm pretty sure that the game is speedrunning the road to EOS, so don't even bother (or do, I'm not a cop) playing it.",
+      "source": "steam_review",
+      "time": "2026-09-03T14:15:07+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199194542163/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561199194542163",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 60360,
+        "votes_up": 1,
+        "timestamp_created": 1788444907
       },
       "region": "global",
       "archive_subtype": "review"
@@ -345,6 +391,29 @@
         "playtime_forever": 5979,
         "votes_up": 0,
         "timestamp_created": 1788429991
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 吃相真的难看，新容灾校猫你自己打过吗？你游顶级氪佬打的都难受更不用说中氪和微氪了",
+      "summary": "吃相真的难看，新容灾校猫你自己打过吗？你游顶级氪佬打的都难受更不用说中氪和微氪了",
+      "source": "steam_review",
+      "time": "2026-09-03T15:58:49+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199237254696/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199237254696",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 15764,
+        "votes_up": 0,
+        "timestamp_created": 1788451129
       },
       "region": "global",
       "archive_subtype": "review"

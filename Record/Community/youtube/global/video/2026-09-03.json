@@ -1,8 +1,8 @@
 {
   "date": "2026-09-03",
-  "archived_at": "2026-09-03T13:15:34.736285+00:00",
+  "archived_at": "2026-09-03T18:21:07.163946+00:00",
   "source": "youtube",
-  "item_count": 22,
+  "item_count": 24,
   "items": [
     {
       "title": "[Morimens] Extensive Financial Deepdive of the new Corporate Owners and why the game is changing",
@@ -170,6 +170,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/O3UGjXYSYtM/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "銀の鍵が導くは　【忘却前夜/Morimens　単発】",
+      "summary": "このゲームにはジャンプスケアこそないですが、グロテスク、人によっては苦手な描写、ホラー的な表現が含まれます。苦手な方 ...",
+      "source": "youtube",
+      "time": "2026-09-03T13:53:42Z",
+      "url": "https://www.youtube.com/watch?v=KKXXO4TziBE",
+      "engagement": 26,
+      "is_hot": false,
+      "author": "ジージー",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/KKXXO4TziBE/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -374,6 +391,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/0rEqsUlBF3Y/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "完全初見で忘却前夜のストーリー進めていくよ～20分位ね。",
+      "summary": "今回は画質調整はしてあるので見やすくはなってるかな？",
+      "source": "youtube",
+      "time": "2026-09-03T14:16:57Z",
+      "url": "https://www.youtube.com/watch?v=3awjQ4JUp50",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "卯木瑠璃",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/3awjQ4JUp50/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

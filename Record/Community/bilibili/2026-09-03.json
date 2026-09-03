@@ -1,9 +1,26 @@
 {
   "date": "2026-09-03",
-  "archived_at": "2026-09-03T13:15:34.738011+00:00",
+  "archived_at": "2026-09-03T18:21:07.165008+00:00",
   "source": "bilibili",
-  "item_count": 14,
+  "item_count": 16,
   "items": [
+    {
+      "title": "[忘却前夜]新融灾变动杂谈",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-03T13:58:54+00:00",
+      "url": "https://www.bilibili.com/video/av117207442982927",
+      "engagement": 476,
+      "is_hot": false,
+      "author": "梦依流苏_myls",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/7494d7b299f24ca7f12bfe797076eebe82d83473.jpg",
+      "content_type": "video"
+    },
     {
       "title": "忘却前夜，改版后的融灾体验",
       "summary": "我很想在视频里面开喷，但是想想又忍住了。\n我觉得这个游戏设计成这样，已经有点崩了。\n力量体系作为老体系的成长核心，其实一直没有出现力量体系外的成长方式，强效的成长也就融朵法则有。\n触手成长其实本质上还是力量成长，当然有个别只纯成长触伤的角色。\n但是不管咋成长，血量越多，你需要的回合数就越多，而百分比出伤的方式，需要的回合数基本是一个定值。\n血量低的情况下，你杀的够快甚至不需要成长就能打死怪，很多人瞧不起需要发育的角色，觉得我沫夏都打完了，你还在那里叠力量。\n但是血一膨胀就很明显的，还是有成长的角色输出上限",
@@ -19,6 +36,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/ec8a403260834e8346512581cf8a62e0cc492536.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "525水视频，个人观点仅供参考.",
+      "summary": "就算能逃课也是不简单，这期能逃课下期呢？小猫魔了，是个魔猫。",
+      "source": "bilibili",
+      "time": "2026-09-03T14:15:08+00:00",
+      "url": "https://www.bilibili.com/video/av117207510025684",
+      "engagement": 221,
+      "is_hot": false,
+      "author": "伊莎玛拉-大群来了",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/db2e6bb3e43307ddd5a1b93d471502859b026c70.jpg",
       "content_type": "video"
     },
     {
