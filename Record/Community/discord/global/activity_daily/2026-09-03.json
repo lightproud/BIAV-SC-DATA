@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-03",
+  "messages": 2346,
+  "unique_authors": 175,
+  "reactions_total": 357,
+  "attachments": 131,
+  "channel_activity": {
+    "🔸綜合討論": 76,
+    "🔸阵容构建": 3,
+    "🔸morimens-game-chat": 1438,
+    "🔸剧情交流": 1,
+    "🔸русский-канал": 17,
+    "🔸canal-español": 231,
+    "🔸canal-português": 14,
+    "🔸ruang-obrolan-indonesia": 13,
+    "🔸lets-count": 1,
+    "🔸频道建议┊server-suggestions": 1,
+    "🔸team-building": 21,
+    "🔸general-chat": 68,
+    "🔸邀请码互助┊swap-invitation-codes": 2,
+    "🔸game-question": 373,
+    "🔸机器人命令┊bot-commands": 1,
+    "無靈知 全海450 心得分享": 1,
+    "需要伤害预览": 1,
+    "I can't understand the developer's way of thinking.": 1,
+    "D-tide Feedback (New)": 6,
+    "这游戏还有玩下去的意义吗": 8,
+    "Jenkin the little rat": 3,
+    "D-tide Discussion": 34,
+    "Corposant and Last Verse \"Bugfix\"": 1,
+    "New affinity system is bad": 7,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
+    "V2.6.0.3 在线维护公告": 2,
+    "V2.5.1.0 停服维护公告": 7,
+    "N N N N N": 5,
+    "Carabunny": 1,
+    "Drew my baby Faint 🤍": 1,
+    "V2.5.0 命运剧院┊Theater of Fate": 2,
+    "team building help": 4,
+    "New player, need advise on pull and team": 1
+  },
+  "hourly_activity": {
+    "0": 560,
+    "1": 617,
+    "2": 801,
+    "3": 368
+  },
+  "message_types": {
+    "19": 804,
+    "0": 1540,
+    "20": 2
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1544865965387546634",
+      "channel_id": "1544152565921611837",
+      "content": "Do you genuinely think this is a reasonable level of difficulty, and that’s why ",
+      "author": "bang8509",
+      "reactions": 22,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544879434912370750",
+      "channel_id": "1544152565921611837",
+      "content": "keep it up everyone ❤️\n\nmy feedback is to revert dtide back to the old system an",
+      "author": "sacred_promises",
+      "reactions": 19,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544886218163228742",
+      "channel_id": "1544152565921611837",
+      "content": "I was enlightened that most of these changes could not even be done by Light or ",
+      "author": "crowlov1",
+      "reactions": 14,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544890880853549076",
+      "channel_id": "1170692781216378960",
+      "content": "As free as \"I left for a bit wdym Morimens almost died?\" I literally didn't know",
+      "author": "_confused_kid",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544871036435177472",
+      "channel_id": "1170692781216378960",
+      "content": "Angbak... save the morimens society!",
+      "author": "shanhaijingactivist",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544890298293948416",
+      "channel_id": "1170692781216378960",
+      "content": "<@193043069275209728>",
+      "author": "serahh__",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544905823212412968",
+      "channel_id": "1170692781216378960",
+      "content": "2 MOREEEE\n\n-# F2P Btw",
+      "author": "absolutedumb",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544885958518775810",
+      "channel_id": "1544152565921611837",
+      "content": "im going to write a negative review as well to contribute to this",
+      "author": "yuan1728",
+      "reactions": 6,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544893631377178675",
+      "channel_id": "1544893631377178675",
+      "content": "<:Coalsie_shock:1516192103846383838> <:N_grin:1400771716665446471>",
+      "author": "anjuthemage",
+      "reactions": 6,
+      "channel": "N N N N N"
+    },
+    {
+      "id": "1544868237605478451",
+      "channel_id": "1170692781216378960",
+      "content": "I'm happier playing arknight coop right now tbh",
+      "author": "moyashi0672",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544868532351930498",
+      "channel_id": "1170692781216378960",
+      "content": "Hanging around with the commu is not playing the game <:Saya_cry:151312357738427",
+      "author": "moyashi0672",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544870405364256768",
+      "channel_id": "1170692781216378960",
+      "content": "I want Doll to slap my face with her bug claws after I failed a math test.",
+      "author": "shanhaijingactivist",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544901681748123759",
+      "channel_id": "1170692781216378960",
+      "content": "ghelot is a very messed up boss",
+      "author": "nowave2863",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544905500565442570",
+      "channel_id": "1433513650299076780",
+      "content": "",
+      "author": "prdrip",
+      "reactions": 5,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1544886065905532969",
+      "channel_id": "1544152565921611837",
+      "content": "just changed my review from positive to negative",
+      "author": "angelicapparition",
+      "reactions": 5,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544890693460295750",
+      "channel_id": "1544152565921611837",
+      "content": "The best way to stop them is to hurt their profits directly, we need to show how",
+      "author": "scottsunfall",
+      "reactions": 5,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544873361950253186",
+      "channel_id": "1131839817982947429",
+      "content": "感謝你杜，忘記殺你了",
+      "author": "iamnotbunny",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1544868001042399303",
+      "channel_id": "1170692781216378960",
+      "content": "Thats what they all say",
+      "author": "guava3442",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544869090156482692",
+      "channel_id": "1170692781216378960",
+      "content": "liz",
+      "author": "serahh__",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544890180459044996",
+      "channel_id": "1170692781216378960",
+      "content": "Lmao",
+      "author": "xiii_c",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
