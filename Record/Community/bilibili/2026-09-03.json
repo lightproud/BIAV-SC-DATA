@@ -1,9 +1,43 @@
 {
   "date": "2026-09-03",
-  "archived_at": "2026-09-03T02:53:10.967733+00:00",
+  "archived_at": "2026-09-03T07:47:14.705057+00:00",
   "source": "bilibili",
-  "item_count": 4,
+  "item_count": 7,
   "items": [
+    {
+      "title": "忘却前夜，改版后的融灾体验",
+      "summary": "我很想在视频里面开喷，但是想想又忍住了。\n我觉得这个游戏设计成这样，已经有点崩了。\n力量体系作为老体系的成长核心，其实一直没有出现力量体系外的成长方式，强效的成长也就融朵法则有。\n触手成长其实本质上还是力量成长，当然有个别只纯成长触伤的角色。\n但是不管咋成长，血量越多，你需要的回合数就越多，而百分比出伤的方式，需要的回合数基本是一个定值。\n血量低的情况下，你杀的够快甚至不需要成长就能打死怪，很多人瞧不起需要发育的角色，觉得我沫夏都打完了，你还在那里叠力量。\n但是血一膨胀就很明显的，还是有成长的角色输出上限",
+      "source": "bilibili",
+      "time": "2026-09-03T04:02:23+00:00",
+      "url": "https://www.bilibili.com/video/av117205110953491",
+      "engagement": 249,
+      "is_hot": false,
+      "author": "断裂免罪符",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/ec8a403260834e8346512581cf8a62e0cc492536.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "非遗刻纸/练习/沙耶（重置）",
+      "summary": "这个嘴位置摆至少一个小时，摆不好我是真……唉\n（凑活看吧，反正是练习的）",
+      "source": "bilibili",
+      "time": "2026-09-03T04:40:10+00:00",
+      "url": "https://www.bilibili.com/video/av117205261883164",
+      "engagement": 110,
+      "is_hot": false,
+      "author": "张轻衣",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/d915730fafcd76c2e86fccc621bf67c5d05e6e5e.jpg",
+      "content_type": "video"
+    },
     {
       "title": "啥比校猫看看你整出来的什么贵物😅",
       "summary": "你说的对，但是这就是血链·希洛。血量1400万，银芯固化，除觉醒外所有意图都是攻击，伤害转出血，出血每回合只减半，还有禁止获得护盾，链球免疫加回血，出一张牌2层狂热，敢出6张牌就啊啊啊啊啊啊！！！",
@@ -19,6 +53,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/b2a9ebac741e4094bbd7adff7e96646a3f817753.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "[忘却前夜]扣成负的我理解 这怎么血条都没有了",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-03T04:33:19+00:00",
+      "url": "https://www.bilibili.com/video/av117205228389760",
+      "engagement": 102,
+      "is_hot": false,
+      "author": "奕懿丶艾兮",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/b7edf006dccba1b5a3ca6f824fc4a713379cf214.jpg",
       "content_type": "video"
     },
     {

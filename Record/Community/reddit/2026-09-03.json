@@ -1,8 +1,8 @@
 {
   "date": "2026-09-03",
-  "archived_at": "2026-09-03T02:53:11.049879+00:00",
+  "archived_at": "2026-09-03T07:47:14.754419+00:00",
   "source": "reddit",
-  "item_count": 11,
+  "item_count": 15,
   "items": [
     {
       "title": "Agrippa 🕸️",
@@ -143,6 +143,58 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/Sion_Schtemberg",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Wave 2 Madness E3 Gmurphy Cheese",
+      "summary": "Would honestly recommend OE gmurphy borrow instead for a smoother clear, but here is a guide for cheesing W2.  &#32; submitted by &#32;  /u/EffectiveBeat9008   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-03T04:15:17+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1w5wyad/wave_2_madness_e3_gmurphy_cheese/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/EffectiveBeat9008",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Team building site",
+      "summary": "I remember a few days ago there was a site that generates a team based on units you have that you input into the site.  It wasn&#39;t skeydb, it was something else but I opened it on an incognito window and I forgot how I found it in the first place.  Does anyone remember what it is?  &#32; submitted by &#32;  /u/IamNowDepressed   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-03T05:59:10+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1w5yv6m/team_building_site/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/IamNowDepressed",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Kept getting a sync error, any ideas?",
+      "summary": "&#32; submitted by &#32;  /u/RecognitionElegant95   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-03T05:09:36+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1w5xywy/kept_getting_a_sync_error_any_ideas/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/RecognitionElegant95",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Any guidance?",
+      "summary": "&#32; submitted by &#32;  /u/HanpyHappy   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-03T05:38:20+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1w5yhvl/any_guidance/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/HanpyHappy",
       "tags": [],
       "lang": "en",
       "platform_region": ""

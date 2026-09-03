@@ -1,8 +1,8 @@
 {
   "date": "2026-09-03",
-  "archived_at": "2026-09-03T02:53:10.966292+00:00",
+  "archived_at": "2026-09-03T07:47:14.704446+00:00",
   "source": "youtube",
-  "item_count": 9,
+  "item_count": 14,
   "items": [
     {
       "title": "[Morimens] Extensive Financial Deepdive of the new Corporate Owners and why the game is changing",
@@ -34,6 +34,40 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/nKvRwuSqobs/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Pull Priority Guide That allows 3‑Month players to CLIMB higher than a 2 Year Fraud",
+      "summary": "https://buymeacoffee.com/flares https://discord.gg/yypzJhgcUP - Personal Flares Discord ...",
+      "source": "youtube",
+      "time": "2026-09-03T05:55:56Z",
+      "url": "https://www.youtube.com/watch?v=B-Kti96TdkU",
+      "engagement": 334,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/B-Kti96TdkU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "ボスぼこぼこになってて草 #切り抜き #ゲーム  #忘却前夜 #血の鎖ヘロット",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-09-03T03:06:08Z",
+      "url": "https://www.youtube.com/watch?v=TVXur3iXXIg",
+      "engagement": 275,
+      "is_hot": false,
+      "author": "ぷかぷあ",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/TVXur3iXXIg/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -73,6 +107,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "[Morimens] Wave 2 Madness E3 Gmurphy Cheese Guide",
+      "summary": "Chapters: 0:00 Team explanation 3:39 Mob fight 8:29 Scaling during gaze 17:00 Boss fight.",
+      "source": "youtube",
+      "time": "2026-09-03T04:04:16Z",
+      "url": "https://www.youtube.com/watch?v=6hHTby_YHnk",
+      "engagement": 70,
+      "is_hot": false,
+      "author": "kizunoV",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/6hHTby_YHnk/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Morimens, working on covenant binding / team improvements",
       "summary": "",
       "source": "youtube",
@@ -107,6 +158,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "忘却前夜　ムシェット引いて編成考え…えっ！？配布！？？！？！？",
+      "summary": "シャイニング☆トルネードがすぎるだろ.",
+      "source": "youtube",
+      "time": "2026-09-03T06:18:48Z",
+      "url": "https://www.youtube.com/watch?v=O3UGjXYSYtM",
+      "engagement": 32,
+      "is_hot": false,
+      "author": "たこに名前を入力",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/O3UGjXYSYtM/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "【MORIMENS】 DOING SALVADOR&#39;S AND OGIER&#39;S SIDE STORIES",
       "summary": "Game: Morimens __Follow me on Social Media!__ Bluesky: https://bsky.app/profile/adagiovt.vtubers.social Twitch: ...",
       "source": "youtube",
@@ -119,6 +187,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/pnU2Z18ObLc/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Covenant Binding",
+      "summary": "https://www.twitch.tv/Nazoric https://www.youtube.com/@Cirozan/streams.",
+      "source": "youtube",
+      "time": "2026-09-03T06:29:32Z",
+      "url": "https://www.youtube.com/watch?v=kRkHfiv72As",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Nazoric",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/kRkHfiv72As/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

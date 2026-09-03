@@ -1,9 +1,32 @@
 {
   "date": "2026-09-03",
-  "archived_at": "2026-09-03T02:53:11.030594+00:00",
+  "archived_at": "2026-09-03T07:47:14.732486+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 11,
   "items": [
+    {
+      "title": "[负面] The patch 2.6 is a miserable experience, and the r...",
+      "summary": "The patch 2.6 is a miserable experience, and the radio silence from the devs is very concerning.\n\nIf you were thinking of trying this game, do yourself a favor and stay away.",
+      "source": "steam_review",
+      "time": "2026-09-03T01:59:42+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198031336195/recommended/3052450",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "76561198031336195",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 16856,
+        "votes_up": 2,
+        "timestamp_created": 1788400782
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[负面] cant recommend it as it is after 2.6",
       "summary": "cant recommend it as it is after 2.6",
@@ -46,6 +69,75 @@
         "playtime_forever": 99341,
         "votes_up": 1,
         "timestamp_created": 1788394880
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] The recent update is extremely concerning. The gam...",
+      "summary": "The recent update is extremely concerning. The game is great at its core but there have been a lot of iffy moments in terms of how they manage it and now.. this.",
+      "source": "steam_review",
+      "time": "2026-09-03T04:25:07+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199508582806/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561199508582806",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 13457,
+        "votes_up": 1,
+        "timestamp_created": 1788409507
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] The developers have become greedy and are now focu...",
+      "summary": "The developers have become greedy and are now focusing on squeezing whales. Now with atrocious end-game content that does not respect your time.",
+      "source": "steam_review",
+      "time": "2026-09-03T04:11:16+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198169266424/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198169266424",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 25964,
+        "votes_up": 1,
+        "timestamp_created": 1788408676
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I have played the games on mobile for hundreds of...",
+      "summary": "I have played the games on mobile for hundreds of hours, but in steam, i wanted to give a negative review follow with a 2.6 updates where the dtide is extremely difficult and affinity changes. Im dissapointed and hope they revert the changes.",
+      "source": "steam_review",
+      "time": "2026-09-03T03:41:34+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198046745840/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198046745840",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 262,
+        "votes_up": 1,
+        "timestamp_created": 1788406894
       },
       "region": "global",
       "archive_subtype": "review"
@@ -115,6 +207,52 @@
         "playtime_forever": 3802,
         "votes_up": 0,
         "timestamp_created": 1788390948
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 可以，挺好玩的，挺优质的一款二游，福利挺多的",
+      "summary": "可以，挺好玩的，挺优质的一款二游，福利挺多的",
+      "source": "steam_review",
+      "time": "2026-09-03T06:44:41+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199665775712/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199665775712",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 521,
+        "votes_up": 0,
+        "timestamp_created": 1788417881
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I find that the changes to D-tide basically killed...",
+      "summary": "I find that the changes to D-tide basically killed the creative aspects of teambuilding that D-tide previously incentivised. Similar to other players, I find that the endgame has begun to shift away from encouraging problem-solving in the team building to more meta shilling. However, I'm not saying that there should be NO meta shilling, I'm saying that with the extent of the HP inflation it makes me less willing to engage with the game itself.",
+      "source": "steam_review",
+      "time": "2026-09-03T06:29:23+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199148071400/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199148071400",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 12752,
+        "votes_up": 0,
+        "timestamp_created": 1788416963
       },
       "region": "global",
       "archive_subtype": "review"

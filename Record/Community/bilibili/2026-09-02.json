@@ -1,8 +1,8 @@
 {
   "date": "2026-09-02",
-  "archived_at": "2026-09-03T02:53:10.964635+00:00",
+  "archived_at": "2026-09-03T07:47:14.703558+00:00",
   "source": "bilibili",
-  "item_count": 16,
+  "item_count": 17,
   "items": [
     {
       "title": "【忘却前夜】癫狂容灾首日谈(白云出釉制作)",
@@ -87,6 +87,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/11d0c4b4ab065c27da5b1834d361e3f951ef7bb9.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【星辰篇第六章困难】蚕宝宝冰淇淋无灵芝通关思路",
+      "summary": "这套可以无灵芝过第六章除h6-16外(还没打过，感觉要庞单c)的所有困难关卡；遇到单体怪把粉毛鱼换成神父就行\n也许有高配蚀萝沙耶可以直接力大砖飞，但我没有(摊手)，为达成成就去做一个也不值；这套是比较廉价的一套了，保证莫斯有三启，用发的回溯给凯做个+12就能用(凯+12不亏)\n\n给蚕宝宝加死抗限制10回合是人啊，猫冯飞完了",
+      "source": "bilibili",
+      "time": "2026-09-02T14:09:05+00:00",
+      "url": "https://www.bilibili.com/video/av117201822615538",
+      "engagement": 170,
+      "is_hot": false,
+      "author": "红茶喜欢喝红茶",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/e7ce6a0d1d0afcae713779d169407fd21fc4bbd3.jpg",
       "content_type": "video"
     },
     {

@@ -1,9 +1,23 @@
 {
   "date": "2026-09-02",
-  "archived_at": "2026-09-03T02:53:11.123598+00:00",
+  "archived_at": "2026-09-03T07:47:14.742210+00:00",
   "source": "google_play",
-  "item_count": 4,
+  "item_count": 8,
   "items": [
+    {
+      "title": "[Google Play 差评] ★1 정말 재밌는 게임임에도 이젠 추천 못할 게임이 되었습니다. 예전같은 운영",
+      "summary": "정말 재밌는 게임임에도 이젠 추천 못할 게임이 되었습니다. 예전같은 운영도 보여주지않고, 융재도 이젠 답없고. 하지마세요.",
+      "source": "google_play",
+      "time": "2026-09-02T02:59:45",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-4b02b204-3ee9-4370-9348-ce4a2358370e",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Keledan Hagosakina",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "",
+      "region": "global"
+    },
     {
       "title": "[Google Play 好评] ★5 really enjoyable game with interesting p",
       "summary": "really enjoyable game with interesting progression, tactices, challenges and good story. rewards are great, generous devs. worth trying.",
@@ -57,6 +71,48 @@
       "author": "J O S E T H .A.",
       "tags": [],
       "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 bestt game ever",
+      "summary": "bestt game ever",
+      "source": "google_play",
+      "time": "2026-09-02T06:17:38",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-894fd724-4383-4d75-8df2-f955e69f494b",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Routaiw",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 i love how passionate the devs are",
+      "summary": "i love how passionate the devs are",
+      "source": "google_play",
+      "time": "2026-09-02T04:26:26",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-333e3669-13ad-429a-868f-73c15e53bc6d",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Zaijan Monilla",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 임마들 갑자기 돈독이 올랐는지 돈안쓰면 게임 핵심 콘텐츠를 손도 못대게",
+      "summary": "임마들 갑자기 돈독이 올랐는지 돈안쓰면 게임 핵심 콘텐츠를 손도 못대게 봐꿔버리네",
+      "source": "google_play",
+      "time": "2026-09-02T03:54:23",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-061cba62-7fcb-4f40-a4ce-ab7b0e340a54",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "강동혁",
+      "tags": [],
+      "lang": "ko",
       "platform_region": "",
       "region": "global"
     }
