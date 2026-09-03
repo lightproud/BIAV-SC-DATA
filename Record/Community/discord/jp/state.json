@@ -1,8 +1,8 @@
 {
   "channels": {
     "1377478664609857647": {
-      "last_message_id": "1544849607211614330",
-      "name": "なんでも雑談",
+      "last_message_id": "1544935467865219104",
+      "name": "💬なんでも雑談",
       "cold_started": true,
       "last_historical_message_id": "1378523440742400000",
       "last_historical_month": "2025-05",
@@ -84,7 +84,7 @@
       "name": "フレンド募集（非表示）"
     },
     "1391701560496623688": {
-      "last_message_id": "1544737172056178688",
+      "last_message_id": "1544914448144142356",
       "name": "🔰初心者質問",
       "cold_started": true,
       "last_historical_message_id": "1378523440742400000",
@@ -115,8 +115,8 @@
       ]
     },
     "1400058619726266462": {
-      "last_message_id": "1544740548890329322",
-      "name": "誰でも質問",
+      "last_message_id": "1544896704787128342",
+      "name": "🙋誰でも質問",
       "cold_started": true,
       "last_historical_message_id": "1378523440742400000",
       "last_historical_month": "2025-05",
@@ -1087,7 +1087,7 @@
       "last_message_id": "1543894779148898304"
     },
     "thread:1528389964319162368": {
-      "last_message_id": "1544834803197804614"
+      "last_message_id": "1544856690950799440"
     },
     "thread:1528590903160344689": {
       "last_message_id": "1544755765926043668"
@@ -1196,9 +1196,21 @@
     },
     "thread:1544487646326161470": {
       "last_message_id": "1544487646326161470"
+    },
+    "1544908286682206258": {
+      "forbidden": true,
+      "name": "🙊なんでも雑談（ネタバレなし）"
+    },
+    "1544909823760662638": {
+      "forbidden": true,
+      "name": "🕵世界観考察・雑談"
+    },
+    "1544910405514563654": {
+      "forbidden": true,
+      "name": "❓編成相談"
     }
   },
   "historical_month": null,
-  "last_run": "2026-09-02T23:33:21.832730+00:00",
+  "last_run": "2026-09-03T05:03:27.637212+00:00",
   "history_backfill_complete": true
 }

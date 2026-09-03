@@ -1,6 +1,6 @@
 {
   "guild_id": "1377475512716234902",
-  "updated_at": "2026-09-02T23:33:07.166577+00:00",
+  "updated_at": "2026-09-03T05:03:09.791887+00:00",
   "channels": [
     {
       "id": "1377475513458884618",
@@ -20,10 +20,10 @@
     },
     {
       "id": "1377478664609857647",
-      "name": "なんでも雑談",
+      "name": "💬なんでも雑談",
       "type": 0,
       "parent_id": "1377482470081036439",
-      "position": 5,
+      "position": 6,
       "topic": "雑談ならなんでも歓迎！気軽に話そう。"
     },
     {
@@ -31,7 +31,7 @@
       "name": "対戦募集",
       "type": 0,
       "parent_id": "1377482470081036439",
-      "position": 9,
+      "position": 14,
       "topic": "対戦したい人、ここで募集しよう！"
     },
     {
@@ -39,7 +39,7 @@
       "name": "mod-log",
       "type": 0,
       "parent_id": "1377482722343260181",
-      "position": 11,
+      "position": 16,
       "topic": "botや運営ログが自動で流れます（管理用）"
     },
     {
@@ -47,7 +47,7 @@
       "name": "setup-notes",
       "type": 0,
       "parent_id": "1377482722343260181",
-      "position": 12,
+      "position": 17,
       "topic": "設定や構築のメモ置き場（管理用）"
     },
     {
@@ -87,7 +87,7 @@
       "name": "moderator-only",
       "type": 0,
       "parent_id": "1377482722343260181",
-      "position": 10,
+      "position": 15,
       "topic": null
     },
     {
@@ -95,7 +95,7 @@
       "name": "🧠覚醒体情報（非表示）",
       "type": 15,
       "parent_id": "1377482722343260181",
-      "position": 15,
+      "position": 20,
       "topic": null
     },
     {
@@ -103,7 +103,7 @@
       "name": "dyno-アップデート通知",
       "type": 0,
       "parent_id": "1377482722343260181",
-      "position": 13,
+      "position": 18,
       "topic": null
     },
     {
@@ -111,7 +111,7 @@
       "name": "🚪コミュニティ情報（管理用）",
       "type": 0,
       "parent_id": "1377482722343260181",
-      "position": 14,
+      "position": 19,
       "topic": null
     },
     {
@@ -127,7 +127,7 @@
       "name": "🎨イラスト／コスプレ投稿",
       "type": 15,
       "parent_id": "1377482470081036439",
-      "position": 7,
+      "position": 11,
       "topic": "創作やコスプレの投稿はこちら！"
     },
     {
@@ -135,7 +135,7 @@
       "name": "フレンド募集（非表示）",
       "type": 0,
       "parent_id": "1377482722343260181",
-      "position": 17,
+      "position": 22,
       "topic": null
     },
     {
@@ -151,7 +151,7 @@
       "name": "🔥攻略",
       "type": 15,
       "parent_id": "1377482470081036439",
-      "position": 8,
+      "position": 12,
       "topic": "攻略情報の共有・相談はここで！"
     },
     {
@@ -159,7 +159,7 @@
       "name": "💎ガチャ結果（非表示）",
       "type": 0,
       "parent_id": "1377482722343260181",
-      "position": 16,
+      "position": 21,
       "topic": null
     },
     {
@@ -167,15 +167,15 @@
       "name": "🎁ギフトコード",
       "type": 5,
       "parent_id": "1377475513458884618",
-      "position": 4,
+      "position": 3,
       "topic": "ギフトコード配布はこちらをチェック！"
     },
     {
       "id": "1400058619726266462",
-      "name": "誰でも質問",
+      "name": "🙋誰でも質問",
       "type": 0,
       "parent_id": "1377482470081036439",
-      "position": 6,
+      "position": 8,
       "topic": "誰でもOK！質問はこちらでどうぞ。"
     },
     {
@@ -183,7 +183,7 @@
       "name": "🧩更新、イベントのお知らせ",
       "type": 15,
       "parent_id": "1377475513458884618",
-      "position": 16,
+      "position": 4,
       "topic": null
     },
     {
@@ -191,7 +191,7 @@
       "name": "sandbox",
       "type": 0,
       "parent_id": "1377482722343260181",
-      "position": 18,
+      "position": 23,
       "topic": null
     },
     {
@@ -199,7 +199,7 @@
       "name": "🔧メンテナンスのお知らせ",
       "type": 15,
       "parent_id": "1377475513458884618",
-      "position": 17,
+      "position": 5,
       "topic": null
     },
     {
@@ -207,7 +207,39 @@
       "name": "🔰新入生案内",
       "type": 15,
       "parent_id": "1389418862470107268",
-      "position": 18,
+      "position": 2,
+      "topic": null
+    },
+    {
+      "id": "1544908286682206258",
+      "name": "🙊なんでも雑談（ネタバレなし）",
+      "type": 0,
+      "parent_id": "1377482470081036439",
+      "position": 7,
+      "topic": "こちらは **『ネタバレなし』** のなんでも雑談チャンネルです。"
+    },
+    {
+      "id": "1544909823760662638",
+      "name": "🕵世界観考察・雑談",
+      "type": 0,
+      "parent_id": "1377482470081036439",
+      "position": 10,
+      "topic": null
+    },
+    {
+      "id": "1544910405514563654",
+      "name": "❓編成相談",
+      "type": 0,
+      "parent_id": "1377482470081036439",
+      "position": 9,
+      "topic": null
+    },
+    {
+      "id": "1544911103925166160",
+      "name": "🍵雑談",
+      "type": 15,
+      "parent_id": "1377482470081036439",
+      "position": 13,
       "topic": null
     }
   ]

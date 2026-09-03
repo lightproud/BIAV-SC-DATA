@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-03",
+  "messages": 83,
+  "unique_authors": 14,
+  "reactions_total": 10,
+  "attachments": 2,
+  "channel_activity": {
+    "💬なんでも雑談": 77,
+    "🔰初心者質問": 5,
+    "🙋誰でも質問": 1
+  },
+  "hourly_activity": {
+    "1": 5,
+    "2": 24,
+    "3": 44,
+    "4": 9,
+    "5": 1
+  },
+  "message_types": {
+    "0": 81,
+    "19": 2
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1544897226638102560",
+      "channel_id": "1377478664609857647",
+      "content": "安易にスパムとかいうから本当のスパムをお見せされちゃった……",
+      "author": "96cat",
+      "reactions": 2,
+      "channel": "💬なんでも雑談"
+    },
+    {
+      "id": "1544897309697908756",
+      "channel_id": "1377478664609857647",
+      "content": "多分今日で三日目よな",
+      "author": "uru_neo",
+      "reactions": 2,
+      "channel": "💬なんでも雑談"
+    },
+    {
+      "id": "1544909161362489345",
+      "channel_id": "1377478664609857647",
+      "content": "260個あったルミナスコアを90残してガチャ回してまたガチャ禁して今ここ",
+      "author": "uru_neo",
+      "reactions": 2,
+      "channel": "💬なんでも雑談"
+    },
+    {
+      "id": "1544917823527198821",
+      "channel_id": "1377478664609857647",
+      "content": "俺自身がツッコミになるしかねぇ…！",
+      "author": "kuroneko4253",
+      "reactions": 2,
+      "channel": "💬なんでも雑談"
+    },
+    {
+      "id": "1544887976285438054",
+      "channel_id": "1377478664609857647",
+      "content": "恐らく対人戦無垢なる純銀勝利数1位の方なんだよなあの人",
+      "author": "96cat",
+      "reactions": 1,
+      "channel": "💬なんでも雑談"
+    },
+    {
+      "id": "1544909102851825674",
+      "channel_id": "1377478664609857647",
+      "content": "対人戦はここ１１ヶ月くらいやってないなー",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 1,
+      "channel": "💬なんでも雑談"
+    }
+  ]
+}
