@@ -1,8 +1,8 @@
 {
   "date": "2026-09-03",
-  "archived_at": "2026-09-02T22:59:23.341909+00:00",
+  "archived_at": "2026-09-03T02:53:10.967733+00:00",
   "source": "bilibili",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "啥比校猫看看你整出来的什么贵物😅",
@@ -53,6 +53,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/ef692997dc93b061d1ac9dd12cf32a3751fcd4cd.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "这触手有力气",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-03T02:38:42+00:00",
+      "url": "https://www.bilibili.com/video/av117204775605574",
+      "engagement": 22,
+      "is_hot": false,
+      "author": "乱跑的织夜",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/95386e61bbccef880f7b7f53e3614325be80aa85.jpg",
       "content_type": "video"
     }
   ]

@@ -1,8 +1,8 @@
 {
   "date": "2026-09-02",
-  "archived_at": "2026-09-02T22:59:23.497070+00:00",
+  "archived_at": "2026-09-03T02:53:11.123598+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 好评] ★5 really enjoyable game with interesting p",
@@ -29,6 +29,34 @@
       "author": "aldrian paul francisco",
       "tags": [],
       "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Es esta la mejor banda sonora de los gac",
+      "summary": "Es esta la mejor banda sonora de los gachas?. Yo digo si. que cosa más hermosa por favor.",
+      "source": "google_play",
+      "time": "2026-09-02T02:27:24",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-e09681a8-c089-4af0-956c-0859b1569d78",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Antonio Cantillo",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Este juego está criminalmente pasado por",
+      "summary": "Este juego está criminalmente pasado por alto, este juego tiene alma, tiene un nivel artístico increíble más sus personajes y esa estética Lovecraftiana que le queda perfecto, ni un diseño malo en mi opinión, su jugabilidad es divertida, y su historia es súper interesante y muy buena, lo único malo seria las traducciones pero es mejor eso a nada. Este juego tiene mucho potencial...no lo olvides.",
+      "source": "google_play",
+      "time": "2026-09-02T01:49:38",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-e4a2c54f-10fe-472c-8236-3fa2c83592a2",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "J O S E T H .A.",
+      "tags": [],
+      "lang": "es",
       "platform_region": "",
       "region": "global"
     }
