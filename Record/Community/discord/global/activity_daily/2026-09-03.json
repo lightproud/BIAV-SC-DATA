@@ -1,56 +1,104 @@
 {
   "date": "2026-09-03",
-  "messages": 2346,
-  "unique_authors": 175,
-  "reactions_total": 357,
-  "attachments": 131,
+  "messages": 8915,
+  "unique_authors": 331,
+  "reactions_total": 1098,
+  "attachments": 424,
   "channel_activity": {
-    "🔸綜合討論": 76,
-    "🔸阵容构建": 3,
-    "🔸morimens-game-chat": 1438,
+    "🔸綜合討論": 810,
+    "🔸阵容构建": 16,
+    "🔸morimens-game-chat": 4548,
+    "🔸课间休息闲聊": 47,
+    "🔸한국어-채팅방": 8,
+    "🔸русский-канал": 188,
+    "🔸phòng-chat-tiếng-việt": 42,
+    "🔸canal-español": 252,
+    "🔸canal-português": 19,
+    "🔸ruang-obrolan-indonesia": 446,
+    "🔸ห้องสนทนาภาษาไทย": 15,
+    "🔸traphase": 17,
+    "🔸lore-chat": 8,
+    "🔸频道建议┊server-suggestions": 2,
+    "🔸team-building": 288,
+    "🔸general-chat": 175,
+    "🔸邀请码互助┊swap-invitation-codes": 6,
+    "🔸game-question": 1639,
+    "🔸游戏问题": 2,
+    "🔸机器人命令┊bot-commands": 24,
+    "無靈知 全海450 心得分享": 2,
+    "打算開一個圖樓可能圖之後就丟這裡了": 1,
+    "Mark of the abyss triggers when discarding Corpo's pilots.": 10,
+    "需要伤害预览": 7,
+    "Primordia Chaos + Ryker's Keyflare Rouse Posse Soft-locks the Battle sometimes": 1,
+    "山之蠕蟲": 8,
+    "我塞了100张汀克特进超维空间": 5,
+    "Сломанный перевод Озарений Карабу и Пикмана (STEAM)": 1,
+    "Half of my assignments disappeared": 1,
+    "Can't log into Morimens on Steam, stuck on trying to load the User Account Center": 2,
+    "D-tide Feedback (New)": 13,
+    "D-tide Discussion": 135,
+    "Crashes during traphase": 3,
+    "Caraboo's Blessing fetching. 卡拉布赐福抽取": 2,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 2,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 1,
+    "✅「已回答」「未解决」氪金玩家和老玩家是否已经成为游戏前进的阻力？": 3,
+    "V2.6.0.3 在线维护公告": 15,
+    "V2.6.0.2 在线维护公告": 1,
+    "V2.5.1.0 停服维护公告": 16,
+    "D-tide-ing right now": 5,
+    "Faros 💛": 1,
+    "Caraboo🤍": 4,
+    "N N N N N": 7,
+    "moss’s art dump": 1,
+    "【English Translation】Opinions Collection": 1,
+    "V2.5.0 命运剧院┊Theater of Fate": 3,
+    "关于限定回溯": 1,
+    "想問配隊": 1,
+    "剛回坑想問問題": 1,
+    "融災組隊": 6,
+    "help for LIZ and Horla pulled both of them but cant understand how they work": 2,
+    "New player, need advise on pull and team": 2,
+    "1544922267207606333": 71,
     "🔸剧情交流": 1,
-    "🔸русский-канал": 17,
-    "🔸canal-español": 231,
-    "🔸canal-português": 14,
-    "🔸ruang-obrolan-indonesia": 13,
     "🔸lets-count": 1,
-    "🔸频道建议┊server-suggestions": 1,
-    "🔸team-building": 21,
-    "🔸general-chat": 68,
-    "🔸邀请码互助┊swap-invitation-codes": 2,
-    "🔸game-question": 373,
-    "🔸机器人命令┊bot-commands": 1,
-    "無靈知 全海450 心得分享": 1,
-    "需要伤害预览": 1,
     "I can't understand the developer's way of thinking.": 1,
-    "D-tide Feedback (New)": 6,
     "这游戏还有玩下去的意义吗": 8,
     "Jenkin the little rat": 3,
-    "D-tide Discussion": 34,
     "Corposant and Last Verse \"Bugfix\"": 1,
     "New affinity system is bad": 7,
-    "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
-    "V2.6.0.3 在线维护公告": 2,
-    "V2.5.1.0 停服维护公告": 7,
-    "N N N N N": 5,
     "Carabunny": 1,
     "Drew my baby Faint 🤍": 1,
-    "V2.5.0 命运剧院┊Theater of Fate": 2,
-    "team building help": 4,
-    "New player, need advise on pull and team": 1
+    "team building help": 4
   },
   "hourly_activity": {
+    "3": 1004,
+    "4": 812,
+    "5": 854,
+    "6": 1275,
+    "7": 854,
+    "8": 659,
+    "9": 932,
+    "10": 547,
     "0": 560,
     "1": 617,
-    "2": 801,
-    "3": 368
+    "2": 801
   },
   "message_types": {
-    "19": 804,
-    "0": 1540,
-    "20": 2
+    "0": 6042,
+    "19": 2842,
+    "20": 29,
+    "18": 1,
+    "21": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1544968352659673099",
+      "channel_id": "1544152565921611837",
+      "content": "Feelings can change, so let me present just facts. \n\nLevel is inconsistent with ",
+      "author": "momvolo",
+      "reactions": 34,
+      "channel": "D-tide Feedback (New)"
+    },
     {
       "id": "1544865965387546634",
       "channel_id": "1544152565921611837",
@@ -68,11 +116,67 @@
       "channel": "D-tide Feedback (New)"
     },
     {
+      "id": "1544997312365854781",
+      "channel_id": "1544997312365854781",
+      "content": "Mark of the abyss states that only when play do the monsters get strength but wh",
+      "author": "astravaig",
+      "reactions": 15,
+      "channel": "Mark of the abyss triggers when discarding Corpo's pilots."
+    },
+    {
       "id": "1544886218163228742",
       "channel_id": "1544152565921611837",
       "content": "I was enlightened that most of these changes could not even be done by Light or ",
       "author": "crowlov1",
       "reactions": 14,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1544933132615155792",
+      "channel_id": "1543760297637187614",
+      "content": "Come on, a Youtuber with 200k+ subs is gonna cover the game in a day or so. We h",
+      "author": "tongshauping",
+      "reactions": 13,
+      "channel": "D-tide Discussion"
+    },
+    {
+      "id": "1544983771210584064",
+      "channel_id": "1544983771210584064",
+      "content": "talk to me on x : /calcduc",
+      "author": "calcduc",
+      "reactions": 12,
+      "channel": "D-tide-ing right now"
+    },
+    {
+      "id": "1544958502605299722",
+      "channel_id": "1170692781216378960",
+      "content": "Damn\nFinally\nBiva fixed Doresain !",
+      "author": "legendaryredz",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544973421933494313",
+      "channel_id": "1131839817982947429",
+      "content": "485我来了🤓 可能很多人不知道 这期融灾和未来的相比大概率是最好拿分的一期",
+      "author": "galagalaguo",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1544924377311608842",
+      "channel_id": "1326453763355185215",
+      "content": "mm yes, me remove stomach = no need nutrients, maybe me iq too high",
+      "author": "avudio",
+      "reactions": 8,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1544987560852463666",
+      "channel_id": "1544152565921611837",
+      "content": "i personally would like there to be 6 difficulties, easy normal hard challenge m",
+      "author": "princess.goth",
+      "reactions": 8,
       "channel": "D-tide Feedback (New)"
     },
     {
@@ -82,6 +186,22 @@
       "author": "_confused_kid",
       "reactions": 7,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544935452245757992",
+      "channel_id": "1170692781216378960",
+      "content": "<@296679098703544321>",
+      "author": "dracozion",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1544945479756947539",
+      "channel_id": "1543760297637187614",
+      "content": "God I hope people are not gonna be cringe spamming in her chat over drama when s",
+      "author": "lolitadresscon",
+      "reactions": 6,
+      "channel": "D-tide Discussion"
     },
     {
       "id": "1544871036435177472",
@@ -124,92 +244,12 @@
       "channel": "N N N N N"
     },
     {
-      "id": "1544868237605478451",
-      "channel_id": "1170692781216378960",
-      "content": "I'm happier playing arknight coop right now tbh",
-      "author": "moyashi0672",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544868532351930498",
-      "channel_id": "1170692781216378960",
-      "content": "Hanging around with the commu is not playing the game <:Saya_cry:151312357738427",
-      "author": "moyashi0672",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544870405364256768",
-      "channel_id": "1170692781216378960",
-      "content": "I want Doll to slap my face with her bug claws after I failed a math test.",
-      "author": "shanhaijingactivist",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544901681748123759",
-      "channel_id": "1170692781216378960",
-      "content": "ghelot is a very messed up boss",
-      "author": "nowave2863",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544905500565442570",
-      "channel_id": "1433513650299076780",
-      "content": "",
-      "author": "prdrip",
-      "reactions": 5,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1544886065905532969",
-      "channel_id": "1544152565921611837",
-      "content": "just changed my review from positive to negative",
-      "author": "angelicapparition",
-      "reactions": 5,
-      "channel": "D-tide Feedback (New)"
-    },
-    {
-      "id": "1544890693460295750",
-      "channel_id": "1544152565921611837",
-      "content": "The best way to stop them is to hurt their profits directly, we need to show how",
-      "author": "scottsunfall",
-      "reactions": 5,
-      "channel": "D-tide Feedback (New)"
-    },
-    {
-      "id": "1544873361950253186",
+      "id": "1544913035976638534",
       "channel_id": "1131839817982947429",
-      "content": "感謝你杜，忘記殺你了",
-      "author": "iamnotbunny",
-      "reactions": 4,
+      "content": "~~超速嗎 我只看到這裡遍地菜花~~",
+      "author": "quackdayo",
+      "reactions": 5,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1544868001042399303",
-      "channel_id": "1170692781216378960",
-      "content": "Thats what they all say",
-      "author": "guava3442",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544869090156482692",
-      "channel_id": "1170692781216378960",
-      "content": "liz",
-      "author": "serahh__",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1544890180459044996",
-      "channel_id": "1170692781216378960",
-      "content": "Lmao",
-      "author": "xiii_c",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }
