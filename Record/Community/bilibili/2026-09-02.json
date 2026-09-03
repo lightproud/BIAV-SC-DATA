@@ -1,8 +1,8 @@
 {
   "date": "2026-09-02",
-  "archived_at": "2026-09-03T07:47:14.703558+00:00",
+  "archived_at": "2026-09-03T13:15:34.737284+00:00",
   "source": "bilibili",
-  "item_count": 17,
+  "item_count": 18,
   "items": [
     {
       "title": "【忘却前夜】癫狂容灾首日谈(白云出釉制作)",
@@ -172,6 +172,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/598ef6c456a224f6bee1af4aa5c7af06d93bd27a.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "感受",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-02T14:10:19+00:00",
+      "url": "https://www.bilibili.com/video/av117201839395892",
+      "engagement": 143,
+      "is_hot": false,
+      "author": "a葉野",
+      "tags": [
+        "绘画"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/d15b1f42d60f11444c73bf769397e4637311676f.jpg",
       "content_type": "video"
     },
     {

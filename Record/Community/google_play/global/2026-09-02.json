@@ -1,8 +1,8 @@
 {
   "date": "2026-09-02",
-  "archived_at": "2026-09-03T07:47:14.742210+00:00",
+  "archived_at": "2026-09-03T13:15:34.809012+00:00",
   "source": "google_play",
-  "item_count": 8,
+  "item_count": 10,
   "items": [
     {
       "title": "[Google Play 差评] ★1 정말 재밌는 게임임에도 이젠 추천 못할 게임이 되었습니다. 예전같은 운영",
@@ -113,6 +113,34 @@
       "author": "강동혁",
       "tags": [],
       "lang": "ko",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 atrocious update. just... atrocious. alr",
+      "summary": "atrocious update. just... atrocious. already wrote long paragraphs review on steam so i won't repeat here. but the D-tide update with stat check (HP bloat and damage bloat) and difficulty spike that's quite unfriendly to newbie, Horla's WoD \"bugfix\" that actually is a nerf to Corposant, and the affinity grind absolute slog. those are just the main one not counting the others. either way, terrible patch. terrible balance. terrible communication.",
+      "source": "google_play",
+      "time": "2026-09-02T08:34:11",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-a75c4a69-395f-46c4-b500-fbda4fdcbe1c",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Therrao",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 中评] ★3 no se inglés y gasta mucha batería perdó",
+      "summary": "no se inglés y gasta mucha batería perdón.",
+      "source": "google_play",
+      "time": "2026-09-02T09:44:35",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-a10b636b-471b-4353-bccf-2bf3295917c5",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "maria petrova",
+      "tags": [],
+      "lang": "es",
       "platform_region": "",
       "region": "global"
     }

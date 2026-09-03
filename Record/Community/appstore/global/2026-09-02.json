@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-02",
+  "archived_at": "2026-09-03T13:15:34.802077+00:00",
+  "source": "appstore",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "worst update ever",
+      "summary": "idk what they are thinking",
+      "source": "appstore",
+      "time": "2026-09-01T19:18:41-07:00",
+      "url": "https://apps.apple.com/us/app/id6447354150?see-all=reviews#as-14500117300",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "meirinne",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "인플레 어떻게 잡을지 아직도 논의중이신가요",
+      "summary": "다들 속터져죽는데 뭐라도 대책좀 내주시죠",
+      "source": "appstore",
+      "time": "2026-09-01T20:21:44-07:00",
+      "url": "https://apps.apple.com/kr/app/id6447354150?see-all=reviews#as-14500271871",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "이런게말이되냐고요",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

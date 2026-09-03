@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-03",
+  "archived_at": "2026-09-03T13:15:34.827460+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] 良いか悪いかでいえば良い",
+      "summary": "良いか悪いかでいえば良い",
+      "source": "steam_review",
+      "time": "2026-09-03T08:43:51+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199506028106/recommended/4226130",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199506028106",
+      "tags": [
+        "japanese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1769,
+        "votes_up": 0,
+        "timestamp_created": 1788425031
+      },
+      "region": "jp",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "jp",
+  "content_subtype": "review"
+}

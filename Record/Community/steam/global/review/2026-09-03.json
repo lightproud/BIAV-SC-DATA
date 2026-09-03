@@ -1,8 +1,8 @@
 {
   "date": "2026-09-03",
-  "archived_at": "2026-09-03T07:47:14.732486+00:00",
+  "archived_at": "2026-09-03T13:15:34.780784+00:00",
   "source": "steam",
-  "item_count": 11,
+  "item_count": 15,
   "items": [
     {
       "title": "[负面] The patch 2.6 is a miserable experience, and the r...",
@@ -143,6 +143,29 @@
       "archive_subtype": "review"
     },
     {
+      "title": "[负面] The game went from f2p with a wide roster being ab...",
+      "summary": "The game went from f2p with a wide roster being able to clear the endgame to whales struggling to get all the endgame rewards even if they had a vertically invested roster. Previously, almost all characters were at least usable, now only a very, very slim choice of existing characters can be used in the very endgame, setting a precedence for new characters selling the slution to the difficulty spike.  \r\n\r\nThe developer is ignoring all feedback and is unavailable for comment on their offical discord.  \r\n\r\nI loved the game, but all signs point towards insane power creep that makes old unitzs unable to clear, and I cannot recommend such a game.",
+      "source": "steam_review",
+      "time": "2026-09-03T09:03:51+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198010178759/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198010178759",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 102501,
+        "votes_up": 1,
+        "timestamp_created": 1788426231
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
       "title": "[负面] 超级无敌逆天的策划，永无止尽的氪金黑洞，今天t0的角色第二天直接变成下水道，堪比火箭速度的数值膨胀。...",
       "summary": "超级无敌逆天的策划，永无止尽的氪金黑洞，今天t0的角色第二天直接变成下水道，堪比火箭速度的数值膨胀。\n如果有新人想玩这个游戏，看到这条评测，相信我，快跑。\n你肯定听过三国杀的传说对吗，这个游戏策划的脑子甚至不如三国杀策划。\n快跑 快跑 快跑",
       "source": "steam_review",
@@ -253,6 +276,75 @@
         "playtime_forever": 12752,
         "votes_up": 0,
         "timestamp_created": 1788416963
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] CoC meets turn-based JRPG.... If that's what you'r...",
+      "summary": "CoC meets turn-based JRPG.... If that's what you're into.",
+      "source": "steam_review",
+      "time": "2026-09-03T11:55:05+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198050701929/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198050701929",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 289,
+        "votes_up": 0,
+        "timestamp_created": 1788436505
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] First I want to say I'm mobile game player, spent...",
+      "summary": "First I want to say I'm mobile game player, spent + 100 hours of this game already. The most recent update has been only but predatory to all players. Shop now is extremelly expensive, removed the main relayable way of getting lower level level up materials, affinity rework makes it virually imposible to level up consistently now. And D-tide is the cherry on top of the trash pile. Difficulty scales up in the most ridiculous way possible, bosses hava insane HP inflation, it feels frustrating to play, pushing you to whale if you want to even TRY to play past normal difficulty. Don't touch this game until they fix this. This is now a whale bait game, free to play friendly no more.",
+      "source": "steam_review",
+      "time": "2026-09-03T11:52:20+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199142897214/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199142897214",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 859,
+        "votes_up": 0,
+        "timestamp_created": 1788436340
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] ♥♥♥♥.ty patch, the game is doomed",
+      "summary": "♥♥♥♥.ty patch, the game is doomed",
+      "source": "steam_review",
+      "time": "2026-09-03T10:06:31+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198087658882/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198087658882",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 5979,
+        "votes_up": 0,
+        "timestamp_created": 1788429991
       },
       "region": "global",
       "archive_subtype": "review"

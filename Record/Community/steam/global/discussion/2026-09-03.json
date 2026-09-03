@@ -1,8 +1,8 @@
 {
   "date": "2026-09-03",
-  "archived_at": "2026-09-03T07:47:14.716291+00:00",
+  "archived_at": "2026-09-03T13:15:34.747360+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Steam论坛] Is Pollux worth it?",
@@ -13,6 +13,23 @@
       "engagement": 8,
       "is_hot": false,
       "author": "DingusDork",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] 唤醒体",
+      "summary": "哪个防御型唤醒体比较好啊",
+      "source": "steam_discussion",
+      "time": "2026-09-03T10:52:57+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591813764140012968/",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "心已被她占据",
       "tags": [
         "steam_forum"
       ],
