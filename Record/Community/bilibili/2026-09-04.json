@@ -1,8 +1,8 @@
 {
   "date": "2026-09-04",
-  "archived_at": "2026-09-03T18:21:07.166133+00:00",
+  "archived_at": "2026-09-03T22:59:08.767881+00:00",
   "source": "bilibili",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
     {
       "title": "忘却前夜：n7融灾就这样掌掴茉夏",
@@ -36,6 +36,40 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/653cc03ae4b22a97834fb616107f4a392e0d0ad9.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】8.31-9.13 限定3启融灾450（个人向）",
+      "summary": "2图用我自己的拉布布打了一把差一点点，因为一把一个多小时懒得重开就吃了灵芝，想看的可以看我之前的视频。3图是魔术师降力逃课，太长了就不放进来了。",
+      "source": "bilibili",
+      "time": "2026-09-03T17:12:43+00:00",
+      "url": "https://www.bilibili.com/video/av117208214669947",
+      "engagement": 119,
+      "is_hot": false,
+      "author": "Potatis_土豆",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/b3439ea8b249f1376ee4b18a2b4fb1efc6eca762.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "以防你不知道血条被2图扣负数后连灵芝都救不了你，无限续杯有感觉吗",
+      "summary": "校猫司马了",
+      "source": "bilibili",
+      "time": "2026-09-03T16:30:55+00:00",
+      "url": "https://www.bilibili.com/video/av117208046897845",
+      "engagement": 117,
+      "is_hot": false,
+      "author": "夜雨-月明",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/22e6a5a4da3b2d3601d98811146bfced6d5d0c3a.jpg",
       "content_type": "video"
     },
     {

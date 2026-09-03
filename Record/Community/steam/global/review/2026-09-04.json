@@ -1,9 +1,78 @@
 {
   "date": "2026-09-04",
-  "archived_at": "2026-09-03T18:21:07.238439+00:00",
+  "archived_at": "2026-09-03T22:59:08.799591+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 11,
   "items": [
+    {
+      "title": "[负面] A game with excellent art and story- but it seems...",
+      "summary": "A game with excellent art and story- but it seems like the developers are keen on ruining it for the sake of 'easy' cash.",
+      "source": "steam_review",
+      "time": "2026-09-03T22:02:56+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198068777806/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198068777806",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 8219,
+        "votes_up": 1,
+        "timestamp_created": 1788472976
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] This game is great for me. The pacing, the design,...",
+      "summary": "This game is great for me. The pacing, the design, the synergies for team comp. The GAME is great for me. The only real critique I have gameplay wise is that the UI system for building your teams does NOT make it easy to actually plan out your teams before delving into a scenario. Instead, that UI ties into the most horrendous thing I've seen in a few years.\n\nThe resource system is horrendous. And the cash shop is designed out of psychology hell. A fitting place for it in a Lovecraftian game with plenty of body horror. I'll give them the cash I think they deserve, because I'm enjoying myself. But, I'll never recommend such a broken design philosophy for acquiring purchases from the users. It's actually disgusting. Battlepasses inside battlepasses. Along with different battlepasses for events. Not to mention spending to ensure that your favourite heroes are just slightly better than those you don't upgrade. It's truly a system designed to lack any functional purpose of FUN, in order to maximize profit. \n\nAnd yet, a game is a game. I like what I have. I know I won't throw down more than 30$ on this game, and I'm going to keep enjoying the meandering pace cause the game happens to fit a niche I like. Anyone else? Unless you're looking for another Slay the Spire like, happen to not care about gacha mechanics, or don't mind wasting your money-- I don't reccommend this game. Ever.",
+      "source": "steam_review",
+      "time": "2026-09-03T21:48:59+00:00",
+      "url": "https://steamcommunity.com/profiles/76561197998711743/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561197998711743",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 3369,
+        "votes_up": 1,
+        "timestamp_created": 1788472139
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I love Morimens, but I can't in good conscience gi...",
+      "summary": "I love Morimens, but I can't in good conscience gives the game a good review considering the hostility toward players that arrived with the last few patches. I used to be a medium spender in the game too.\nTo name a few of the hostile change:\n- Inflating difficulty of endgame content past the standard they promised the community (Balancing hardest content around full +12 units and wheels team, and even then most of those can't clear)\n- Lying about the updated difficulty curve of that same endgame\n- Lying about the viability of specific teams in that update endgame environment (poison & counter)\n- Powercreeping 90% of the units in the game with that same updated environment.\n- Implementing AA (+12 units new effects), since they lied about not balancing around them I'll now hold them accountable for it.\n- Rolling out \"Divine Realms\" mechanic from JP which had been promised not to come to global, under the guise of giving them as \"passives\" to recent units.\n- Nerfing a known interaction, that had been brought to their attention when it had been discovered 1 years and a half ago, between awakener Corposant and the wheel Last Verse, right after both reran, under the guise of a \"bugfix\" to not give the promised reset selector from their rules on nerfing units.\n- Newest awakener Caraboo's price mechanic being an excuse to induce you to buy the premium BP for the turn rewind feature (which is honestly ridiculous).\n\nI really loves the game and it breaks my heart that all of this is happening. I really want to gives this game a positive review and recommend it to people.",
+      "source": "steam_review",
+      "time": "2026-09-03T19:34:43+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198184430249/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198184430249",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 53276,
+        "votes_up": 1,
+        "timestamp_created": 1788464083
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[正面] Китай круто наверное",
       "summary": "Китай круто наверное",
@@ -115,6 +184,75 @@
         "playtime_forever": 3640,
         "votes_up": 0,
         "timestamp_created": 1788451785
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Excelent game, fair gacha, entertaining story, mag...",
+      "summary": "Excelent game, fair gacha, entertaining story, magnificent character design, what else can i ask?",
+      "source": "steam_review",
+      "time": "2026-09-03T21:39:25+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198069665065/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198069665065",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 9917,
+        "votes_up": 0,
+        "timestamp_created": 1788471565
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] красиво",
+      "summary": "красиво",
+      "source": "steam_review",
+      "time": "2026-09-03T18:35:42+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198666420150/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198666420150",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 11,
+        "votes_up": 0,
+        "timestamp_created": 1788460542
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Игра полная залупа, не рекомендую",
+      "summary": "Игра полная залупа, не рекомендую",
+      "source": "steam_review",
+      "time": "2026-09-03T17:50:39+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198364440996/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198364440996",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 705,
+        "votes_up": 0,
+        "timestamp_created": 1788457839
       },
       "region": "global",
       "archive_subtype": "review"

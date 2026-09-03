@@ -1,8 +1,8 @@
 {
   "date": "2026-09-03",
-  "archived_at": "2026-09-03T18:21:07.165008+00:00",
+  "archived_at": "2026-09-03T22:59:08.766974+00:00",
   "source": "bilibili",
-  "item_count": 16,
+  "item_count": 17,
   "items": [
     {
       "title": "[忘却前夜]新融灾变动杂谈",
@@ -189,6 +189,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/b7edf006dccba1b5a3ca6f824fc4a713379cf214.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【融灾n3-6】低配(三启)阿拉魔术师通关思路",
+      "summary": "里面出现迷惑操作都是我笑岔气了误点的(不是)这队太迷惑(褒义)了，一边打一边笑",
+      "source": "bilibili",
+      "time": "2026-09-03T08:45:18+00:00",
+      "url": "https://www.bilibili.com/video/av117206218181746",
+      "engagement": 100,
+      "is_hot": false,
+      "author": "红茶喜欢喝红茶",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/314ed2c8104302234d70e7b9ec75f68df7ed7b27.jpg",
       "content_type": "video"
     },
     {
