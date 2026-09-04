@@ -1,11 +1,11 @@
 {
   "date": "2026-09-03",
-  "messages": 1852,
+  "messages": 1862,
   "unique_authors": 49,
-  "reactions_total": 373,
-  "attachments": 139,
+  "reactions_total": 379,
+  "attachments": 140,
   "channel_activity": {
-    "💬なんでも雑談（ネタバレあり）": 1593,
+    "💬なんでも雑談（ネタバレあり）": 1603,
     "🙋誰でも質問": 51,
     "忘却前夜妄想、二次創作部屋": 7,
     "🔰初心者質問": 16,
@@ -26,9 +26,9 @@
     "💬なんでも雑談": 77
   },
   "hourly_activity": {
+    "23": 39,
     "21": 7,
     "22": 8,
-    "23": 29,
     "16": 78,
     "17": 34,
     "18": 66,
@@ -51,7 +51,7 @@
     "4": 9
   },
   "message_types": {
-    "0": 1709,
+    "0": 1719,
     "19": 143
   },
   "top_reacted_messages": [
@@ -77,6 +77,14 @@
       "content": "完凸しました",
       "author": "sugoitsubasanohaetaop",
       "reactions": 6,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1545220853564964995",
+      "channel_id": "1377478664609857647",
+      "content": "絶対一番悪さしてる",
+      "author": "yasaizujusu",
+      "reactions": 5,
       "channel": "💬なんでも雑談（ネタバレあり）"
     },
     {
@@ -206,14 +214,6 @@
       "author": "yamaiame_ql4",
       "reactions": 4,
       "channel": "💬なんでも雑談（ネタバレあり）"
-    },
-    {
-      "id": "1544994363644321843",
-      "channel_id": "1528590903160344689",
-      "content": "だるいから移行しない（",
-      "author": "foxcatfurry",
-      "reactions": 4,
-      "channel": "思想汚染(うちcp)の話し"
     }
   ]
 }
