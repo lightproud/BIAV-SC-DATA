@@ -1,8 +1,8 @@
 {
   "date": "2026-09-04",
-  "archived_at": "2026-09-04T02:52:05.180344+00:00",
+  "archived_at": "2026-09-04T07:43:33.404200+00:00",
   "source": "steam",
-  "item_count": 16,
+  "item_count": 20,
   "items": [
     {
       "title": "[负面] The game is peak but the latest update is cringe",
@@ -368,6 +368,98 @@
         "playtime_forever": 12123,
         "votes_up": 0,
         "timestamp_created": 1788486630
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Insanely scummy update. Other reviews say it bette...",
+      "summary": "Insanely scummy update. Other reviews say it better than I could, so I would recommend going to read those in place of this one, I am just leaving this so the developers can know I am disappointed.",
+      "source": "steam_review",
+      "time": "2026-09-04T06:37:30+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199577373956/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199577373956",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 5514,
+        "votes_up": 0,
+        "timestamp_created": 1788503850
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] .",
+      "summary": ".",
+      "source": "steam_review",
+      "time": "2026-09-04T06:10:38+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199572355828/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199572355828",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 374,
+        "votes_up": 0,
+        "timestamp_created": 1788502238
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Binding covenant is a terrible idea. Versatile tea...",
+      "summary": "Binding covenant is a terrible idea. Versatile team building is fun, but then you discourage that versatility by introducing binding covenant, one covenant, one character. So it artificially makes the game more grindier while also make it more rigid, less interesting.\n\nPowercreeping is so severe. New characters are stronger than old characters so much, while old characters struggle to deal 10k damage, new characters can deal 100k with minimal effort.\n\nMain story is good. Psychic deep dive (new character event story) are shallow and boring. Is it that hard to write a fun adventure with recurring characters? There are so few characters in event story. You have such a big cast but you don't use them, why don't you let existing characters appear in the event and talk to the new character more often? Even player character become a nameless NPC with no roles in some psychic deep dive.",
+      "source": "steam_review",
+      "time": "2026-09-04T03:45:43+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198116200047/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198116200047",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 13803,
+        "votes_up": 0,
+        "timestamp_created": 1788493543
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 아트 좋음, 스토리는 좋은 것 같은데 번역이 구려서 평가하기 애매함. 근데 요 근래 게임...",
+      "summary": "아트 좋음, 스토리는 좋은 것 같은데 번역이 구려서 평가하기 애매함. 근데 요 근래 게임 꼬라지가 요상하게 돌아가네 유입하고 몇달만에 70만원 박았는데 돈 존나게 아깝다 다른 게임에 지를걸\n캐릭터 픽업하고 성능 관련해서 건드리는것도 그렇고, 융재 개편하는 꼬라지 보니까 초한 풀돌 권장하는듯 ㅇㅇ\n원래 융재도 수치딸깍이면서 \"개편\"으로 난이도 씹창내서 뉴비는 건드리기도 빡세게 바꾸고 도대체 누굴 위한 패치임?\n침탄 풀돌 탄피 폴룩스 모샤 서 클레멘타인 카스토르 타비 초한임 근데 내가 얘네 돌파한 게 쉽고 빠르게 깨고 싶어서지 무슨 융재 난이도를 더 올려서 얘네 들고도 깰랑 말랑하게 바꾸냐 지금 5일째 소통도 없고 참 ㅋㅋ\n걍 규모 작은 ㅈ소겜은 건드리면 안되는듯 예전에 한번 망할뻔했다가 살아났대서 정신 차린 줄 알았는데 믿고 들어온 내가 바보지",
+      "source": "steam_review",
+      "time": "2026-09-04T03:32:40+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198756828483/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198756828483",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 10098,
+        "votes_up": 0,
+        "timestamp_created": 1788492760
       },
       "region": "global",
       "archive_subtype": "review"

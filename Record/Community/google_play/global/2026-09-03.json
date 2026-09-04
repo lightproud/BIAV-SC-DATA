@@ -1,8 +1,8 @@
 {
   "date": "2026-09-03",
-  "archived_at": "2026-09-04T02:52:05.201424+00:00",
+  "archived_at": "2026-09-04T07:43:33.410034+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 差评] ★1 Game is great. AI translations for the l",
@@ -27,6 +27,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Federico Segovia",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 obra maestra, he jugado muchos juegos de",
+      "summary": "obra maestra, he jugado muchos juegos de la industria gacha y por turnos y ninguno me había llamado la atención, ninguno había logrado engancharme pero el sistema de cartas de este juego me parece peak nunca me había sentido tan interesado por un sistema de combate por turnos, amo lo bien que está ejecutado el sistema de cartas, también el diseño de personajes y la historia 🤩🤩🤩",
+      "source": "google_play",
+      "time": "2026-09-03T05:35:45",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-7321add9-04a5-42b3-94df-e237bef24474",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Mauricio Zambrano",
       "tags": [],
       "lang": "es",
       "platform_region": "",
