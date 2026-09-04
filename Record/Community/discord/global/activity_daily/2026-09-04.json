@@ -1,0 +1,207 @@
+{
+  "date": "2026-09-04",
+  "messages": 2269,
+  "unique_authors": 170,
+  "reactions_total": 314,
+  "attachments": 114,
+  "channel_activity": {
+    "🔸綜合討論": 89,
+    "🔸morimens-game-chat": 1215,
+    "🔸课间休息闲聊": 3,
+    "🔸한국어-채팅방": 11,
+    "🔸русский-канал": 108,
+    "🔸phòng-chat-tiếng-việt": 174,
+    "🔸canal-español": 82,
+    "🔸canal-português": 101,
+    "🔸ruang-obrolan-indonesia": 12,
+    "🔸ห้องสนทนาภาษาไทย": 18,
+    "🔸traphase": 4,
+    "🔸lore-chat": 10,
+    "🔸team-building": 204,
+    "🔸general-chat": 28,
+    "🔸game-question": 124,
+    "🔸机器人命令┊bot-commands": 7,
+    "+12凱 卡拉布": 4,
+    "Caraboo E3 is kind of lying?": 21,
+    "D-tide Feedback (New)": 8,
+    "这游戏还有玩下去的意义吗": 2,
+    "Jenkin the little rat": 1,
+    "D-tide Discussion": 33,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 3,
+    "V2.6.0.3 在线维护公告": 2,
+    "V2.5.1.0 停服维护公告": 5
+  },
+  "hourly_activity": {
+    "0": 659,
+    "1": 473,
+    "2": 634,
+    "3": 503
+  },
+  "message_types": {
+    "0": 1620,
+    "19": 646,
+    "20": 3
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1545225752902107206",
+      "channel_id": "1544152565921611837",
+      "content": "good news ! \n1) recent ratings have dropped below 70%! it was 74% last i checked",
+      "author": "sacred_promises",
+      "reactions": 19,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1545241671250477196",
+      "channel_id": "1544152565921611837",
+      "content": "我是你正在找的中文評論嗎？<:Ramona_tuff_:1441426630420467753> \n\n我會說我是新版融災唯一受益人，但其實也不能說我有受益。原本",
+      "author": "shostakovich524",
+      "reactions": 19,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1545222697577873580",
+      "channel_id": "1545222697577873580",
+      "content": "> Caraboo's Exalt DMG hits count +2. The Max HP bonus from each stack of Satiety",
+      "author": "fjantsa",
+      "reactions": 17,
+      "channel": "Caraboo E3 is kind of lying?"
+    },
+    {
+      "id": "1545243466118864906",
+      "channel_id": "1131839817982947429",
+      "content": "昨天晚上沉思的海之心",
+      "author": "water_heart",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1545271312723877949",
+      "channel_id": "1170692781216378960",
+      "content": "it's not fanart\nit's hateart\n\nhis haters literally set up a timer over the last ",
+      "author": "nirski",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545240183140515930",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1545223276324851712",
+      "channel_id": "1544152565921611837",
+      "content": "It’s already the fifth day since the D-Tide rework went live, and we still haven",
+      "author": "bang8509",
+      "reactions": 8,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1545231974560702605",
+      "channel_id": "1131839817982947429",
+      "content": "玩家都跑了的話就沒人能通關了",
+      "author": "arr5721",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1545245930117267526",
+      "channel_id": "1170692781216378960",
+      "content": "the legends! theyre true!",
+      "author": "cornonthemacabre_",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545244890290593893",
+      "channel_id": "1170692781216378960",
+      "content": "three s tier characters on one team and one mediocre chaos support",
+      "author": "reya.li",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545262654979833937",
+      "channel_id": "1170692781216378960",
+      "content": "Dtide so ass it got me touching FF for the first time in like a year and a half",
+      "author": "thereaperinthedresss",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545270964898496582",
+      "channel_id": "1170692781216378960",
+      "content": "https://klipy.com/gifs/vortice-morimens",
+      "author": "serahh__",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545273166241464421",
+      "channel_id": "1170692781216378960",
+      "content": "https://cdn.discordapp.com/attachments/1476958116011704351/1510525830936400055/c",
+      "author": "thereaperinthedresss",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545224560448897154",
+      "channel_id": "1544152565921611837",
+      "content": "It's ridiculous especially for the whales. Wdym GLotan from one month ago S tier",
+      "author": "crowlov1",
+      "reactions": 4,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1545236807501746296",
+      "channel_id": "1544152565921611837",
+      "content": "Suggestion : \n\n1. At least... Please add **Refined Gnosis Fragment** reward on n",
+      "author": "vongrandea",
+      "reactions": 4,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1545241520813379698",
+      "channel_id": "1543760297637187614",
+      "content": "make sure to also leave them a review under google play or the appstore maybe it",
+      "author": "usamitkp",
+      "reactions": 4,
+      "channel": "D-tide Discussion"
+    },
+    {
+      "id": "1545228417471877140",
+      "channel_id": "1170692781216378960",
+      "content": "Mouchette is free !!",
+      "author": "legendaryredz",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545229254562947112",
+      "channel_id": "1170692781216378960",
+      "content": "Okay time to reset 3 waves to push 515",
+      "author": "angbak",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545230220779327638",
+      "channel_id": "1170692781216378960",
+      "content": "WE HAVE TO KILL CARABOO",
+      "author": "shanhaijingactivist",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545231769194987531",
+      "channel_id": "1170692781216378960",
+      "content": "https://www.reddit.com/r/Morimens/s/WE9HWcNy4h",
+      "author": "angbak",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
