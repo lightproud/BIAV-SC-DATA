@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-04",
+  "archived_at": "2026-09-04T13:09:44.863685+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam新闻] On the D-Effect Zone Adjustments",
+      "summary": "Thank you all for your patienceI'm sorry that I haven't been able to reach out sooner and share our thinking with you. Part of the reason is that we have been concentrating on the development of V2.7.0 — an important version we are preparing for you. The other is that we wanted to see the situation more clearly and think it through more thoroughly before responding, so as not to repeat what happened before: a hasty statement followed by a hurried reversal, which ended up causing even greater pro...",
+      "source": "official",
+      "time": "2026-09-04T11:15:20+00:00",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446131",
+      "engagement": 0,
+      "is_hot": true,
+      "author": "lqx02483534",
+      "tags": [
+        "Community Announcements"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "news"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "news"
+}

@@ -1,8 +1,8 @@
 {
   "date": "2026-09-04",
-  "archived_at": "2026-09-04T07:43:33.394373+00:00",
+  "archived_at": "2026-09-04T13:09:44.823858+00:00",
   "source": "bahamut",
-  "item_count": 24,
+  "item_count": 26,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -187,6 +187,19 @@
       "platform_region": ""
     },
     {
+      "title": "【校貓日誌】關於融災禁區的調整說明",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-04T12:40:27.706257+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1561&tnum=2",
+      "engagement": 16,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
       "title": "【心得】(新)融災簡易攻略:做個簡單的隊伍分享,讓可能不是玩這麼久的玩家參考~",
       "summary": "",
       "source": "bahamut",
@@ -286,6 +299,19 @@
       "engagement": 5,
       "is_hot": false,
       "author": "pkppkkpk",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【心得】牢鯨20同調感想",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-04T13:08:27.706285+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1562&tnum=1",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "k93522920",
       "tags": [],
       "lang": "zh",
       "platform_region": ""
