@@ -1,8 +1,8 @@
 {
   "date": "2026-09-03",
-  "archived_at": "2026-09-04T13:09:44.856070+00:00",
+  "archived_at": "2026-09-04T18:05:35.224207+00:00",
   "source": "google_play",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[Google Play 差评] ★1 Game is great. AI translations for the l",
@@ -57,6 +57,20 @@
       "author": "Hp Bagus",
       "tags": [],
       "lang": "id",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★2 Meh. The character designs and overall a",
+      "summary": "Meh. The character designs and overall aesthetics are neat but the game itself is dull and entirely convoluted. The game has such horribly written verbiage that it can be difficult to tell what cards do what and how characters even work; everything is written in a fantastical made up jargon they it turns into nonsense very quickly. The story is dull, the character personalities are boring and the gameplay will put you to sleep. It's no wonder I've never heard anything about this game until now.",
+      "source": "google_play",
+      "time": "2026-09-03T13:52:50",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-3948f49c-3d75-4609-a684-1b02d9db808a",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Cam",
+      "tags": [],
+      "lang": "en",
       "platform_region": "",
       "region": "global"
     }

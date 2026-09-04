@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-05",
+  "archived_at": "2026-09-04T18:05:35.244808+00:00",
+  "source": "steam",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[负面] D-tide rework made it far too difficult for most p...",
+      "summary": "D-tide rework made it far too difficult for most players, Corposant was nerfed trough a WoD \"bug fix\" right after her banner and while the WoD banner was still running, affinity farming was made unnecesarily time-consuming, the divine realms issue (which all have been explained more in-detail in other reviews before mine) and the nothingburger response from the devs which adressed only dtide, offered a band-aid fix which leaves them enough leverage to hp inflate again and hoped to smooth over the playerbase with pulls.\n\nFrankly, unless the issues are properly adressed and the devs actually fix the current state of the game (which they themselves have caused, hoping to milk the playerbase), I certainly won't be spending any money in this game.",
+      "source": "steam_review",
+      "time": "2026-09-04T17:05:22+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198420147305/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198420147305",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 19631,
+        "votes_up": 0,
+        "timestamp_created": 1788541522
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] es el mejor juego gacha que jugue despues de limbu...",
+      "summary": "es el mejor juego gacha que jugue despues de limbus",
+      "source": "steam_review",
+      "time": "2026-09-04T17:00:42+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198764997250/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198764997250",
+      "tags": [
+        "spanish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 8924,
+        "votes_up": 0,
+        "timestamp_created": 1788541242
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] PEAK",
+      "summary": "PEAK",
+      "source": "steam_review",
+      "time": "2026-09-04T16:57:15+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198801702701/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198801702701",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 227,
+        "votes_up": 0,
+        "timestamp_created": 1788541035
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

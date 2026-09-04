@@ -1,9 +1,32 @@
 {
   "date": "2026-09-04",
-  "archived_at": "2026-09-04T13:09:44.830217+00:00",
+  "archived_at": "2026-09-04T18:05:35.167636+00:00",
   "source": "steam",
-  "item_count": 30,
+  "item_count": 40,
   "items": [
+    {
+      "title": "[负面] If you're going to start, I don't recommend it.\r\nT...",
+      "summary": "If you're going to start, I don't recommend it.\r\nThere’s a patch that the users have been pushing back against, so I waited for the developers’ response, but the answer I got was incredibly disappointing. They seem to be stubbornly convinced that they’re in the right.",
+      "source": "steam_review",
+      "time": "2026-09-04T13:26:12+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198218700331/recommended/3052450",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "76561198218700331",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 1138,
+        "votes_up": 4,
+        "timestamp_created": 1788528372
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[负面] Endgame number bloat HSR can only dream of.\nWhen i...",
       "summary": "Endgame number bloat HSR can only dream of.\nWhen i come to play 'tactical' games, wrangling pure statcheck slop is literally the last thing i want to do.",
@@ -97,6 +120,29 @@
       "archive_subtype": "review"
     },
     {
+      "title": "[负面] 융식된 유저입니다",
+      "summary": "융식된 유저입니다",
+      "source": "steam_review",
+      "time": "2026-09-04T14:19:33+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198031322123/recommended/3052450",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "76561198031322123",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 291,
+        "votes_up": 2,
+        "timestamp_created": 1788531573
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
       "title": "[负面] A game with excellent art and story- but it seems...",
       "summary": "A game with excellent art and story- but it seems like the developers are keen on ruining it for the sake of 'easy' cash.",
       "source": "steam_review",
@@ -184,6 +230,52 @@
         "playtime_forever": 2178,
         "votes_up": 1,
         "timestamp_created": 1788485703
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 최근 엔드게임 컨텐츠(지만 뉴비들도 충분히 즐길 수 있는) 하위 난이도 삭제, 일부 각성체...",
+      "summary": "최근 엔드게임 컨텐츠(지만 뉴비들도 충분히 즐길 수 있는) 하위 난이도 삭제, 일부 각성체의 버그 수정 명목으로 너프 등... 유저와 반목하려고 악의가 그득그득한 패치 좀 그만했으면..",
+      "source": "steam_review",
+      "time": "2026-09-04T13:42:33+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198049761106/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198049761106",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 13170,
+        "votes_up": 1,
+        "timestamp_created": 1788529353
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 모바일로 한거 포함하면 1000시간은 족히 넘게 한 이 게임에서 이렇게 정이 떨어질줄은 몰...",
+      "summary": "모바일로 한거 포함하면 1000시간은 족히 넘게 한 이 게임에서 이렇게 정이 떨어질줄은 몰랐다 프리코네 인플레 보면서 웃었는데 그게 내 게임 이야기가 될줄은 진짜 몰랐다",
+      "source": "steam_review",
+      "time": "2026-09-04T12:32:32+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198852980959/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198852980959",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 49202,
+        "votes_up": 1,
+        "timestamp_created": 1788525152
       },
       "region": "global",
       "archive_subtype": "review"
@@ -690,6 +782,144 @@
         "playtime_forever": 673,
         "votes_up": 0,
         "timestamp_created": 1788512366
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Slay The Spire lovecraftiano, picco assoluto",
+      "summary": "Slay The Spire lovecraftiano, picco assoluto",
+      "source": "steam_review",
+      "time": "2026-09-04T14:40:31+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199097746440/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199097746440",
+      "tags": [
+        "italian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2323,
+        "votes_up": 0,
+        "timestamp_created": 1788532831
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 好玩",
+      "summary": "好玩",
+      "source": "steam_review",
+      "time": "2026-09-04T14:35:44+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198793001408/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198793001408",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 8177,
+        "votes_up": 0,
+        "timestamp_created": 1788532544
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 패치를 좀 대국적으로 하십쇼. 개선이 아니라 초토화를 시켜버리네;;",
+      "summary": "패치를 좀 대국적으로 하십쇼. 개선이 아니라 초토화를 시켜버리네;;",
+      "source": "steam_review",
+      "time": "2026-09-04T14:07:13+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198065179412/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198065179412",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 6171,
+        "votes_up": 0,
+        "timestamp_created": 1788530833
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] [한국어]\r\n2주마다 예전 난이도 대비 10배 상승한 난이도의 엔드 컨텐츠를 깨야 합니다....",
+      "summary": "[한국어]\r\n2주마다 예전 난이도 대비 10배 상승한 난이도의 엔드 컨텐츠를 깨야 합니다.\r\n예전에도 뉴비들은 5개 중 2개 깨는데 대략 30분 이상 시간을 소요 해야 했었는데 지금은 보스전만 30분을 소요해야 합니다. 피통이 너무 늘어서 패턴을 파악하고 성실하게 스톨링해서 잡지 않으면 못 잡게 해놨으니까요.\r\n생각해보세요. 2주마다 보스전만 30분씩 해서 5개의 스테이지를 밀어야 합니다. \r\n다른 엔드 컨텐츠는 이미 너무 어려워서 손도 못대고 있는데 말이죠.\r\n뉴비가 엔드 컨텐츠를 다 못 미는 것이 정상이라고요?\r\n제가 말하는 건 엔드 컨텐츠의 가장 낮은 난이도 기준으로 말하는 겁니다. \r\n보통 '생각있는 게임사'가 설계하는 엔드 컨텐츠는 뉴비도 즐길 수 있게 난이도 조절을 하니까요. 웃음.\r\n진짜 기분 나쁜 것은 뭔 줄 압니까? \r\n소통이 늦어졌는데 기껏 내놓은 공지가 풀돌/영지체 미사용 클리어 기록이 있다고 내부 평가에 부합하다고 했습니다. \r\n모바일 게임 컨텐츠에 2주일에 3 ~ 4시간을 투자하는 것이 어떻게 내부 평가에 부합하다는 것인지 잘 모르겠습니다. 비슷한 게임을 많이 해본 경험으로 1시간이 넘어가는 것조차 헤비하다고 말하는데 말이죠. \r\n전 개발사의 생각을 잘 모르겠습니다. 이게 정말 내부 평가에 부합한 거라면 그런 거겠죠, 네. 이만 줄일께요.\r\n설마 이 장문의 글을 읽고도 이 게임을 해볼 사람은 없길 바랍니다.\r\n\r\n[영어]\r\nEvery two weeks, we have to clear end-game content with a difficulty level ten times higher than before.\r\nEven before, newbies used to spend roughly 30 minutes or more clearing two out of five stages, but now they have to spend 30 minutes just on the boss fight. Their HP has increased so much that they are designed to be impossible to defeat unless you figure out their patterns and stall diligently.\r\nThink about it. Every two weeks, we have to clear five stages by spending at least 30 minutes on just the boss fight.\r\nMeanwhile, the other end-game content is already so difficult that we can't even touch it.\r\nAre you saying it's normal for a newbie not to be able to clear all the end-game content?\r\nI am speaking based on the lowest difficulty level of the end-game content.\r\nUsually, end-game content designed by 'thoughtful game companies' is adjusted so that even newbies can enjoy it. *Laughs*\r\nDo you know what really annoys you?\r\nCommunication was delayed, and the announcement they finally released stated that clearing the game with full limit breaks and without using Territory Body shards meets internal evaluation standards.\r\nI don't really understand how investing 3 to 4 hours a week in mobile game content aligns with internal evaluations. Based on my experience playing many similar games, I consider anything over an hour to be \"heavy.\"\r\nI really don't understand the developer's thinking. If this truly meets their internal evaluation criteria, then so be it. I'll stop here.\r\nI sincerely hope no one actually tries this game after reading this long post.\r\n\r\n[중국어]\r\n每两周，我们就得挑战难度比以前高十倍的终局内容。\r\n以前新手大概要花30分钟才能通关五个关卡中的两个，现在光打boss就要花30分钟。boss的血量大幅提升，除非摸清他们的攻击模式并耐心拖延，否则根本无法战胜。\r\n想想看，每两​​周，我们光打boss就要花30分钟才能通关五个关卡。\r\n与此同时，其他终局内容的难度已经高到我们根本碰不到。\r\n你是说新手无法通关所有终局内容是正常的吗？\r\n我指的是终局内容的最低难度。\r\n通常来说，那些“用心”的游戏公司设计的终局内容都会进行调整，让新手也能享受游戏乐趣。*笑*\r\n你知道什么最让你恼火吗？\r\n沟通迟迟没有进展，最终发布的公告称，在不使用领域碎片且满破的情况下通关游戏符合内部评估标准。\r\n我实在不明白，每周花三四个小时玩手游怎么能算得上内部评估标准。根据我玩过很多类似游戏的经验，我认为超过一个小时就算“重度”游戏了。\r\n我真的无法理解开发商的想法。如果这真的符合他们的内部评估标准，那就随他们便吧。我就说到这里。\r\n我真心希望读完这篇长文后，没有人会真的去尝试这款游戏。",
+      "source": "steam_review",
+      "time": "2026-09-04T13:23:33+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198447192445/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198447192445",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 8446,
+        "votes_up": 0,
+        "timestamp_created": 1788528213
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 免费的才是最贵的，养成一眼望不到头，在steam上找二游只有社区不吵不恶心这一个优点",
+      "summary": "免费的才是最贵的，养成一眼望不到头，在steam上找二游只有社区不吵不恶心这一个优点",
+      "source": "steam_review",
+      "time": "2026-09-04T13:10:36+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198752815647/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198752815647",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 240,
+        "votes_up": 0,
+        "timestamp_created": 1788527436
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 지금 하지마 도망쳐 이새끼들 통수친다!",
+      "summary": "지금 하지마 도망쳐 이새끼들 통수친다!",
+      "source": "steam_review",
+      "time": "2026-09-04T12:41:59+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198219311141/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198219311141",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 5986,
+        "votes_up": 0,
+        "timestamp_created": 1788525719
       },
       "region": "global",
       "archive_subtype": "review"

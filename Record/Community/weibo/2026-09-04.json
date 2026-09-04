@@ -1,8 +1,8 @@
 {
   "date": "2026-09-04",
-  "archived_at": "2026-09-04T13:09:44.865437+00:00",
+  "archived_at": "2026-09-04T18:05:35.246018+00:00",
   "source": "weibo",
-  "item_count": 71,
+  "item_count": 72,
   "items": [
     {
       "title": "给忘却前夜画的塔薇命轮解禁啦，感谢项目组指导",
@@ -1060,6 +1060,21 @@
       "source": "weibo",
       "time": "2026-09-04T13:08:40.451575+00:00",
       "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [
+        "weibo"
+      ],
+      "lang": "",
+      "platform_region": ""
+    },
+    {
+      "title": "《忘却前夜》丨ED——「来自遗忘 」\n呼唤我的名字，在被忘却的黎明之前。\n\n献给每一位与弥萨格同行的守密人，愿银钥指引前路！\n\n企划：B.I.A.V. S",
+      "summary": "《忘却前夜》丨ED——「来自遗忘 」\n呼唤我的名字，在被忘却的黎明之前。\n\n献给每一位与弥萨格同行的守密人，愿银钥指引前路！\n\n企划：B.I.A.V. Studio\n中词：霁月 -B.I.A.V. Studio\n英译/曲：F.R.K. -B.I.A.V. Studio\n演唱/润色：Emi Evans -SCARLET MOON PRODUCTIONS\n特别鸣谢：Jayson Napoli ...全文",
+      "source": "weibo",
+      "time": "2026-09-04T04:05:00+00:00",
+      "url": "https://m.weibo.cn/status/5111587067138157",
       "engagement": 0,
       "is_hot": false,
       "author": "",
