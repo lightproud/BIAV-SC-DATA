@@ -1,9 +1,26 @@
 {
   "date": "2026-09-04",
-  "archived_at": "2026-09-04T18:05:35.157827+00:00",
+  "archived_at": "2026-09-04T22:47:20.060088+00:00",
   "source": "bilibili",
-  "item_count": 18,
+  "item_count": 20,
   "items": [
+    {
+      "title": "[忘却前夜]我天良心啊，送个100抽",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-04T14:19:28+00:00",
+      "url": "https://www.bilibili.com/video/av117213197506324",
+      "engagement": 472,
+      "is_hot": false,
+      "author": "TAZex影",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/51f8722bbcde3a19654bd42e9b667a45c3049915.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】8.31-9.13融灾禁区BOSS简易图鉴及思路推荐与简析",
       "summary": "你好，我又来晒歌单了",
@@ -206,6 +223,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/22e6a5a4da3b2d3601d98811146bfced6d5d0c3a.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】新融灾500",
+      "summary": "把助战沙耶扒下来换成24终于过了，\n但是还要再吃一次5-7的大奋，后悔当时借助战沙耶了，直接用自己的沙耶少吃一次键帽做的大奋",
+      "source": "bilibili",
+      "time": "2026-09-04T01:40:18+00:00",
+      "url": "https://www.bilibili.com/video/av117210194450130",
+      "engagement": 102,
+      "is_hot": false,
+      "author": "星咏ようむ",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/1d4b88e85415d640aa5886fd1d19961c9ff821f4.jpg",
       "content_type": "video"
     },
     {

@@ -1,9 +1,101 @@
 {
   "date": "2026-09-05",
-  "archived_at": "2026-09-04T18:05:35.244808+00:00",
+  "archived_at": "2026-09-04T22:47:20.070541+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 7,
   "items": [
+    {
+      "title": "[负面] I hate to say it, but I just don't recommend this...",
+      "summary": "I hate to say it, but I just don't recommend this game, not anymore.\n\nOther reviewers outline various concerns about it, and if you go through the negative reviews around my post time, you'll see why. however, the main reason I can't recommend this game is because this has been a slow creeping pattern of concerns that simply come down to a design i can't agree upon.\n\nDespite the game having a good story, art, and music, the gameplay design and monetization are shifting in ways I can't recommend. The developers seem shaky about their movements too. I've never played a game of this kind where i was so unexcited for new content or changes across such a long period. A common concern is the other version of the game and how it's handled, and that's crept into this version over time with things like divine realms (one of the ways characters affect others in their own type) getting constant mention. the sudden batch of negative reviews is just one of the most recent times it's gotten enough to have people speak against recommending since it affects how people have perceived the game and their progression. They took a solid endgame system altered it to a less scaled version causing concern to players at all tiers. All they had to do was add harder modes, not rework the whole thing. the covenant binding changes (what id call this games armor equivalent) also swiped at something i enjoyed about the games design considering team scope\n\nIt feels like to me the games going in a bad direction and there's no real way around it.   Since they've shifted the pvp to balancing only, and the PVE's become what it has, there's more than enough concerns on top of my personal time with the game being more and more disappointing, to just say while there's definitely reasons to play this, Id say it's not worth it.",
+      "source": "steam_review",
+      "time": "2026-09-04T17:37:34+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198000977120/recommended/3052450",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "76561198000977120",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 33856,
+        "votes_up": 5,
+        "timestamp_created": 1788543454
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] B.I.A.V. does not know what they are doing to thei...",
+      "summary": "B.I.A.V. does not know what they are doing to their own game. Absolute nosedive of management.",
+      "source": "steam_review",
+      "time": "2026-09-04T20:37:29+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199101784828/recommended/3052450",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "76561199101784828",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 29876,
+        "votes_up": 2,
+        "timestamp_created": 1788554249
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I play on mobile so that's why my hours here are l...",
+      "summary": "I play on mobile so that's why my hours here are low but I've been playing for over a year.\n\nI would not recommend the game in it's current state. The team have shadow nerfed characters with no compensation. Introduced 10 times hp inflation worse than anything Hoyoverse have ever done. Made 80% of the roster unable to clear the endgame all in a single patch. The compensation for this is 100 pulls which will expire in 3 months. This is a game I can no longer support or recommend because anything you do or spend money on will likely become useless in a month.\n\nI literally spent money last week on the character they have nerfed under the guise of a bugfix. I'd advise anyone who wants to try this game to not spend any money.\n\nAlso unfortunately all guides are now wrong as like I said earlier 80% of the characters in the game even ones that were on banner 3 weeks ago are now useless. At least with other gachas those characters would be relevant for at least 3 months. Well in morimens they are now only relevant whilst on banner before they are gutted.\n\nThe devs need to revert all changes.",
+      "source": "steam_review",
+      "time": "2026-09-04T20:21:27+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198308007548/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198308007548",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 101,
+        "votes_up": 1,
+        "timestamp_created": 1788553287
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 기싸움 오지고 지가 뭘 잘못한건지도 이해 못하는중 게임 망할거같다 유입하려는 사람들 도망가",
+      "summary": "기싸움 오지고 지가 뭘 잘못한건지도 이해 못하는중 게임 망할거같다 유입하려는 사람들 도망가",
+      "source": "steam_review",
+      "time": "2026-09-04T19:52:20+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198177359043/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198177359043",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 804,
+        "votes_up": 1,
+        "timestamp_created": 1788551540
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[负面] D-tide rework made it far too difficult for most p...",
       "summary": "D-tide rework made it far too difficult for most players, Corposant was nerfed trough a WoD \"bug fix\" right after her banner and while the WoD banner was still running, affinity farming was made unnecesarily time-consuming, the divine realms issue (which all have been explained more in-detail in other reviews before mine) and the nothingburger response from the devs which adressed only dtide, offered a band-aid fix which leaves them enough leverage to hp inflate again and hoped to smooth over the playerbase with pulls.\n\nFrankly, unless the issues are properly adressed and the devs actually fix the current state of the game (which they themselves have caused, hoping to milk the playerbase), I certainly won't be spending any money in this game.",
