@@ -1,9 +1,23 @@
 {
   "date": "2026-09-03",
-  "archived_at": "2026-09-03T22:59:08.860326+00:00",
+  "archived_at": "2026-09-04T02:52:05.201424+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
+    {
+      "title": "[Google Play 差评] ★1 Game is great. AI translations for the l",
+      "summary": "Game is great. AI translations for the later chapters isn't a major concern. Human translated works are WIP and in place for earlier chapters",
+      "source": "google_play",
+      "time": "2026-09-03T02:43:13",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-61df6b13-5a60-497b-ae9a-67bc8c90369a",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "tan hong yan",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
     {
       "title": "[Google Play 好评] ★5 I knew i had to try the game after rando",
       "summary": "I knew i had to try the game after randomly seeing a showcase of \"Caraboo\" on twitter. She is so full of whimsy and her \"Snowy Hex\" is a great crutch for new players who can't yet capitalize on damage multipliers stacking.",

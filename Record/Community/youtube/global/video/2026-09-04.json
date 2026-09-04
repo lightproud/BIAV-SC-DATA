@@ -1,8 +1,8 @@
 {
   "date": "2026-09-04",
-  "archived_at": "2026-09-03T22:59:08.765730+00:00",
+  "archived_at": "2026-09-04T02:52:05.129473+00:00",
   "source": "youtube",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "MORIMENS Character Review!!! //!gsupps",
@@ -119,6 +119,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/ZEaDUfnQvcA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "The fish Caught Us - Morimens (Chapter 6) Part 2",
+      "summary": "I keep getting off work past 12 sometimes past 1 am and so just for now I decided to upload and edit the last chapter I did 4 months ...",
+      "source": "youtube",
+      "time": "2026-09-03T23:00:27Z",
+      "url": "https://www.youtube.com/watch?v=84fPgu2psAE",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "SlyBlue",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/84fPgu2psAE/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

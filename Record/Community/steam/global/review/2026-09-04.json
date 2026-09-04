@@ -1,9 +1,55 @@
 {
   "date": "2026-09-04",
-  "archived_at": "2026-09-03T22:59:08.799591+00:00",
+  "archived_at": "2026-09-04T02:52:05.180344+00:00",
   "source": "steam",
-  "item_count": 11,
+  "item_count": 16,
   "items": [
+    {
+      "title": "[负面] The game is peak but the latest update is cringe",
+      "summary": "The game is peak but the latest update is cringe",
+      "source": "steam_review",
+      "time": "2026-09-04T00:26:05+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198190746250/recommended/3052450",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "76561198190746250",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 6042,
+        "votes_up": 2,
+        "timestamp_created": 1788481565
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Butchered its endgame causing many units to be com...",
+      "summary": "Butchered its endgame causing many units to be complety useless regardeless of money/pulls\n invested",
+      "source": "steam_review",
+      "time": "2026-09-03T23:14:35+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199171797079/recommended/3052450",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "76561199171797079",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 423,
+        "votes_up": 2,
+        "timestamp_created": 1788477275
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[负面] A game with excellent art and story- but it seems...",
       "summary": "A game with excellent art and story- but it seems like the developers are keen on ruining it for the sake of 'easy' cash.",
@@ -69,6 +115,29 @@
         "playtime_forever": 53276,
         "votes_up": 1,
         "timestamp_created": 1788464083
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I cannot recommend this game in the current state...",
+      "summary": "I cannot recommend this game in the current state it's in.\n\nThe devs recently implemented a new D-tide (endgame mode) system, in which the HP/damage numbers are insanely high to where even whales have to stick to a certain set of comps in order to clear some stages. The max non-cosmetic progression is at 450 points, which requires you interact with the Nightmare more difficulty on average.\n\nAdditionally, Corposant's Pilot getting buffed by Horla wheel interaction has been \"bugfixed\" after this interaction has been known for over an year - enough time to expect it as an interaction. Both Corposant and Horla wheel have reran recently, and \"bugfixing\" the interaction after both banners ran seems bad.\n\nThere is the affinity change, where it has now become incredibly hard to farm affinity (even from standard gameplay), and the stage difficulty influences the amount of affinity earned. Essentially, affinity farming has been worse across the board.\n\nNone of these issues have been properly addressed by the developers when each of these significantly harm the player experience.\n\nIf you're here for lore, like the art, or don't care about meta, you can probably find something in the game you like. However, if you care about endgame, it's not a game I can recommend for the reasons above.",
+      "source": "steam_review",
+      "time": "2026-09-04T01:35:03+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198814385386/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198814385386",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 2178,
+        "votes_up": 1,
+        "timestamp_created": 1788485703
       },
       "region": "global",
       "archive_subtype": "review"
@@ -253,6 +322,52 @@
         "playtime_forever": 705,
         "votes_up": 0,
         "timestamp_created": 1788457839
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 솔직히 12돌파라길레 시작안할라다가 찍먹했는데 재밌어서 몇개월안되서 몇십만원은 썼는데 진짜...",
+      "summary": "솔직히 12돌파라길레 시작안할라다가 찍먹했는데 재밌어서 몇개월안되서 몇십만원은 썼는데 진짜 제발 시작하지 마세요 제발!!!!!!!!!!!!!!!! 게임 키지도마 번역도 수정안되는건 기본에 계속 찐빠나서 저번주? 저저번주 까지도 번역찐빠가 나고 돈을 쓰면 뭐해 밸런스가 씹창인데 그냥 미리 정보 다 검색하고 영어로 찾아보고 해도 이해가 안가서 사람들한테 안물어보면 파티 짜기도 힘듬 거기까진 이해하겠는데 그냥 유저를 좆으로봄 제발...이게임 하지마세요 부탁드립니다.",
+      "source": "steam_review",
+      "time": "2026-09-04T02:22:17+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198006315391/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198006315391",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 6764,
+        "votes_up": 0,
+        "timestamp_created": 1788488537
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Baffling New Decisions: \nThe developers have made...",
+      "summary": "Baffling New Decisions: \nThe developers have made new balance changes that nerf players who don't spend an outrageous amount of money. I've spent fifty dollars and I'm scratching my head playing update. It was framed like it would be neutral to beneficial to the playerbase when the dust settles, but I'm not seeing that right now as I try to play end/mid game content.",
+      "source": "steam_review",
+      "time": "2026-09-04T01:50:30+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199069362464/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199069362464",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 12123,
+        "votes_up": 0,
+        "timestamp_created": 1788486630
       },
       "region": "global",
       "archive_subtype": "review"

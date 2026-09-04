@@ -1,8 +1,8 @@
 {
   "date": "2026-09-03",
-  "archived_at": "2026-09-03T22:59:08.766974+00:00",
+  "archived_at": "2026-09-04T02:52:05.131324+00:00",
   "source": "bilibili",
-  "item_count": 17,
+  "item_count": 18,
   "items": [
     {
       "title": "[忘却前夜]新融灾变动杂谈",
@@ -121,6 +121,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/a815eca7db99ae9e247210436e4689ab37f2d809.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "『忘却前夜』融灾第3波-困难",
+      "summary": "数值太逆天了 试了几个配队才过",
+      "source": "bilibili",
+      "time": "2026-09-03T09:33:06+00:00",
+      "url": "https://www.bilibili.com/video/av117206369306808",
+      "engagement": 133,
+      "is_hot": false,
+      "author": "九夏倦恋77",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/b52f3f8ef8ef3fac66f0f10c64990dbb665c96a8.jpg",
       "content_type": "video"
     },
     {
