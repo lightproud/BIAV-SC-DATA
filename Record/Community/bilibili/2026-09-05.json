@@ -1,8 +1,8 @@
 {
   "date": "2026-09-05",
-  "archived_at": "2026-09-05T12:22:34.134576+00:00",
+  "archived_at": "2026-09-05T17:09:07.128777+00:00",
   "source": "bilibili",
-  "item_count": 7,
+  "item_count": 9,
   "items": [
     {
       "title": "仿《忘却前夜》自学5个月，我的第一张游戏立绘",
@@ -22,6 +22,23 @@
       "content_type": "video"
     },
     {
+      "title": "【忘却前夜】建号百日无超限守密人 新融灾450纪念（8.31-9.13）",
+      "summary": "之前录融灾的号研究逃课把灵芝用完了，发现重置不能退灵芝，只能慢慢等灵芝恢复了。\n于是昨天换了个号录了个2图神父逃课，今天又靠灵芝逃了3图，算了下分数好像能打450了，于是把其他图也打了。\n因为4图5图难度陡增，所以推荐想拿满奖励的尽量逃课2图3图癫狂，4图5图打两个困难，1图打噩梦。\n如果队伍很多且有强力角色，也可以考虑123打癫狂，45拼4队打普通。\n另外不建议为了新融灾就去下混池，发的一百抽也还有很久才到期。",
+      "source": "bilibili",
+      "time": "2026-09-05T13:58:50+00:00",
+      "url": "https://www.bilibili.com/video/av117218767538714",
+      "engagement": 242,
+      "is_hot": false,
+      "author": "天辉信使Official",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/648d742837e7f570b5be8e3d996e1634c3decaf5.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "原来冲深渊难度过高，真的会降难度还补偿100限定抽吗？",
       "summary": "我去，校猫这操作怎么和我入坑前听到的风评完全不一样",
       "source": "bilibili",
@@ -36,6 +53,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/eb9b33bb6ff12fdac0534898f2b5761e1c6444ae.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "（油污李在肝神魔？）抽个拉布布没绷住",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-05T08:51:59+00:00",
+      "url": "https://www.bilibili.com/video/av117217576358164",
+      "engagement": 189,
+      "is_hot": false,
+      "author": "-第一帧-",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/50d19887ca134fc05c525447301a4d1042d2bcbb.jpg",
       "content_type": "video"
     },
     {

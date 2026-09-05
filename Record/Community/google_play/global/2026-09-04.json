@@ -1,8 +1,8 @@
 {
   "date": "2026-09-04",
-  "archived_at": "2026-09-05T12:22:34.160701+00:00",
+  "archived_at": "2026-09-05T17:09:07.191942+00:00",
   "source": "google_play",
-  "item_count": 4,
+  "item_count": 8,
   "items": [
     {
       "title": "[Google Play 好评] ★5 Hagan una película de morimens, morimens",
@@ -57,6 +57,62 @@
       "author": "Afandi Lot",
       "tags": [],
       "lang": "id",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 難得的好遊戲 可以有更多玩法",
+      "summary": "難得的好遊戲 可以有更多玩法",
+      "source": "google_play",
+      "time": "2026-09-04T13:56:37",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_TW#gp-087b07f4-df7b-4b7e-b1d2-cd209e3b5c6b",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ye You",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 難得的好遊戲 可以有更多玩法",
+      "summary": "難得的好遊戲 可以有更多玩法",
+      "source": "google_play",
+      "time": "2026-09-04T13:56:37",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_HK#gp-087b07f4-df7b-4b7e-b1d2-cd209e3b5c6b",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ye You",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 such an underrated gem. the gameplay mec",
+      "summary": "such an underrated gem. the gameplay mechanics are fire tbh. graphics and gacha systems are also pretty friendly. My main problem with it is the voice. English VA would have worked pretty great like that game we all know. I think the only reason it's still so underrated coz it has no other language audio pack. Not everyone enjoys the story in JAPANESE",
+      "source": "google_play",
+      "time": "2026-09-04T15:52:44",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-cf6c59e0-e80a-46b3-8469-2b7f4aa8a536",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "MD Shafayat",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 uno de los mejores juegos que e tenido l",
+      "summary": "uno de los mejores juegos que e tenido la dicha de probar",
+      "source": "google_play",
+      "time": "2026-09-04T15:31:34",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-28930be5-4663-4459-bccd-f4a4a9b8cc95",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Jose rodriguez",
+      "tags": [],
+      "lang": "es",
       "platform_region": "",
       "region": "global"
     }

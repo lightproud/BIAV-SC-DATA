@@ -1,8 +1,8 @@
 {
   "date": "2026-09-05",
-  "archived_at": "2026-09-05T12:22:34.143258+00:00",
+  "archived_at": "2026-09-05T17:09:07.138857+00:00",
   "source": "steam",
-  "item_count": 20,
+  "item_count": 23,
   "items": [
     {
       "title": "[负面] I hate to say it, but I just don't recommend this...",
@@ -460,6 +460,75 @@
         "playtime_forever": 378,
         "votes_up": 0,
         "timestamp_created": 1788588142
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Game had one of the best endgame modes of any gach...",
+      "summary": "Game had one of the best endgame modes of any gacha but with the recent patch, it's beyond whale-only. Even whales can't play the mode anymore. \"Life savings or nothing\" kind of deal...",
+      "source": "steam_review",
+      "time": "2026-09-05T15:54:20+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198271307869/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198271307869",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 17624,
+        "votes_up": 0,
+        "timestamp_created": 1788623660
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 玩法不错",
+      "summary": "玩法不错",
+      "source": "steam_review",
+      "time": "2026-09-05T15:17:24+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198665743723/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198665743723",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3202,
+        "votes_up": 0,
+        "timestamp_created": 1788621444
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 이번 업데이트로 인해 개발자가 유저를 어떻게 생각하는지 잘 알게되었다\n내가 옳다 라고 명시...",
+      "summary": "이번 업데이트로 인해 개발자가 유저를 어떻게 생각하는지 잘 알게되었다\n내가 옳다 라고 명시하는 개발사는 처음봤음\n현재는 비추",
+      "source": "steam_review",
+      "time": "2026-09-05T14:02:32+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198838655049/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198838655049",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 3430,
+        "votes_up": 0,
+        "timestamp_created": 1788616952
       },
       "region": "global",
       "archive_subtype": "review"

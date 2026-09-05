@@ -1,8 +1,8 @@
 {
   "date": "2026-09-05",
-  "archived_at": "2026-09-05T12:22:34.135535+00:00",
+  "archived_at": "2026-09-05T17:09:07.127781+00:00",
   "source": "youtube",
-  "item_count": 21,
+  "item_count": 22,
   "items": [
     {
       "title": "[Morimens] Boring Stream - Doing Train + Reading Story - Then Vampire Game/Star Wars.",
@@ -357,6 +357,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/QQn2nM5NHUI/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "完全初見で忘却前夜のストーリー進めていくよ～",
+      "summary": "前回と同じくストーリー進めてます。画質も少し向上させたかな。",
+      "source": "youtube",
+      "time": "2026-09-05T14:15:52Z",
+      "url": "https://www.youtube.com/watch?v=FKVUAWgDonc",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "卯木瑠璃",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/FKVUAWgDonc/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
