@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-05",
+  "messages": 2848,
+  "unique_authors": 215,
+  "reactions_total": 268,
+  "attachments": 185,
+  "channel_activity": {
+    "🔸綜合討論": 68,
+    "🔸阵容构建": 2,
+    "🔸morimens-game-chat": 1323,
+    "🔸한국어-채팅방": 4,
+    "🔸chaîne-française": 2,
+    "🔸русский-канал": 20,
+    "🔸phòng-chat-tiếng-việt": 41,
+    "🔸canal-español": 304,
+    "🔸canal-português": 8,
+    "🔸ruang-obrolan-indonesia": 222,
+    "🔸ห้องสนทนาภาษาไทย": 2,
+    "🔸traphase": 10,
+    "🔸lore-chat": 13,
+    "🔸频道建议┊server-suggestions": 7,
+    "🔸team-building": 262,
+    "🔸general-chat": 37,
+    "🔸邀请码互助┊swap-invitation-codes": 3,
+    "🔸game-question": 420,
+    "🔸机器人命令┊bot-commands": 11,
+    "PLEASE listen to us, we want the game to not eos": 1,
+    "提高戰鬥回放上限": 1,
+    "Please do not take the current situation too lightly.": 1,
+    "D-tide Feedback (New)": 2,
+    "無法獲得護盾效果表現形式不同之錯誤": 2,
+    "Jenkin the little rat": 1,
+    "D-tide Discussion": 62,
+    "Please rework how Propagation Caro works for the future units": 2,
+    "V2.5.1.0 停服维护公告": 1,
+    "On the D-Effect Zone Adjustments": 14,
+    "DRAWING ALISTAIR UNTIL HE BECOMES PLAYABLE🙏🙏🙏": 1,
+    "Mira (Keeper OC) art thread": 1
+  },
+  "hourly_activity": {
+    "0": 747,
+    "1": 939,
+    "2": 847,
+    "3": 315
+  },
+  "message_types": {
+    "0": 1843,
+    "19": 997,
+    "20": 8
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1545599471646154904",
+      "channel_id": "1545385622317965442",
+      "content": "<@1487626955791663208> dear light, i sincerely hope you take players feedback mo",
+      "author": "sacred_promises",
+      "reactions": 11,
+      "channel": "On the D-Effect Zone Adjustments"
+    },
+    {
+      "id": "1545619521908506624",
+      "channel_id": "1170692781216378960",
+      "content": "omgggg my first doubleee",
+      "author": "seraphystar",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545614567286251560",
+      "channel_id": "1170692781216378960",
+      "content": "also the Corpo \"bug fix\" was pretty shitty and they still havent addressed it",
+      "author": "cornonthemacabre_",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545595804805369967",
+      "channel_id": "1544152565921611837",
+      "content": "I'm a 2-month player who spent a small amount before the d-tide update (got enou",
+      "author": "catuniverse",
+      "reactions": 9,
+      "channel": "D-tide Feedback (New)"
+    },
+    {
+      "id": "1545607369747337387",
+      "channel_id": "1300659662311526512",
+      "content": "yo queria ver el pack de caraboo😭",
+      "author": "fernanh20",
+      "reactions": 8,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1545615233425481748",
+      "channel_id": "1545615233425481748",
+      "content": "現在融災癲狂環境下動不動就打20回合\n播放上限只有25回合的回放已經不夠看了\n不然你把癲狂削了也能解決這個問題",
+      "author": "water_heart",
+      "reactions": 8,
+      "channel": "提高戰鬥回放上限"
+    },
+    {
+      "id": "1545601436396552263",
+      "channel_id": "1170692781216378960",
+      "content": "Rate my pull",
+      "author": "nightosphereparty",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545628711817318503",
+      "channel_id": "1545628711817318503",
+      "content": "Im sure I speak for everyone here when I say that I truly do love this game, its",
+      "author": "kullervo47.",
+      "reactions": 6,
+      "channel": "PLEASE listen to us, we want the game to not eos"
+    },
+    {
+      "id": "1545612668218646578",
+      "channel_id": "1170692781216378960",
+      "content": "IKilledMorimens",
+      "author": "cornonthemacabre_",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545593954710589480",
+      "channel_id": "1170692781216378960",
+      "content": "I AA glotan and I'm annoyed",
+      "author": "angbak",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545592276988858418",
+      "channel_id": "1170692781216378960",
+      "content": "credit to lens",
+      "author": "princess.goth",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545594369547968523",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "angbak",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545594380109357156",
+      "channel_id": "1170692781216378960",
+      "content": "I remember when I was first clearing 425 on scuffed setups I mimicked turn rewin",
+      "author": "kinbote.",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545603745751244940",
+      "channel_id": "1170692781216378960",
+      "content": "https://cdn.discordapp.com/attachments/1325082176475103306/1534588577181335724/o",
+      "author": "ancientbp",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545618865004740718",
+      "channel_id": "1170692781216378960",
+      "content": "Ahm... Ryker... Are you not angry enough to attack so strongly?",
+      "author": "hectorwolffox",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545586183868911817",
+      "channel_id": "1300659662311526512",
+      "content": "quiero agradecer a mi mama, a mi papa y a mi peluche de bocchi por darme la posi",
+      "author": "fernanh20",
+      "reactions": 3,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1545602052699328537",
+      "channel_id": "1300659662311526512",
+      "content": "Cómo que el gladiador Caro ahora si sirve? Lo reseteé hace unos días 💀💀💀",
+      "author": "zarles0",
+      "reactions": 3,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1545625677360013382",
+      "channel_id": "1400749543288475770",
+      "content": "alr ty",
+      "author": "lillocthang",
+      "reactions": 3,
+      "channel": "🔸team-building"
+    },
+    {
+      "id": "1545637072252047381",
+      "channel_id": "1131839817982947429",
+      "content": "而且空幻有86天，應該是兩個小版本",
+      "author": "ena04564",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1545596371917217842",
+      "channel_id": "1170692781216378960",
+      "content": "i feel like i gotta be braindead my vortice doesn't do much dmg",
+      "author": "skvr3",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
