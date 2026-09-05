@@ -1,8 +1,8 @@
 {
   "date": "2026-09-05",
-  "archived_at": "2026-09-04T22:47:20.059715+00:00",
+  "archived_at": "2026-09-05T02:54:08.159252+00:00",
   "source": "youtube",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
     {
       "title": "[Morimens] Boring Stream - Doing Train + Reading Story - Then Vampire Game/Star Wars.",
@@ -56,6 +56,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "[Morimens] Dtide Coaching",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-09-05T01:10:06Z",
+      "url": "https://www.youtube.com/watch?v=8uymuchJDAg",
+      "engagement": 9,
+      "is_hot": false,
+      "author": "kizunoV",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/8uymuchJDAg/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "🔞 Yea.. We&#39;re reading again! :3 - Morimens",
       "summary": "Yea.. We're reading again! :3 Links https://www.twitch.tv/eepyghost https://discord.gg/tSq5H32dAm ...",
       "source": "youtube",
@@ -85,6 +102,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/CmDeDbAmhk8/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【딱 1시간】[ Morimens - 망각전야  ] 첫 플레이, 1시간 안에 어디까지? [풀버전]",
+      "summary": "딱 1시간”은 새 게임을 1시간만 플레이해보고, 첫인상을 정리하는 시리즈입니다. 게임의 방향과 재미를 부담 없이 빠르게 확인하고 ...",
+      "source": "youtube",
+      "time": "2026-09-04T23:00:33Z",
+      "url": "https://www.youtube.com/watch?v=HoKJkLNWaeY",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "윤픽",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/HoKJkLNWaeY/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

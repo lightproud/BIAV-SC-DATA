@@ -1,8 +1,8 @@
 {
   "date": "2026-09-05",
-  "archived_at": "2026-09-04T22:47:20.064713+00:00",
+  "archived_at": "2026-09-05T02:54:08.162901+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Steam论坛] The new D-Tide changes are a disaster that need to be reverted.",
@@ -13,6 +13,23 @@
       "engagement": 12,
       "is_hot": true,
       "author": "Trans Winkle",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] How do i know a covenant is good for a character?",
+      "summary": "I might have made the mistake of getting more and more \"Crimson Pulse\" covenant pieces but I noticed the auto equip which showed about 45% completion is now at 36, i assume the game auto picks the covenant pieces with the best stats for a character -G Hellot in this case- but does trying to get more \"completion\" helps?...",
+      "source": "steam_discussion",
+      "time": "2026-09-04T22:56:26+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591814398006495874/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Kalderman (Ain't it nice?)",
       "tags": [
         "steam_forum"
       ],

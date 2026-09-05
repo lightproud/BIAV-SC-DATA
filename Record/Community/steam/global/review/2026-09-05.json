@@ -1,8 +1,8 @@
 {
   "date": "2026-09-05",
-  "archived_at": "2026-09-04T22:47:20.070541+00:00",
+  "archived_at": "2026-09-05T02:54:08.168499+00:00",
   "source": "steam",
-  "item_count": 7,
+  "item_count": 11,
   "items": [
     {
       "title": "[负面] I hate to say it, but I just don't recommend this...",
@@ -46,6 +46,29 @@
         "playtime_forever": 29876,
         "votes_up": 2,
         "timestamp_created": 1788554249
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] While I initially liked and was a big fan of Morim...",
+      "summary": "While I initially liked and was a big fan of Morimens, I can say that over the recent months the Developers have tarnished the trust I had in them to upkeep with content I was expecting of them.\r\n\r\nI wont go into depth, but it mainly started from small things:\r\n-Absolute Axiom changes, which were heavily pushed against when initially announced due to the fact it'd be only available to big spenders. And we were assured that AA wouldnt be a deciding factor in unit or future content balance.\r\n\r\n-Gravitation towards more and more RNG-based Awakeners, which is balanced around a pay-to-win feature using a \"turn rewind\" that which by name lets you rewind a turn indefinitely. This feature is only available from a Premium Battle Pass that costs around 12-13usd a month or sometimes shorter during certain periods. This can also be seen in new realms that are more biased towards RNG which also negatively impact older units by forcing them into new realm rules and making them perform worse.\r\n\r\n-Affinity changes, which is essentially a method of unlocking more lore about specific units someone might enjoy. Through more stories and dialogue from them, which they \"buffed\" by using a new formula thats suppose to give you more affinity by prolonged battles and card usage of specific awakeners. However this in reality gutted affinity gain by 99% for overwhelming majority of players.\r\n\r\n-The issue of \"Bugfixes\" where known interactions that have been reported and talked about for over a year get patched unannounced when they have been assumed to be core parts of the character at that point, some of these are things like Lily getting 50% of her poison application gutted in one of those patches and 24 Chaos also suffering the same fate. However the most egregious one in recent history is Corposent and Last Verse interaction, where the Awakener Corposent had her 20% shield boost from Last Verse get \"Bugfixed\" and essentially gut the character from providing their main shielding role. Which is particularly egregious since Corposent and Last Verse were re-runned right before this bugfix, so many people invested into both the Awakener and WoD card and were now scammed out of that interaction that was known for over a year. The devs have stated they will compensated accounts that invested heavily for awakeners they have nerfed however under pretences of a \"Bugfix\" they arent obliged to do it.\r\n\r\n-New Dtide and generally endgame content has been extremely poor in actual gameplay, the developers promised that new content wouldnt be biased around OE or AA of Awakeners however, they have gone back on their word with release of things like Nightmare Dtide which not even big spender accounts can comfortably clear without things like turn rewind and meta stall teams.\r\n\r\nI've waited until the main dev response before making this and it only confirms my suspicion that the devs have no idea what the community wants nor what its complaining about with their recent history. As such I would heavily recommend against playing or even trying this game out until foreseeable future, if the devs manage to turn this around and not manage to ♥♥♥♥ it up in a year again ill remove this review.",
+      "source": "steam_review",
+      "time": "2026-09-04T21:59:38+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198844644146/recommended/3052450",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "76561198844644146",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 33495,
+        "votes_up": 2,
+        "timestamp_created": 1788559178
       },
       "region": "global",
       "archive_subtype": "review"
@@ -161,6 +184,75 @@
         "playtime_forever": 227,
         "votes_up": 0,
         "timestamp_created": 1788541035
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Vortice no my baby :(",
+      "summary": "Vortice no my baby :(",
+      "source": "steam_review",
+      "time": "2026-09-05T02:16:05+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198058158351/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198058158351",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 760,
+        "votes_up": 0,
+        "timestamp_created": 1788574565
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 먼저, 현재 해당 게임은 장기업데이트를 하며 뒤죽박죽된 코드 스파게티로 인한 뒤죽박죽인 번...",
+      "summary": "먼저, 현재 해당 게임은 장기업데이트를 하며 뒤죽박죽된 코드 스파게티로 인한 뒤죽박죽인 번역과 아예 캐릭간 스킬설명이 바뀌고 프레임드랍이 빈번하게 일어납니다. 거의 매 버젼 바뀌는 번역은 전통이 되었습니다. 같은 이유로 게임 및 스토리에 내에서 고유명사의 호칭이 일정하지 않으며, 아예 임시 텍스트라는 단어로 모든 단어가 대체되기도 합니다. \n\n또한 2주년 이후 꾸준히 현재 존재하는 계역에서 개선된 신규 개역들을 만들어내겠다는 취지를 가지고 캐릭터들의 방향성을 새로 만드는 과정에서 구 계역의 캐릭터들과 잘 호환되지 않고 경직성이 심해지는 문제가 있으며, 신 계역들은 1주년 이후 다양성을 위해서 여러 계역간의 조합제약을 풀어주었던 모습과는 대비됩니다. \n\n그리고 개선된 계역 중 혈육 계열은 노골적으로 핵심 카드인 배아의 생성 요구 수치가 2배로 늘어났으며, 자해의 디메리트를 유연하게 풀어나갈 용광로로 인한 회복조차 3턴에 1번으로 제한되었습니다. 거의 모든 신 계역이 3턴에 한 번만 해당 계역이 매턴마다 자유롭게 쓸 수 있었던 계역 내 기믹들을 사용하게끔 바뀌었으며, 그나마 3턴에 한 번같은 제약의 없는 원초 혼돈이라는 신규 계역 또한 기존 혼돈 계역의 아이덴티티였던 어떤 계역에 섞이던 패널티가 없다는 호환성이 사라졌습니다.\n\n2부 3장 때부터 후열부터 잡아야 하는 적과 부활하는 적들로 거의 대다수가 되었고, 대부분의 캐릭터는 시스템 상 특수한 매커니즘이나 전체타격이 없다면 전열만을 때릴 수 있게 되어있기에 진행해 있어 많은 애로사항이 생기게 되었습니다.  이것도 모자라다는 운영진의 판단 하에 이런 유형의 적들은 단순히 부활하는 것이 아닌, 이후 4장부터 되살아날 때마다 소멸 이후 모든 디버프를 제거한 상태로  최대체력으로 부활하게 개편되었으며 궁극기 봉인 및 슬더슬에서 사용하던 허약, 손상, 취약 등 다양한 디버프와 지울 수 없는 독등의 영구 피해 디버프와 함께 공격을 가하도록 바뀌었습니다. 이는 이후 장에서 카드 사용시 마다 받는 피해 감소, 영구 피해 증가등의 매커니즘과 함께 들어오게 되었으며, 적의 체급은 5배 가까이 뛰어올랐습니다. 후미로 갈수록 카드 조차 일정 수 이상 쓰지 못하도록 방향성이 잡혀있고, 몇 달 지나지 않아 들어올 3주년에서도 높은 확률로 더 많은 디메리트를 유저에게 안겨줄 예정입니다.\n\n마지막으로 주간 컨텐츠인 환몽 심장은 2주년 개편 이후로 랭킹에 들기 위해 하루마다 원트로 깨기 보상이 활성화되었을 때  잡몹 스테이지 하나만 밟고 갈수 있는 보스 하나만 걸리길 기도하는 기도메타가 유지되고 있으며 현재 가장 좋은 보상을 주던 격주 컨텐츠였던 융재금지구역은 뽑기 재화 보상컷인 450까지 닿기 위한 5악몽 클리어를 기준으로 개편 전의 최고난이도에 비해 보스들의 스펙만 5배 즈음 올랐고,  모든 보상을 얻기 위한 광기 난이도는 모든 캐릭터와 무기가 풀돌을 전제로 구성되었다고 느껴집니다. 보스의 체급이 18배 즈음 올라간 현재 융재의 9월 4일 기준으로 가장 마지막으로 해당 난이도를 깼던 수호자도 모든 캐릭터 풀돌로 돌파한 기록이 있습니다.\n\n카드게임을 좋아하고, 다크 판타지의 분위기를 좋아하며 수많은 제약을 돌파해내는 것을 좋아하는 플레이어라면 해당 게임을 추천합니다. 다양하게 추가되는 저격형 기믹들과 스토리에서 지원해주던 유물 없이 스펙 뻥튀기 된 적들을 환영하시는 분들은 이게임도 좋아하실거에요.",
+      "source": "steam_review",
+      "time": "2026-09-05T01:58:19+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198165464595/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198165464595",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 88593,
+        "votes_up": 0,
+        "timestamp_created": 1788573499
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Excelente historia, farmeo y gacha amigable.",
+      "summary": "Excelente historia, farmeo y gacha amigable.",
+      "source": "steam_review",
+      "time": "2026-09-04T23:04:56+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198053496360/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198053496360",
+      "tags": [
+        "spanish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1465,
+        "votes_up": 0,
+        "timestamp_created": 1788563096
       },
       "region": "global",
       "archive_subtype": "review"
