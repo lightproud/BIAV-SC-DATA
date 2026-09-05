@@ -1,0 +1,48 @@
+{
+  "date": "2026-09-05",
+  "archived_at": "2026-09-05T12:22:34.167236+00:00",
+  "source": "pixiv",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "『忘却前夜』の世界観をイメージして、キャラクターイラストを描いて",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-09-05T16:56:49+09:00",
+      "url": "https://www.pixiv.net/artworks/149301661",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "元帥銘",
+      "tags": [
+        "忘却前夜",
+        "オリジナル",
+        "オリジナルキャラクター",
+        "立ち絵",
+        "キャラ"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/09/05/16/56/49/149301661_p0_square1200.jpg",
+      "content_type": "image"
+    },
+    {
+      "title": "Hand it over, Keeper. Your Wish.",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-09-05T20:32:15+09:00",
+      "url": "https://www.pixiv.net/artworks/149309939",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "신채민シン・チェミン",
+      "tags": [
+        "Morimens",
+        "忘卻前夜",
+        "Karaboo"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/09/05/20/32/15/149309939_p0_square1200.jpg",
+      "content_type": "image"
+    }
+  ]
+}

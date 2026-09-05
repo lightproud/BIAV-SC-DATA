@@ -1,9 +1,26 @@
 {
   "date": "2026-09-05",
-  "archived_at": "2026-09-05T07:24:54.788044+00:00",
+  "archived_at": "2026-09-05T12:22:34.134576+00:00",
   "source": "bilibili",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
+    {
+      "title": "仿《忘却前夜》自学5个月，我的第一张游戏立绘",
+      "summary": "自学画画第5个月，第一次比较正式地尝试做一张游戏角色立绘。\n前段时间玩了一下《忘却前夜》，被它的美术风格吸引到了。相比一些需要投入大量时间的大世界二游，我自己更喜欢这种可以利用碎片时间玩的卡牌游戏，所以突然产生了一个想法：\n如果按照自己喜欢的游戏美术风格，亲手设计并画一个角色，会是什么效果？\n于是就有了这张「玛莉西亚・莱尔」。\n从线稿、上色、细化，到最后的立绘排版，大概用了4天。\n这是我从4月开始自学绘画以来，第5个月第一次真正按照“游戏原画”的方向去完成一张作品。\n现在距离真正成为游戏原画师还有很长的路",
+      "source": "bilibili",
+      "time": "2026-09-05T08:22:46+00:00",
+      "url": "https://www.bilibili.com/video/av117217458920263",
+      "engagement": 874,
+      "is_hot": false,
+      "author": "不懂艺术的元帅铭",
+      "tags": [
+        "绘画"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/b02b2e8a8e4ebc942f1e3990eb47209138fcc73b.jpg",
+      "content_type": "video"
+    },
     {
       "title": "原来冲深渊难度过高，真的会降难度还补偿100限定抽吗？",
       "summary": "我去，校猫这操作怎么和我入坑前听到的风评完全不一样",
@@ -70,6 +87,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/3e904b2172fcd587eb0fbc241431e836dded6e7c.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-05T08:50:06+00:00",
+      "url": "https://www.bilibili.com/video/av117217559649699",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "要疯掉了A加",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/febec9fdf7ad66a519b25e52dcadedbed8a638cc.jpg",
       "content_type": "video"
     },
     {

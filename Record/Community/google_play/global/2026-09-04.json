@@ -1,8 +1,8 @@
 {
   "date": "2026-09-04",
-  "archived_at": "2026-09-05T07:24:54.842122+00:00",
+  "archived_at": "2026-09-05T12:22:34.160701+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 好评] ★5 Hagan una película de morimens, morimens",
@@ -29,6 +29,34 @@
       "author": "Mafuyu Asahina",
       "tags": [],
       "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 사다리 다 걷어차는 업뎃함 진입ㄴㄴ",
+      "summary": "사다리 다 걷어차는 업뎃함 진입ㄴㄴ",
+      "source": "google_play",
+      "time": "2026-09-04T11:35:22",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-65eff675-7ac6-459e-ae86-b8481a4c35cb",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Lee Jeongsun",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 freeze trus whitescreen. Update: Nerf ka",
+      "summary": "freeze trus whitescreen. Update: Nerf karakter dengan dalih \"bug fix\", padahal karakternya sudah rilis lebih dari satu tahun dan bug yang \"di-fix\" ini juga sudah ada dari awal karakternya rilis, tanpa peringatan dan tanpa kompensasi apapun. Dengan nerf dan balancing semena-mena ini, saya urungkan niat untuk top up atau mengeluarkan uang di game ini. Terima kasih.",
+      "source": "google_play",
+      "time": "2026-09-04T08:03:42",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-bbc0e943-b038-4309-9ca7-99139a7039a9",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Afandi Lot",
+      "tags": [],
+      "lang": "id",
       "platform_region": "",
       "region": "global"
     }

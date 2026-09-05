@@ -1,8 +1,8 @@
 {
   "date": "2026-09-05",
-  "archived_at": "2026-09-05T07:24:54.800434+00:00",
+  "archived_at": "2026-09-05T12:22:34.143258+00:00",
   "source": "steam",
-  "item_count": 12,
+  "item_count": 20,
   "items": [
     {
       "title": "[负面] I hate to say it, but I just don't recommend this...",
@@ -74,6 +74,52 @@
       "archive_subtype": "review"
     },
     {
+      "title": "[负面] EOS",
+      "summary": "EOS",
+      "source": "steam_review",
+      "time": "2026-09-05T07:28:28+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198095943256/recommended/3052450",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "76561198095943256",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 4484,
+        "votes_up": 2,
+        "timestamp_created": 1788593308
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I must commend the game director's commitment to e...",
+      "summary": "I must commend the game director's commitment to equality, because his goal is to make every player feel equally miserable.",
+      "source": "steam_review",
+      "time": "2026-09-05T06:47:36+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198879871476/recommended/3052450",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "76561198879871476",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 51991,
+        "votes_up": 2,
+        "timestamp_created": 1788590856
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
       "title": "[负面] I play on mobile so that's why my hours here are l...",
       "summary": "I play on mobile so that's why my hours here are low but I've been playing for over a year.\n\nI would not recommend the game in it's current state. The team have shadow nerfed characters with no compensation. Introduced 10 times hp inflation worse than anything Hoyoverse have ever done. Made 80% of the roster unable to clear the endgame all in a single patch. The compensation for this is 100 pulls which will expire in 3 months. This is a game I can no longer support or recommend because anything you do or spend money on will likely become useless in a month.\n\nI literally spent money last week on the character they have nerfed under the guise of a bugfix. I'd advise anyone who wants to try this game to not spend any money.\n\nAlso unfortunately all guides are now wrong as like I said earlier 80% of the characters in the game even ones that were on banner 3 weeks ago are now useless. At least with other gachas those characters would be relevant for at least 3 months. Well in morimens they are now only relevant whilst on banner before they are gutted.\n\nThe devs need to revert all changes.",
       "source": "steam_review",
@@ -115,6 +161,75 @@
         "playtime_forever": 804,
         "votes_up": 1,
         "timestamp_created": 1788551540
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 谁能想到混池刚抽到+8皮还没法则就这样入土了，谁能想到上上周还是人权的诞墨莫夏就这么入土了，还有最短...",
+      "summary": "谁能想到混池刚抽到+8皮还没法则就这样入土了，谁能想到上上周还是人权的诞墨莫夏就这么入土了，还有最短花期超绝sp攻杀角色c罗，一百抽就想无事发生随便膨胀？值几个限定啊？银芯固化是用来守护自己亲冯的？我说一周年就该死了啊这游戏沙耶联动把我骗回来，想入坑回坑的统一回复：跑，键帽还是当初那个键帽，你能忍住零氪吃这坨那另说。",
+      "source": "steam_review",
+      "time": "2026-09-05T08:57:18+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198138857874/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198138857874",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 17880,
+        "votes_up": 1,
+        "timestamp_created": 1788598638
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 融灾血链希洛是给人打的吗？叠层反击，无敌技能，伤害又高，还他妈会破盾，要么没资源过了回合无敌踹死，要...",
+      "summary": "融灾血链希洛是给人打的吗？叠层反击，无敌技能，伤害又高，还他妈会破盾，要么没资源过了回合无敌踹死，要么循环起来你快她更快。还调整困难难度，先看看普通难度吧，人均2启灵的队伍连5-1都打不过，是人设计的吗",
+      "source": "steam_review",
+      "time": "2026-09-05T08:23:03+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199015686668/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561199015686668",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 2215,
+        "votes_up": 1,
+        "timestamp_created": 1788596583
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 융재 안 그래도 맵 하나를 통째로 턱 내놔서 귀찮아서 손이 안 갔는데 이번 패치 대체 뭐임...",
+      "summary": "융재 안 그래도 맵 하나를 통째로 턱 내놔서 귀찮아서 손이 안 갔는데 이번 패치 대체 뭐임? 원래도 빡세서 얻어봤자 보스만 있는 파만 돌아서 200~250 얻고 손절했는데 이젠 그냥 하지 말라는 소리? ㅜㅠㅜ 권장 레벨 70은 어디다 팔아먹으시고 60 80 90 밖에 없음?\n100개 걍 가져가고 원래대로 돌려내라 보름정도 안 쓰고 모으면 모이는거로 생색이 유난\n잘 번역해둔게 계속 꼬일 때부터 뭔가 불안했는데 찾아보니까 니네 장난 아니더라. 팀에 경력자 있는거 맞지?...",
+      "source": "steam_review",
+      "time": "2026-09-05T06:35:15+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198283162837/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198283162837",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 2142,
+        "votes_up": 1,
+        "timestamp_created": 1788590115
       },
       "region": "global",
       "archive_subtype": "review"
@@ -276,6 +391,75 @@
         "playtime_forever": 1884,
         "votes_up": 0,
         "timestamp_created": 1788580614
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 돈 쓰지 마세요 바로 직전 픽업캐릭도 2주만에 메타에 뒤떨어져 못쓰게 됩니다",
+      "summary": "돈 쓰지 마세요 바로 직전 픽업캐릭도 2주만에 메타에 뒤떨어져 못쓰게 됩니다",
+      "source": "steam_review",
+      "time": "2026-09-05T10:21:41+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198059063221/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198059063221",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 9137,
+        "votes_up": 0,
+        "timestamp_created": 1788603701
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] its a really good read, honestly. gameplay is grea...",
+      "summary": "its a really good read, honestly. gameplay is great but the story makes it something really special. definitely an underrated gem in the gacha space.",
+      "source": "steam_review",
+      "time": "2026-09-05T06:33:52+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198056019814/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198056019814",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1811,
+        "votes_up": 0,
+        "timestamp_created": 1788590032
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Goliath *drools*",
+      "summary": "Goliath *drools*",
+      "source": "steam_review",
+      "time": "2026-09-05T06:02:22+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198984161930/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198984161930",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 378,
+        "votes_up": 0,
+        "timestamp_created": 1788588142
       },
       "region": "global",
       "archive_subtype": "review"
