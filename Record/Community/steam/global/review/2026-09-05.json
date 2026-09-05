@@ -1,8 +1,8 @@
 {
   "date": "2026-09-05",
-  "archived_at": "2026-09-05T02:54:08.168499+00:00",
+  "archived_at": "2026-09-05T07:24:54.800434+00:00",
   "source": "steam",
-  "item_count": 11,
+  "item_count": 12,
   "items": [
     {
       "title": "[负面] I hate to say it, but I just don't recommend this...",
@@ -253,6 +253,29 @@
         "playtime_forever": 1465,
         "votes_up": 0,
         "timestamp_created": 1788563096
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 誰說劇情很頂的阿 你要不要去玩玩看Limbus Company，這遊戲劇情跟屎一樣突然發生突然結束",
+      "summary": "誰說劇情很頂的阿 你要不要去玩玩看Limbus Company，這遊戲劇情跟屎一樣突然發生突然結束",
+      "source": "steam_review",
+      "time": "2026-09-05T03:56:54+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198336618736/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198336618736",
+      "tags": [
+        "tchinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 1884,
+        "votes_up": 0,
+        "timestamp_created": 1788580614
       },
       "region": "global",
       "archive_subtype": "review"

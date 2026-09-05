@@ -1,8 +1,8 @@
 {
   "date": "2026-09-05",
-  "archived_at": "2026-09-05T02:54:08.157288+00:00",
+  "archived_at": "2026-09-05T07:24:54.788044+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 5,
   "items": [
     {
       "title": "原来冲深渊难度过高，真的会降难度还补偿100限定抽吗？",
@@ -22,6 +22,40 @@
       "content_type": "video"
     },
     {
+      "title": "三启食尸鬼？！强强？！",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-04T22:04:19+00:00",
+      "url": "https://www.bilibili.com/video/av117215026223174",
+      "engagement": 122,
+      "is_hot": false,
+      "author": "晴舟_",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/641ea86d773605763fe6c1116c16c763469bff0f.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "［相位］依旧小众雷霆阵容享受者",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-05T06:42:30+00:00",
+      "url": "https://www.bilibili.com/video/av117217056262293",
+      "engagement": 113,
+      "is_hot": false,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/0a7c8d9d5f731a239d6bf106a3ce6f36b6c0abec.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "【忘却前夜】0启神父与卡拉布 融灾2-7落地+王关逃课",
       "summary": "最开始只有600熔炉发现只打了零头，然后换配置叠命轮到790熔炉依旧不够打，一怒之下拿补偿的100抽歪了希洛和尤乌后成功拿下卡拉布。\n低配神父建议老老实实吃卡拉布，毕竟新血肉界域只有沙耶和卡拉布，kks只要你有耐心，每轮牌库卡拉布强效加上kks二费就能叠不少反击，而且神父还有力量成长，要拖很久的话可以考虑先不觉醒菲因特。\n建议是直接打癫狂，因为换噩梦对面BOSS输出不够反而要拖得更久。",
       "source": "bilibili",
@@ -36,6 +70,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/3e904b2172fcd587eb0fbc241431e836dded6e7c.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "仿《忘却前夜》自学5个月，我的一张游戏立绘",
+      "summary": "这是我自学绘画第5个月，第一次比较正式地完成一张游戏角色立绘。\n最开始是因为玩了一段时间《忘却前夜》，被它的美术风格吸引，所以想尝试自己模仿这种感觉画一个角色。\n从线稿到细化，大概画了4天。\n 现在距离我开始学习游戏原画还有一段距离，但这也是我第一次真正按照“游戏立绘”的方向去完成一张作品。\n目标：游戏原画师。\n 10月底开始系统学习，希望以后能画出真正属于自己的游戏角色。\n这是起点，也是我给自己留下的一张阶段记录。",
+      "source": "bilibili",
+      "time": "2026-09-05T07:22:11+00:00",
+      "url": "https://www.bilibili.com/video/av117217224039188",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "不懂艺术的元帅铭",
+      "tags": [
+        "绘画"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/7ba8583942076547b141bbb51f4a2b5bdc6b4c5d.jpg",
       "content_type": "video"
     }
   ]

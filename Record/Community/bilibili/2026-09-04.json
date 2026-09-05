@@ -1,8 +1,8 @@
 {
   "date": "2026-09-04",
-  "archived_at": "2026-09-05T02:54:08.158782+00:00",
+  "archived_at": "2026-09-05T07:24:54.788966+00:00",
   "source": "bilibili",
-  "item_count": 22,
+  "item_count": 23,
   "items": [
     {
       "title": "[忘却前夜]我天良心啊，送个100抽",
@@ -223,6 +223,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/9c48d05306fd59191508f86da227dd911a03bb9a.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘卻前夜】 零氪450",
+      "summary": "图五小蛋糕组萌化血希......",
+      "source": "bilibili",
+      "time": "2026-09-04T14:39:17+00:00",
+      "url": "https://www.bilibili.com/video/av117213281388551",
+      "engagement": 118,
+      "is_hot": false,
+      "author": "像火星照耀着州府",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/6d9855fd7f72038326865f5db7e18832b095bc66.jpg",
       "content_type": "video"
     },
     {
