@@ -1,9 +1,32 @@
 {
   "date": "2026-09-06",
-  "archived_at": "2026-09-05T19:55:49.040623+00:00",
+  "archived_at": "2026-09-05T22:39:05.608094+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
+    {
+      "title": "[负面] I've had a lot of good times with this game in the...",
+      "summary": "I've had a lot of good times with this game in the past, but the future is really not looking good now. If someone did want to play, I would only recommend playing 10-50 hours maximum to experience the story and earlygame gameplay. The state of the lategame has become like a curse which attempts to keep you sucked in only to blast you with unenjoyable and frankly unskilled (increasingly RNG dependent) gamestates. New character releases are vastly stronger than previous and the staff haven't really been playtesting new additions and reworks to the game since mid 2025 at the latest.",
+      "source": "steam_review",
+      "time": "2026-09-05T20:59:24+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198042765677/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198042765677",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 94625,
+        "votes_up": 1,
+        "timestamp_created": 1788641964
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[负面] Bring back old d-tide and just add a new difficult...",
       "summary": "Bring back old d-tide and just add a new difficulties on top of that if you want",
@@ -92,6 +115,29 @@
         "playtime_forever": 5015,
         "votes_up": 0,
         "timestamp_created": 1788631309
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面]",
+      "summary": "",
+      "source": "steam_review",
+      "time": "2026-09-05T21:13:25+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198981731827/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198981731827",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 5465,
+        "votes_up": 0,
+        "timestamp_created": 1788642805
       },
       "region": "global",
       "archive_subtype": "review"
