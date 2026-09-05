@@ -1,8 +1,8 @@
 {
   "date": "2026-09-05",
-  "archived_at": "2026-09-05T17:09:07.260147+00:00",
+  "archived_at": "2026-09-05T19:55:49.106147+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 6,
   "items": [
     {
       "title": "[Google Play 差评] ★1 I am very dissapointed with the new chan",
@@ -15,6 +15,76 @@
       "author": "Cap",
       "tags": [],
       "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★2 Update of an old review: the game is cha",
+      "summary": "Update of an old review: the game is changing, and not in a good way. I am here on behalf of a lot of people to say that unless the game changes before the anniversary, I fear many people may quit (some already started to do so) It is not too late to turn the changes around instead of giving us 100 pulls and an apology as damage control.. That simply doesn't address the bigger issue and promises that were broken about HP inflation and meta characters.... Please address the issue when possible!",
+      "source": "google_play",
+      "time": "2026-09-04T19:47:49",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-4f39b1c0-9696-4160-a603-6c11c68bdbdb",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "suny mony",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★2 Add 1 stage between normal - hard and 1",
+      "summary": "Add 1 stage between normal - hard and 1 more stage between hard - nightmare in d-tide or change it back to the old system, a boss having 45k hp on normal is fine but, the boss has 545k hp the next difficulty, a 12x stat increase. Resources that u need to get stronger are locked behind those stages which just forces u to whale. Address the affinity issues, rerunning a wod banner and corpo banner only for u to nerf them after people pulled, adress the main story difficulty as well Thank you.",
+      "source": "google_play",
+      "time": "2026-09-04T19:45:02",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-f7c9d2fa-6b2b-4ed9-a757-7177c63da27b",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "usami tkp",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 계정렙 66에 캐러 대부분 3돌인데도 여태 융재는 까다롭고 귀찮아서 손이",
+      "summary": "계정렙 66에 캐러 대부분 3돌인데도 여태 융재는 까다롭고 귀찮아서 손이 잘 안갔는데 이래버리면 어떡하냐... 모든 유저가 디코 가입해서 최신공략 공부하고 왜 안 깨지는지 질문하면서 겜하는거 아님. 공부하고 싶으면 공부하지 겜하겠냐고. 스토리 빨리 보기 가능하고 재화도 싸고 캐러도 예뻐서 열심히 질러댔더니 분위기 이상해서 검색 좀 돌려보니까 코퍼산트 너프는 뭔 이야기고, 3주년 전에 망하니 마니 소리가 나오고 있고 불안해서 지르겠냐? 리버스1999나 다시 깔러감",
+      "source": "google_play",
+      "time": "2026-09-04T18:14:34",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-7d1c8504-cf99-44cd-a728-df906833f28c",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "사용자1",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 very nice game, absolutely peak",
+      "summary": "very nice game, absolutely peak",
+      "source": "google_play",
+      "time": "2026-09-04T17:23:06",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-f7ecef89-f854-4545-bcd9-bc8df56e854a",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Rv",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 очень классная игра ! единственное что д",
+      "summary": "очень классная игра ! единственное что дизайны слишком уж изуродованные, но это лишь мое мнение",
+      "source": "google_play",
+      "time": "2026-09-04T18:00:51",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ru#gp-f798c4aa-e62f-4cb2-be9e-5b1160314436",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Машка Вилашка",
+      "tags": [],
+      "lang": "ru",
       "platform_region": "",
       "region": "global"
     }
