@@ -1,8 +1,8 @@
 {
   "date": "2026-09-07",
-  "archived_at": "2026-09-06T19:59:56.112834+00:00",
+  "archived_at": "2026-09-06T22:41:32.196481+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[负面] Game continuously put out patch after another that...",
@@ -69,6 +69,29 @@
         "playtime_forever": 41228,
         "votes_up": 1,
         "timestamp_created": 1788718787
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] I'd give it an overall 8/10 rating. The gameplay i...",
+      "summary": "I'd give it an overall 8/10 rating. The gameplay is really fun, has some unique mechanics, the story is also not bad at all, great even. F2p friendly. Overall great! I'm having a good time playing it. I'm still in the early game, so keep that in mind.",
+      "source": "steam_review",
+      "time": "2026-09-06T20:59:51+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198339562554/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198339562554",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 750,
+        "votes_up": 0,
+        "timestamp_created": 1788728391
       },
       "region": "global",
       "archive_subtype": "review"
