@@ -1,8 +1,8 @@
 {
   "date": "2026-09-06",
-  "archived_at": "2026-09-06T02:52:33.488126+00:00",
+  "archived_at": "2026-09-06T07:38:05.381293+00:00",
   "source": "steam",
-  "item_count": 10,
+  "item_count": 15,
   "items": [
     {
       "title": "[负面] I've had a lot of good times with this game in the...",
@@ -69,6 +69,52 @@
         "playtime_forever": 70818,
         "votes_up": 1,
         "timestamp_created": 1788649412
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I can't recommend this game after the 2.6 update....",
+      "summary": "I can't recommend this game after the 2.6 update. I think the devs simply can't understand that these card rougelikes play best if they are treated as a sandbox rather then some sort of invisible PVP where they are controlling their enemy and as such have to nerf every unit we have to levels of ass we haven't seen before.\n\nThey literally released this new amazing unit in 2.5 (GLotan) who played really nicely, was meta with a design everyone liked whether in terms of gameplay or aesthetic and then now that character shouldn't even be used in the end-game mode if not whaled out to the maximum.\n\nFor context on my hours, most of my recent hours have been in mobile.",
+      "source": "steam_review",
+      "time": "2026-09-06T04:37:40+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198069526530/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198069526530",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 18935,
+        "votes_up": 1,
+        "timestamp_created": 1788669460
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] The current newest update is incredibly bad for th...",
+      "summary": "The current newest update is incredibly bad for the games lifespan, and actively goes against everything the game is trying to be, hopefully the Dev's will make some actual changes and not just cop out of the situation.",
+      "source": "steam_review",
+      "time": "2026-09-06T04:26:06+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198312878320/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198312878320",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 39752,
+        "votes_up": 1,
+        "timestamp_created": 1788668766
       },
       "region": "global",
       "archive_subtype": "review"
@@ -230,6 +276,75 @@
         "playtime_forever": 5119,
         "votes_up": 0,
         "timestamp_created": 1788659495
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] This game WAS great. The change make me want to qu...",
+      "summary": "This game WAS great. The change make me want to quit, even though I already play for almost 2 years. This game is so bad rn, how can new player even do D-Tide? It use to be so new player - friendly. Then the meta shift. Corpo neft? The way they balance the game is so wrong. And the direction is so bad. They're not even listen to players anymore.",
+      "source": "steam_review",
+      "time": "2026-09-06T06:13:50+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199795068530/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199795068530",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 57281,
+        "votes_up": 0,
+        "timestamp_created": 1788675230
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] круто очень да молодцы",
+      "summary": "круто очень да молодцы",
+      "source": "steam_review",
+      "time": "2026-09-06T05:56:56+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198067864926/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198067864926",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 663,
+        "votes_up": 0,
+        "timestamp_created": 1788674216
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] they are fair when it comes to your odds, dont pus...",
+      "summary": "they are fair when it comes to your odds, dont push their gatcha in your face, nor have I come across some difficulty paywall. Give it a go if you like deckbuilders",
+      "source": "steam_review",
+      "time": "2026-09-06T04:01:21+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198055623216/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198055623216",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2297,
+        "votes_up": 0,
+        "timestamp_created": 1788667281
       },
       "region": "global",
       "archive_subtype": "review"

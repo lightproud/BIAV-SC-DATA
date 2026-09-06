@@ -1,8 +1,8 @@
 {
   "date": "2026-09-06",
-  "archived_at": "2026-09-06T02:52:33.451128+00:00",
+  "archived_at": "2026-09-06T07:38:05.371383+00:00",
   "source": "youtube",
-  "item_count": 8,
+  "item_count": 11,
   "items": [
     {
       "title": "[Morimens] Boring Stream - Verifying Light&#39;s statements Then Star WARS.",
@@ -90,6 +90,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "morimens pulls with an unexpected geometrical twist",
+      "summary": "ignore the weird delay in the second half.",
+      "source": "youtube",
+      "time": "2026-09-06T04:45:17Z",
+      "url": "https://www.youtube.com/watch?v=bsG1HWNnlfs",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "phoebe wuwa fishing",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/bsG1HWNnlfs/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "[Morimens] Light&#39;s Official Statements on Endgame, Corpo Nerf, Divine Realms ONLY from now on",
       "summary": "https://buymeacoffee.com/flares https://discord.gg/yypzJhgcUP - Personal Flares Discord ...",
       "source": "youtube",
@@ -119,6 +136,40 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/161LVR4QDXs/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "SHE PULLED OUT HER GUTS... 💀 #morimens",
+      "summary": "Jenkin went completely unhinged in this Morimens chapter! I was NOT prepared for the wax sculpture scene... #morimens ...",
+      "source": "youtube",
+      "time": "2026-09-06T07:16:17Z",
+      "url": "https://www.youtube.com/watch?v=H8OhUWAHAlg",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "RunaMarie",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/H8OhUWAHAlg/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】イベント「霧境の燔祭」失われた自我「両目を覆う・超難度」",
+      "summary": "忘却前夜 ムシェット用の死亡抵抗率密約セット作りました。 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-09-06T06:19:04Z",
+      "url": "https://www.youtube.com/watch?v=QKyfOVDjBus",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/QKyfOVDjBus/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

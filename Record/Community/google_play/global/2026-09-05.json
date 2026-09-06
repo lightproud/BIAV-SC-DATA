@@ -1,8 +1,8 @@
 {
   "date": "2026-09-05",
-  "archived_at": "2026-09-06T02:52:33.560303+00:00",
+  "archived_at": "2026-09-06T07:38:05.390175+00:00",
   "source": "google_play",
-  "item_count": 7,
+  "item_count": 10,
   "items": [
     {
       "title": "[Google Play 差评] ★1 I am very dissapointed with the new chan",
@@ -99,6 +99,48 @@
       "author": "이준걸",
       "tags": [],
       "lang": "ko",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 Morimens is a beautiful game, and a week",
+      "summary": "Morimens is a beautiful game, and a week ago I would have given my highest praises and recommendations. But the release of 2.6.0 has butchered endgame content to the point that most characters in the roster cannot be viable event at max (16 copies) investment. There is no incentive to make progress beyond clearing Story stages when even the highest spenders can barely clear content; for context, final boss HP went from below 10 million to hundreds of millions, in a single patch. As is, no bueno.",
+      "source": "google_play",
+      "time": "2026-09-05T06:06:13",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-155e5742-d27b-47d9-b8d1-ca93cb3b71cb",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Obselete 6in",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★2 Finally tried out the game. The story is",
+      "summary": "Finally tried out the game. The story is so so with awkward dialogue and confusing storytelling The powercreep is insane. Units need multiple dupes just to be viable for endgame. Not sure how the meta is rn considering 90% of units are useless. Gameplay is solid. It's different enough from CZN while having its own flair. Love the Cosmic horror atmosphere, although it's still anime trope-ish. Art style is great, but UI is confusing and distracting. Overall, it's good but very flawed.",
+      "source": "google_play",
+      "time": "2026-09-05T02:51:53",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-43924410-4922-4baa-99a0-bce6df4489cc",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Kien Nguyen",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 hermoso juego, muy recomendado 👌, estéti",
+      "summary": "hermoso juego, muy recomendado 👌, estética única y historia profunda, le deseo todo lo mejor 🙏",
+      "source": "google_play",
+      "time": "2026-09-05T07:25:20",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-2f339e63-7bea-460e-9608-827d85bdd158",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "DANIEL PADILLA",
+      "tags": [],
+      "lang": "es",
       "platform_region": "",
       "region": "global"
     }

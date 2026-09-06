@@ -1,9 +1,43 @@
 {
   "date": "2026-09-06",
-  "archived_at": "2026-09-06T02:52:33.451496+00:00",
+  "archived_at": "2026-09-06T07:38:05.371656+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
+    {
+      "title": "【忘却前夜】电脑里有一款2年前的T0角色如今高难登顶的神秘二游",
+      "summary": "本次融灾女生宿舍怪谈：\n1.一觉醒来融灾水温上升10倍，众C变成了卡拉布而我24姐依旧闲庭信步\n2.融朵大人在 “融毁朵尔COS大赛”上获得第二名的好成绩\n3.一个没有血池的队伍在9回合获得了50无底创痕\n4.血希是一只蝉，在她漫长的一生（12回合）中，有绝大多数时间都停留在了幼年期\n\n碎碎念：我徐何时复刻，急急急",
+      "source": "bilibili",
+      "time": "2026-09-06T04:21:51+00:00",
+      "url": "https://www.bilibili.com/video/av117222173379662",
+      "engagement": 523,
+      "is_hot": false,
+      "author": "芙拉普利菌",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/053ed7443cfb950b9934c4f403144aa5c6b2b567.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "塔薇，旧时代主c的眼泪，最后的谢幕……",
+      "summary": "晚安……塔薇，你死在了校猫数值膨胀的大手下……我恨啊！！！",
+      "source": "bilibili",
+      "time": "2026-09-06T05:04:46+00:00",
+      "url": "https://www.bilibili.com/video/av117222324312057",
+      "engagement": 178,
+      "is_hot": false,
+      "author": "孤影站在黑暗中",
+      "tags": [
+        "小剧场"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/b5402d54150aadefbab277288aeba86afe809d17.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】癫狂1 +4地瓜磨到大道寂灭 通关思路",
       "summary": "",
