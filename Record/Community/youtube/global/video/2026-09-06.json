@@ -1,8 +1,8 @@
 {
   "date": "2026-09-06",
-  "archived_at": "2026-09-06T07:38:05.371383+00:00",
+  "archived_at": "2026-09-06T12:37:14.036462+00:00",
   "source": "youtube",
-  "item_count": 11,
+  "item_count": 16,
   "items": [
     {
       "title": "[Morimens] Boring Stream - Verifying Light&#39;s statements Then Star WARS.",
@@ -90,6 +90,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "【忘却前夜】コラボストを見ることができぬ男【星辰編１章】",
+      "summary": "低気圧を絶対に許さない(頭を押さえながら） Twitter(X)→https://x.com/to_m4fuyu.",
+      "source": "youtube",
+      "time": "2026-09-06T11:57:15Z",
+      "url": "https://www.youtube.com/watch?v=EbLdjkZkEio",
+      "engagement": 13,
+      "is_hot": false,
+      "author": "to真冬",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/EbLdjkZkEio/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "morimens pulls with an unexpected geometrical twist",
       "summary": "ignore the weird delay in the second half.",
       "source": "youtube",
@@ -102,6 +119,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/bsG1HWNnlfs/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "忘卻前夜 Morimens 초한 폰토스 재탕",
+      "summary": "h 5-11 준비용 실험.",
+      "source": "youtube",
+      "time": "2026-09-06T11:14:27Z",
+      "url": "https://www.youtube.com/watch?v=apQ2n6os09I",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "사탕발림",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/apQ2n6os09I/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -141,6 +175,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Crimson Snare",
+      "summary": "Provided to YouTube by DistroKid Crimson Snare · B.I.A.V. Studio Morimens OST┊Uvhash EP: Blood and Sand of No Return ...",
+      "source": "youtube",
+      "time": "2026-09-06T07:38:30Z",
+      "url": "https://www.youtube.com/watch?v=QcPllygvBrU",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "B.I.A.V. Studio - Topic",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/QcPllygvBrU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "SHE PULLED OUT HER GUTS... 💀 #morimens",
       "summary": "Jenkin went completely unhinged in this Morimens chapter! I was NOT prepared for the wax sculpture scene... #morimens ...",
       "source": "youtube",
@@ -170,6 +221,40 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/QKyfOVDjBus/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Talking a bit more about d-tide then continuing story",
+      "summary": "Yes i'm still at gmurphy chapter haven't had that much time to stream and i didn't wanna use it for story. Hopefully it's better than ...",
+      "source": "youtube",
+      "time": "2026-09-06T10:45:44Z",
+      "url": "https://www.youtube.com/watch?v=ES1c2zNW0cc",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Dumb Keeper",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/ES1c2zNW0cc/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "#忘卻前夜 #morimens Regional D-Effect Zone Wave 3 : Hard! 融災3-2(困難)Boss戰的部分!",
+      "summary": "忘卻前夜 #morimens 融災更新,8月31日~9月14日. Regional D-Effect Zone Update ( Aug 31–Sep 14). 3-2 多段攻擊但會招小怪,似乎 ...",
+      "source": "youtube",
+      "time": "2026-09-06T10:00:38Z",
+      "url": "https://www.youtube.com/watch?v=teP3Rg0pLU8",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Noir",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/teP3Rg0pLU8/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

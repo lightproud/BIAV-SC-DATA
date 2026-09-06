@@ -1,9 +1,23 @@
 {
   "date": "2026-09-05",
-  "archived_at": "2026-09-06T07:38:05.390175+00:00",
+  "archived_at": "2026-09-06T12:37:14.087508+00:00",
   "source": "google_play",
-  "item_count": 10,
+  "item_count": 13,
   "items": [
+    {
+      "title": "[Google Play 差评] ★2 pro : beautiful art, good gameplay & gen",
+      "summary": "pro : beautiful art, good gameplay & generous reward con : Difficulty Spike, Hp Inflation, Enemy Hit Harder, heavy dupe & lag",
+      "source": "google_play",
+      "time": "2026-09-05T09:27:06",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-0785ea4c-7527-40dc-ba32-08c2188948d5",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Himari Bun",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
     {
       "title": "[Google Play 差评] ★1 I am very dissapointed with the new chan",
       "summary": "I am very dissapointed with the new changes. I joined before Saya released and have been playing religiously only to see everything from the most offensive like the affinity changes making it much harder to increase affinity levels and the new difficulty update making all endgame modes p2w checks, and now there's minor adjustments that dont mean anything either. I will not be changing my rating untill it's fixed, and i really hope it does get fixed",
@@ -141,6 +155,34 @@
       "author": "DANIEL PADILLA",
       "tags": [],
       "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Creo que me pasé más tiempo descargando",
+      "summary": "Creo que me pasé más tiempo descargando el juego que jugando, es bueno, pero sí es medio difícil, así que después de un tiempo perdiendo, lo dejé hay instalado, sin tocarlo, después volveré a jugar, quizás, pero en sí no es malo, diría que en el aspecto ¿Lovecraft?, por lo menos estética, da una experiencia más característica, en comparación a Chaos Zero Nightmare, que se orienta en algo similar, diría que morimens da un poco de mal rollo, pero creo que ese es el punto.",
+      "source": "google_play",
+      "time": "2026-09-05T11:47:29",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-68345e8f-2b72-4f11-a1f5-ec5641176ec1",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Un usuario de Google",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 ultimamente parei de jogar e7, clt mais",
+      "summary": "ultimamente parei de jogar e7, clt mais o pvp dele estavam acabando comigo kk ai achei esse game que me surpreendeu de uma forma que pqp e ainda e traduzido top de mais facil de pegar as bonecas arts lindas sem apelaçao desnecessaria recomendo muito e tem um pvp maneiro que tu nao precisa se matar pra acompanhar",
+      "source": "google_play",
+      "time": "2026-09-05T11:59:49",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=pt#gp-e9d73f6a-7798-470c-8e3e-dd6cf256da10",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "M.d.a AMV's",
+      "tags": [],
+      "lang": "pt",
       "platform_region": "",
       "region": "global"
     }

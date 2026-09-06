@@ -1,8 +1,8 @@
 {
   "date": "2026-09-06",
-  "archived_at": "2026-09-06T07:38:05.381293+00:00",
+  "archived_at": "2026-09-06T12:37:14.049325+00:00",
   "source": "steam",
-  "item_count": 15,
+  "item_count": 23,
   "items": [
     {
       "title": "[负面] I've had a lot of good times with this game in the...",
@@ -345,6 +345,190 @@
         "playtime_forever": 2297,
         "votes_up": 0,
         "timestamp_created": 1788667281
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Im quite sad to write this review honestly, i love...",
+      "summary": "Im quite sad to write this review honestly, i love/d this game and spent way more time on mobile than just shown on steam but the direction it has been taking lately is really difficult to support. Late game is getting dragged through the gutter and the Dev's are refusing to listen to constructive feedback. At this point it seems like the game is not getting playtested at all and we are in for a very tough ride. As someone who even went out of their comfort zone to produce content on Youtube for this game i cannot recommend getting into it anymore unless you are just here as a Character collector who doesnt really care about a games systems...",
+      "source": "steam_review",
+      "time": "2026-09-06T11:33:31+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198235335680/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198235335680",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 30499,
+        "votes_up": 0,
+        "timestamp_created": 1788694411
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I can't recommend this game anymore with how the r...",
+      "summary": "I can't recommend this game anymore with how the recent changes make it a lot less f2p/newbie-friendly, which is a shame because the game has a lot of potential.",
+      "source": "steam_review",
+      "time": "2026-09-06T11:13:32+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198172205345/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198172205345",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 7876,
+        "votes_up": 0,
+        "timestamp_created": 1788693212
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] У игры был большой потенциал на момент релиза, кот...",
+      "summary": "У игры был большой потенциал на момент релиза, который, увы, так и не оправдал ожиданий. Прошло почти два года, а игра всё еще ощущается очень сырой. Да, визуал, музыка, дизайн персонажей - всё это на высоте, но интерфейс, кнопки, выкидывание карт в бою и прочее остается топорным. ИИ перевод от чата гпт тоже не радует. С одной стороны, спасибо, что хоть какой-то перевод есть, а с другой - понять сюжет, вникнуть в лор почти нереально. Ощущатся некая халтура и то, что разрабы уже сами потеряли всякую надежду на игру. \nОтдельный респект, конечно, можно отдать за коллабу с saya no uta. \nВ остальном же... я бы не рекомендовала эту игру, если не хотите тратить время на откровенно сырой продукт.",
+      "source": "steam_review",
+      "time": "2026-09-06T10:15:15+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199785646327/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199785646327",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 271,
+        "votes_up": 0,
+        "timestamp_created": 1788689715
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] прикольная игра,если надоели гачи от хойо ,вам сюд...",
+      "summary": "прикольная игра,если надоели гачи от хойо ,вам сюда. Боевка приятная,впервыу такое вижу,карточная боевка.Очень многог наград при входе,это радует,так как в геншине тока 1 стандарт перс , и то на годовщину. Почему она не популярна ((",
+      "source": "steam_review",
+      "time": "2026-09-06T10:11:10+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199827803106/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199827803106",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 42,
+        "votes_up": 0,
+        "timestamp_created": 1788689470
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] HEAR ME OUT VERY QUICKLY:\n\nThe game mechanics are...",
+      "summary": "HEAR ME OUT VERY QUICKLY:\n\nThe game mechanics are NICE. The combat is pretty good, honestly. AS A GAME, I guess it’s actually kind of great. But as a “Lovecraftian” game???? No. I’m so sorry, but NO.\n\nI do recommend this game to people who just want a card-brawler gacha. It fulfills that purpose pretty well, in that sense. (I will keep recommending Library of Ruina forever, though, which is a full game with no microtransactions.)\n\nMy negative review is specifically for those who are interested in the Lovecraftian aspect of the game, and only that aspect. The trailers and promotional artwork depict the game as some kind of anime Bloodborne-inspired card game, with beautiful and ominous imagery. And that was precisely what made me install it.\n\nBut once you actually start playing, you’ll notice that most of the enemies are basically “Lesser Black Goo Male Humanoid” and “Great Hyper-Deadly Black Goo Female Humanoid With a Tragic Name.”\n\nThere are exceptions, of course, but the so-called Lovecraftian enemies are essentially the result of an illness that infects humans and turns them into... black goo humanoids wearing white Ghibli masks.\n\nAnd then, once I finished the tutorial, the game gave me the usual “Ten Free Pulls for New Players” that you see in basically every gacha game.\n\nAnd what did I get? My first super-super-rare character.\n\nAn incredibly, SUPER SEXY cheerleader-themed girl who screams every four seconds:\n“ARA ARA, MY CUTIES! KYAAAA! I’LL GIVE YOU PAIN! KYAAA!” —moaning—.\n\n??????????????????????\n\nThat right there killed my entire immersion in the game.\n\nI just can’t take it seriously when it tries to present itself as “Lovecraftian” cosmic horror, while also being obviously yet another gacha game with an 85% female / 15% male playable-character ratio, complete with big-bosomed priestesses and witches.\n\nI INSIST. I REALLY, REALLY INSIST.\n\nI DID enjoy the mechanics. I genuinely liked how the combo system works, and the combat itself is pretty solid.\n\nAS A GAME, IT IS KIND OF SOLID. YES.\nBut if you came here for the cosmic horror...\n\nWell, I hope you have some kind of phobia for cosmic-moaning, badonka-donk generic waifus.",
+      "source": "steam_review",
+      "time": "2026-09-06T09:08:16+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198118860701/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198118860701",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 235,
+        "votes_up": 0,
+        "timestamp_created": 1788685696
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Gluten : (\n\nNew charecter made useless less then a...",
+      "summary": "Gluten : (\n\nNew charecter made useless less then a month after release.",
+      "source": "steam_review",
+      "time": "2026-09-06T09:03:23+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199497797610/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199497797610",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 44,
+        "votes_up": 0,
+        "timestamp_created": 1788685403
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] So far, very fun, very F2P friendly in the beginni...",
+      "summary": "So far, very fun, very F2P friendly in the beginning, guessing en-game D-Dives are intense enough only whales succeed. I'm not a hyper-optimizer anyway, so won't affect me much. If you are not intrested in ultra-endgame grinds, just playing for fun, I can highly recommend, if you are however, probobly not a great game if you want to compete as F2P.",
+      "source": "steam_review",
+      "time": "2026-09-06T08:42:41+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198028536031/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198028536031",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1034,
+        "votes_up": 0,
+        "timestamp_created": 1788684161
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Since we are playing in a Cthulhu setting, they sh...",
+      "summary": "Since we are playing in a Cthulhu setting, they should know better that \"testing the waters\" with the new D-Tide changes could awake some incommensurable horrors within...",
+      "source": "steam_review",
+      "time": "2026-09-06T08:38:06+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198007134975/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198007134975",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 26693,
+        "votes_up": 0,
+        "timestamp_created": 1788683886
       },
       "region": "global",
       "archive_subtype": "review"
