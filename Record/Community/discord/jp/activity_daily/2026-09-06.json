@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-06",
+  "messages": 29,
+  "unique_authors": 12,
+  "reactions_total": 9,
+  "attachments": 2,
+  "channel_activity": {
+    "💬なんでも雑談（ネタバレあり）": 21,
+    "🔰初心者質問": 1,
+    "塗りのセンスが無かった": 1,
+    "忘却前夜妄想、二次創作部屋": 6
+  },
+  "hourly_activity": {
+    "1": 2,
+    "2": 8,
+    "3": 12,
+    "0": 7
+  },
+  "message_types": {
+    "0": 29
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1545996163046711417",
+      "channel_id": "1545996163046711417",
+      "content": "線画で力尽きた守秘者ですの。色塗りとかの練習にしてあげてくださいまし……！",
+      "author": "mamiyatsukuyomi",
+      "reactions": 5,
+      "channel": "塗りのセンスが無かった"
+    },
+    {
+      "id": "1545948725480923256",
+      "channel_id": "1544998415887241256",
+      "content": "尚この後守秘者と眠れない夜(課題)を行う模様",
+      "author": "wataame3555",
+      "reactions": 4,
+      "channel": "忘却前夜妄想、二次創作部屋"
+    }
+  ]
+}
