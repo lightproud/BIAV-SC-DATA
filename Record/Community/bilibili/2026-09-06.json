@@ -1,8 +1,8 @@
 {
   "date": "2026-09-06",
-  "archived_at": "2026-09-05T22:39:05.546250+00:00",
+  "archived_at": "2026-09-06T02:52:33.451496+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "【忘却前夜】癫狂1 +4地瓜磨到大道寂灭 通关思路",
@@ -19,6 +19,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/76e7405c82ec33f190afbcfbdd29d52cfeb2d29a.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "依旧感谢百连抽",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-06T01:24:26+00:00",
+      "url": "https://www.bilibili.com/video/av117221468800700",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "电汽工程",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/f4e0a7e98f507d45da26f16addf1e8b8e7394336.jpg",
       "content_type": "video"
     }
   ]

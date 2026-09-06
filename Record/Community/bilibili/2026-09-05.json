@@ -1,8 +1,8 @@
 {
   "date": "2026-09-05",
-  "archived_at": "2026-09-05T22:39:05.543861+00:00",
+  "archived_at": "2026-09-06T02:52:33.450655+00:00",
   "source": "bilibili",
-  "item_count": 9,
+  "item_count": 10,
   "items": [
     {
       "title": "仿《忘却前夜》自学5个月，我的第一张游戏立绘",
@@ -104,6 +104,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/0a7c8d9d5f731a239d6bf106a3ce6f36b6c0abec.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】450记录",
+      "summary": "怪好强，唤醒体好多区",
+      "source": "bilibili",
+      "time": "2026-09-05T05:46:27+00:00",
+      "url": "https://www.bilibili.com/video/av117216838224039",
+      "engagement": 105,
+      "is_hot": false,
+      "author": "双葉Rio",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/eafcb7655b1b633728a0c6dbc899157c9327afa6.jpg",
       "content_type": "video"
     },
     {

@@ -1,8 +1,8 @@
 {
   "date": "2026-09-06",
-  "archived_at": "2026-09-05T22:39:05.608094+00:00",
+  "archived_at": "2026-09-06T02:52:33.488126+00:00",
   "source": "steam",
-  "item_count": 6,
+  "item_count": 10,
   "items": [
     {
       "title": "[负面] I've had a lot of good times with this game in the...",
@@ -23,6 +23,52 @@
         "playtime_forever": 94625,
         "votes_up": 1,
         "timestamp_created": 1788641964
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Morimens is in a bad spot and the views of the dev...",
+      "summary": "Morimens is in a bad spot and the views of the development team make it difficult for me to believe it will be getting much better. In a single patch they:\r\n- \"Fixed\" a \"bug\" that was a 2+ Year long interaction, nerfing an above average at best unit by 20%. This also cost players real life money when they reran the character and the wheel responsible for the interaction right before the nerf.\r\n- Overhauled the affinity system giving an average time to max out a stat that previously took 30 minutes to take well over quadruple the time.\r\n- Overhauled the endgame, killing early investment endgame entirely, butchering the progression of endgame, and inflating hp and damage by close to 20 times. YES 20x HIGHER HP.\r\n- Decided that the controversial divine realms would replace all current realm options on future characters without exception.\r\n\r\nWhen it comes to the lead producers response to these issues, they just completely ignored everything. They gave out 100 limited time pulls that wont even last until the next patch, said \"Im sowwy :(\", nerfed the hp by 50% in the mid levels for the NEXT rotation, and moved on. Currently the lead producer is posting about cosmetics in the discord and informing the community that they don't actually care about any of the issues people have with the latest update. I generally am of the opinion that the players shouldn't be involved in the balancing for the game. However, when the developers are so inept that they cant even test new features before rolling them out to the wider playerbase, saying sorry and then doing ♥♥♥♥♥♥♥♥♥, maybe we would be better suited to making an enjoyable game.\r\n\r\nI was planning to spend money to secure E3 Kath during her rerun soon, but seeing as the new endgame basically boxes out 95% of teams including all of my current favorites I find it hard to have the motivation to even boot up this game. Its a shame that I finally found a favorite gacha and it almost immediately shoots itself in the foot. Being as this game just barely survived an EOS scare I suggest Light takes a bit more caution with what they roll out if they want to stay in business. I see the distributor for the JP version is down 60% since publishing Morimens.\r\n\r\nI really like this game and want to be optimistic but every day the odds of this game turning around from here seem slimmer and slimmer.",
+      "source": "steam_review",
+      "time": "2026-09-06T01:00:34+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198360880701/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198360880701",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 7784,
+        "votes_up": 1,
+        "timestamp_created": 1788656434
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Liars",
+      "summary": "Liars",
+      "source": "steam_review",
+      "time": "2026-09-05T23:03:32+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198069650833/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198069650833",
+      "tags": [
+        "spanish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 70818,
+        "votes_up": 1,
+        "timestamp_created": 1788649412
       },
       "region": "global",
       "archive_subtype": "review"
@@ -138,6 +184,52 @@
         "playtime_forever": 5465,
         "votes_up": 0,
         "timestamp_created": 1788642805
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Cara jogo incrível, Ele é bem gótico e com as tril...",
+      "summary": "Cara jogo incrível, Ele é bem gótico e com as trilhas sonoras muito boas, tudo conversa e combina muito bem! Adorei, História forte de cada personagem gostei muito disso tmb",
+      "source": "steam_review",
+      "time": "2026-09-06T02:21:06+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198660508040/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198660508040",
+      "tags": [
+        "brazilian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 141,
+        "votes_up": 0,
+        "timestamp_created": 1788661266
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] hhhhhhhhhhhhhhhhhhh",
+      "summary": "hhhhhhhhhhhhhhhhhhh",
+      "source": "steam_review",
+      "time": "2026-09-06T01:51:35+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199868842410/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199868842410",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 5119,
+        "votes_up": 0,
+        "timestamp_created": 1788659495
       },
       "region": "global",
       "archive_subtype": "review"

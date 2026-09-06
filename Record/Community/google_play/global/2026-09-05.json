@@ -1,8 +1,8 @@
 {
   "date": "2026-09-05",
-  "archived_at": "2026-09-05T22:39:05.700752+00:00",
+  "archived_at": "2026-09-06T02:52:33.560303+00:00",
   "source": "google_play",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "[Google Play 差评] ★1 I am very dissapointed with the new chan",
@@ -85,6 +85,20 @@
       "author": "Машка Вилашка",
       "tags": [],
       "lang": "ru",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 9월4일 공지가 나왔다. 그런데 이 개발자들은 이 악물고 \"나는 틀리지",
+      "summary": "9월4일 공지가 나왔다. 그런데 이 개발자들은 이 악물고 \"나는 틀리지 않았다\" 라고 생각하는 모양인데 그냥 확실히 해줄게 \"넌 틀렸어 또다른 중국인아 네 진정한 수장님을 받아들이는게 차라리 나을것 같다.\" hp20~50% 줄인다고? 저번 버전보다 피통이 무슨 10배 이러고 있는건 알고는 있나? 누군가는 깬다고???? 시진핑의 시민 답게 이 악물고 몇일간 아무런 공지도 없이 계집답게 기싸움 하다가 누군가 깨기만을 기다렸잖아??? 이게 극소수의 \"명예\"를 위한 거라면 새로운 컨텐츠 를 개발했어야지 융해구역은 그런 컨텐츠가 아니였다고 반년안에 일본 서버는 종료 할테고 적당히 해라 대가리가 이번에 바뀌었다 들었는데 너도 서비스 종료 당하고 싶은거냐???????",
+      "source": "google_play",
+      "time": "2026-09-04T23:23:43",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-04266428-7355-4255-9931-dcf2857e63db",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "이준걸",
+      "tags": [],
+      "lang": "ko",
       "platform_region": "",
       "region": "global"
     }
