@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-06",
-  "archived_at": "2026-09-06T19:59:56.100222+00:00",
+  "date": "2026-09-07",
+  "archived_at": "2026-09-06T19:59:56.061561+00:00",
   "source": "steam",
   "item_count": 2,
   "items": [
@@ -8,9 +8,9 @@
       "title": "[Steam论坛] The new D-Tide changes are a disaster that need to be reverted.",
       "summary": "The backlash on all other social media and especially on Discord has been severe enough that I'm optimistic that it will be reverted but I wanted to post here about it anyway. \n\nWhy are the changes so bad?  Users on the Morimens Discord diagnose the problems as:\n>New players can’t feasibly clear Normal mode in the time that it took them to clear a1-a2 on the previous D-Zone.\n>The jump from Normal mode to Hard mode is WAY too much. A tenfold increase in HP is too high of a gap for players to reas",
       "source": "steam_discussion",
-      "time": "2026-09-05T16:20:15+00:00",
+      "time": "2026-09-06T19:51:17+00:00",
       "url": "https://steamcommunity.com/app/3052450/discussions/0/591814398006335284/",
-      "engagement": 18,
+      "engagement": 23,
       "is_hot": true,
       "author": "Trans Winkle",
       "tags": [
@@ -22,14 +22,14 @@
       "archive_subtype": "discussion"
     },
     {
-      "title": "[Steam论坛] Time to get all achievements?",
-      "summary": "I only care about that and visuals look interesating enough.",
+      "title": "[Steam论坛] Is Pollux worth it?",
+      "summary": "Is it worth investing my monthly dupe thingies on Pollux(currently E1) if I already have an OE Jenkins? I'm currently running jenkins with castor/arachme/horla and wondering if a high investment pollux would be better than her",
       "source": "steam_discussion",
-      "time": "2026-09-06T15:09:14+00:00",
-      "url": "https://steamcommunity.com/app/3052450/discussions/0/591814721688139045/",
-      "engagement": 3,
+      "time": "2026-09-06T19:06:27+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591814056255650541/",
+      "engagement": 9,
       "is_hot": false,
-      "author": "Skay",
+      "author": "DingusDork",
       "tags": [
         "steam_forum"
       ],

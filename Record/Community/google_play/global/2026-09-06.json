@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-06",
+  "archived_at": "2026-09-06T19:59:56.196387+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 The recent update has nerfed several cha",
+      "summary": "The recent update has nerfed several characters while massively increasing the difficulty of the endgame and allowing people to use the p2w revive item in it. This is a blatant cash grab.",
+      "source": "google_play",
+      "time": "2026-09-05T19:10:29",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-0d35d3c5-d36f-4dd2-8f2c-fe528ce3e365",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "A",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Es un juego hermoso, hasta donde pude en",
+      "summary": "Es un juego hermoso, hasta donde pude entender, después de terminar el capítulo 1,la historia te presenta personajes interesantes,una jugabilidad poco confusa pero original,lo seguiré jugando por un buen tiempo hasta que me harte.",
+      "source": "google_play",
+      "time": "2026-09-05T19:38:37",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-3718e0cf-749c-4283-a2d7-65edcb14aac1",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "david rodas",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}
