@@ -1,57 +1,98 @@
 {
   "date": "2026-09-06",
-  "messages": 3110,
-  "unique_authors": 180,
-  "reactions_total": 413,
-  "attachments": 195,
+  "messages": 8642,
+  "unique_authors": 316,
+  "reactions_total": 1080,
+  "attachments": 474,
   "channel_activity": {
-    "🔸綜合討論": 18,
-    "🔸morimens-game-chat": 1805,
-    "🔸课间休息闲聊": 1,
-    "🔸chaîne-française": 1,
-    "🔸русский-канал": 73,
-    "🔸phòng-chat-tiếng-việt": 18,
-    "🔸canal-español": 86,
-    "🔸canal-português": 5,
-    "🔸ruang-obrolan-indonesia": 36,
-    "🔸ห้องสนทนาภาษาไทย": 11,
-    "🔸lore-chat": 14,
-    "🔸lets-count": 1,
-    "🔸team-building": 35,
-    "🔸general-chat": 66,
-    "🔸game-question": 877,
-    "🔸机器人命令┊bot-commands": 7,
-    "摸魚 放點塗鴉✍️": 1,
-    "Light, why?": 14,
+    "🔸綜合討論": 87,
+    "🔸阵容构建": 3,
+    "🔸morimens-game-chat": 4970,
+    "🔸剧情交流": 2,
+    "🔸晒卡分享": 4,
+    "🔸欢乐梗图": 3,
+    "🔸相位对弈": 4,
+    "🔸课间休息闲聊": 50,
+    "🔸交友频道": 1,
+    "🔸日本語チャンネル": 3,
+    "🔸한국어-채팅방": 49,
+    "🔸deutscher-chatraum": 1,
+    "🔸chaîne-française": 2,
+    "🔸русский-канал": 279,
+    "🔸phòng-chat-tiếng-việt": 206,
+    "🔸canal-español": 109,
+    "🔸canal-português": 6,
+    "🔸ruang-obrolan-indonesia": 181,
+    "🔸ห้องสนทนาภาษาไทย": 29,
+    "🔸traphase": 4,
+    "🔸lore-chat": 42,
+    "🔸lets-count": 5,
+    "🔸频道建议┊server-suggestions": 1,
+    "🔸team-building": 204,
+    "🔸general-chat": 366,
+    "🔸邀请码互助┊swap-invitation-codes": 6,
+    "🔸game-question": 1705,
+    "🔸游戏问题": 13,
+    "🔸机器人命令┊bot-commands": 31,
+    "摸魚 放點塗鴉✍️": 7,
+    "这个那个": 4,
+    "Pls give out origin of time for limited awakener & wheels": 2,
+    "神超维bug": 1,
+    "Light, why?": 100,
+    "Jenkin the little rat": 5,
+    "D-tide Discussion": 42,
+    "Better handling of nerfs through bug fixes": 8,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 2,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 2,
+    "Kill stealing, we could fix it": 5,
+    "Please rework how Propagation Caro works for the future units": 51,
+    "V2.5.1.0 停服维护公告": 7,
+    "On the D-Effect Zone Adjustments": 10,
+    "hamposting by lin": 2,
+    "morimens team generator!!": 1,
+    "The Arc 1 GDoll Incident Compilation": 1,
+    "9-12忘却该怎么过": 6,
+    "入坑三天新人": 2,
+    "Lineup help": 2,
+    "Can someone explain me Ultra and Divine Ultra realms?": 1,
+    "team building help": 2,
     "light wtf is wrong with you": 2,
     "Suggesting to create a testing team": 4,
     "Turn Rewind Feature from Premium BP and Replay of finished Battle do not exceed turn 25.": 1,
-    "Jenkin the little rat": 2,
-    "D-tide Discussion": 8,
     "Corposant and Last Verse \"Bugfix\"": 1,
-    "Better handling of nerfs through bug fixes": 4,
-    "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
-    "Kill stealing, we could fix it": 4,
-    "Please rework how Propagation Caro works for the future units": 3,
-    "V2.5.1.0 停服维护公告": 1,
-    "On the D-Effect Zone Adjustments": 5,
     "N 🌹": 1,
     "My morimens arts": 1,
     "V2.6.0 卡拉布✦唤醒体&命轮介绍┊Caraboo✦Awakener & Wheel of Destiny Introduction┊카라부✦각성체 & 명륜 소개": 2,
     "【Newcomer Help】Forum Introduction": 1
   },
   "hourly_activity": {
+    "3": 565,
+    "4": 915,
+    "5": 816,
+    "6": 632,
+    "7": 592,
+    "8": 1237,
+    "9": 745,
+    "10": 342,
     "1": 888,
     "2": 825,
-    "3": 312,
     "0": 1085
   },
   "message_types": {
-    "0": 2153,
-    "19": 945,
-    "20": 12
+    "0": 5726,
+    "19": 2884,
+    "20": 31,
+    "4": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1546011084346105856",
+      "channel_id": "1546011084346105856",
+      "content": "With the current situation in dtide, it seems that nightmare difficulty will be ",
+      "author": "sacred_promises",
+      "reactions": 25,
+      "channel": "Pls give out origin of time for limited awakener & wheels"
+    },
     {
       "id": "1545959717753462824",
       "channel_id": "1170692781216378960",
@@ -69,12 +110,76 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1546078941754949723",
+      "channel_id": "1170692781216378960",
+      "content": "DO WE NEED SIX SAYA EMOTES",
+      "author": "alistiel",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546007278224801882",
+      "channel_id": "1170692781216378960",
+      "content": "like im doing arc 1 hard rn and i shouldnt have to do these small battles",
+      "author": "serahh__",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546019775573000292",
+      "channel_id": "1545385622317965442",
+      "content": "Please save  for tomorrow \nI'm too occupied today and cant join y'all <:Horla_cr",
+      "author": "dontmindme.000",
+      "reactions": 9,
+      "channel": "On the D-Effect Zone Adjustments"
+    },
+    {
       "id": "1545973304903606342",
       "channel_id": "1170692781216378960",
       "content": "she seems wholesome",
       "author": "78x",
       "reactions": 8,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546077604547661864",
+      "channel_id": "1131839817982947429",
+      "content": "<:Ogier_cheer:1468259351889318049>",
+      "author": "angbak",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546003702911860756",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "lobotomiecorp337",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546045581007392810",
+      "channel_id": "1170692781216378960",
+      "content": "blitzing the through the story with this",
+      "author": ".txnovicegamer",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546061061017567362",
+      "channel_id": "1174983699935277147",
+      "content": "忘记发了  \n我有90级萝坦和90级塔薇了<:Lotan_proud:1356053120651755641> <:Tawil_loneliness:14601",
+      "author": "sweet_25367",
+      "reactions": 7,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1546007403378643084",
+      "channel_id": "1545385622317965442",
+      "content": "我不想要一百抽，我想要更舒適的遊玩體驗 🙁 一百轉頭就抽完了啊。",
+      "author": "amstelredam",
+      "reactions": 7,
+      "channel": "On the D-Effect Zone Adjustments"
     },
     {
       "id": "1545975282953883690",
@@ -101,116 +206,44 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1545971388194488371",
+      "id": "1546086182255984661",
+      "channel_id": "1131839817982947429",
+      "content": "距離疊滿10飽食還差1供奉\n自信滿滿的算好了牌堆規劃\n然後回合開始看到唯一的賜福卡在最後一張抽不出來\n血壓上來了",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546102583003844638",
+      "channel_id": "1131839817982947429",
+      "content": "超好笑",
+      "author": "nemu_s_t_a_r",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546002147714408528",
       "channel_id": "1170692781216378960",
-      "content": "https://klipy.com/gifs/speed-symboli-sirius-symboli",
-      "author": "serahh__",
+      "content": "667",
+      "author": "laplace.in.my.head",
       "reactions": 6,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1545971789325402173",
+      "id": "1546016959231950898",
       "channel_id": "1170692781216378960",
-      "content": "pollux is lowk a hotter version of xiao from genshin impact",
-      "author": "serahh__",
+      "content": "woah the wave 5 madness boss from the next dtide rotation got leaked from the te",
+      "author": "reya.li",
       "reactions": 6,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1545973331545821224",
-      "channel_id": "1170692781216378960",
-      "content": "actually i get the feeling this game is full of angst",
-      "author": "78x",
+      "id": "1546013894575919124",
+      "channel_id": "1545385622317965442",
+      "content": "",
+      "author": "crowlov1",
       "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1545979693499420753",
-      "channel_id": "1170692781216378960",
-      "content": "10th pull",
-      "author": "78x",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1545947272930664498",
-      "channel_id": "1170692781216378960",
-      "content": "kade hop on morimens",
-      "author": "syruponstrawberrycake",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1545951823981051974",
-      "channel_id": "1170692781216378960",
-      "content": "https://klipy.com/gifs/lebron-james-i-guess-bro",
-      "author": "serahh__",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1545971582277648404",
-      "channel_id": "1170692781216378960",
-      "content": "skull emoji x3",
-      "author": "serahh__",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1545978798481350676",
-      "channel_id": "1300659662311526512",
-      "content": "QUE",
-      "author": "sayokolefay",
-      "reactions": 5,
-      "channel": "🔸canal-español"
-    },
-    {
-      "id": "1545952810183692338",
-      "channel_id": "1400750050208125010",
-      "content": "i thought it would attack on the side",
-      "author": "syruponstrawberrycake",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1545946722377797703",
-      "channel_id": "1170692781216378960",
-      "content": "I guess I'll have to use this",
-      "author": "legendaryredz",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1545951524537237674",
-      "channel_id": "1170692781216378960",
-      "content": "Arc 2",
-      "author": "serahh__",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1545978328932941926",
-      "channel_id": "1170692781216378960",
-      "content": "I don't get it I am using her exalt every turn after first turn",
-      "author": "zettaizer0",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1545978973949919285",
-      "channel_id": "1170692781216378960",
-      "content": "Killing myself",
-      "author": "601671_",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1545981102710198313",
-      "channel_id": "1170692781216378960",
-      "content": "i lied i did 1 5 pull",
-      "author": "78x",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
+      "channel": "On the D-Effect Zone Adjustments"
     }
   ]
 }
