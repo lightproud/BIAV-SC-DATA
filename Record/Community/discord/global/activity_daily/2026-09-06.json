@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-06",
+  "messages": 3110,
+  "unique_authors": 180,
+  "reactions_total": 413,
+  "attachments": 195,
+  "channel_activity": {
+    "🔸綜合討論": 18,
+    "🔸morimens-game-chat": 1805,
+    "🔸课间休息闲聊": 1,
+    "🔸chaîne-française": 1,
+    "🔸русский-канал": 73,
+    "🔸phòng-chat-tiếng-việt": 18,
+    "🔸canal-español": 86,
+    "🔸canal-português": 5,
+    "🔸ruang-obrolan-indonesia": 36,
+    "🔸ห้องสนทนาภาษาไทย": 11,
+    "🔸lore-chat": 14,
+    "🔸lets-count": 1,
+    "🔸team-building": 35,
+    "🔸general-chat": 66,
+    "🔸game-question": 877,
+    "🔸机器人命令┊bot-commands": 7,
+    "摸魚 放點塗鴉✍️": 1,
+    "Light, why?": 14,
+    "light wtf is wrong with you": 2,
+    "Suggesting to create a testing team": 4,
+    "Turn Rewind Feature from Premium BP and Replay of finished Battle do not exceed turn 25.": 1,
+    "Jenkin the little rat": 2,
+    "D-tide Discussion": 8,
+    "Corposant and Last Verse \"Bugfix\"": 1,
+    "Better handling of nerfs through bug fixes": 4,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
+    "Kill stealing, we could fix it": 4,
+    "Please rework how Propagation Caro works for the future units": 3,
+    "V2.5.1.0 停服维护公告": 1,
+    "On the D-Effect Zone Adjustments": 5,
+    "N 🌹": 1,
+    "My morimens arts": 1,
+    "V2.6.0 卡拉布✦唤醒体&命轮介绍┊Caraboo✦Awakener & Wheel of Destiny Introduction┊카라부✦각성체 & 명륜 소개": 2,
+    "【Newcomer Help】Forum Introduction": 1
+  },
+  "hourly_activity": {
+    "1": 888,
+    "2": 825,
+    "3": 312,
+    "0": 1085
+  },
+  "message_types": {
+    "0": 2153,
+    "19": 945,
+    "20": 12
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1545959717753462824",
+      "channel_id": "1170692781216378960",
+      "content": "<@193043069275209728> <@693983290423509042> \nI did it\nWith my own team ! \n3* dea",
+      "author": "legendaryredz",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545974493854302309",
+      "channel_id": "1170692781216378960",
+      "content": "my only exposure to this game is my friends going ham for the men",
+      "author": "78x",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545973304903606342",
+      "channel_id": "1170692781216378960",
+      "content": "she seems wholesome",
+      "author": "78x",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545975282953883690",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "azaenya",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545976901795979326",
+      "channel_id": "1170692781216378960",
+      "content": "https://cdn.discordapp.com/attachments/729993161803300869/1543544982709739540/Vi",
+      "author": "serahh__",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545979595222949918",
+      "channel_id": "1170692781216378960",
+      "content": "time to pull for horla",
+      "author": "78x",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545971388194488371",
+      "channel_id": "1170692781216378960",
+      "content": "https://klipy.com/gifs/speed-symboli-sirius-symboli",
+      "author": "serahh__",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545971789325402173",
+      "channel_id": "1170692781216378960",
+      "content": "pollux is lowk a hotter version of xiao from genshin impact",
+      "author": "serahh__",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545973331545821224",
+      "channel_id": "1170692781216378960",
+      "content": "actually i get the feeling this game is full of angst",
+      "author": "78x",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545979693499420753",
+      "channel_id": "1170692781216378960",
+      "content": "10th pull",
+      "author": "78x",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545947272930664498",
+      "channel_id": "1170692781216378960",
+      "content": "kade hop on morimens",
+      "author": "syruponstrawberrycake",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545951823981051974",
+      "channel_id": "1170692781216378960",
+      "content": "https://klipy.com/gifs/lebron-james-i-guess-bro",
+      "author": "serahh__",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545971582277648404",
+      "channel_id": "1170692781216378960",
+      "content": "skull emoji x3",
+      "author": "serahh__",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545978798481350676",
+      "channel_id": "1300659662311526512",
+      "content": "QUE",
+      "author": "sayokolefay",
+      "reactions": 5,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1545952810183692338",
+      "channel_id": "1400750050208125010",
+      "content": "i thought it would attack on the side",
+      "author": "syruponstrawberrycake",
+      "reactions": 5,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1545946722377797703",
+      "channel_id": "1170692781216378960",
+      "content": "I guess I'll have to use this",
+      "author": "legendaryredz",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545951524537237674",
+      "channel_id": "1170692781216378960",
+      "content": "Arc 2",
+      "author": "serahh__",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545978328932941926",
+      "channel_id": "1170692781216378960",
+      "content": "I don't get it I am using her exalt every turn after first turn",
+      "author": "zettaizer0",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545978973949919285",
+      "channel_id": "1170692781216378960",
+      "content": "Killing myself",
+      "author": "601671_",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1545981102710198313",
+      "channel_id": "1170692781216378960",
+      "content": "i lied i did 1 5 pull",
+      "author": "78x",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
