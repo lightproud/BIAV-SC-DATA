@@ -1,8 +1,8 @@
 {
   "date": "2026-09-06",
-  "archived_at": "2026-09-06T12:37:14.049325+00:00",
+  "archived_at": "2026-09-06T17:31:10.183054+00:00",
   "source": "steam",
-  "item_count": 23,
+  "item_count": 29,
   "items": [
     {
       "title": "[负面] I've had a lot of good times with this game in the...",
@@ -115,6 +115,121 @@
         "playtime_forever": 39752,
         "votes_up": 1,
         "timestamp_created": 1788668766
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Game is going full on p2w route and dev keep liyin...",
+      "summary": "Game is going full on p2w route and dev keep liying about it. Game is finally eosing soon, it should never be saved only to be doomed by it's own dev",
+      "source": "steam_review",
+      "time": "2026-09-06T14:13:57+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198449618905/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198449618905",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 197,
+        "votes_up": 1,
+        "timestamp_created": 1788704037
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Very disappointed in 2.6, even after dev \"addresse...",
+      "summary": "Very disappointed in 2.6, even after dev \"addressed\" the issue. What's stopping them from doing this again in the future? Definitely lost my trust.",
+      "source": "steam_review",
+      "time": "2026-09-06T13:29:49+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198151068749/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198151068749",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 1398,
+        "votes_up": 1,
+        "timestamp_created": 1788701389
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 只要你不花錢.那牌位賽一定會被排到噁心你的組合對面一定有對付你的牌組",
+      "summary": "只要你不花錢.那牌位賽一定會被排到噁心你的組合對面一定有對付你的牌組",
+      "source": "steam_review",
+      "time": "2026-09-06T13:19:02+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199579386260/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561199579386260",
+      "tags": [
+        "tchinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 6285,
+        "votes_up": 1,
+        "timestamp_created": 1788700742
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] gaem bad now",
+      "summary": "gaem bad now",
+      "source": "steam_review",
+      "time": "2026-09-06T12:53:17+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198750505752/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198750505752",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 41290,
+        "votes_up": 1,
+        "timestamp_created": 1788699197
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Recent changes are very predatory and caters towar...",
+      "summary": "Recent changes are very predatory and caters towards those who are willing to spend for premium rewinds. Don't bother playing this game at its current state.",
+      "source": "steam_review",
+      "time": "2026-09-06T12:35:41+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199126259033/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561199126259033",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 155,
+        "votes_up": 1,
+        "timestamp_created": 1788698141
       },
       "region": "global",
       "archive_subtype": "review"
@@ -529,6 +644,29 @@
         "playtime_forever": 26693,
         "votes_up": 0,
         "timestamp_created": 1788683886
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 好玩爱玩",
+      "summary": "好玩爱玩",
+      "source": "steam_review",
+      "time": "2026-09-06T14:52:52+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199443880066/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199443880066",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 955,
+        "votes_up": 0,
+        "timestamp_created": 1788706372
       },
       "region": "global",
       "archive_subtype": "review"

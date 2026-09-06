@@ -1,8 +1,8 @@
 {
   "date": "2026-09-06",
-  "archived_at": "2026-09-06T12:37:14.040559+00:00",
+  "archived_at": "2026-09-06T17:31:10.167358+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Steam论坛] The new D-Tide changes are a disaster that need to be reverted.",
@@ -13,6 +13,23 @@
       "engagement": 18,
       "is_hot": true,
       "author": "Trans Winkle",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] Time to get all achievements?",
+      "summary": "I only care about that and visuals look interesating enough.",
+      "source": "steam_discussion",
+      "time": "2026-09-06T15:09:14+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591814721688139045/",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Skay",
       "tags": [
         "steam_forum"
       ],

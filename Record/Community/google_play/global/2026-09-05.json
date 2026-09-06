@@ -1,8 +1,8 @@
 {
   "date": "2026-09-05",
-  "archived_at": "2026-09-06T12:37:14.087508+00:00",
+  "archived_at": "2026-09-06T17:31:10.211365+00:00",
   "source": "google_play",
-  "item_count": 13,
+  "item_count": 16,
   "items": [
     {
       "title": "[Google Play 差评] ★2 pro : beautiful art, good gameplay & gen",
@@ -13,6 +13,20 @@
       "engagement": 2,
       "is_hot": false,
       "author": "Himari Bun",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 used to be 5 stars, but the devs keep ly",
+      "summary": "used to be 5 stars, but the devs keep lying, and keep making stuff worse",
+      "source": "google_play",
+      "time": "2026-09-05T14:13:14",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-1c097bef-18d6-47a2-a61d-ff0ebcd88daf",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Bruce Almighty",
       "tags": [],
       "lang": "en",
       "platform_region": "",
@@ -183,6 +197,34 @@
       "author": "M.d.a AMV's",
       "tags": [],
       "lang": "pt",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 Trash endgame. An update single-handed e",
+      "summary": "Trash endgame. An update single-handed ended this game. There are other turn-based or card games out there.",
+      "source": "google_play",
+      "time": "2026-09-05T15:52:32",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-3096e42f-002b-461f-8acc-955606641cc0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Murillo Carvalho",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 재밌음 ... 컨텐츠 많음",
+      "summary": "재밌음 ... 컨텐츠 많음",
+      "source": "google_play",
+      "time": "2026-09-05T13:41:39",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-380c6eae-01f7-43d4-ac1a-2762bdea1bea",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "모해미안랩소디",
+      "tags": [],
+      "lang": "ko",
       "platform_region": "",
       "region": "global"
     }
