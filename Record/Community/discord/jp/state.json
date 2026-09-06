@@ -1,7 +1,7 @@
 {
   "channels": {
     "1377478664609857647": {
-      "last_message_id": "1546002038436007966",
+      "last_message_id": "1546116140844191816",
       "name": "💬なんでも雑談（ネタバレあり）",
       "cold_started": true,
       "last_historical_message_id": "1378523440742400000",
@@ -84,7 +84,7 @@
       "name": "フレンド募集（非表示）"
     },
     "1391701560496623688": {
-      "last_message_id": "1545949632499155025",
+      "last_message_id": "1546068846765408328",
       "name": "🔰初心者質問",
       "cold_started": true,
       "last_historical_message_id": "1378523440742400000",
@@ -115,7 +115,7 @@
       ]
     },
     "1400058619726266462": {
-      "last_message_id": "1545910493909094573",
+      "last_message_id": "1546104071998541835",
       "name": "🙋誰でも質問",
       "cold_started": true,
       "last_historical_message_id": "1378523440742400000",
@@ -1219,19 +1219,19 @@
       "last_message_id": "1545010256394846279"
     },
     "thread:1545007866060996629": {
-      "last_message_id": "1545779634166169800"
+      "last_message_id": "1546117744166969467"
     },
     "thread:1544998415887241256": {
-      "last_message_id": "1545950546060648589"
+      "last_message_id": "1546117664542294097"
     },
     "thread:1544992919784521738": {
-      "last_message_id": "1545884620783095860"
+      "last_message_id": "1546041992373342208"
     },
     "thread:1545263392875356171": {
       "last_message_id": "1545625747782246400"
     },
     "thread:1545376965656322078": {
-      "last_message_id": "1545381881753768036"
+      "last_message_id": "1546114660070072320"
     },
     "thread:1545403639554908210": {
       "last_message_id": "1545403658730999838"
@@ -1240,10 +1240,10 @@
       "last_message_id": "1545838356636762152"
     },
     "thread:1545996163046711417": {
-      "last_message_id": "1545996163046711417"
+      "last_message_id": "1546069231324626995"
     }
   },
   "historical_month": null,
-  "last_run": "2026-09-06T05:06:00.649398+00:00",
+  "last_run": "2026-09-06T11:20:49.104613+00:00",
   "history_backfill_complete": true
 }
