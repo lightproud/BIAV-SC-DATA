@@ -1,9 +1,23 @@
 {
   "date": "2026-09-06",
-  "archived_at": "2026-09-07T02:49:54.606891+00:00",
+  "archived_at": "2026-09-07T07:56:02.102685+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 7,
   "items": [
+    {
+      "title": "[Google Play 差评] ★1 Been playing this game for about a year",
+      "summary": "Been playing this game for about a year but there's just too many broken promises from the dev. They promised an offline version, but I doubt it. There's less motivation to pull and whale for new characters when the devs can just change their kits whenever they want. My love for the game is gone, this new \"Morimens\" is nothing compared to Morimens before Arc 2 started. Everything changed when \"divine realms\" was added.",
+      "source": "google_play",
+      "time": "2026-09-06T03:59:32",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-7d4124c3-54da-4851-83f5-3c805b98addd",
+      "engagement": 9,
+      "is_hot": false,
+      "author": "Ko Pi",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
     {
       "title": "[Google Play 差评] ★1 The recent update has nerfed several cha",
       "summary": "The recent update has nerfed several characters while massively increasing the difficulty of the endgame and allowing people to use the p2w revive item in it. This is a blatant cash grab.",
@@ -29,6 +43,62 @@
       "author": "david rodas",
       "tags": [],
       "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 New review in light of recent updates. T",
+      "summary": "New review in light of recent updates. The game has made changes towards pay2win with the endgame and the developers have repeatedly broken promises made to the community. Anybody seriously interested in this game needs to spend a little time viewing the main discord and reddit. It won't take long to find the huge number of veteran players showing their disappointment with the direction the game has been making.",
+      "source": "google_play",
+      "time": "2026-09-06T06:40:54",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-6408c351-baad-4a8e-a5f9-b53d642538eb",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "R M",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 best game",
+      "summary": "best game",
+      "source": "google_play",
+      "time": "2026-09-06T04:55:28",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-f451581a-eb5f-4305-b022-4746ea405d94",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Honkai Starrail",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 esse jogo é maravilhoso! personagens inc",
+      "summary": "esse jogo é maravilhoso! personagens incríveis! carismáticos, lindos e com histórias maravilhosas ótimo gacha e fácil de pegar personagens! os personagens são lindos e muito amáveis, continuem assim! bilde muito fáceis e não precisam se preocupar já que tem tradução pra pt br",
+      "source": "google_play",
+      "time": "2026-09-06T06:11:38",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=pt#gp-b038f3db-f796-4626-8769-b605ab365526",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Maria Luiza",
+      "tags": [],
+      "lang": "pt",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 they're making the game p2w to squeeze a",
+      "summary": "they're making the game p2w to squeeze a little more money because they're in debt, not worth starting playing",
+      "source": "google_play",
+      "time": "2026-09-06T04:40:17",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=pt#gp-d199efa2-b42a-4a8c-bfbf-5aef097935cf",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "no u",
+      "tags": [],
+      "lang": "pt",
       "platform_region": "",
       "region": "global"
     }

@@ -1,8 +1,8 @@
 {
   "date": "2026-09-07",
-  "archived_at": "2026-09-07T02:49:54.498300+00:00",
+  "archived_at": "2026-09-07T07:56:02.109118+00:00",
   "source": "steam",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "[负面] Game continuously put out patch after another that...",
@@ -92,6 +92,29 @@
         "playtime_forever": 30520,
         "votes_up": 1,
         "timestamp_created": 1788734128
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] new engame is very unfriendly to f2p and beginnner...",
+      "summary": "new engame is very unfriendly to f2p and beginnners.\n\nall the new realms are unbalanced and unfun.\n\nidk what else to say, this is like watching your favorite youtuber turn into slop, none of these changes will benifit the game long term.\n\neos for the 4th time soon i guess.",
+      "source": "steam_review",
+      "time": "2026-09-07T06:00:56+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199334457772/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561199334457772",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 20086,
+        "votes_up": 1,
+        "timestamp_created": 1788760856
       },
       "region": "global",
       "archive_subtype": "review"
