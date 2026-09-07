@@ -1,8 +1,8 @@
 {
   "date": "2026-09-07",
-  "archived_at": "2026-09-07T19:00:09.897193+00:00",
+  "archived_at": "2026-09-07T23:17:34.494712+00:00",
   "source": "bilibili",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "【忘却前夜】鸟弟首通癫狂5-7血希 不再依赖哥哥算长大吗 8.31融灾",
@@ -36,6 +36,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/63e984865244456be2d0b8c639ccba1cce7954b6.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】梭哈！——诞妄·墨菲抽卡录屏",
+      "summary": "395抽：诞妄墨菲8，凯刻斯4，戈利亚1，珊2，卡洛斯2\n30抽：小保底出命轮\n一朝回到解放前啊！",
+      "source": "bilibili",
+      "time": "2026-09-07T15:41:22+00:00",
+      "url": "https://www.bilibili.com/video/av117230511589907",
+      "engagement": 109,
+      "is_hot": false,
+      "author": "SherbetWhite",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/c80b2c227cd2c3688bfbf2b45a30b598345c77db.jpg",
       "content_type": "video"
     },
     {

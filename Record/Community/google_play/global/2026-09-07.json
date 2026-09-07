@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-07",
+  "archived_at": "2026-09-07T23:17:34.575979+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 中评] ★3 game is seems real good but it's seems m",
+      "summary": "game is seems real good but it's seems my original account is gone....sigh",
+      "source": "google_play",
+      "time": "2026-09-06T20:14:22",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-41c083a1-65f8-4573-952f-56e04b488cad",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "L",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 ga suka dengan sistem matchingnya, buang",
+      "summary": "ga suka dengan sistem matchingnya, buang buang waktu dengan ada story, pindah pindah tempat, trading. just make it simple lah",
+      "source": "google_play",
+      "time": "2026-09-06T23:14:45",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-4cb61401-71d5-43d5-9a7e-8201e0afa7ad",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Aditya Pradana",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}
