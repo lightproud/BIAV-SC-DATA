@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-07",
+  "messages": 2756,
+  "unique_authors": 234,
+  "reactions_total": 474,
+  "attachments": 147,
+  "channel_activity": {
+    "🔸綜合討論": 294,
+    "🔸阵容构建": 71,
+    "🔸morimens-game-chat": 1197,
+    "🔸剧情交流": 1,
+    "🔸课间休息闲聊": 1,
+    "🔸交友频道": 4,
+    "🔸한국어-채팅방": 29,
+    "🔸русский-канал": 33,
+    "🔸phòng-chat-tiếng-việt": 140,
+    "🔸canal-español": 100,
+    "🔸canal-português": 11,
+    "🔸ruang-obrolan-indonesia": 164,
+    "🔸lore-chat": 4,
+    "🔸lets-count": 1,
+    "🔸team-building": 26,
+    "🔸general-chat": 39,
+    "🔸game-question": 393,
+    "🔸游戏问题": 10,
+    "🔸机器人命令┊bot-commands": 15,
+    "Lineup Reset bug": 1,
+    "Survey link doesn't work": 9,
+    "Pls give out origin of time for limited awakener & wheels": 5,
+    "神超维bug": 1,
+    "Light, why?": 14,
+    "D-tide Discussion": 40,
+    "Please rework how Propagation Caro works for the future units": 11,
+    "V2.5.1.0 停服维护公告": 4,
+    ":man_detective: 相位對弈：對戰表情 ┊ Emotes": 1,
+    "On the D-Effect Zone Adjustments": 132,
+    "Mira (Keeper OC) art thread": 1,
+    "My morimens arts": 1,
+    "鳥兄弟配隊": 2,
+    "Lineup help": 1
+  },
+  "hourly_activity": {
+    "0": 394,
+    "1": 809,
+    "2": 1159,
+    "3": 394
+  },
+  "message_types": {
+    "0": 1888,
+    "19": 859,
+    "20": 9
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1546346709934669844",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "fgoisaac",
+      "reactions": 12,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546325692663472138",
+      "channel_id": "1546011084346105856",
+      "content": "G.Lotan being especially bad since she was useable for end game content at e1 fo",
+      "author": "angbak",
+      "reactions": 12,
+      "channel": "Pls give out origin of time for limited awakener & wheels"
+    },
+    {
+      "id": "1546330637550755900",
+      "channel_id": "1546330637550755900",
+      "content": "Dev pls I would like to give feedback",
+      "author": "aurora3981",
+      "reactions": 11,
+      "channel": "Survey link doesn't work"
+    },
+    {
+      "id": "1546337227439743026",
+      "channel_id": "1170692781216378960",
+      "content": "i cant believe it, 2 bricks and daffodil",
+      "author": "not_blueberry",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546340668753051658",
+      "channel_id": "1170692781216378960",
+      "content": "a rapist",
+      "author": "thereaperinthedresss",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546354142220521503",
+      "channel_id": "1170692781216378960",
+      "content": "i like how this is literally just a marriage certificate",
+      "author": "thereaperinthedresss",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546358567798317156",
+      "channel_id": "1131839817982947429",
+      "content": "巨人之刃: 施放狂氣後下一個裝備者的防禦生效三次",
+      "author": "cpu7954",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546336467838701699",
+      "channel_id": "1170692781216378960",
+      "content": "is it just me that thinks pcaro is incredibly stronger than normal caro",
+      "author": "zier.0",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546337403382399037",
+      "channel_id": "1170692781216378960",
+      "content": "meta environmental storytelling",
+      "author": "violettaautumn",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546340385486540800",
+      "channel_id": "1170692781216378960",
+      "content": "https://cdn.discordapp.com/attachments/1170692781216378960/1531813566716444743/I",
+      "author": "serahh__",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546340620321423460",
+      "channel_id": "1170692781216378960",
+      "content": "whats her lore she just has those cute wings",
+      "author": "serahh__",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546341352793444372",
+      "channel_id": "1170692781216378960",
+      "content": "any comment on the guy saying saya should be a wife?",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546338299872935996",
+      "channel_id": "1131839817982947429",
+      "content": "AAA是0。",
+      "author": "ling_an_",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546313088389615666",
+      "channel_id": "1170692781216378960",
+      "content": "Omfg im gonna steal this gif to spam Ellie with it",
+      "author": "serahh__",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546331693617651735",
+      "channel_id": "1170692781216378960",
+      "content": "E3 is great but she works at E0",
+      "author": "corvim",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546338201592012870",
+      "channel_id": "1170692781216378960",
+      "content": "where",
+      "author": "serahh__",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546340254737236059",
+      "channel_id": "1170692781216378960",
+      "content": "Maybe hot take but I think that even regardless of PCaro I think Saya and Carabo",
+      "author": "bog_rtm",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546359154938220604",
+      "channel_id": "1131839817982947429",
+      "content": "角色綁定命輪加50%數值☝️",
+      "author": "fgoisaac",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546360340000935938",
+      "channel_id": "1131839817982947429",
+      "content": "想抽鍵帽",
+      "author": "fon_tain",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546360866231029792",
+      "channel_id": "1131839817982947429",
+      "content": "不会这样的 因为猫不能计算12以外的加减法",
+      "author": "xinyu_83732",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}
