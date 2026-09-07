@@ -1,9 +1,26 @@
 {
   "date": "2026-09-07",
-  "archived_at": "2026-09-06T22:41:32.210472+00:00",
+  "archived_at": "2026-09-07T02:49:54.451863+00:00",
   "source": "youtube",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
+    {
+      "title": "[Morimens] EMERGENCY RAGE RERUN STREAM. I FORGOT TO DO. THEN BACK TO STAR WARS",
+      "summary": "Don't know how long. Will be doing other stuff too.",
+      "source": "youtube",
+      "time": "2026-09-07T01:42:52Z",
+      "url": "https://www.youtube.com/watch?v=SafyD9IYECc",
+      "engagement": 191,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/SafyD9IYECc/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
     {
       "title": "Team Training ~ Morimens Ep. 5 ~ Chapter 1-2 Interlude",
       "summary": "Don't forget to like, subscribe, and hit the bell icon so you don't miss out on any new uploads!! Find me on Social Media! ~~X~~ ...",

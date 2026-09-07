@@ -1,8 +1,8 @@
 {
   "date": "2026-09-07",
-  "archived_at": "2026-09-06T22:41:32.227817+00:00",
+  "archived_at": "2026-09-07T02:49:54.535177+00:00",
   "source": "reddit",
-  "item_count": 9,
+  "item_count": 10,
   "items": [
     {
       "title": "What team compositions can I run and how do people run sustain less?",
@@ -117,6 +117,19 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/Icy_Broccoli9343",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "ayuda, me no puedo hacer la encuesta",
+      "summary": "por alguna razon no puedo entrar al enlace en mis notificaciones, y quiero hacer la encuesta para tener esos 200 nucleos de plata  &#32; submitted by &#32;  /u/Fit_Razzmatazz_2625   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-07T01:45:34+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1w9emvy/ayuda_me_no_puedo_hacer_la_encuesta/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Fit_Razzmatazz_2625",
       "tags": [],
       "lang": "en",
       "platform_region": ""

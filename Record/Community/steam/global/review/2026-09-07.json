@@ -1,8 +1,8 @@
 {
   "date": "2026-09-07",
-  "archived_at": "2026-09-06T22:41:32.196481+00:00",
+  "archived_at": "2026-09-07T02:49:54.498300+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
     {
       "title": "[负面] Game continuously put out patch after another that...",
@@ -74,6 +74,29 @@
       "archive_subtype": "review"
     },
     {
+      "title": "[负面] 이 게임 회사는 소규모 회사에 자금력이 부족해서 그동안 어느 정도 실수나 부족한 부분은 사...",
+      "summary": "이 게임 회사는 소규모 회사에 자금력이 부족해서 그동안 어느 정도 실수나 부족한 부분은 사람들이 이해를 했고\n또 게임사도 유저들에게 좋은 인상을 많이 보여줬기 때문에 회사에 대한 애정이 있었고 \"신뢰\"도 있었음\n\n항상 자신들이 실수를 하든 뭘 빠른 피드백이 됐었음\n하지만 지금 상황은 대처마저 느리고 돈독에 미친 새끼들인가 싶을 정도인 경우임\n\n거기다 원래 이 게임은 타 게임에 비해 혜자 패키지가 많아서 좀 싸서 하기 좋다라는 이미지였는데\n지금 상황은 그것마저 아님 차라리 중국에 유명한 게임들 호요,쿠로,핲그 등등 그 특유의 중국 BM 게임들이 더 싸다고 느낌\n\n그리고 한국에서 \"소규모 회사라 능력이 없다\" 라는 말도 안 통하는 이유 중 가장 큰 이유는 림버스 컴퍼니랑\n거의 출시 시기가 같음 그냥 능력의 차이임 최소한 이 문제가 해결되기 전까지는 절대 입문하지마셈\n\n물론 이 게임은 매력적인 세계관과 일러스트 그리고 스토리가 맛있는 게임임 게임성도 나는 좋다고 생각함\n하지만 지금은 모든 단점들에 +@ 대폭발한 상황이라 이 문제가 해결된 후에 입문하길 권함",
+      "source": "steam_review",
+      "time": "2026-09-06T22:35:28+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198778851409/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198778851409",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 30520,
+        "votes_up": 1,
+        "timestamp_created": 1788734128
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
       "title": "[正面] I'd give it an overall 8/10 rating. The gameplay i...",
       "summary": "I'd give it an overall 8/10 rating. The gameplay is really fun, has some unique mechanics, the story is also not bad at all, great even. F2p friendly. Overall great! I'm having a good time playing it. I'm still in the early game, so keep that in mind.",
       "source": "steam_review",
@@ -92,6 +115,29 @@
         "playtime_forever": 750,
         "votes_up": 0,
         "timestamp_created": 1788728391
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] это не ККИ, это просто гачя с кривым переводом.......",
+      "summary": "это не ККИ, это просто гачя с кривым переводом.....",
+      "source": "steam_review",
+      "time": "2026-09-06T23:52:57+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198961757007/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198961757007",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 207,
+        "votes_up": 0,
+        "timestamp_created": 1788738777
       },
       "region": "global",
       "archive_subtype": "review"

@@ -1,8 +1,8 @@
 {
   "date": "2026-09-07",
-  "archived_at": "2026-09-06T22:41:32.142653+00:00",
+  "archived_at": "2026-09-07T02:49:54.451163+00:00",
   "source": "bahamut",
-  "item_count": 26,
+  "item_count": 27,
   "items": [
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
@@ -154,6 +154,19 @@
       "time": "2026-09-06T17:30:10.594506+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1561&tnum=2",
       "engagement": 35,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【攻略】新融災環境，地瓜、福袋、誕墨，抽取建議",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-07T02:49:03.880370+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1565&tnum=2",
+      "engagement": 26,
       "is_hot": false,
       "author": "t12345825",
       "tags": [],
