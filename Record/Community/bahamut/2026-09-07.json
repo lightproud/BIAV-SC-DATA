@@ -1,8 +1,8 @@
 {
   "date": "2026-09-07",
-  "archived_at": "2026-09-07T07:56:02.095740+00:00",
+  "archived_at": "2026-09-07T14:46:58.193983+00:00",
   "source": "bahamut",
-  "item_count": 27,
+  "item_count": 29,
   "items": [
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
@@ -265,6 +265,19 @@
       "platform_region": ""
     },
     {
+      "title": "【問題】詩籤的句尾",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-07T14:45:59.113542+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1566&tnum=1",
+      "engagement": 7,
+      "is_hot": false,
+      "author": "jesusaida",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
       "title": "【討論】新手入門 組隊抽卡求助",
       "summary": "",
       "source": "bahamut",
@@ -351,6 +364,19 @@
       "engagement": 1,
       "is_hot": false,
       "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【討論】希望能有更多的趣味性跟遊戲性改動與建議~",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-07T14:45:59.113506+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1567&tnum=1",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Daisuke1990",
       "tags": [],
       "lang": "zh",
       "platform_region": ""

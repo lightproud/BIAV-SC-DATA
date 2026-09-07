@@ -1,8 +1,8 @@
 {
   "date": "2026-09-06",
-  "archived_at": "2026-09-07T07:56:02.102685+00:00",
+  "archived_at": "2026-09-07T14:46:58.200001+00:00",
   "source": "google_play",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "[Google Play 差评] ★1 Been playing this game for about a year",
@@ -99,6 +99,20 @@
       "author": "no u",
       "tags": [],
       "lang": "pt",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★2 very fun game, I'm waiting to see how ev",
+      "summary": "very fun game, I'm waiting to see how everything goes but the future of this game doesn't seem bright. The devs blatantly lie to save face, characters can and probably will be nerfed and the power creep this pach is just not healthy for the game. but most of this can be fixed and reverted my main issue is that I have absolutely no trust for the people behind the development of this game. they have lied and made false promises and will continue to do so.",
+      "source": "google_play",
+      "time": "2026-09-06T11:38:25",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-e6005cd2-f8b6-4232-bea3-fcf594f7dbe9",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "eze",
+      "tags": [],
+      "lang": "en",
       "platform_region": "",
       "region": "global"
     }

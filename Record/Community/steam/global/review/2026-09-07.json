@@ -1,8 +1,8 @@
 {
   "date": "2026-09-07",
-  "archived_at": "2026-09-07T07:56:02.109118+00:00",
+  "archived_at": "2026-09-07T14:46:58.204501+00:00",
   "source": "steam",
-  "item_count": 7,
+  "item_count": 13,
   "items": [
     {
       "title": "[负面] Game continuously put out patch after another that...",
@@ -161,6 +161,144 @@
         "playtime_forever": 207,
         "votes_up": 0,
         "timestamp_created": 1788738777
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] They keep making the game worse unfortunately like...",
+      "summary": "They keep making the game worse unfortunately like with the new d-tide. The mods and know-it-alls on the official Discord can be pretty rude and I heard Light responds to messages but he ignored mine, so in any case I left the official Discord.\n\nThe story actually isn't as good as i was hoping. Initially it was but the extra side story stuff is mostly thoughtless junk with no real effort to expand upon that could've been interesting. An example is if you go and read more about Ramona's background after opening up more detailed story via increasing her affinity, it's just banal and boring and probably took them five minutes to come up with. It's a shame cause what drew me to the game was the story.\n\nI stopped spending money on the game because it's obviously just a waste now. Almost forgot to mention how bad the divine realms are (except Divine Chaos is pretty good).",
+      "source": "steam_review",
+      "time": "2026-09-07T13:12:45+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199044128273/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199044128273",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 34869,
+        "votes_up": 0,
+        "timestamp_created": 1788786765
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Game was great for a while (which is why I have pl...",
+      "summary": "Game was great for a while (which is why I have played that many hours), but literally in previous patch they added Absolute axioms (max level dupes benefit) and said that they won't balance around it. In this patch they increased HP and damage of enemies in D-Tide like 3 times, so previous statement that game won't require $$$ is already forgotten, so I can't recommend it to F2p players anymore.",
+      "source": "steam_review",
+      "time": "2026-09-07T12:51:17+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198078539701/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198078539701",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 15991,
+        "votes_up": 0,
+        "timestamp_created": 1788785477
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Die Entwickler haben dieses Jahr mehrmals die Comm...",
+      "summary": "Die Entwickler haben dieses Jahr mehrmals die Community angelogen, extreme Balance patches gebracht, welche 90% aller Charactere nutzlos gemacht haben und tatsächlich Charactere sofort nachdem sie verfügbar waren im nachhinein generft.\r\n\r\nGame ist mega cool und das Gameplay ist unglaublich, aber es ist aufgrund der Entscheidungen der Entwickler in letzter Zeit nicht empfehlenswert.",
+      "source": "steam_review",
+      "time": "2026-09-07T10:28:25+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198380568055/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198380568055",
+      "tags": [
+        "german"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 14375,
+        "votes_up": 0,
+        "timestamp_created": 1788776905
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 내 캐릭이 휴지조각",
+      "summary": "내 캐릭이 휴지조각",
+      "source": "steam_review",
+      "time": "2026-09-07T09:48:41+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198976111642/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198976111642",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 1935,
+        "votes_up": 0,
+        "timestamp_created": 1788774521
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] L cat",
+      "summary": "L cat",
+      "source": "steam_review",
+      "time": "2026-09-07T08:57:43+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199632375814/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199632375814",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 16258,
+        "votes_up": 0,
+        "timestamp_created": 1788771463
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] very generous with rewards, intresting gameplay wi...",
+      "summary": "very generous with rewards, intresting gameplay with multiple different team comps, good story that makes you kinda cry, amazing character designs",
+      "source": "steam_review",
+      "time": "2026-09-07T08:14:37+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198768472533/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198768472533",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 6559,
+        "votes_up": 0,
+        "timestamp_created": 1788768877
       },
       "region": "global",
       "archive_subtype": "review"
