@@ -1,40 +1,62 @@
 {
   "date": "2026-09-08",
-  "messages": 3478,
-  "unique_authors": 222,
-  "reactions_total": 453,
-  "attachments": 184,
+  "messages": 11156,
+  "unique_authors": 321,
+  "reactions_total": 1395,
+  "attachments": 488,
   "channel_activity": {
-    "🔸綜合討論": 447,
+    "🔸綜合討論": 1212,
+    "🔸morimens-game-chat": 4563,
+    "🔸剧情交流": 3,
+    "🔸相位对弈": 1,
+    "🔸课间休息闲聊": 12,
+    "🔸交友频道": 6,
+    "🔸日本語チャンネル": 7,
+    "🔸한국어-채팅방": 3,
+    "🔸deutscher-chatraum": 3,
+    "🔸chaîne-française": 12,
+    "🔸русский-канал": 203,
+    "🔸phòng-chat-tiếng-việt": 530,
+    "🔸canal-español": 129,
+    "🔸canal-português": 61,
+    "🔸ruang-obrolan-indonesia": 765,
+    "🔸ห้องสนทนาภาษาไทย": 233,
+    "🔸traphase": 13,
+    "🔸lore-chat": 70,
+    "🔸lets-count": 2,
+    "🔸频道建议┊server-suggestions": 5,
+    "🔸team-building": 636,
+    "🔸general-chat": 519,
+    "🔸邀请码互助┊swap-invitation-codes": 4,
+    "🔸game-question": 1799,
+    "🔸机器人命令┊bot-commands": 28,
+    "CARABOO": 3,
+    "这个那个": 6,
+    "卡拉布命輪盾%異常生效bug": 3,
+    "噩梦难度仍然需要调整。": 3,
+    "Suggestion For A Better Madness Mechanic": 1,
+    "My protest against the death of normal realms": 30,
+    "Astral Reign Stages Softlocking": 3,
+    "神超维bug": 7,
+    "Reproduction Frenzy(Please extend story scenes)": 3,
+    "Jenkin the little rat": 1,
+    "D-tide Discussion": 199,
+    "Corposant and Last Verse \"Bugfix\"": 11,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 6,
+    "Kill stealing, we could fix it": 3,
+    "Quadra / 4-Realm Rerun Banners": 3,
+    "V2.6.0.4 在线维护公告": 2,
+    "V2.5.1.0 停服维护公告": 4,
+    "Preview: V2.6.X Adjustments Based on Community Feedback 2": 2,
+    "Corposant ⚡": 5,
+    "N 🌹": 1,
+    "Team comps?": 1,
     "🔸阵容构建": 11,
-    "🔸morimens-game-chat": 1780,
-    "🔸课间休息闲聊": 8,
-    "🔸日本語チャンネル": 5,
-    "🔸русский-канал": 9,
-    "🔸phòng-chat-tiếng-việt": 10,
-    "🔸canal-español": 83,
-    "🔸canal-português": 54,
-    "🔸ruang-obrolan-indonesia": 244,
-    "🔸ห้องสนทนาภาษาไทย": 37,
-    "🔸traphase": 9,
-    "🔸lore-chat": 37,
-    "🔸team-building": 347,
-    "🔸general-chat": 18,
-    "🔸邀请码互助┊swap-invitation-codes": 3,
-    "🔸game-question": 318,
     "🔸游戏问题": 10,
-    "🔸机器人命令┊bot-commands": 11,
-    "神超维bug": 5,
     "Corposant and Wheel Unseen \"Bug\"": 3,
     "Turn Rewind Feature from Premium BP and Replay of finished Battle do not exceed turn 25.": 3,
     "D-tide Feedback (New)": 1,
-    "D-tide Discussion": 6,
-    "Corposant and Last Verse \"Bugfix\"": 1,
-    "Impact of Version 2.6 Affinity Changes on Player Experience": 3,
     "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 3,
-    "Kill stealing, we could fix it": 1,
-    "Quadra / 4-Realm Rerun Banners": 1,
-    "V2.5.1.0 停服维护公告": 1,
     "On the D-Effect Zone Adjustments": 1,
     "moss’s art dump": 4,
     "🔥10000银芯奖励！V2.5 UGC创作征集开启！": 1,
@@ -42,17 +64,49 @@
     "Help with some directions and maybe goals?": 2
   },
   "hourly_activity": {
+    "3": 955,
+    "4": 563,
+    "5": 429,
+    "6": 1199,
+    "7": 926,
+    "8": 1239,
+    "9": 1743,
+    "10": 1257,
     "0": 1024,
     "1": 1109,
-    "2": 712,
-    "3": 633
+    "2": 712
   },
   "message_types": {
-    "0": 2287,
-    "19": 1180,
-    "20": 11
+    "0": 7700,
+    "19": 3428,
+    "20": 27,
+    "4": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1546728022705438810",
+      "channel_id": "1546728022705438810",
+      "content": "I'm really gonna try my best to not be rude or contentious about this, but I am ",
+      "author": "bog_rtm",
+      "reactions": 18,
+      "channel": "My protest against the death of normal realms"
+    },
+    {
+      "id": "1546785181963124786",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 17,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546773146131107880",
+      "channel_id": "1131839817982947429",
+      "content": "也只能苟了...",
+      "author": "water_heart",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
     {
       "id": "1546714373182062722",
       "channel_id": "1543760297637187614",
@@ -60,6 +114,22 @@
       "author": "duskisnotdust",
       "reactions": 10,
       "channel": "D-tide Discussion"
+    },
+    {
+      "id": "1546732130539802724",
+      "channel_id": "1524457119955554374",
+      "content": "",
+      "author": "wjcjskw",
+      "reactions": 9,
+      "channel": "这个那个"
+    },
+    {
+      "id": "1546764481529511947",
+      "channel_id": "1546764481529511947",
+      "content": "5%-15%的血量削弱根本没有意义，1-2%的伤害削弱更像是在嘲讽玩家。\n超长的血条让很多角色直接无法上场，血量在现有情况下至少下降30%。就算你要力推你的防杀",
+      "author": "fenris_oozz",
+      "reactions": 9,
+      "channel": "噩梦难度仍然需要调整。"
     },
     {
       "id": "1546708572132474970",
@@ -70,12 +140,44 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1546733717811101796",
+      "channel_id": "1131839817982947429",
+      "content": "~~沒說預算一律推薦+12~~",
+      "author": "annabelle0868",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546754293351321662",
+      "channel_id": "1546439388375023727",
+      "content": "We may have broken D-Tide but we sowwy \n\nHere’s a 2% dmg nerf",
+      "author": "topcat.0001_40485",
+      "reactions": 8,
+      "channel": "V2.6.0.4 在线维护公告"
+    },
+    {
       "id": "1546720015045107822",
       "channel_id": "1131839817982947429",
       "content": "剩我不敢曬自己有資源了怕自己被當課金母豬",
       "author": "hon_ey0",
       "reactions": 8,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546738525683191828",
+      "channel_id": "1131839817982947429",
+      "content": "當初就應該讓他倒閉",
+      "author": "yusi4172",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546834079880839198",
+      "channel_id": "1170692781216378960",
+      "content": "FUK YEAHH",
+      "author": "verdy_heh",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1546719419827232769",
@@ -94,123 +196,51 @@
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1546719973689262110",
+      "id": "1546734527131553862",
       "channel_id": "1131839817982947429",
-      "content": "這裡人均2個課金框",
-      "author": "nemu_s_t_a_r",
+      "content": "哈哈我抽到超限了 不知道要不要继续，以后想攻克癫狂容灾。暂时有500抽，如果不值得我就留给下个角色了",
+      "author": "yuan1728",
       "reactions": 6,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1546699215273467904",
+      "id": "1546774412232101888",
+      "channel_id": "1131839817982947429",
+      "content": "只能当精英怪了",
+      "author": "xinyu_83732",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546761546351386664",
       "channel_id": "1170692781216378960",
-      "content": "Did they fix dtide yet",
-      "author": "serahh__",
+      "content": "a",
+      "author": "21x2",
       "reactions": 6,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1546701853352263722",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "fon_tain",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1546715027724042311",
-      "channel_id": "1131839817982947429",
-      "content": "根據現在星辰篇角色，成熟的守咪人已經有大概猜測\n\n150～200狂氣\n\n1 啟轉模\n2 啟攻擊防禦加效果\n3啟技能卡減費用/加成\n\n擁有生成卡牌機制／特殊Tok",
-      "author": "fgoisaac",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1546722405374763028",
-      "channel_id": "1131839817982947429",
-      "content": "72000不是起床戰爭嗎",
-      "author": "nemu_s_t_a_r",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1546685865164808262",
+      "id": "1546766776019320843",
       "channel_id": "1170692781216378960",
-      "content": "im watching your sermons caraboo whyre you trying not to laugh bruh thats disres",
-      "author": "thereaperinthedresss",
-      "reactions": 5,
+      "content": "I'd say it's like, Morimens except every Non-Boss is braindead",
+      "author": "cpiyaphum",
+      "reactions": 6,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1546717277968138350",
-      "channel_id": "1131839817982947429",
-      "content": "我還以為喜跟哀都是優先會被賣掉換錢的那邊<:Helot_slack_off:1459092159465521184>",
-      "author": "_shimoyo",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1546717989947179119",
-      "channel_id": "1131839817982947429",
-      "content": "我把自己賣了也不會賣這倆",
-      "author": "iamnotbunny",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1546679123064389702",
+      "id": "1546818857174310962",
       "channel_id": "1170692781216378960",
-      "content": "## Yo chat, hi 🍵, want to see me try Wave 4 as a f2p without any idea what it is",
-      "author": "wise_2203",
-      "reactions": 4,
+      "content": "These 2 were me",
+      "author": "dracozion",
+      "reactions": 6,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1546680198290866358",
+      "id": "1546823846991233156",
       "channel_id": "1170692781216378960",
-      "content": "hows LADS doing",
-      "author": "bloominglilian",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1546680423231393812",
-      "channel_id": "1170692781216378960",
-      "content": "Hi",
-      "author": "serahh__",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1546685640115101813",
-      "channel_id": "1170692781216378960",
-      "content": "KHSHSHSHSHA",
-      "author": "princess.goth",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1546686053476343888",
-      "channel_id": "1170692781216378960",
-      "content": "https://cdn.discordapp.com/attachments/729993161803300869/1543544982709739540/Vi",
-      "author": "serahh__",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1546687526163583087",
-      "channel_id": "1170692781216378960",
-      "content": "allah the almighty please smite light for this horrible fucking dtide",
-      "author": "remysti",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1546687644405076149",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "serahh__",
-      "reactions": 4,
+      "content": "I can't wait to ship BIVA ( ♀️ ) x EOS ( ♀️ ) just like CN would've wanted",
+      "author": "sparkling_moose_59074",
+      "reactions": 6,
       "channel": "🔸morimens-game-chat"
     }
   ]
