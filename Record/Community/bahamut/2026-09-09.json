@@ -1,8 +1,8 @@
 {
   "date": "2026-09-09",
-  "archived_at": "2026-09-08T18:18:15.539524+00:00",
+  "archived_at": "2026-09-08T23:11:58.053142+00:00",
   "source": "bahamut",
-  "item_count": 23,
+  "item_count": 24,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -299,6 +299,19 @@
       "engagement": 3,
       "is_hot": false,
       "author": "jack01212537",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【情報】分享幾個主線尾王的BGM網址(B站跟Youtube)",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-08T23:10:57.401112+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1568&tnum=1",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "aa0973721147",
       "tags": [],
       "lang": "zh",
       "platform_region": ""

@@ -1,8 +1,8 @@
 {
   "date": "2026-09-08",
-  "archived_at": "2026-09-08T18:18:15.538415+00:00",
+  "archived_at": "2026-09-08T23:11:58.051732+00:00",
   "source": "youtube",
-  "item_count": 33,
+  "item_count": 34,
   "items": [
     {
       "title": "[Morimens] EMERGENCY RAGE RERUN STREAM. I FORGOT TO DO. THEN BACK TO STAR WARS",
@@ -374,6 +374,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/47S2CmJyzmo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens OST- Ready to Go…?",
+      "summary": "I absolutely love this game and it's OST, but couldn't find it anywhere on YouTube so I took it upon myself to upload some themes.",
+      "source": "youtube",
+      "time": "2026-09-08T14:02:02Z",
+      "url": "https://www.youtube.com/watch?v=VsVphfi8yvI",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "SeaLily",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/VsVphfi8yvI/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

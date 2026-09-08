@@ -1,8 +1,8 @@
 {
   "date": "2026-09-08",
-  "archived_at": "2026-09-08T18:18:15.634082+00:00",
+  "archived_at": "2026-09-08T23:11:58.165198+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 差评] ★1 اللعبه عنجد طلعت الlgbtq متوقعت منهم ذا",
@@ -13,6 +13,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Lucy Player",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 中评] ★3 it's an awesome game with engaging lore",
+      "summary": "it's an awesome game with engaging lore and characters that is quite generous at times but has a terrible management. Light is pretty known for the broken promises and I'd recommend checking discord for opinions (not reddit, it'd be bad advice. nothing good comes out of there) on just how bad he is at giving answers and sometimes taking decisions. it makes me feel lost because such a good game finds itself in a declining state and it doesn't seem to be an easy situation too. poor corpo",
+      "source": "google_play",
+      "time": "2026-09-07T20:26:45",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-2d5a2015-4e45-4905-97ee-0aa2d9266de8",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "victor lima",
       "tags": [],
       "lang": "en",
       "platform_region": "",

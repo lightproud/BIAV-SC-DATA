@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-08",
+  "archived_at": "2026-09-08T23:11:58.054146+00:00",
+  "source": "youtube",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "【忘却前夜】ラジオドラマ「本当の自分を抱きしめて」",
+      "summary": "ラジオドラマ「本当の自分を抱きしめて」 興奮しないで、落ち着いてください…… 以前ここで暴れた男がどこに行ったか、あなた ...",
+      "source": "youtube",
+      "time": "2026-09-08T10:00:02Z",
+      "url": "https://www.youtube.com/watch?v=emlMrEn4aXo",
+      "engagement": 328,
+      "is_hot": false,
+      "author": "忘却前夜【日本版公式】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/emlMrEn4aXo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "jp",
+      "archive_subtype": "video"
+    }
+  ],
+  "region": "jp",
+  "content_subtype": "video"
+}
