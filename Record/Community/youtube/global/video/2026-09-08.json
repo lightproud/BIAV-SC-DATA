@@ -1,8 +1,8 @@
 {
   "date": "2026-09-08",
-  "archived_at": "2026-09-07T23:17:34.494987+00:00",
+  "archived_at": "2026-09-08T03:00:20.998808+00:00",
   "source": "youtube",
-  "item_count": 13,
+  "item_count": 15,
   "items": [
     {
       "title": "[Morimens] EMERGENCY RAGE RERUN STREAM. I FORGOT TO DO. THEN BACK TO STAR WARS",
@@ -68,6 +68,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/gR70iL7NuKQ/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] 2nd Lore Overview RANT : One of the WORST gacha stories and why. (Older Video is better)",
+      "summary": "https://buymeacoffee.com/flares https://discord.gg/yypzJhgcUP - Personal Flares Discord ...",
+      "source": "youtube",
+      "time": "2026-09-08T02:16:56Z",
+      "url": "https://www.youtube.com/watch?v=b1KAXfPIBAg",
+      "engagement": 122,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/b1KAXfPIBAg/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -221,6 +238,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/H-f0KdjP1yk/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Chapter 7 She&#39;s A big Ol Horn Dog",
+      "summary": "I was looking around and noticed that I can't find many episodes for morimens, so I want to try to complete the entire series before ...",
+      "source": "youtube",
+      "time": "2026-09-07T23:30:22Z",
+      "url": "https://www.youtube.com/watch?v=FVQLt-glfnk",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "SlyBlue",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/FVQLt-glfnk/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

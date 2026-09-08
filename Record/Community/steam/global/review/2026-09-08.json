@@ -1,8 +1,8 @@
 {
   "date": "2026-09-08",
-  "archived_at": "2026-09-07T23:17:34.521237+00:00",
+  "archived_at": "2026-09-08T03:00:21.031716+00:00",
   "source": "steam",
-  "item_count": 6,
+  "item_count": 8,
   "items": [
     {
       "title": "[负面] i started a month ago started 2.5 . recent patch o...",
@@ -46,6 +46,29 @@
         "playtime_forever": 79161,
         "votes_up": 1,
         "timestamp_created": 1788808967
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 통뇌야 융재랑 메인스토리 피통이랑 패턴이 이게 맞냐... 너희들은 이게 재밌냐...? 패치...",
+      "summary": "통뇌야 융재랑 메인스토리 피통이랑 패턴이 이게 맞냐... 너희들은 이게 재밌냐...? 패치하기 전에 제발 한번이라도 니들 손으로 직접 깨봐라 좀...",
+      "source": "steam_review",
+      "time": "2026-09-07T23:55:08+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198018829695/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198018829695",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 90848,
+        "votes_up": 1,
+        "timestamp_created": 1788825308
       },
       "region": "global",
       "archive_subtype": "review"
@@ -138,6 +161,29 @@
         "playtime_forever": 6190,
         "votes_up": 0,
         "timestamp_created": 1788808917
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I loved this game, it was fun and engaging and ver...",
+      "summary": "I loved this game, it was fun and engaging and very F2P friendly unlike a lot of other gachas in todays market\nBut the recent changes have pulled the curtain back and shown the community that BIAV does not care for the community that has supported them. Nerfs disguised as \"Bugfixes\", complete game mode reworks that has invalidated most of the current teambuilding and \"non-meta\" characters and lies that try to gaslight us into believing that this is not the case. All this in the name of squeezing out as much money as possible and turning everyone into whales; not because we love the game but because it's a requirement to earn the highly sought after progression rewards.\n\nThis is a terrible direction the game is going in and every response to the community feedback and backlash has been tonedeaf, skirting around the specific issues that we have with the changes; only pulling back some of the changes in very minor numerical ways without addressing any of the major problems that are still there. I would say it is not worth your time to try and start this game and to any current players if you don't quit outright I would advise not to spend any money whatsoever; with the direction this game is going in, no doubt any serious investment you make will be invalidated or powercrept in the name of profit",
+      "source": "steam_review",
+      "time": "2026-09-08T01:09:03+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198092434929/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198092434929",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 31618,
+        "votes_up": 0,
+        "timestamp_created": 1788829743
       },
       "region": "global",
       "archive_subtype": "review"
