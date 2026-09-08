@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-08",
+  "messages": 1,
+  "unique_authors": 1,
+  "reactions_total": 1,
+  "attachments": 0,
+  "channel_activity": {
+    "general-discussion": 1
+  },
+  "hourly_activity": {
+    "9": 1
+  },
+  "message_types": {
+    "19": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1546813431158673438",
+      "channel_id": "1402941858606219294",
+      "content": "Thanks for reporting this bug! We'll get it fixed as soon as possible.",
+      "author": "morimensstaff03",
+      "reactions": 1,
+      "channel": "general-discussion"
+    }
+  ]
+}
