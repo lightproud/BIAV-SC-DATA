@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-08",
+  "messages": 3478,
+  "unique_authors": 222,
+  "reactions_total": 453,
+  "attachments": 184,
+  "channel_activity": {
+    "🔸綜合討論": 447,
+    "🔸阵容构建": 11,
+    "🔸morimens-game-chat": 1780,
+    "🔸课间休息闲聊": 8,
+    "🔸日本語チャンネル": 5,
+    "🔸русский-канал": 9,
+    "🔸phòng-chat-tiếng-việt": 10,
+    "🔸canal-español": 83,
+    "🔸canal-português": 54,
+    "🔸ruang-obrolan-indonesia": 244,
+    "🔸ห้องสนทนาภาษาไทย": 37,
+    "🔸traphase": 9,
+    "🔸lore-chat": 37,
+    "🔸team-building": 347,
+    "🔸general-chat": 18,
+    "🔸邀请码互助┊swap-invitation-codes": 3,
+    "🔸game-question": 318,
+    "🔸游戏问题": 10,
+    "🔸机器人命令┊bot-commands": 11,
+    "神超维bug": 5,
+    "Corposant and Wheel Unseen \"Bug\"": 3,
+    "Turn Rewind Feature from Premium BP and Replay of finished Battle do not exceed turn 25.": 3,
+    "D-tide Feedback (New)": 1,
+    "D-tide Discussion": 6,
+    "Corposant and Last Verse \"Bugfix\"": 1,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 3,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 3,
+    "Kill stealing, we could fix it": 1,
+    "Quadra / 4-Realm Rerun Banners": 1,
+    "V2.5.1.0 停服维护公告": 1,
+    "On the D-Effect Zone Adjustments": 1,
+    "moss’s art dump": 4,
+    "🔥10000银芯奖励！V2.5 UGC创作征集开启！": 1,
+    "隊伍該怎麼配比較好🤔": 1,
+    "Help with some directions and maybe goals?": 2
+  },
+  "hourly_activity": {
+    "0": 1024,
+    "1": 1109,
+    "2": 712,
+    "3": 633
+  },
+  "message_types": {
+    "0": 2287,
+    "19": 1180,
+    "20": 11
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1546714373182062722",
+      "channel_id": "1543760297637187614",
+      "content": "I can’t find something to say that no one has said yet, but I genuinely think th",
+      "author": "duskisnotdust",
+      "reactions": 10,
+      "channel": "D-tide Discussion"
+    },
+    {
+      "id": "1546708572132474970",
+      "channel_id": "1131839817982947429",
+      "content": "<:Leigh_love:1468258513405870121> ||還有清清產卵秀嗎||",
+      "author": "arr5721",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546720015045107822",
+      "channel_id": "1131839817982947429",
+      "content": "剩我不敢曬自己有資源了怕自己被當課金母豬",
+      "author": "hon_ey0",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546719419827232769",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "fgoisaac",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546719628812746883",
+      "channel_id": "1131839817982947429",
+      "content": "分…我好像也不缺",
+      "author": "xianrenwurao",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546719973689262110",
+      "channel_id": "1131839817982947429",
+      "content": "這裡人均2個課金框",
+      "author": "nemu_s_t_a_r",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546699215273467904",
+      "channel_id": "1170692781216378960",
+      "content": "Did they fix dtide yet",
+      "author": "serahh__",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546701853352263722",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "fon_tain",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546715027724042311",
+      "channel_id": "1131839817982947429",
+      "content": "根據現在星辰篇角色，成熟的守咪人已經有大概猜測\n\n150～200狂氣\n\n1 啟轉模\n2 啟攻擊防禦加效果\n3啟技能卡減費用/加成\n\n擁有生成卡牌機制／特殊Tok",
+      "author": "fgoisaac",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546722405374763028",
+      "channel_id": "1131839817982947429",
+      "content": "72000不是起床戰爭嗎",
+      "author": "nemu_s_t_a_r",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546685865164808262",
+      "channel_id": "1170692781216378960",
+      "content": "im watching your sermons caraboo whyre you trying not to laugh bruh thats disres",
+      "author": "thereaperinthedresss",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546717277968138350",
+      "channel_id": "1131839817982947429",
+      "content": "我還以為喜跟哀都是優先會被賣掉換錢的那邊<:Helot_slack_off:1459092159465521184>",
+      "author": "_shimoyo",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546717989947179119",
+      "channel_id": "1131839817982947429",
+      "content": "我把自己賣了也不會賣這倆",
+      "author": "iamnotbunny",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1546679123064389702",
+      "channel_id": "1170692781216378960",
+      "content": "## Yo chat, hi 🍵, want to see me try Wave 4 as a f2p without any idea what it is",
+      "author": "wise_2203",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546680198290866358",
+      "channel_id": "1170692781216378960",
+      "content": "hows LADS doing",
+      "author": "bloominglilian",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546680423231393812",
+      "channel_id": "1170692781216378960",
+      "content": "Hi",
+      "author": "serahh__",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546685640115101813",
+      "channel_id": "1170692781216378960",
+      "content": "KHSHSHSHSHA",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546686053476343888",
+      "channel_id": "1170692781216378960",
+      "content": "https://cdn.discordapp.com/attachments/729993161803300869/1543544982709739540/Vi",
+      "author": "serahh__",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546687526163583087",
+      "channel_id": "1170692781216378960",
+      "content": "allah the almighty please smite light for this horrible fucking dtide",
+      "author": "remysti",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1546687644405076149",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "serahh__",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

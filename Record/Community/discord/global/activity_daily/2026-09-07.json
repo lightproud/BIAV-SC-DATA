@@ -1,40 +1,44 @@
 {
   "date": "2026-09-07",
-  "messages": 23226,
+  "messages": 25878,
   "unique_authors": 399,
-  "reactions_total": 2476,
-  "attachments": 1197,
+  "reactions_total": 2978,
+  "attachments": 1308,
   "channel_activity": {
-    "🔸綜合討論": 1305,
-    "🔸morimens-game-chat": 10104,
+    "🔸綜合討論": 1313,
+    "🔸morimens-game-chat": 12165,
+    "🔸日本語チャンネル": 13,
+    "🔸chaîne-française": 193,
+    "🔸русский-канал": 1032,
+    "🔸canal-español": 653,
+    "🔸canal-português": 893,
+    "🔸ruang-obrolan-indonesia": 1034,
+    "🔸lore-chat": 75,
+    "🔸team-building": 597,
+    "🔸general-chat": 347,
+    "🔸邀请码互助┊swap-invitation-codes": 9,
+    "🔸game-question": 3414,
+    "🔸机器人命令┊bot-commands": 77,
+    "Alternate realms Enhancement": 35,
+    "I think Light has the wrong idea about popular games.": 11,
+    "Corposant and Wheel Unseen \"Bug\"": 3,
+    "Jenkin the little rat": 5,
+    "Corposant and Last Verse \"Bugfix\"": 77,
+    "On the D-Effect Zone Adjustments": 452,
+    "moss’s art dump": 2,
     "🔸课间休息闲聊": 61,
     "🔸한국어-채팅방": 179,
     "🔸deutscher-chatraum": 1,
-    "🔸chaîne-française": 190,
-    "🔸русский-канал": 1031,
     "🔸phòng-chat-tiếng-việt": 1968,
-    "🔸canal-español": 425,
-    "🔸canal-português": 819,
-    "🔸ruang-obrolan-indonesia": 1029,
     "🔸ห้องสนทนาภาษาไทย": 245,
     "🔸traphase": 162,
-    "🔸lore-chat": 59,
-    "🔸team-building": 565,
-    "🔸general-chat": 329,
-    "🔸邀请码互助┊swap-invitation-codes": 8,
-    "🔸game-question": 3245,
     "🔸忘却前夜┊morimens-tv": 2,
     "🔸游戏问题": 19,
-    "🔸机器人命令┊bot-commands": 71,
-    "Alternate realms Enhancement": 31,
-    "I think Light has the wrong idea about popular games.": 9,
     "Light, why?": 20,
     "V2.6.0.4 在线维护公告": 68,
-    "On the D-Effect Zone Adjustments": 449,
     "1546606195710894121": 1,
     "🔸阵容构建": 118,
     "🔸晒卡分享": 3,
-    "🔸日本語チャンネル": 12,
     "🔸lets-count": 4,
     "蝕滅羅坦短刃顯示問題": 2,
     "Astral Reign Stages Softlocking": 5,
@@ -45,7 +49,6 @@
     "Caraboo E3 is kind of lying?": 8,
     "Turn Rewind Feature from Premium BP and Replay of finished Battle do not exceed turn 25.": 2,
     "D-tide Discussion": 326,
-    "Corposant and Last Verse \"Bugfix\"": 63,
     "Impact of Version 2.6 Affinity Changes on Player Experience": 5,
     "Kill stealing, we could fix it": 4,
     "關於日服沒有好友上限這事": 3,
@@ -74,7 +77,6 @@
     "Pls give out origin of time for limited awakener & wheels": 16,
     "Haha, this cat is something else, lol.": 1,
     "D-tide Feedback (New)": 2,
-    "Jenkin the little rat": 4,
     "Better handling of nerfs through bug fixes": 1,
     "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 1,
     "Rework the design of Scintilla": 2,
@@ -92,11 +94,13 @@
     "Lineup help": 1
   },
   "hourly_activity": {
+    "23": 1115,
+    "21": 1094,
+    "22": 705,
     "17": 1534,
     "18": 1333,
     "19": 856,
     "20": 990,
-    "21": 262,
     "11": 1602,
     "12": 1368,
     "13": 1279,
@@ -116,9 +120,9 @@
     "2": 1159
   },
   "message_types": {
-    "0": 15945,
-    "19": 7215,
-    "20": 59,
+    "19": 8453,
+    "0": 17354,
+    "20": 64,
     "21": 2,
     "18": 1,
     "46": 2,
@@ -126,6 +130,14 @@
     "6": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1546658994729259160",
+      "channel_id": "1170692781216378960",
+      "content": "hi",
+      "author": "syruponstrawberrycake",
+      "reactions": 19,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1546439388375023727",
       "channel_id": "1546439388375023727",
@@ -215,6 +227,14 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1546645359428640820",
+      "channel_id": "1170692781216378960",
+      "content": "No way that’s like lowk my entire life",
+      "author": "serahh__",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1546498757355376711",
       "channel_id": "1546498757355376711",
       "content": "With the confirmation that we are no longer getting normal base realm, this post",
@@ -247,6 +267,14 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1546634927376703538",
+      "channel_id": "1170692781216378960",
+      "content": "<@193043069275209728> theres no whales in sight!!! im but a mere, humble goldfis",
+      "author": "poki5539",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1546529455231475773",
       "channel_id": "1131839817982947429",
       "content": "https://tenor.com/view/fehlerhaft-fehler-bugs-bug-gif-26196067",
@@ -261,30 +289,6 @@
       "author": "inhibitus",
       "reactions": 8,
       "channel": "V2.6.0.4 在线维护公告"
-    },
-    {
-      "id": "1546430600821350440",
-      "channel_id": "1131839817982947429",
-      "content": "结果我打别队 其他角色专一刷就出来了",
-      "author": "kemomimi_",
-      "reactions": 8,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1546391856055713913",
-      "channel_id": "1170692781216378960",
-      "content": "New survey is out. MAKE SURE YOU MAKE IT VERY EXHAUSIVE",
-      "author": "crowlov1",
-      "reactions": 8,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1546459731336499230",
-      "channel_id": "1170692781216378960",
-      "content": "chat i have Corpo E3 c:",
-      "author": "topazlh",
-      "reactions": 8,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }
