@@ -1,8 +1,8 @@
 {
   "date": "2026-09-07",
-  "archived_at": "2026-09-08T03:00:20.999457+00:00",
+  "archived_at": "2026-09-08T08:00:25.608731+00:00",
   "source": "bilibili",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
     {
       "title": "【忘却前夜】鸟弟首通癫狂5-7血希 不再依赖哥哥算长大吗 8.31融灾",
@@ -36,6 +36,40 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/63e984865244456be2d0b8c639ccba1cce7954b6.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】第五章(2)",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-07T13:55:50+00:00",
+      "url": "https://www.bilibili.com/video/av117230075381650",
+      "engagement": 122,
+      "is_hot": false,
+      "author": "闭月梦",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/a4397581b89587e112183b0595e1b47444ad5184.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "绿皮奶蛙制作剧毒料理毒晕大蠕虫展示女性魅力",
+      "summary": "才开始玩珈伦毒，带猎食决心会轻松很多，配置不需要很高，这里已经溢出很多了。",
+      "source": "bilibili",
+      "time": "2026-09-07T13:32:20+00:00",
+      "url": "https://www.bilibili.com/video/av117229991500754",
+      "engagement": 121,
+      "is_hot": false,
+      "author": "哑哑不是娅娅",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/e067e948ed4918477d0562db945af8bc311b1362.jpg",
       "content_type": "video"
     },
     {

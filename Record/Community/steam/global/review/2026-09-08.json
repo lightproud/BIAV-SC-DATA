@@ -1,8 +1,8 @@
 {
   "date": "2026-09-08",
-  "archived_at": "2026-09-08T03:00:21.031716+00:00",
+  "archived_at": "2026-09-08T08:00:25.627396+00:00",
   "source": "steam",
-  "item_count": 8,
+  "item_count": 15,
   "items": [
     {
       "title": "[负面] i started a month ago started 2.5 . recent patch o...",
@@ -23,6 +23,29 @@
         "playtime_forever": 13557,
         "votes_up": 2,
         "timestamp_created": 1788816768
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I used to love this game... (Look at my hours—I ac...",
+      "summary": "I used to love this game... (Look at my hours—I actually still do love the game).\nI also normally NEVER review games... But, the Devs keep making VERY anti-consumer choices and then gave massive numbers creep to the only repeatable game mode that matters (see other reviews for more info).\nI've also spent so much money on this game to support the DEVs...\n\nHowever... Now, I cannot in good conscience recommend this game to anyone anymore. Unless you want to join as a purely Free to Play until either the game Ends of Service or fixes the problems.",
+      "source": "steam_review",
+      "time": "2026-09-08T02:21:13+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198081532962/recommended/3052450",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "76561198081532962",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 56582,
+        "votes_up": 2,
+        "timestamp_created": 1788834073
       },
       "region": "global",
       "archive_subtype": "review"
@@ -69,6 +92,29 @@
         "playtime_forever": 90848,
         "votes_up": 1,
         "timestamp_created": 1788825308
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I don't usually write reviews but this time I felt...",
+      "summary": "I don't usually write reviews but this time I felt it was necessary.\r\n\r\nI am/was a highly dedicated endgame player with a couple minor achievements to my name with nearly 2 years out of the game's 3 worth of playtime.\r\n\r\nTL:DR It sucks. It used to be this highly rewarding teambuilding deckbuilder but the devs have consistently been killing the game for the past 6 months. Every patch has made the game worse than the last but the most recent, 2.7 was the most egregious. It reworked the only fun and primary endgame mode (D-Zone) from an interesting challenge to an inaccessible grindfest. They 10x enemy HP bars, doubled their dmg, and instituted anti-player agency and anti-fun mechanics. The devs have announced they are satisfied with these changes and similar updates will be released in the future. \r\n\r\nIt is clear the game's direction is simply not going to be fun anymore and is already in a state where playing feels like a chore and a mandate. A shame cause Morimens had great potential but the dev team squandered it.",
+      "source": "steam_review",
+      "time": "2026-09-08T02:02:43+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198393594421/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198393594421",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 68935,
+        "votes_up": 1,
+        "timestamp_created": 1788832963
       },
       "region": "global",
       "archive_subtype": "review"
@@ -184,6 +230,121 @@
         "playtime_forever": 31618,
         "votes_up": 0,
         "timestamp_created": 1788829743
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] クトゥルフ神話をモチーフとしたキャラクターデザイン・シナリオは個性的かつ美麗で、第一印象から期待通り...",
+      "summary": "クトゥルフ神話をモチーフとしたキャラクターデザイン・シナリオは個性的かつ美麗で、第一印象から期待通りのものがお出しされ、とても良い雰囲気。\n暗くて救われないことも多いけれど儚くも希望がある、そんな話が刺さる人には深く刺さると思う。私がそうだった。\n立ち絵なども全身で見ると驚くような造形をしていて、バストアップ絵からいい意味で印象が変わったキャラも多い。もっとよく見せてほしい。\nゲーム性はスレスパライクで、面白い効果のカードやレリックが多く戦略面でもかなり歯ごたえがある。\n日本語での攻略情報があまり出回ってないので、分かる人をなんとか捕まえるか、自力で考える必要がかなり大きいが、それも楽しめる人なら問題ないだろう。\nただし、ガチャゲーではあり、いわゆるホヨバ的なキャラとモチーフ武器を引かせる形式であること、それぞれの最大凸が12まであることを考えるとかなり恐ろしい沼が広がっているといえる。\n無論、ガチャ石は適当にやっていてもかなりの量を貰えるし、月1で任意キャラの凸素材が貰え、2~4凸程度しておけば十分に能力を発揮するキャラが多いので無課金でもやりようはかなりある。あるが、上を見ると本当にキリがなくなる。\n\nそして最大の問題点はやはり日本語の翻訳がガバガバすぎるところだ。\nカードテキストと実際の効果が異なることがザラにあり、またテキストもころころ更新されるので今何がどうなっているか掴むのがかなり難しい。\n固有名詞すら翻訳がブレるのでカード名指定やキャラクター名指定さえ読み取るには曖昧なものも多い。\nそもそもテキストが正常に表示されないこともよくある。\n現在だと、いくつかのキャラクターの凸効果説明が別キャラクターのものになってしまっていたり、かなり問題がある。\n私は英語版テキストと見比べることでゲームを楽しんではいるが、そんな苦労をユーザーが負うべきでないことも理解している。\nシナリオテキストも途中から機械翻訳で堅くなるので雰囲気を大きく損なっているのだが、これに関しては待てば順次人の手を通した翻訳に置き換えられていくのでまだ呑み込むことができるし、それを気にするならば日本版を遊ぶ選択肢がある(とはいえ、日本版に実装されたシナリオ分の反映はもっと早くしてほしい)が、ガチャキャラクターの性能説明がしょっちゅう誤っているのは何らかの法に引っかかるのではないかと不安になるのでできれば改善してほしい。\n\n総じて、イラストやシナリオの雰囲気は最高だが、以上の翻訳面の難がかなり大きいため、それを承知で遊べるかどうかだと考える",
+      "source": "steam_review",
+      "time": "2026-09-08T06:09:28+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198318336134/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198318336134",
+      "tags": [
+        "japanese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 8191,
+        "votes_up": 0,
+        "timestamp_created": 1788847768
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 喜欢美术风格和剧情",
+      "summary": "喜欢美术风格和剧情",
+      "source": "steam_review",
+      "time": "2026-09-08T05:41:50+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199727608258/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199727608258",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 12609,
+        "votes_up": 0,
+        "timestamp_created": 1788846110
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] It sucks to see a game I once genuinely enjoyed go...",
+      "summary": "It sucks to see a game I once genuinely enjoyed go downhill this quickly through one anti-consumer decision after another.\n\nI won’t go into detail about everything that has happened, since plenty of others have already explained those issues far better than I could. I’d encourage anyone curious to look through the reviews posted since September 1st.\n\nUnfortunately, I can’t recommend this game anymore. It’s disappointing to see something I once enjoyed head in this direction.",
+      "source": "steam_review",
+      "time": "2026-09-08T05:26:42+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198053346442/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198053346442",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 15031,
+        "votes_up": 0,
+        "timestamp_created": 1788845202
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Bad",
+      "summary": "Bad",
+      "source": "steam_review",
+      "time": "2026-09-08T04:24:30+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198021760051/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198021760051",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 11008,
+        "votes_up": 0,
+        "timestamp_created": 1788841470
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Lots of lies and really bad changes lately.",
+      "summary": "Lots of lies and really bad changes lately.",
+      "source": "steam_review",
+      "time": "2026-09-08T04:11:37+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198014945696/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198014945696",
+      "tags": [
+        "polish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 9197,
+        "votes_up": 0,
+        "timestamp_created": 1788840697
       },
       "region": "global",
       "archive_subtype": "review"

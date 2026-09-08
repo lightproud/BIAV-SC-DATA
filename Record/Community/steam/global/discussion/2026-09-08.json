@@ -1,9 +1,26 @@
 {
   "date": "2026-09-08",
-  "archived_at": "2026-09-08T03:00:21.001617+00:00",
+  "archived_at": "2026-09-08T08:00:25.610647+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 5,
   "items": [
+    {
+      "title": "[Steam论坛] Invitation Code",
+      "summary": "1D1EGZ10U1",
+      "source": "steam_discussion",
+      "time": "2026-09-08T03:50:13+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/603039786130771940/",
+      "engagement": 234,
+      "is_hot": true,
+      "author": "Znye",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
     {
       "title": "[Steam论坛] The new D-Tide changes are a disaster that need to be reverted.",
       "summary": "The backlash on all other social media and especially on Discord has been severe enough that I'm optimistic that it will be reverted but I wanted to post here about it anyway. \n\nWhy are the changes so bad?  Users on the Morimens Discord diagnose the problems as:\n>New players can’t feasibly clear Normal mode in the time that it took them to clear a1-a2 on the previous D-Zone.\n>The jump from Normal mode to Hard mode is WAY too much. A tenfold increase in HP is too high of a gap for players to reas",
@@ -30,6 +47,40 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Opus Krokus",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] cant login to my account..",
+      "summary": "i deleted the game to get some space and just redownloaded it.. my UID is totally different from my og account and no matter what gmail/steam acc that i login to the UID doesnt change.. what do i do?",
+      "source": "steam_discussion",
+      "time": "2026-09-08T05:12:45+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591814721688266601/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "hakase's eyepatch",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] Invite code :3",
+      "summary": "Please & ty\nICV2N17AS0",
+      "source": "steam_discussion",
+      "time": "2026-09-08T03:50:03+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591814721688263816/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "radical",
       "tags": [
         "steam_forum"
       ],

@@ -1,8 +1,8 @@
 {
   "date": "2026-09-07",
-  "archived_at": "2026-09-08T03:00:21.105913+00:00",
+  "archived_at": "2026-09-08T08:00:25.731309+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 中评] ★3 game is seems real good but it's seems m",
@@ -29,6 +29,34 @@
       "author": "Aditya Pradana",
       "tags": [],
       "lang": "id",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 Unfortunately, if you were drawn here du",
+      "summary": "Unfortunately, if you were drawn here due to YouTube videos praising the game and the dev, things have changed quite drastically. Gameplay has been changed in a way that is very unpopular with the community. Endgame has been changed and inflated hp values completely screwed both invested players and new players building towards those teams. Units getting \"bug fixed\" right after a re-run. Light, the producer has been caught lying and backpedaling repeatedly about these changes. Memento Mori.",
+      "source": "google_play",
+      "time": "2026-09-07T06:00:32",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-e463a64d-8b8b-4c3c-98da-ac6cf4f8cdea",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Jesse",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 이제 막 들어온 뉴비입니다 재미있게 하던 도중 초반 1-2스테이지에 조사",
+      "summary": "이제 막 들어온 뉴비입니다 재미있게 하던 도중 초반 1-2스테이지에 조사를 누르고난후 검은 화면만 나오고 전투 화면은 안나옵니다. 어떻게 해야하나요",
+      "source": "google_play",
+      "time": "2026-09-07T07:37:18",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-46a7babe-9ec0-40fb-b01a-3d428f5a2895",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "김본재",
+      "tags": [],
+      "lang": "ko",
       "platform_region": "",
       "region": "global"
     }
