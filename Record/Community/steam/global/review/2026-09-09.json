@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-09",
+  "archived_at": "2026-09-08T18:18:15.578383+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] 10 out of 10 would mori the men again",
+      "summary": "10 out of 10 would mori the men again",
+      "source": "steam_review",
+      "time": "2026-09-08T16:05:36+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199084140928/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561199084140928",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 5567,
+        "votes_up": 1,
+        "timestamp_created": 1788883536
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

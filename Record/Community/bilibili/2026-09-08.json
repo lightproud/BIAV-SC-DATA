@@ -1,8 +1,8 @@
 {
   "date": "2026-09-08",
-  "archived_at": "2026-09-08T13:20:23.450427+00:00",
+  "archived_at": "2026-09-08T18:18:15.539157+00:00",
   "source": "bilibili",
-  "item_count": 7,
+  "item_count": 9,
   "items": [
     {
       "title": "【忘却前夜】新环境登神！三年归来风采依旧，指数级成长正是成王的理由！混沌24阵容攻略",
@@ -56,6 +56,23 @@
       "content_type": "video"
     },
     {
+      "title": "【忘却前夜】庞卡水船融灾禁区1-癫狂影子24",
+      "summary": "超限庞船打1图算够用……",
+      "source": "bilibili",
+      "time": "2026-09-08T14:02:31+00:00",
+      "url": "https://www.bilibili.com/video/av117235779640153",
+      "engagement": 193,
+      "is_hot": false,
+      "author": "朝星-",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/c2dc723b9161ceef8ce511164b3648cbb326daeb.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "【忘却前夜】新融灾480纪念+3启莫斯0死扛5-6噩梦",
       "summary": "断断续续打了一周也是出分了，3图还可以打一队魔术师海老头，这个号的理论最高分应该有485\n首先不推荐任何和我一样没有回溯的中登去强吃5-6，算上道中做状态一把一个半小时，还要看造物和发牌员脸色属实没必要\n首先讲一下某神秘男星目前的尴尬处境，打完发现仓库里练度最高那个没有上场机会气笑了，你莱上个版本还是恨不得一个拆开当三个用，现在没有上场机会了\n1-7适合配置低一点的24，其他图扛不住，朵尔觉醒+灵魂诞生，每回合最后出打防靠环哪印卡一直循环\n2-7老头淡漠两队逃课\n3-7固伤队或者戒指魔术师40回合慢慢磨",
       "source": "bilibili",
@@ -104,6 +121,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/eb3f19f47bc24ebd48dfdf1045061d73681587d4.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】3-7逃课",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-08T14:29:14+00:00",
+      "url": "https://www.bilibili.com/video/av117235863521258",
+      "engagement": 85,
+      "is_hot": false,
+      "author": "寂榕",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/c63cf8a02655ae3f958038c3fd6c020620cef56f.jpg",
       "content_type": "video"
     },
     {

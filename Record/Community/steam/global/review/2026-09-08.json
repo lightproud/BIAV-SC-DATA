@@ -1,8 +1,8 @@
 {
   "date": "2026-09-08",
-  "archived_at": "2026-09-08T13:20:23.459330+00:00",
+  "archived_at": "2026-09-08T18:18:15.547451+00:00",
   "source": "steam",
-  "item_count": 22,
+  "item_count": 28,
   "items": [
     {
       "title": "[负面] i started a month ago started 2.5 . recent patch o...",
@@ -506,6 +506,144 @@
         "playtime_forever": 365,
         "votes_up": 0,
         "timestamp_created": 1788851625
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Pretty messed up what they did to d-tide. Also unc...",
+      "summary": "Pretty messed up what they did to d-tide. Also uncool to arbitrarily nerf one of my favorite awakeners under the pretense of a bug fix. I've been playing the game for over a year and I would usually emphatically recommend it but this kind of thing sets a very scary precedent",
+      "source": "steam_review",
+      "time": "2026-09-08T15:23:00+00:00",
+      "url": "https://steamcommunity.com/profiles/76561197995560676/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561197995560676",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 53611,
+        "votes_up": 0,
+        "timestamp_created": 1788880980
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 뉴비도 하드유저도 공평하게 병신으로 만드는 패치방향성 대단합니다",
+      "summary": "뉴비도 하드유저도 공평하게 병신으로 만드는 패치방향성 대단합니다",
+      "source": "steam_review",
+      "time": "2026-09-08T14:28:40+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198058741900/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198058741900",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 36672,
+        "votes_up": 0,
+        "timestamp_created": 1788877720
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Very enjoyable card game.",
+      "summary": "Very enjoyable card game.",
+      "source": "steam_review",
+      "time": "2026-09-08T14:23:35+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198110345404/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198110345404",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 12161,
+        "votes_up": 0,
+        "timestamp_created": 1788877415
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] The endgame mode (Dtide) used to be a challenging...",
+      "summary": "The endgame mode (Dtide) used to be a challenging mode that allowed players to do horizontal investment and get top rewards. \n\nWith the last update, dtide is now just a slopfest for most players, and actively encourages vertical investment and use of revives.",
+      "source": "steam_review",
+      "time": "2026-09-08T13:45:24+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198351102149/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198351102149",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 980,
+        "votes_up": 0,
+        "timestamp_created": 1788875124
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 好玩",
+      "summary": "好玩",
+      "source": "steam_review",
+      "time": "2026-09-08T13:26:09+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199568852348/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199568852348",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 315,
+        "votes_up": 0,
+        "timestamp_created": 1788873969
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] The story is surprisingly good, particularly for a...",
+      "summary": "The story is surprisingly good, particularly for a gacha game. And the gacha mechanics are amongst the most fair I have encountered. The gameplay is also fun as its very similar to slay the spire. All around a good game :D",
+      "source": "steam_review",
+      "time": "2026-09-08T13:08:34+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198091307625/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198091307625",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 5360,
+        "votes_up": 0,
+        "timestamp_created": 1788872914
       },
       "region": "global",
       "archive_subtype": "review"
