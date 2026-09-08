@@ -1,8 +1,8 @@
 {
   "date": "2026-09-08",
-  "archived_at": "2026-09-08T08:00:25.609960+00:00",
+  "archived_at": "2026-09-08T13:20:23.451547+00:00",
   "source": "bahamut",
-  "item_count": 24,
+  "item_count": 25,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -76,6 +76,19 @@
       "time": "2026-09-07T18:59:16.448774+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1551&tnum=3",
       "engagement": 60,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【攻略】新融災環境，地瓜、福袋、誕墨，抽取建議",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-08T13:19:22.609938+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1565&tnum=3",
+      "engagement": 58,
       "is_hot": false,
       "author": "t12345825",
       "tags": [],

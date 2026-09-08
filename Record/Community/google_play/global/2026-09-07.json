@@ -1,8 +1,8 @@
 {
   "date": "2026-09-07",
-  "archived_at": "2026-09-08T08:00:25.731309+00:00",
+  "archived_at": "2026-09-08T13:20:23.549193+00:00",
   "source": "google_play",
-  "item_count": 4,
+  "item_count": 8,
   "items": [
     {
       "title": "[Google Play 中评] ★3 game is seems real good but it's seems m",
@@ -57,6 +57,62 @@
       "author": "김본재",
       "tags": [],
       "lang": "ko",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 Recent update crept the HP of endgame by",
+      "summary": "Recent update crept the HP of endgame by more than 10x the previous value, killing the viability of most units. Beware that you can brick your account by pulling unoptimally, as it may be impossible for your favorite unit to do endgame even after investing all you can (16 copies of the unit, plus copies of their respective supports - up to 48 copies, plus their wheels/weapon) into them. Disappointing response to the nerf disguised as a bugfix, when it has been known and communicated for a year.",
+      "source": "google_play",
+      "time": "2026-09-07T10:51:04",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-9c333a6c-09f6-4b80-bb36-4177719569c1",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Raziel Hisoki",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 This is possibly one of the most underra",
+      "summary": "This is possibly one of the most underrated gacha games ever. this game is more focused on strategy and i understand that this isn't for everyone but I highly recommend you give this game a try the story and gacha system is developed really well only issue is it's hard to create teams with several characters as they are overshadowed by others making it so only few characters are truly viable",
+      "source": "google_play",
+      "time": "2026-09-07T08:48:55",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-d51888c0-5303-4fd4-9309-b2b4e7dcf44f",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Joel A",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 게임을 하고 싶어도 네트워크 연결만 계속 뜨고 진행을 못하니 리뷰를 쓰려",
+      "summary": "게임을 하고 싶어도 네트워크 연결만 계속 뜨고 진행을 못하니 리뷰를 쓰려해도 쓸게 없어요. 적어도 게임은 해볼수있게 해주십셔",
+      "source": "google_play",
+      "time": "2026-09-07T10:35:18",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-c1d806c0-3261-4dd3-bda6-29284a8efb83",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "김동현",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 deru, berikan aku hoki",
+      "summary": "deru, berikan aku hoki",
+      "source": "google_play",
+      "time": "2026-09-07T13:09:29",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-75aea3ef-a1ad-48c6-9f7a-ed3a53ac7b6d",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Noze Rao Xalvorn",
+      "tags": [],
+      "lang": "id",
       "platform_region": "",
       "region": "global"
     }

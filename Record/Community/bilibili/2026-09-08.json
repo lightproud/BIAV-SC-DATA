@@ -1,8 +1,8 @@
 {
   "date": "2026-09-08",
-  "archived_at": "2026-09-08T08:00:25.608334+00:00",
+  "archived_at": "2026-09-08T13:20:23.450427+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 7,
   "items": [
     {
       "title": "【忘却前夜】新环境登神！三年归来风采依旧，指数级成长正是成王的理由！混沌24阵容攻略",
@@ -19,6 +19,91 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/f106f56248eb4c40001ddccd43dde1697050bbb4.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】0氪新号两天融灾350",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-08T07:59:14+00:00",
+      "url": "https://www.bilibili.com/video/av117234353642301",
+      "engagement": 434,
+      "is_hot": false,
+      "author": "绘绘绘绘名",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/9834ac1242bb8ce81ff52fb483e91a309b90fc3b.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜 尤乌 新融灾5-4血希",
+      "summary": "3倍速\n我想应该没有人会想看40分钟的战斗\n\n背景音乐：Bedřich Smetana - &quot;Vltava&quot;",
+      "source": "bilibili",
+      "time": "2026-09-08T10:15:49+00:00",
+      "url": "https://www.bilibili.com/video/av117234873669509",
+      "engagement": 218,
+      "is_hot": false,
+      "author": "夢遊遊遊遊",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/82c15eca6665b3e7054a1e3236fd57dc2dbccd3e.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】新融灾480纪念+3启莫斯0死扛5-6噩梦",
+      "summary": "断断续续打了一周也是出分了，3图还可以打一队魔术师海老头，这个号的理论最高分应该有485\n首先不推荐任何和我一样没有回溯的中登去强吃5-6，算上道中做状态一把一个半小时，还要看造物和发牌员脸色属实没必要\n首先讲一下某神秘男星目前的尴尬处境，打完发现仓库里练度最高那个没有上场机会气笑了，你莱上个版本还是恨不得一个拆开当三个用，现在没有上场机会了\n1-7适合配置低一点的24，其他图扛不住，朵尔觉醒+灵魂诞生，每回合最后出打防靠环哪印卡一直循环\n2-7老头淡漠两队逃课\n3-7固伤队或者戒指魔术师40回合慢慢磨",
+      "source": "bilibili",
+      "time": "2026-09-08T05:27:55+00:00",
+      "url": "https://www.bilibili.com/video/av117233716037785",
+      "engagement": 191,
+      "is_hot": false,
+      "author": "芒亡了",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/074c00cfa706ae0e282bc2f862e9fe3632ed7b5e.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "省流：220抽7只",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-08T06:07:08+00:00",
+      "url": "https://www.bilibili.com/video/av117233867033092",
+      "engagement": 184,
+      "is_hot": false,
+      "author": "Lewis柒",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/20609c0b6a0e60ae8efa5f1a36491c75da632212.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "老东西的复苏！混沌二四配队及抽取推荐",
+      "summary": "谨慎游玩 再次叠甲",
+      "source": "bilibili",
+      "time": "2026-09-08T12:56:10+00:00",
+      "url": "https://www.bilibili.com/video/av117235511203484",
+      "engagement": 105,
+      "is_hot": false,
+      "author": "-白云出岫-",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/eb3f19f47bc24ebd48dfdf1045061d73681587d4.jpg",
       "content_type": "video"
     },
     {

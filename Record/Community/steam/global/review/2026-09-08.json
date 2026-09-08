@@ -1,8 +1,8 @@
 {
   "date": "2026-09-08",
-  "archived_at": "2026-09-08T08:00:25.627396+00:00",
+  "archived_at": "2026-09-08T13:20:23.459330+00:00",
   "source": "steam",
-  "item_count": 15,
+  "item_count": 22,
   "items": [
     {
       "title": "[负面] i started a month ago started 2.5 . recent patch o...",
@@ -115,6 +115,29 @@
         "playtime_forever": 68935,
         "votes_up": 1,
         "timestamp_created": 1788832963
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] the game used to be fun until a last dtide change(...",
+      "summary": "the game used to be fun until a last dtide change(dtide is the endgame of morimens):\nprior to release the main dev was gathering feedbck, after which he said the difficulty of the new dtide will be toned down. the chinese and english comunity made the calculations of what that means: the chinese expected 20 million hp bosses(which is extremely hard to do unless you are a whale), the english comunity expected 8-10 millions(that means a double in hp of the bosses and mobs for endgame, compared to old dtide). \n\nthen the update happened. the hp of the bosses reached 45 millions, which makes it that only 5 characters in the game can clear, and only if they have strong supports and they are whaled out. \n\nthe bar for new players was raised as well. basically new players are locked out of the mode. the mode that is the only source of materials required to upgrade our characters enough to be able to clear on easiest difficulty. yes, \"you need 5 years of experience for your first job\".\n\ntogether with these changes the shop got upgraded in order to make important materials harder to acces.\n\nthe wave of recent negative reviews is because of these changes, that make the game not even pay to win(because not even whales can clear endgame. as i said before, only specific comps can clear. if you don't have the 5 dpses needed it's not going to happen, no matter how much money you spent.), but a poor moneygrab scheme without much thought put into it.",
+      "source": "steam_review",
+      "time": "2026-09-08T10:56:03+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198401760483/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198401760483",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 16459,
+        "votes_up": 1,
+        "timestamp_created": 1788864963
       },
       "region": "global",
       "archive_subtype": "review"
@@ -345,6 +368,144 @@
         "playtime_forever": 9197,
         "votes_up": 0,
         "timestamp_created": 1788840697
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Muito bom, todavia, a progressão da história princ...",
+      "summary": "Muito bom, todavia, a progressão da história principal é lenta, pois depende de farm em outros modos e eventos no jogo.",
+      "source": "steam_review",
+      "time": "2026-09-08T12:24:48+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198650844321/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198650844321",
+      "tags": [
+        "brazilian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1748,
+        "votes_up": 0,
+        "timestamp_created": 1788870288
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Devs made one of the worst changes to endgame ever...",
+      "summary": "Devs made one of the worst changes to endgame ever.\r\nRevert the old d tide",
+      "source": "steam_review",
+      "time": "2026-09-08T12:24:43+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199013024637/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199013024637",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 11663,
+        "votes_up": 0,
+        "timestamp_created": 1788870283
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 玩蚀灭罗达恒南部流口水",
+      "summary": "玩蚀灭罗达恒南部流口水",
+      "source": "steam_review",
+      "time": "2026-09-08T11:42:54+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199394327524/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199394327524",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3672,
+        "votes_up": 0,
+        "timestamp_created": 1788867774
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Good rate gacha with pity pull of 30 to get SSR. G...",
+      "summary": "Good rate gacha with pity pull of 30 to get SSR. Good artwork, even better gameplay mechanics",
+      "source": "steam_review",
+      "time": "2026-09-08T11:29:41+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198803153646/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198803153646",
+      "tags": [
+        "tchinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 37,
+        "votes_up": 0,
+        "timestamp_created": 1788866981
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] With the last update game became too greedy/predat...",
+      "summary": "With the last update game became too greedy/predatory",
+      "source": "steam_review",
+      "time": "2026-09-08T10:07:01+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199442885319/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199442885319",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 2996,
+        "votes_up": 0,
+        "timestamp_created": 1788862021
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] สนุกนะ",
+      "summary": "สนุกนะ",
+      "source": "steam_review",
+      "time": "2026-09-08T07:13:45+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199589122575/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199589122575",
+      "tags": [
+        "thai"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 365,
+        "votes_up": 0,
+        "timestamp_created": 1788851625
       },
       "region": "global",
       "archive_subtype": "review"
