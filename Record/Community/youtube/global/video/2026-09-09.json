@@ -1,8 +1,8 @@
 {
   "date": "2026-09-09",
-  "archived_at": "2026-09-09T13:24:09.942154+00:00",
+  "archived_at": "2026-09-09T18:19:08.520872+00:00",
   "source": "youtube",
-  "item_count": 18,
+  "item_count": 19,
   "items": [
     {
       "title": "MORIMENS La historia que debes conocer #morimens #ia #gacha  #game",
@@ -170,6 +170,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/rkZ6vZJjvv0/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "忘却前夜　星辰篇2章",
+      "summary": "わらび餅にされに来た.",
+      "source": "youtube",
+      "time": "2026-09-09T15:25:01Z",
+      "url": "https://www.youtube.com/watch?v=h5TMaKF5pFA",
+      "engagement": 14,
+      "is_hot": false,
+      "author": "海の怪物",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/h5TMaKF5pFA/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

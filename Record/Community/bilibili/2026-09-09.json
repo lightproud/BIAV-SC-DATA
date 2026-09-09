@@ -1,8 +1,8 @@
 {
   "date": "2026-09-09",
-  "archived_at": "2026-09-09T13:24:09.939975+00:00",
+  "archived_at": "2026-09-09T18:19:08.519913+00:00",
   "source": "bilibili",
-  "item_count": 23,
+  "item_count": 25,
   "items": [
     {
       "title": "【忘却前夜】新版本密契攻略",
@@ -36,6 +36,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/bfa48e22c0d8bf7a496584865411a345e69bf5d5.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "[忘却前夜]娜娜浅浅跳个舞",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-09T14:48:13+00:00",
+      "url": "https://www.bilibili.com/video/av117241618111889",
+      "engagement": 303,
+      "is_hot": false,
+      "author": "渔歌伴晚舟",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/fc34cfbcf221a46fdd4ece2aac3d824d01533b05.jpg",
       "content_type": "video"
     },
     {
@@ -138,6 +155,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/41396d9a189ce6e524a089a6902effd5bc10aa65.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】新融灾400分自存留念",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-09T09:03:30+00:00",
+      "url": "https://www.bilibili.com/video/av117240175331403",
+      "engagement": 103,
+      "is_hot": false,
+      "author": "大团子不是团子",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/cc8acd86f04da821668e9c66f2ffb131c129fbde.jpg",
       "content_type": "video"
     },
     {

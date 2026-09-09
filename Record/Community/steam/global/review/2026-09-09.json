@@ -1,8 +1,8 @@
 {
   "date": "2026-09-09",
-  "archived_at": "2026-09-09T13:24:09.955953+00:00",
+  "archived_at": "2026-09-09T18:19:08.531153+00:00",
   "source": "steam",
-  "item_count": 17,
+  "item_count": 19,
   "items": [
     {
       "title": "[负面] Do NOT spend on this game until the devs reverted...",
@@ -391,6 +391,52 @@
         "playtime_forever": 8,
         "votes_up": 0,
         "timestamp_created": 1788946479
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 画风牛逼",
+      "summary": "画风牛逼",
+      "source": "steam_review",
+      "time": "2026-09-09T12:52:37+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199871098894/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199871098894",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1257,
+        "votes_up": 0,
+        "timestamp_created": 1788958357
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] amazing characters...",
+      "summary": "amazing characters...",
+      "source": "steam_review",
+      "time": "2026-09-09T12:35:59+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199498508286/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199498508286",
+      "tags": [
+        "turkish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 228,
+        "votes_up": 0,
+        "timestamp_created": 1788957359
       },
       "region": "global",
       "archive_subtype": "review"

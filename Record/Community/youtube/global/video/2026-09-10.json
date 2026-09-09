@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-10",
+  "archived_at": "2026-09-09T18:19:08.522754+00:00",
+  "source": "youtube",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Morimens] Damage scaling calculations spreadsheet + coaching viewer through w2 cheese",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-09-09T16:40:13Z",
+      "url": "https://www.youtube.com/watch?v=2HhQuvUavVE",
+      "engagement": 175,
+      "is_hot": false,
+      "author": "kizunoV",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/2HhQuvUavVE/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "video"
+}
