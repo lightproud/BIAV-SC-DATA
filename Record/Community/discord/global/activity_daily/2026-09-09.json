@@ -1,0 +1,209 @@
+{
+  "date": "2026-09-09",
+  "messages": 2329,
+  "unique_authors": 182,
+  "reactions_total": 325,
+  "attachments": 143,
+  "channel_activity": {
+    "🔸綜合討論": 181,
+    "🔸阵容构建": 3,
+    "🔸morimens-game-chat": 1217,
+    "🔸课间休息闲聊": 1,
+    "🔸русский-канал": 8,
+    "🔸phòng-chat-tiếng-việt": 17,
+    "🔸canal-español": 165,
+    "🔸canal-português": 20,
+    "🔸ruang-obrolan-indonesia": 162,
+    "🔸ห้องสนทนาภาษาไทย": 77,
+    "🔸traphase": 1,
+    "🔸lore-chat": 48,
+    "🔸频道建议┊server-suggestions": 2,
+    "🔸team-building": 70,
+    "🔸general-chat": 223,
+    "🔸邀请码互助┊swap-invitation-codes": 2,
+    "🔸game-question": 110,
+    "🔸游戏问题": 1,
+    "🔸机器人命令┊bot-commands": 2,
+    "My protest against the death of normal realms": 4,
+    "Corposant and Wheel Unseen \"Bug\"": 2,
+    "Reproduction Frenzy(Please extend story scenes)": 2,
+    "D-tide Discussion": 2,
+    "Corposant and Last Verse \"Bugfix\"": 1,
+    "V2.5.1.0 停服维护公告": 3,
+    "Where can I find guides for current events?": 4,
+    "【Newcomer Help】Forum Introduction": 1
+  },
+  "hourly_activity": {
+    "1": 551,
+    "2": 699,
+    "3": 546,
+    "0": 533
+  },
+  "message_types": {
+    "0": 1574,
+    "19": 752,
+    "20": 3
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1547047801861574786",
+      "channel_id": "1543760297637187614",
+      "content": "morimens discord right now",
+      "author": "flocke999",
+      "reactions": 28,
+      "channel": "D-tide Discussion"
+    },
+    {
+      "id": "1547061583908175902",
+      "channel_id": "1170692781216378960",
+      "content": "hi",
+      "author": "serahh__",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547075340424454164",
+      "channel_id": "1131839817982947429",
+      "content": "薩爾瓦多 莫絲 卡拉布 沙耶\n也可以組成薩莫不耶",
+      "author": "quackdayo",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547075539058302976",
+      "channel_id": "1131839817982947429",
+      "content": "~~拼起来送给一哥当头像~~",
+      "author": "ka_0414",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547067043092766860",
+      "channel_id": "1131839817982947429",
+      "content": "地瓜其实是防御型",
+      "author": "xinyu_83732",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547067786356854844",
+      "channel_id": "1131839817982947429",
+      "content": "我覺得很明確啊\n傷害型=幹啥啥不行\n防禦型=傷害+防禦\n輔助型=傷害+防禦+輔助",
+      "author": "cwz.io",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547069317806555227",
+      "channel_id": "1131839817982947429",
+      "content": "拿校猫应该也可以当毒队c",
+      "author": "xinyu_83732",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547066462634643549",
+      "channel_id": "1131839817982947429",
+      "content": "神血實為神海售後（爆論",
+      "author": "xianrenwurao",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547070133715861577",
+      "channel_id": "1131839817982947429",
+      "content": "奧爾拉+熔毀朵爾+阿拉克涅XD",
+      "author": "cwz.io",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547073530208718858",
+      "channel_id": "1131839817982947429",
+      "content": "凯蒂古拉\n凯刻斯+诺谛(蒂)拉+凯蒂古拉+拉蒙娜<:Ramona_tuff_:1441426630420467753>",
+      "author": "ka_0414",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547073983332089926",
+      "channel_id": "1131839817982947429",
+      "content": "阿拉克涅 拉蒙娜 小玫瑰 地瓜\n可以組成阿拉花瓜",
+      "author": "quackdayo",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547075090158719096",
+      "channel_id": "1131839817982947429",
+      "content": "我是说把唤醒体们由上到下分成4个部分拼起来，比如头是阿拉克涅，身体是莱克，腿是克菜门汀，汀当脚底(？)",
+      "author": "ka_0414",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547083863216623647",
+      "channel_id": "1131839817982947429",
+      "content": "刪牌優先刪戈三費、米粒二費、燈塔二一費\n道中靠靜海、角色開狂給的盾輪流撐一回合，現在的道中基本上困難可以靠圖魯狂+號令過，噩夢就要誕墨超限來打了，打傷害之前最好",
+      "author": "xianrenwurao",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547086637006192780",
+      "channel_id": "1131839817982947429",
+      "content": "勸一勸\n這樣以後才會想逃",
+      "author": "foxcatfurry",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547034153592033461",
+      "channel_id": "1170692781216378960",
+      "content": "Salv my goat",
+      "author": "theluzinator",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547055146389868564",
+      "channel_id": "1170692781216378960",
+      "content": "Where's the \"Pure Chaos\" option",
+      "author": "ashd3x",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547064507531268157",
+      "channel_id": "1170692781216378960",
+      "content": "I thought this was the Abyssal Soul Discord <:Winkle_omg:1468257899330539774>",
+      "author": "mythicmoonwort",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547082735405891614",
+      "channel_id": "1170692781216378960",
+      "content": "I LOVE Corposant",
+      "author": "hacchistartour",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547063044415164576",
+      "channel_id": "1131839817982947429",
+      "content": "話說卡拉布是不是你遊第一個不能輔助的輔助型\n要輸出有輸出要生存有生存\n要輔助只有錯失良機",
+      "author": "cwz.io",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547080255523659816",
+      "channel_id": "1131839817982947429",
+      "content": "<:Weakness:1546814592561446934>",
+      "author": "kemomimi_",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}
