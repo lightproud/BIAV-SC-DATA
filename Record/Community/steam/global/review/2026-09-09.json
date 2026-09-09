@@ -1,8 +1,8 @@
 {
   "date": "2026-09-09",
-  "archived_at": "2026-09-09T08:04:52.655288+00:00",
+  "archived_at": "2026-09-09T13:24:09.955953+00:00",
   "source": "steam",
-  "item_count": 14,
+  "item_count": 17,
   "items": [
     {
       "title": "[负面] Do NOT spend on this game until the devs reverted...",
@@ -69,6 +69,29 @@
         "playtime_forever": 19443,
         "votes_up": 2,
         "timestamp_created": 1788931090
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] The other reviews here say what I would so I will...",
+      "summary": "The other reviews here say what I would so I will skip that part but I still want to leave a review. I play mostly on mobile, so ignore the hours played pls. This game has made too many bad changes and I can no longer recommend it. Breaks my heart because I really love the characters and the world. But I can no longer play or recommend a game that spits it the face of a community that helped keep it alive.",
+      "source": "steam_review",
+      "time": "2026-09-09T07:51:30+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198781061503/recommended/3052450",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "76561198781061503",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 476,
+        "votes_up": 2,
+        "timestamp_created": 1788940290
       },
       "region": "global",
       "archive_subtype": "review"
@@ -322,6 +345,52 @@
         "playtime_forever": 1620,
         "votes_up": 0,
         "timestamp_created": 1788922416
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] ну красиво",
+      "summary": "ну красиво",
+      "source": "steam_review",
+      "time": "2026-09-09T10:46:38+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198679025958/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198679025958",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 9,
+        "votes_up": 0,
+        "timestamp_created": 1788950798
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] it's broken on linux, might be good who knows, gon...",
+      "summary": "it's broken on linux, might be good who knows, gonna upvote cause itd be mean to bag it out cause it doesn't work on a platform they're not targeting",
+      "source": "steam_review",
+      "time": "2026-09-09T09:34:39+00:00",
+      "url": "https://steamcommunity.com/profiles/76561197976676842/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561197976676842",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 8,
+        "votes_up": 0,
+        "timestamp_created": 1788946479
       },
       "region": "global",
       "archive_subtype": "review"
