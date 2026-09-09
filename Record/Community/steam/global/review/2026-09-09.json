@@ -1,8 +1,8 @@
 {
   "date": "2026-09-09",
-  "archived_at": "2026-09-08T23:11:58.098107+00:00",
+  "archived_at": "2026-09-09T03:01:01.581161+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 10,
   "items": [
     {
       "title": "[正面] 10 out of 10 would mori the men again",
@@ -115,6 +115,121 @@
         "playtime_forever": 5151,
         "votes_up": 0,
         "timestamp_created": 1788896116
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] esse jogo é incrível, a estética lovecraftiana, o...",
+      "summary": "esse jogo é incrível, a estética lovecraftiana, o team building e a criatividade vai além nesse jogo, no entanto recentemente, A BIAV está com umas práticas meio suspeitas e meio exploradoras demais, como power creeping de personagem novos e depois nerfando quando tem personagem novo, e fazendo o endgame apenas jogavel com meta, que é muito triste, pq esse jogo é relativamente F2P, mas aparenta estar cada vez menos infelizmente",
+      "source": "steam_review",
+      "time": "2026-09-09T02:13:01+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199861590392/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199861590392",
+      "tags": [
+        "brazilian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 1128,
+        "votes_up": 0,
+        "timestamp_created": 1788919981
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] This review may or may not change in the future, d...",
+      "summary": "This review may or may not change in the future, depending if the developers continue to disregard feedback from the players.\n\nAs beautiful and as fun as it was, I can only recommend playing the game if you enjoy the story. I wouldn't currently recommend supporting the game financially as it is now.\n\nThe game grows more anti-consumer and predatory as the developers ignore valid feedback. Unnecessary \"bug fixes\" were made to a character who wasn't even considered meta, and recently, changes were made to a major endgame mode that turned it into a SLOGFEST of whaling and cheesing (instead of making changes to the gamemodes that ACTUALLY needed changes such as P-Dive and Hectic Skybound Rail). After complaints, the developers' response was a nothingburger and barely brought up the issue. They later sent out 100 version-locked gacha currency as compensation (though it felt more like hush-money).\n\nThe purchasable features / packs and gacha in the game in general have already felt quite predatory, though my main problem with the game as of recently is the changes to gameplay making it a lot less enjoyable for free-to-play and low-spending players.",
+      "source": "steam_review",
+      "time": "2026-09-09T02:10:33+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199089743674/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199089743674",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 9585,
+        "votes_up": 0,
+        "timestamp_created": 1788919833
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Semi rogue-like lovecraftian deck-building game. W...",
+      "summary": "Semi rogue-like lovecraftian deck-building game. Wouldn't recommend it after the latest updates, the devs decided that having to slog through millions of enemy HP while they one-shot you without the paid battle-pass exclusive turn rewind is the future of the game. The balancing is just not there and the game is no longer enjoyable.",
+      "source": "steam_review",
+      "time": "2026-09-09T01:37:31+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198070689682/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198070689682",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 248,
+        "votes_up": 0,
+        "timestamp_created": 1788917851
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I found this game recently via random Youtube reco...",
+      "summary": "I found this game recently via random Youtube recommendations.\n\nTL;DR: While I have had a lot of fun, and am likely to keep playing for at least a little while longer, I cannot recommend the game in its current state. In particular, I would [i]actively]/i] discourage giving this game any money. The developers have shown a habit of subjecting the players to bait-and-switches, running character banners only to nerf those characters (directly or indirectly) [i]immediately[/i] afterwards. The game balance is also abysmal, to the point I don't think it can even be accurately called that.\n\nFor a more comprehensive list of issues:\n\n1. With standard banner characters, the recommended mission level is about 5 levels higher than it needs to be (as in, a level 20 team can take on a level 25 challenge without too much effort). With limited banner characters, that discrepancy goes up to 10-20 levels. What this means is that getting all of the achievements with standard characters at the right level is trivial. With limited banner characters, even just [i]one[/i] on the team will result in eliminating bosses in one turn and sometimes one [i]card[/i], or else trivialize surviving against the boss indefinitely. For early story, having more than one on a team is entirely superfluous.\n\n2. To combat this level of power creep, later stages and game modes have recently had bosses changed to have in some cases around a hundred times the HP pool they used to, and to deal massively inflated damage. This is instead of, but also sometimes in addition to, properly challenging mechanics.\n\n3. The result of those two factors means that people who don't invest an absurd amount of time and money into the game can expect to not be able to win at all in late-game. You cannot get the things needed without both.\n\n4. On top of all of this, limited characters have in multiple instances been rendered obsolete via nerfs (or \"bug fixes\" for \"bugs\" the developers had openly stated they were aware of [i]well[/i] before the character banner rerun, but had no intention to fix until after) immediately after a banner for them was run, resulting in everyone who grabbed them because they were a meta pick (or even, in the most recent case, because the character was fun and only moderately strong) getting scammed.\n\n5. In order to unlock side stories, you have to use a limited resource of which you get one per day (up to 3 if you pay). Each side story chapter costs between 3 and 7 of that resource. Even to unlock just the [i]essential[/i] side story chapters that shouldn't even be side story, you have to do your dailies for around a month. If you go through the main story quickly, you'll have to either stop and wait for days to a week in the middle to get the requisite side story chapters, or skip them and come back later, resulting in missing information for later main chapters and lackluster experiences of those side chapters due to distance from the intended point of playing.\n\n6. The essential side story chapters are not listed anywhere except in community guides. There is no official resource that distinguishes the necessary side chapters from the unnecessary ones. At least one side story chapter is also placed in the wrong place in the official guide, meaning following that will cause you to be exposed to spoilers for later in the main story, and this has been a known issue for at least 9 months and still has not been fixed.\n\n7. Characters belong to one of four \"realms\", each of which grants a specific effect. Recent new limited characters alter the realms they belong to, in 3/4 cases making the realms objectively worse, and it has been stated that [i]all[/i] new characters will do this.\n\n8. The PvP mode has been effectively abandoned, allegedly due to lacking manpower, but given the other decisions being made, I have to doubt the veracity of that claim.\n\n9. Character affinity is a gauge of how much a given character likes you. Leveling it up gets you resources and the characters' stories. Affinity gain was recently altered, and now it can be expected that it will take up to a year to level [i]one[/i] character's affinity. If you like a specific character and want to know more about them, be ready for a [i]long[/i] grind.\n\n10. The developers frequently ask for player feedback, but evidently do not read any of it. It genuinely seems like a complete waste of time to mention issues in the feedback forms or the Discord server. If you get any response, it will be at most a lukewarm \"We'll look into it\" with no future action.\n\n11. In the late-game, at present, you can expect there to be 3-4 viable builds. This is a new development; there used to be much more freedom with team building while still allowing competitive performance.\n\nIn short, if you do decide to play this game, any money you spend can be safely assumed to retroactively be made a waste shortly thereafter. Please refrain until the developers show that they can be trusted, because at present there is no evidence they can be.\n\nPoints 1, 5, 6, 7, 8, 9, and 10 are all personal issues I take with the game in its current state, but are echoed in the community. The others are issues that are widely complained about in the community, and, having watched others play the game, I full-heartedly agree with those complaints.",
+      "source": "steam_review",
+      "time": "2026-09-09T01:20:08+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199148822885/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199148822885",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 4572,
+        "votes_up": 0,
+        "timestamp_created": 1788916808
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I would love to shove Light into an unlocked room...",
+      "summary": "I would love to shove Light into an unlocked room where he's completely free to go and see if he can leave it without reinventing the wheel inside",
+      "source": "steam_review",
+      "time": "2026-09-09T00:15:58+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199502009868/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199502009868",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 21885,
+        "votes_up": 0,
+        "timestamp_created": 1788912958
       },
       "region": "global",
       "archive_subtype": "review"

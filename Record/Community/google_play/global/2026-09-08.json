@@ -1,8 +1,8 @@
 {
   "date": "2026-09-08",
-  "archived_at": "2026-09-08T23:11:58.165198+00:00",
+  "archived_at": "2026-09-09T03:01:01.660153+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 差评] ★1 اللعبه عنجد طلعت الlgbtq متوقعت منهم ذا",
@@ -27,6 +27,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "victor lima",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 I just started actually playing the game",
+      "summary": "I just started actually playing the game after having had it installed on my phone forever now. and I will say, I regret not starting it sooner because so far it's already climbed into my top Mobile strategy games.. and the fighting actually has more strategic gameplay and abilities to explore than most similar games. plus the artwork is not only as beautiful as I expected but ab ok e and beyond with amazing character detail. but I just barely started so I may end up editing my review.🥹😳🫣",
+      "source": "google_play",
+      "time": "2026-09-08T02:01:25",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-59a5028f-be22-4a93-ba3f-6d2987ec2d90",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Katherine Bergh",
       "tags": [],
       "lang": "en",
       "platform_region": "",
