@@ -1,8 +1,8 @@
 {
   "date": "2026-09-09",
-  "archived_at": "2026-09-09T03:01:01.542078+00:00",
+  "archived_at": "2026-09-09T08:04:52.630973+00:00",
   "source": "youtube",
-  "item_count": 7,
+  "item_count": 9,
   "items": [
     {
       "title": "Directo relax Morimens.",
@@ -119,6 +119,40 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/5NvkxJ8qPOo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Two hundred-thirty-ninth Stream: Morimens",
+      "summary": "Kick: https://kick.com/arkblight Twitch: https://www.twitch.tv/arkblight.",
+      "source": "youtube",
+      "time": "2026-09-09T08:00:02Z",
+      "url": "https://www.youtube.com/watch?v=E4xrrqoYaEs",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Arkblight",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/E4xrrqoYaEs/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】イベント「霧境の燔祭」失われた自我「真我の解放・超難度」",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-09-09T06:21:29Z",
+      "url": "https://www.youtube.com/watch?v=NDCBEfQF7_g",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/NDCBEfQF7_g/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

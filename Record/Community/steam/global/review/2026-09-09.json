@@ -1,9 +1,78 @@
 {
   "date": "2026-09-09",
-  "archived_at": "2026-09-09T03:01:01.581161+00:00",
+  "archived_at": "2026-09-09T08:04:52.655288+00:00",
   "source": "steam",
-  "item_count": 10,
+  "item_count": 14,
   "items": [
+    {
+      "title": "[负面] Do NOT spend on this game until the devs reverted...",
+      "summary": "Do NOT spend on this game until the devs reverted all their recent changes, if they don't it'll probably EoS anyway and that money is gone-gone.\n\nI used to recommend this game to everyone and got around 10 people to start playing it. Now I wouldn't recommend it to a single soul, the devs have outed themselves as typical gacha devs, you can't play units you want anymore and clear content, they will change/powercreep mechanics to force your spending, and worst of all - they will take in zero of the feedback and completely f over the players who kept them afloat when the game was about to EoS 2 years ago.",
+      "source": "steam_review",
+      "time": "2026-09-09T03:26:55+00:00",
+      "url": "https://steamcommunity.com/profiles/76561197964386553/recommended/3052450",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "76561197964386553",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 51877,
+        "votes_up": 3,
+        "timestamp_created": 1788924415
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] The game is great. I really love the diverse chara...",
+      "summary": "The game is great. I really love the diverse characters, their unique playstyles, the engaging story filled to the brim with references to lovecraft, beautiful art, and f2p friendly nature. Until the recent 2.6 changes to the endgame mode D-tide (making it so that certain characters that could do percent based damage and cheese or meta strats being manditory to clear the highest level and removing a lower difficulty level), how they would conveniently \"fix\" the corpo+horla WoD combo right after running their banners back to back effectively nerfing the character right after you got everyone to pull her, and nerfing affinity leveling to hell, effectively forcing people to buy the tokens to skip levels for an insane amount of rose script. In this state I cannot recommend you spend any money, or if this continues, time, on this game as they are actively adding more things to push the player base into whaling or being left behind.",
+      "source": "steam_review",
+      "time": "2026-09-09T03:12:15+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199090478755/recommended/3052450",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "76561199090478755",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 842,
+        "votes_up": 3,
+        "timestamp_created": 1788923535
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 2.6 killed the game",
+      "summary": "2.6 killed the game",
+      "source": "steam_review",
+      "time": "2026-09-09T05:18:10+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198137123469/recommended/3052450",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "76561198137123469",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 19443,
+        "votes_up": 2,
+        "timestamp_created": 1788931090
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[正面] 10 out of 10 would mori the men again",
       "summary": "10 out of 10 would mori the men again",
@@ -230,6 +299,29 @@
         "playtime_forever": 21885,
         "votes_up": 0,
         "timestamp_created": 1788912958
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Pretty good stories for a Gatcha Game!",
+      "summary": "Pretty good stories for a Gatcha Game!",
+      "source": "steam_review",
+      "time": "2026-09-09T02:53:36+00:00",
+      "url": "https://steamcommunity.com/profiles/76561197978181070/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561197978181070",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1620,
+        "votes_up": 0,
+        "timestamp_created": 1788922416
       },
       "region": "global",
       "archive_subtype": "review"

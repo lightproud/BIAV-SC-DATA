@@ -1,8 +1,8 @@
 {
   "date": "2026-09-08",
-  "archived_at": "2026-09-09T03:01:01.660153+00:00",
+  "archived_at": "2026-09-09T08:04:52.753038+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 5,
   "items": [
     {
       "title": "[Google Play 差评] ★1 اللعبه عنجد طلعت الlgbtq متوقعت منهم ذا",
@@ -41,6 +41,34 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Katherine Bergh",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 One of the best games of the card genre",
+      "summary": "One of the best games of the card genre - gacha is very generous, and gameplay can be of low or high complexity depending on one's play style. Different modes to choose from. The visual novel aspect is very well done, story is immersive!",
+      "source": "google_play",
+      "time": "2026-09-08T03:28:20",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-0768e2e4-75d1-43f6-8099-9e89be97d1fa",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ron",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 Started just before 2nd anni. Game used",
+      "summary": "Started just before 2nd anni. Game used to be astonishingly generous, F2P-friendly, and tough-but-fair in its balancing. That all started going out the window following 2.5 anni, though, and the recent blend of power creep, nerfs, and overtuning has rendered it just another P2W gacha for whales only. Light is the Aeon of Deceit, sure, but the publisher is also a lethal blend of greedy and incompetent. (Imagine advertising a gacha on Facebook in 2026!)",
+      "source": "google_play",
+      "time": "2026-09-08T03:12:21",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-68054588-69bf-457a-974a-2e272adba946",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Alice Quitter (A:\\Quitter)",
       "tags": [],
       "lang": "en",
       "platform_region": "",

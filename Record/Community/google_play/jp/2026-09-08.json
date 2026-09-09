@@ -1,8 +1,8 @@
 {
   "date": "2026-09-08",
-  "archived_at": "2026-09-09T03:01:01.673960+00:00",
+  "archived_at": "2026-09-09T08:04:52.769998+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 差评] ★1 ■■■4.94GB.■スマホではデータ量多過ぎ■残念",
@@ -13,6 +13,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "ハヤト",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "",
+      "region": "jp"
+    },
+    {
+      "title": "[Google Play 好评] ★4 雰囲気が大好きだわ。絵も綺麗。意外と難しいけどオートとか確率で生き残るとか回数制",
+      "summary": "雰囲気が大好きだわ。絵も綺麗。意外と難しいけどオートとか確率で生き残るとか回数制コンティニューとかあるし、詰まることは（今のところ）ない。",
+      "source": "google_play",
+      "time": "2026-09-08T05:37:31",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-044fb43d-79a9-492a-be9c-3fbfbcdd6bdf",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "みさ（みさ）",
       "tags": [],
       "lang": "ja",
       "platform_region": "",
