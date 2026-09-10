@@ -1,9 +1,26 @@
 {
   "date": "2026-09-10",
-  "archived_at": "2026-09-10T13:20:26.916679+00:00",
+  "archived_at": "2026-09-10T18:05:18.102917+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
+    {
+      "title": "[忘却前夜]9月最新兑换码，五百个银芯和五个五垢，截止到9月24号",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-10T15:07:21+00:00",
+      "url": "https://www.bilibili.com/video/av117247355983483",
+      "engagement": 862,
+      "is_hot": false,
+      "author": "渔歌伴晚舟",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/ae96e1da29adb628487411bb4c3f8e0f118a112f.jpg",
+      "content_type": "video"
+    },
     {
       "title": "第一次玩steam二游(忘却前夜)，挺优秀的",
       "summary": "",
@@ -19,6 +36,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/da1e7c7c14151cfe1a55739f2dd990e4e7e900ef.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "冷门克系佳作《忘却前夜》--开篇",
+      "summary": "一个卡牌肉鸽克系冷门二游，目前在steam上上线玩起来还是非常爽的，剧情也比较短小精炼",
+      "source": "bilibili",
+      "time": "2026-09-10T09:14:17+00:00",
+      "url": "https://www.bilibili.com/video/av117245963540687",
+      "engagement": 114,
+      "is_hot": false,
+      "author": "元寸月月鸟",
+      "tags": [
+        "单机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/e9ce5d57033ccf1b4fda405e54455b00642bd156.jpg",
       "content_type": "video"
     }
   ]

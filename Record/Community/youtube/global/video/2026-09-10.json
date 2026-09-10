@@ -1,8 +1,8 @@
 {
   "date": "2026-09-10",
-  "archived_at": "2026-09-10T13:20:26.913356+00:00",
+  "archived_at": "2026-09-10T18:05:18.102221+00:00",
   "source": "youtube",
-  "item_count": 17,
+  "item_count": 18,
   "items": [
     {
       "title": "[Morimens] 6 CHEAPEST Nightmare/Madness Teams players should build for (Unedited version for now)",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/J7wJ7G97Lq0/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Hopefully finishing GMurphy Story",
+      "summary": "The Ultimate Regressor Who Transmigrated From A Different Timeline Is Trying To Escape The Fish Cult (lowkey would read) ...",
+      "source": "youtube",
+      "time": "2026-09-10T14:00:02Z",
+      "url": "https://www.youtube.com/watch?v=y8Wvyz7RaFk",
+      "engagement": 210,
+      "is_hot": false,
+      "author": "Dumb Keeper",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/y8Wvyz7RaFk/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

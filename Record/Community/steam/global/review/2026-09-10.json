@@ -1,8 +1,8 @@
 {
   "date": "2026-09-10",
-  "archived_at": "2026-09-10T13:20:26.999580+00:00",
+  "archived_at": "2026-09-10T18:05:18.156598+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] I used to be a huge Yu-Gi-Oh! and Pokémon player,...",
@@ -23,6 +23,52 @@
         "playtime_forever": 1111,
         "votes_up": 0,
         "timestamp_created": 1789026554
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Rework 2.6\n\nGet it right on 2.7\n\nThe playerbase is...",
+      "summary": "Rework 2.6\n\nGet it right on 2.7\n\nThe playerbase is the greatest treasure a game can have\n\nGod Bless",
+      "source": "steam_review",
+      "time": "2026-09-10T13:28:13+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199168168794/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199168168794",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 3734,
+        "votes_up": 0,
+        "timestamp_created": 1789046893
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 抽卡歪的要死 推荐给谁啊？",
+      "summary": "抽卡歪的要死 推荐给谁啊？",
+      "source": "steam_review",
+      "time": "2026-09-10T13:00:53+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199367196654/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199367196654",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 4192,
+        "votes_up": 0,
+        "timestamp_created": 1789045253
       },
       "region": "global",
       "archive_subtype": "review"
