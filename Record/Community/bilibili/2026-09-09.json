@@ -1,8 +1,8 @@
 {
   "date": "2026-09-09",
-  "archived_at": "2026-09-09T22:56:13.511830+00:00",
+  "archived_at": "2026-09-10T03:01:34.530727+00:00",
   "source": "bilibili",
-  "item_count": 25,
+  "item_count": 26,
   "items": [
     {
       "title": "【忘却前夜】新版本密契攻略",
@@ -87,6 +87,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/4bb4333cb42e36250808902548d0fb9b915df81f.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】哈姆林主c 融灾4-4深海淑女",
+      "summary": "从来没有觉得打融灾开心过...\n灵魂序曲神秘3费预备1预备到0费额外段数，长线环境下需要靠回环超越0费回手避免伤害断掉。至于为什么有3负熵不去回环环娜狂气爆发复制的命定打双倍伤害，而要去抓这张8段的灵魂序曲，我也不知道（\n更新前一期融灾5图道中已经算是打得比较吃力了，现在癫狂道中根本没办法不吃凝视过，而且会吃不少，我是没办法接受牌库里一堆垃圾症状卡",
+      "source": "bilibili",
+      "time": "2026-09-09T12:45:17+00:00",
+      "url": "https://www.bilibili.com/video/av117241131569352",
+      "engagement": 139,
+      "is_hot": false,
+      "author": "-阿临-",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/edbfd1f083dc7119f0f1ef11e75b06e0602569cf.jpg",
       "content_type": "video"
     },
     {
