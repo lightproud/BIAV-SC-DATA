@@ -1,42 +1,51 @@
 {
   "date": "2026-09-10",
-  "messages": 10150,
+  "messages": 13093,
   "unique_authors": 279,
-  "reactions_total": 1541,
-  "attachments": 468,
+  "reactions_total": 2014,
+  "attachments": 623,
   "channel_activity": {
-    "🔸綜合討論": 693,
-    "🔸阵容构建": 23,
-    "🔸morimens-game-chat": 5981,
+    "🔸綜合討論": 787,
+    "🔸阵容构建": 33,
+    "🔸morimens-game-chat": 8229,
+    "🔸课间休息闲聊": 68,
+    "🔸русский-канал": 460,
+    "🔸phòng-chat-tiếng-việt": 125,
+    "🔸canal-español": 220,
+    "🔸canal-português": 170,
+    "🔸ruang-obrolan-indonesia": 413,
+    "🔸ห้องสนทนาภาษาไทย": 93,
+    "🔸traphase": 138,
+    "🔸lore-chat": 190,
+    "🔸team-building": 486,
+    "🔸general-chat": 189,
+    "🔸邀请码互助┊swap-invitation-codes": 7,
+    "🔸game-question": 1124,
+    "🔸机器人命令┊bot-commands": 40,
+    "My protest against the death of normal realms": 29,
+    "Suggesting to create a testing team": 29,
+    "Caraboo E3 is kind of lying?": 5,
+    "D-tide Discussion": 44,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
+    "Quadra / 4-Realm Rerun Banners": 9,
+    "能不能把自動戰鬥的按鈕隱藏起來": 2,
+    "V2.5.1.0 停服维护公告": 12,
+    "Somehow I share birthday with my fav character": 1,
+    "【English Translation】Opinions Collection": 1,
+    "🔥10000银芯奖励！V2.6 UGC创作征集开启！": 3,
+    "🔥10000银芯奖励！V2.5 UGC创作征集开启！": 11,
+    "现在越来越难打了,我有这些,请帮我组一些好用的配队,在融灾方面": 8,
     "🔸剧情交流": 5,
     "🔸欢乐梗图": 2,
-    "🔸课间休息闲聊": 67,
     "🔸日本語チャンネル": 1,
     "🔸한국어-채팅방": 11,
     "🔸chaîne-française": 15,
-    "🔸русский-канал": 407,
-    "🔸phòng-chat-tiếng-việt": 124,
-    "🔸canal-español": 64,
-    "🔸canal-português": 110,
-    "🔸ruang-obrolan-indonesia": 392,
-    "🔸ห้องสนทนาภาษาไทย": 66,
-    "🔸traphase": 121,
-    "🔸lore-chat": 168,
-    "🔸team-building": 459,
-    "🔸general-chat": 134,
-    "🔸game-question": 1033,
     "🔸游戏问题": 4,
-    "🔸机器人命令┊bot-commands": 32,
     "Morimens社群事件編年史": 3,
     "淵海回聲影響老頭X費卡獲得狂氣問題": 15,
     "Please clean up the home screen UI": 3,
-    "Suggesting to create a testing team": 28,
-    "Quadra / 4-Realm Rerun Banners": 7,
-    "V2.5.1.0 停服维护公告": 10,
     "忘却前夜OST：雪域千峰之巅┊Morimens OST: Crown of the Snowbound Peaks": 1,
     "Sticklet's doodle/art dump": 1,
-    "🔥10000银芯奖励！V2.6 UGC创作征集开启！": 2,
-    "🔥10000银芯奖励！V2.5 UGC创作征集开启！": 8,
     "求助沙耶密契": 5,
     "Team Building Guide": 10,
     "Where can I find guides for current events?": 6,
@@ -47,7 +56,6 @@
     "🔸礼包码┊gift-codes": 1,
     "🔸lets-count": 1,
     "🔸频道建议┊server-suggestions": 4,
-    "🔸邀请码互助┊swap-invitation-codes": 6,
     "日服的新角色竟然是莉莉妈？": 2,
     "计数型命轮等添加局内实时数据": 1,
     "Balance problem in arc2": 3,
@@ -57,15 +65,12 @@
     "25 turns replay": 2,
     "Can we purchase affinity gift with reality verges please?": 2,
     "卡拉布命輪盾%異常生效bug": 4,
-    "My protest against the death of normal realms": 28,
     "Pls give out origin of time for limited awakener & wheels": 6,
     "回溯功能完善": 1,
-    "D-tide Discussion": 16,
     "Caraboo Blessing \"Missed Chance\" should be reworked": 3,
     "On the D-Effect Zone Adjustments": 5,
     "Silly Winkle edit": 10,
     "Daughters": 1,
-    "现在越来越难打了,我有这些,请帮我组一些好用的配队,在融灾方面": 5,
     "need help in team building & priorities!!": 1,
     "Pull priority for Chaos and Aequor teams": 1,
     "Team building!": 1,
@@ -74,13 +79,17 @@
     "morimens team generator!!": 3
   },
   "hourly_activity": {
+    "16": 589,
+    "17": 458,
+    "18": 770,
+    "19": 750,
+    "20": 399,
     "10": 771,
     "11": 601,
     "12": 587,
     "13": 528,
     "14": 1076,
     "15": 880,
-    "16": 23,
     "3": 427,
     "4": 565,
     "5": 542,
@@ -93,9 +102,10 @@
     "0": 398
   },
   "message_types": {
-    "0": 6609,
-    "19": 3505,
-    "20": 35,
+    "0": 8252,
+    "23": 1,
+    "19": 4800,
+    "20": 39,
     "6": 1
   },
   "top_reacted_messages": [
@@ -113,6 +123,22 @@
       "content": "WHO is this",
       "author": "thereaperinthedresss",
       "reactions": 14,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547693021104054293",
+      "channel_id": "1170692781216378960",
+      "content": "when light takes a while to respond to the community feedback and criticism",
+      "author": "dyssayah",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547684571649417346",
+      "channel_id": "1170692781216378960",
+      "content": "Dont listen this chat.They just poor f2p and hate all ppls who can whale by defa",
+      "author": "lelouch045",
+      "reactions": 9,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -140,6 +166,14 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1547639131402805299",
+      "channel_id": "1170692781216378960",
+      "content": "I think that's pollux holding the knife",
+      "author": "aurora3981",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1547516155093327915",
       "channel_id": "1131839817982947429",
       "content": "",
@@ -162,6 +196,30 @@
       "author": "mrnobody7032",
       "reactions": 7,
       "channel": "Balance problem in arc2"
+    },
+    {
+      "id": "1547639949765906434",
+      "channel_id": "1170692781216378960",
+      "content": "I'm a Juice | Herald of GODRITA",
+      "author": "sparkling_moose_59074",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547681907125256344",
+      "channel_id": "1170692781216378960",
+      "content": "It's funny watching dyss tell ppl not to beat their wife and how it's not the wa",
+      "author": "aurora3981",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547679954567962754",
+      "channel_id": "1300659802455674972",
+      "content": "",
+      "author": "wineb17",
+      "reactions": 6,
+      "channel": "🔸ห้องสนทนาภาษาไทย"
     },
     {
       "id": "1547573640936034304",
@@ -204,60 +262,12 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1547610468590297129",
-      "channel_id": "1131839817982947429",
-      "content": "3秒一隻帳號 怎麼清",
-      "author": "nemu_s_t_a_r",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1547459990921416794",
-      "channel_id": "1181152750319456266",
-      "content": "",
-      "author": "encyoverride",
-      "reactions": 5,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1547429234354425906",
-      "channel_id": "1131839817982947429",
-      "content": "（bug",
-      "author": "foxcatfurry",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1547412118431727626",
+      "id": "1547642178346557540",
       "channel_id": "1170692781216378960",
-      "content": "you are so chinese and so successful",
-      "author": "princess.goth",
+      "content": "*happy duck noises",
+      "author": "calcduc",
       "reactions": 5,
       "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1547414794099892314",
-      "channel_id": "1170692781216378960",
-      "content": "if they didnt do you, it doesnt count",
-      "author": "princess.goth",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1547423354573557871",
-      "channel_id": "1170692781216378960",
-      "content": "caecus would be lactose intolerant and eating cheese every day convinced it will",
-      "author": "violettaautumn",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1547585321107984454",
-      "channel_id": "1131839817982947429",
-      "content": "改名叫調查員好了..",
-      "author": "heikwok",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
     }
   ]
 }
