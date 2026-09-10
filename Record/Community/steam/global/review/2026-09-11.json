@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
-  "archived_at": "2026-09-10T18:05:18.156346+00:00",
+  "archived_at": "2026-09-10T22:56:48.572313+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[负面] This game is ♥♥♥♥♥♥♥ awesome, the gameplay is real...",
@@ -23,6 +23,29 @@
         "playtime_forever": 10554,
         "votes_up": 0,
         "timestamp_created": 1789058923
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] so far it seems pretty f2p friendly, loved it till...",
+      "summary": "so far it seems pretty f2p friendly, loved it till now. We'll see along the journey.",
+      "source": "steam_review",
+      "time": "2026-09-10T18:40:07+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198992404229/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198992404229",
+      "tags": [
+        "german"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 470,
+        "votes_up": 0,
+        "timestamp_created": 1789065607
       },
       "region": "global",
       "archive_subtype": "review"
