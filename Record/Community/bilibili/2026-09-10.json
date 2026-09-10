@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-10",
+  "archived_at": "2026-09-10T08:03:59.920547+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "第一次玩steam二游(忘却前夜)，挺优秀的",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-09T18:57:05+00:00",
+      "url": "https://www.bilibili.com/video/av117242591184329",
+      "engagement": 172,
+      "is_hot": false,
+      "author": "往生堂-胡桃HuTao",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/da1e7c7c14151cfe1a55739f2dd990e4e7e900ef.jpg",
+      "content_type": "video"
+    }
+  ]
+}
