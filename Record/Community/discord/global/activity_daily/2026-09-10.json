@@ -1,0 +1,208 @@
+{
+  "date": "2026-09-10",
+  "messages": 1417,
+  "unique_authors": 151,
+  "reactions_total": 203,
+  "attachments": 54,
+  "channel_activity": {
+    "🔸綜合討論": 71,
+    "🔸morimens-game-chat": 871,
+    "🔸交友频道": 3,
+    "🔸chaîne-française": 2,
+    "🔸русский-канал": 5,
+    "🔸phòng-chat-tiếng-việt": 18,
+    "🔸canal-español": 7,
+    "🔸canal-português": 56,
+    "🔸ruang-obrolan-indonesia": 96,
+    "🔸team-building": 89,
+    "🔸general-chat": 27,
+    "🔸邀请码互助┊swap-invitation-codes": 1,
+    "🔸game-question": 149,
+    "🔸机器人命令┊bot-commands": 6,
+    "Morimens社群事件編年史": 1,
+    "星辰篇第6章關底王很難觸發創痕": 1,
+    "卡拉布命輪盾%異常生效bug": 1,
+    "My protest against the death of normal realms": 1,
+    "Pls give out origin of time for limited awakener & wheels": 1,
+    "D-tide Discussion": 2,
+    "Quadra / 4-Realm Rerun Banners": 1,
+    "V2.5.1.0 停服维护公告": 1,
+    "pollux": 1,
+    "Mira (Keeper OC) art thread": 2,
+    "morimens team generator!!": 3,
+    "Where can I find guides for current events?": 1
+  },
+  "hourly_activity": {
+    "1": 556,
+    "2": 240,
+    "3": 223,
+    "0": 398
+  },
+  "message_types": {
+    "0": 879,
+    "19": 535,
+    "20": 3
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1547423460278403092",
+      "channel_id": "1131839817982947429",
+      "content": "太美麗了",
+      "author": "ahuahuahua",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547410062954209280",
+      "channel_id": "1170692781216378960",
+      "content": "maybe id care for her more if i read the story",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547429234354425906",
+      "channel_id": "1131839817982947429",
+      "content": "（bug",
+      "author": "foxcatfurry",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547412118431727626",
+      "channel_id": "1170692781216378960",
+      "content": "you are so chinese and so successful",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547414794099892314",
+      "channel_id": "1170692781216378960",
+      "content": "if they didnt do you, it doesnt count",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547423354573557871",
+      "channel_id": "1170692781216378960",
+      "content": "caecus would be lactose intolerant and eating cheese every day convinced it will",
+      "author": "violettaautumn",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547426866233741363",
+      "channel_id": "1131839817982947429",
+      "content": "~~我帶了子宮可是系統不給我帶隱沒，是不是出big了~~",
+      "author": "fon_tain",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547428146863800413",
+      "channel_id": "1131839817982947429",
+      "content": "我真的哭了b站有人說pv版誕墨是青光眼",
+      "author": "ahong0727",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547409994301968476",
+      "channel_id": "1170692781216378960",
+      "content": "She’s like adorable but not hot",
+      "author": "serahh__",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547410552815362118",
+      "channel_id": "1170692781216378960",
+      "content": "bro they be hearing none of the shit we say",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547413368825061417",
+      "channel_id": "1170692781216378960",
+      "content": "looks yum, ngl, but also i could get like 40 donuts with that much money 😭",
+      "author": "direhands",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547414550909812737",
+      "channel_id": "1170692781216378960",
+      "content": "youre not gay enough for that job",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547418627639345215",
+      "channel_id": "1170692781216378960",
+      "content": "nahh, the coin analogy totally means that im the most likely to fork up in the s",
+      "author": "direhands",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547419056293019769",
+      "channel_id": "1170692781216378960",
+      "content": "im still mad at you hmph",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547420440035721236",
+      "channel_id": "1547420440035721236",
+      "content": "> 本編年史旨在客觀記錄《Morimens (忘卻前夜)》遊戲內發展歷程，以及主要社群（以 Discord 伺服器為主）之重大討論與爭議事件，期能為玩家保留清晰",
+      "author": "nemu_s_t_a_r",
+      "reactions": 4,
+      "channel": "Morimens社群事件編年史"
+    },
+    {
+      "id": "1547430841058332753",
+      "channel_id": "1131839817982947429",
+      "content": "||Cn都是強度檔沒人玩克珀沒發現||",
+      "author": "arr5721",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547438225851945012",
+      "channel_id": "1131839817982947429",
+      "content": "好像有這回事，但我不知道船長還是龐托斯給敵人加的\n前兩天打主線的簡單樂園帷幕，一進二階對面觸腕傷害2000+\n我人都傻了",
+      "author": "xiaosama666",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547401624895357049",
+      "channel_id": "1170692781216378960",
+      "content": "saya is cheating",
+      "author": "2ndselna",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547410343276453959",
+      "channel_id": "1170692781216378960",
+      "content": "please devs if you can hear me nerf corposant",
+      "author": "asterion0.0",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547413985765359736",
+      "channel_id": "1170692781216378960",
+      "content": "Proof👀",
+      "author": "serahh__",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
