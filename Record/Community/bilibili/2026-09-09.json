@@ -1,8 +1,8 @@
 {
   "date": "2026-09-09",
-  "archived_at": "2026-09-10T08:03:59.916689+00:00",
+  "archived_at": "2026-09-10T13:20:26.914342+00:00",
   "source": "bilibili",
-  "item_count": 26,
+  "item_count": 27,
   "items": [
     {
       "title": "【忘却前夜】新版本密契攻略",
@@ -70,6 +70,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/8b09afb8762177efbcb1a63882d04a74b2a101b3.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "525记录",
+      "summary": "我终于可以安息辣\n第一次也是最后一次，下次无逃课将会原形毕露\n猫畜的烂游戏越做越垃圾了",
+      "source": "bilibili",
+      "time": "2026-09-09T15:34:02+00:00",
+      "url": "https://www.bilibili.com/video/av117241802720857",
+      "engagement": 148,
+      "is_hot": false,
+      "author": "璃っ亓",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/fde664fbae40c5ce298352d37b92b5c52b814e24.jpg",
       "content_type": "video"
     },
     {

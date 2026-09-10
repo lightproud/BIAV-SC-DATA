@@ -1,9 +1,23 @@
 {
   "date": "2026-09-09",
-  "archived_at": "2026-09-10T08:03:59.959304+00:00",
+  "archived_at": "2026-09-10T13:20:26.967265+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 5,
   "items": [
+    {
+      "title": "[Google Play 差评] ★2 love this game so much the story is good",
+      "summary": "love this game so much the story is good but the game is too much lag it almost destroy my phone",
+      "source": "google_play",
+      "time": "2026-09-09T11:59:40",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-197fb751-3534-4eb5-b93c-88a4b96c736c",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Lyndis von Einzbern",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
     {
       "title": "[Google Play 差评] ★1 horrible balancing. dev basically gaslig",
       "summary": "horrible balancing. dev basically gaslighting community on patches. story is meh. gameplay is good(the challenging kind of good) but apart from the story chapters, the horrible balancing for engame mode and hasty nerfs to sell new characters is absolutely horrible. play but don't pay situation.",
@@ -43,6 +57,20 @@
       "author": "Shira Hashimoto",
       "tags": [],
       "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 👍",
+      "summary": "👍",
+      "source": "google_play",
+      "time": "2026-09-09T12:38:10",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=vi#gp-6d1b012c-ac73-4c2a-9d99-a6dea117fef0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "1985 Dkayz",
+      "tags": [],
+      "lang": "vi",
       "platform_region": "",
       "region": "global"
     }

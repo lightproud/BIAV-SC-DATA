@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-10",
+  "archived_at": "2026-09-10T13:20:26.999580+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] I used to be a huge Yu-Gi-Oh! and Pokémon player,...",
+      "summary": "I used to be a huge Yu-Gi-Oh! and Pokémon player, totally addicted to strategy and the meta, it was driving me crazy, but this game has become my go-to for relaxation, chilling out, no pressure. The Awakener designs are simply sublime, the game's atmosphere is a unique experience, you really have to follow the lore to fully appreciate the game's potential.\r\n\r\nFor those who haven't figured it out, this game is a gacha, deckbuilding, PvE game (PvP too, but I've never tried it). It's quite generous with summons, I rarely run out of resources, but you have to be willing to play a bit.\r\n\r\nThe only flaw I find is the translation; a proper French translation would be perfect for me, as I struggle with English.\r\n\r\nIf you're looking for a niche game to pass the time, and don't want to feel like you're being ripped off by a pay-to-win system, then this game is for you.\r\n\r\n(Translation with Google Translate, sorry if the english is weird)",
+      "source": "steam_review",
+      "time": "2026-09-10T07:49:14+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198435384761/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198435384761",
+      "tags": [
+        "french"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1111,
+        "votes_up": 0,
+        "timestamp_created": 1789026554
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
