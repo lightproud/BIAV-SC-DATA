@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-11",
+  "messages": 141,
+  "unique_authors": 9,
+  "reactions_total": 19,
+  "attachments": 3,
+  "channel_activity": {
+    "💬なんでも雑談（ネタバレあり）": 133,
+    "誰でもOKグロ版野次馬スレ　2世": 7,
+    "忘却前夜妄想、二次創作部屋": 1
+  },
+  "hourly_activity": {
+    "0": 3,
+    "1": 7,
+    "2": 12,
+    "3": 90,
+    "4": 29
+  },
+  "message_types": {
+    "0": 134,
+    "19": 7
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1547779084891983905",
+      "channel_id": "1377478664609857647",
+      "content": "ある程度回数やると、幻夢はくじ引きにしか思えなくなってきて気持ちが冷めてしまった",
+      "author": "megane0965_78083",
+      "reactions": 3,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1547801151309611150",
+      "channel_id": "1377478664609857647",
+      "content": "||あれ来たの5章追加辺り||",
+      "author": "ktoku743",
+      "reactions": 3,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1547769862716129332",
+      "channel_id": "1377478664609857647",
+      "content": "対人は対人で無法キャラいるけど",
+      "author": "yasaizujusu",
+      "reactions": 2,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1547781736015077416",
+      "channel_id": "1377478664609857647",
+      "content": "昔は良かったんだけどなぁ(後方腕組み懐古厨)",
+      "author": "yasaizujusu",
+      "reactions": 2,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1547807280181944353",
+      "channel_id": "1377478664609857647",
+      "content": "言うてダイス7でもバフ量イカれてるからだめ",
+      "author": "yasaizujusu",
+      "reactions": 2,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1547777546592981044",
+      "channel_id": "1377478664609857647",
+      "content": "60遺物買えるのガチデカい、上振れたらパイプとかお手々取れるし",
+      "author": "yasaizujusu",
+      "reactions": 1,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1547804393468993607",
+      "channel_id": "1377478664609857647",
+      "content": "だっけか",
+      "author": "ktoku743",
+      "reactions": 1,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1547807586735104102",
+      "channel_id": "1377478664609857647",
+      "content": "歩く高級パイプって呼んでます",
+      "author": "yasaizujusu",
+      "reactions": 1,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1547807862334693528",
+      "channel_id": "1377478664609857647",
+      "content": "# Nはケモナー",
+      "author": "foxcatfurry",
+      "reactions": 1,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1547808853377290252",
+      "channel_id": "1377478664609857647",
+      "content": "昨日寝る前に回した深海ラモ\n扱いやすくて良き♪",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 1,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1547810274231197768",
+      "channel_id": "1377478664609857647",
+      "content": "全部の要素がめちゃくちゃ強い謎の獣",
+      "author": "yasaizujusu",
+      "reactions": 1,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1547807770106003528",
+      "channel_id": "1545007866060996629",
+      "content": "どんでもいいの情報\n\nカラブの見た目(身体)の歳\n\n少なくとも23歳",
+      "author": "foxcatfurry",
+      "reactions": 1,
+      "channel": "誰でもOKグロ版野次馬スレ　2世"
+    }
+  ]
+}
