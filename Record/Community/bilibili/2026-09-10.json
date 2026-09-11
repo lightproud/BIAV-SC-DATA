@@ -1,8 +1,8 @@
 {
   "date": "2026-09-10",
-  "archived_at": "2026-09-10T22:56:48.504872+00:00",
+  "archived_at": "2026-09-11T02:57:26.496754+00:00",
   "source": "bilibili",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[忘却前夜]9月最新兑换码，五百个银芯和五个五垢，截止到9月24号",
@@ -36,6 +36,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/da1e7c7c14151cfe1a55739f2dd990e4e7e900ef.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "茉夏6T无灵芝H6-10",
+      "summary": "叠甲！爆了6次死扛，只剩4%，也是狗运才过，否则要吃灵芝了。",
+      "source": "bilibili",
+      "time": "2026-09-10T12:09:03+00:00",
+      "url": "https://www.bilibili.com/video/av117246651336039",
+      "engagement": 123,
+      "is_hot": false,
+      "author": "流紗丶",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/213ec0d65ca1fa8d2c4b0aa99ff4f72aa587ddf8.jpg",
       "content_type": "video"
     },
     {

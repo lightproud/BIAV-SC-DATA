@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
-  "archived_at": "2026-09-10T22:56:48.593155+00:00",
+  "archived_at": "2026-09-11T02:57:26.554771+00:00",
   "source": "reddit",
-  "item_count": 8,
+  "item_count": 10,
   "items": [
     {
       "title": "Hot take: Pollux doesn't deserve the hate he gets for being weak. Y'all js can't play him🙄 /hj",
@@ -104,6 +104,32 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/CrystalChrissy",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "How am I doing so far?",
+      "summary": "&#32; submitted by &#32;  /u/Desperate_Tip_2824   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-10T23:06:04+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wcyvko/how_am_i_doing_so_far/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Desperate_Tip_2824",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "team feels smacky but im not sure",
+      "summary": "ive been playing for like six months i think and this is what im actively working with. am i doing this wrong? and if so what can i do better?  &#32; submitted by &#32;  /u/kofffing   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-11T02:54:41+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wd421p/team_feels_smacky_but_im_not_sure/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/kofffing",
       "tags": [],
       "lang": "en",
       "platform_region": ""

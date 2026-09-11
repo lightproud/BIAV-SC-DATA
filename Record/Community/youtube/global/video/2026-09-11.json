@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
-  "archived_at": "2026-09-10T22:56:48.505354+00:00",
+  "archived_at": "2026-09-11T02:57:26.497220+00:00",
   "source": "youtube",
-  "item_count": 2,
+  "item_count": 5,
   "items": [
     {
       "title": "Attack the cat? #morimens",
@@ -22,6 +22,40 @@
       "archive_subtype": "video"
     },
     {
+      "title": "忘れてた幻夢の深奥やっていきます！【#忘却前夜】",
+      "summary": "steamURL https://store.steampowered.com/app/4226130/_/",
+      "source": "youtube",
+      "time": "2026-09-10T23:28:16Z",
+      "url": "https://www.youtube.com/watch?v=_6a3B49ccAU",
+      "engagement": 27,
+      "is_hot": false,
+      "author": "バグッチャーYT",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/_6a3B49ccAU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "3, 2, 1, Action",
+      "summary": "Provided to YouTube by DistroKid 3, 2, 1, Action · B.I.A.V. Studio Morimens OST┊Lily EP: Unfinished Fable ℗ B.I.A.V. Studio ...",
+      "source": "youtube",
+      "time": "2026-09-10T23:54:00Z",
+      "url": "https://www.youtube.com/watch?v=UpGUHxUMGhI",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "B.I.A.V. Studio - Topic",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/UpGUHxUMGhI/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "my shaylaaa #morimens",
       "summary": "",
       "source": "youtube",
@@ -34,6 +68,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/JIJU69XgOCQ/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Mukulin &quot;Devine Fetus&quot; let&#39;s go [ Morimens ]",
+      "summary": "Kekuatan Mouchette Sepuh Whaler XD #morimens.",
+      "source": "youtube",
+      "time": "2026-09-11T02:16:37Z",
+      "url": "https://www.youtube.com/watch?v=0BB5U2K6qqQ",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Sir Dexeroya",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/0BB5U2K6qqQ/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
