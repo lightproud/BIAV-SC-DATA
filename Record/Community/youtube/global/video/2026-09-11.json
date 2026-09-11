@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
-  "archived_at": "2026-09-11T07:50:48.925976+00:00",
+  "archived_at": "2026-09-11T13:14:18.779970+00:00",
   "source": "youtube",
-  "item_count": 8,
+  "item_count": 10,
   "items": [
     {
       "title": "Hopefully finishing GMurphy Story",
@@ -51,6 +51,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/lP4ZytG6YhQ/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】ラジオドラマ「ムシェットの異世界調査記録」",
+      "summary": "ラジオドラマ「ムシェットの異世界調査記録」 さぁて、どうやってか弱い少女を演じようかな 「助けて」？……ううん、恐怖が ...",
+      "source": "youtube",
+      "time": "2026-09-11T10:00:17Z",
+      "url": "https://www.youtube.com/watch?v=PHgZJfsmN8A",
+      "engagement": 68,
+      "is_hot": false,
+      "author": "忘却前夜【日本版公式】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/PHgZJfsmN8A/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -136,6 +153,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/0BB5U2K6qqQ/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "#忘卻前夜 #morimens Regional D-Effect Zone update! 410 points achieved! 融災410分達成.",
+      "summary": "忘卻前夜#morimens 融災更新,8月31日~9月14日. Regional D-Effect Zone Update ( Aug 31–Sep 14). 1.開始~02:23~都在打5-2 boss ...",
+      "source": "youtube",
+      "time": "2026-09-11T10:00:23Z",
+      "url": "https://www.youtube.com/watch?v=blkX2QYAZzI",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Noir",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/blkX2QYAZzI/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

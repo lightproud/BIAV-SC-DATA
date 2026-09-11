@@ -1,8 +1,8 @@
 {
   "date": "2026-09-10",
-  "archived_at": "2026-09-11T07:50:49.009411+00:00",
+  "archived_at": "2026-09-11T13:14:18.871313+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 差评] ★1 Una pena que el juego sea cada vez menos",
@@ -15,6 +15,20 @@
       "author": "Gabriel Alejandro Villegas González",
       "tags": [],
       "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 One of the best stories and art styles i",
+      "summary": "One of the best stories and art styles in the world of gacha games. Everyone should try this game at least once.",
+      "source": "google_play",
+      "time": "2026-09-10T09:00:40",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-a016805a-8be6-4108-9e12-b1623c169336",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Juicy",
+      "tags": [],
+      "lang": "en",
       "platform_region": "",
       "region": "global"
     }
