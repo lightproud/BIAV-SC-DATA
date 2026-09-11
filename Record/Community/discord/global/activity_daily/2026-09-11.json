@@ -1,47 +1,145 @@
 {
   "date": "2026-09-11",
-  "messages": 1712,
-  "unique_authors": 135,
-  "reactions_total": 149,
-  "attachments": 92,
+  "messages": 10206,
+  "unique_authors": 331,
+  "reactions_total": 1225,
+  "attachments": 397,
   "channel_activity": {
-    "🔸綜合討論": 14,
-    "🔸阵容构建": 3,
-    "🔸morimens-game-chat": 1037,
-    "🔸课间休息闲聊": 19,
-    "🔸русский-канал": 42,
-    "🔸phòng-chat-tiếng-việt": 15,
-    "🔸canal-español": 158,
-    "🔸canal-português": 13,
-    "🔸ruang-obrolan-indonesia": 97,
-    "🔸ห้องสนทนาภาษาไทย": 8,
-    "🔸lore-chat": 1,
-    "🔸team-building": 58,
-    "🔸general-chat": 19,
-    "🔸邀请码互助┊swap-invitation-codes": 1,
-    "🔸game-question": 206,
-    "🔸机器人命令┊bot-commands": 7,
+    "🔸綜合討論": 519,
+    "🔸阵容构建": 64,
+    "🔸morimens-game-chat": 4942,
+    "🔸剧情交流": 6,
+    "🔸晒卡分享": 5,
+    "🔸欢乐梗图": 2,
+    "🔸相位对弈": 14,
+    "🔸课间休息闲聊": 129,
+    "🔸한국어-채팅방": 10,
+    "🔸chaîne-française": 10,
+    "🔸русский-канал": 951,
+    "🔸phòng-chat-tiếng-việt": 171,
+    "🔸canal-español": 328,
+    "🔸canal-português": 36,
+    "🔸ruang-obrolan-indonesia": 522,
+    "🔸ห้องสนทนาภาษาไทย": 237,
+    "🔸traphase": 71,
+    "🔸lore-chat": 75,
+    "🔸lets-count": 1,
+    "🔸team-building": 562,
+    "🔸general-chat": 175,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "🔸game-question": 947,
+    "🔸游戏问题": 27,
+    "🔸机器人命令┊bot-commands": 24,
+    "啊 尽力了": 1,
+    "这个那个": 2,
+    "我重生了，重生到忘卻前夜宣布關服的那天【多人接力抽象文】": 8,
+    "请在意一下正常玩相位对弈的玩家": 3,
+    "计数型命轮等添加局内实时数据": 1,
+    "Balance problem in arc2": 1,
+    "Can we purchase affinity gift with reality verges please?": 1,
+    "My protest against the death of normal realms": 1,
+    "Alternate realms Enhancement": 1,
+    "可以公告一份「已知bug清單」嗎 Can we get a “known issues” list?": 5,
+    "提高戰鬥回放上限": 1,
+    "回溯功能完善": 1,
+    "Caraboo E3 is kind of lying?": 10,
+    "Turn Rewind Feature from Premium BP and Replay of finished Battle do not exceed turn 25.": 1,
+    "Reproduction Frenzy(Please extend story scenes)": 1,
+    "Primordia Chaos + Ryker's Keyflare Rouse Posse Soft-locks the Battle sometimes": 1,
+    "Please think about Jenkins": 3,
+    "D-tide Discussion": 137,
+    "Better handling of nerfs through bug fixes": 2,
+    "Caraboo Blessing \"Missed Chance\" should be reworked": 3,
+    "Caraboo's Blessing fetching. 卡拉布赐福抽取": 1,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 3,
+    "加强狂气回充": 2,
+    "繁育沒有提高卡茜亞的超限爆發的固定力量": 2,
+    "阿格里帕最終法則相關": 3,
+    "【6/10】脚本/外挂账号的处理说明": 1,
+    "V2.5.1.0 停服维护公告": 8,
+    "On the D-Effect Zone Adjustments": 14,
+    "Sticklet's doodle/art dump": 1,
+    "Morimens New Player Handbook by Cheri [V2.5 UGC Contest]": 1,
+    "V2.6.1 生人勿近┊You've Been Warned...┊외부인 접근 금지": 92,
+    "🔥10000银芯奖励！V2.6 UGC创作征集开启！": 6,
+    "🔥10000银芯奖励！V2.5 UGC创作征集开启！": 7,
+    "入坑一週": 13,
+    "融災組隊": 29,
+    "caraboo is honestly quite incredible": 1,
+    "【Newcomer Help】Forum Introduction": 1,
     "Pls give out origin of time for limited awakener & wheels": 2,
-    "Better handling of nerfs through bug fixes": 1,
-    "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
     "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 1,
-    "能不能把自動戰鬥的按鈕隱藏起來": 1,
-    "V2.5.1.0 停服维护公告": 2,
-    "🔥10000银芯奖励！V2.6 UGC创作征集开启！": 3,
-    "🔥10000银芯奖励！V2.5 UGC创作征集开启！": 3
+    "能不能把自動戰鬥的按鈕隱藏起來": 1
   },
   "hourly_activity": {
+    "3": 700,
+    "4": 914,
+    "5": 884,
+    "6": 933,
+    "7": 1853,
+    "8": 1143,
+    "9": 1112,
+    "10": 1437,
     "0": 222,
     "1": 587,
-    "2": 421,
-    "3": 482
+    "2": 421
   },
   "message_types": {
-    "0": 1270,
-    "19": 438,
-    "20": 4
+    "19": 3069,
+    "0": 7119,
+    "20": 16,
+    "4": 1,
+    "6": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1547864278999109672",
+      "channel_id": "1547864278999109672",
+      "content": "**V2.6.1 生人勿近**\n\n⚠️ 守密人请注意 ⚠️\n如您在校园内遭遇黑色幽灵👻\n不要恐慌😨 不要靠近🚫 不要追问🤫\n\n——✦——✦—— ✦✦✦ ——✦—",
+      "author": "morimensstaff06",
+      "reactions": 55,
+      "channel": "V2.6.1 生人勿近┊You've Been Warned...┊외부인 접근 금지"
+    },
+    {
+      "id": "1547826527545200751",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "emperor7105",
+      "reactions": 18,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547900868937130054",
+      "channel_id": "1180437373012672522",
+      "content": "覺得很適合就畫了\np2原圖",
+      "author": "hakurou729",
+      "reactions": 13,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1547850407517356093",
+      "channel_id": "1170692781216378960",
+      "content": "<@1487626955791663208> make it happen",
+      "author": "alistiel",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547880025825615944",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "akalanden",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547865741192208456",
+      "channel_id": "1547864278999109672",
+      "content": "my husbando btw",
+      "author": "anicillia",
+      "reactions": 10,
+      "channel": "V2.6.1 生人勿近┊You've Been Warned...┊외부인 접근 금지"
+    },
     {
       "id": "1547758872280825927",
       "channel_id": "1170692781216378960",
@@ -49,6 +147,38 @@
       "author": "noreadjustwhale",
       "reactions": 10,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547877287137906709",
+      "channel_id": "1170692781216378960",
+      "content": "<:Horla_shy:1468259514091573350> arachne is v pretty and deserves good things fr",
+      "author": "fishhazardthewizard",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547880533370085398",
+      "channel_id": "1547864278999109672",
+      "content": "",
+      "author": "akalanden",
+      "reactions": 9,
+      "channel": "V2.6.1 生人勿近┊You've Been Warned...┊외부인 접근 금지"
+    },
+    {
+      "id": "1547831705669210113",
+      "channel_id": "1300659603993923644",
+      "content": "",
+      "author": "anicillia",
+      "reactions": 8,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1547865187929821246",
+      "channel_id": "1547864278999109672",
+      "content": "凍起來明天中午吃",
+      "author": "ahong0727",
+      "reactions": 8,
+      "channel": "V2.6.1 生人勿近┊You've Been Warned...┊외부인 접근 금지"
     },
     {
       "id": "1547805664611536897",
@@ -59,6 +189,38 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1547874594478882848",
+      "channel_id": "1131839817982947429",
+      "content": "「我曾經沒能守護……因為我不夠強大……現在，我變禿了，也變強了，但應該守護的東西已然不復存在。」",
+      "author": "arachnids_nacha",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547903379722731521",
+      "channel_id": "1170692781216378960",
+      "content": "Myls a content creator on Morimens bilibili is heaaaaaaavily criticising Morimen",
+      "author": "crowlov1",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1547870545662582825",
+      "channel_id": "1545385622317965442",
+      "content": "Also just to have said it once myself despite probably sounding like an echoed s",
+      "author": "coco_cocoa",
+      "reactions": 7,
+      "channel": "On the D-Effect Zone Adjustments"
+    },
+    {
+      "id": "1547871925265498123",
+      "channel_id": "1547864278999109672",
+      "content": "<@193043069275209728>",
+      "author": "serahh__",
+      "reactions": 7,
+      "channel": "V2.6.1 生人勿近┊You've Been Warned...┊외부인 접근 금지"
+    },
+    {
       "id": "1547782696892104705",
       "channel_id": "1170692781216378960",
       "content": "also i did end up pulling tawil and murphy: fauxborn",
@@ -67,139 +229,27 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1547760232711716944",
+      "id": "1547892132952674356",
+      "channel_id": "1131839817982947429",
+      "content": "確實 應該換一隻帳號罵",
+      "author": "nemu_s_t_a_r",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1547826398046068869",
       "channel_id": "1170692781216378960",
-      "content": "just pray for bosses that reduce your max hp to 1 every dtide",
-      "author": "reya.li",
-      "reactions": 5,
+      "content": "lmaoo i remember a guy reviewing a vn and was like \"the gameplay is so ass all y",
+      "author": "glitzy_x",
+      "reactions": 6,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1547811624046305391",
+      "id": "1547827791544852542",
       "channel_id": "1170692781216378960",
-      "content": "like what? mythag twinks? 😭",
-      "author": "lobotomiecorp337",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1547791138843394048",
-      "channel_id": "1400750050208125010",
-      "content": "",
-      "author": "justeunchatennuyeux",
-      "reactions": 4,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1547788207385477181",
-      "channel_id": "1433513650299076780",
-      "content": "so u get more sediment",
-      "author": "lithanor",
-      "reactions": 4,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1547791868526461001",
-      "channel_id": "1170692781216378960",
-      "content": "BIAV is forcing me to keep them in until the 5th year anniversary",
-      "author": "solxeko",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1547792351467016233",
-      "channel_id": "1170692781216378960",
-      "content": "***This shit always happens on the wrong piece.***",
-      "author": "syro_k",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1547796660833231000",
-      "channel_id": "1170692781216378960",
-      "content": "Okay f2p 400 secured. Ghelot is still a bitch",
-      "author": "angbak",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1547801773232754799",
-      "channel_id": "1170692781216378960",
-      "content": "I'm here for you babe",
-      "author": "alistiel",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1547802951446302740",
-      "channel_id": "1170692781216378960",
-      "content": "And (I can't believe I'm saying this) I trust Ppep's tastes.",
-      "author": "syro_k",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1547812861080899585",
-      "channel_id": "1170692781216378960",
-      "content": "wait why did u list women",
-      "author": "lobotomiecorp337",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1547785716732272671",
-      "channel_id": "1170692781216378960",
-      "content": "I believe i got a decent team for now, so i wont worry too much about that",
-      "author": "trifox6754",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1547785926170644601",
-      "channel_id": "1170692781216378960",
-      "content": "Team composition doesn't matter until hard mode/chapter 7",
-      "author": "601671_",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1547794207559655425",
-      "channel_id": "1170692781216378960",
-      "content": "Not 888 = mid",
-      "author": "solxeko",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1547795673473097844",
-      "channel_id": "1170692781216378960",
-      "content": "It's that easy",
-      "author": "601671_",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1547796746619326505",
-      "channel_id": "1170692781216378960",
-      "content": "***IT ACTUALLY IS.***",
-      "author": "syro_k",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1547797074374951065",
-      "channel_id": "1170692781216378960",
-      "content": "May your rolls be many, and your clears, too.",
-      "author": "601671_",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1547800977795588121",
-      "channel_id": "1170692781216378960",
-      "content": "i don't remember what she does but mouchette teams tend to explode if they can't",
-      "author": "bru0001",
-      "reactions": 2,
+      "content": "tf u mean awful dialogue?",
+      "author": "glitzy_x",
+      "reactions": 6,
       "channel": "🔸morimens-game-chat"
     }
   ]
