@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
-  "archived_at": "2026-09-11T13:14:18.779970+00:00",
+  "archived_at": "2026-09-11T18:10:47.862461+00:00",
   "source": "youtube",
-  "item_count": 10,
+  "item_count": 13,
   "items": [
     {
       "title": "Hopefully finishing GMurphy Story",
@@ -56,6 +56,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Thinking is an essential part of the investigation",
+      "summary": "Miryam i beg you please don't blow up my internet this time GENERAL INFO My discord server: https://discord.gg/HdSgMpjeHz ...",
+      "source": "youtube",
+      "time": "2026-09-11T13:49:45Z",
+      "url": "https://www.youtube.com/watch?v=85DOYWcJrHI",
+      "engagement": 143,
+      "is_hot": false,
+      "author": "Dumb Keeper",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/85DOYWcJrHI/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "【忘却前夜】ラジオドラマ「ムシェットの異世界調査記録」",
       "summary": "ラジオドラマ「ムシェットの異世界調査記録」 さぁて、どうやってか弱い少女を演じようかな 「助けて」？……ううん、恐怖が ...",
       "source": "youtube",
@@ -102,6 +119,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/_6a3B49ccAU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘卻前夜 Morimens】H6-10 莉莉侵蝕毒 7t 0死抗",
+      "summary": "入場只有17刺骨 快！誇我！ 這章共鳴其實很適配莉莉 可以在爆發回合強行給剛印出來的報償降費 輸出手感會好很多 背景 ...",
+      "source": "youtube",
+      "time": "2026-09-11T15:51:41Z",
+      "url": "https://www.youtube.com/watch?v=yeyhgyuovyk",
+      "engagement": 10,
+      "is_hot": false,
+      "author": "海之心",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/yeyhgyuovyk/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -170,6 +204,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/blkX2QYAZzI/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens §4: Маленький детектив!",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-09-11T14:25:48Z",
+      "url": "https://www.youtube.com/watch?v=KZsBy0Eif24",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Anime Marathon 🖤⚡",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/KZsBy0Eif24/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

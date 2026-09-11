@@ -1,9 +1,23 @@
 {
   "date": "2026-09-10",
-  "archived_at": "2026-09-11T13:14:18.871313+00:00",
+  "archived_at": "2026-09-11T18:10:47.908328+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
+    {
+      "title": "[Google Play 中评] ★3 통뇌야 너도 지금 상태 위험하단거 알고있다고 했잖아 그치? 이제 2개월쯤",
+      "summary": "통뇌야 너도 지금 상태 위험하단거 알고있다고 했잖아 그치? 이제 2개월쯤 남았다 진짜 잘하자 열심히 말고 잘 솔직히 이젠 모르것다",
+      "source": "google_play",
+      "time": "2026-09-10T14:25:04",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-9abfead9-c520-4525-9034-7fd2f3f62361",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "Im L",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "",
+      "region": "global"
+    },
     {
       "title": "[Google Play 差评] ★1 Una pena que el juego sea cada vez menos",
       "summary": "Una pena que el juego sea cada vez menos F2P-friendly, especialmente para los nuevos jugadores. Hay demasiados bugs, y la temática lovecraftiana pierde mucho por una traducción genuinamente mala e incoherente. Además, varios personajes requieren múltiples dupes para desbloquear gran parte de su potencial. Las decisiones de los desarrolladores son cada vez más cuestionables y parecen priorizar a los inversores sobre los jugadores. No lo recomiendo; hay juegos con mucha mejor producción y cariño.",
@@ -29,6 +43,20 @@
       "author": "Juicy",
       "tags": [],
       "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 game cute, trộm vía nổ đôi nhưng lệch hế",
+      "summary": "game cute, trộm vía nổ đôi nhưng lệch hết 😍 nhưng không sao vì story khá hay🥀",
+      "source": "google_play",
+      "time": "2026-09-10T13:45:42",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=vi#gp-a3840da3-1df6-457c-88bd-361b69a0f0d9",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Tuyệt Thế Dưa Leo",
+      "tags": [],
+      "lang": "vi",
       "platform_region": "",
       "region": "global"
     }

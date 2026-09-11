@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-12",
+  "archived_at": "2026-09-11T18:10:47.944312+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[负面] 这融灾是人能打的嘛，校猫是闭着眼按零嘛",
+      "summary": "这融灾是人能打的嘛，校猫是闭着眼按零嘛",
+      "source": "steam_review",
+      "time": "2026-09-11T16:13:27+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199404098305/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199404098305",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 43596,
+        "votes_up": 0,
+        "timestamp_created": 1789143207
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

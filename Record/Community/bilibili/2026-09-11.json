@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
-  "archived_at": "2026-09-11T13:14:18.780394+00:00",
+  "archived_at": "2026-09-11T18:10:47.863388+00:00",
   "source": "bilibili",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "『忘却前夜』金人的第一个20级曜闪唤醒体",
@@ -19,6 +19,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/b2b00c099ecf8087a4ef268d437f63c0c5d81354.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜 从入门到入土 最好的新手教程攻略",
+      "summary": "可能是有时效的里面最全面的.....也可能是全面介绍里最有时效的...",
+      "source": "bilibili",
+      "time": "2026-09-11T13:40:19+00:00",
+      "url": "https://www.bilibili.com/video/av117252523302165",
+      "engagement": 523,
+      "is_hot": false,
+      "author": "-白云出岫-",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/1558ebc4f04f995a5005d97762a00ecd1cb375ff.jpg",
       "content_type": "video"
     },
     {

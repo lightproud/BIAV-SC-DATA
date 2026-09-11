@@ -1,9 +1,32 @@
 {
   "date": "2026-09-11",
-  "archived_at": "2026-09-11T13:14:18.809045+00:00",
+  "archived_at": "2026-09-11T18:10:47.920627+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
+    {
+      "title": "[负面] May the Silver Key guide you to the blind idiot go...",
+      "summary": "May the Silver Key guide you to the blind idiot god, greedy and mindless.\n\nIt's kinda weird to write this review, because I rarely do that, and also because on Google Play I left a review that was basically \"5/5, I hope more people will play it.\"\n\nAnd that's kinda still true — I really do want everybody to play through the first arc and enjoy the experience. I really doubt any new player can enjoy it, though. In my first year the game genuinely seemed very generous; I could play most of the content and enjoy it. Except for the hardest difficulty, reserved for whales and for those who've played the longest and are okay replaying a single battle tens of times. That was fine by me.\n\nNow it's not. Because of number inflation. Because of more new characters that you need at least at E3 with their wheels. Yes, I think you can play as intended, \"with no overexaltation etc.\" It's still hundreds and thousands of cores. And 100 cores are worth basically nothing because of the inflation you caused, \"dear\" developers. For newbies and F2P players it definitely won't be enough. I see it as you're going to bury my favorite game — a game with an interesting challenge (a month ago it was interesting!), with a cool story (one that, if it didn't make me cry, left me devastated), with cool characters.\n\nSo what I'm saying is not that I don't love the game, not that I won't play it, or even that I won't pay anymore. It's that We saved Morimens. I was among them. And I *won't* do it again. I'll be sad for the game and cruelly happy for the developers when it goes to hell",
+      "source": "steam_review",
+      "time": "2026-09-11T13:23:02+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198077561652/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198077561652",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 16748,
+        "votes_up": 1,
+        "timestamp_created": 1789132982
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[负面] This game is ♥♥♥♥♥♥♥ awesome, the gameplay is real...",
       "summary": "This game is ♥♥♥♥♥♥♥ awesome, the gameplay is really cool, the artstyle and the character designs are really unique and also cool as ♥♥♥♥, the story is...extremely interesting if you're into the Cthulhu Mythos, but it's very badly translated.\n\nSo, why is this a negative review? \nBecause in the single month i've played, i've seen as the game has gotten worse for no reason, and instead of any sort of fixes, the developer's response has been \"ah, gomen oomf chan\" and silence.\nI was previously excited to take part in the endgame mode because it looked very neat and challenging, the literal next day after i first finished it, they decide to make it harder for whales, except, instead of adding extra difficulties for them; they make *less* difficulties but make all of them *a lot harder*, like *you need to have 4 extremely whaled out dudes that are also extremely meta to even think about clearing this* hard.\nThis is also the only one of these games i've played where they actively nerf characters, and i now understand why people rarely do it! \nThey also made a JP server where they implemented god-awful changes for no reason that also make the game more whale-focused, and they're slowly bringing them to the global server, so that's awesome too.\n\nThis game is awesome and i really wish it could shine, but all my goodwill has been spent in the month or so i've played and i have 0 hope it'll get better with how incompetent the dev team is (specifically the producer, who keeps making god-awful community posts that show he has no idea why he keeps ♥♥♥♥♥♥♥ up).",
@@ -46,6 +69,29 @@
         "playtime_forever": 470,
         "votes_up": 0,
         "timestamp_created": 1789065607
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I love this game, but I can join in solidarity of...",
+      "summary": "I love this game, but I can join in solidarity of negative reviews to see if they can bring the developers to start seeing that the playerbase in not happy with their new updates and their responses regarding the situation. I can recommend playing it for any new player, but if you want to stick for a long time, you just might be coming in a storm with a rickety ship.",
+      "source": "steam_review",
+      "time": "2026-09-11T15:00:55+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198207891647/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198207891647",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 55609,
+        "votes_up": 0,
+        "timestamp_created": 1789138855
       },
       "region": "global",
       "archive_subtype": "review"
