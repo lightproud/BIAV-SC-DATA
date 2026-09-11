@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
-  "archived_at": "2026-09-11T18:10:48.017133+00:00",
+  "archived_at": "2026-09-11T22:58:45.682582+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 me gustó mucho el juego realmente si lo",
@@ -13,6 +13,34 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Dankertax",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 keren sangat suka",
+      "summary": "keren sangat suka",
+      "source": "google_play",
+      "time": "2026-09-10T18:24:11",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-c46162d5-9669-4d9d-8610-83a855d2fc74",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Riyan Ardiyansah",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Un juego increíble, la verdad nunca habí",
+      "summary": "Un juego increíble, la verdad nunca había jugado un juego de cartas Pero este es muy entretenido visualmente, la historia y el diseño de personajes es único. también es increíble que se pueda jugar en español.",
+      "source": "google_play",
+      "time": "2026-09-10T19:32:06",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-2abd31ab-382d-4cff-b5a9-d124d5ec211c",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Emanuel Portugal",
       "tags": [],
       "lang": "es",
       "platform_region": "",

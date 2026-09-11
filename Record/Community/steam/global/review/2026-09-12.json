@@ -1,8 +1,8 @@
 {
   "date": "2026-09-12",
-  "archived_at": "2026-09-11T18:10:47.944312+00:00",
+  "archived_at": "2026-09-11T22:58:45.611752+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[负面] 这融灾是人能打的嘛，校猫是闭着眼按零嘛",
@@ -23,6 +23,52 @@
         "playtime_forever": 43596,
         "votes_up": 0,
         "timestamp_created": 1789143207
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] El juego de manera a historia es muy bueno muy muy...",
+      "summary": "El juego de manera a historia es muy bueno muy muy bueno sinceramente el Gameplay es lento \npero si disfrutas de la historia sin duda alguna te va encantar te engancha muy bien\nen cuanto a lo que es gacha es muy amable tiene mucho contenido no es un juego para rushearse lo puedes hacer pero vas a tardar es un juego donde si haces historia pero te terminas tambien enfocando mucho en su contenido de eventos \nahora vizualmente es una maravilla artistica \ny como ya lo notaron es un juego Full Lovecraft todo es terror cosmico aquello que el ser humano queda como algo tan diminuto y sin valor ante aquello tan grande que nos aborda en el miedo si disfrutas de este genero por dios que te va encantar este no es un juego para gente que le guste Saltar cosas lo pueden hacer pero te pierdes de mucho \n\nen mi opinion es una maravilla",
+      "source": "steam_review",
+      "time": "2026-09-11T21:44:11+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198737330683/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198737330683",
+      "tags": [
+        "spanish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 296,
+        "votes_up": 0,
+        "timestamp_created": 1789163051
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] i lik morimen",
+      "summary": "i lik morimen",
+      "source": "steam_review",
+      "time": "2026-09-11T21:44:00+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199466438860/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199466438860",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2038,
+        "votes_up": 0,
+        "timestamp_created": 1789163040
       },
       "region": "global",
       "archive_subtype": "review"
