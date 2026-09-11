@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-11",
+  "archived_at": "2026-09-11T07:50:48.957438+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam新闻] V2.6.1 You've Been Warned...",
+      "summary": "⚠️ Listen up, Keepers! ⚠️If a shadowy phantom 👻 starts stalking you on campus:Don't freak out 😨Don't get any closer 🚫Don't ask it anything 🤫",
+      "source": "official",
+      "time": "2026-09-11T07:00:28+00:00",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262694246",
+      "engagement": 0,
+      "is_hot": true,
+      "author": "lqx02483534",
+      "tags": [
+        "Community Announcements"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "news"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "news"
+}
