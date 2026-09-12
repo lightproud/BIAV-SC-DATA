@@ -1,8 +1,8 @@
 {
   "date": "2026-09-12",
-  "archived_at": "2026-09-12T17:43:50.096130+00:00",
+  "archived_at": "2026-09-12T20:11:25.460000+00:00",
   "source": "bilibili",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "『忘却前夜』出3488彩抽氪佬极品入坑号",
@@ -53,6 +53,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/3a916fabb8899f994ea3be7a1dea5162d6d5ad6e.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "[忘却前夜]神父逃课2-7 大数字更畅快",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-12T14:28:47+00:00",
+      "url": "https://www.bilibili.com/video/av117258529606285",
+      "engagement": 106,
+      "is_hot": false,
+      "author": "奕懿丶艾兮",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/14a746ecf500d13e3f5d70070001170a6c8953e4.jpg",
       "content_type": "video"
     },
     {

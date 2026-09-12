@@ -1,9 +1,26 @@
 {
   "date": "2026-09-13",
-  "archived_at": "2026-09-12T17:43:50.099292+00:00",
+  "archived_at": "2026-09-12T20:11:25.462173+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
+    {
+      "title": "［忘却前夜］鏖战5h20min……70级24携朵砍穿癫狂4-7。亿万世界线中寻找唯一的答案，感谢大家的陪伴。",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-12T18:54:25+00:00",
+      "url": "https://www.bilibili.com/video/av117259569728103",
+      "engagement": 66,
+      "is_hot": false,
+      "author": "梦依流苏_myls",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/aa26f3bca35b0699e71a62eddda881993384a28d.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】梭哈普池！",
       "summary": "没想到真给我赌出来莱克了啊！",

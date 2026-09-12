@@ -1,8 +1,8 @@
 {
   "date": "2026-09-13",
-  "archived_at": "2026-09-12T17:43:50.097236+00:00",
+  "archived_at": "2026-09-12T20:11:25.461849+00:00",
   "source": "youtube",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[Morimens] Damage scaling calculations spreadsheet/coding",
@@ -51,6 +51,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/HBhvfR5hC6Q/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Summoning for Kathigu-Ra! | Morimens",
+      "summary": "Super cool fire lady is a must summon in my book. I have been really enjoying the game so far and there is a lot of hype down the ...",
+      "source": "youtube",
+      "time": "2026-09-12T19:24:26Z",
+      "url": "https://www.youtube.com/watch?v=NRRGjrNM8o8",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Soulscus",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/NRRGjrNM8o8/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
