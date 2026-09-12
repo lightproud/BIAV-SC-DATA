@@ -1,8 +1,8 @@
 {
   "date": "2026-09-12",
-  "archived_at": "2026-09-12T10:04:45.184049+00:00",
+  "archived_at": "2026-09-12T14:58:48.627685+00:00",
   "source": "youtube",
-  "item_count": 14,
+  "item_count": 16,
   "items": [
     {
       "title": "Thinking is an essential part of the investigation",
@@ -34,6 +34,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/3ZspU_5b0Wo/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Vậy là chúng ta (xém) thống trị Mythag rồi ha? -- 520 DTide khó nhất lịch sử Morimens.",
+      "summary": "Video nhỏ kỉ niệm mình đạt được 520 trong đợt DTide lạm phát nhất. Nerf Madness đi làm ơn... và thông cảm vì video quá chói ...",
+      "source": "youtube",
+      "time": "2026-09-12T11:55:03Z",
+      "url": "https://www.youtube.com/watch?v=0ES6jTfPDdA",
+      "engagement": 79,
+      "is_hot": false,
+      "author": "AniciMorimens",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/0ES6jTfPDdA/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -136,6 +153,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/dhSdZVoKEgk/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "忘卻前夜 Morimens h 6-10 카라부 메인딜",
+      "summary": "요정 펀치는 강하다.",
+      "source": "youtube",
+      "time": "2026-09-12T11:41:25Z",
+      "url": "https://www.youtube.com/watch?v=13RvQ8e2dtc",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "사탕발림",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/13RvQ8e2dtc/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

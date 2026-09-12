@@ -1,8 +1,8 @@
 {
   "date": "2026-09-12",
-  "archived_at": "2026-09-12T10:04:45.218287+00:00",
+  "archived_at": "2026-09-12T14:58:48.683969+00:00",
   "source": "steam",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "[负面] Can see why this game almost went EoS. Invested on...",
@@ -161,6 +161,29 @@
         "playtime_forever": 1502,
         "votes_up": 0,
         "timestamp_created": 1789182569
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 정말 애정을 가지고 하던 게임이였는데 융재 피뻥 코퍼/픽맨 기습너프 신융재 출시후 갑작스러...",
+      "summary": "정말 애정을 가지고 하던 게임이였는데 융재 피뻥 코퍼/픽맨 기습너프 신융재 출시후 갑작스러운 소통절단 등등 여러 사건을 거쳐 정말 애정은 다 떠나가고 겜을 계속해야할까라는 생각이 들더군요",
+      "source": "steam_review",
+      "time": "2026-09-12T10:27:31+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198975394254/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198975394254",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 23335,
+        "votes_up": 0,
+        "timestamp_created": 1789208851
       },
       "region": "global",
       "archive_subtype": "review"
