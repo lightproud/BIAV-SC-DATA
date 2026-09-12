@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
-  "archived_at": "2026-09-11T22:58:45.682582+00:00",
+  "archived_at": "2026-09-12T03:04:14.723611+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 5,
   "items": [
     {
       "title": "[Google Play 好评] ★5 me gustó mucho el juego realmente si lo",
@@ -43,6 +43,34 @@
       "author": "Emanuel Portugal",
       "tags": [],
       "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 สนุกดีนะครับ เป็นแนวเทินเบส ดาร์คๆหน่อย",
+      "summary": "สนุกดีนะครับ เป็นแนวเทินเบส ดาร์คๆหน่อย และก็อยากให้มีคนมาแปลจริงๆ เพราะใช้gptแปล แล้วมันแปลกๆ",
+      "source": "google_play",
+      "time": "2026-09-10T23:26:07",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=th#gp-aab3c48a-5972-4f9a-b5bb-a8c8fe7aefc1",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Cbjjj Hjjkk",
+      "tags": [],
+      "lang": "th",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 nice game",
+      "summary": "nice game",
+      "source": "google_play",
+      "time": "2026-09-11T01:59:20",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-f7391582-2652-4487-a830-6097560785fb",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "daus s",
+      "tags": [],
+      "lang": "id",
       "platform_region": "",
       "region": "global"
     }
