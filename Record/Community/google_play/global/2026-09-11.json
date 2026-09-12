@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
-  "archived_at": "2026-09-12T14:58:48.789127+00:00",
+  "archived_at": "2026-09-12T17:43:50.175868+00:00",
   "source": "google_play",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "[Google Play 好评] ★5 me gustó mucho el juego realmente si lo",
@@ -69,6 +69,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "daus s",
+      "tags": [],
+      "lang": "id",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 Good game, I like it, but please provide",
+      "summary": "Good game, I like it, but please provide more Genosis Items and make it easier to Upgrade characters pluss Please weaken the boss characters reducing their damage and buffs as well as their Debuffs and also their Blood",
+      "source": "google_play",
+      "time": "2026-09-11T15:20:01",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-0ff2edb8-0441-4b46-b1f6-7b60a39a54b3",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Muhammad Zidan",
       "tags": [],
       "lang": "id",
       "platform_region": "",

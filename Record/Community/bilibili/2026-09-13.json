@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-13",
+  "archived_at": "2026-09-12T17:43:50.099292+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "【忘却前夜】梭哈普池！",
+      "summary": "没想到真给我赌出来莱克了啊！",
+      "source": "bilibili",
+      "time": "2026-09-12T16:26:33+00:00",
+      "url": "https://www.bilibili.com/video/av117258999368737",
+      "engagement": 14,
+      "is_hot": false,
+      "author": "SherbetWhite",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/db6809756e353ff574afdb00600636ed74c3b6d6.jpg",
+      "content_type": "video"
+    }
+  ]
+}

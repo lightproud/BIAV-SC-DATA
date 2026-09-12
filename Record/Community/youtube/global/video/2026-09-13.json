@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-13",
+  "archived_at": "2026-09-12T17:43:50.097236+00:00",
+  "source": "youtube",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Morimens] Damage scaling calculations spreadsheet/coding",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-09-12T17:15:31Z",
+      "url": "https://www.youtube.com/watch?v=g1ktgbX13QI",
+      "engagement": 85,
+      "is_hot": false,
+      "author": "kizunoV",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/g1ktgbX13QI/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "忘れてた幻夢の深奥やっていきます！【#忘却前夜】",
+      "summary": "steamURL https://store.steampowered.com/app/4226130/_/",
+      "source": "youtube",
+      "time": "2026-09-12T17:18:34Z",
+      "url": "https://www.youtube.com/watch?v=PMTEcYPcwGs",
+      "engagement": 46,
+      "is_hot": false,
+      "author": "バグッチャーYT",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/PMTEcYPcwGs/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "🔞 Arc 2 time :3 - Morimens",
+      "summary": "Arc 2 time :3 Links https://www.twitch.tv/eepyghost https://discord.gg/tSq5H32dAm https://twitter.com/eepyghostie.",
+      "source": "youtube",
+      "time": "2026-09-12T17:07:30Z",
+      "url": "https://www.youtube.com/watch?v=HBhvfR5hC6Q",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "eepyghost",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/HBhvfR5hC6Q/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "video"
+}
