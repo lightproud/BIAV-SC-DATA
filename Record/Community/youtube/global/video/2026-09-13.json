@@ -1,8 +1,8 @@
 {
   "date": "2026-09-13",
-  "archived_at": "2026-09-12T20:11:25.461849+00:00",
+  "archived_at": "2026-09-12T22:50:59.755393+00:00",
   "source": "youtube",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[Morimens] Damage scaling calculations spreadsheet/coding",
@@ -34,6 +34,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/PMTEcYPcwGs/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Directo relax Morimens.",
+      "summary": "No olviden unirse al discord :). https://discord.gg/UgmMCae3Sg.",
+      "source": "youtube",
+      "time": "2026-09-12T21:58:36Z",
+      "url": "https://www.youtube.com/watch?v=hnKXVutcUrA",
+      "engagement": 22,
+      "is_hot": false,
+      "author": "OcteKG",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/hnKXVutcUrA/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

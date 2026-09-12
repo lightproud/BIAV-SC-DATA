@@ -1,9 +1,32 @@
 {
   "date": "2026-09-13",
-  "archived_at": "2026-09-12T20:11:25.526529+00:00",
+  "archived_at": "2026-09-12T22:50:59.820065+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
+    {
+      "title": "[负面] the story and art is good. Everything else is terr...",
+      "summary": "the story and art is good. Everything else is terrible, balancing, powercreep, you name it",
+      "source": "steam_review",
+      "time": "2026-09-12T20:46:40+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198995580121/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198995580121",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 8039,
+        "votes_up": 1,
+        "timestamp_created": 1789246000
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[正面] 일단 스토리는 말할 필요도 없이 GOAT임 개인적으로 다른 게임이랑 비교해도 꿀리지 않는다...",
       "summary": "일단 스토리는 말할 필요도 없이 GOAT임 개인적으로 다른 게임이랑 비교해도 꿀리지 않는다고 생각함.\r\n재화도 한번에 많이는 안 주지만 플레이 한 만큼 들어와서 재화 걱정도 크게 없어서 좋음.\r\n메인 스토리가 9장(프로롤그 포함 10장)까지 밖에 없어서 적어 보이지만 메인 스토리 빼고도 남은 스토리도 많고 캐릭터 동조율(쉽게 말하면 호감도)도 올리면 짧게 볼 수 있는 스토리 나와서 좋은 스토리 빼고도 계속 도전해야 할 것들이 많아서 메인 스토리 다 깨도 할 게 상당히 많음.",
