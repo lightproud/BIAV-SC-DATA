@@ -1,9 +1,32 @@
 {
   "date": "2026-09-12",
-  "archived_at": "2026-09-12T03:04:14.633656+00:00",
+  "archived_at": "2026-09-12T10:04:45.218287+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 7,
   "items": [
+    {
+      "title": "[负面] Can see why this game almost went EoS. Invested on...",
+      "summary": "Can see why this game almost went EoS. Invested on a newly released character only for it to be completely ♥♥♥♥♥♥ over by the update two weeks later. HP inflation is a bit too rough even for a gacha game.",
+      "source": "steam_review",
+      "time": "2026-09-12T06:21:05+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199245871071/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561199245871071",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 14865,
+        "votes_up": 1,
+        "timestamp_created": 1789194065
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[负面] 这融灾是人能打的嘛，校猫是闭着眼按零嘛",
       "summary": "这融灾是人能打的嘛，校猫是闭着眼按零嘛",
@@ -69,6 +92,75 @@
         "playtime_forever": 2038,
         "votes_up": 0,
         "timestamp_created": 1789163040
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Як не дивно не розраховував, що ця гра настільки з...",
+      "summary": "Як не дивно не розраховував, що ця гра настільки затягне. Так, це наче типова \"гача\", де є купа персонажів, яких треба \"вибити\". Але є кілька важливих відмінностей. Перше - сюжетка тут не \"для галочки\" і зайде тим, кому подобається Говард Лавкрафт. Друга відмінність - тут гра не грає \"сама в себе\", і для проходження треба розібратися в місцевій механці, хоча б трохи. Третя відмінність від більшості \"гача-ігор\" - тут можна пройти сюжетку без донату з мінімальним фармом ресурсів (по 10 хвилин щодня). Або й без цього, якщо ви зацікавлені лише в сюжеті і не бажаєте проходити все на \"3 зірки\" (хоча я без донату й з мінімальним фармом почав проходити все на 3 зірки, коли розібрався в стратегії та плюнув на русифікатор від ШІ й не почав грати на англійській).\r\n\r\nЗ недоліків - відсутня українська мова. Більшість мов зі списка - переклад від ШІ (читаючи його я почав згадувати старий добрий переклада за допомогою ПРОМТ). Тож - або православна японська, або демонічна англійська (в моєму випадку =D ). Від сюжетки я в захваті, але ридав мало не над кожною главою.",
+      "source": "steam_review",
+      "time": "2026-09-12T06:00:46+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199660983528/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199660983528",
+      "tags": [
+        "ukrainian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 8903,
+        "votes_up": 0,
+        "timestamp_created": 1789192846
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 主线剧情整体还可以，但细节描写真的左右脑互博。角色养成方面非常非常肝，60级升70级需要的突破材料至...",
+      "summary": "主线剧情整体还可以，但细节描写真的左右脑互博。角色养成方面非常非常肝，60级升70级需要的突破材料至少要花一周体力，还不算经验书，角色满级90级，。其他各种天赋也是需要海量的资源，看着就绝望。",
+      "source": "steam_review",
+      "time": "2026-09-12T03:21:25+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198415571262/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198415571262",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 3970,
+        "votes_up": 0,
+        "timestamp_created": 1789183285
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 没玩的快跑，这游戏骗氪币刻严重，逆天的角色和专武命座机制，抽16只才满命，角色抽四只才算机制完全，主...",
+      "summary": "没玩的快跑，这游戏骗氪币刻严重，逆天的角色和专武命座机制，抽16只才满命，角色抽四只才算机制完全，主C更是需要抽8只，加上现在怪物数值膨胀，满配16只照样进去赤石。抽数方面，你游一堆孝子，说什么送的多，玛德一个月0氪80来抽，一群莎X觉得多，你怎么不说你角色期望42抽一只，专武30抽一个，平均30-45天出一个新角色，你攒一个月的抽数在不歪的前提下也只够抽一个角色+一个专武，问题是这游戏现在新角色最低抽四只本体+1个专武，差距大的有多离谱这帮孝子是一点不看的。说什么你游福利超好，光对比人家的抽数是吧？别人0命辅助，主c两命完全体，专武抽一个就行，你特么刚需抽的命座是别人的4倍了，福利有别人的四倍吗？两倍都没有，吹尼玛的福利好呢，一群神人",
+      "source": "steam_review",
+      "time": "2026-09-12T03:09:29+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198656796461/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198656796461",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 1502,
+        "votes_up": 0,
+        "timestamp_created": 1789182569
       },
       "region": "global",
       "archive_subtype": "review"

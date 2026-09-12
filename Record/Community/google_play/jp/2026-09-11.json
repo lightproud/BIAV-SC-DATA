@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-11",
+  "archived_at": "2026-09-12T10:04:45.232840+00:00",
+  "source": "google_play",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 最悪すぎる。ゲーム自体は面白かったのに起動してホーム画面行くまでに必ずクラッシュ",
+      "summary": "最悪すぎる。ゲーム自体は面白かったのに起動してホーム画面行くまでに必ずクラッシュするようになった",
+      "source": "google_play",
+      "time": "2026-09-11T06:10:58",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-122824bc-bbed-4340-b8b8-d7ca940282da",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Process Process",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "",
+      "region": "jp"
+    }
+  ],
+  "region": "jp"
+}

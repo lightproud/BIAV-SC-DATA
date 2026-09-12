@@ -1,8 +1,8 @@
 {
   "date": "2026-09-12",
-  "archived_at": "2026-09-12T03:04:14.651202+00:00",
+  "archived_at": "2026-09-12T10:04:45.234061+00:00",
   "source": "reddit",
-  "item_count": 11,
+  "item_count": 14,
   "items": [
     {
       "title": "【Morimens JP】incoming character Corposant",
@@ -143,6 +143,45 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/Angbak94",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "cuz wdym my support nuked the hell out of the enemy??",
+      "summary": "i am apparently now, an arachne stan  &#32; submitted by &#32;  /u/hyxish   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-12T08:49:34+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1we7cd0/cuz_wdym_my_support_nuked_the_hell_out_of_the/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/hyxish",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "nesesito ayuda para armar un equipo",
+      "summary": "estoy haciendo la d zone ya tengo 4 equipos que use y solo me falta uno pero no se que debria hacer, estos son los despertados que puedo usar, sugerencias?  &#32; submitted by &#32;  /u/Fit_Razzmatazz_2625   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-12T08:05:10+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1we6lav/nesesito_ayuda_para_armar_un_equipo/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Fit_Razzmatazz_2625",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Teams Recommendation",
+      "summary": "Casual player that doesn&#39;t know how to build teams. Any recommendations that can work here?  &#32; submitted by &#32;  /u/IVEs9000   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-12T05:13:21+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1we3gwg/teams_recommendation/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/IVEs9000",
       "tags": [],
       "lang": "en",
       "platform_region": ""
