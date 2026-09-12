@@ -1,53 +1,242 @@
 {
   "date": "2026-09-12",
-  "messages": 1831,
-  "unique_authors": 158,
-  "reactions_total": 140,
-  "attachments": 89,
+  "messages": 5906,
+  "unique_authors": 240,
+  "reactions_total": 626,
+  "attachments": 287,
   "channel_activity": {
-    "🔸綜合討論": 30,
-    "🔸阵容构建": 4,
-    "🔸morimens-game-chat": 867,
-    "🔸剧情交流": 2,
+    "🔸綜合討論": 228,
+    "🔸阵容构建": 7,
+    "🔸morimens-game-chat": 3220,
+    "🔸剧情交流": 3,
+    "🔸한국어-채팅방": 35,
+    "🔸chaîne-française": 7,
+    "🔸русский-канал": 45,
+    "🔸phòng-chat-tiếng-việt": 439,
+    "🔸canal-español": 126,
+    "🔸ruang-obrolan-indonesia": 400,
+    "🔸ห้องสนทนาภาษาไทย": 30,
+    "🔸traphase": 6,
+    "🔸lore-chat": 42,
+    "🔸lets-count": 2,
+    "🔸team-building": 77,
+    "🔸general-chat": 111,
+    "🔸邀请码互助┊swap-invitation-codes": 4,
+    "🔸game-question": 926,
+    "🔸机器人命令┊bot-commands": 16,
+    "What are you going to do, Light?": 7,
+    "Bonded covenants are counted as no covenant equipped when exporting team code.": 1,
+    "可能是bug": 2,
+    "Event and P Dive UI too confusing": 10,
+    "[Bug] Deadly Duel still in deck after using Exalt": 1,
+    "Caraboo ult seems to be killing me?": 3,
+    "Balance problem in arc2": 7,
+    "星辰篇第6章關底王很難觸發創痕": 1,
+    "Corposant and Wheel Unseen \"Bug\"": 1,
+    "D-tide Discussion": 80,
+    "Better handling of nerfs through bug fixes": 2,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 8,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 1,
+    "繁育沒有提高卡茜亞的超限爆發的固定力量": 1,
+    "✅「已記錄」請問可以加一個怪物的圖鑑嗎？": 1,
+    "Quadra / 4-Realm Rerun Banners": 1,
+    "阿格里帕最終法則相關": 2,
+    "V2.5.1.0 停服维护公告": 9,
+    ":man_detective: 相位對弈：對戰表情 ┊ Emotes": 1,
+    "On the D-Effect Zone Adjustments": 2,
+    "Madness Helot: Catena": 1,
+    "Keeper OC's 1st year anniversary in Morimens fancomic [Salvador x OC]": 5,
+    "Ramona Dreamy vacation cosplay/adventure": 7,
+    "【English Translation】Opinions Collection": 2,
+    "V2.6.1 生人勿近┊You've Been Warned...┊외부인 접근 금지": 2,
+    "入坑一週": 2,
+    "融災組隊": 4,
+    "Team Building + Pulling Advice": 3,
+    "caraboo is honestly quite incredible": 1,
     "🔸课间休息闲聊": 1,
-    "🔸русский-канал": 13,
-    "🔸phòng-chat-tiếng-việt": 63,
-    "🔸canal-español": 70,
-    "🔸ruang-obrolan-indonesia": 306,
-    "🔸lore-chat": 6,
-    "🔸team-building": 15,
-    "🔸general-chat": 16,
-    "🔸game-question": 409,
     "🔸忘却前夜┊morimens-tv": 1,
-    "🔸机器人命令┊bot-commands": 5,
-    "Balance problem in arc2": 1,
-    "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
     "✅「已記錄」還我1000銀": 1,
     "✅「已回答」建議列車的隨機初始受祝造物和專屬造物改為自選": 1,
-    "V2.5.1.0 停服维护公告": 2,
     "Protect": 1,
     "Feeling funny": 1,
-    "Ramona Dreamy vacation cosplay/adventure": 5,
     "Carlabubu": 1,
     "Somehow I share birthday with my fav character": 1,
     "hamposting by lin": 3,
     "Tawil 🤍": 2,
-    "融災組隊": 2,
     "1548144487807582238": 1
   },
   "hourly_activity": {
+    "3": 706,
+    "4": 346,
+    "5": 537,
+    "6": 353,
+    "7": 484,
+    "8": 817,
+    "9": 1052,
+    "10": 293,
     "0": 514,
     "1": 464,
-    "2": 340,
-    "3": 513
+    "2": 340
   },
   "message_types": {
-    "19": 672,
-    "0": 1156,
-    "20": 2,
+    "0": 3811,
+    "19": 2075,
+    "20": 19,
     "21": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1548192212049723453",
+      "channel_id": "1131839817982947429",
+      "content": "至少給我#阿嘿顏 #惡墮 #雌小鬼 #下士座 #便器 #常識修改 這些關鍵字",
+      "author": "yi000607",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548192321894486077",
+      "channel_id": "1548192321894486077",
+      "content": "I think there's too many difficulties in Event missions and P Dive. Could you pl",
+      "author": "aurora3981",
+      "reactions": 9,
+      "channel": "Event and P Dive UI too confusing"
+    },
+    {
+      "id": "1548185153283821621",
+      "channel_id": "1545385622317965442",
+      "content": "I genuinely don't understand what you were thinking. Y’all had a gamemode that w",
+      "author": "teleftaios",
+      "reactions": 9,
+      "channel": "On the D-Effect Zone Adjustments"
+    },
+    {
+      "id": "1548275244710494209",
+      "channel_id": "1170692781216378960",
+      "content": "'i have to yojimbo cheese to get the energy blast overdrive i missed'\n*proceeds ",
+      "author": "violettaautumn",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548192841543454724",
+      "channel_id": "1548192321894486077",
+      "content": "Compress them to 0 difficulties by removing P-Dive from the game.",
+      "author": "sophiechoice",
+      "reactions": 7,
+      "channel": "Event and P Dive UI too confusing"
+    },
+    {
+      "id": "1548181289541177364",
+      "channel_id": "1170692781216378960",
+      "content": "officially a whale now",
+      "author": "2ndselna",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548200659491225682",
+      "channel_id": "1170692781216378960",
+      "content": "I wonder if we’ll get some of the gacha drama farmers to make a video about Mori",
+      "author": "sophiechoice",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548244632985407549",
+      "channel_id": "1170692781216378960",
+      "content": "Horla really shows her strength when not supporting a bum like Kath",
+      "author": "arem0972",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548249867716137052",
+      "channel_id": "1548249867716137052",
+      "content": "I’ve completely lost the desire to play the game. How are you going to take resp",
+      "author": "blackdonut5182",
+      "reactions": 6,
+      "channel": "What are you going to do, Light?"
+    },
+    {
+      "id": "1548229186076811314",
+      "channel_id": "1548229186076811314",
+      "content": "※ Fan Interpretation, do not treat this as canon\n※ Yumeshipping lens\n\nSeptember ",
+      "author": "sofiaebby",
+      "reactions": 6,
+      "channel": "Keeper OC's 1st year anniversary in Morimens fancomic [Salvador x OC]"
+    },
+    {
+      "id": "1548197603584516137",
+      "channel_id": "1131839817982947429",
+      "content": "校貓快點出個杯子吧 \n群友越來越奇怪了",
+      "author": "abhartach_0",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548217083832303716",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "yi000607",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548263823566446622",
+      "channel_id": "1131839817982947429",
+      "content": "是谁到今天还没打过王关（",
+      "author": "xyakoto",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548215393372348447",
+      "channel_id": "1170692781216378960",
+      "content": "saya was my motivation for playing morimens. then i played the actual VN and tur",
+      "author": "imgonnainflictpain",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548208216872194139",
+      "channel_id": "1131839817982947429",
+      "content": "~~一个是原初，一个是克隆~~",
+      "author": "kemomimi_",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548194824773959863",
+      "channel_id": "1170692781216378960",
+      "content": "24 is now 12, it’s for the health of the game’s balance you see. Please understa",
+      "author": "sophiechoice",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548246301953630240",
+      "channel_id": "1170692781216378960",
+      "content": "Regarding the D-Tide changes from about a year ago, I know that some people are ",
+      "author": "dyssayah",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548276457241845792",
+      "channel_id": "1170692781216378960",
+      "content": "How can FFX be a corridor when it has a **SPHERE** grid? Are you guys stupid?",
+      "author": "sparkling_moose_59074",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548181428422971392",
+      "channel_id": "1173463482503536711",
+      "content": "想到這張圖🌿",
+      "author": "ass191044",
+      "reactions": 4,
+      "channel": "🔸剧情交流"
+    },
     {
       "id": "1548161364638433291",
       "channel_id": "1131839817982947429",
@@ -55,158 +244,6 @@
       "author": "annabelle0868",
       "reactions": 4,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548123444573503559",
-      "channel_id": "1170692781216378960",
-      "content": "and oh wait this is jjust the old system with a6 and a7",
-      "author": "technaid",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548134542471331881",
-      "channel_id": "1548134542471331881",
-      "content": "",
-      "author": "mikori3073",
-      "reactions": 4,
-      "channel": "Protect"
-    },
-    {
-      "id": "1548172756993048627",
-      "channel_id": "1131839817982947429",
-      "content": "拉高了亮度終於看到真容了",
-      "author": "xianrenwurao",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548122489098469397",
-      "channel_id": "1170692781216378960",
-      "content": "I wouldn't call an update that somehow managed to make Frost and Mengluo quit a ",
-      "author": "sirtealot",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548138273984090133",
-      "channel_id": "1170692781216378960",
-      "content": "luckwhale",
-      "author": "sparkling_moose_59074",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548172950128173068",
-      "channel_id": "1433513650299076780",
-      "content": "at HSR",
-      "author": "lithanor",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1548173567655546981",
-      "channel_id": "1433513650299076780",
-      "content": "would you take advice from someone who was roasted because they didnt clear ch9 ",
-      "author": "corvim",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1548133106828054579",
-      "channel_id": "1131839817982947429",
-      "content": "有大佬可以草死我嗎",
-      "author": "ahuahuahua",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548129193559330930",
-      "channel_id": "1170692781216378960",
-      "content": "I played every card game.  And I can tell you with confidence that's marvel snap",
-      "author": "yura037733",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548139741059227670",
-      "channel_id": "1170692781216378960",
-      "content": "just to play for a week on launch and havent touched it again",
-      "author": "2ndselna",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548148355316715632",
-      "channel_id": "1170692781216378960",
-      "content": "\"Yeah I'm just gonna throw a 5 pull at this for the hell of it.\"",
-      "author": "rabevonrot",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548148933845454939",
-      "channel_id": "1170692781216378960",
-      "content": "I actually ditched it, hard to advertise smth i havent tried before <:Ramona_tuf",
-      "author": "undeterredhomo",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548156094277492767",
-      "channel_id": "1170692781216378960",
-      "content": "<@727163897039028335>  if you put your uid in <#1508175196928999584> you get 200",
-      "author": "syruponstrawberrycake",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548159309534203978",
-      "channel_id": "1300659603993923644",
-      "content": "Cái cày affinity nx<:Aurita_pinch:1468258028271833119> cày cực hơn, update xong ",
-      "author": "satomitouka",
-      "reactions": 2,
-      "channel": "🔸phòng-chat-tiếng-việt"
-    },
-    {
-      "id": "1548132167685771427",
-      "channel_id": "1300659753197764688",
-      "content": "",
-      "author": "ko.nur",
-      "reactions": 2,
-      "channel": "🔸ruang-obrolan-indonesia"
-    },
-    {
-      "id": "1548135755669438465",
-      "channel_id": "1433513650299076780",
-      "content": "thais and horla are always recommended (horla just reran aswell, will take a whi",
-      "author": "corvim",
-      "reactions": 2,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1548138266753105951",
-      "channel_id": "1433513650299076780",
-      "content": "works at E0 but likes E1",
-      "author": "corvim",
-      "reactions": 2,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1548138708195217449",
-      "channel_id": "1433513650299076780",
-      "content": "she can fit just about anywhere for weakness/vulnerable\nnormally I run her in vo",
-      "author": "corvim",
-      "reactions": 2,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1548140573406404660",
-      "channel_id": "1433513650299076780",
-      "content": "I wanna finish my g Murphy team",
-      "author": "12sakura",
-      "reactions": 2,
-      "channel": "🔸game-question"
     }
   ]
 }
