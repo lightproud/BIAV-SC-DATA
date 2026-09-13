@@ -1,37 +1,47 @@
 {
   "date": "2026-09-13",
-  "messages": 9499,
+  "messages": 13529,
   "unique_authors": 247,
-  "reactions_total": 1157,
-  "attachments": 495,
+  "reactions_total": 1430,
+  "attachments": 744,
   "channel_activity": {
-    "🔸綜合討論": 893,
-    "🔸阵容构建": 332,
-    "🔸morimens-game-chat": 5061,
-    "🔸课间休息闲聊": 271,
-    "🔸chaîne-française": 10,
-    "🔸русский-канал": 650,
-    "🔸phòng-chat-tiếng-việt": 181,
+    "🔸綜合討論": 1542,
+    "🔸阵容构建": 347,
+    "🔸morimens-game-chat": 6960,
+    "🔸课间休息闲聊": 292,
+    "🔸한국어-채팅방": 20,
+    "🔸chaîne-française": 18,
+    "🔸русский-канал": 1059,
+    "🔸phòng-chat-tiếng-việt": 200,
+    "🔸canal-português": 40,
+    "🔸ruang-obrolan-indonesia": 318,
+    "🔸traphase": 10,
+    "🔸lore-chat": 50,
+    "🔸team-building": 457,
+    "🔸general-chat": 159,
+    "🔸邀请码互助┊swap-invitation-codes": 8,
+    "🔸game-question": 1320,
+    "🔸忘却前夜┊morimens-tv": 2,
+    "🔸机器人命令┊bot-commands": 52,
+    "破誓．奧吉爾✦喚醒體&命輪介紹": 1,
+    "菜雞四小強玩家的抱怨之旅new": 4,
+    "Celeste's E3 has a typo that makes it scary": 1,
+    "Alternate realms Enhancement": 3,
+    "Corposant and Wheel Unseen \"Bug\"": 4,
+    "Caraboo E3 is kind of lying?": 20,
+    "D-tide Discussion": 212,
+    "V2.5.1.0 停服维护公告": 14,
+    "On the D-Effect Zone Adjustments": 6,
+    "New Awakener✦Alistair: Silver King": 13,
+    "1548726824899711097": 1,
     "🔸canal-español": 205,
-    "🔸ruang-obrolan-indonesia": 231,
     "🔸ห้องสนทนาภาษาไทย": 109,
-    "🔸lore-chat": 34,
-    "🔸team-building": 215,
-    "🔸general-chat": 87,
-    "🔸邀请码互助┊swap-invitation-codes": 6,
-    "🔸game-question": 828,
     "🔸游戏问题": 3,
-    "🔸机器人命令┊bot-commands": 41,
-    "菜雞四小強玩家的抱怨之旅new": 1,
     "Balance problem in arc2": 2,
-    "Caraboo E3 is kind of lying?": 15,
     "Please think about Jenkins": 5,
-    "D-tide Discussion": 187,
     "Impact of Version 2.6 Affinity Changes on Player Experience": 7,
     "🥲未解锁造物（？）能不能有详细的位置指引或者保留一下剪影": 2,
-    "V2.5.1.0 停服维护公告": 13,
     "Leonora": 1,
-    "New Awakener✦Alistair: Silver King": 12,
     "Let's go make a baby!": 2,
     "Keeper OC's 1st year anniversary in Morimens fancomic [Salvador x OC]": 1,
     "Mira (Keeper OC) art thread": 7,
@@ -41,10 +51,6 @@
     "🔥10000银芯奖励！V2.6 UGC创作征集开启！": 1,
     "Team building": 3,
     "🔸剧情交流": 7,
-    "🔸한국어-채팅방": 19,
-    "🔸canal-português": 5,
-    "🔸traphase": 7,
-    "🔸忘却前夜┊morimens-tv": 1,
     "Morimens社群事件編年史": 1,
     "堆图ing": 3,
     "可能是bug": 2,
@@ -58,15 +64,19 @@
     "1548635830996828181": 1,
     "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 1,
     "Please rework how Propagation Caro works for the future units": 1,
-    "On the D-Effect Zone Adjustments": 3,
     "【English Translation】Opinions Collection": 1
   },
   "hourly_activity": {
+    "15": 844,
+    "16": 632,
+    "17": 609,
+    "18": 1302,
+    "19": 934,
+    "20": 410,
     "11": 787,
     "12": 925,
     "13": 781,
     "14": 1389,
-    "15": 701,
     "3": 683,
     "4": 332,
     "5": 596,
@@ -80,9 +90,10 @@
     "2": 418
   },
   "message_types": {
-    "0": 6290,
-    "19": 3169,
-    "20": 38,
+    "0": 8998,
+    "19": 4478,
+    "20": 50,
+    "18": 1,
     "46": 1,
     "21": 1
   },
@@ -120,6 +131,14 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1548734015610290287",
+      "channel_id": "1433513650299076780",
+      "content": "FINALLY VORTICE AFTER 615 PULLS😭🙏",
+      "author": "shadowgame7101",
+      "reactions": 7,
+      "channel": "🔸game-question"
+    },
+    {
       "id": "1548554682736185376",
       "channel_id": "1170692781216378960",
       "content": "finally",
@@ -133,6 +152,30 @@
       "content": "She must be good right?",
       "author": "verdy_heh",
       "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548731920467103755",
+      "channel_id": "1170692781216378960",
+      "content": "If kath is so washed then you should reroll everything into sigil yield and DMG ",
+      "author": "bru0001",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548740684188483645",
+      "channel_id": "1170692781216378960",
+      "content": "looking forward to more gouda gaming ye",
+      "author": "violettaautumn",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548754642228215878",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "zier.0",
+      "reactions": 6,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -184,6 +227,14 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1548750283121893438",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "lobotomiecorp337",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1548658927602765905",
       "channel_id": "1131839817982947429",
       "content": "别家游戏都是温水煮青蛙 \n你游是岩浆丢青蛙",
@@ -206,46 +257,6 @@
       "author": "wilson_1024",
       "reactions": 5,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548683176967282730",
-      "channel_id": "1131839817982947429",
-      "content": "有點懷念",
-      "author": "a._0320",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548697408345477351",
-      "channel_id": "1131839817982947429",
-      "content": "遇人不草",
-      "author": "ahuahuahua",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548697640374378576",
-      "channel_id": "1131839817982947429",
-      "content": "壓線450\n沒想到我還赤得下去<:Horla_cry:1357186646294138890>",
-      "author": "fon_tain",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548702397235339327",
-      "channel_id": "1131839817982947429",
-      "content": "自求多福",
-      "author": "ahuahuahua",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548685575589077083",
-      "channel_id": "1170692781216378960",
-      "content": "i'm drawing xu rn 😍",
-      "author": "lobotomiecorp337",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }
