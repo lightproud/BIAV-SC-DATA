@@ -1,51 +1,142 @@
 {
   "date": "2026-09-13",
-  "messages": 1673,
-  "unique_authors": 131,
-  "reactions_total": 225,
-  "attachments": 73,
+  "messages": 5097,
+  "unique_authors": 247,
+  "reactions_total": 629,
+  "attachments": 266,
   "channel_activity": {
-    "🔸綜合討論": 37,
-    "🔸阵容构建": 24,
-    "🔸morimens-game-chat": 1203,
-    "🔸课间休息闲聊": 44,
-    "🔸한국어-채팅방": 3,
-    "🔸русский-канал": 9,
-    "🔸phòng-chat-tiếng-việt": 6,
-    "🔸canal-español": 33,
-    "🔸canal-português": 3,
-    "🔸ruang-obrolan-indonesia": 55,
-    "🔸traphase": 2,
-    "🔸lore-chat": 4,
-    "🔸team-building": 27,
-    "🔸general-chat": 37,
-    "🔸邀请码互助┊swap-invitation-codes": 1,
-    "🔸game-question": 159,
-    "🔸机器人命令┊bot-commands": 6,
-    "可能是bug": 1,
+    "🔸綜合討論": 162,
+    "🔸阵容构建": 232,
+    "🔸morimens-game-chat": 2700,
+    "🔸剧情交流": 7,
+    "🔸课间休息闲聊": 61,
+    "🔸한국어-채팅방": 19,
+    "🔸chaîne-française": 1,
+    "🔸русский-канал": 175,
+    "🔸phòng-chat-tiếng-việt": 106,
+    "🔸canal-español": 183,
+    "🔸canal-português": 5,
+    "🔸ruang-obrolan-indonesia": 182,
+    "🔸ห้องสนทนาภาษาไทย": 95,
+    "🔸traphase": 7,
+    "🔸lore-chat": 5,
+    "🔸team-building": 108,
+    "🔸general-chat": 71,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "🔸game-question": 763,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 21,
+    "Morimens社群事件編年史": 1,
+    "堆图ing": 3,
+    "可能是bug": 2,
+    "Caraboo E3 is kind of lying?": 14,
+    "D-tide Feedback (New)": 2,
+    "Please think about Jenkins": 2,
+    "D-tide Discussion": 121,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 6,
+    "✅「已記錄」請問可以加一個怪物的圖鑑嗎？": 1,
+    "V2.5.1.0 停服维护公告": 7,
+    "Hey,it's me!it's Tawiwity!": 2,
+    "Aurita doing the funny face (made by me)": 1,
+    "Hameln Live2D Animation": 1,
+    "V2.6.1 生人勿近┊You've Been Warned...┊외부인 접근 금지": 3,
+    "求助沙耶密契": 2,
+    "融災組隊": 10,
+    "Team building": 1,
+    "New player, team building and Origin of time use": 1,
+    "1548635830996828181": 1,
     "Balance problem in arc2": 1,
-    "Caraboo E3 is kind of lying?": 2,
-    "D-tide Discussion": 2,
-    "Impact of Version 2.6 Affinity Changes on Player Experience": 4,
     "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 1,
     "Please rework how Propagation Caro works for the future units": 1,
-    "V2.5.1.0 停服维护公告": 2,
     "On the D-Effect Zone Adjustments": 3,
-    "【English Translation】Opinions Collection": 1,
-    "V2.6.1 生人勿近┊You've Been Warned...┊외부인 접근 금지": 2
+    "【English Translation】Opinions Collection": 1
   },
   "hourly_activity": {
+    "3": 683,
+    "4": 332,
+    "5": 596,
+    "6": 318,
+    "7": 419,
+    "8": 412,
+    "9": 370,
+    "10": 690,
+    "11": 181,
     "0": 314,
     "1": 364,
-    "2": 418,
-    "3": 577
+    "2": 418
   },
   "message_types": {
-    "0": 1007,
-    "19": 661,
-    "20": 5
+    "0": 3329,
+    "19": 1747,
+    "20": 19,
+    "46": 1,
+    "21": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1548581653436301366",
+      "channel_id": "1170692781216378960",
+      "content": "OMFGGGGG <@193043069275209728>",
+      "author": "serahh__",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548554682736185376",
+      "channel_id": "1170692781216378960",
+      "content": "finally",
+      "author": "tnimreppep",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548602085774467075",
+      "channel_id": "1170692781216378960",
+      "content": "She must be good right?",
+      "author": "verdy_heh",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548589212293533756",
+      "channel_id": "1131839817982947429",
+      "content": "純海0牌350🤓 ☝️",
+      "author": "xianrenwurao",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548563613957095424",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "violettaautumn",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548541581584244737",
+      "channel_id": "1131839817982947429",
+      "content": "盲猜三周年回調數值",
+      "author": "vgvfvffcc",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548571659026300979",
+      "channel_id": "1131839817982947429",
+      "content": "一直忘記傳",
+      "author": "jinmenlianbanggongheguo",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548631563263156265",
+      "channel_id": "1170692781216378960",
+      "content": "Glotan execution next week",
+      "author": "bru0001",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1548500072386273291",
       "channel_id": "1170692781216378960",
@@ -71,6 +162,54 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1548552326296633476",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "cassidy_xue",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548555302079827992",
+      "channel_id": "1131839817982947429",
+      "content": "我叫你快生！",
+      "author": "arachnids_nacha",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548646135328145479",
+      "channel_id": "1131839817982947429",
+      "content": "我還想要...一輩子...忘卻前夜",
+      "author": "arr5721",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548546105543884850",
+      "channel_id": "1131839874132090890",
+      "content": "沃草450",
+      "author": "akkom730",
+      "reactions": 4,
+      "channel": "🔸阵容构建"
+    },
+    {
+      "id": "1548628425609191435",
+      "channel_id": "1131839874132090890",
+      "content": "不是不賴 而是沒有3啟只能看運氣投放在某些可以逃課的關卡裡",
+      "author": "0.0._.0_0.",
+      "reactions": 4,
+      "channel": "🔸阵容构建"
+    },
+    {
+      "id": "1548574657915920586",
+      "channel_id": "1170692781216378960",
+      "content": "let's threaten BIAV i missed the 250 pulls on saya's event",
+      "author": "siidore",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1548499815250526391",
       "channel_id": "1170692781216378960",
       "content": "teach what",
@@ -92,118 +231,6 @@
       "content": "i go sleep now i have to visit my parents tomorrow and rest my lungs for the 80 ",
       "author": "princess.goth",
       "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548504848956391495",
-      "channel_id": "1170692781216378960",
-      "content": "granted 100 of those are apolopulls but",
-      "author": "mosske",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548514459209703475",
-      "channel_id": "1131839817982947429",
-      "content": "我準備好了",
-      "author": "ahuahuahua",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548500578915590176",
-      "channel_id": "1170692781216378960",
-      "content": "*Your success !",
-      "author": "legendaryredz",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548500881677225984",
-      "channel_id": "1170692781216378960",
-      "content": "https://klipy.com/gifs/smolder-league-2",
-      "author": "serahh__",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548503216868565044",
-      "channel_id": "1170692781216378960",
-      "content": "Wow I can break my phone to along with my pc",
-      "author": "guava3442",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548505304344301599",
-      "channel_id": "1170692781216378960",
-      "content": "GNYMPHAEA AND MY SAVINGS ACCOUNT IS YOURS LIGHT",
-      "author": "mosske",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548506975732764703",
-      "channel_id": "1170692781216378960",
-      "content": "Biav, add a girl that looks like the Unknown from DBD",
-      "author": "azaenya",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548518581178728522",
-      "channel_id": "1170692781216378960",
-      "content": "I'm more of a hades player smh",
-      "author": "direhands",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548529895343398973",
-      "channel_id": "1170692781216378960",
-      "content": "i like hades 2 more so you should do that first :D",
-      "author": "direhands",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548533632493166623",
-      "channel_id": "1170692781216378960",
-      "content": "<:Horla_cry:1357186646294138890>",
-      "author": "polkarain",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548533864090312718",
-      "channel_id": "1170692781216378960",
-      "content": "my friend hit 23 and immediately started balding, this is true",
-      "author": "direhands",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548534495580258315",
-      "channel_id": "1170692781216378960",
-      "content": "my ex saw a thais ad once and was like \"hey isn't this that game you play\"",
-      "author": "direhands",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548535129519951943",
-      "channel_id": "1170692781216378960",
-      "content": "you could not pay me to be 22 again bro just hit me with a truck & isekai me at ",
-      "author": "mosske",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548535235363340359",
-      "channel_id": "1170692781216378960",
-      "content": "wait lowk thats me in 2 years will it be bad",
-      "author": "serahh__",
-      "reactions": 3,
       "channel": "🔸morimens-game-chat"
     }
   ]
