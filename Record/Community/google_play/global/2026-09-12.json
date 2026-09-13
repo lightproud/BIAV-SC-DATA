@@ -1,8 +1,8 @@
 {
   "date": "2026-09-12",
-  "archived_at": "2026-09-13T11:05:12.698358+00:00",
+  "archived_at": "2026-09-13T15:36:25.741068+00:00",
   "source": "google_play",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "[Google Play 好评] ★5 Simply one of the best games I've ever d",
@@ -71,6 +71,20 @@
       "author": "Leonel Torrez",
       "tags": [],
       "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 it's really good game try it once",
+      "summary": "it's really good game try it once",
+      "source": "google_play",
+      "time": "2026-09-12T14:07:15",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-7a1b25b1-6df7-43c7-a691-fed02f7963e0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Akash Kumar",
+      "tags": [],
+      "lang": "en",
       "platform_region": "",
       "region": "global"
     }

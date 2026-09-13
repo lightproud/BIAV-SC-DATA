@@ -1,8 +1,8 @@
 {
   "date": "2026-09-13",
-  "archived_at": "2026-09-13T11:05:12.628225+00:00",
+  "archived_at": "2026-09-13T15:36:25.695811+00:00",
   "source": "youtube",
-  "item_count": 13,
+  "item_count": 16,
   "items": [
     {
       "title": "FINALE of the worst D-Tide in Morimens HISTORY (...so far) - Madness 24",
@@ -107,6 +107,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "忘却前夜　ムシェット多次元接続",
+      "summary": "シャイニング☆トルネード！",
+      "source": "youtube",
+      "time": "2026-09-13T12:30:59Z",
+      "url": "https://www.youtube.com/watch?v=euv0Z3jrV0U",
+      "engagement": 26,
+      "is_hot": false,
+      "author": "海の怪物",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/euv0Z3jrV0U/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Directo relax Morimens.",
       "summary": "No olviden unirse al discord :). https://discord.gg/UgmMCae3Sg.",
       "source": "youtube",
@@ -136,6 +153,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/9KNWJHI7-jU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens - Arc2 Ch.6 last boss hard mode 2 turns clear - Unbreakable record",
+      "summary": "morimens If you want to watch in-game replay, here is the code. Investigation-Summit of Voided Wills Battle Replay Keeper: ...",
+      "source": "youtube",
+      "time": "2026-09-13T14:02:19Z",
+      "url": "https://www.youtube.com/watch?v=wr1-Saipot4",
+      "engagement": 7,
+      "is_hot": false,
+      "author": "TheExtinctioner",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/wr1-Saipot4/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -221,6 +255,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/5gGNXCGyy-I/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "『忘却前夜/対人戦』危惧していた復活からの解放…刃付き！『ゲーム実況』",
+      "summary": "『忘却前夜』オンラインプレイヤーとの対戦動画です！ 前回は初心者様向けの解説動画となっていましたが、今回はまた対人戦に ...",
+      "source": "youtube",
+      "time": "2026-09-13T14:15:18Z",
+      "url": "https://www.youtube.com/watch?v=e0iXybcKQug",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "薄めの『ゆゆ』",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/e0iXybcKQug/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

@@ -1,9 +1,26 @@
 {
   "date": "2026-09-13",
-  "archived_at": "2026-09-13T11:05:12.625547+00:00",
+  "archived_at": "2026-09-13T15:36:25.695196+00:00",
   "source": "bilibili",
-  "item_count": 6,
+  "item_count": 8,
   "items": [
+    {
+      "title": "【忘却淋夜】当你在嘲讽dot队的时候，dot队已经走上了融灾主线巅峰",
+      "summary": "淋系视频注意，内容纯属虚构，无恶意诋毁，不良引导，视频中所用语言皆为虚构和节目效果，无任何针对和低俗作用，请仔细了解淋的含义再决定是否观看\n对号入座前请仔细阅读文案\nBGM：織田かおり - 誓いの花束",
+      "source": "bilibili",
+      "time": "2026-09-13T13:59:03+00:00",
+      "url": "https://www.bilibili.com/video/av117264066021374",
+      "engagement": 261,
+      "is_hot": false,
+      "author": "花葉月",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/2e6915c8d1282a1fa3d7d17cc0e71f09b3d27547.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】3+0梦游蚀萝融灾禁区3-4",
       "summary": "有个超维回合刚好把蚀萝的梦游和觉醒蹲满",
@@ -36,6 +53,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/a5f608f851255e0788385d12989d47160605751a.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "神人榜：重置版",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-13T12:42:34+00:00",
+      "url": "https://www.bilibili.com/video/av117263764164134",
+      "engagement": 86,
+      "is_hot": false,
+      "author": "密斯卡托尼克的银猫",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/6db8d11826d08c53333f377989b8ff5fcac14418.jpg",
       "content_type": "video"
     },
     {

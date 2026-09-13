@@ -1,9 +1,23 @@
 {
   "date": "2026-09-12",
-  "archived_at": "2026-09-13T11:05:12.799666+00:00",
+  "archived_at": "2026-09-13T15:36:25.748165+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
+    {
+      "title": "[Google Play 好评] ★5 ホンマにクラッシュ直して、問い合わせても意味無い",
+      "summary": "ホンマにクラッシュ直して、問い合わせても意味無い",
+      "source": "google_play",
+      "time": "2026-09-12T13:23:04",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-4e621772-472a-467e-8f18-753ab1794dcb",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Process Process",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "",
+      "region": "jp"
+    },
     {
       "title": "[Google Play 好评] ★5 ドールさんとアイギスちゃんに惹かれて始めましたがクレメンタイン先生が超可愛いです",
       "summary": "ドールさんとアイギスちゃんに惹かれて始めましたがクレメンタイン先生が超可愛いです！！！バトルシステムも2、3回すれば慣れて簡単になりました！",
