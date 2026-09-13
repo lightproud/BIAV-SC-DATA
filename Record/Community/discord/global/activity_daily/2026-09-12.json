@@ -1,30 +1,31 @@
 {
   "date": "2026-09-12",
-  "messages": 17766,
+  "messages": 18030,
   "unique_authors": 251,
-  "reactions_total": 1444,
-  "attachments": 794,
+  "reactions_total": 1492,
+  "attachments": 816,
   "channel_activity": {
+    "🔸morimens-game-chat": 9333,
+    "🔸课间休息闲聊": 11,
+    "🔸한국어-채팅방": 53,
+    "🔸phòng-chat-tiếng-việt": 578,
+    "🔸canal-español": 298,
+    "🔸ruang-obrolan-indonesia": 626,
+    "🔸traphase": 41,
+    "🔸team-building": 650,
+    "🔸game-question": 3279,
+    "🔸机器人命令┊bot-commands": 38,
+    "Entering the game": 8,
+    "Pls give out origin of time for limited awakener & wheels": 4,
     "🔸綜合討論": 842,
-    "🔸morimens-game-chat": 9159,
-    "🔸한국어-채팅방": 52,
     "🔸chaîne-française": 31,
     "🔸русский-канал": 288,
-    "🔸canal-español": 293,
     "🔸canal-português": 552,
-    "🔸traphase": 32,
-    "🔸team-building": 646,
     "🔸general-chat": 614,
-    "🔸game-question": 3227,
-    "🔸机器人命令┊bot-commands": 36,
-    "Entering the game": 6,
     "Suggestion For A Better Madness Mechanic": 2,
     "Alternate realms Enhancement": 8,
-    "Pls give out origin of time for limited awakener & wheels": 3,
     "Hey,it's me!it's Tawiwity!": 1,
     "Keeper OC's 1st year anniversary in Morimens fancomic [Salvador x OC]": 15,
-    "🔸phòng-chat-tiếng-việt": 577,
-    "🔸ruang-obrolan-indonesia": 623,
     "🔸ห้องสนทนาภาษาไทย": 111,
     "🔸lore-chat": 326,
     "🔸邀请码互助┊swap-invitation-codes": 10,
@@ -69,7 +70,6 @@
     "入坑一週": 2,
     "Team Building + Pulling Advice": 3,
     "caraboo is honestly quite incredible": 1,
-    "🔸课间休息闲聊": 1,
     "🔸忘却前夜┊morimens-tv": 1,
     "✅「已記錄」還我1000銀": 1,
     "✅「已回答」建議列車的隨機初始受祝造物和專屬造物改為自選": 1,
@@ -82,9 +82,10 @@
     "1548144487807582238": 1
   },
   "hourly_activity": {
+    "22": 500,
+    "23": 232,
     "20": 912,
     "21": 415,
-    "22": 468,
     "15": 1093,
     "16": 824,
     "17": 569,
@@ -107,12 +108,20 @@
     "2": 340
   },
   "message_types": {
-    "19": 5732,
-    "0": 12003,
-    "20": 30,
+    "19": 5809,
+    "0": 12188,
+    "20": 32,
     "21": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1548467106205540424",
+      "channel_id": "1170692781216378960",
+      "content": "And why am i waking up to a 6 7",
+      "author": "2ndselna",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1548321810381148212",
       "channel_id": "1170692781216378960",
@@ -264,14 +273,6 @@
       "author": "blackdonut5182",
       "reactions": 6,
       "channel": "What are you going to do, Light?"
-    },
-    {
-      "id": "1548229186076811314",
-      "channel_id": "1548229186076811314",
-      "content": "※ Fan Interpretation, do not treat this as canon\n※ Yumeshipping lens\n\nSeptember ",
-      "author": "sofiaebby",
-      "reactions": 6,
-      "channel": "Keeper OC's 1st year anniversary in Morimens fancomic [Salvador x OC]"
     }
   ]
 }

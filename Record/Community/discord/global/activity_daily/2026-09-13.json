@@ -1,0 +1,210 @@
+{
+  "date": "2026-09-13",
+  "messages": 1673,
+  "unique_authors": 131,
+  "reactions_total": 225,
+  "attachments": 73,
+  "channel_activity": {
+    "🔸綜合討論": 37,
+    "🔸阵容构建": 24,
+    "🔸morimens-game-chat": 1203,
+    "🔸课间休息闲聊": 44,
+    "🔸한국어-채팅방": 3,
+    "🔸русский-канал": 9,
+    "🔸phòng-chat-tiếng-việt": 6,
+    "🔸canal-español": 33,
+    "🔸canal-português": 3,
+    "🔸ruang-obrolan-indonesia": 55,
+    "🔸traphase": 2,
+    "🔸lore-chat": 4,
+    "🔸team-building": 27,
+    "🔸general-chat": 37,
+    "🔸邀请码互助┊swap-invitation-codes": 1,
+    "🔸game-question": 159,
+    "🔸机器人命令┊bot-commands": 6,
+    "可能是bug": 1,
+    "Balance problem in arc2": 1,
+    "Caraboo E3 is kind of lying?": 2,
+    "D-tide Discussion": 2,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 4,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 1,
+    "Please rework how Propagation Caro works for the future units": 1,
+    "V2.5.1.0 停服维护公告": 2,
+    "On the D-Effect Zone Adjustments": 3,
+    "【English Translation】Opinions Collection": 1,
+    "V2.6.1 生人勿近┊You've Been Warned...┊외부인 접근 금지": 2
+  },
+  "hourly_activity": {
+    "0": 314,
+    "1": 364,
+    "2": 418,
+    "3": 577
+  },
+  "message_types": {
+    "0": 1007,
+    "19": 661,
+    "20": 5
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1548500072386273291",
+      "channel_id": "1170692781216378960",
+      "content": "ellie if u stream do text to speech donations so i can send u fun things",
+      "author": "serahh__",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548502943530094663",
+      "channel_id": "1170692781216378960",
+      "content": "and plays wild rift",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548507095593394267",
+      "channel_id": "1170692781216378960",
+      "content": "Self love",
+      "author": "quirk6009",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548499815250526391",
+      "channel_id": "1170692781216378960",
+      "content": "teach what",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548500305967321190",
+      "channel_id": "1170692781216378960",
+      "content": "and the kindest staff",
+      "author": "tawil.3ami9",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548501539847409757",
+      "channel_id": "1170692781216378960",
+      "content": "i go sleep now i have to visit my parents tomorrow and rest my lungs for the 80 ",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548504848956391495",
+      "channel_id": "1170692781216378960",
+      "content": "granted 100 of those are apolopulls but",
+      "author": "mosske",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548514459209703475",
+      "channel_id": "1131839817982947429",
+      "content": "我準備好了",
+      "author": "ahuahuahua",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548500578915590176",
+      "channel_id": "1170692781216378960",
+      "content": "*Your success !",
+      "author": "legendaryredz",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548500881677225984",
+      "channel_id": "1170692781216378960",
+      "content": "https://klipy.com/gifs/smolder-league-2",
+      "author": "serahh__",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548503216868565044",
+      "channel_id": "1170692781216378960",
+      "content": "Wow I can break my phone to along with my pc",
+      "author": "guava3442",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548505304344301599",
+      "channel_id": "1170692781216378960",
+      "content": "GNYMPHAEA AND MY SAVINGS ACCOUNT IS YOURS LIGHT",
+      "author": "mosske",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548506975732764703",
+      "channel_id": "1170692781216378960",
+      "content": "Biav, add a girl that looks like the Unknown from DBD",
+      "author": "azaenya",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548518581178728522",
+      "channel_id": "1170692781216378960",
+      "content": "I'm more of a hades player smh",
+      "author": "direhands",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548529895343398973",
+      "channel_id": "1170692781216378960",
+      "content": "i like hades 2 more so you should do that first :D",
+      "author": "direhands",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548533632493166623",
+      "channel_id": "1170692781216378960",
+      "content": "<:Horla_cry:1357186646294138890>",
+      "author": "polkarain",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548533864090312718",
+      "channel_id": "1170692781216378960",
+      "content": "my friend hit 23 and immediately started balding, this is true",
+      "author": "direhands",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548534495580258315",
+      "channel_id": "1170692781216378960",
+      "content": "my ex saw a thais ad once and was like \"hey isn't this that game you play\"",
+      "author": "direhands",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548535129519951943",
+      "channel_id": "1170692781216378960",
+      "content": "you could not pay me to be 22 again bro just hit me with a truck & isekai me at ",
+      "author": "mosske",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548535235363340359",
+      "channel_id": "1170692781216378960",
+      "content": "wait lowk thats me in 2 years will it be bad",
+      "author": "serahh__",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
