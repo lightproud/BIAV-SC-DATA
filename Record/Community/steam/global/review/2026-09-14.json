@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-14",
+  "archived_at": "2026-09-13T20:18:31.908155+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[负面] Devs got veeery greedy. To the point even whales o...",
+      "summary": "Devs got veeery greedy. To the point even whales on CN complain and quit.\nSo while game itself nice. And I would say stroy is worth playing. I would advise against any spending in the game.\nIf you trying it out. I would say treat it as filer game.",
+      "source": "steam_review",
+      "time": "2026-09-13T18:22:18+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198065077430/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198065077430",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 3521,
+        "votes_up": 0,
+        "timestamp_created": 1789323738
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
