@@ -1,9 +1,26 @@
 {
   "date": "2026-09-13",
-  "archived_at": "2026-09-12T22:50:59.754954+00:00",
+  "archived_at": "2026-09-13T03:05:02.195823+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 5,
   "items": [
+    {
+      "title": "［忘却前夜］偷吃把以后绝版的神父逃课~",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-12T17:55:54+00:00",
+      "url": "https://www.bilibili.com/video/av117259351627545",
+      "engagement": 121,
+      "is_hot": false,
+      "author": "耳背的梨子",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/a5f608f851255e0788385d12989d47160605751a.jpg",
+      "content_type": "video"
+    },
     {
       "title": "［忘却前夜］鏖战5h20min……70级24携朵砍穿癫狂4-7。亿万世界线中寻找唯一的答案，感谢大家的陪伴。",
       "summary": "",
@@ -36,6 +53,40 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/db6809756e353ff574afdb00600636ed74c3b6d6.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "低配塔薇依然是上限最高的角色",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-13T02:18:51+00:00",
+      "url": "https://www.bilibili.com/video/av117261314558718",
+      "engagement": 12,
+      "is_hot": false,
+      "author": "CreScent知式",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/602b956b0fcf3c7c03d9788fb426f7155f76a18c.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "525时期，角色和命轮榜单（525榜）",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-13T03:01:51+00:00",
+      "url": "https://www.bilibili.com/video/av117261482332662",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "路过的耄耋",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/18240d0db5894b2eaf765e51eabd76e16934f63d.jpg",
       "content_type": "video"
     }
   ]

@@ -1,8 +1,8 @@
 {
   "date": "2026-09-13",
-  "archived_at": "2026-09-12T22:50:59.820065+00:00",
+  "archived_at": "2026-09-13T03:05:02.236992+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[负面] the story and art is good. Everything else is terr...",
@@ -46,6 +46,29 @@
         "playtime_forever": 6781,
         "votes_up": 0,
         "timestamp_created": 1789228944
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Очень приятная игра. Единственный минус перевода —...",
+      "summary": "Очень приятная игра. Единственный минус перевода — часто путается род в словах. Женские персонажи говорят в мужском роде и наоборот. Но это не критично. Гача система приятная, я бы даже сказал щедрая. История достаточно интересная. Так же мне очень нравится механика боя. В целом, похоже на Reverse 1999 (или как та игра называется, могу неправильно сказать), но эта мне понравилась гораздо больше. Ту игру уже удалил, пока в эту играю, когда есть время.",
+      "source": "steam_review",
+      "time": "2026-09-12T23:52:21+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199877930836/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199877930836",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 556,
+        "votes_up": 0,
+        "timestamp_created": 1789257141
       },
       "region": "global",
       "archive_subtype": "review"

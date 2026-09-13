@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-12",
+  "archived_at": "2026-09-13T03:05:02.301990+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 差评] ★1 It pains me to not be able to wholeheart",
+      "summary": "It pains me to not be able to wholeheartedly recommend Morimens anymore. They have been driving the game to a more p2w direction for months then hit their peak anti-consumer change with the most recent update. Devs killed player agency and team diversity in a single braindead patch that brought 5 to 10x number to the main endgame content which turned most units obsolete overnight. How they have been handling the aftermath has been nothing but disappointment.",
+      "source": "google_play",
+      "time": "2026-09-11T23:58:46",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-73a47bf1-7be9-4f0a-9983-37c6df86f9da",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Helleios TV",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 Realmente es uno de esos gacha que valen",
+      "summary": "Realmente es uno de esos gacha que valen la pena. Tiene una historia interesante y apesar de que la traducción esta en fase beta, se agradece que estén traduciendolo. Ojalá sigan mejorando",
+      "source": "google_play",
+      "time": "2026-09-12T02:49:25",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-03ecec5e-5cc8-4b69-86c9-35420ee8ad28",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Luis Pantoja",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}
