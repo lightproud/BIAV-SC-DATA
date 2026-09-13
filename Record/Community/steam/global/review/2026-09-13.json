@@ -1,8 +1,8 @@
 {
   "date": "2026-09-13",
-  "archived_at": "2026-09-13T03:05:02.236992+00:00",
+  "archived_at": "2026-09-13T11:05:12.690706+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 6,
   "items": [
     {
       "title": "[负面] the story and art is good. Everything else is terr...",
@@ -69,6 +69,75 @@
         "playtime_forever": 556,
         "votes_up": 0,
         "timestamp_created": 1789257141
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] bon jeu mais tout le monde est en train de quitter...",
+      "summary": "bon jeu mais tout le monde est en train de quitter parceque les devs font n'importe quoi \namuse toi  mais ne depense pas ton  argent car au rythme ou ca va le jeu va eos",
+      "source": "steam_review",
+      "time": "2026-09-13T08:29:16+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198077770522/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198077770522",
+      "tags": [
+        "french"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 36,
+        "votes_up": 0,
+        "timestamp_created": 1789288156
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 不是，为什么一直给我推这个。一开始以为是哪家良心单机卡牌rouge，结果玩了40分钟发现是个手游？...",
+      "summary": "不是，为什么一直给我推这个。一开始以为是哪家良心单机卡牌rouge，结果玩了40分钟发现是个手游？\n建议steam直接上架一个手游标签，太夸张了",
+      "source": "steam_review",
+      "time": "2026-09-13T08:08:49+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198081386427/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198081386427",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 36,
+        "votes_up": 0,
+        "timestamp_created": 1789286929
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] the most devoted players and highest spenders are...",
+      "summary": "the most devoted players and highest spenders are refusing to spend money on this game or outright quitting the game currently because the developers made a very unpopular update and seem to be refusing to listen to feedback and outright lying to players faces. I cannot recommend spending on this gacha game in its current state or getting invested in it because I have my doubts that the game will still exist at the end of the year. I am willing to revert my review if things change, I really did like this games story.",
+      "source": "steam_review",
+      "time": "2026-09-13T05:51:23+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198236847472/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198236847472",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 2045,
+        "votes_up": 0,
+        "timestamp_created": 1789278683
       },
       "region": "global",
       "archive_subtype": "review"

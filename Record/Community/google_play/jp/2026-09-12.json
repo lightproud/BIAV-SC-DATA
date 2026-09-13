@@ -1,8 +1,8 @@
 {
   "date": "2026-09-12",
-  "archived_at": "2026-09-13T03:05:02.315006+00:00",
+  "archived_at": "2026-09-13T11:05:12.799666+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 ドールさんとアイギスちゃんに惹かれて始めましたがクレメンタイン先生が超可愛いです",
@@ -13,6 +13,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Y Y",
+      "tags": [],
+      "lang": "ja",
+      "platform_region": "",
+      "region": "jp"
+    },
+    {
+      "title": "[Google Play 好评] ★5 めちゃくちゃ面白いです。スレスパ好きな方なら多分 みんなハマると思います。今まで",
+      "summary": "めちゃくちゃ面白いです。スレスパ好きな方なら多分 みんなハマると思います。今まで知らなかったことを少し後悔しているレベル。ただキャラごとの使いやすさにはだいぶ 差がある気がします。特に毒とか反撃とかだいぶ空気。恒常キャラですらお膳立て すれば2万から3万のダメージを出せるキャラがいる一方、毒とか反撃とかは苦労して盛っても1000がいいところでストーリーノーマルの後半ですら使い物になりません。これらはせめてステージ 中はずっと 保持でもいい気がする。結構調整が入るゲームみたいなのでこの辺りのバフを期待しています。とにかく久しぶりにハマれました。長く続いて欲しいです",
+      "source": "google_play",
+      "time": "2026-09-12T08:31:56",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.altplus.boukyakuzenya&hl=ja#gp-09734f6e-e59d-487d-ba80-8b0a0b9ba2ca",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Kazu",
       "tags": [],
       "lang": "ja",
       "platform_region": "",

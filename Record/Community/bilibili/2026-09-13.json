@@ -1,9 +1,26 @@
 {
   "date": "2026-09-13",
-  "archived_at": "2026-09-13T03:05:02.195823+00:00",
+  "archived_at": "2026-09-13T11:05:12.625547+00:00",
   "source": "bilibili",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
+    {
+      "title": "【忘却前夜】3+0梦游蚀萝融灾禁区3-4",
+      "summary": "有个超维回合刚好把蚀萝的梦游和觉醒蹲满",
+      "source": "bilibili",
+      "time": "2026-09-13T09:13:07+00:00",
+      "url": "https://www.bilibili.com/video/av117262941953517",
+      "engagement": 164,
+      "is_hot": false,
+      "author": "朝星-",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/8c749c0530a11ed77c17c77486cbeafe6ebb1386.jpg",
+      "content_type": "video"
+    },
     {
       "title": "［忘却前夜］偷吃把以后绝版的神父逃课~",
       "summary": "",
