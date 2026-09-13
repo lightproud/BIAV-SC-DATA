@@ -1,8 +1,8 @@
 {
   "date": "2026-09-14",
-  "archived_at": "2026-09-13T20:18:31.903381+00:00",
+  "archived_at": "2026-09-13T22:52:23.343093+00:00",
   "source": "reddit",
-  "item_count": 3,
+  "item_count": 5,
   "items": [
     {
       "title": "xu from the hit game morimens by me",
@@ -39,6 +39,32 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/Kyertto",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Murphy: Fauxborn by @Kyorenagi_ovo",
+      "summary": "&#32; submitted by &#32;  /u/OneThanks3   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-13T22:31:14+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wflt9l/murphy_fauxborn_by_kyorenagi_ovo/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/OneThanks3",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Liz",
+      "summary": "This was mostly a study of Morimens style, but also just me wanting to draw Liz because I really like Liz.  &#32; submitted by &#32;  /u/Plus2M   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-13T21:03:07+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wfjne6/liz/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Plus2M",
       "tags": [],
       "lang": "en",
       "platform_region": ""

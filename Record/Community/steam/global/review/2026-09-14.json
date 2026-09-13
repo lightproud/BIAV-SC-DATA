@@ -1,8 +1,8 @@
 {
   "date": "2026-09-14",
-  "archived_at": "2026-09-13T20:18:31.908155+00:00",
+  "archived_at": "2026-09-13T22:52:23.348249+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[负面] Devs got veeery greedy. To the point even whales o...",
@@ -23,6 +23,29 @@
         "playtime_forever": 3521,
         "votes_up": 0,
         "timestamp_created": 1789323738
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] I Enjoy the art style and story a lot",
+      "summary": "I Enjoy the art style and story a lot",
+      "source": "steam_review",
+      "time": "2026-09-13T19:38:29+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198659965970/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198659965970",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 146,
+        "votes_up": 0,
+        "timestamp_created": 1789328309
       },
       "region": "global",
       "archive_subtype": "review"
