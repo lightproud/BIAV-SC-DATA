@@ -1,8 +1,8 @@
 {
   "date": "2026-09-14",
-  "archived_at": "2026-09-13T22:52:23.348249+00:00",
+  "archived_at": "2026-09-14T03:18:53.772002+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 5,
   "items": [
     {
       "title": "[负面] Devs got veeery greedy. To the point even whales o...",
@@ -46,6 +46,75 @@
         "playtime_forever": 146,
         "votes_up": 0,
         "timestamp_created": 1789328309
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] unfortunately story is flimsy and combat lacks dep...",
+      "summary": "unfortunately story is flimsy and combat lacks depth, currently suffering HP inflation in endgame and a character released one patch ago is already mostly dead in the meta. But it has good character designs so...",
+      "source": "steam_review",
+      "time": "2026-09-14T01:38:54+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199856339414/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199856339414",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 9857,
+        "votes_up": 0,
+        "timestamp_created": 1789349934
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] f2p is cooked ngl",
+      "summary": "f2p is cooked ngl",
+      "source": "steam_review",
+      "time": "2026-09-14T00:23:17+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199434708735/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199434708735",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 33873,
+        "votes_up": 0,
+        "timestamp_created": 1789345397
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Buena historia, hermosos graficos y una dificultad...",
+      "summary": "Buena historia, hermosos graficos y una dificultad que va creciendo, donde hay que pensar un poco.",
+      "source": "steam_review",
+      "time": "2026-09-14T00:08:37+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199009941774/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199009941774",
+      "tags": [
+        "spanish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2378,
+        "votes_up": 0,
+        "timestamp_created": 1789344517
       },
       "region": "global",
       "archive_subtype": "review"
