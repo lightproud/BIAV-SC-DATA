@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-14",
+  "messages": 2768,
+  "unique_authors": 208,
+  "reactions_total": 387,
+  "attachments": 154,
+  "channel_activity": {
+    "🔸綜合討論": 267,
+    "🔸阵容构建": 7,
+    "🔸morimens-game-chat": 1433,
+    "🔸课间休息闲聊": 7,
+    "🔸한국어-채팅방": 5,
+    "🔸русский-канал": 104,
+    "🔸phòng-chat-tiếng-việt": 72,
+    "🔸canal-español": 10,
+    "🔸canal-português": 194,
+    "🔸ruang-obrolan-indonesia": 163,
+    "🔸ห้องสนทนาภาษาไทย": 23,
+    "🔸traphase": 3,
+    "🔸lore-chat": 8,
+    "🔸team-building": 32,
+    "🔸general-chat": 12,
+    "🔸game-question": 282,
+    "🔸游戏问题": 63,
+    "🔸机器人命令┊bot-commands": 11,
+    "破誓．奧吉爾✦喚醒體&命輪介紹": 1,
+    "我重生了，重生到忘卻前夜宣布關服的那天【多人接力抽象文】": 1,
+    "第一次有了玩你游很无聊，有种是在浪费时间的感觉": 2,
+    "Can't play the game (Crashing)": 1,
+    "Balance problem in arc2": 1,
+    "Please think about Jenkins": 4,
+    "D-tide Discussion": 11,
+    "🥲未解锁造物（？）能不能有详细的位置指引或者保留一下剪影": 2,
+    "V2.5.1.0 停服维护公告": 2,
+    "On the D-Effect Zone Adjustments": 31,
+    "Here’s a new 2 character for morimen ( fan made )": 2,
+    "Thais Male": 6,
+    "Ramona Dreamy vacation cosplay/adventure": 5,
+    "🏆 忘却前夜第5届塔薇杯┊The 5th Tawil Cup of Morimens": 1,
+    "【Newcomer Help】Forum Introduction": 2
+  },
+  "hourly_activity": {
+    "0": 495,
+    "1": 939,
+    "2": 684,
+    "3": 649,
+    "4": 1
+  },
+  "message_types": {
+    "0": 1944,
+    "19": 815,
+    "20": 9
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1548865484672208927",
+      "channel_id": "1170692781216378960",
+      "content": "yes I cheesed 10 madness in 18 minutes and have to say its super easy and we’re ",
+      "author": "bagels5899",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548893043279527999",
+      "channel_id": "1131839817982947429",
+      "content": "？为什么我的箭头特别多",
+      "author": "ling_an_",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548878111654027274",
+      "channel_id": "1170692781216378960",
+      "content": "Type shii (just from standard banner)",
+      "author": "alitidur57",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548862929061810217",
+      "channel_id": "1131839817982947429",
+      "content": "癫狂5落地战<:Brown_think:1459080117308620996>",
+      "author": "ling_an_",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548892945116037144",
+      "channel_id": "1131839817982947429",
+      "content": "一堆m在拼450 525\n誰愛打誰打",
+      "author": "ling_an_",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548873072520593438",
+      "channel_id": "1131839817982947429",
+      "content": "~~故意賭輸的可能性~~",
+      "author": "foxcatfurry",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548873150354423980",
+      "channel_id": "1131839817982947429",
+      "content": "詭計多端的0",
+      "author": "ahuahuahua",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548872623621021847",
+      "channel_id": "1131839817982947429",
+      "content": "我要幫所有人口了",
+      "author": "yi000607",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548893117216858224",
+      "channel_id": "1131839817982947429",
+      "content": "一哥被家裡人拉去上班了",
+      "author": "flora3347",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548893538270445642",
+      "channel_id": "1131839817982947429",
+      "content": "這期450還挺好打<:Brown_think:1459080117308620996>",
+      "author": "iulargerthan3",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548846190550847500",
+      "channel_id": "1170692781216378960",
+      "content": "EOS EVERYDAY",
+      "author": "noreadjustwhale",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548857195838443676",
+      "channel_id": "1170692781216378960",
+      "content": "show a W5 Madness with full lv1 no wheels no posse no DR no turn rewind for the ",
+      "author": "bagels5899",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548860133902393374",
+      "channel_id": "1170692781216378960",
+      "content": "actual footage of light sentencing me and all of the other poor unfortunates to ",
+      "author": "reya.li",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548875697119035513",
+      "channel_id": "1131839817982947429",
+      "content": "測試測試，我人在醫院地下室我訊息有發出來嗎",
+      "author": "ena04564",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548878788933189634",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "ahong0727",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548892825842876427",
+      "channel_id": "1131839817982947429",
+      "content": "群佬除我",
+      "author": "ahuahuahua",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548892981354958879",
+      "channel_id": "1131839817982947429",
+      "content": "一堆m在拼450 525\n誰愛打誰打",
+      "author": "fon_tain",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548893248444047412",
+      "channel_id": "1131839817982947429",
+      "content": "我也在上班啊<:Jenkin_processing:1468259790168789075>",
+      "author": "cs001092",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548894074059366501",
+      "channel_id": "1131839817982947429",
+      "content": "上期打了515……實在沒隊伍打第二個四關和五關了…",
+      "author": "flora3347",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548861936786210987",
+      "channel_id": "1170692781216378960",
+      "content": "a good wave for alva main damage!!! d-tide is good actually <:Fkeeper_flop:13560",
+      "author": "reya.li",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
