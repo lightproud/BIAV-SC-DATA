@@ -4617,7 +4617,7 @@
     "type": "text",
     "parent_id": "1440851754311749733",
     "dir": "18897438",
-    "status": "active"
+    "status": "offline"
   },
   "1543281563205238865": {
     "name": "chimorph",
@@ -4631,6 +4631,6 @@
     "type": "text",
     "parent_id": "1440851754311749733",
     "dir": "22586656",
-    "status": "active"
+    "status": "offline"
   }
 }

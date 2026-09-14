@@ -1,6 +1,6 @@
 {
   "guild_id": "1131791637933199470",
-  "updated_at": "2026-09-14T13:14:14.552220+00:00",
+  "updated_at": "2026-09-14T19:45:27.224643+00:00",
   "channels": [
     {
       "id": "1131791637933199471",
@@ -1283,28 +1283,12 @@
       "topic": ""
     },
     {
-      "id": "1543228122218897438",
-      "name": "haps",
-      "type": 0,
-      "parent_id": "1440851754311749733",
-      "position": 143,
-      "topic": "ModMail Channel 265494179222650891 1482466137240244305 (Please do not change this)"
-    },
-    {
       "id": "1543281563205238865",
       "name": "chimorph",
       "type": 0,
       "parent_id": "1440851754311749733",
       "position": 144,
       "topic": "ModMail Channel 280361229069975553 1507914915757953136 (Please do not change this)"
-    },
-    {
-      "id": "1548283513122586656",
-      "name": "nothin339",
-      "type": 0,
-      "parent_id": "1440851754311749733",
-      "position": 145,
-      "topic": "ModMail Channel 1143216460404113580 1548283033814048828 (Please do not change this)"
     }
   ]
 }
