@@ -1,8 +1,8 @@
 {
   "date": "2026-09-14",
-  "archived_at": "2026-09-14T11:46:20.825422+00:00",
+  "archived_at": "2026-09-14T17:40:20.218735+00:00",
   "source": "steam",
-  "item_count": 9,
+  "item_count": 13,
   "items": [
     {
       "title": "[负面] I adore this game, the story and gameplay, but I c...",
@@ -23,6 +23,29 @@
         "playtime_forever": 30547,
         "votes_up": 2,
         "timestamp_created": 1789374037
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] The direction the developers have taken this game...",
+      "summary": "The direction the developers have taken this game in regards to player retention and the endgame are laughable, even going so far as to send you hush money just so that their changes to the end game or lack thereof can be seen as \"positive\" when it isn't. \r\nIf you must play this game, play it to experience the story if anything. \r\nI'm wiling to change my review if the game receives meaningful changes but.. I am not hopeful.",
+      "source": "steam_review",
+      "time": "2026-09-14T11:13:09+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198052848673/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198052848673",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 17688,
+        "votes_up": 1,
+        "timestamp_created": 1789384389
       },
       "region": "global",
       "archive_subtype": "review"
@@ -207,6 +230,75 @@
         "playtime_forever": 690,
         "votes_up": 0,
         "timestamp_created": 1789373033
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Game is good, and sure we have problems here and t...",
+      "summary": "Game is good, and sure we have problems here and there, but I won't let it die just because of ONE bad d-tide patch.",
+      "source": "steam_review",
+      "time": "2026-09-14T12:50:18+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198015927696/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198015927696",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 13694,
+        "votes_up": 0,
+        "timestamp_created": 1789390218
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] И так. Наиграл 155 часов! Я пробовал многие донатк...",
+      "summary": "И так. Наиграл 155 часов! Я пробовал многие донатки и мало какая смогла увлечь хотя бы часов на 20, что лично для меня показатель( да и не ток донатки, мало че держит больше 10 часов). Сюжет, оч неплох, лор прописан интересно, но больше меня затянуло пвп, да разобраться че как играть не просто, много статусов, параметров и условностей, продраться сквозь все это судя по всему дано не каждому, но коли осилить, становиться интересно, да в чем то игра кривая и косая, но ее плюсы с лихвой это компенсируют. Скрепя сердце ставлю 8 баллов из 10.\nП.с. типы которые наиграли 2 часа и написали негативный отзыв, вы для меня загадка.",
+      "source": "steam_review",
+      "time": "2026-09-14T12:34:27+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198001470165/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198001470165",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 9332,
+        "votes_up": 0,
+        "timestamp_created": 1789389267
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 好玩",
+      "summary": "好玩",
+      "source": "steam_review",
+      "time": "2026-09-14T12:19:37+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199148071539/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199148071539",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2071,
+        "votes_up": 0,
+        "timestamp_created": 1789388377
       },
       "region": "global",
       "archive_subtype": "review"

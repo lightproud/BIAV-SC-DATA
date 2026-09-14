@@ -1,8 +1,8 @@
 {
   "date": "2026-09-13",
-  "archived_at": "2026-09-14T11:46:20.917016+00:00",
+  "archived_at": "2026-09-14T17:40:20.359415+00:00",
   "source": "google_play",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
     {
       "title": "[Google Play 好评] ★5 Seriously difficulty to play with resour",
@@ -71,6 +71,34 @@
       "author": "Safeea Alesha",
       "tags": [],
       "lang": "id",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 The developer team of this game updated",
+      "summary": "The developer team of this game updated the game to the point that any players were unable to play the game anymore. Highly not recommended for new players, the developer team also were highly incompetent too.",
+      "source": "google_play",
+      "time": "2026-09-13T14:10:07",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-c1abef9a-a804-4377-80c9-ec1c11e5ed14",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Chan Chi Shen",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 counter is fun, please add more counter",
+      "summary": "counter is fun, please add more counter awakeners",
+      "source": "google_play",
+      "time": "2026-09-13T15:32:49",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-8b12073e-b528-4bc8-b1d7-eacce83fd27d",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ivan Loh",
+      "tags": [],
+      "lang": "en",
       "platform_region": "",
       "region": "global"
     }

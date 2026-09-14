@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-15",
+  "archived_at": "2026-09-14T17:40:20.205911+00:00",
+  "source": "youtube",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "【忘却前夜】星辰編　変身　２－１４から【ローグライクで遊ぼうの会】",
+      "summary": "忘却前夜 #忘却前夜Steam版 流れ変わって、クレメンタインがめっちゃ気になってきている 提供：株式会社オルトプラス.",
+      "source": "youtube",
+      "time": "2026-09-14T17:02:59Z",
+      "url": "https://www.youtube.com/watch?v=m62ncrwY6ho",
+      "engagement": 52,
+      "is_hot": false,
+      "author": "朝霧@ASGRgames",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/m62ncrwY6ho/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Ngetes Caraboo E0 di Arcade Hard 2-6/6 [ Morimens ]",
+      "summary": "Lotan E3 Saya E3 Caraboo E0 Mouchette E3+12 (Support) Banyak Miss Play nya ini #morimens.",
+      "source": "youtube",
+      "time": "2026-09-14T16:50:12Z",
+      "url": "https://www.youtube.com/watch?v=m4tJ4p7FOAI",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Sir Dexeroya",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/m4tJ4p7FOAI/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "video"
+}

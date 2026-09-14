@@ -1,8 +1,8 @@
 {
   "date": "2026-09-14",
-  "archived_at": "2026-09-14T11:46:20.785130+00:00",
+  "archived_at": "2026-09-14T17:40:20.206336+00:00",
   "source": "bahamut",
-  "item_count": 27,
+  "item_count": 28,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -349,6 +349,19 @@
       "time": "2026-09-13T20:17:41.445885+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1557&tnum=1",
       "engagement": 3,
+      "is_hot": false,
+      "author": "jack01212537",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【日服】【情報】克珀珊特 技能卡、命輪和鑰令",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-13T17:39:22.795487+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1574&tnum=1",
+      "engagement": 2,
       "is_hot": false,
       "author": "jack01212537",
       "tags": [],
