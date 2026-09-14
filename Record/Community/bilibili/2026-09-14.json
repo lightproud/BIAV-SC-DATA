@@ -1,9 +1,26 @@
 {
   "date": "2026-09-14",
-  "archived_at": "2026-09-14T03:18:53.551932+00:00",
+  "archived_at": "2026-09-14T11:46:20.784223+00:00",
   "source": "bilibili",
-  "item_count": 3,
+  "item_count": 8,
   "items": [
+    {
+      "title": "【忘却前夜】大鲸鱼来咯",
+      "summary": "余烬每回合15%，三个超限一个六翼刚好杀了",
+      "source": "bilibili",
+      "time": "2026-09-14T06:07:47+00:00",
+      "url": "https://www.bilibili.com/video/av117267891231265",
+      "engagement": 444,
+      "is_hot": false,
+      "author": "朝星-",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/0b534d75ed09d0a298ec7beb2b3ab88f273ac5ca.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】9.14容灾攻略",
       "summary": "",
@@ -19,6 +36,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/a940d4d92ca05ea7cf016d5d2d70fe01c7b9b13d.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "庞凯徐卡5-7癫狂鸟弟，8%死扛依旧打榜，鸟弟25回合3026*2吓哭了",
+      "summary": "超25回合回放限制了，但是大差不差，鸟弟输出暴力不少，后期每一回合都在追求活着，且段数太少反击出伤效率太低，没有徐女士的斩杀根本打不完，何时加强我们反击😡",
+      "source": "bilibili",
+      "time": "2026-09-14T05:55:26+00:00",
+      "url": "https://www.bilibili.com/video/av117267706678972",
+      "engagement": 213,
+      "is_hot": false,
+      "author": "Coliner_",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/275f53fc62df271c00df34050256f27079faa4d4.jpg",
       "content_type": "video"
     },
     {
@@ -39,6 +73,23 @@
       "content_type": "video"
     },
     {
+      "title": "【忘却前夜】融灾癫狂5-4医生c",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-14T04:22:01+00:00",
+      "url": "https://www.bilibili.com/video/av117267455023258",
+      "engagement": 162,
+      "is_hot": false,
+      "author": "星咏ようむ",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/a185654c87bd8b249d00ed593e0c556a69810556.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "［相位］百年内没人能看懂我的参赛卡组……",
       "summary": "",
       "source": "bilibili",
@@ -53,6 +104,40 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/246bbbc42e65de837d1c5dd9f50ccdb393dabfda.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】尤乌2-7",
+      "summary": "雪山对比琥珀伤害还是低了一大截，虽说有回转，但感觉必要性并不是特别高，感觉攻略得把雪山放低一档\n打起来还可以，羊妈超限，雷娅80级，环娜80级，尤乌90级应该也是够的，只不过整体命轮需要调整，比如说尤乌琥珀双持、雷娅带魂诞或羊妈换成界域精通命轮、找个守护手或力量造物都可以，这把造物不是很好，蝴蝶标本和八音盒换成精通造物会舒服很多）\n5图又是神秘狂热怪，带卡拉布凹个专造应该能打，不过我懒得打了，看到凹专造头都大的，请离开（",
+      "source": "bilibili",
+      "time": "2026-09-14T10:42:16+00:00",
+      "url": "https://www.bilibili.com/video/av117268965037938",
+      "engagement": 55,
+      "is_hot": false,
+      "author": "跳段木偶舞",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/57ffadcaf2b4a21807d8a89f5b7e320a51d72cca.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "奥吉尔sp我们来了",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-14T08:28:44+00:00",
+      "url": "https://www.bilibili.com/video/av117268444874542",
+      "engagement": 37,
+      "is_hot": false,
+      "author": "AA雪糕批发小伊",
+      "tags": [
+        "翻唱"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/c6e233bd061334a1519c23d89a21b64949f50aab.jpg",
       "content_type": "video"
     }
   ]

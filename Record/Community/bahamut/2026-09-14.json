@@ -1,8 +1,8 @@
 {
   "date": "2026-09-14",
-  "archived_at": "2026-09-14T03:18:53.551036+00:00",
+  "archived_at": "2026-09-14T11:46:20.785130+00:00",
   "source": "bahamut",
-  "item_count": 25,
+  "item_count": 27,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -52,6 +52,19 @@
       "engagement": 61,
       "is_hot": false,
       "author": "hhe02547783",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【討論】時間原點發問集中串，3天毀滅倒數",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-14T11:45:26.040602+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1175&tnum=12",
+      "engagement": 49,
+      "is_hot": false,
+      "author": "t12345825",
       "tags": [],
       "lang": "zh",
       "platform_region": ""
@@ -154,6 +167,19 @@
       "time": "2026-09-13T20:17:41.446423+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1553&tnum=1",
       "engagement": 22,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【情報】V2.6.1 全新喚醒體✦負誓·奧吉爾",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-14T11:45:26.040569+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1573&tnum=1",
+      "engagement": 21,
       "is_hot": false,
       "author": "t12345825",
       "tags": [],
