@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-15",
+  "archived_at": "2026-09-14T21:28:12.911423+00:00",
+  "source": "steam",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[正面] ARTSTYLE, GAMEPLAY, LOREEEEE, I LOVE THIS GAME. PL...",
+      "summary": "ARTSTYLE, GAMEPLAY, LOREEEEE, I LOVE THIS GAME. PLAY IT, PLAY IT, PLAY IT.",
+      "source": "steam_review",
+      "time": "2026-09-14T19:11:11+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199506775050/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199506775050",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 984,
+        "votes_up": 0,
+        "timestamp_created": 1789413071
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Genuinely, I recommend this to people since I trul...",
+      "summary": "Genuinely, I recommend this to people since I truly believe this is the best gacha game. Its so fair and loving to its community. its not trying to gut your wallet its telling a story and not forcing you to have meta",
+      "source": "steam_review",
+      "time": "2026-09-14T18:06:50+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198181463635/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198181463635",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3477,
+        "votes_up": 0,
+        "timestamp_created": 1789409210
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] I don't know why but after the download it does no...",
+      "summary": "I don't know why but after the download it does not let me enter the mythag and keeps showing me \"logging into user space\" or something like that and it just does not load, maybe it's a bug or maybe I need to do something different but idk help me out, I love the aesthetic and the story lore so far :(((",
+      "source": "steam_review",
+      "time": "2026-09-14T17:35:29+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198692987972/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198692987972",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 16,
+        "votes_up": 0,
+        "timestamp_created": 1789407329
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
