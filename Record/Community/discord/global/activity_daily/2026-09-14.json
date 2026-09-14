@@ -1,57 +1,159 @@
 {
   "date": "2026-09-14",
-  "messages": 2768,
-  "unique_authors": 208,
-  "reactions_total": 387,
-  "attachments": 154,
+  "messages": 11572,
+  "unique_authors": 407,
+  "reactions_total": 1570,
+  "attachments": 560,
   "channel_activity": {
-    "🔸綜合討論": 267,
-    "🔸阵容构建": 7,
-    "🔸morimens-game-chat": 1433,
-    "🔸课间休息闲聊": 7,
-    "🔸한국어-채팅방": 5,
-    "🔸русский-канал": 104,
-    "🔸phòng-chat-tiếng-việt": 72,
-    "🔸canal-español": 10,
-    "🔸canal-português": 194,
-    "🔸ruang-obrolan-indonesia": 163,
-    "🔸ห้องสนทนาภาษาไทย": 23,
-    "🔸traphase": 3,
-    "🔸lore-chat": 8,
-    "🔸team-building": 32,
-    "🔸general-chat": 12,
-    "🔸game-question": 282,
+    "🔸綜合討論": 2266,
+    "🔸阵容构建": 16,
+    "🔸morimens-game-chat": 5225,
+    "🔸剧情交流": 24,
+    "🔸晒卡分享": 2,
+    "🔸欢乐梗图": 1,
+    "🔸课间休息闲聊": 20,
+    "🔸日本語チャンネル": 1,
+    "🔸한국어-채팅방": 30,
+    "🔸chaîne-française": 16,
+    "🔸русский-канал": 595,
+    "🔸phòng-chat-tiếng-việt": 314,
+    "🔸canal-español": 160,
+    "🔸canal-português": 230,
+    "🔸ruang-obrolan-indonesia": 611,
+    "🔸ห้องสนทนาภาษาไทย": 95,
+    "🔸traphase": 17,
+    "🔸lore-chat": 159,
+    "🔸team-building": 139,
+    "🔸general-chat": 329,
+    "🔸邀请码互助┊swap-invitation-codes": 2,
+    "🔸game-question": 781,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 32,
+    "有圖就發": 11,
+    "破誓．奧吉爾✦喚醒體&命輪介紹": 4,
+    "这个那个": 1,
+    "堆图ing": 1,
+    "卡拉布饱餐未能正常生效": 1,
+    "Problems Regarding Poison-Counter Builds毒反队问题": 1,
+    "第一次有了玩你游很无聊，有种是在浪费时间的感觉": 4,
+    "Can't play the game (Crashing)": 5,
+    "Celeste's E3 has a typo that makes it scary": 16,
+    "Entering the game": 9,
+    "汀克特旺達「本回合下次躍遷必定觸發」變不可疊加了？can’t use Tinct & Wanda “The next Leap this turn is guaranteed” in a roll?": 1,
+    "What are you going to do, Light?": 10,
+    "可能是bug": 1,
+    "[Bug] Deadly Duel still in deck after using Exalt": 2,
+    "Balance problem in arc2": 2,
+    "Alternate realms Enhancement": 1,
+    "D-tide Feedback (New)": 4,
+    "D-tide Discussion": 159,
+    "Corposant and Last Verse \"Bugfix\"": 4,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 1,
+    "V2.5.1.0 停服维护公告": 10,
+    "On the D-Effect Zone Adjustments": 43,
+    "Here’s a new 2 character for morimen ( fan made )": 12,
+    "Thais Male": 8,
+    "New Awakener✦Alistair: Silver King": 7,
+    "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 101,
+    "V2.6.1 生人勿近┊You've Been Warned...┊외부인 접근 금지": 2,
+    "🔥10000银芯奖励！V2.6 UGC创作征集开启！": 2,
+    "need help in team building & priorities!!": 4,
+    "1548985857489240074": 1,
     "🔸游戏问题": 63,
-    "🔸机器人命令┊bot-commands": 11,
-    "破誓．奧吉爾✦喚醒體&命輪介紹": 1,
     "我重生了，重生到忘卻前夜宣布關服的那天【多人接力抽象文】": 1,
-    "第一次有了玩你游很无聊，有种是在浪费时间的感觉": 2,
-    "Can't play the game (Crashing)": 1,
-    "Balance problem in arc2": 1,
     "Please think about Jenkins": 4,
-    "D-tide Discussion": 11,
     "🥲未解锁造物（？）能不能有详细的位置指引或者保留一下剪影": 2,
-    "V2.5.1.0 停服维护公告": 2,
-    "On the D-Effect Zone Adjustments": 31,
-    "Here’s a new 2 character for morimen ( fan made )": 2,
-    "Thais Male": 6,
     "Ramona Dreamy vacation cosplay/adventure": 5,
     "🏆 忘却前夜第5届塔薇杯┊The 5th Tawil Cup of Morimens": 1,
     "【Newcomer Help】Forum Introduction": 2
   },
   "hourly_activity": {
+    "4": 570,
+    "5": 537,
+    "6": 555,
+    "7": 561,
+    "8": 1456,
+    "9": 1607,
+    "10": 1964,
+    "11": 1287,
+    "12": 244,
+    "3": 673,
     "0": 495,
     "1": 939,
-    "2": 684,
-    "3": 649,
-    "4": 1
+    "2": 684
   },
   "message_types": {
-    "0": 1944,
-    "19": 815,
-    "20": 9
+    "0": 8088,
+    "19": 3456,
+    "20": 26,
+    "6": 1,
+    "21": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1548966687838048316",
+      "channel_id": "1548966687838048316",
+      "content": "**V2.6.1 全新唤醒体✦负誓·奥吉尔**\n\n「无形的力量在翻涌......比想象中更难驾驭。」\n「即便如此，我仍会以此残躯竭力护卫您。请下令吧——倘若您尚",
+      "author": "morimensstaff06",
+      "reactions": 69,
+      "channel": "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에"
+    },
+    {
+      "id": "1548963271590150174",
+      "channel_id": "1548249867716137052",
+      "content": "Thanks to everyone for being so open in the community and letting us know how yo",
+      "author": "morimensstaff06",
+      "reactions": 13,
+      "channel": "What are you going to do, Light?"
+    },
+    {
+      "id": "1548977594634866740",
+      "channel_id": "1131839817982947429",
+      "content": "~~現在跟朋友討論奧吉爾的另一支手是不是在皮克曼頭上~~",
+      "author": "ass191044",
+      "reactions": 12,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548996634065506335",
+      "channel_id": "1131839817982947429",
+      "content": "不玩->雲玩家閉嘴 在玩->愛玩玩不玩滾 退坑->不玩了還說什麼話，閉環邏輯是最強的吧。",
+      "author": "nemu_s_t_a_r",
+      "reactions": 12,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548926413179068487",
+      "channel_id": "1545385622317965442",
+      "content": "Today, I played the new season featuring the promised D-Effect Zone rework. As t",
+      "author": "salt9550",
+      "reactions": 12,
+      "channel": "On the D-Effect Zone Adjustments"
+    },
+    {
+      "id": "1548991208578220095",
+      "channel_id": "1131839817982947429",
+      "content": "24開大切換人格，小騎士可以開大切換性別",
+      "author": "cangtianjiongbaozhiquan",
+      "reactions": 11,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549009915564007536",
+      "channel_id": "1131839817982947429",
+      "content": "~~比如借別人的滿練角色~~",
+      "author": "cwz.io",
+      "reactions": 11,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548935962074292234",
+      "channel_id": "1544152565921611837",
+      "content": "check new d-tide\nsee enemy damage in new w5 madness\ndelete game\ndevs not hear, n",
+      "author": "jesterookeo",
+      "reactions": 11,
+      "channel": "D-tide Feedback (New)"
+    },
     {
       "id": "1548865484672208927",
       "channel_id": "1170692781216378960",
@@ -59,6 +161,46 @@
       "author": "bagels5899",
       "reactions": 10,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1548940314985627718",
+      "channel_id": "1131839817982947429",
+      "content": "<:Celeste_agree:1400771815076528258>",
+      "author": "iulargerthan3",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548991181139083324",
+      "channel_id": "1131839817982947429",
+      "content": "接近本源要付出代价，萝坦丢了一只腿，小骑士丢了一格调，这多克系啊",
+      "author": "polkarain",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548929306812747807",
+      "channel_id": "1173463482503536711",
+      "content": "一个冷知识\n宁非亚的家乡塞舌尔「游戏内称为费弗尔」是一个母系社会国家，并且也在英联邦内。\n所以，守密人对宁菲亚叫妈妈是没有任何问题的",
+      "author": "lanthanum64",
+      "reactions": 9,
+      "channel": "🔸剧情交流"
+    },
+    {
+      "id": "1548919732416020510",
+      "channel_id": "1524457119955554374",
+      "content": "",
+      "author": "wjcjskw",
+      "reactions": 9,
+      "channel": "这个那个"
+    },
+    {
+      "id": "1548956631075921991",
+      "channel_id": "1548956631075921991",
+      "content": "Has your team considered changing the cap for poison and counter builds from bei",
+      "author": "lwl3549",
+      "reactions": 8,
+      "channel": "Problems Regarding Poison-Counter Builds毒反队问题"
     },
     {
       "id": "1548893043279527999",
@@ -77,140 +219,36 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1548974565496193085",
+      "channel_id": "1131839817982947429",
+      "content": "阿拉的道具快弄好了",
+      "author": "yusi4172",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548978534167347272",
+      "channel_id": "1131839817982947429",
+      "content": "庫姆跟萊克超融合為混沌地獄犬(笑)",
+      "author": "arachnids_nacha",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1548984907122876556",
+      "channel_id": "1548984907122876556",
+      "content": "最近來畫點方塊頭像\n先發我推圖魯",
+      "author": "hakurou729",
+      "reactions": 7,
+      "channel": "有圖就發"
+    },
+    {
       "id": "1548862929061810217",
       "channel_id": "1131839817982947429",
       "content": "癫狂5落地战<:Brown_think:1459080117308620996>",
       "author": "ling_an_",
       "reactions": 7,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548892945116037144",
-      "channel_id": "1131839817982947429",
-      "content": "一堆m在拼450 525\n誰愛打誰打",
-      "author": "ling_an_",
-      "reactions": 7,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548873072520593438",
-      "channel_id": "1131839817982947429",
-      "content": "~~故意賭輸的可能性~~",
-      "author": "foxcatfurry",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548873150354423980",
-      "channel_id": "1131839817982947429",
-      "content": "詭計多端的0",
-      "author": "ahuahuahua",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548872623621021847",
-      "channel_id": "1131839817982947429",
-      "content": "我要幫所有人口了",
-      "author": "yi000607",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548893117216858224",
-      "channel_id": "1131839817982947429",
-      "content": "一哥被家裡人拉去上班了",
-      "author": "flora3347",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548893538270445642",
-      "channel_id": "1131839817982947429",
-      "content": "這期450還挺好打<:Brown_think:1459080117308620996>",
-      "author": "iulargerthan3",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548846190550847500",
-      "channel_id": "1170692781216378960",
-      "content": "EOS EVERYDAY",
-      "author": "noreadjustwhale",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548857195838443676",
-      "channel_id": "1170692781216378960",
-      "content": "show a W5 Madness with full lv1 no wheels no posse no DR no turn rewind for the ",
-      "author": "bagels5899",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548860133902393374",
-      "channel_id": "1170692781216378960",
-      "content": "actual footage of light sentencing me and all of the other poor unfortunates to ",
-      "author": "reya.li",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1548875697119035513",
-      "channel_id": "1131839817982947429",
-      "content": "測試測試，我人在醫院地下室我訊息有發出來嗎",
-      "author": "ena04564",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548878788933189634",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "ahong0727",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548892825842876427",
-      "channel_id": "1131839817982947429",
-      "content": "群佬除我",
-      "author": "ahuahuahua",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548892981354958879",
-      "channel_id": "1131839817982947429",
-      "content": "一堆m在拼450 525\n誰愛打誰打",
-      "author": "fon_tain",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548893248444047412",
-      "channel_id": "1131839817982947429",
-      "content": "我也在上班啊<:Jenkin_processing:1468259790168789075>",
-      "author": "cs001092",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548894074059366501",
-      "channel_id": "1131839817982947429",
-      "content": "上期打了515……實在沒隊伍打第二個四關和五關了…",
-      "author": "flora3347",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1548861936786210987",
-      "channel_id": "1170692781216378960",
-      "content": "a good wave for alva main damage!!! d-tide is good actually <:Fkeeper_flop:13560",
-      "author": "reya.li",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }
