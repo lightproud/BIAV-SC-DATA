@@ -1,8 +1,8 @@
 {
   "date": "2026-09-15",
-  "archived_at": "2026-09-15T11:03:24.345139+00:00",
+  "archived_at": "2026-09-15T16:14:30.145791+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] ARTSTYLE, GAMEPLAY, LOREEEEE, I LOVE THIS GAME. PL...",
@@ -92,6 +92,75 @@
         "playtime_forever": 467,
         "votes_up": 0,
         "timestamp_created": 1789463803
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Pro consumer\r\nCool designs\r\nCool story\r\nLots of ev...",
+      "summary": "Pro consumer\r\nCool designs\r\nCool story\r\nLots of evends that give u good rewards",
+      "source": "steam_review",
+      "time": "2026-09-15T15:25:54+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199037004604/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199037004604",
+      "tags": [
+        "polish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 5214,
+        "votes_up": 0,
+        "timestamp_created": 1789485954
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Since recent D-tide change the balance went somewh...",
+      "summary": "Since recent D-tide change the balance went somewhere else... When the Devs introdused AA(+12), they promised that content will never require +12 characters(lie). And now they are trying to merge JP server with Global. But they promised before that they will never do this(another lie).\r\nPeople are complaining that the “poison” and “counter” comps don't work at all anymore. At the same time, the dev is spinning tales that those poison/counter comps are fine(even though, in reality, no one has ever seen any proof of this).\r\n\r\nAs it stands now, I wouldn't recommend the game to anyone. The developers are liars, and they're trying to pull off the same tactics as Mihoyo. The problem is, they've forgotten that they're nowhere near as good as Mihoyo...",
+      "source": "steam_review",
+      "time": "2026-09-15T11:34:35+00:00",
+      "url": "https://steamcommunity.com/profiles/76561197992025658/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561197992025658",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 34327,
+        "votes_up": 0,
+        "timestamp_created": 1789472075
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 我想说你抄杀戮尖塔和1999抄的都很失败，不管是画风还是玩法。我不理解为什么要把主控叫守秘人，我都是...",
+      "summary": "我想说你抄杀戮尖塔和1999抄的都很失败，不管是画风还是玩法。我不理解为什么要把主控叫守秘人，我都是守秘人了为什么还要亲自下场调查？因为我是跑团的，我不希望这个游戏火起来以后，攻略视频和官方发帖都在说“各位守秘人们大家好”，这真的太诡异了。",
+      "source": "steam_review",
+      "time": "2026-09-15T11:03:46+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199387841363/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199387841363",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 64,
+        "votes_up": 0,
+        "timestamp_created": 1789470226
       },
       "region": "global",
       "archive_subtype": "review"

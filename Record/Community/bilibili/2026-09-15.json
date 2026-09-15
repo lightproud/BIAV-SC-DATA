@@ -1,8 +1,8 @@
 {
   "date": "2026-09-15",
-  "archived_at": "2026-09-15T11:03:24.294253+00:00",
+  "archived_at": "2026-09-15T16:14:30.049883+00:00",
   "source": "bilibili",
-  "item_count": 6,
+  "item_count": 9,
   "items": [
     {
       "title": "【忘却前夜】只需两个超限？容灾450分抽取规划，入门新人必看！",
@@ -19,6 +19,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/9dc642d6e7fcb4f792628bc4cd34f03e4ecb676e.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】沙耶萝坦蚀萝 融灾1图癫狂 道中+王关逃课思路",
+      "summary": "大概是需要3+3的沙耶，蚀萝最好是有个2启，因为要打两场战斗，所以不像上期神父卡拉布一样0启开逃。\n这期没有去重新录一遍道中了，所以打得比较慢，可以倍速看一下。\n本期1图要打两场才能进王关，再加上boss战不能拖到4回合以后，限制了原本的单萝坦逃课。\n如果只带萝坦不带沙耶，队伍需要萝坦4回合放4次超限大。",
+      "source": "bilibili",
+      "time": "2026-09-15T13:25:51+00:00",
+      "url": "https://www.bilibili.com/video/av117275273202767",
+      "engagement": 261,
+      "is_hot": false,
+      "author": "天辉信使Official",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/33472507ff5eedfefc5e26ccd1b48f2e28ff449b.jpg",
       "content_type": "video"
     },
     {
@@ -104,6 +121,40 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/a8efd55c7614e446220081d1b249b4b29522accc.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "牢希0死扛5-7",
+      "summary": "很简单的BOSS\n不如道中超雄小怪一根\n医生神力\n现在n7至少能跟阿拉平起平坐",
+      "source": "bilibili",
+      "time": "2026-09-15T12:27:23+00:00",
+      "url": "https://www.bilibili.com/video/av117275021545889",
+      "engagement": 144,
+      "is_hot": false,
+      "author": "偶陈陈陈",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/d42fecab6a3ba610e33296f9bbe1ffb5483a266c.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "〖相位〗抢血希没抢过！",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-15T05:46:25+00:00",
+      "url": "https://www.bilibili.com/video/av117273461331559",
+      "engagement": 103,
+      "is_hot": false,
+      "author": "只想摸鱼的屑-",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/61f1247566ae522298e4d709682b7d27c3ea63d1.jpg",
       "content_type": "video"
     }
   ]
