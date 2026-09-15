@@ -1,8 +1,8 @@
 {
   "date": "2026-09-14",
-  "archived_at": "2026-09-15T03:20:52.211224+00:00",
+  "archived_at": "2026-09-15T11:03:24.404601+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 This is one of my favorite games of all",
@@ -13,6 +13,34 @@
       "engagement": 0,
       "is_hot": false,
       "author": "《Kokomi The fish》",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 pretty good game, the dev is the mpv",
+      "summary": "pretty good game, the dev is the mpv",
+      "source": "google_play",
+      "time": "2026-09-14T07:36:45",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-b00c3d89-849d-4e10-9cfb-dc5d1aecd855",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Alief Cahyo",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 Finally tried out the game. The awkward",
+      "summary": "Finally tried out the game. The awkward dialogue and confusing translation is noticeable.Gamenis buggy, and the powercreep is insane. Units need multiple dupes just to be viable for endgame. Not sure how the meta is rn considering 90% of units are useless. Gameplay is solid. It's different enough from CZN while having its own flair. Love the Cosmic horror atmosphere, but story is still generic. Art style is great, but UI is confusing and distracting. Overall, it's good but very flawed.",
+      "source": "google_play",
+      "time": "2026-09-14T03:21:01",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-43924410-4922-4baa-99a0-bce6df4489cc",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Kien Nguyen",
       "tags": [],
       "lang": "en",
       "platform_region": "",

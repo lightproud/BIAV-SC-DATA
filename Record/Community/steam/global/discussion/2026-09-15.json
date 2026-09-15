@@ -1,8 +1,8 @@
 {
   "date": "2026-09-15",
-  "archived_at": "2026-09-15T03:20:52.154876+00:00",
+  "archived_at": "2026-09-15T11:03:24.322063+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[Steam论坛] Не могу подключиться к игре в РФ",
@@ -13,6 +13,40 @@
       "engagement": 1,
       "is_hot": false,
       "author": "Stasik",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] 邀请码",
+      "summary": "WECIU47WTL",
+      "source": "steam_discussion",
+      "time": "2026-09-15T08:29:22+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/528765047224303480/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "星逝",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] 应急灵知体为什么不能在沉淀兑换里兑换了？",
+      "summary": "更新后应急灵知体在哪儿获取啊？不能兑换那简直没法玩了",
+      "source": "steam_discussion",
+      "time": "2026-09-15T04:37:55+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/528765047224295730/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "romanyoyo",
       "tags": [
         "steam_forum"
       ],

@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-15",
+  "archived_at": "2026-09-15T11:03:24.339679+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam新闻] V2.6.1 The Sinner’s Exile",
+      "summary": "In the fairy tale everyone knows, a noble knight saves the princess.In the story no one knows, a loyal knight forsakes his oath.Virtue is sung for all to hear... but what of sin?The old castle 🏰 sees no visitors anymore,yet the new sun ☀️ rises as it always has.The exiled knight will never be alone—he has his shadow beside him. He has only his shadow beside him.",
+      "source": "official",
+      "time": "2026-09-15T07:00:16+00:00",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703776",
+      "engagement": 0,
+      "is_hot": true,
+      "author": "lqx02483534",
+      "tags": [
+        "Community Announcements"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "news"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "news"
+}

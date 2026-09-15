@@ -1,8 +1,8 @@
 {
   "date": "2026-09-15",
-  "archived_at": "2026-09-15T03:20:52.169698+00:00",
+  "archived_at": "2026-09-15T11:03:24.345139+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] ARTSTYLE, GAMEPLAY, LOREEEEE, I LOVE THIS GAME. PL...",
@@ -69,6 +69,29 @@
         "playtime_forever": 16,
         "votes_up": 0,
         "timestamp_created": 1789407329
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] The game is amazingly good! Great rewards and arts...",
+      "summary": "The game is amazingly good! Great rewards and artstyle that reminds me of Reverse 999. Story is gripping and engaging, you can do it at your own pace without too much worry. I highly recommend it!",
+      "source": "steam_review",
+      "time": "2026-09-15T09:16:43+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199652266385/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199652266385",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 467,
+        "votes_up": 0,
+        "timestamp_created": 1789463803
       },
       "region": "global",
       "archive_subtype": "review"

@@ -1,9 +1,43 @@
 {
   "date": "2026-09-15",
-  "archived_at": "2026-09-15T03:20:52.120948+00:00",
+  "archived_at": "2026-09-15T11:03:24.294253+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 6,
   "items": [
+    {
+      "title": "【忘却前夜】只需两个超限？容灾450分抽取规划，入门新人必看！",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-15T10:52:23+00:00",
+      "url": "https://www.bilibili.com/video/av117274669225751",
+      "engagement": 374,
+      "is_hot": false,
+      "author": "金发女人丨型",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/9dc642d6e7fcb4f792628bc4cd34f03e4ecb676e.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】尤乌5-7",
+      "summary": "讨厌狂热（",
+      "source": "bilibili",
+      "time": "2026-09-15T04:22:00+00:00",
+      "url": "https://www.bilibili.com/video/av117273125787453",
+      "engagement": 169,
+      "is_hot": false,
+      "author": "跳段木偶舞",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/335ef62e6a58b2a04a4c45d970d310f0ec4d140d.jpg",
+      "content_type": "video"
+    },
     {
       "title": "四小只挑战不可能之融灾5-7，战至最后一刻，何惧之有！",
       "summary": "本来退游了，但是这期是混沌戒指+鸟弟boos，我必须考虑这是否是我此生仅有的机会，至此，忘生圆满。",
@@ -22,6 +56,23 @@
       "content_type": "video"
     },
     {
+      "title": "依旧融灾0氪450",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-15T04:44:01+00:00",
+      "url": "https://www.bilibili.com/video/av117273209603579",
+      "engagement": 156,
+      "is_hot": false,
+      "author": "像火星照耀着州府",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/dd0c3e056450f403eadec77612cd7a3801f6408f.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "两月半萌新首次融灾400纪念（艰难蠕动）",
       "summary": "终于拿下400了，作为第一款我全图鉴的游戏，当然要好好纪念一下！打的顺序是图五-图三-图二-图一-图三额外-图四_图四额外。实在是打不过图四困难，莫丝练度太低了orz。除了图五一直凹死扛（97死扛不爆，xmsl）其他几关都还比较享受（？）",
       "source": "bilibili",
@@ -36,6 +87,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/783d7b8544b696c5740ddcf344142d8628e4d054.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】雷娅",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-15T05:10:18+00:00",
+      "url": "https://www.bilibili.com/video/av117273327048480",
+      "engagement": 144,
+      "is_hot": false,
+      "author": "幽离ゆり",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/a8efd55c7614e446220081d1b249b4b29522accc.jpg",
       "content_type": "video"
     }
   ]
