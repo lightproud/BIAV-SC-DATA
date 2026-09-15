@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-15",
+  "messages": 3,
+  "unique_authors": 2,
+  "reactions_total": 6,
+  "attachments": 12,
+  "channel_activity": {
+    "links-and-resources": 3
+  },
+  "hourly_activity": {
+    "5": 3
+  },
+  "message_types": {
+    "0": 3
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1549293205344755734",
+      "channel_id": "1402537664619479103",
+      "content": "",
+      "author": "morimensstaff06",
+      "reactions": 3,
+      "channel": "links-and-resources"
+    },
+    {
+      "id": "1549293522358898710",
+      "channel_id": "1402537664619479103",
+      "content": "Hello everyone, here is the latest batch of text — please feel free to use it.\n🫶",
+      "author": "morimensstaff03",
+      "reactions": 3,
+      "channel": "links-and-resources"
+    }
+  ]
+}
