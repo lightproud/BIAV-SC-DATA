@@ -1,56 +1,99 @@
 {
   "date": "2026-09-15",
-  "messages": 2903,
-  "unique_authors": 185,
-  "reactions_total": 325,
-  "attachments": 133,
+  "messages": 10350,
+  "unique_authors": 305,
+  "reactions_total": 1581,
+  "attachments": 467,
   "channel_activity": {
-    "🔸綜合討論": 97,
-    "🔸阵容构建": 1,
-    "🔸morimens-game-chat": 1768,
+    "🔸綜合討論": 1670,
+    "🔸阵容构建": 67,
+    "🔸morimens-game-chat": 4955,
+    "🔸相位对弈": 6,
+    "🔸课间休息闲聊": 4,
+    "🔸交友频道": 1,
+    "🔸日本語チャンネル": 12,
+    "🔸한국어-채팅방": 7,
+    "🔸deutscher-chatraum": 2,
+    "🔸chaîne-française": 1,
+    "🔸русский-канал": 488,
+    "🔸phòng-chat-tiếng-việt": 590,
+    "🔸canal-español": 272,
+    "🔸ruang-obrolan-indonesia": 300,
+    "🔸ห้องสนทนาภาษาไทย": 28,
+    "🔸traphase": 16,
+    "🔸lore-chat": 110,
+    "🔸lets-count": 2,
+    "🔸team-building": 167,
+    "🔸general-chat": 212,
+    "🔸邀请码互助┊swap-invitation-codes": 2,
+    "🔸game-question": 1053,
+    "🔸机器人命令┊bot-commands": 22,
+    "Morimens社群事件編年史": 2,
+    "这个那个": 2,
+    "請給我一個準確的角色性別。": 2,
+    "原來釣魚引戰是被允許的": 13,
+    "针对负誓奥吉尔不合格的立绘提出合理的游戏建议": 1,
+    "Stop making me play Traphase": 2,
+    "Black screen upon game start on Steam": 1,
+    "Caraboo Satiety stacks not working": 3,
+    "卡拉布饱餐未能正常生效": 5,
+    "第一次有了玩你游很无聊，有种是在浪费时间的感觉": 2,
+    "Can't play the game (Crashing)": 5,
+    "Entering the game": 6,
+    "What are you going to do, Light?": 7,
+    "可能是bug": 6,
+    "Balance problem in arc2": 1,
+    "卡拉布命輪盾%異常生效bug": 1,
+    "D-tide Feedback (New)": 5,
+    "D-tide Discussion": 86,
+    "繁育沒有提高卡茜亞的超限爆發的固定力量": 1,
+    "V2.5.1.0 停服维护公告": 9,
+    "On the D-Effect Zone Adjustments": 13,
+    "Preview: Traphase Pausing New Updates, Entering Balance Maintenance Mode": 1,
+    "moss’s art dump": 4,
+    "V2.6.1 罪者的放逐┊The Sinner’s Exile┊죄인의 방축": 101,
+    "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 36,
+    "🏆 忘却前夜第5届塔薇杯┊The 5th Tawil Cup of Morimens": 2,
+    "百相自选唤醒要抽吗": 8,
+    "Steam Client Black Screen Help": 2,
     "🔸晒卡分享": 1,
-    "🔸课间休息闲聊": 1,
-    "🔸日本語チャンネル": 10,
-    "🔸한국어-채팅방": 5,
-    "🔸русский-канал": 193,
-    "🔸phòng-chat-tiếng-việt": 5,
-    "🔸canal-español": 257,
     "🔸canal-português": 23,
-    "🔸ruang-obrolan-indonesia": 17,
-    "🔸traphase": 3,
-    "🔸lore-chat": 28,
-    "🔸team-building": 96,
-    "🔸general-chat": 15,
-    "🔸邀请码互助┊swap-invitation-codes": 1,
-    "🔸game-question": 340,
-    "🔸机器人命令┊bot-commands": 13,
-    "可能是bug": 1,
     "Suggestion For A Better Madness Mechanic": 3,
     "Pls give out origin of time for limited awakener & wheels": 1,
-    "D-tide Feedback (New)": 1,
-    "D-tide Discussion": 2,
     "Get Auto enable for dtide": 5,
-    "V2.5.1.0 停服维护公告": 4,
-    "On the D-Effect Zone Adjustments": 1,
     "Bully me in traphase (art thread)": 1,
-    "moss’s art dump": 2,
-    "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 6,
     "New player, team building and Origin of time use": 1,
     "team building help": 1
   },
   "hourly_activity": {
+    "3": 632,
+    "4": 489,
+    "5": 774,
+    "6": 615,
+    "7": 1560,
+    "8": 1441,
+    "9": 1296,
+    "10": 899,
+    "11": 346,
     "0": 744,
     "1": 834,
-    "2": 720,
-    "3": 605
+    "2": 720
   },
   "message_types": {
-    "19": 996,
-    "0": 1899,
-    "20": 7,
-    "6": 1
+    "0": 7022,
+    "19": 3306,
+    "20": 19,
+    "6": 3
   },
   "top_reacted_messages": [
+    {
+      "id": "1549313812266491965",
+      "channel_id": "1549313812266491965",
+      "content": "**V2.6.1 罪者的放逐**\n\n家喻户晓的童话里，高贵的骑士拯救了公主。\n无人知晓的故事里，忠诚的骑士背弃了誓言。\n美德会被传扬，那么..罪孽呢？\n\n旧的城",
+      "author": "morimensstaff06",
+      "reactions": 36,
+      "channel": "V2.6.1 罪者的放逐┊The Sinner’s Exile┊죄인의 방축"
+    },
     {
       "id": "1549241711090212926",
       "channel_id": "1300659662311526512",
@@ -60,156 +103,148 @@
       "channel": "🔸canal-español"
     },
     {
-      "id": "1549236533666644080",
+      "id": "1549318404798816290",
+      "channel_id": "1549313812266491965",
+      "content": "nonono\n\n高贵的骑士 拯救了公主\n忠诚的骑士 背弃了誓言→\n高貴的校方拯救了遊戲\n忠誠的校貓違背了誓言<:Ramona_tuff_:14414266304",
+      "author": "akkom730",
+      "reactions": 14,
+      "channel": "V2.6.1 罪者的放逐┊The Sinner’s Exile┊죄인의 방축"
+    },
+    {
+      "id": "1549343843126612028",
+      "channel_id": "1549343843126612028",
+      "content": "不要觉得喜欢男角色的玩家很难伺候，怎么事那么多。首先一个的事实是这个小骑士立绘的确做的太不合格了。第二个原因是一年就几个男角色，一年连出十个女角色量产喜欢都不带",
+      "author": "noble_hamster_12186",
+      "reactions": 13,
+      "channel": "针对负誓奥吉尔不合格的立绘提出合理的游戏建议"
+    },
+    {
+      "id": "1549341607260856343",
+      "channel_id": "1549313812266491965",
+      "content": "不要觉得喜欢男角色的玩家很难伺候，怎么事那么多。首先一个的事实是这个小骑士立绘的确做的太不合格了。第二个原因是一年就几个男角色，一年连出十个女角色量产喜欢都不带",
+      "author": "noble_hamster_12186",
+      "reactions": 13,
+      "channel": "V2.6.1 罪者的放逐┊The Sinner’s Exile┊죄인의 방축"
+    },
+    {
+      "id": "1549277519490846751",
       "channel_id": "1131839817982947429",
-      "content": "<:Lily_wow:1356084702468899117>",
-      "author": "sweet_25367",
+      "content": "99％死扛失败了3次",
+      "author": "polkarain",
+      "reactions": 12,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549355042975518841",
+      "channel_id": "1131839817982947429",
+      "content": "打一下午终于过了🆘",
+      "author": "ponponnyaru",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549360221175025744",
+      "channel_id": "1549360221175025744",
+      "content": "（為了方便翻譯：標題為「原來釣魚引戰是被允許的」）\n\nCn和En玩家之間一直存在非常明顯的對立，我認為管理員或者校工之類的管理層級的職責是協助調和矛盾與按校規進",
+      "author": "shostakovich524",
+      "reactions": 9,
+      "channel": "原來釣魚引戰是被允許的"
+    },
+    {
+      "id": "1549316775726948394",
+      "channel_id": "1549313812266491965",
+      "content": "無人知曉的故事裡，忠誠的騎士選擇了自宮😭",
+      "author": "akkom730",
+      "reactions": 9,
+      "channel": "V2.6.1 罪者的放逐┊The Sinner’s Exile┊죄인의 방축"
+    },
+    {
+      "id": "1549347894648250519",
+      "channel_id": "1131839817982947429",
+      "content": "不要使用中文",
+      "author": "arr5721",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549273883478331515",
+      "channel_id": "1131839817982947429",
+      "content": "圖鑑黨我就不抽小騎士",
+      "author": "fgoisaac",
       "reactions": 7,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1549249434871926905",
-      "channel_id": "1170692781216378960",
-      "content": "Aight I’m too tired to do this proper rn but this should communicate the gist\n\nT",
-      "author": "mosske",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549231949221204050",
-      "channel_id": "1170692781216378960",
-      "content": "Ramona: lose keeper, study hard and become gramona\n\nGdoll: learning so much that",
-      "author": "jumpingheart123",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549254502488612944",
-      "channel_id": "1170692781216378960",
-      "content": "So if I scrap the cape I can add the princess into the dissolution from the shie",
-      "author": "mosske",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549260236093653063",
+      "id": "1549305696322064404",
       "channel_id": "1131839817982947429",
-      "content": "今期不辛苦自己繼續靈芝450差一場<:Ogier_cheer:1468259351889318049> ,不上排行榜450",
-      "author": "fgoisaac",
-      "reactions": 4,
+      "content": "奧吉爾紅眼症<:Ramona_tuff_:1441426630420467753>",
+      "author": "kevin.yienwenst",
+      "reactions": 7,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1549260251209932883",
+      "id": "1549320907351269379",
+      "channel_id": "1131839817982947429",
+      "content": "我只是个旁观者",
+      "author": "angbak",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549325571849199668",
+      "channel_id": "1131839817982947429",
+      "content": "你忘了我剛進群就跑去問校貓為什麼拿官號看片嗎",
+      "author": "xingkongzhiyao_",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549340130274189435",
+      "channel_id": "1131839817982947429",
+      "content": "你怎麼知道",
+      "author": "ahuahuahua",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549356482909179919",
+      "channel_id": "1131839817982947429",
+      "content": "我是什么历史柱吗",
+      "author": "carme.0588",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549377620699783251",
+      "channel_id": "1131839817982947429",
+      "content": "没钱<:Weakness:1546814592561446934>",
+      "author": "angbak",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549361915619315722",
       "channel_id": "1131839874132090890",
-      "content": "黑印大隊真開心",
-      "author": "akkom730",
-      "reactions": 4,
+      "content": "<@1139202390919233566> <@1009790294230839358> <@677878303276793856>",
+      "author": "0.0._.0_0.",
+      "reactions": 7,
       "channel": "🔸阵容构建"
     },
     {
-      "id": "1549216791023198209",
+      "id": "1549333605736513627",
       "channel_id": "1170692781216378960",
-      "content": "is there gogier kit info",
-      "author": "bloominglilian",
-      "reactions": 4,
+      "content": "i'm not going to pull gogier\n\ni'll just use selectors i farmed off chaos standar",
+      "author": "reya.li",
+      "reactions": 7,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1549226901405696124",
-      "channel_id": "1170692781216378960",
-      "content": "<:Casiah_wink:1356053053568192717>",
-      "author": "angbak",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549237135960178768",
-      "channel_id": "1170692781216378960",
-      "content": "Obvious wip disclaimer",
-      "author": "mosske",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549253434312626368",
-      "channel_id": "1170692781216378960",
-      "content": "GOgier’s shorts are unreal. Makes the whole design come across as goofy instead ",
-      "author": "sophiechoice",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549233718382698542",
-      "channel_id": "1300659662311526512",
-      "content": "cuando la u me de tiempo libre",
-      "author": "octekg",
-      "reactions": 4,
-      "channel": "🔸canal-español"
-    },
-    {
-      "id": "1549253160885948417",
-      "channel_id": "1131839817982947429",
-      "content": "H6-10 是有什么机制刷不到专武嘛？",
-      "author": "kemomimi_",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549213620259266620",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "princess.goth",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549213936845328446",
-      "channel_id": "1170692781216378960",
-      "content": "frost quit so i need to pick up the aequor player title",
-      "author": "princess.goth",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549218234383732797",
-      "channel_id": "1170692781216378960",
-      "content": "He’s a warden that converts % hp into shield <:Ramona_tuff_:1441426630420467753>",
-      "author": "frosthief",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549218507118608405",
-      "channel_id": "1170692781216378960",
-      "content": "Casiahing the veil <:Casiah_wink:1356053053568192717>",
-      "author": "2ndselna",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549221857608073288",
-      "channel_id": "1170692781216378960",
-      "content": "Carried by cash",
-      "author": "polkarain",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549221962092388426",
-      "channel_id": "1170692781216378960",
-      "content": "carried by cards smh, i bet the clear wouldnt happen without playing them",
-      "author": "direhands",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549222580433719328",
-      "channel_id": "1170692781216378960",
-      "content": "anyway casiah exalt dps (corrosion trigger bot) <:Casiah_wink:135605305356819271",
-      "author": "2ndselna",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
+      "id": "1549300624770867240",
+      "channel_id": "1180850818509971466",
+      "content": "感動<:Aurita_please:1356053110375714817>  第一次上傳奇，打了好幾天",
+      "author": "marshmallow2771",
+      "reactions": 7,
+      "channel": "🔸相位对弈"
     }
   ]
 }
