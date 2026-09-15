@@ -1,8 +1,8 @@
 {
   "date": "2026-09-15",
-  "archived_at": "2026-09-14T21:28:12.817164+00:00",
+  "archived_at": "2026-09-15T03:20:52.120948+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "四小只挑战不可能之融灾5-7，战至最后一刻，何惧之有！",
@@ -19,6 +19,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/b0363599a121bb7c666be7ff4bee1a88a9b83060.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "两月半萌新首次融灾400纪念（艰难蠕动）",
+      "summary": "终于拿下400了，作为第一款我全图鉴的游戏，当然要好好纪念一下！打的顺序是图五-图三-图二-图一-图三额外-图四_图四额外。实在是打不过图四困难，莫丝练度太低了orz。除了图五一直凹死扛（97死扛不爆，xmsl）其他几关都还比较享受（？）",
+      "source": "bilibili",
+      "time": "2026-09-14T16:05:16+00:00",
+      "url": "https://www.bilibili.com/video/av117270223264596",
+      "engagement": 148,
+      "is_hot": false,
+      "author": "蜂蜜也会变苦",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/783d7b8544b696c5740ddcf344142d8628e4d054.jpg",
       "content_type": "video"
     }
   ]

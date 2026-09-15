@@ -1,8 +1,8 @@
 {
   "date": "2026-09-15",
-  "archived_at": "2026-09-14T21:28:12.906525+00:00",
+  "archived_at": "2026-09-15T03:20:52.166468+00:00",
   "source": "reddit",
-  "item_count": 3,
+  "item_count": 5,
   "items": [
     {
       "title": "New player considering Morimens — is now a good time to start given the recent backlash?",
@@ -39,6 +39,32 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/Q11iy",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Saya by @nilonoise",
+      "summary": "&#32; submitted by &#32;  /u/OneThanks3   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-14T22:44:02+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wgimol/saya_by_nilonoise/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/OneThanks3",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "[Morimens] State of the Endgame Meta : Encountering the #1 Counter Player in the World.",
+      "summary": "&#32; submitted by &#32;  /u/Successful-Month-541   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-15T02:20:06+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wgnhpk/morimens_state_of_the_endgame_meta_encountering/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Successful-Month-541",
       "tags": [],
       "lang": "en",
       "platform_region": ""
