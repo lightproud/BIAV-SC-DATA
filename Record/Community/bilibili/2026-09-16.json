@@ -1,9 +1,26 @@
 {
   "date": "2026-09-16",
-  "archived_at": "2026-09-15T16:14:30.055320+00:00",
+  "archived_at": "2026-09-15T20:52:19.385417+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
+    {
+      "title": "［忘却前夜］最爱的纺织在身边，最好的圣血在对面",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-15T19:15:18+00:00",
+      "url": "https://www.bilibili.com/video/av117276648937242",
+      "engagement": 30,
+      "is_hot": false,
+      "author": "无生持",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/9f49333ae91b92e504e8f749d3ce5a74f5a8fc5e.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】诺蒂拉融灾禁区3-4「雾中骇兽」",
       "summary": "专业对口……",
