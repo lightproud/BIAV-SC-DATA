@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-15",
+  "messages": 2903,
+  "unique_authors": 185,
+  "reactions_total": 325,
+  "attachments": 133,
+  "channel_activity": {
+    "🔸綜合討論": 97,
+    "🔸阵容构建": 1,
+    "🔸morimens-game-chat": 1768,
+    "🔸晒卡分享": 1,
+    "🔸课间休息闲聊": 1,
+    "🔸日本語チャンネル": 10,
+    "🔸한국어-채팅방": 5,
+    "🔸русский-канал": 193,
+    "🔸phòng-chat-tiếng-việt": 5,
+    "🔸canal-español": 257,
+    "🔸canal-português": 23,
+    "🔸ruang-obrolan-indonesia": 17,
+    "🔸traphase": 3,
+    "🔸lore-chat": 28,
+    "🔸team-building": 96,
+    "🔸general-chat": 15,
+    "🔸邀请码互助┊swap-invitation-codes": 1,
+    "🔸game-question": 340,
+    "🔸机器人命令┊bot-commands": 13,
+    "可能是bug": 1,
+    "Suggestion For A Better Madness Mechanic": 3,
+    "Pls give out origin of time for limited awakener & wheels": 1,
+    "D-tide Feedback (New)": 1,
+    "D-tide Discussion": 2,
+    "Get Auto enable for dtide": 5,
+    "V2.5.1.0 停服维护公告": 4,
+    "On the D-Effect Zone Adjustments": 1,
+    "Bully me in traphase (art thread)": 1,
+    "moss’s art dump": 2,
+    "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 6,
+    "New player, team building and Origin of time use": 1,
+    "team building help": 1
+  },
+  "hourly_activity": {
+    "0": 744,
+    "1": 834,
+    "2": 720,
+    "3": 605
+  },
+  "message_types": {
+    "19": 996,
+    "0": 1899,
+    "20": 7,
+    "6": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1549241711090212926",
+      "channel_id": "1300659662311526512",
+      "content": "Capaz tiene una habilidad que desintala el morimens automáticamente <:Ramona_tuf",
+      "author": "michinegro",
+      "reactions": 20,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1549236533666644080",
+      "channel_id": "1131839817982947429",
+      "content": "<:Lily_wow:1356084702468899117>",
+      "author": "sweet_25367",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549249434871926905",
+      "channel_id": "1170692781216378960",
+      "content": "Aight I’m too tired to do this proper rn but this should communicate the gist\n\nT",
+      "author": "mosske",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549231949221204050",
+      "channel_id": "1170692781216378960",
+      "content": "Ramona: lose keeper, study hard and become gramona\n\nGdoll: learning so much that",
+      "author": "jumpingheart123",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549254502488612944",
+      "channel_id": "1170692781216378960",
+      "content": "So if I scrap the cape I can add the princess into the dissolution from the shie",
+      "author": "mosske",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549260236093653063",
+      "channel_id": "1131839817982947429",
+      "content": "今期不辛苦自己繼續靈芝450差一場<:Ogier_cheer:1468259351889318049> ,不上排行榜450",
+      "author": "fgoisaac",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549260251209932883",
+      "channel_id": "1131839874132090890",
+      "content": "黑印大隊真開心",
+      "author": "akkom730",
+      "reactions": 4,
+      "channel": "🔸阵容构建"
+    },
+    {
+      "id": "1549216791023198209",
+      "channel_id": "1170692781216378960",
+      "content": "is there gogier kit info",
+      "author": "bloominglilian",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549226901405696124",
+      "channel_id": "1170692781216378960",
+      "content": "<:Casiah_wink:1356053053568192717>",
+      "author": "angbak",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549237135960178768",
+      "channel_id": "1170692781216378960",
+      "content": "Obvious wip disclaimer",
+      "author": "mosske",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549253434312626368",
+      "channel_id": "1170692781216378960",
+      "content": "GOgier’s shorts are unreal. Makes the whole design come across as goofy instead ",
+      "author": "sophiechoice",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549233718382698542",
+      "channel_id": "1300659662311526512",
+      "content": "cuando la u me de tiempo libre",
+      "author": "octekg",
+      "reactions": 4,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1549253160885948417",
+      "channel_id": "1131839817982947429",
+      "content": "H6-10 是有什么机制刷不到专武嘛？",
+      "author": "kemomimi_",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549213620259266620",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "princess.goth",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549213936845328446",
+      "channel_id": "1170692781216378960",
+      "content": "frost quit so i need to pick up the aequor player title",
+      "author": "princess.goth",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549218234383732797",
+      "channel_id": "1170692781216378960",
+      "content": "He’s a warden that converts % hp into shield <:Ramona_tuff_:1441426630420467753>",
+      "author": "frosthief",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549218507118608405",
+      "channel_id": "1170692781216378960",
+      "content": "Casiahing the veil <:Casiah_wink:1356053053568192717>",
+      "author": "2ndselna",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549221857608073288",
+      "channel_id": "1170692781216378960",
+      "content": "Carried by cash",
+      "author": "polkarain",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549221962092388426",
+      "channel_id": "1170692781216378960",
+      "content": "carried by cards smh, i bet the clear wouldnt happen without playing them",
+      "author": "direhands",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549222580433719328",
+      "channel_id": "1170692781216378960",
+      "content": "anyway casiah exalt dps (corrosion trigger bot) <:Casiah_wink:135605305356819271",
+      "author": "2ndselna",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
