@@ -1,8 +1,8 @@
 {
   "date": "2026-09-16",
-  "archived_at": "2026-09-16T03:16:49.642277+00:00",
+  "archived_at": "2026-09-16T10:50:35.995428+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[正面] cool",
@@ -23,6 +23,29 @@
         "playtime_forever": 219,
         "votes_up": 0,
         "timestamp_created": 1789525834
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] played 100+ hours in mobile. i love anything cthul...",
+      "summary": "played 100+ hours in mobile. i love anything cthulhu mythos; art and music and story are beautiful. this is also the only gacha game i play because it's fun instead of just purely for grinding.",
+      "source": "steam_review",
+      "time": "2026-09-16T09:18:39+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198803010980/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198803010980",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 345,
+        "votes_up": 0,
+        "timestamp_created": 1789550319
       },
       "region": "global",
       "archive_subtype": "review"

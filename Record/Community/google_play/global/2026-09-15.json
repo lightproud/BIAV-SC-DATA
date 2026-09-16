@@ -1,8 +1,8 @@
 {
   "date": "2026-09-15",
-  "archived_at": "2026-09-16T03:16:49.711828+00:00",
+  "archived_at": "2026-09-16T10:50:36.063169+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 สนุกอยู่นะ",
@@ -29,6 +29,20 @@
       "author": "OberonW Bond",
       "tags": [],
       "lang": "ru",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 really fun! and it's very generous to ne",
+      "summary": "really fun! and it's very generous to new players like myself",
+      "source": "google_play",
+      "time": "2026-09-15T05:40:56",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-58d88c18-08ba-4679-8010-df05432dcb53",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Toni Masters",
+      "tags": [],
+      "lang": "en",
       "platform_region": "",
       "region": "global"
     }
