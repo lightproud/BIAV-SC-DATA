@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-16",
+  "archived_at": "2026-09-16T03:16:49.642277+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] cool",
+      "summary": "cool",
+      "source": "steam_review",
+      "time": "2026-09-16T02:30:34+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198381317066/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198381317066",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 219,
+        "votes_up": 0,
+        "timestamp_created": 1789525834
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
