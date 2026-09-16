@@ -1,0 +1,212 @@
+{
+  "date": "2026-09-16",
+  "messages": 1945,
+  "unique_authors": 161,
+  "reactions_total": 226,
+  "attachments": 94,
+  "channel_activity": {
+    "🔸綜合討論": 211,
+    "🔸morimens-game-chat": 1074,
+    "🔸剧情交流": 12,
+    "🔸相位对弈": 1,
+    "🔸课间休息闲聊": 10,
+    "🔸日本語チャンネル": 2,
+    "🔸한국어-채팅방": 3,
+    "🔸русский-канал": 4,
+    "🔸phòng-chat-tiếng-việt": 9,
+    "🔸canal-español": 40,
+    "🔸canal-português": 11,
+    "🔸ruang-obrolan-indonesia": 92,
+    "🔸ห้องสนทนาภาษาไทย": 5,
+    "🔸traphase": 3,
+    "🔸lore-chat": 9,
+    "🔸team-building": 134,
+    "🔸general-chat": 48,
+    "🔸game-question": 237,
+    "🔸机器人命令┊bot-commands": 7,
+    "忘却前夜同人二创练习": 1,
+    "有圖就發": 1,
+    "Turn Rewind has to go": 7,
+    "Balance problem in arc2": 4,
+    "Pls give out origin of time for limited awakener & wheels": 4,
+    "Corposant and Last Verse \"Bugfix\"": 2,
+    "V2.5.1.0 停服维护公告": 3,
+    "On the D-Effect Zone Adjustments": 1,
+    "Sticklet's doodle/art dump": 2,
+    "百相自选唤醒要抽吗": 1,
+    "入坑一週": 7
+  },
+  "hourly_activity": {
+    "0": 358,
+    "1": 545,
+    "2": 277,
+    "3": 765
+  },
+  "message_types": {
+    "19": 550,
+    "0": 1391,
+    "20": 4
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1549626366524260363",
+      "channel_id": "1131839817982947429",
+      "content": "腸子是直的 第二道門徹底關不上",
+      "author": "yi000607",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549627295793152111",
+      "channel_id": "1131839817982947429",
+      "content": "喔不對 沙耶我C不動",
+      "author": "water_heart",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549577008160178220",
+      "channel_id": "1170692781216378960",
+      "content": "Wish me luck chat.",
+      "author": "sophiechoice",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549588005004513351",
+      "channel_id": "1549588005004513351",
+      "content": "这是一个基于忘进行的一套角色练习~~有对项目图进行学习分析~\n当时对世界观故事啥的不是很了解，就自己乱想了一个（\n由于很喜欢深海界域，所以这套都是往深海界域靠的",
+      "author": "hensonhjl",
+      "reactions": 6,
+      "channel": "忘却前夜同人二创练习"
+    },
+    {
+      "id": "1549622423434039399",
+      "channel_id": "1131839817982947429",
+      "content": "越是玩血肉越是覺得這界域沒幾個靠譜的傢伙",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549575319998955601",
+      "channel_id": "1170692781216378960",
+      "content": "67 <:Ogier_cheer:1468259351889318049>",
+      "author": "angbak",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549600297809350677",
+      "channel_id": "1433513650299076780",
+      "content": "depends on what youre doing",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1549616954518798377",
+      "channel_id": "1131839817982947429",
+      "content": "哇哦， 神鲸可以秒二阶段欸",
+      "author": "polkarain",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549626620841562153",
+      "channel_id": "1131839817982947429",
+      "content": "輔助，雷婭超級力量拐、艾繼絲易傷+石化增傷、泰綺絲究極數值跟機制、徐痴醉固定中毒增加50%、皮克曼能輔能C額外造物、沙耶群體高額侵蝕\n防禦，阿格里帕戒備、菲茵特",
+      "author": "under_bright_light",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549627105657098271",
+      "channel_id": "1131839817982947429",
+      "content": "C、C、C、C、C、C\nC、C、C",
+      "author": "water_heart",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549601472025595925",
+      "channel_id": "1433513650299076780",
+      "content": "Lmao",
+      "author": "flynnize",
+      "reactions": 4,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1549625772065423371",
+      "channel_id": "1131839817982947429",
+      "content": "反正我是直男💅 💅",
+      "author": "yi000607",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549625436500267194",
+      "channel_id": "1173463482503536711",
+      "content": "克萊門汀是不是花了一個章節來向守密人求偶啊？",
+      "author": "norven3032",
+      "reactions": 3,
+      "channel": "🔸剧情交流"
+    },
+    {
+      "id": "1549622597522685984",
+      "channel_id": "1300659603993923644",
+      "content": "",
+      "author": "vermiyy",
+      "reactions": 3,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1549592175761948773",
+      "channel_id": "1542954773261721731",
+      "content": "reminder that this still sucks and corpo should get buffed",
+      "author": "princess.goth",
+      "reactions": 3,
+      "channel": "Corposant and Last Verse \"Bugfix\""
+    },
+    {
+      "id": "1549589761398677625",
+      "channel_id": "1131839817982947429",
+      "content": "有大佬可以草死我嗎",
+      "author": "ahuahuahua",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549591302465912944",
+      "channel_id": "1131839817982947429",
+      "content": "問都是bug",
+      "author": "arr5721",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549620570558308485",
+      "channel_id": "1131839817982947429",
+      "content": "~~我們支持你把校貓炸掉~~",
+      "author": "foxcatfurry",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549620762715881544",
+      "channel_id": "1131839817982947429",
+      "content": "DC群是不是有更新過，我記得以前沒這麼完善",
+      "author": "takodachi_1.0_40142",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549625426157117525",
+      "channel_id": "1131839817982947429",
+      "content": "相位好久不更了<:Horla_cry:1357186646294138890>",
+      "author": "arr5721",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

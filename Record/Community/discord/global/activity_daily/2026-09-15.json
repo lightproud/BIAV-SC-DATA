@@ -1,33 +1,33 @@
 {
   "date": "2026-09-15",
-  "messages": 20182,
+  "messages": 20260,
   "unique_authors": 305,
-  "reactions_total": 3069,
-  "attachments": 999,
+  "reactions_total": 3092,
+  "attachments": 1004,
   "channel_activity": {
-    "🔸綜合討論": 2711,
-    "🔸morimens-game-chat": 9080,
+    "🔸綜合討論": 2713,
+    "🔸morimens-game-chat": 9098,
+    "🔸ruang-obrolan-indonesia": 349,
+    "🔸team-building": 900,
+    "🔸general-chat": 688,
+    "🔸邀请码互助┊swap-invitation-codes": 13,
+    "🔸game-question": 3511,
+    "Turn Rewind has to go": 16,
+    "Pls give out origin of time for limited awakener & wheels": 12,
+    "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 47,
     "🔸课间休息闲聊": 12,
     "🔸deutscher-chatraum": 20,
     "🔸chaîne-française": 10,
     "🔸русский-канал": 704,
     "🔸canal-português": 68,
-    "🔸ruang-obrolan-indonesia": 346,
     "🔸ห้องสนทนาภาษาไทย": 139,
     "🔸lore-chat": 234,
-    "🔸team-building": 890,
-    "🔸general-chat": 664,
-    "🔸邀请码互助┊swap-invitation-codes": 12,
-    "🔸game-question": 3503,
     "🔸机器人命令┊bot-commands": 54,
-    "Turn Rewind has to go": 14,
     "Suggestion For A Better Madness Mechanic": 9,
-    "Pls give out origin of time for limited awakener & wheels": 4,
     "Please think about Jenkins": 2,
     "D-tide Discussion": 130,
     "Impact of Version 2.6 Affinity Changes on Player Experience": 4,
     "Sticklet's doodle/art dump": 1,
-    "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 45,
     "🏆 忘却前夜第5届塔薇杯┊The 5th Tawil Cup of Morimens": 5,
     "Need help building teams for story and dzone later on": 5,
     "🔸日本語チャンネル": 13,
@@ -89,8 +89,8 @@
     "team building help": 1
   },
   "hourly_activity": {
+    "23": 301,
     "22": 605,
-    "23": 223,
     "20": 881,
     "21": 966,
     "16": 854,
@@ -115,8 +115,8 @@
     "2": 720
   },
   "message_types": {
-    "0": 13453,
-    "19": 6683,
+    "19": 6711,
+    "0": 13503,
     "20": 43,
     "6": 3
   },
@@ -226,6 +226,14 @@
       "channel": "V2.6.1 罪者的放逐┊The Sinner’s Exile┊죄인의 방축"
     },
     {
+      "id": "1549562534359470143",
+      "channel_id": "1131839817982947429",
+      "content": "~~羊媽豈不是普池隨便抽抽~~",
+      "author": "ahuahuahua",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
       "id": "1549505089130070227",
       "channel_id": "1170692781216378960",
       "content": "same...",
@@ -272,14 +280,6 @@
       "author": "enterlilies",
       "reactions": 7,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549417968859881543",
-      "channel_id": "1170692781216378960",
-      "content": "hmm i guess it works then\n\ni got 3 castors after 900 pulls",
-      "author": "dread_empress_meera",
-      "reactions": 7,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }
