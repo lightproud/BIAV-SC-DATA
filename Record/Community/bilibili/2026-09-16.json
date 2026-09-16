@@ -1,9 +1,43 @@
 {
   "date": "2026-09-16",
-  "archived_at": "2026-09-16T10:50:35.912234+00:00",
+  "archived_at": "2026-09-16T16:06:53.937363+00:00",
   "source": "bilibili",
-  "item_count": 8,
+  "item_count": 11,
   "items": [
+    {
+      "title": "【忘却前夜】负誓奥吉尔前瞻评测(可能有反转，目前总体不强)",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-16T13:16:05+00:00",
+      "url": "https://www.bilibili.com/video/av117280893637758",
+      "engagement": 3792,
+      "is_hot": false,
+      "author": "金发女人丨型",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/1b24d6b169ed43cd5eec7609c580c027ac2f36a1.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "[忘却前夜]负誓奥吉尔技能前瞻，基础一百狂气，独一无二的暗涌和自罪状态，感觉会很强",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-16T14:04:05+00:00",
+      "url": "https://www.bilibili.com/video/av117281078121605",
+      "engagement": 1337,
+      "is_hot": false,
+      "author": "渔歌伴晚舟",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/f305b89a952385984470c6a72f714c1ae2248131.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】无限成长的爆燃之主，复仇烈焰的强力大C！凯蒂古拉角色攻略",
       "summary": "地瓜也是翻身了，之前的风评都差不多和鸟弟一桌了",
@@ -70,6 +104,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/96f057bb83b2da73922c1893eac797534002cd7a.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "决战47！庞托斯单c癫狂首杀！庞布已然证道",
+      "summary": "庞布阵容是对的…庞托斯与卡拉布不是区",
+      "source": "bilibili",
+      "time": "2026-09-16T12:02:26+00:00",
+      "url": "https://www.bilibili.com/video/av117280591580406",
+      "engagement": 240,
+      "is_hot": false,
+      "author": "夜雨-月明",
+      "tags": [
+        "单机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/8bf83eae17bc9f03e239d0c847435c0d02dec449.jpg",
       "content_type": "video"
     },
     {

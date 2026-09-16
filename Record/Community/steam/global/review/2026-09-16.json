@@ -1,9 +1,32 @@
 {
   "date": "2026-09-16",
-  "archived_at": "2026-09-16T10:50:35.995428+00:00",
+  "archived_at": "2026-09-16T16:06:54.004170+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 5,
   "items": [
+    {
+      "title": "[负面] 入坑一个月多，只抽了3个池子，石螺、茉夏、淡墨+12，气笑了，美术和背刺玩家你是真行",
+      "summary": "入坑一个月多，只抽了3个池子，石螺、茉夏、淡墨+12，气笑了，美术和背刺玩家你是真行",
+      "source": "steam_review",
+      "time": "2026-09-16T12:08:44+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198305411045/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198305411045",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 75,
+        "votes_up": 1,
+        "timestamp_created": 1789560524
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[正面] cool",
       "summary": "cool",
@@ -46,6 +69,52 @@
         "playtime_forever": 345,
         "votes_up": 0,
         "timestamp_created": 1789550319
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 抽卡手游",
+      "summary": "抽卡手游",
+      "source": "steam_review",
+      "time": "2026-09-16T13:43:51+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198148868966/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198148868966",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 62,
+        "votes_up": 0,
+        "timestamp_created": 1789566231
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Очень прикольная игрушка с классной историей",
+      "summary": "Очень прикольная игрушка с классной историей",
+      "source": "steam_review",
+      "time": "2026-09-16T11:24:13+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199218552175/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199218552175",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2952,
+        "votes_up": 0,
+        "timestamp_created": 1789557853
       },
       "region": "global",
       "archive_subtype": "review"
