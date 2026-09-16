@@ -1,8 +1,8 @@
 {
   "date": "2026-09-16",
-  "archived_at": "2026-09-16T16:06:53.937363+00:00",
+  "archived_at": "2026-09-16T20:52:41.473403+00:00",
   "source": "bilibili",
-  "item_count": 11,
+  "item_count": 12,
   "items": [
     {
       "title": "【忘却前夜】负誓奥吉尔前瞻评测(可能有反转，目前总体不强)",
@@ -138,6 +138,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/cfbd7b31c296bca79f46fc427382e079d71e21e4.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】哎，硬吃刀子通关了！",
+      "summary": "哎，只有守密人牺牲自己封印托乎瓦波的单一结局吗？",
+      "source": "bilibili",
+      "time": "2026-09-16T08:59:03+00:00",
+      "url": "https://www.bilibili.com/video/av117279887001419",
+      "engagement": 106,
+      "is_hot": false,
+      "author": "真的被刀哭了",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/8c5a094e1cf1374a9cb0f2faaff2fc3a256a4b8f.jpg",
       "content_type": "video"
     },
     {

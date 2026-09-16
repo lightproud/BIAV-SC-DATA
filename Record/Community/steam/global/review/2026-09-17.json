@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-17",
+  "archived_at": "2026-09-16T20:52:41.557539+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[正面] it's chill and very generous",
+      "summary": "it's chill and very generous",
+      "source": "steam_review",
+      "time": "2026-09-16T17:37:06+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199128974207/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199128974207",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2367,
+        "votes_up": 0,
+        "timestamp_created": 1789580226
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] it's fun and interesting and the art is really goo...",
+      "summary": "it's fun and interesting and the art is really good",
+      "source": "steam_review",
+      "time": "2026-09-16T17:10:55+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198084322345/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198084322345",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 4792,
+        "votes_up": 0,
+        "timestamp_created": 1789578655
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
