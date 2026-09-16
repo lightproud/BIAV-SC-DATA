@@ -1,53 +1,228 @@
 {
   "date": "2026-09-16",
-  "messages": 1945,
-  "unique_authors": 161,
-  "reactions_total": 226,
-  "attachments": 94,
+  "messages": 7503,
+  "unique_authors": 277,
+  "reactions_total": 1027,
+  "attachments": 409,
   "channel_activity": {
-    "🔸綜合討論": 211,
-    "🔸morimens-game-chat": 1074,
-    "🔸剧情交流": 12,
-    "🔸相位对弈": 1,
-    "🔸课间休息闲聊": 10,
-    "🔸日本語チャンネル": 2,
-    "🔸한국어-채팅방": 3,
-    "🔸русский-канал": 4,
-    "🔸phòng-chat-tiếng-việt": 9,
-    "🔸canal-español": 40,
-    "🔸canal-português": 11,
-    "🔸ruang-obrolan-indonesia": 92,
-    "🔸ห้องสนทนาภาษาไทย": 5,
-    "🔸traphase": 3,
-    "🔸lore-chat": 9,
-    "🔸team-building": 134,
-    "🔸general-chat": 48,
-    "🔸game-question": 237,
-    "🔸机器人命令┊bot-commands": 7,
-    "忘却前夜同人二创练习": 1,
+    "🔸綜合討論": 538,
+    "🔸阵容构建": 14,
+    "🔸morimens-game-chat": 4005,
+    "🔸剧情交流": 67,
+    "🔸相位对弈": 5,
+    "🔸课间休息闲聊": 21,
+    "🔸日本語チャンネル": 20,
+    "🔸한국어-채팅방": 6,
+    "🔸deutscher-chatraum": 5,
+    "🔸chaîne-française": 7,
+    "🔸русский-канал": 89,
+    "🔸phòng-chat-tiếng-việt": 236,
+    "🔸canal-español": 43,
+    "🔸canal-português": 19,
+    "🔸ruang-obrolan-indonesia": 174,
+    "🔸ห้องสนทนาภาษาไทย": 122,
+    "🔸traphase": 150,
+    "🔸lore-chat": 61,
+    "🔸lets-count": 3,
+    "🔸频道建议┊server-suggestions": 17,
+    "🔸team-building": 439,
+    "🔸general-chat": 437,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "🔸game-question": 761,
+    "🔸机器人命令┊bot-commands": 29,
+    "忘却前夜同人二创练习": 3,
+    "Login Issues on Steam Deck": 2,
+    "Turn Rewind has to go": 64,
+    "Salvador Furnace doesn't recalculate correctly when gaining maximum HP": 1,
+    "雷婭計數建議": 1,
+    "戰鬥記錄力量數據錯誤": 1,
+    "Mono Chaos Relic Selection Bug": 2,
+    "Black screen upon game start on Steam": 1,
+    "汀克特旺達「本回合下次躍遷必定觸發」變不可疊加了？can’t use Tinct & Wanda “The next Leap this turn is guaranteed” in a roll?": 2,
+    "What are you going to do, Light?": 1,
+    "Caraboo ult seems to be killing me?": 1,
+    "请在意一下正常玩相位对弈的玩家": 3,
+    "噩梦难度仍然需要调整。": 1,
+    "Alternate realms Enhancement": 1,
+    "这红点消不掉": 4,
+    "Pls give out origin of time for limited awakener & wheels": 7,
+    "后续有重新加强角色的计划吗": 1,
+    "第六章命運之絲效果未觸發問題": 3,
+    "無法獲得護盾效果表現形式不同之錯誤": 1,
+    "Please think about Jenkins": 5,
+    "D-tide Discussion": 1,
+    "Corposant and Last Verse \"Bugfix\"": 3,
+    "Better handling of nerfs through bug fixes": 1,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 2,
+    "加强狂气回充": 1,
+    "Quadra / 4-Realm Rerun Banners": 5,
+    "阿格里帕最終法則相關": 4,
+    "Get Auto enable for dtide": 1,
+    "V2.5.1.0 停服维护公告": 8,
+    "I draq": 3,
+    "Sticklet's doodle/art dump": 3,
+    "My morimens arts": 1,
+    "Hameln Live2D Animation": 1,
+    "V2.6.1 坏坏档案照┊Naughty Mugshots┊장난기 가득 머그샷!": 54,
+    "V2.6.1 罪者的放逐┊The Sinner’s Exile┊죄인의 방축": 1,
+    "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 13,
+    "百相自选唤醒要抽吗": 5,
+    "Need help building teams for story and dzone later on": 4,
     "有圖就發": 1,
-    "Turn Rewind has to go": 7,
     "Balance problem in arc2": 4,
-    "Pls give out origin of time for limited awakener & wheels": 4,
-    "Corposant and Last Verse \"Bugfix\"": 2,
-    "V2.5.1.0 停服维护公告": 3,
     "On the D-Effect Zone Adjustments": 1,
-    "Sticklet's doodle/art dump": 2,
-    "百相自选唤醒要抽吗": 1,
     "入坑一週": 7
   },
   "hourly_activity": {
+    "3": 895,
+    "4": 662,
+    "5": 674,
+    "6": 920,
+    "7": 866,
+    "8": 997,
+    "9": 554,
+    "10": 721,
+    "11": 34,
     "0": 358,
     "1": 545,
-    "2": 277,
-    "3": 765
+    "2": 277
   },
   "message_types": {
-    "19": 550,
-    "0": 1391,
-    "20": 4
+    "19": 2239,
+    "0": 5252,
+    "20": 10,
+    "6": 2
   },
   "top_reacted_messages": [
+    {
+      "id": "1549675901761888306",
+      "channel_id": "1549675901761888306",
+      "content": "**V2.6.1 坏坏档案照**\n\n「来来来，都站好了！信息牌摆正，准备拍照。」\n「要像做了坏事被逮住一样，不可以嬉皮笑脸！」\n\n根据你此前的了解，负誓·奥吉尔",
+      "author": "morimensstaff06",
+      "reactions": 21,
+      "channel": "V2.6.1 坏坏档案照┊Naughty Mugshots┊장난기 가득 머그샷!"
+    },
+    {
+      "id": "1549680942229229578",
+      "channel_id": "1549675901761888306",
+      "content": "",
+      "author": "thpdom",
+      "reactions": 18,
+      "channel": "V2.6.1 坏坏档案照┊Naughty Mugshots┊장난기 가득 머그샷!"
+    },
+    {
+      "id": "1549679821842546749",
+      "channel_id": "1549675901761888306",
+      "content": "",
+      "author": "aurora3981",
+      "reactions": 16,
+      "channel": "V2.6.1 坏坏档案照┊Naughty Mugshots┊장난기 가득 머그샷!"
+    },
+    {
+      "id": "1549679833204662282",
+      "channel_id": "1549675901761888306",
+      "content": "",
+      "author": "reya.li",
+      "reactions": 15,
+      "channel": "V2.6.1 坏坏档案照┊Naughty Mugshots┊장난기 가득 머그샷!"
+    },
+    {
+      "id": "1549674470472417312",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "morimensstaff06",
+      "reactions": 14,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549635757407342603",
+      "channel_id": "1131839817982947429",
+      "content": "超好笑\n日服說昨天的克珀有技能貼錯\n今天放了新的\n\n看了一下基本都是調弱",
+      "author": "foxcatfurry",
+      "reactions": 12,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549691560814182441",
+      "channel_id": "1549675901761888306",
+      "content": "<@577083777797586945> Hello, please don't use game assets to generate AI content",
+      "author": "morimensstaff06",
+      "reactions": 12,
+      "channel": "V2.6.1 坏坏档案照┊Naughty Mugshots┊장난기 가득 머그샷!"
+    },
+    {
+      "id": "1549703901106933761",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "universe.dark",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549716600557539368",
+      "channel_id": "1131839817982947429",
+      "content": "500了",
+      "author": "0.0._.0_0.",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549685915880792154",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549645047283060827",
+      "channel_id": "1549645047283060827",
+      "content": "Very uninished Thais WIP",
+      "author": "11wildhunt_1",
+      "reactions": 10,
+      "channel": "I draq"
+    },
+    {
+      "id": "1549681498548863016",
+      "channel_id": "1549675901761888306",
+      "content": "",
+      "author": "gersona6",
+      "reactions": 10,
+      "channel": "V2.6.1 坏坏档案照┊Naughty Mugshots┊장난기 가득 머그샷!"
+    },
+    {
+      "id": "1549729607127797821",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "zi106037",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549728244478246985",
+      "channel_id": "1385040039448412170",
+      "content": "Just to be clear, since I don't see anyone disagreeing with this, I assume there",
+      "author": "angbak",
+      "reactions": 9,
+      "channel": "🔸频道建议┊server-suggestions"
+    },
+    {
+      "id": "1549696934518726707",
+      "channel_id": "1549675901761888306",
+      "content": "",
+      "author": "spooky_penguin_",
+      "reactions": 7,
+      "channel": "V2.6.1 坏坏档案照┊Naughty Mugshots┊장난기 가득 머그샷!"
+    },
+    {
+      "id": "1549704011471519895",
+      "channel_id": "1549675901761888306",
+      "content": "",
+      "author": "universe.dark",
+      "reactions": 7,
+      "channel": "V2.6.1 坏坏档案照┊Naughty Mugshots┊장난기 가득 머그샷!"
+    },
     {
       "id": "1549626366524260363",
       "channel_id": "1131839817982947429",
@@ -65,147 +240,19 @@
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1549577008160178220",
-      "channel_id": "1170692781216378960",
-      "content": "Wish me luck chat.",
-      "author": "sophiechoice",
+      "id": "1549637526061318295",
+      "channel_id": "1131839817982947429",
+      "content": "校貓小巧思",
+      "author": "kevin.yienwenst",
       "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549588005004513351",
-      "channel_id": "1549588005004513351",
-      "content": "这是一个基于忘进行的一套角色练习~~有对项目图进行学习分析~\n当时对世界观故事啥的不是很了解，就自己乱想了一个（\n由于很喜欢深海界域，所以这套都是往深海界域靠的",
-      "author": "hensonhjl",
-      "reactions": 6,
-      "channel": "忘却前夜同人二创练习"
-    },
-    {
-      "id": "1549622423434039399",
-      "channel_id": "1131839817982947429",
-      "content": "越是玩血肉越是覺得這界域沒幾個靠譜的傢伙",
-      "author": "water_heart",
-      "reactions": 5,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1549575319998955601",
-      "channel_id": "1170692781216378960",
-      "content": "67 <:Ogier_cheer:1468259351889318049>",
-      "author": "angbak",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549600297809350677",
-      "channel_id": "1433513650299076780",
-      "content": "depends on what youre doing",
-      "author": "princess.goth",
-      "reactions": 5,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1549616954518798377",
+      "id": "1549701866810515487",
       "channel_id": "1131839817982947429",
-      "content": "哇哦， 神鲸可以秒二阶段欸",
-      "author": "polkarain",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549626620841562153",
-      "channel_id": "1131839817982947429",
-      "content": "輔助，雷婭超級力量拐、艾繼絲易傷+石化增傷、泰綺絲究極數值跟機制、徐痴醉固定中毒增加50%、皮克曼能輔能C額外造物、沙耶群體高額侵蝕\n防禦，阿格里帕戒備、菲茵特",
-      "author": "under_bright_light",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549627105657098271",
-      "channel_id": "1131839817982947429",
-      "content": "C、C、C、C、C、C\nC、C、C",
-      "author": "water_heart",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549601472025595925",
-      "channel_id": "1433513650299076780",
-      "content": "Lmao",
-      "author": "flynnize",
-      "reactions": 4,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1549625772065423371",
-      "channel_id": "1131839817982947429",
-      "content": "反正我是直男💅 💅",
+      "content": "就寫「我不該貪財，我自願成為飛機杯」",
       "author": "yi000607",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549625436500267194",
-      "channel_id": "1173463482503536711",
-      "content": "克萊門汀是不是花了一個章節來向守密人求偶啊？",
-      "author": "norven3032",
-      "reactions": 3,
-      "channel": "🔸剧情交流"
-    },
-    {
-      "id": "1549622597522685984",
-      "channel_id": "1300659603993923644",
-      "content": "",
-      "author": "vermiyy",
-      "reactions": 3,
-      "channel": "🔸phòng-chat-tiếng-việt"
-    },
-    {
-      "id": "1549592175761948773",
-      "channel_id": "1542954773261721731",
-      "content": "reminder that this still sucks and corpo should get buffed",
-      "author": "princess.goth",
-      "reactions": 3,
-      "channel": "Corposant and Last Verse \"Bugfix\""
-    },
-    {
-      "id": "1549589761398677625",
-      "channel_id": "1131839817982947429",
-      "content": "有大佬可以草死我嗎",
-      "author": "ahuahuahua",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549591302465912944",
-      "channel_id": "1131839817982947429",
-      "content": "問都是bug",
-      "author": "arr5721",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549620570558308485",
-      "channel_id": "1131839817982947429",
-      "content": "~~我們支持你把校貓炸掉~~",
-      "author": "foxcatfurry",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549620762715881544",
-      "channel_id": "1131839817982947429",
-      "content": "DC群是不是有更新過，我記得以前沒這麼完善",
-      "author": "takodachi_1.0_40142",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549625426157117525",
-      "channel_id": "1131839817982947429",
-      "content": "相位好久不更了<:Horla_cry:1357186646294138890>",
-      "author": "arr5721",
-      "reactions": 2,
+      "reactions": 6,
       "channel": "🔸綜合討論"
     }
   ]
