@@ -1,8 +1,8 @@
 {
   "date": "2026-09-17",
-  "archived_at": "2026-09-16T20:52:41.472631+00:00",
+  "archived_at": "2026-09-16T23:33:09.200526+00:00",
   "source": "youtube",
-  "item_count": 6,
+  "item_count": 8,
   "items": [
     {
       "title": "ARTIST AWAKENS MORIMENS LOVECRAFTIAN BEAUTIES",
@@ -68,6 +68,40 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/I5ck8gr1lPU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Un ANGEL CAIDO en Este Infierno/MORIMENS Parte 2",
+      "summary": "Segunda vez jugando este juego, es un juego estilo lovecrafteano gacha.",
+      "source": "youtube",
+      "time": "2026-09-16T23:08:30Z",
+      "url": "https://www.youtube.com/watch?v=gTi_epIERKE",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Eli Daly Virtual",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/gTi_epIERKE/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "忘卻前夜 Morimens New Moon and Deep Snow Event - Eye Madness",
+      "summary": "Was considering what to use here but Pontos felt the nicest just so I could bypass her massive damage with giant strength down ...",
+      "source": "youtube",
+      "time": "2026-09-16T22:47:50Z",
+      "url": "https://www.youtube.com/watch?v=smayPhEryAQ",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Kiro Takahashi",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/smayPhEryAQ/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

@@ -1,8 +1,8 @@
 {
   "date": "2026-09-17",
-  "archived_at": "2026-09-16T20:52:41.557539+00:00",
+  "archived_at": "2026-09-16T23:33:09.303463+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] it's chill and very generous",
@@ -46,6 +46,29 @@
         "playtime_forever": 4792,
         "votes_up": 0,
         "timestamp_created": 1789578655
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] fun game not for you if you dislike gatcha and hea...",
+      "summary": "fun game not for you if you dislike gatcha and heavy lore tho",
+      "source": "steam_review",
+      "time": "2026-09-16T22:05:14+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199467666743/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199467666743",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 391,
+        "votes_up": 0,
+        "timestamp_created": 1789596314
       },
       "region": "global",
       "archive_subtype": "review"
