@@ -1,17 +1,44 @@
 {
   "date": "2026-09-16",
-  "messages": 2,
-  "unique_authors": 1,
-  "reactions_total": 0,
+  "messages": 7,
+  "unique_authors": 2,
+  "reactions_total": 3,
   "attachments": 0,
   "channel_activity": {
-    "general-discussion": 2
+    "general-discussion": 7
   },
   "hourly_activity": {
+    "6": 5,
     "3": 2
   },
   "message_types": {
-    "0": 2
+    "19": 4,
+    "0": 3
   },
-  "top_reacted_messages": []
+  "top_reacted_messages": [
+    {
+      "id": "1549669324279517195",
+      "channel_id": "1402941858606219294",
+      "content": "We volunteers usually get to work on those early to make sure the terms are fini",
+      "author": "anicillia",
+      "reactions": 1,
+      "channel": "general-discussion"
+    },
+    {
+      "id": "1549672730570399775",
+      "channel_id": "1402941858606219294",
+      "content": "Let me check on the situation. Generally speaking, we will update the correspond",
+      "author": "morimensstaff03",
+      "reactions": 1,
+      "channel": "general-discussion"
+    },
+    {
+      "id": "1549674270349721611",
+      "channel_id": "1402941858606219294",
+      "content": "Oh I see! That’s fine as well!",
+      "author": "anicillia",
+      "reactions": 1,
+      "channel": "general-discussion"
+    }
+  ]
 }
