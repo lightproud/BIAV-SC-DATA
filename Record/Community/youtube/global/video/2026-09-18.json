@@ -1,8 +1,8 @@
 {
   "date": "2026-09-18",
-  "archived_at": "2026-09-17T20:57:30.652848+00:00",
+  "archived_at": "2026-09-17T23:24:05.464564+00:00",
   "source": "youtube",
-  "item_count": 9,
+  "item_count": 10,
   "items": [
     {
       "title": "忘却前夜　コーパサント引いて編成考える　一応今回は本気出す",
@@ -68,6 +68,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/HEe-Yk0ozY4/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【#忘却前夜  】深海新キャラ、コーパサント！深海縛りでイベント走る！【#推し活】",
+      "summary": "忘却前夜やっていきます！ トゥルーくんが好きな初心者守秘者です！ ふれんどよければなりましょー！ UID：200148472 まだの ...",
+      "source": "youtube",
+      "time": "2026-09-17T22:16:35Z",
+      "url": "https://www.youtube.com/watch?v=xfTreIJN2qI",
+      "engagement": 200,
+      "is_hot": false,
+      "author": "卯咲乃ぬい",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/xfTreIJN2qI/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
