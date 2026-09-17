@@ -1,9 +1,60 @@
 {
   "date": "2026-09-17",
-  "archived_at": "2026-09-17T03:22:17.359800+00:00",
+  "archived_at": "2026-09-17T10:57:27.406779+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 4,
   "items": [
+    {
+      "title": "『忘却前夜』4神国癫狂2-7",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-17T05:11:59+00:00",
+      "url": "https://www.bilibili.com/video/av117284651669605",
+      "engagement": 1370,
+      "is_hot": false,
+      "author": "金发女人丨型",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/1db7b7eeccf90678cfa4dd405aafe63a7f047a02.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "525理论最强队伍?无伤通关癫狂鸟弟?满血满盾出伤千万?双常驻省配置24有多强?",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-17T09:30:03+00:00",
+      "url": "https://www.bilibili.com/video/av117285658435483",
+      "engagement": 252,
+      "is_hot": false,
+      "author": "路过的耄耋",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/12dde9bcec7a613d97f9444476679aa4d90ea72d.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【融灾】2-3神罗坦大方展现女性魅力，一剑秒鸟哥",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-17T06:52:43+00:00",
+      "url": "https://www.bilibili.com/video/av117285037547474",
+      "engagement": 151,
+      "is_hot": false,
+      "author": "苍崎橙子灬",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/8e6de57ea71855b6c3d39a233c6fdda945013003.jpg",
+      "content_type": "video"
+    },
     {
       "title": "茉夏20同调留念",
       "summary": "",

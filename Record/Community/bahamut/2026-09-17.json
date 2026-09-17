@@ -1,8 +1,8 @@
 {
   "date": "2026-09-17",
-  "archived_at": "2026-09-17T03:22:17.352736+00:00",
+  "archived_at": "2026-09-17T10:57:27.407241+00:00",
   "source": "bahamut",
-  "item_count": 22,
+  "item_count": 23,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -247,6 +247,19 @@
       "engagement": 5,
       "is_hot": false,
       "author": "jack01212537",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【日服】全新命輪：伊瑪格診療室",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-17T10:56:27.925168+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1578&tnum=1",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "t12345825",
       "tags": [],
       "lang": "zh",
       "platform_region": ""

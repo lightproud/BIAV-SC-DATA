@@ -1,8 +1,8 @@
 {
   "date": "2026-09-16",
-  "archived_at": "2026-09-17T03:22:17.350918+00:00",
+  "archived_at": "2026-09-17T10:57:27.406170+00:00",
   "source": "bilibili",
-  "item_count": 13,
+  "item_count": 14,
   "items": [
     {
       "title": "【忘却前夜】负誓奥吉尔前瞻评测(可能有反转，目前总体不强)",
@@ -121,6 +121,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/8bf83eae17bc9f03e239d0c847435c0d02dec449.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】融灾500无灵知 （9.14-9.27）",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-16T13:00:52+00:00",
+      "url": "https://www.bilibili.com/video/av117280809812328",
+      "engagement": 128,
+      "is_hot": false,
+      "author": "ぽんとねい",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/0be59540f82c3eb2f307551a70d02f3eaeac24f5.jpg",
       "content_type": "video"
     },
     {
