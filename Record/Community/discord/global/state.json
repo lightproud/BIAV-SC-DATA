@@ -303,7 +303,7 @@
       "forbidden": true
     },
     "1170692781216378960": {
-      "last_message_id": "1550248718366810263",
+      "last_message_id": "1550287787972886582",
       "name": "🔸morimens-game-chat",
       "last_historical_message_id": "1135723570790400000",
       "last_historical_month": "2023-07"
@@ -706,31 +706,31 @@
       "last_historical_month": "2023-07"
     },
     "1300659525812097026": {
-      "last_message_id": "1550250958347440250",
+      "last_message_id": "1550257464027516939",
       "name": "🔸deutscher-chatraum",
       "last_historical_message_id": "1135723570790400000",
       "last_historical_month": "2023-07"
     },
     "1300659552701648960": {
-      "last_message_id": "1550226881192796241",
+      "last_message_id": "1550263437882302545",
       "name": "🔸chaîne-française",
       "last_historical_message_id": "1135723570790400000",
       "last_historical_month": "2023-07"
     },
     "1300659580446969918": {
-      "last_message_id": "1550250514107727924",
+      "last_message_id": "1550285388948701196",
       "name": "🔸русский-канал",
       "last_historical_message_id": "1135723570790400000",
       "last_historical_month": "2023-07"
     },
     "1300659603993923644": {
-      "last_message_id": "1550215957027360969",
+      "last_message_id": "1550251156314263563",
       "name": "🔸phòng-chat-tiếng-việt",
       "last_historical_message_id": "1135723570790400000",
       "last_historical_month": "2023-07"
     },
     "1300659662311526512": {
-      "last_message_id": "1550245736707395615",
+      "last_message_id": "1550279117394673756",
       "name": "🔸canal-español",
       "last_historical_message_id": "1135723570790400000",
       "last_historical_month": "2023-07"
@@ -742,13 +742,13 @@
       "last_historical_month": "2023-07"
     },
     "1300659753197764688": {
-      "last_message_id": "1550202372888731751",
+      "last_message_id": "1550265623257415701",
       "name": "🔸ruang-obrolan-indonesia",
       "last_historical_message_id": "1135723570790400000",
       "last_historical_month": "2023-07"
     },
     "1300659802455674972": {
-      "last_message_id": "1550200479059804312",
+      "last_message_id": "1550267197832699985",
       "name": "🔸ห้องสนทนาภาษาไทย",
       "last_historical_message_id": "1135723570790400000",
       "last_historical_month": "2023-07"
@@ -766,13 +766,13 @@
       "forbidden": true
     },
     "1326453691527594035": {
-      "last_message_id": "1550114977657004055",
+      "last_message_id": "1550283374797520937",
       "name": "🔸traphase",
       "last_historical_message_id": "1135723570790400000",
       "last_historical_month": "2023-07"
     },
     "1326453763355185215": {
-      "last_message_id": "1550218055135527013",
+      "last_message_id": "1550267137522929816",
       "name": "🔸lore-chat",
       "last_historical_message_id": "1135723570790400000",
       "last_historical_month": "2023-07"
@@ -1083,13 +1083,13 @@
       "last_historical_month": "2023-07"
     },
     "1400749543288475770": {
-      "last_message_id": "1550215875490222211",
+      "last_message_id": "1550284762911084676",
       "name": "🔸team-building",
       "last_historical_message_id": "1135723570790400000",
       "last_historical_month": "2023-07"
     },
     "1400750050208125010": {
-      "last_message_id": "1550250509309321348",
+      "last_message_id": "1550283904089456733",
       "name": "🔸general-chat",
       "last_historical_message_id": "1135723570790400000",
       "last_historical_month": "2023-07"
@@ -1115,7 +1115,7 @@
       ]
     },
     "1433513650299076780": {
-      "last_message_id": "1550250963581796555",
+      "last_message_id": "1550287849587347487",
       "name": "🔸game-question",
       "last_historical_message_id": "1135723570790400000",
       "last_historical_month": "2023-07"
@@ -1161,7 +1161,7 @@
       ]
     },
     "1436913827571695898": {
-      "last_message_id": "1550220654454775929",
+      "last_message_id": "1550279634514346205",
       "name": "🔸机器人命令┊bot-commands",
       "last_historical_message_id": "1135723570790400000",
       "last_historical_month": "2023-07"
@@ -36979,7 +36979,7 @@
       "last_message_id": "1540852772595966013"
     },
     "thread:1540919632490270720": {
-      "last_message_id": "1549907443075784805"
+      "last_message_id": "1550278096525992038"
     },
     "thread:1540919230604509184": {
       "last_message_id": "1540919359457726594"
@@ -37467,7 +37467,7 @@
       "last_message_id": "1543747270522970142"
     },
     "thread:1543760297637187614": {
-      "last_message_id": "1550251819131740251"
+      "last_message_id": "1550285010991325275"
     },
     "thread:1543758747686412298": {
       "last_message_id": "1544775192943796359"
@@ -38133,7 +38133,7 @@
       "last_message_id": "1549072540905906257"
     },
     "thread:1549128407164657725": {
-      "last_message_id": "1549979733578747935"
+      "last_message_id": "1550261602232705045"
     },
     "thread:1549125424351813784": {
       "last_message_id": "1549331896620810261"
@@ -38252,17 +38252,23 @@
       "last_message_id": "1550183483987464334"
     },
     "thread:1550132466080153640": {
-      "last_message_id": "1550249861977215037"
+      "last_message_id": "1550268403229663353"
     },
     "thread:1550169444121186446": {
       "last_message_id": "1550178007229136947"
     },
     "thread:1550144842296729620": {
       "last_message_id": "1550144858281480235"
+    },
+    "thread:1550265054740357243": {
+      "last_message_id": "1550265054740357243"
+    },
+    "thread:1550255503182012416": {
+      "last_message_id": "1550257719728939021"
     }
   },
   "historical_month": null,
-  "last_run": "2026-09-17T21:38:04.204764+00:00",
+  "last_run": "2026-09-17T23:34:46.674809+00:00",
   "forum_starter_backfill": {
     "completed": [
       "thread:1171395702887305216",
@@ -50069,7 +50075,9 @@
       "thread:1550138097583390820",
       "thread:1550159549682421820",
       "thread:1550161208714465290",
-      "thread:1550169444121186446"
+      "thread:1550169444121186446",
+      "thread:1550255503182012416",
+      "thread:1550265054740357243"
     ],
     "skipped_no_starter": [
       "thread:1180598720513982555",
@@ -50625,7 +50633,7 @@
       "thread:1550144842296729620"
     ],
     "started_at": "2026-05-05T19:16:58.489537+00:00",
-    "last_run_at": "2026-09-17T16:35:22.422853+00:00"
+    "last_run_at": "2026-09-17T23:34:46.878783+00:00"
   },
   "history_backfill_complete": true
 }
