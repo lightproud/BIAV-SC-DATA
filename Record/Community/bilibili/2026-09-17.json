@@ -1,8 +1,8 @@
 {
   "date": "2026-09-17",
-  "archived_at": "2026-09-17T16:13:42.213150+00:00",
+  "archived_at": "2026-09-17T20:57:30.652109+00:00",
   "source": "bilibili",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "『忘却前夜』4神国癫狂2-7",
@@ -70,6 +70,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/d770db7ae8061e32d278c0320d0dc7f58d0296bb.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "普通零氪党亡羊补牢中.....",
+      "summary": "家里人睡觉了，小声bb......\n混沌24一般不怎么带女仆的，不过带法很多，小骑士、普朵这些都能灵活替换，如果这俩都用了那带女仆也行，主要看个人box和个人喜好了",
+      "source": "bilibili",
+      "time": "2026-09-17T05:26:14+00:00",
+      "url": "https://www.bilibili.com/video/av117284702063316",
+      "engagement": 100,
+      "is_hot": false,
+      "author": "像火星照耀着州府",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/78867cd7afeecf6f6e58091eb06218fba3b25c84.jpg",
       "content_type": "video"
     },
     {

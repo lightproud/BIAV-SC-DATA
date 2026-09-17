@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-18",
+  "archived_at": "2026-09-17T20:57:30.749406+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] story is kind of generic. gameplay is ok. personal...",
+      "summary": "story is kind of generic. gameplay is ok. personally find it more enjoyable than not.",
+      "source": "steam_review",
+      "time": "2026-09-17T17:03:26+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198120667441/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198120667441",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 362,
+        "votes_up": 0,
+        "timestamp_created": 1789664606
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
