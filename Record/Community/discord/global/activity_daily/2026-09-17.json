@@ -1,57 +1,229 @@
 {
   "date": "2026-09-17",
-  "messages": 3021,
-  "unique_authors": 181,
-  "reactions_total": 174,
-  "attachments": 161,
+  "messages": 6821,
+  "unique_authors": 252,
+  "reactions_total": 633,
+  "attachments": 362,
   "channel_activity": {
-    "🔸綜合討論": 82,
-    "🔸morimens-game-chat": 1095,
-    "🔸相位对弈": 2,
-    "🔸课间休息闲聊": 11,
+    "🔸綜合討論": 513,
+    "🔸morimens-game-chat": 2977,
+    "🔸剧情交流": 6,
+    "🔸相位对弈": 5,
+    "🔸课间休息闲聊": 20,
+    "🔸交友频道": 5,
+    "🔸日本語チャンネル": 3,
+    "🔸deutscher-chatraum": 17,
+    "🔸русский-канал": 118,
+    "🔸phòng-chat-tiếng-việt": 234,
+    "🔸canal-español": 47,
+    "🔸canal-português": 44,
+    "🔸ruang-obrolan-indonesia": 330,
+    "🔸ห้องสนทนาภาษาไทย": 114,
+    "🔸traphase": 161,
+    "🔸lore-chat": 15,
+    "🔸lets-count": 3,
+    "🔸team-building": 201,
+    "🔸general-chat": 1153,
+    "🔸邀请码互助┊swap-invitation-codes": 3,
+    "🔸game-question": 647,
+    "🔸机器人命令┊bot-commands": 20,
+    "新服装介绍": 2,
+    "堆图ing": 3,
+    "是不是也該在這裡蓋個圖樓👁️": 3,
+    "Slay the Spire Morimens Modding Log 殺戮尖塔模組": 2,
+    "SP小騎士技能是忘卻前夜文案徵人廣告嗎": 1,
+    "Login Issues on Steam Deck": 2,
+    "Entering the game": 3,
+    "Bonded covenants are counted as no covenant equipped when exporting team code.": 2,
+    "[Bug] Deadly Duel still in deck after using Exalt": 1,
+    "Balance problem in arc2": 1,
+    "Reproduction Frenzy(Please extend story scenes)": 5,
+    "D-tide Discussion": 48,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 3,
+    "Divine Realms, Aliemus Costs and other Future Worries": 1,
+    "GooglePlay充值功能恢复公告┊GooglePlay Recharge Feature Restoration Announcement": 1,
+    "V2.5.1.0 停服维护公告": 12,
+    "On the D-Effect Zone Adjustments": 6,
+    "doreposting / unserious doodles / doreyap": 1,
+    "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개": 20,
+    "V2.6.1 坏坏档案照┊Naughty Mugshots┊장난기 가득 머그샷!": 2,
+    "How to Spend Cores": 2,
     "🔸한국어-채팅방": 1,
-    "🔸русский-канал": 54,
-    "🔸phòng-chat-tiếng-việt": 18,
-    "🔸canal-español": 43,
-    "🔸canal-português": 24,
-    "🔸ruang-obrolan-indonesia": 123,
-    "🔸ห้องสนทนาภาษาไทย": 4,
-    "🔸traphase": 8,
-    "🔸lore-chat": 11,
-    "🔸team-building": 81,
-    "🔸general-chat": 983,
-    "🔸邀请码互助┊swap-invitation-codes": 2,
-    "🔸game-question": 381,
     "🔸游戏问题": 44,
-    "🔸机器人命令┊bot-commands": 9,
-    "新服装介绍": 1,
     "这个那个": 1,
-    "Slay the Spire Morimens Modding Log 殺戮尖塔模組": 1,
-    "Login Issues on Steam Deck": 1,
     "Black screen upon game start on Steam": 1,
     "Pls give out origin of time for limited awakener & wheels": 12,
-    "D-tide Discussion": 7,
-    "V2.5.1.0 停服维护公告": 3,
-    "On the D-Effect Zone Adjustments": 1,
     "Caecus :3": 1,
-    "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개": 12,
     "忘却前夜怪物图鉴": 1,
     "融災組隊": 1,
     "Need help building teams for story and dzone later on": 1,
     "I don’t understand teams": 1
   },
   "hourly_activity": {
+    "3": 565,
+    "4": 611,
+    "5": 606,
+    "6": 457,
+    "7": 285,
+    "8": 619,
+    "9": 645,
+    "10": 475,
+    "11": 98,
     "0": 592,
     "1": 912,
-    "2": 956,
-    "3": 561
+    "2": 956
   },
   "message_types": {
-    "0": 2131,
-    "19": 882,
-    "20": 8
+    "19": 1918,
+    "0": 4884,
+    "20": 18,
+    "6": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1550070240891633827",
+      "channel_id": "1131839817982947429",
+      "content": "今天不确定有没有其实（）",
+      "author": "morimensstaff06",
+      "reactions": 12,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549999754325266624",
+      "channel_id": "1131839817982947429",
+      "content": "玩梗适度行不行?忘卻前夜玩家是那种软软 奶奶的女孩子,一碰耳朵脸就会红的女 孩子,吵架的话会哭着打奶嗝。宝宝们 甜甜软软香香的,一捏就哭,一哭就会 打起奶嗝,浑",
+      "author": "cakolu781",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549999312581427221",
+      "channel_id": "1131839817982947429",
+      "content": "你上節課還幫我打困難來著",
+      "author": "cakolu781",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550002561883578449",
+      "channel_id": "1131839817982947429",
+      "content": "无所谓\ndc不卸载就行了\n这才是游戏本体",
+      "author": "ling_an_",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549997066598481931",
+      "channel_id": "1131839817982947429",
+      "content": "有大老能給我草嗎",
+      "author": "cakolu781",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1549999586628603915",
+      "channel_id": "1131839817982947429",
+      "content": "其實我都在潛水而已我一直在🤡",
+      "author": "cakolu781",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550001285489496116",
+      "channel_id": "1131839817982947429",
+      "content": "這應該是在表達作者懷才不遇，及屢遭貶官的抑鬱心情",
+      "author": "cakolu781",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550001964048191499",
+      "channel_id": "1131839817982947429",
+      "content": "我已经反复重开凹初始造物了",
+      "author": "ling_an_",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550007101449834569",
+      "channel_id": "1131839817982947429",
+      "content": "甜蜜蜜蜂蜜大人和豐川星點點小蛋糕甜甜萌心小奶貓蘑菇菇星點點小蛋糕甜甜萌心小奶貓蘑菇菇祥子你們兩個也很閃",
+      "author": "arr5721",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550070356612751421",
+      "channel_id": "1131839817982947429",
+      "content": "<:Karen_guilty:1468258923009282140>",
+      "author": "morimensstaff06",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550015710137290863",
+      "channel_id": "1326453763355185215",
+      "content": "Is Salvatore, Pontos's twin brother?",
+      "author": "redpallete",
+      "reactions": 6,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1550024780839911567",
+      "channel_id": "1543760297637187614",
+      "content": "Idk 60 lvl characters enough for madness...Almost f2p clear)",
+      "author": "noreadjustwhale",
+      "reactions": 6,
+      "channel": "D-tide Discussion"
+    },
+    {
+      "id": "1549998434738503691",
+      "channel_id": "1131839817982947429",
+      "content": "癫狂，拿450的工具罢了",
+      "author": "polkarain",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550002143237247058",
+      "channel_id": "1131839817982947429",
+      "content": "我要讓你們所有人感受到活到頭",
+      "author": "cakolu781",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550002897197076571",
+      "channel_id": "1131839817982947429",
+      "content": "他必須陪我赤石",
+      "author": "cakolu781",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550022599315038274",
+      "channel_id": "1131839817982947429",
+      "content": "？",
+      "author": "oiia_0216",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550071787256156190",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "foxcatfurry",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550068803805778011",
+      "channel_id": "1170692781216378960",
+      "content": "Dude I hit Caraboo's exalt in the trial and the game immediately crashed",
+      "author": "alistiel",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1549950477527945230",
       "channel_id": "1131839817982947429",
@@ -67,150 +239,6 @@
       "author": "fgoisaac",
       "reactions": 5,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549982994029224028",
-      "channel_id": "1131839817982947429",
-      "content": "先說我其實是直男啦，誰說這樣就是男同的💅",
-      "author": "yi000607",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549945610499661925",
-      "channel_id": "1131839817982947429",
-      "content": "看到有人说把2费和x费删了，当神混工具人",
-      "author": "polkarain",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549960548504830043",
-      "channel_id": "1131839817982947429",
-      "content": "~~看來大家都是用流明換金券~~",
-      "author": "fon_tain",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549967384591212626",
-      "channel_id": "1170692781216378960",
-      "content": "Ozai when the kid shoots lighting:",
-      "author": "justeunchatennuyeux",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549933803819114668",
-      "channel_id": "1549933803819114668",
-      "content": "I was bored :33",
-      "author": "n1k0l4111_79",
-      "reactions": 4,
-      "channel": "Caecus :3"
-    },
-    {
-      "id": "1549959838312824962",
-      "channel_id": "1131839817982947429",
-      "content": "啊？原來我打這麼少次嗎<:Brown_think:1459080117308620996>",
-      "author": "fon_tain",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549979727261868072",
-      "channel_id": "1131839817982947429",
-      "content": "死抗戰神",
-      "author": "xianrenwurao",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549933913030533151",
-      "channel_id": "1170692781216378960",
-      "content": "I don't use the support system >_>",
-      "author": "syro_k",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549973656120074353",
-      "channel_id": "1170692781216378960",
-      "content": "Understood. Giving the next chapter boss Permanent Fervor.",
-      "author": "skigloves",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549935300753625098",
-      "channel_id": "1300659718653476925",
-      "content": "uma horla no standard,ta bom.",
-      "author": "celsolf",
-      "reactions": 3,
-      "channel": "🔸canal-português"
-    },
-    {
-      "id": "1549959559966101556",
-      "channel_id": "1433513650299076780",
-      "content": "Alright how does this look?",
-      "author": "kazuki420",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1549935494060839045",
-      "channel_id": "1170692781216378960",
-      "content": "Bad 450 done",
-      "author": "guava3442",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549935500473933998",
-      "channel_id": "1170692781216378960",
-      "content": "Game would rather give me this",
-      "author": "umagan_",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549936432754462731",
-      "channel_id": "1170692781216378960",
-      "content": "I have cassiah 😄",
-      "author": "umagan_",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549950751185575959",
-      "channel_id": "1170692781216378960",
-      "content": "saw 300 str and realized it was oe lets all kill ourselves",
-      "author": "lukityswoogity",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549958124843180095",
-      "channel_id": "1170692781216378960",
-      "content": "\"Posse to make 2-cost take effect 2x\" 🔥",
-      "author": "ashd3x",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549962346682781819",
-      "channel_id": "1170692781216378960",
-      "content": "if someone looks at you funny start explaining what Thais tentacles do",
-      "author": "bru0001",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549963557289066598",
-      "channel_id": "1170692781216378960",
-      "content": "shoutout to pluto i love that anime",
-      "author": "lukityswoogity",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }
