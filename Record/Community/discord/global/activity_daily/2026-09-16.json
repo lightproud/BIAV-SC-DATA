@@ -1,30 +1,31 @@
 {
   "date": "2026-09-16",
-  "messages": 22553,
+  "messages": 22648,
   "unique_authors": 364,
-  "reactions_total": 2533,
-  "attachments": 995,
+  "reactions_total": 2550,
+  "attachments": 1001,
   "channel_activity": {
-    "🔸綜合討論": 1777,
-    "🔸morimens-game-chat": 11523,
-    "🔸한국어-채팅방": 43,
-    "🔸русский-канал": 1001,
-    "🔸canal-español": 446,
-    "🔸canal-português": 257,
+    "🔸綜合討論": 1779,
+    "🔸morimens-game-chat": 11580,
+    "🔸剧情交流": 75,
+    "🔸한국어-채팅방": 46,
+    "🔸русский-канал": 1002,
+    "🔸canal-español": 451,
+    "🔸canal-português": 264,
+    "🔸traphase": 233,
+    "🔸general-chat": 1015,
+    "🔸game-question": 2438,
+    "🔸机器人命令┊bot-commands": 66,
+    "V2.5.1.0 停服维护公告": 10,
     "🔸ruang-obrolan-indonesia": 620,
     "🔸ห้องสนทนาภาษาไทย": 231,
-    "🔸traphase": 231,
     "🔸lore-chat": 180,
     "🔸team-building": 932,
-    "🔸general-chat": 1009,
-    "🔸game-question": 2429,
-    "🔸机器人命令┊bot-commands": 65,
     "Slay the Spire Morimens Modding Log 殺戮尖塔模組": 2,
     "Do not Forget: Jenkins": 3,
     "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 4,
     "Divine Realms, Aliemus Costs and other Future Worries": 4,
     "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개": 223,
-    "🔸剧情交流": 74,
     "🔸相位对弈": 7,
     "🔸课间休息闲聊": 39,
     "🔸deutscher-chatraum": 9,
@@ -59,7 +60,6 @@
     "Balance problem in arc2": 6,
     "💭「Processing」game client crashed...somewhat": 1,
     "GooglePlay充值功能异常公告┊GooglePlay Recharge Feature Anomaly Announcement": 1,
-    "V2.5.1.0 停服维护公告": 9,
     "Castor fan design to match with Pollux better": 3,
     "I draq": 5,
     "Uvhash, the Lion in moonlight": 1,
@@ -100,8 +100,8 @@
     "入坑一週": 7
   },
   "hourly_activity": {
+    "23": 263,
     "22": 800,
-    "23": 168,
     "21": 1024,
     "16": 1173,
     "17": 1042,
@@ -126,9 +126,9 @@
     "2": 277
   },
   "message_types": {
-    "0": 14991,
-    "19": 7527,
-    "20": 30,
+    "0": 15068,
+    "19": 7544,
+    "20": 31,
     "4": 3,
     "6": 2
   },
@@ -246,6 +246,14 @@
       "channel": "V2.6.1 坏坏档案照┊Naughty Mugshots┊장난기 가득 머그샷!"
     },
     {
+      "id": "1549931121217769532",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "bitterlemon",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1549729607127797821",
       "channel_id": "1131839817982947429",
       "content": "",
@@ -284,14 +292,6 @@
       "author": "brainrot_in_a_vat",
       "reactions": 8,
       "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549832115212787742",
-      "channel_id": "1496525443329687723",
-      "content": "神秘打击女",
-      "author": "resazur1n",
-      "reactions": 7,
-      "channel": "堆图ing"
     }
   ]
 }
