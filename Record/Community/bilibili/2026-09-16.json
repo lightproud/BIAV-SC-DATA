@@ -1,8 +1,8 @@
 {
   "date": "2026-09-16",
-  "archived_at": "2026-09-16T23:33:09.225672+00:00",
+  "archived_at": "2026-09-17T03:22:17.350918+00:00",
   "source": "bilibili",
-  "item_count": 12,
+  "item_count": 13,
   "items": [
     {
       "title": "【忘却前夜】负誓奥吉尔前瞻评测(可能有反转，目前总体不强)",
@@ -189,6 +189,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/9f49333ae91b92e504e8f749d3ce5a74f5a8fc5e.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜，融灾450",
+      "summary": "密契没搞好，估计又是个大活，起码得折腾几个月，死扛太低了，没办法死扛低了爆不出来换谁来都一样",
+      "source": "bilibili",
+      "time": "2026-09-16T10:37:56+00:00",
+      "url": "https://www.bilibili.com/video/av117280256103601",
+      "engagement": 23,
+      "is_hot": false,
+      "author": "断裂免罪符",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/4ea6c211ea4552d764f8692550e368de46b05088.jpg",
       "content_type": "video"
     },
     {

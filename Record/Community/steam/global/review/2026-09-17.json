@@ -1,8 +1,8 @@
 {
   "date": "2026-09-17",
-  "archived_at": "2026-09-16T23:33:09.303463+00:00",
+  "archived_at": "2026-09-17T03:22:17.420428+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 5,
   "items": [
     {
       "title": "[正面] it's chill and very generous",
@@ -69,6 +69,52 @@
         "playtime_forever": 391,
         "votes_up": 0,
         "timestamp_created": 1789596314
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Сыроватая гача, геймплей норм на пару вечеров не б...",
+      "summary": "Сыроватая гача, геймплей норм на пару вечеров не более, дошёл до 55 ранга интереса играть дальше для себя не нашёл.",
+      "source": "steam_review",
+      "time": "2026-09-17T03:07:57+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199078323271/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199078323271",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 143,
+        "votes_up": 0,
+        "timestamp_created": 1789614477
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Univers très prenant qui nous plonge dans des ambi...",
+      "summary": "Univers très prenant qui nous plonge dans des ambiances et des émotions avec un mélange de rétro et de surnaturel. Tout à fait agréable même sans payer. traduction parfois approximative mais on comprends le principal de l'histoire et des mécanique. Le tutoriel accompagne juste comme il faut sans être pénible et on peut esquiver les cinématique/discutions si on se lasse",
+      "source": "steam_review",
+      "time": "2026-09-17T01:08:59+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198045606224/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198045606224",
+      "tags": [
+        "french"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1204,
+        "votes_up": 0,
+        "timestamp_created": 1789607339
       },
       "region": "global",
       "archive_subtype": "review"

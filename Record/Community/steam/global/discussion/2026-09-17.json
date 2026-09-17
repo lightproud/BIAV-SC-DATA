@@ -1,8 +1,8 @@
 {
   "date": "2026-09-17",
-  "archived_at": "2026-09-16T23:33:09.227568+00:00",
+  "archived_at": "2026-09-17T03:22:17.354299+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[Steam论坛] Invitation Code",
@@ -30,6 +30,23 @@
       "engagement": 62,
       "is_hot": true,
       "author": "Trans Winkle",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] Invite code",
+      "summary": "H19V6VRHW8",
+      "source": "steam_discussion",
+      "time": "2026-09-17T03:12:43+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/568171838846309051/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Alexander",
       "tags": [
         "steam_forum"
       ],
