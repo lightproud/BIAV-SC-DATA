@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-17",
+  "archived_at": "2026-09-17T16:13:42.280331+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam新闻] 📜 V2.6.1 Version Outlook",
+      "summary": "",
+      "source": "official",
+      "time": "2026-09-17T13:30:00+00:00",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492037",
+      "engagement": 0,
+      "is_hot": true,
+      "author": "Mythag Staff",
+      "tags": [
+        "Community Announcements"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "news"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "news"
+}

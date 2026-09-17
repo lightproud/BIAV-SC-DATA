@@ -1,8 +1,8 @@
 {
   "date": "2026-09-16",
-  "archived_at": "2026-09-17T10:57:27.533451+00:00",
+  "archived_at": "2026-09-17T16:13:42.341307+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 ¿pueden activar el modo automático en el",
@@ -15,6 +15,34 @@
       "author": "Nadie卍",
       "tags": [],
       "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Very addictive and interesting game.",
+      "summary": "Very addictive and interesting game.",
+      "source": "google_play",
+      "time": "2026-09-16T12:12:41",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-9f2a0d2b-b235-4361-ba4b-19fbc0592705",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "RaY",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 เกมดีมากแต่การแปลไม่ค่อยดีแต่ก็พอเข้าใจเ",
+      "summary": "เกมดีมากแต่การแปลไม่ค่อยดีแต่ก็พอเข้าใจเนื้อเรื่องอยู่ เกมดีขนาดนี้ทำไมคนเล่นน้อยจังว่ะ",
+      "source": "google_play",
+      "time": "2026-09-16T15:48:45",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=th#gp-4327afd9-c86a-480e-9fb1-104d71e9358d",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Ialu Lana",
+      "tags": [],
+      "lang": "th",
       "platform_region": "",
       "region": "global"
     }
