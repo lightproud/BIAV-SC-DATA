@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-17",
+  "messages": 2,
+  "unique_authors": 2,
+  "reactions_total": 5,
+  "attachments": 0,
+  "channel_activity": {
+    "links-and-resources": 1,
+    "general-discussion": 1
+  },
+  "hourly_activity": {
+    "7": 2
+  },
+  "message_types": {
+    "0": 2
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1550043978186104833",
+      "channel_id": "1402941858606219294",
+      "content": "",
+      "author": "ace_asteria_lan",
+      "reactions": 3,
+      "channel": "general-discussion"
+    },
+    {
+      "id": "1550043373551886346",
+      "channel_id": "1402537664619479103",
+      "content": "Here are the term translations regarding Ogier: Oathbound. Hope this helps.\n<:ce",
+      "author": "morimensstaff03",
+      "reactions": 2,
+      "channel": "links-and-resources"
+    }
+  ]
+}
