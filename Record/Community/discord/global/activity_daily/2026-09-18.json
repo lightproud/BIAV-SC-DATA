@@ -1,0 +1,210 @@
+{
+  "date": "2026-09-18",
+  "messages": 2558,
+  "unique_authors": 156,
+  "reactions_total": 237,
+  "attachments": 126,
+  "channel_activity": {
+    "🔸綜合討論": 80,
+    "🔸morimens-game-chat": 1389,
+    "🔸晒卡分享": 1,
+    "🔸한국어-채팅방": 4,
+    "🔸chaîne-française": 2,
+    "🔸русский-канал": 48,
+    "🔸phòng-chat-tiếng-việt": 10,
+    "🔸canal-español": 14,
+    "🔸canal-português": 15,
+    "🔸ruang-obrolan-indonesia": 94,
+    "🔸ห้องสนทนาภาษาไทย": 2,
+    "🔸lore-chat": 6,
+    "🔸team-building": 166,
+    "🔸general-chat": 56,
+    "🔸邀请码互助┊swap-invitation-codes": 2,
+    "🔸game-question": 604,
+    "🔸机器人命令┊bot-commands": 4,
+    "SP小騎士技能是忘卻前夜文案徵人廣告嗎": 4,
+    "D-tide Discussion": 19,
+    "✅「已記錄」還我1000銀": 1,
+    "V2.5.1.0 停服维护公告": 5,
+    "moss’s art dump": 1,
+    "📜 V2.6.1 版本前瞻┊Version Outlook┊버전 미리보기": 17,
+    "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개": 2,
+    "V2.6.1 坏坏档案照┊Naughty Mugshots┊장난기 가득 머그샷!": 2,
+    "新手守秘人的融災心得": 3,
+    "How to Spend Cores": 7
+  },
+  "hourly_activity": {
+    "1": 694,
+    "2": 715,
+    "3": 441,
+    "0": 708
+  },
+  "message_types": {
+    "0": 1586,
+    "19": 966,
+    "20": 5,
+    "6": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1550312807659208758",
+      "channel_id": "1131839817982947429",
+      "content": "有沒有大佬可以帶帶我",
+      "author": "water_heart",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550339780301295761",
+      "channel_id": "1170692781216378960",
+      "content": "Lies and deceit",
+      "author": "corvim",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550321454384414841",
+      "channel_id": "1170692781216378960",
+      "content": "Easy peasy Castor",
+      "author": "anicillia",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550342633484849173",
+      "channel_id": "1550132466080153640",
+      "content": "Rewards vary a bit between different events<:Coalsie_shock:1516192103846383838> ",
+      "author": "morimensstaff06",
+      "reactions": 6,
+      "channel": "📜 V2.6.1 版本前瞻┊Version Outlook┊버전 미리보기"
+    },
+    {
+      "id": "1550325454035230752",
+      "channel_id": "1170692781216378960",
+      "content": "Excuse me guys is she good /gen (i also got her wod aswell)",
+      "author": "karromarii",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550336578432405536",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550320356642914324",
+      "channel_id": "1300659603993923644",
+      "content": "https://youtu.be/vy2QT7e7oU8?si=xJ4GQtvM8OD9x1qu",
+      "author": "anicillia",
+      "reactions": 4,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1550324692840353835",
+      "channel_id": "1131839817982947429",
+      "content": "我已經入魔了，現在每天要看著校貓美麗的側臉才睡得著",
+      "author": "cakolu781",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550309633690697809",
+      "channel_id": "1170692781216378960",
+      "content": "Shit you right, GTinct should be || PChaos || || /j ||",
+      "author": "snorlax01",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550323035951865938",
+      "channel_id": "1170692781216378960",
+      "content": "Man, the last time I posted some 67 shit, Kaly of all people put me on blast.",
+      "author": "syro_k",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550323153681784874",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "guava3442",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550338912608723024",
+      "channel_id": "1170692781216378960",
+      "content": "Big shield",
+      "author": "corvim",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550326851195379805",
+      "channel_id": "1433513650299076780",
+      "content": "I like your statement \"madness slop\"",
+      "author": "flynnize",
+      "reactions": 3,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1550327213788897363",
+      "channel_id": "1543760297637187614",
+      "content": "Okay move on. No gloating else imma issue a mute.",
+      "author": "angbak",
+      "reactions": 3,
+      "channel": "D-tide Discussion"
+    },
+    {
+      "id": "1550312270993694821",
+      "channel_id": "1550132466080153640",
+      "content": "why does gogier event give 1 less limited and 1 less standard pull",
+      "author": "princess.goth",
+      "reactions": 3,
+      "channel": "📜 V2.6.1 版本前瞻┊Version Outlook┊버전 미리보기"
+    },
+    {
+      "id": "1550327553301020693",
+      "channel_id": "1131839817982947429",
+      "content": "~~居然給鍵帽爆這麼多貓糧~~",
+      "author": "fon_tain",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550328879237828690",
+      "channel_id": "1131839817982947429",
+      "content": "這只是你的錯覺\n他只是回歸正常出角時間",
+      "author": "foxcatfurry",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550300083113828466",
+      "channel_id": "1170692781216378960",
+      "content": "use base ogier",
+      "author": "princess.goth",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550300207046991963",
+      "channel_id": "1170692781216378960",
+      "content": "why am i getting skull reacted base ogier is literally better than his genesis f",
+      "author": "princess.goth",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550302248444104814",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "mosske",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
