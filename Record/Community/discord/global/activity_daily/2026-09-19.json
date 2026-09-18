@@ -1,54 +1,75 @@
 {
   "date": "2026-09-19",
-  "messages": 2428,
+  "messages": 3639,
   "unique_authors": 159,
-  "reactions_total": 266,
-  "attachments": 146,
+  "reactions_total": 382,
+  "attachments": 197,
   "channel_activity": {
-    "🔸綜合討論": 151,
+    "🔸綜合討論": 158,
+    "🔸morimens-game-chat": 2317,
+    "🔸русский-канал": 244,
+    "🔸canal-español": 3,
+    "🔸canal-português": 10,
+    "🔸ruang-obrolan-indonesia": 13,
+    "🔸traphase": 10,
+    "🔸频道建议┊server-suggestions": 8,
+    "🔸team-building": 78,
+    "🔸general-chat": 145,
+    "🔸game-question": 512,
+    "🔸机器人命令┊bot-commands": 19,
+    "Suggestion For A Better Madness Mechanic": 9,
+    "On the D-Effect Zone Adjustments": 8,
+    "【English Translation】Opinions Collection": 1,
     "🔸阵容构建": 9,
-    "🔸morimens-game-chat": 1702,
     "🔸剧情交流": 3,
     "🔸欢乐梗图": 1,
     "🔸相位对弈": 4,
     "🔸한국어-채팅방": 3,
     "🔸chaîne-française": 10,
-    "🔸русский-канал": 241,
     "🔸phòng-chat-tiếng-việt": 10,
-    "🔸canal-español": 2,
-    "🔸canal-português": 9,
-    "🔸ruang-obrolan-indonesia": 10,
     "🔸lore-chat": 3,
-    "🔸频道建议┊server-suggestions": 3,
-    "🔸team-building": 75,
-    "🔸general-chat": 22,
     "🔸邀请码互助┊swap-invitation-codes": 1,
-    "🔸game-question": 81,
-    "🔸机器人命令┊bot-commands": 16,
     "菜雞四小強玩家的抱怨之旅new": 8,
     "星辰篇第五章劇情文本問題（涉嫌劇透）": 2,
     "When will a passive ability be added to these characters?": 7,
     "Stop making me play Traphase": 9,
     "Balance problem in arc2": 1,
-    "Suggestion For A Better Madness Mechanic": 8,
     "D-tide Discussion": 28,
     "V2.5.1.0 停服维护公告": 1,
-    "On the D-Effect Zone Adjustments": 4,
     "请问现在有什么推荐补的超限吗": 4
   },
   "hourly_activity": {
+    "4": 347,
+    "6": 586,
+    "5": 518,
+    "7": 18,
     "0": 589,
     "1": 352,
     "2": 774,
-    "3": 455,
-    "4": 258
+    "3": 455
   },
   "message_types": {
-    "19": 896,
-    "0": 1514,
-    "20": 18
+    "19": 1327,
+    "0": 2290,
+    "20": 22
   },
   "top_reacted_messages": [
+    {
+      "id": "1550626472849571900",
+      "channel_id": "1170692781216378960",
+      "content": "Absolute gold right here.",
+      "author": "syro_k",
+      "reactions": 28,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550628334545932300",
+      "channel_id": "1170692781216378960",
+      "content": "theres a user that blocks everyone with saya",
+      "author": "gersona6",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1550552797399748681",
       "channel_id": "1170692781216378960",
@@ -63,6 +84,14 @@
       "content": "if the mother tree counters you does that mean you get pregnant instead",
       "author": "princess.goth",
       "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550630484160159846",
+      "channel_id": "1170692781216378960",
+      "content": "do you hate him because he is turning emo?",
+      "author": "tawil.3ami9",
+      "reactions": 5,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -106,6 +135,22 @@
       "channel": "🔸general-chat"
     },
     {
+      "id": "1550610304352911471",
+      "channel_id": "1131839817982947429",
+      "content": "<:Brown_think:1459080117308620996>",
+      "author": "ka_0414",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550628476845953165",
+      "channel_id": "1170692781216378960",
+      "content": "i dont remember his name",
+      "author": "gersona6",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1550559961375842356",
       "channel_id": "1170692781216378960",
       "content": "Im 2.5 months in and my celestial beast is +2... is my account cooked? Do i rero",
@@ -138,6 +183,22 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1550632493437165619",
+      "channel_id": "1170692781216378960",
+      "content": "lazy wave 2 hard mode to scout the map but nice to be close to my previous score",
+      "author": "violettaautumn",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550640277205680242",
+      "channel_id": "1170692781216378960",
+      "content": "i lvld tawil to 70 today",
+      "author": "princess.goth",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1550553538894241907",
       "channel_id": "1170692781216378960",
       "content": "Hopefully he is not balanced around lemurians",
@@ -152,62 +213,6 @@
       "author": "bru0001",
       "reactions": 3,
       "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550562733378904115",
-      "channel_id": "1170692781216378960",
-      "content": "i hate to admit it, but her AA is the only reason she is good",
-      "author": "monchi3524",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550573236411039856",
-      "channel_id": "1170692781216378960",
-      "content": "Oh shit I’m red",
-      "author": "stormimi",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550575811407519816",
-      "channel_id": "1170692781216378960",
-      "content": "phase 5: .... glup",
-      "author": "princess.goth",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550576116538933361",
-      "channel_id": "1170692781216378960",
-      "content": "eos aurita?",
-      "author": "thereaperinthedresss",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550572632305303674",
-      "channel_id": "1300659580446969918",
-      "content": "А тоесть будет но вы не знаете когда?",
-      "author": "siestameowfurry",
-      "reactions": 3,
-      "channel": "🔸русский-канал"
-    },
-    {
-      "id": "1550571922587394050",
-      "channel_id": "1131839817982947429",
-      "content": "我对这领域的理解和校猫对玩家诉求的理解差不多",
-      "author": "ponponnyaru",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1550601711649947790",
-      "channel_id": "1131839817982947429",
-      "content": "<:Aurita_please:1356053110375714817>",
-      "author": "sweet_25367",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
     }
   ]
 }
