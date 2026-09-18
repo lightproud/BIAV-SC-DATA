@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-19",
+  "archived_at": "2026-09-18T20:24:09.248336+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "【忘却前夜】如果我说我做了个融灾版opgg数据网站……",
+      "summary": "游戏名称：忘却前夜\n网页工具地址：https://qingdengbuyi.top/morimens-tools.html#dtide\n数据加载会比较慢，如果一直加载不出来刷新下试试\n目前只有今日签和榜单可用，目前榜单数据并不完全统计，后续更新按几天的周期来，目前没有api自动同步所以是demo版本\n转载请注明出处，非常感谢eremora网站作者的支持\n虽然是免费网站，如果不想给校猫打钱想给我打钱我也是支持的",
+      "source": "bilibili",
+      "time": "2026-09-18T16:27:57+00:00",
+      "url": "https://www.bilibili.com/video/av117292973229175",
+      "engagement": 585,
+      "is_hot": false,
+      "author": "青灯不弈",
+      "tags": [
+        "单机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/69ce40b90e7ad92a8dc1c4cbfd6da8b3a9029389.jpg",
+      "content_type": "video"
+    }
+  ]
+}

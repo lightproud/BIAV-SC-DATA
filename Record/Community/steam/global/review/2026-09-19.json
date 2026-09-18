@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-19",
+  "archived_at": "2026-09-18T20:24:09.340389+00:00",
+  "source": "steam",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[负面] слей зе спайр больного человека",
+      "summary": "слей зе спайр больного человека",
+      "source": "steam_review",
+      "time": "2026-09-18T19:00:20+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199158672947/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199158672947",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 93,
+        "votes_up": 0,
+        "timestamp_created": 1789758020
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] just when I'm thinking about changing my opinion i...",
+      "summary": "just when I'm thinking about changing my opinion in hating gachas, as this was quite f2p friendly, and I did have a very good experience in the majority of my playtime, but in last patch (Caraboo launch) the people behind the game turned towards p2w route quite heavily, by buffing the hell up of enemies in the seemingly most played game mode, and the most important for farming too, I think\n\nNot only that, but they also made some anti-consumer things (or that at least feels like it should be considered anti-consumer to me), aka launching banners for a character and equipment that for over a year was a staple recommended combo throughout a whole year at least, which felt like the best moment to spend resources in pulling for both of them, but then they immediately nerfed the combo in the following patch, making a fool out of the community.\n\nAaaaand... Instead of addressing the issue by you know... actually fixing stuff or reverting nerfs or making buffs, they just try to bribe the community into submission, lmao. they gave everyone a bunch of free pulls as a sorry gift... but alas the problem is still there... and trust in the future of the game is now in a trashcan, I do hope the game recovers from this, but I'm not confident in it.\n\nDisclaimer: I played the game much more on mobile, though I only started about two months ago, some of these changes barely affected me yet, but seeing the whole clownshow of an update, I lost my confidence in this game's future, if things change, I'll certainly reconsider this review.",
+      "source": "steam_review",
+      "time": "2026-09-18T18:48:53+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198154134343/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198154134343",
+      "tags": [
+        "brazilian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 2904,
+        "votes_up": 0,
+        "timestamp_created": 1789757333
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Best story I've ever read in a gacha game, charact...",
+      "summary": "Best story I've ever read in a gacha game, characters are incredibly lovely, the lovecraftian themes were made for me",
+      "source": "steam_review",
+      "time": "2026-09-18T17:52:25+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198364177469/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198364177469",
+      "tags": [
+        "polish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2741,
+        "votes_up": 0,
+        "timestamp_created": 1789753945
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

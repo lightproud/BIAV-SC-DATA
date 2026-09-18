@@ -1,8 +1,8 @@
 {
   "date": "2026-09-18",
-  "archived_at": "2026-09-18T15:48:51.743250+00:00",
+  "archived_at": "2026-09-18T20:24:09.340767+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] story is kind of generic. gameplay is ok. personal...",
@@ -69,6 +69,29 @@
         "playtime_forever": 224,
         "votes_up": 0,
         "timestamp_created": 1789700319
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 数值崩坏，最新的主线用环境限制BAN老角色、硬抬新角色，演都不演了。\r\n往后都要走这种新卡秒旧卡的路...",
+      "summary": "数值崩坏，最新的主线用环境限制BAN老角色、硬抬新角色，演都不演了。\r\n往后都要走这种新卡秒旧卡的路就算了，这游戏一张卡强化到能用好用的造价也不低，特别是后面的卡全都是把该有的机制拆分到强化里，一张卡不抽好几张的话用起来就是残疾人，缺斤少两\r\n不抽就打不过，抽了不抽多张也是残疾人（哦对了角色专武也要抽哦，关键机制在专武里哦，没有专武角色还是残疾人哦，对了专武也要抽多张哦），就问你要不要抽吧！什么你说抽卡资源不够？不是有氪金按钮吗？\r\n然后转头开新本就告诉你 欸亲爱的玩家你好，我们新本有新的环境，新角色打新环境有加成哦！什么叫你之前养的角色在新环境连牌都打不出去？不是和你说了新角色有加成吗？还不快抽新角色！资源不够？快氪金啊！",
+      "source": "steam_review",
+      "time": "2026-09-18T15:27:51+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198445843436/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198445843436",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 339,
+        "votes_up": 0,
+        "timestamp_created": 1789745271
       },
       "region": "global",
       "archive_subtype": "review"

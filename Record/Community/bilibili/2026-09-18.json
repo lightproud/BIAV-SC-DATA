@@ -1,8 +1,8 @@
 {
   "date": "2026-09-18",
-  "archived_at": "2026-09-18T15:48:51.670831+00:00",
+  "archived_at": "2026-09-18T20:24:09.247703+00:00",
   "source": "bilibili",
-  "item_count": 8,
+  "item_count": 9,
   "items": [
     {
       "title": "【忘却前夜】2.6.1版本前瞻，复刻抽取建议",
@@ -70,6 +70,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/85b3b853f32456f221b7ddf5038dcd0013e631d0.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】新融灾9.14-9.27 低等级低配5图困难",
+      "summary": "60级低配无灵芝通关9.14-9.27融灾5图困难\n配置：3启茉夏+0启沙耶+0启羊妈+2启莱克，双持了本期纪行命轮灵魂同调\n\n虽然是我最高等级的c和最好的辅助但练度远没有关卡推荐等级，本来身上没有灵芝，进5难只是想观光一下，结果却凹赢了，有种开荒不小心就过了本的爽，记录一下。\n\n对轴关键：留意意图，不要在鸟弟意图是「圣心」的时候打牌开爆发，避免触法狂热；记得回血驱散鸟弟伤害附加的流血，就算是守秘人低等级超小杯的恩赐之血都特别好用。\n\n本来是抱着就进来看看难度，等灵芝补充了再打的心态进的。但发现怪的血量整",
+      "source": "bilibili",
+      "time": "2026-09-18T13:47:09+00:00",
+      "url": "https://www.bilibili.com/video/av117292335634623",
+      "engagement": 125,
+      "is_hot": false,
+      "author": "涉嫌下饭",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/e5f820295235694b4dbc15c86643e3cbe02397ff.jpg",
       "content_type": "video"
     },
     {
