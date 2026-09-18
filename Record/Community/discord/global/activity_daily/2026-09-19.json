@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-19",
+  "messages": 14,
+  "unique_authors": 9,
+  "reactions_total": 2,
+  "attachments": 2,
+  "channel_activity": {
+    "🔸morimens-game-chat": 7,
+    "Suggestion For A Better Madness Mechanic": 2,
+    "D-tide Discussion": 2,
+    "🔸русский-канал": 3
+  },
+  "hourly_activity": {
+    "0": 14
+  },
+  "message_types": {
+    "0": 7,
+    "19": 7
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1550537094856839249",
+      "channel_id": "1170692781216378960",
+      "content": "I did a lot of 24 testing",
+      "author": "dracozion",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

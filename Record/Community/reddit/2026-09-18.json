@@ -1,8 +1,8 @@
 {
   "date": "2026-09-18",
-  "archived_at": "2026-09-18T10:33:37.011506+00:00",
+  "archived_at": "2026-09-18T15:48:51.738880+00:00",
   "source": "reddit",
-  "item_count": 17,
+  "item_count": 18,
   "items": [
     {
       "title": "New player question",
@@ -221,6 +221,19 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/HYBQ",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "New Player Advice",
+      "summary": "Hi everyone, I&#39;m a new player going through this game mostly blind (asked help from friends here and there) and I want a bit of direction going forward. I&#39;ve been blindly pulling on the beginner SSR per 30 pulls banner and the 4 select one, and I&#39;m afraid it&#39;ll bite me in the ass in the near future. Should I stop and wait for future banners or continue? Roster is provided and I&#39;ll be happy to provide more information about my account if needed! Would also love to get some insight on what teams I could run atm! https://preview.redd.it/uhvmc8ctdaqh1.png?width=719&amp;format=png&amp;auto=webp&amp;s=f60b79e3b67865117873d31938231f63b3a2b6ee https://preview.redd.it/4e4sfh1udaqh1.png?width=755&amp;format=png&amp;auto=webp&amp;s=798600a1fe92f1f8bf09daa7d17dedf28c2d17ba https://preview.redd.it/r9elk6mudaqh1.png?width=738&amp;format=png&amp;auto=webp&amp;s=7606112900fa758e59f73092786162a30244df52 https://preview.redd.it/v1pv597vdaqh1.png?width=738&amp;format=png&amp;auto=webp&amp;s=38c7262ddec27f41e4392c7f77244561c6419e79  &#32; submitted by &#32;  /u/Subject_Shop_6489   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-18T14:11:20+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wjrb9r/new_player_advice/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Subject_Shop_6489",
       "tags": [],
       "lang": "en",
       "platform_region": ""
