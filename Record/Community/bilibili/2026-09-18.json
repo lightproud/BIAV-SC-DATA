@@ -1,8 +1,8 @@
 {
   "date": "2026-09-18",
-  "archived_at": "2026-09-18T03:08:42.076049+00:00",
+  "archived_at": "2026-09-18T10:33:36.930870+00:00",
   "source": "bilibili",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "【忘却前夜】&quot;铁譬股和大成长是检验融灾真理的唯二标准&quot;",
@@ -70,6 +70,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/5c3dff7a80695df7537030f2902c77253bf04cc4.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "blender人物建模 | 忘却前夜·沙耶羽翼少女角色模型制作 | 模型布线 uv拆分 手绘贴图 灯光渲染全流程讲解",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-18T08:59:38+00:00",
+      "url": "https://www.bilibili.com/video/av117291194779805",
+      "engagement": 24,
+      "is_hot": false,
+      "author": "零基础3D建模教程",
+      "tags": [
+        "野生技能协会"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/beacf07aae88c5b0a0d3dc10ea88636785806ad0.jpg",
       "content_type": "video"
     }
   ]

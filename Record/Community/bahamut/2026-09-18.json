@@ -1,8 +1,8 @@
 {
   "date": "2026-09-18",
-  "archived_at": "2026-09-18T03:08:42.077734+00:00",
+  "archived_at": "2026-09-18T10:33:36.931463+00:00",
   "source": "bahamut",
-  "item_count": 27,
+  "item_count": 28,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -169,6 +169,19 @@
       "engagement": 25,
       "is_hot": false,
       "author": "kaketsuki720",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【攻略】2.6.1 負誓 • 奧吉爾，新版本前瞻重點整理",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-18T10:32:40.454333+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1582&tnum=1",
+      "engagement": 20,
+      "is_hot": false,
+      "author": "t12345825",
       "tags": [],
       "lang": "zh",
       "platform_region": ""
