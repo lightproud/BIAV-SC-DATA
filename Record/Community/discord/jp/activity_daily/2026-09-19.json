@@ -1,22 +1,35 @@
 {
   "date": "2026-09-19",
-  "messages": 47,
+  "messages": 85,
   "unique_authors": 10,
-  "reactions_total": 3,
-  "attachments": 3,
+  "reactions_total": 10,
+  "attachments": 13,
   "channel_activity": {
-    "💬なんでも雑談（ネタバレあり）": 23,
-    "🔰初心者質問": 10,
+    "💬なんでも雑談（ネタバレあり）": 28,
+    "🔰初心者質問": 35,
+    "オレッタとの旅記録と、使い方の雑記": 1,
+    "ニムフィーアの毒パ研究日誌": 7,
     "🙋誰でも質問": 14
   },
   "hourly_activity": {
+    "1": 17,
+    "2": 18,
+    "3": 3,
     "0": 47
   },
   "message_types": {
-    "0": 46,
-    "19": 1
+    "0": 77,
+    "19": 8
   },
   "top_reacted_messages": [
+    {
+      "id": "1550564143788982315",
+      "channel_id": "1377478664609857647",
+      "content": "残り融災2派と4派だ",
+      "author": "saihuu",
+      "reactions": 3,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
     {
       "id": "1550544017954177175",
       "channel_id": "1400058619726266462",
@@ -24,6 +37,38 @@
       "author": "sugoitsubasanohaetaop",
       "reactions": 2,
       "channel": "🙋誰でも質問"
+    },
+    {
+      "id": "1550566896993173637",
+      "channel_id": "1377478664609857647",
+      "content": "コパ借り！\n何か思ってたような動き出来なかったけど楽しい♪",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 1,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1550559060917755965",
+      "channel_id": "1391701560496623688",
+      "content": "わかりました！\n考えてみます！",
+      "author": "mameta5656",
+      "reactions": 1,
+      "channel": "🔰初心者質問"
+    },
+    {
+      "id": "1550567347906023557",
+      "channel_id": "1391701560496623688",
+      "content": "コーパ3凸いきます！",
+      "author": "the_virtuous__",
+      "reactions": 1,
+      "channel": "🔰初心者質問"
+    },
+    {
+      "id": "1550570101265272855",
+      "channel_id": "1510911214346305566",
+      "content": "了解です！ありがとうございます！",
+      "author": "tea_528",
+      "reactions": 1,
+      "channel": "ニムフィーアの毒パ研究日誌"
     },
     {
       "id": "1550542567928631318",
