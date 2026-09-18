@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "messages": 22,
-  "unique_authors": 12,
+  "unique_authors": 13,
   "reactions_total": 0,
   "attachments": 4,
   "channel_activity": {
@@ -9,7 +9,7 @@
     "self-introductions": 1
   },
   "hourly_activity": {
-    "14": 22
+    "22": 22
   },
   "message_types": {
     "0": 20,

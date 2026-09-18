@@ -5,19 +5,19 @@
   "reactions_total": 11,
   "attachments": 1,
   "channel_activity": {
-    "links-and-resources": 1,
-    "general-discussion": 14
+    "general-discussion": 14,
+    "links-and-resources": 1
   },
   "hourly_activity": {
-    "6": 5,
-    "3": 4,
-    "7": 1,
-    "13": 1,
-    "14": 4
+    "11": 4,
+    "14": 5,
+    "15": 1,
+    "21": 1,
+    "22": 4
   },
   "message_types": {
-    "0": 12,
-    "19": 3
+    "19": 3,
+    "0": 12
   },
   "top_reacted_messages": [
     {

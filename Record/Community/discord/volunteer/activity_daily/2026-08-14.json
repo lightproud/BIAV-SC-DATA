@@ -5,16 +5,16 @@
   "reactions_total": 6,
   "attachments": 0,
   "channel_activity": {
-    "announcements": 2,
-    "general-discussion": 2
+    "general-discussion": 2,
+    "announcements": 2
   },
   "hourly_activity": {
-    "8": 2,
-    "6": 2
+    "14": 2,
+    "16": 2
   },
   "message_types": {
-    "0": 3,
-    "19": 1
+    "19": 1,
+    "0": 3
   },
   "top_reacted_messages": [
     {
