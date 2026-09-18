@@ -1,8 +1,8 @@
 {
   "date": "2026-09-19",
-  "archived_at": "2026-09-18T20:24:09.260895+00:00",
+  "archived_at": "2026-09-18T23:01:39.199455+00:00",
   "source": "youtube",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
     {
       "title": "🔞 Two more :3 | Maybe some Morimens later - Dark souls 3: Ascended Mod",
@@ -39,6 +39,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Speedpaint with me~ | Morimens speedpaint art",
+      "summary": "hi im back what its only been 5 years no one will remember me i go by nyan/nyanfu now love ya guys i open comm at ...",
+      "source": "youtube",
+      "time": "2026-09-18T21:05:16Z",
+      "url": "https://www.youtube.com/watch?v=qzW1D8dYXPk",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "Nyanfu",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/qzW1D8dYXPk/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "忘卻前夜Morimens 融災5-4四小強",
       "summary": "我又來蹭參加獎了 忘記開倍速了.",
       "source": "youtube",
@@ -68,6 +85,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/zJHwfaynCXI/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] Pushing dtide scores",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-09-18T22:39:38Z",
+      "url": "https://www.youtube.com/watch?v=uWPzKVxz2ag",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "kizunoV",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/uWPzKVxz2ag/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

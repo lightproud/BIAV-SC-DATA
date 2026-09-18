@@ -1,8 +1,8 @@
 {
   "date": "2026-09-19",
-  "archived_at": "2026-09-18T20:24:09.335879+00:00",
+  "archived_at": "2026-09-18T23:01:39.282685+00:00",
   "source": "reddit",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "Few Random Questions",
@@ -13,6 +13,32 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/EggplantOk8657",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "GDoll by @B-dog",
+      "summary": "&#32; submitted by &#32;  /u/OneThanks3   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-18T20:47:22+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wk1yv2/gdoll_by_bdog/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/OneThanks3",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "The great sorceress Casiah! [art by funekarasu (@riyaourer)]",
+      "summary": "&#32; submitted by &#32;  /u/WeatherSlime   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-18T21:11:14+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wk2kwj/the_great_sorceress_casiah_art_by_funekarasu/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/WeatherSlime",
       "tags": [],
       "lang": "en",
       "platform_region": ""

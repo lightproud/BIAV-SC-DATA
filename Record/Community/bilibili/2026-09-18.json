@@ -1,8 +1,8 @@
 {
   "date": "2026-09-18",
-  "archived_at": "2026-09-18T20:24:09.247703+00:00",
+  "archived_at": "2026-09-18T23:01:39.187193+00:00",
   "source": "bilibili",
-  "item_count": 9,
+  "item_count": 10,
   "items": [
     {
       "title": "【忘却前夜】2.6.1版本前瞻，复刻抽取建议",
@@ -104,6 +104,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/5c3dff7a80695df7537030f2902c77253bf04cc4.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "菲旺沙布癫狂列车，我说去玩反击队",
+      "summary": "所有人去玩啊啊啊啊啊啊啊啊",
+      "source": "bilibili",
+      "time": "2026-09-18T07:55:35+00:00",
+      "url": "https://www.bilibili.com/video/av117290943255881",
+      "engagement": 110,
+      "is_hot": false,
+      "author": "从无二心的小智樟",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/feff9cc8a648c0b63a2d94ed78d6242ba5085ed4.jpg",
       "content_type": "video"
     },
     {

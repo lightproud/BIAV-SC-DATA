@@ -1,8 +1,8 @@
 {
   "date": "2026-09-19",
-  "archived_at": "2026-09-18T20:24:09.340389+00:00",
+  "archived_at": "2026-09-18T23:01:39.288477+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 6,
   "items": [
     {
       "title": "[负面] слей зе спайр больного человека",
@@ -69,6 +69,75 @@
         "playtime_forever": 2741,
         "votes_up": 0,
         "timestamp_created": 1789753945
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 因为喜欢立绘风格才入坑的，慢慢发现故事和CG也很棒，不知不觉打到40多级。怎料后期升级巨难，等级不够...",
+      "summary": "因为喜欢立绘风格才入坑的，慢慢发现故事和CG也很棒，不知不觉打到40多级。怎料后期升级巨难，等级不够体力不够资源不够，根本无法推进剧情。意识到不得不氪之前，还煞有介事地计划了下怎么操作，结果氪了80USD才勉强推了20级（可想那些满级大佬们到底都氪了多少呢），且升级难度随等级升高而呈指数上升。\r\n到今天是登录天数45，上线想做些什么却发现如果不继续氪就没什么能做得了的，那么觉得这个游戏在我生命里至此真是告一段落了。已氪的那些也还算对得起制作团队付出的努力，thanks for the good time in this summer。\r\n这游戏里我打的第一个活动是奥尔拉的玫瑰栖居，西岱的印象派（？）场景图和音乐配合出现时候那种心中酥麻的感觉，我感觉我很长一段时间都不会忘记。上次玩gacha类还是十年前的恋与，看看下次还有哪种gacha能hook到我的小金库。",
+      "source": "steam_review",
+      "time": "2026-09-18T21:45:39+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198825018966/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198825018966",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 7753,
+        "votes_up": 0,
+        "timestamp_created": 1789767939
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] В це потрібно грати бо: \r\nАтмосфера 11/10\r\nГеймпле...",
+      "summary": "В це потрібно грати бо: \r\nАтмосфера 11/10\r\nГеймплей 10/10\r\nЦе нішево 100/10",
+      "source": "steam_review",
+      "time": "2026-09-18T20:35:16+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198883774962/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198883774962",
+      "tags": [
+        "ukrainian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2645,
+        "votes_up": 0,
+        "timestamp_created": 1789763716
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] I have been thinking about giving this game an opi...",
+      "summary": "I have been thinking about giving this game an opinion for a longer time now and I finally know what to write.\n\nI have started playing this game on my phone around a year ago. It seemed really cool. Great plot, gameplay, characters (tho I don't like some designs) and overall a perfect game to relax or play instead of studying or doing what you should.\n\nI though that I would give this game a positive opinion but unfortunately I can't (with a geniue heartache). After I hoped back on the game few weeks ago It got worse and worse with every day of playing. Game isn't as enjoyable and good as previously due to recent uptadets. It made me study mechanics of the game more and more and I only focused on upgrading my team. Even then I'm still stuck at one point and I'm even scared to move forward because I know that I'll fail. Despite trying various teams and maxing them out as much as I can, I still can't get any forward in the game. I really thought that it was a skill issue but after recent days I can't deceive myself anymore.\n\nI would really love to change my opinion but only if the game will start to be playable and enjoyable again because it was really an amazing game. In the meantime there's nothing left to do but wait for better times (if they'll even come).",
+      "source": "steam_review",
+      "time": "2026-09-18T20:09:46+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199038710537/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199038710537",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 5900,
+        "votes_up": 0,
+        "timestamp_created": 1789762186
       },
       "region": "global",
       "archive_subtype": "review"
