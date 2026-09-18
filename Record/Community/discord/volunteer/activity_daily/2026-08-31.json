@@ -1,27 +1,37 @@
 {
   "date": "2026-08-31",
-  "messages": 4,
-  "unique_authors": 2,
-  "reactions_total": 2,
+  "messages": 17,
+  "unique_authors": 6,
+  "reactions_total": 3,
   "attachments": 0,
   "channel_activity": {
-    "general-discussion": 3,
-    "2026 July - August Contribution Log: V2.6.0 Updates": 1
+    "general-discussion": 17
   },
   "hourly_activity": {
-    "20": 2,
-    "9": 2
+    "4": 1,
+    "5": 10,
+    "6": 2,
+    "7": 2,
+    "17": 2
   },
   "message_types": {
-    "19": 2,
-    "0": 2
+    "0": 16,
+    "19": 1
   },
   "top_reacted_messages": [
     {
-      "id": "1544087983899021394",
+      "id": "1543729282046500935",
       "channel_id": "1402941858606219294",
-      "content": "ym u DONT pull the \"it's not a bug, it's a feature\" ??? /j",
-      "author": "myxxlight",
+      "content": "SO many interactions in this game that literally can't be distinguished between ",
+      "author": "arkaether",
+      "reactions": 1,
+      "channel": "general-discussion"
+    },
+    {
+      "id": "1543745904622837830",
+      "channel_id": "1402941858606219294",
+      "content": "roll the die? like Ryker? Ryker mentioned?",
+      "author": ".dredge.",
       "reactions": 1,
       "channel": "general-discussion"
     },

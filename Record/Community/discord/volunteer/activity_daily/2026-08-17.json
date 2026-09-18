@@ -6,13 +6,13 @@
   "attachments": 0,
   "channel_activity": {
     "self-introductions": 1,
-    "announcements": 1,
-    "translation-feedback-bot": 1
+    "translation-feedback-bot": 1,
+    "announcements": 1
   },
   "hourly_activity": {
-    "13": 1,
-    "9": 1,
-    "7": 1
+    "21": 1,
+    "15": 1,
+    "17": 1
   },
   "message_types": {
     "0": 3
