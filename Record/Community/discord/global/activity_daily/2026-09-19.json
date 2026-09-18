@@ -1,30 +1,213 @@
 {
   "date": "2026-09-19",
-  "messages": 14,
-  "unique_authors": 9,
-  "reactions_total": 2,
-  "attachments": 2,
+  "messages": 2428,
+  "unique_authors": 159,
+  "reactions_total": 266,
+  "attachments": 146,
   "channel_activity": {
-    "🔸morimens-game-chat": 7,
-    "Suggestion For A Better Madness Mechanic": 2,
-    "D-tide Discussion": 2,
-    "🔸русский-канал": 3
+    "🔸綜合討論": 151,
+    "🔸阵容构建": 9,
+    "🔸morimens-game-chat": 1702,
+    "🔸剧情交流": 3,
+    "🔸欢乐梗图": 1,
+    "🔸相位对弈": 4,
+    "🔸한국어-채팅방": 3,
+    "🔸chaîne-française": 10,
+    "🔸русский-канал": 241,
+    "🔸phòng-chat-tiếng-việt": 10,
+    "🔸canal-español": 2,
+    "🔸canal-português": 9,
+    "🔸ruang-obrolan-indonesia": 10,
+    "🔸lore-chat": 3,
+    "🔸频道建议┊server-suggestions": 3,
+    "🔸team-building": 75,
+    "🔸general-chat": 22,
+    "🔸邀请码互助┊swap-invitation-codes": 1,
+    "🔸game-question": 81,
+    "🔸机器人命令┊bot-commands": 16,
+    "菜雞四小強玩家的抱怨之旅new": 8,
+    "星辰篇第五章劇情文本問題（涉嫌劇透）": 2,
+    "When will a passive ability be added to these characters?": 7,
+    "Stop making me play Traphase": 9,
+    "Balance problem in arc2": 1,
+    "Suggestion For A Better Madness Mechanic": 8,
+    "D-tide Discussion": 28,
+    "V2.5.1.0 停服维护公告": 1,
+    "On the D-Effect Zone Adjustments": 4,
+    "请问现在有什么推荐补的超限吗": 4
   },
   "hourly_activity": {
-    "0": 14
+    "0": 589,
+    "1": 352,
+    "2": 774,
+    "3": 455,
+    "4": 258
   },
   "message_types": {
-    "0": 7,
-    "19": 7
+    "19": 896,
+    "0": 1514,
+    "20": 18
   },
   "top_reacted_messages": [
     {
-      "id": "1550537094856839249",
+      "id": "1550552797399748681",
       "channel_id": "1170692781216378960",
-      "content": "I did a lot of 24 testing",
-      "author": "dracozion",
-      "reactions": 2,
+      "content": "<:Weakness:1546814592561446934>",
+      "author": "syruponstrawberrycake",
+      "reactions": 7,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550582518657589420",
+      "channel_id": "1170692781216378960",
+      "content": "if the mother tree counters you does that mean you get pregnant instead",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550548105236324363",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550548679390142595",
+      "channel_id": "1170692781216378960",
+      "content": "Serah clearly has some leaks we dont",
+      "author": "stormimi",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550550805667385354",
+      "channel_id": "1170692781216378960",
+      "content": "bruh wtf",
+      "author": "12n0zer010",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550573603206991973",
+      "channel_id": "1170692781216378960",
+      "content": "you are on it",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550585968388739274",
+      "channel_id": "1400750050208125010",
+      "content": "https://x.com/i/status/2100944933376946179",
+      "author": "k.y.u.",
+      "reactions": 5,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1550559961375842356",
+      "channel_id": "1170692781216378960",
+      "content": "Im 2.5 months in and my celestial beast is +2... is my account cooked? Do i rero",
+      "author": "wuyan_kana",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550573797411651787",
+      "channel_id": "1170692781216378960",
+      "content": "im your yap mommy",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550573878148075541",
+      "channel_id": "1170692781216378960",
+      "content": "Anything past top 10 doesn’t count!!!",
+      "author": "stormimi",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550577194005172346",
+      "channel_id": "1170692781216378960",
+      "content": "https://cdn.discordapp.com/attachments/533123324281225216/1529600899016556705/gs",
+      "author": "mosske",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550553538894241907",
+      "channel_id": "1170692781216378960",
+      "content": "Hopefully he is not balanced around lemurians",
+      "author": "amirganj",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550562663795269724",
+      "channel_id": "1170692781216378960",
+      "content": "wait why is my aigis e1",
+      "author": "bru0001",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550562733378904115",
+      "channel_id": "1170692781216378960",
+      "content": "i hate to admit it, but her AA is the only reason she is good",
+      "author": "monchi3524",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550573236411039856",
+      "channel_id": "1170692781216378960",
+      "content": "Oh shit I’m red",
+      "author": "stormimi",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550575811407519816",
+      "channel_id": "1170692781216378960",
+      "content": "phase 5: .... glup",
+      "author": "princess.goth",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550576116538933361",
+      "channel_id": "1170692781216378960",
+      "content": "eos aurita?",
+      "author": "thereaperinthedresss",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550572632305303674",
+      "channel_id": "1300659580446969918",
+      "content": "А тоесть будет но вы не знаете когда?",
+      "author": "siestameowfurry",
+      "reactions": 3,
+      "channel": "🔸русский-канал"
+    },
+    {
+      "id": "1550571922587394050",
+      "channel_id": "1131839817982947429",
+      "content": "我对这领域的理解和校猫对玩家诉求的理解差不多",
+      "author": "ponponnyaru",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550601711649947790",
+      "channel_id": "1131839817982947429",
+      "content": "<:Aurita_please:1356053110375714817>",
+      "author": "sweet_25367",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
     }
   ]
 }
