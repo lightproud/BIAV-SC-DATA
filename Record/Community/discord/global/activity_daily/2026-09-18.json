@@ -1,51 +1,106 @@
 {
   "date": "2026-09-18",
-  "messages": 2558,
-  "unique_authors": 156,
-  "reactions_total": 237,
-  "attachments": 126,
+  "messages": 7512,
+  "unique_authors": 255,
+  "reactions_total": 680,
+  "attachments": 358,
   "channel_activity": {
-    "🔸綜合討論": 80,
-    "🔸morimens-game-chat": 1389,
-    "🔸晒卡分享": 1,
-    "🔸한국어-채팅방": 4,
-    "🔸chaîne-française": 2,
-    "🔸русский-канал": 48,
-    "🔸phòng-chat-tiếng-việt": 10,
-    "🔸canal-español": 14,
-    "🔸canal-português": 15,
-    "🔸ruang-obrolan-indonesia": 94,
-    "🔸ห้องสนทนาภาษาไทย": 2,
-    "🔸lore-chat": 6,
-    "🔸team-building": 166,
-    "🔸general-chat": 56,
-    "🔸邀请码互助┊swap-invitation-codes": 2,
-    "🔸game-question": 604,
-    "🔸机器人命令┊bot-commands": 4,
-    "SP小騎士技能是忘卻前夜文案徵人廣告嗎": 4,
-    "D-tide Discussion": 19,
+    "🔸綜合討論": 285,
+    "🔸阵容构建": 8,
+    "🔸morimens-game-chat": 3330,
+    "🔸晒卡分享": 7,
+    "🔸相位对弈": 17,
+    "🔸课间休息闲聊": 5,
+    "🔸한국어-채팅방": 23,
+    "🔸chaîne-française": 4,
+    "🔸русский-канал": 873,
+    "🔸phòng-chat-tiếng-việt": 402,
+    "🔸canal-español": 44,
+    "🔸canal-português": 17,
+    "🔸ruang-obrolan-indonesia": 287,
+    "🔸ห้องสนทนาภาษาไทย": 15,
+    "🔸traphase": 3,
+    "🔸lore-chat": 85,
+    "🔸lets-count": 3,
+    "🔸team-building": 360,
+    "🔸general-chat": 93,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "🔸game-question": 1336,
+    "🔸游戏问题": 2,
+    "🔸机器人命令┊bot-commands": 17,
+    "有圖就發": 1,
+    "我重生了，重生到忘卻前夜宣布關服的那天【多人接力抽象文】": 1,
+    "Winkle E1 doesn't match in game effect.": 15,
+    "Bug states, the currency bonus is renewed": 2,
+    "SP小騎士技能是忘卻前夜文案徵人廣告嗎": 5,
+    "Balance problem in arc2": 1,
+    "Suggestion For A Better Madness Mechanic": 3,
+    "Alternate realms Enhancement": 2,
+    "Turn Rewind Feature from Premium BP and Replay of finished Battle do not exceed turn 25.": 14,
+    "D-tide Discussion": 161,
+    "Corposant and Last Verse \"Bugfix\"": 2,
+    "Better handling of nerfs through bug fixes": 1,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 2,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 1,
+    "Quadra / 4-Realm Rerun Banners": 4,
+    "V2.5.1.0 停服维护公告": 11,
+    "On the D-Effect Zone Adjustments": 2,
+    "DTide Meta Teams and Units": 2,
+    "📜 V2.6.1 版本前瞻┊Version Outlook┊버전 미리보기": 38,
+    "请问现在有什么推荐补的超限吗": 1,
+    "百相自选唤醒要抽吗": 5,
+    "I don’t understand teams": 1,
     "✅「已記錄」還我1000銀": 1,
-    "V2.5.1.0 停服维护公告": 5,
     "moss’s art dump": 1,
-    "📜 V2.6.1 版本前瞻┊Version Outlook┊버전 미리보기": 17,
     "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개": 2,
     "V2.6.1 坏坏档案照┊Naughty Mugshots┊장난기 가득 머그샷!": 2,
     "新手守秘人的融災心得": 3,
     "How to Spend Cores": 7
   },
   "hourly_activity": {
+    "3": 601,
+    "4": 1014,
+    "5": 915,
+    "6": 819,
+    "7": 437,
+    "8": 539,
+    "9": 530,
+    "10": 540,
     "1": 694,
     "2": 715,
-    "3": 441,
     "0": 708
   },
   "message_types": {
-    "0": 1586,
-    "19": 966,
-    "20": 5,
+    "19": 2426,
+    "0": 5073,
+    "20": 12,
     "6": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1550354874280181861",
+      "channel_id": "1543760297637187614",
+      "content": "Are you going to clean up the Russian channel now? Translation of some of their ",
+      "author": "newyorkpat_81705",
+      "reactions": 13,
+      "channel": "D-tide Discussion"
+    },
+    {
+      "id": "1550400949468659822",
+      "channel_id": "1550400949468659822",
+      "content": "It says enjoy 25% counter bonus but in reality it is 50%",
+      "author": "aurora3981",
+      "reactions": 12,
+      "channel": "Winkle E1 doesn't match in game effect."
+    },
+    {
+      "id": "1550390908908732427",
+      "channel_id": "1543760297637187614",
+      "content": "I dont think i have a single clear without rewind",
+      "author": "angbak",
+      "reactions": 8,
+      "channel": "D-tide Discussion"
+    },
     {
       "id": "1550312807659208758",
       "channel_id": "1131839817982947429",
@@ -61,6 +116,38 @@
       "author": "corvim",
       "reactions": 8,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550355467203518564",
+      "channel_id": "1131839817982947429",
+      "content": "好耶",
+      "author": "xianrenwurao",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550355089892442152",
+      "channel_id": "1174983699935277147",
+      "content": "",
+      "author": "xianrenwurao",
+      "reactions": 6,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1550423343398658058",
+      "channel_id": "1548984907122876556",
+      "content": "深海一家人",
+      "author": "hakurou729",
+      "reactions": 6,
+      "channel": "有圖就發"
+    },
+    {
+      "id": "1550413940045905984",
+      "channel_id": "1543760297637187614",
+      "content": "The current dtide is now more manageable and can be appreciated, but it has stil",
+      "author": "vxvendetta97",
+      "reactions": 6,
+      "channel": "D-tide Discussion"
     },
     {
       "id": "1550321454384414841",
@@ -79,6 +166,46 @@
       "channel": "📜 V2.6.1 版本前瞻┊Version Outlook┊버전 미리보기"
     },
     {
+      "id": "1550422860365828217",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "dracozion",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550436397163487252",
+      "channel_id": "1170692781216378960",
+      "content": "SangaSanga",
+      "author": "jmjmjm6667",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550357126998921297",
+      "channel_id": "1433513650299076780",
+      "content": "YOOOOO E3 TAWIL YAYYY",
+      "author": "11wildhunt_1",
+      "reactions": 5,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1550374222759460865",
+      "channel_id": "1543760297637187614",
+      "content": "If you're not sure on the translations, don't throw accusations",
+      "author": "angbak",
+      "reactions": 5,
+      "channel": "D-tide Discussion"
+    },
+    {
+      "id": "1550375566891548736",
+      "channel_id": "1543760297637187614",
+      "content": "There are no russian speaking mods. There's like 3 player admins",
+      "author": "angbak",
+      "reactions": 5,
+      "channel": "D-tide Discussion"
+    },
+    {
       "id": "1550325454035230752",
       "channel_id": "1170692781216378960",
       "content": "Excuse me guys is she good /gen (i also got her wod aswell)",
@@ -87,7 +214,7 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1550336578432405536",
+      "id": "1550356849356701768",
       "channel_id": "1131839817982947429",
       "content": "",
       "author": "water_heart",
@@ -95,116 +222,20 @@
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1550320356642914324",
-      "channel_id": "1300659603993923644",
-      "content": "https://youtu.be/vy2QT7e7oU8?si=xJ4GQtvM8OD9x1qu",
-      "author": "anicillia",
+      "id": "1550414533166768190",
+      "channel_id": "1131839817982947429",
+      "content": "~~一直用熔朵扣上限扣到你盾量能覆盖为止~~",
+      "author": "kemomimi_",
       "reactions": 4,
-      "channel": "🔸phòng-chat-tiếng-việt"
-    },
-    {
-      "id": "1550324692840353835",
-      "channel_id": "1131839817982947429",
-      "content": "我已經入魔了，現在每天要看著校貓美麗的側臉才睡得著",
-      "author": "cakolu781",
-      "reactions": 3,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1550309633690697809",
-      "channel_id": "1170692781216378960",
-      "content": "Shit you right, GTinct should be || PChaos || || /j ||",
-      "author": "snorlax01",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550323035951865938",
-      "channel_id": "1170692781216378960",
-      "content": "Man, the last time I posted some 67 shit, Kaly of all people put me on blast.",
-      "author": "syro_k",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550323153681784874",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "guava3442",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550338912608723024",
-      "channel_id": "1170692781216378960",
-      "content": "Big shield",
-      "author": "corvim",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550326851195379805",
-      "channel_id": "1433513650299076780",
-      "content": "I like your statement \"madness slop\"",
-      "author": "flynnize",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1550327213788897363",
-      "channel_id": "1543760297637187614",
-      "content": "Okay move on. No gloating else imma issue a mute.",
-      "author": "angbak",
-      "reactions": 3,
-      "channel": "D-tide Discussion"
-    },
-    {
-      "id": "1550312270993694821",
-      "channel_id": "1550132466080153640",
-      "content": "why does gogier event give 1 less limited and 1 less standard pull",
-      "author": "princess.goth",
-      "reactions": 3,
-      "channel": "📜 V2.6.1 版本前瞻┊Version Outlook┊버전 미리보기"
-    },
-    {
-      "id": "1550327553301020693",
+      "id": "1550414882753478707",
       "channel_id": "1131839817982947429",
-      "content": "~~居然給鍵帽爆這麼多貓糧~~",
-      "author": "fon_tain",
-      "reactions": 2,
+      "content": "~~我没原液买章节礼包，就先不打章节了~~",
+      "author": "kemomimi_",
+      "reactions": 4,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1550328879237828690",
-      "channel_id": "1131839817982947429",
-      "content": "這只是你的錯覺\n他只是回歸正常出角時間",
-      "author": "foxcatfurry",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1550300083113828466",
-      "channel_id": "1170692781216378960",
-      "content": "use base ogier",
-      "author": "princess.goth",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550300207046991963",
-      "channel_id": "1170692781216378960",
-      "content": "why am i getting skull reacted base ogier is literally better than his genesis f",
-      "author": "princess.goth",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550302248444104814",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "mosske",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }
