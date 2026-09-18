@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-19",
+  "messages": 47,
+  "unique_authors": 10,
+  "reactions_total": 3,
+  "attachments": 3,
+  "channel_activity": {
+    "💬なんでも雑談（ネタバレあり）": 23,
+    "🔰初心者質問": 10,
+    "🙋誰でも質問": 14
+  },
+  "hourly_activity": {
+    "0": 47
+  },
+  "message_types": {
+    "0": 46,
+    "19": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1550544017954177175",
+      "channel_id": "1400058619726266462",
+      "content": "星辰編やと特に固定値キーチャ強い",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 2,
+      "channel": "🙋誰でも質問"
+    },
+    {
+      "id": "1550542567928631318",
+      "channel_id": "1377478664609857647",
+      "content": "完凸コパさん借りて遊んだけど流石にくっそ強いな！",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 1,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    }
+  ]
+}
