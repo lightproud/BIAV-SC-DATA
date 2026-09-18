@@ -1,9 +1,26 @@
 {
   "date": "2026-09-18",
-  "archived_at": "2026-09-18T10:33:36.930870+00:00",
+  "archived_at": "2026-09-18T15:48:51.670831+00:00",
   "source": "bilibili",
-  "item_count": 5,
+  "item_count": 8,
   "items": [
+    {
+      "title": "【忘却前夜】2.6.1版本前瞻，复刻抽取建议",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-18T11:30:33+00:00",
+      "url": "https://www.bilibili.com/video/av117291798830753",
+      "engagement": 3032,
+      "is_hot": false,
+      "author": "金发女人丨型",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/4c8dd41ad90f1b70f14ca48c7bbbf628d71aca40.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】&quot;铁譬股和大成长是检验融灾真理的唯二标准&quot;",
       "summary": "“只要对面无法对我造成伤害那就是起了大护盾。所以一回合清空对面血条，也是一种盾击。”\n——地·圣·凯蒂古拉·瓜\n\n19回合叠这么点力量加203火打那么多伤害其实都不算多，主要是琥珀被鲨鱼偷吃了导致只能带不存在之地老老实实蹲坑（骗你的，带琥珀也是蹲坑）。顺带一提，你豆发明的黑子魂诞医生太有含金量了。",
@@ -73,6 +90,23 @@
       "content_type": "video"
     },
     {
+      "title": "第三十一话 女王回归",
+      "summary": "(本视频为《忘却前夜》同人二创，非官方出品，无任何商业用途) 【出场演员：泰旖丝 守密人 拉蒙娜 塔薇 奥尔拉 艾瑞卡 阿拉克涅 达芙黛尔 旺达】塔薇是真的好看 我自己做的时候也被塔薇惊到了 不愧是披着白纱的神明",
+      "source": "bilibili",
+      "time": "2026-09-18T12:00:00+00:00",
+      "url": "https://www.bilibili.com/video/av117286446833215",
+      "engagement": 95,
+      "is_hot": false,
+      "author": "比较瓜皮",
+      "tags": [
+        "动画综合"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/6674624d747788c17d9e9991b6591037bac922a3.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "blender人物建模 | 忘却前夜·沙耶羽翼少女角色模型制作 | 模型布线 uv拆分 手绘贴图 灯光渲染全流程讲解",
       "summary": "",
       "source": "bilibili",
@@ -87,6 +121,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/beacf07aae88c5b0a0d3dc10ea88636785806ad0.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "在古代，萌新抽了沙耶茉夏有多爽？",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-18T14:46:33+00:00",
+      "url": "https://www.bilibili.com/video/av117292537020860",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "雾汐Mistide",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/99620b1b23bd32bbc8224e37853e8dc564f79e1e.jpg",
       "content_type": "video"
     }
   ]
