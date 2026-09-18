@@ -1,8 +1,8 @@
 {
   "date": "2026-09-17",
-  "archived_at": "2026-09-17T23:24:05.463863+00:00",
+  "archived_at": "2026-09-18T03:08:42.075558+00:00",
   "source": "bilibili",
-  "item_count": 6,
+  "item_count": 8,
   "items": [
     {
       "title": "『忘却前夜』4神国癫狂2-7",
@@ -56,6 +56,23 @@
       "content_type": "video"
     },
     {
+      "title": "新一期450蠕动结束！！",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-17T11:55:26+00:00",
+      "url": "https://www.bilibili.com/video/av117286245565212",
+      "engagement": 136,
+      "is_hot": false,
+      "author": "站好这条街",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/a1c568734f17824379c7544b3fb6a9493081ac1c.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "【忘却前夜】 福塔4-7",
       "summary": "",
       "source": "bilibili",
@@ -70,6 +87,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/d770db7ae8061e32d278c0320d0dc7f58d0296bb.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "深海24 4-7",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-17T15:11:59+00:00",
+      "url": "https://www.bilibili.com/video/av117287000478926",
+      "engagement": 126,
+      "is_hot": false,
+      "author": "小肠在蠕动",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/d637c8a30ae835ef2b6eae8d2ef3e673a93878e1.jpg",
       "content_type": "video"
     },
     {
