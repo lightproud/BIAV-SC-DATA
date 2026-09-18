@@ -1,57 +1,214 @@
 {
   "date": "2026-09-17",
-  "messages": 3021,
-  "unique_authors": 181,
-  "reactions_total": 174,
-  "attachments": 161,
+  "messages": 9741,
+  "unique_authors": 376,
+  "reactions_total": 905,
+  "attachments": 466,
   "channel_activity": {
-    "🔸綜合討論": 82,
-    "🔸morimens-game-chat": 1095,
-    "🔸相位对弈": 2,
-    "🔸课间休息闲聊": 11,
-    "🔸한국어-채팅방": 1,
-    "🔸русский-канал": 54,
-    "🔸phòng-chat-tiếng-việt": 18,
-    "🔸canal-español": 43,
-    "🔸canal-português": 24,
-    "🔸ruang-obrolan-indonesia": 123,
-    "🔸ห้องสนทนาภาษาไทย": 4,
-    "🔸traphase": 8,
-    "🔸lore-chat": 11,
-    "🔸team-building": 81,
-    "🔸general-chat": 983,
-    "🔸邀请码互助┊swap-invitation-codes": 2,
-    "🔸game-question": 381,
-    "🔸游戏问题": 44,
-    "🔸机器人命令┊bot-commands": 9,
-    "新服装介绍": 1,
-    "这个那个": 1,
-    "Slay the Spire Morimens Modding Log 殺戮尖塔模組": 1,
+    "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개": 138,
+    "🔸chaîne-française": 15,
+    "🔸剧情交流": 3,
+    "🔸general-chat": 1277,
+    "🔸相位对弈": 3,
+    "🔸canal-español": 315,
+    "How to Spend Cores": 1,
+    "Need help building teams for story and dzone later on": 3,
+    "I don’t understand teams": 2,
+    "🔸deutscher-chatraum": 4,
+    "🔸邀请码互助┊swap-invitation-codes": 7,
+    "🔸morimens-game-chat": 5250,
+    "🔸课间休息闲聊": 16,
+    "💭「Processing」game client crashed...somewhat": 1,
+    "隱秘的誕生有異常": 1,
+    "Black screen upon game start on Steam": 2,
+    "请在意一下正常玩相位对弈的玩家": 1,
+    "Suggestion For A Better Madness Mechanic": 3,
+    "Corposant and Wheel Unseen \"Bug\"": 1,
+    "D-tide Discussion": 33,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 4,
+    "Quadra / 4-Realm Rerun Banners": 1,
+    "Do not Forget: Jenkins": 3,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 1,
+    "Divine Realms, Aliemus Costs and other Future Worries": 4,
     "Login Issues on Steam Deck": 1,
-    "Black screen upon game start on Steam": 1,
     "Pls give out origin of time for limited awakener & wheels": 12,
-    "D-tide Discussion": 7,
-    "V2.5.1.0 停服维护公告": 3,
-    "On the D-Effect Zone Adjustments": 1,
+    "新服装介绍": 7,
+    "堆图ing": 2,
+    "Slay the Spire Morimens Modding Log 殺戮尖塔模組": 2,
+    "这个那个": 1,
+    "🔸traphase": 25,
+    "🔸русский-канал": 187,
+    "The Mind Electric": 1,
     "Caecus :3": 1,
-    "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개": 12,
-    "忘却前夜怪物图鉴": 1,
+    "🔸频道建议┊server-suggestions": 3,
+    "🔸한국어-채팅방": 31,
+    "🔸游戏问题": 46,
+    "🔸canal-português": 79,
+    "🔸lore-chat": 51,
+    "🔸ห้องสนทนาภาษาไทย": 9,
+    "GooglePlay充值功能异常公告┊GooglePlay Recharge Feature Anomaly Announcement": 1,
+    "GooglePlay充值功能恢复公告┊GooglePlay Recharge Feature Restoration Announcement": 2,
+    "V2.5.1.0 停服维护公告": 4,
+    "🔸机器人命令┊bot-commands": 24,
+    "忘却前夜怪物图鉴": 4,
     "融災組隊": 1,
-    "Need help building teams for story and dzone later on": 1,
-    "I don’t understand teams": 1
+    "On the D-Effect Zone Adjustments": 1,
+    "🔸綜合討論": 167,
+    "🔸team-building": 369,
+    "🔸phòng-chat-tiếng-việt": 22,
+    "🔸lets-count": 3,
+    "🔸ruang-obrolan-indonesia": 126,
+    "🔸game-question": 1470
   },
   "hourly_activity": {
-    "0": 592,
-    "1": 912,
-    "2": 956,
-    "3": 561
+    "0": 1173,
+    "1": 1042,
+    "2": 944,
+    "4": 760,
+    "5": 1024,
+    "6": 800,
+    "7": 263,
+    "8": 592,
+    "9": 912,
+    "11": 561,
+    "3": 714,
+    "10": 956
   },
   "message_types": {
-    "0": 2131,
-    "19": 882,
-    "20": 8
+    "0": 6213,
+    "19": 3508,
+    "20": 18,
+    "4": 2
   },
   "top_reacted_messages": [
+    {
+      "id": "1549826099889053776",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "serahh__",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549931121217769532",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "bitterlemon",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549893912888615054",
+      "channel_id": "1549748077810941982",
+      "content": "I’m not someone who really speaks here in this server much, I usually lurk, but ",
+      "author": "jcw18",
+      "reactions": 8,
+      "channel": "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개"
+    },
+    {
+      "id": "1549896353226825788",
+      "channel_id": "1549748077810941982",
+      "content": "What exactly is the point of this, other than being useless? Or maybe there's a ",
+      "author": "salami_87",
+      "reactions": 8,
+      "channel": "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개"
+    },
+    {
+      "id": "1549877722396754031",
+      "channel_id": "1170692781216378960",
+      "content": "Gogier doomposting?",
+      "author": "brainrot_in_a_vat",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549832115212787742",
+      "channel_id": "1496525443329687723",
+      "content": "神秘打击女",
+      "author": "resazur1n",
+      "reactions": 7,
+      "channel": "堆图ing"
+    },
+    {
+      "id": "1549898103954473011",
+      "channel_id": "1549748077810941982",
+      "content": "Team building is dead, only BIAV mandated teams and playstyles are allowed. You ",
+      "author": "jcw18",
+      "reactions": 6,
+      "channel": "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개"
+    },
+    {
+      "id": "1549912640598577264",
+      "channel_id": "1549748077810941982",
+      "content": "Ppl saying e2 is 20 aliemus is wrong, it's extra 10 aliemus when you play strike",
+      "author": "aurora3981",
+      "reactions": 6,
+      "channel": "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개"
+    },
+    {
+      "id": "1549826350217433262",
+      "channel_id": "1170692781216378960",
+      "content": "who's this?",
+      "author": "verdy_heh",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549918493959389197",
+      "channel_id": "1549748077810941982",
+      "content": "That means it's twice as useless , fantastic E2 , Twice 🚮",
+      "author": "salami_87",
+      "reactions": 5,
+      "channel": "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개"
+    },
+    {
+      "id": "1549827089954242561",
+      "channel_id": "1170692781216378960",
+      "content": "stop whaling the devs suck",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549840062911357072",
+      "channel_id": "1170692781216378960",
+      "content": "finally a use for unequal exchange the posse??",
+      "author": "bing_sus",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549881082059554908",
+      "channel_id": "1170692781216378960",
+      "content": "started 5 days ago",
+      "author": "verdy_heh",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549902884257398938",
+      "channel_id": "1170692781216378960",
+      "content": "Kade was 100% of the traphase playerbase <:CAUGHT:1226596585006305350>",
+      "author": "ihatepickinguniqueusernames",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549904138769539093",
+      "channel_id": "1170692781216378960",
+      "content": "This is just standard creep",
+      "author": "mesozoicguy15",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1549892369892245518",
+      "channel_id": "1543844957859745862",
+      "content": "Even her current critical damage scaling provides rapid diminishing returns, bec",
+      "author": "fishhazardthewizard",
+      "reactions": 5,
+      "channel": "Do not Forget: Jenkins"
+    },
     {
       "id": "1549950477527945230",
       "channel_id": "1131839817982947429",
@@ -77,140 +234,12 @@
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1549945610499661925",
-      "channel_id": "1131839817982947429",
-      "content": "看到有人说把2费和x费删了，当神混工具人",
-      "author": "polkarain",
+      "id": "1549897272098168976",
+      "channel_id": "1549748077810941982",
+      "content": "only real enligntment is E3 and it's just stat inflation\n\nE1 should have been in",
+      "author": "sexysneakystoat1625",
       "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549960548504830043",
-      "channel_id": "1131839817982947429",
-      "content": "~~看來大家都是用流明換金券~~",
-      "author": "fon_tain",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549967384591212626",
-      "channel_id": "1170692781216378960",
-      "content": "Ozai when the kid shoots lighting:",
-      "author": "justeunchatennuyeux",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549933803819114668",
-      "channel_id": "1549933803819114668",
-      "content": "I was bored :33",
-      "author": "n1k0l4111_79",
-      "reactions": 4,
-      "channel": "Caecus :3"
-    },
-    {
-      "id": "1549959838312824962",
-      "channel_id": "1131839817982947429",
-      "content": "啊？原來我打這麼少次嗎<:Brown_think:1459080117308620996>",
-      "author": "fon_tain",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549979727261868072",
-      "channel_id": "1131839817982947429",
-      "content": "死抗戰神",
-      "author": "xianrenwurao",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1549933913030533151",
-      "channel_id": "1170692781216378960",
-      "content": "I don't use the support system >_>",
-      "author": "syro_k",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549973656120074353",
-      "channel_id": "1170692781216378960",
-      "content": "Understood. Giving the next chapter boss Permanent Fervor.",
-      "author": "skigloves",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549935300753625098",
-      "channel_id": "1300659718653476925",
-      "content": "uma horla no standard,ta bom.",
-      "author": "celsolf",
-      "reactions": 3,
-      "channel": "🔸canal-português"
-    },
-    {
-      "id": "1549959559966101556",
-      "channel_id": "1433513650299076780",
-      "content": "Alright how does this look?",
-      "author": "kazuki420",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1549935494060839045",
-      "channel_id": "1170692781216378960",
-      "content": "Bad 450 done",
-      "author": "guava3442",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549935500473933998",
-      "channel_id": "1170692781216378960",
-      "content": "Game would rather give me this",
-      "author": "umagan_",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549936432754462731",
-      "channel_id": "1170692781216378960",
-      "content": "I have cassiah 😄",
-      "author": "umagan_",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549950751185575959",
-      "channel_id": "1170692781216378960",
-      "content": "saw 300 str and realized it was oe lets all kill ourselves",
-      "author": "lukityswoogity",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549958124843180095",
-      "channel_id": "1170692781216378960",
-      "content": "\"Posse to make 2-cost take effect 2x\" 🔥",
-      "author": "ashd3x",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549962346682781819",
-      "channel_id": "1170692781216378960",
-      "content": "if someone looks at you funny start explaining what Thais tentacles do",
-      "author": "bru0001",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1549963557289066598",
-      "channel_id": "1170692781216378960",
-      "content": "shoutout to pluto i love that anime",
-      "author": "lukityswoogity",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
+      "channel": "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개"
     }
   ]
 }
