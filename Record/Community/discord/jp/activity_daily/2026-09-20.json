@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-20",
+  "messages": 3,
+  "unique_authors": 2,
+  "reactions_total": 0,
+  "attachments": 0,
+  "channel_activity": {
+    "💬なんでも雑談（ネタバレあり）": 1,
+    "🙋誰でも質問": 2
+  },
+  "hourly_activity": {
+    "0": 3
+  },
+  "message_types": {
+    "0": 1,
+    "19": 2
+  },
+  "top_reacted_messages": []
+}
