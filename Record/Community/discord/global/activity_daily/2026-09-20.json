@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-20",
+  "messages": 2097,
+  "unique_authors": 159,
+  "reactions_total": 268,
+  "attachments": 119,
+  "channel_activity": {
+    "🔸綜合討論": 26,
+    "🔸morimens-game-chat": 1644,
+    "🔸剧情交流": 1,
+    "🔸deutscher-chatraum": 1,
+    "🔸chaîne-française": 2,
+    "🔸русский-канал": 64,
+    "🔸phòng-chat-tiếng-việt": 6,
+    "🔸canal-español": 7,
+    "🔸canal-português": 13,
+    "🔸ruang-obrolan-indonesia": 3,
+    "🔸ห้องสนทนาภาษาไทย": 11,
+    "🔸traphase": 14,
+    "🔸lore-chat": 13,
+    "🔸lets-count": 2,
+    "🔸team-building": 49,
+    "🔸general-chat": 123,
+    "🔸邀请码互助┊swap-invitation-codes": 2,
+    "🔸game-question": 49,
+    "🔸游戏问题": 1,
+    "🔸机器人命令┊bot-commands": 4,
+    "往時": 4,
+    "When will a passive ability be added to these characters?": 2,
+    "Stop making me play Traphase": 26,
+    "Caraboo E3 is kind of lying?": 13,
+    "D-tide Discussion": 1,
+    "V2.6.1.0 停服维护公告": 8,
+    "V2.5.1.0 停服维护公告": 2,
+    "doreposting / unserious doodles / doreyap": 4,
+    "Caraboo in poison teams": 1,
+    "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 1
+  },
+  "hourly_activity": {
+    "0": 465,
+    "1": 402,
+    "2": 713,
+    "4": 69,
+    "3": 448
+  },
+  "message_types": {
+    "19": 899,
+    "0": 1194,
+    "20": 3,
+    "4": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1550946868987568169",
+      "channel_id": "1170692781216378960",
+      "content": "sort of listening to Arlene because she got #1 in her name so i think she kinda ",
+      "author": "osxmax",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550942710280757459",
+      "channel_id": "1170692781216378960",
+      "content": "maybe I should do hm chapter 6",
+      "author": "direhands",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550911674658066472",
+      "channel_id": "1170692781216378960",
+      "content": "gnosisless yippe",
+      "author": "corvim",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550913408386465852",
+      "channel_id": "1170692781216378960",
+      "content": "gn everynyan progress on my wip",
+      "author": "glitzy_x",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550924008818483311",
+      "channel_id": "1400749543288475770",
+      "content": "Oh okay, thank you for your help",
+      "author": "firemother",
+      "reactions": 4,
+      "channel": "🔸team-building"
+    },
+    {
+      "id": "1550940953039208568",
+      "channel_id": "1550940953039208568",
+      "content": "你常為完美的音符駐足，自小便被灌輸的理念，你清楚知曉，人理應追求完美，對自己嚴苛，完成一場毫無瑕疵的演出。可你並不是受天賦偏愛的人，於你而言，只有不間斷的練習，",
+      "author": "9ix_eternity",
+      "reactions": 4,
+      "channel": "往時"
+    },
+    {
+      "id": "1550940953039208568",
+      "channel_id": "1550940953039208568",
+      "content": "你常為完美的音符駐足，自小便被灌輸的理念，你清楚知曉，人理應追求完美，對自己嚴苛，完成一場毫無瑕疵的演出。可你並不是受天賦偏愛的人，於你而言，只有不間斷的練習，",
+      "author": "9ix_eternity",
+      "reactions": 4,
+      "channel": "往時"
+    },
+    {
+      "id": "1550922858476212313",
+      "channel_id": "1170692781216378960",
+      "content": "Hope y'all have a good rest of your day and wishing everyone good fortune in the",
+      "author": "flower_stone",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550929799583637747",
+      "channel_id": "1170692781216378960",
+      "content": "my Liz will be level 80 soon I can’t wait",
+      "author": "serahh__",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550939374429143314",
+      "channel_id": "1170692781216378960",
+      "content": "there's a new code!?",
+      "author": "verdy_heh",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550941825291001868",
+      "channel_id": "1170692781216378960",
+      "content": "they share the same Es no?",
+      "author": "lavache.",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550942128874463335",
+      "channel_id": "1170692781216378960",
+      "content": "is this all paid summons?",
+      "author": "osxmax",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550942650197090357",
+      "channel_id": "1170692781216378960",
+      "content": "Bro was found later, pegged by Caraboo",
+      "author": "bru0001",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550944074666737794",
+      "channel_id": "1170692781216378960",
+      "content": "i almost got it",
+      "author": "princess.goth",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550944306150244413",
+      "channel_id": "1170692781216378960",
+      "content": "You know what, I think I'm gonna reset ms. coral",
+      "author": "xiii_c",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550944691472830565",
+      "channel_id": "1170692781216378960",
+      "content": "Damn imagine this with horla wheel",
+      "author": "undeterredhomo",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550949066706255965",
+      "channel_id": "1170692781216378960",
+      "content": "No but gtulu will have a global passive based on how many limited Lemurians you ",
+      "author": "bru0001",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550901234238750782",
+      "channel_id": "1170692781216378960",
+      "content": "My doresain cant really do w2 and after nightmare stage either",
+      "author": "polkarain",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550905246471946412",
+      "channel_id": "1170692781216378960",
+      "content": "week 1 placement vs week 2, game dead fr",
+      "author": "violettaautumn",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550909957430575206",
+      "channel_id": "1170692781216378960",
+      "content": "first rotation post rework\n392 players at 450 or higher\n790 players at 400 or hi",
+      "author": "kinbote.",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
