@@ -1,8 +1,8 @@
 {
   "date": "2026-09-19",
-  "archived_at": "2026-09-19T10:18:09.659981+00:00",
+  "archived_at": "2026-09-19T15:21:29.038550+00:00",
   "source": "steam",
-  "item_count": 7,
+  "item_count": 10,
   "items": [
     {
       "title": "[负面] слей зе спайр больного человека",
@@ -161,6 +161,75 @@
         "playtime_forever": 1961,
         "votes_up": 0,
         "timestamp_created": 1789790949
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Dark world, dark story, dark music, and deck build...",
+      "summary": "Dark world, dark story, dark music, and deck building card play. Plus, great illustrations.",
+      "source": "steam_review",
+      "time": "2026-09-19T14:19:06+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198746845164/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198746845164",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2242,
+        "votes_up": 0,
+        "timestamp_created": 1789827546
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Wow giving out pulls randomly by mail and time gat...",
+      "summary": "Wow giving out pulls randomly by mail and time gating them so when u just tried the Game out for Fun already being down over a Month in Resources while the Gacha is a Big fck off scam as well ( in like 200 Tries i hit that supposed 3% once , the Rate in the game should be more like 1% at best , hey at least u have only 30 pity but can lose 2 times in a row to off-banners so 90 Pulls for a Char always.",
+      "source": "steam_review",
+      "time": "2026-09-19T13:32:50+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198064192553/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198064192553",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 1289,
+        "votes_up": 0,
+        "timestamp_created": 1789824770
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] This is without a doubt one of the best Visual nov...",
+      "summary": "This is without a doubt one of the best Visual novel rpg's I've ever played, and remains in my top list.\r\n\r\nThe story is very dark, twisted, unforgiving, emotional, and in some moments humorous. Trauma anyone? You will find it here as each character has been through or is going through something horrendous. The world is completely messed up and the only ones who survive cannot afford to be weak or sometimes wish they didn't survive.\r\n\r\nIt's a gacha system, and gacha is gacha so whatever. If you are turned off by this type of system then you probably won't have a good time. It is generous in my opinion as I have played a good number of gacha games. As a rule of thumb in all gacha rpgs. Do not spread your resources thin unless you don't mind spending dollars.\r\n\r\nThe banner system is cool I really do like it, and they re run characters very frequently so you don't have to worry about missing things for long. They always run events that give generous amounts of resources, and it helps a lot.\r\n\r\nThe combat system is really awesome once you start to get the hang of things and learn which characters to pair together. I love this style of rpg where you have a hand of cards that apply to each characters skills etc. it is quite in depth and there is a lot to learn I think it's done so well. I really do enjoy it even after 200+ hours.\r\n\r\nThe characters themselves are all very unique with there own personalities, and for the most part they are all pretty messed up individuals, but I guess I would be to if I had died and been resurrected back to life and didn't know what the hell was going on anymore. Re awaken to see the world is not how you left it and possibly it would have been better to still be dead. It makes for a great story though. There is some fantastic lore in this one if you are willing to walk through hell you will not be dissatisfied.\r\n\r\nI really love the music in this one. Dark emotional and cinematic. It has stuck with me. It really hits well and sets the tone while matching the scene perfectly.\r\n\r\nI think my only gripe as of late is the fact that they have taken away the exploration in the story mode which I really really enjoyed so much. It gave you a sense of freedom and choice which made it feel a bit less linear. Not that a linear story is a bad thing, I just thought it made the game feel different from other visual novel rpgs. Near the end of the 1st arc the exploration got extremely long so I could see why some players disliked it, but I loved it. I think it would be fantastic if they could add the option to turn it on or off. Still though I love this game and will continue to play.\r\n\r\nthis game gets a 10/10 from me. If you like a darker story with deep emotional routes and twisted demented scenarios this might just be the game for you. I have never been disappointed that I started playing it, and I hope they can keep the story going for a long time.",
+      "source": "steam_review",
+      "time": "2026-09-19T13:18:40+00:00",
+      "url": "https://steamcommunity.com/profiles/76561197976387498/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561197976387498",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 14187,
+        "votes_up": 0,
+        "timestamp_created": 1789823920
       },
       "region": "global",
       "archive_subtype": "review"

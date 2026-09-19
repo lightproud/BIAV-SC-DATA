@@ -1,8 +1,8 @@
 {
   "date": "2026-09-18",
-  "archived_at": "2026-09-19T10:18:09.751167+00:00",
+  "archived_at": "2026-09-19T15:21:29.141234+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 好评] ★5 لعبة راءعة جدا انصح بها لمن يعشق اسلوب ا",
@@ -43,6 +43,20 @@
       "author": "Indra K.A",
       "tags": [],
       "lang": "id",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 i have already left a positive review be",
+      "summary": "i have already left a positive review before, but now I'm revoking it. i mentioned that the devs are indeed passionate about this game, but it's crucial to also listen to your player base. please, fix the GLARING issue and listen to the fans. Do not remove the good features which are basically the only things players log in for. This game is dying again, and im heartbroken to see it on the brink of death for the SECOND time. please listen to the fanbase.",
+      "source": "google_play",
+      "time": "2026-09-18T12:52:01+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-da7e026b-646e-4648-8d17-3ca5db07bcf6",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Zaijan Monilla",
+      "tags": [],
+      "lang": "en",
       "platform_region": "",
       "region": "global"
     }

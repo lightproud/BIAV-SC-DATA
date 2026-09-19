@@ -1,8 +1,8 @@
 {
   "date": "2026-09-19",
-  "archived_at": "2026-09-19T10:18:09.609252+00:00",
+  "archived_at": "2026-09-19T15:21:28.984369+00:00",
   "source": "bahamut",
-  "item_count": 23,
+  "item_count": 24,
   "items": [
     {
       "title": "【情報】邀請活動集中串，一起拿朵爾幻衣獎勵(可3人互填)",
@@ -37,6 +37,19 @@
       "time": "2026-09-18T20:23:14.985616+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1565&tnum=3",
       "engagement": 63,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【討論】時間原點發問集中串，3天毀滅倒數",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-19T15:20:34.437084+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1175&tnum=14",
+      "engagement": 52,
       "is_hot": false,
       "author": "t12345825",
       "tags": [],
