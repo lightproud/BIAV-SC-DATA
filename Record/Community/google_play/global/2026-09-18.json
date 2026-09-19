@@ -1,8 +1,8 @@
 {
   "date": "2026-09-18",
-  "archived_at": "2026-09-19T03:04:45.298193+00:00",
+  "archived_at": "2026-09-19T10:18:09.751167+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 لعبة راءعة جدا انصح بها لمن يعشق اسلوب ا",
@@ -15,6 +15,34 @@
       "author": "Oussamaattarr0gu Thanks",
       "tags": [],
       "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 This is a pre-emptive review summarizing",
+      "summary": "This is a pre-emptive review summarizing why I gave this game a try. While browsing the Genshin Impact subreddit about a combat bug in an endgame mode, the recent response to a difficult endgame mode in this game came up. They mentioned more frequent pulls, a positive response to feedback, and demonstrated a willingness to listen to players. No matter how the game is, I won't change my review. Listening to players is worth 5* in my eyes, and should be firmly encouraged!!",
+      "source": "google_play",
+      "time": "2026-09-18T08:47:10+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-1b1ad27a-e8e2-4a5d-82bf-2600f6eff4d7",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Alexander",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 jujur game nya seru, visual bagus, musik",
+      "summary": "jujur game nya seru, visual bagus, musik enak, game sangat optimal tidak berat, tapi sayang mekanik nya cukup sulit untuk dipahami... saya sudah mencoba membaca panduan tapi ada cukup banyak bagian translate nya yang ga nyambung dan ga jelas, di bahasa indonesia maupun english, dan perihal gacha kenapa banyak sekali banner nya, jadi bikin bingung...",
+      "source": "google_play",
+      "time": "2026-09-18T10:09:19+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-8b66538a-bb2b-45d0-9740-db03ce41fabb",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Indra K.A",
+      "tags": [],
+      "lang": "id",
       "platform_region": "",
       "region": "global"
     }
