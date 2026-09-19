@@ -1,8 +1,8 @@
 {
   "date": "2026-09-19",
-  "archived_at": "2026-09-19T15:21:28.982647+00:00",
+  "archived_at": "2026-09-19T20:02:04.253652+00:00",
   "source": "bilibili",
-  "item_count": 12,
+  "item_count": 13,
   "items": [
     {
       "title": "忘却前夜丨广播剧《歧路亡羊》（CV：音羽里奏）",
@@ -121,6 +121,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/8f3706b741cf10662f5c2ca323e6e6678d0c7c37.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜 融灾全灵芝 低配艰难蠕动450",
+      "summary": "这期融灾好难好难，没有大月卡，全是伏笔⊙﹏⊙\n好多角色都没抽，打起来太要命了 全靠自爆\n①图是大佬的逃课av117275273202767 \n②图道中太难了太难了，只能搬出茉夏自爆\n③图神国自爆\n④图借24自爆\n⑤图实在没人了，炖鸡自爆，道中狂掉死扛。 随便来个队都会比王册好打",
+      "source": "bilibili",
+      "time": "2026-09-19T06:13:20+00:00",
+      "url": "https://www.bilibili.com/video/av117296194394080",
+      "engagement": 100,
+      "is_hot": false,
+      "author": "艾扎克蛤",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/f8d0130daf1aa6788861d127de5b37a195e12d45.jpg",
       "content_type": "video"
     },
     {

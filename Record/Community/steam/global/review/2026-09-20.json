@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-20",
+  "archived_at": "2026-09-19T20:02:04.298483+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] Игрушка просто офигенная с классным и вайбовым сюж...",
+      "summary": "Игрушка просто офигенная с классным и вайбовым сюжетом, а также стратегии",
+      "source": "steam_review",
+      "time": "2026-09-19T18:29:37+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199375814140/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199375814140",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 187,
+        "votes_up": 0,
+        "timestamp_created": 1789842577
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

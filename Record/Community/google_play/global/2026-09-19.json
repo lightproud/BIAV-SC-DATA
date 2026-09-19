@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-19",
+  "archived_at": "2026-09-19T20:02:04.338729+00:00",
+  "source": "google_play",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★5 game peak btw ❤️",
+      "summary": "game peak btw ❤️",
+      "source": "google_play",
+      "time": "2026-09-18T16:47:02+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=vi#gp-1c991433-12b2-4be3-a770-e67f9daff5f1",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Doe John",
+      "tags": [],
+      "lang": "vi",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Es una auténtica maravilla. Todo es perf",
+      "summary": "Es una auténtica maravilla. Todo es perfecto, su estilo visual, su narrativa, su jugabilidad, el combate etc.Es una obra maestra que ojalá lo descubra más gente y los creadores puedan seguir ofreciéndonos más actualizaciones de calidad. No lo dudes descárgate lo y juega.",
+      "source": "google_play",
+      "time": "2026-09-18T20:01:11+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-1f90d221-fdcf-4b19-a195-69da38457fe6",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Aitor Moya Climent",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

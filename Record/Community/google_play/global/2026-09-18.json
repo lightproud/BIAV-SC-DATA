@@ -1,8 +1,8 @@
 {
   "date": "2026-09-18",
-  "archived_at": "2026-09-19T15:21:29.141234+00:00",
+  "archived_at": "2026-09-19T20:02:04.334402+00:00",
   "source": "google_play",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "[Google Play 好评] ★5 لعبة راءعة جدا انصح بها لمن يعشق اسلوب ا",
@@ -57,6 +57,20 @@
       "author": "Zaijan Monilla",
       "tags": [],
       "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 Era pra ser um gacha bem f2p friendly, c",
+      "summary": "Era pra ser um gacha bem f2p friendly, costumava ser, mas o último patch (lançamento da Caraboo) trouxe mudanças mto p2w no melhor modo de jogo, além de práticas anti-consumidor de trazer um banner de volta personagens e equipamentos populares no patch anterior só pra nerfar pesado no patch atual, o q destrói a fé no futuro do jogo, aí ao invés de consertarem o q a glr reclamou, tentam nos comprar com presentes de \"dscps\" como se fosse propina. Palhaçada do k7",
+      "source": "google_play",
+      "time": "2026-09-18T15:24:39+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=pt#gp-af5f1dc8-c5db-427f-9880-544fcdfd2ef2",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Tony Oliver",
+      "tags": [],
+      "lang": "pt",
       "platform_region": "",
       "region": "global"
     }
