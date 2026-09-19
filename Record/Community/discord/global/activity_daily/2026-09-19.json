@@ -1,55 +1,80 @@
 {
   "date": "2026-09-19",
-  "messages": 5619,
-  "unique_authors": 159,
-  "reactions_total": 636,
-  "attachments": 285,
+  "messages": 9875,
+  "unique_authors": 211,
+  "reactions_total": 1065,
+  "attachments": 480,
   "channel_activity": {
-    "🔸綜合討論": 172,
-    "🔸morimens-game-chat": 3606,
-    "🔸剧情交流": 4,
-    "🔸chaîne-française": 12,
-    "🔸русский-канал": 250,
-    "🔸phòng-chat-tiếng-việt": 13,
-    "🔸canal-español": 8,
-    "🔸canal-português": 17,
-    "🔸ruang-obrolan-indonesia": 92,
-    "🔸traphase": 13,
-    "🔸lore-chat": 22,
-    "🔸team-building": 132,
-    "🔸general-chat": 157,
-    "🔸game-question": 953,
-    "🔸机器人命令┊bot-commands": 26,
-    "菜雞四小強玩家的抱怨之旅new": 9,
+    "🔸綜合討論": 540,
+    "🔸阵容构建": 10,
+    "🔸morimens-game-chat": 5213,
+    "🔸剧情交流": 5,
+    "🔸相位对弈": 106,
+    "🔸课间休息闲聊": 7,
+    "🔸日本語チャンネル": 2,
+    "🔸chaîne-française": 14,
+    "🔸русский-канал": 282,
+    "🔸phòng-chat-tiếng-việt": 49,
+    "🔸canal-español": 11,
+    "🔸canal-português": 19,
+    "🔸ruang-obrolan-indonesia": 196,
+    "🔸ห้องสนทนาภาษาไทย": 309,
+    "🔸traphase": 27,
+    "🔸lore-chat": 128,
+    "🔸team-building": 260,
+    "🔸general-chat": 204,
+    "🔸邀请码互助┊swap-invitation-codes": 3,
+    "🔸game-question": 2155,
+    "🔸机器人命令┊bot-commands": 38,
+    "放点摸鱼": 3,
+    "是不是也該在這裡蓋個圖樓👁️": 1,
+    "菜雞四小強玩家的抱怨之旅new": 12,
+    "關於維護公告的蘿坦大招成長修復 Regarding the fix of Lotan": 7,
+    "SP小騎士技能是忘卻前夜文案徵人廣告嗎": 3,
+    "Stop making me play Traphase": 12,
+    "Balance problem in arc2": 3,
+    "Suggestion For A Better Madness Mechanic": 21,
+    "Caraboo E3 is kind of lying?": 4,
+    "✅無法獲得護盾效果表現形式不同之錯誤": 3,
+    "D-tide Discussion": 55,
+    "Caraboo Blessing \"Missed Chance\" should be reworked": 1,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 2,
+    "繁育沒有提高卡茜亞的超限爆發的固定力量": 4,
+    "V2.6.1.0 停服维护公告": 69,
+    "V2.5.1.0 停服维护公告": 6,
+    "On the D-Effect Zone Adjustments": 13,
+    "I NEED GDOLL CONTENT😭😭😭😭": 5,
+    "【English Translation】Opinions Collection": 12,
+    "V2.6.1 广播剧《歧路亡羊》┊Radio Drama - Sheep Gone Astray┊오디오 드라마 『망양지탄』": 3,
+    "📜 V2.6.1 版本前瞻┊Version Outlook┊버전 미리보기": 3,
+    "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개": 2,
+    "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 3,
+    "百相自选唤醒要抽吗": 1,
     "Cov binding for Ramona and G.Ramona doesn't carry over": 2,
     "When will a passive ability be added to these characters?": 14,
     "Primordial Chaos Posse Skill Rework": 3,
-    "Stop making me play Traphase": 11,
-    "Suggestion For A Better Madness Mechanic": 14,
     "Pls give out origin of time for limited awakener & wheels": 3,
     "Quadra / 4-Realm Rerun Banners": 3,
     "💭「Processing」Cannot login \"You have reached the maximum number of character creations\"": 1,
-    "V2.5.1.0 停服维护公告": 3,
-    "On the D-Effect Zone Adjustments": 11,
-    "I NEED GDOLL CONTENT😭😭😭😭": 1,
     "Mother Tree: Fruit Version": 1,
     "How to Spend Cores": 4,
     "🔸频道建议┊server-suggestions": 8,
-    "【English Translation】Opinions Collection": 1,
-    "🔸阵容构建": 9,
     "🔸欢乐梗图": 1,
-    "🔸相位对弈": 4,
     "🔸한국어-채팅방": 3,
-    "🔸邀请码互助┊swap-invitation-codes": 1,
     "星辰篇第五章劇情文本問題（涉嫌劇透）": 2,
-    "Balance problem in arc2": 1,
-    "D-tide Discussion": 28,
     "请问现在有什么推荐补的超限吗": 4
   },
   "hourly_activity": {
+    "11": 449,
+    "12": 779,
+    "13": 426,
+    "14": 436,
+    "15": 774,
+    "16": 624,
+    "17": 654,
+    "18": 516,
     "8": 523,
     "10": 473,
-    "11": 402,
     "7": 291,
     "9": 309,
     "4": 347,
@@ -61,9 +86,11 @@
     "3": 455
   },
   "message_types": {
-    "0": 3518,
-    "19": 2074,
-    "20": 27
+    "19": 3126,
+    "0": 6708,
+    "20": 35,
+    "4": 3,
+    "6": 3
   },
   "top_reacted_messages": [
     {
@@ -75,12 +102,44 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1550767103487909888",
+      "channel_id": "1548966687838048316",
+      "content": "Phiên bản tiếng Việt của poster\n——Do tình nguyện viên <@328059424667205633> thực",
+      "author": "morimensstaff06",
+      "reactions": 12,
+      "channel": "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에"
+    },
+    {
+      "id": "1550765533073510450",
+      "channel_id": "1550765533073510450",
+      "content": "**🎧 V2.6.1 广播剧《歧路亡羊》**\n\n「他们不该遗忘。他们总是遗忘。」\n「除了影子，这里空无一物。」\n✦ 负誓·奥吉尔CV：音羽里奏\n\n📹 中文：ht",
+      "author": "morimensstaff06",
+      "reactions": 11,
+      "channel": "V2.6.1 广播剧《歧路亡羊》┊Radio Drama - Sheep Gone Astray┊오디오 드라마 『망양지탄』"
+    },
+    {
+      "id": "1550780194053427285",
+      "channel_id": "1170692781216378960",
+      "content": "i mean somewhat truth nuke",
+      "author": "lukityswoogity",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1550628334545932300",
       "channel_id": "1170692781216378960",
       "content": "theres a user that blocks everyone with saya",
       "author": "gersona6",
       "reactions": 9,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550810546981445642",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "snow.tubs",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
     },
     {
       "id": "1550552797399748681",
@@ -97,6 +156,38 @@
       "author": "princess.goth",
       "reactions": 7,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550778160717766680",
+      "channel_id": "1170692781216378960",
+      "content": "<:Doresain_proud:1468257815238938645> have faith in doresain at least i do anw",
+      "author": "laplace.in.my.head",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550787488656924675",
+      "channel_id": "1170692781216378960",
+      "content": "maybe the princess is the Castor of the duo and is actually good",
+      "author": "_venush",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550782796719595611",
+      "channel_id": "1550782796719595611",
+      "content": "守密人你好：\n       弥萨格大学预计于9月21日08:00~11:00（UTC+8）进行校内设施维护。\n       维护结束后需要重新登入并更新资源，补",
+      "author": "morimensstaff02",
+      "reactions": 6,
+      "channel": "V2.6.1.0 停服维护公告"
+    },
+    {
+      "id": "1550732004486684673",
+      "channel_id": "1543760297637187614",
+      "content": "Never AA'ing a unit again",
+      "author": "utsuro.bune",
+      "reactions": 5,
+      "channel": "D-tide Discussion"
     },
     {
       "id": "1550683819353440307",
@@ -155,76 +246,12 @@
       "channel": "🔸general-chat"
     },
     {
-      "id": "1550649766252253244",
-      "channel_id": "1170692781216378960",
-      "content": "<@296679098703544321> i am getting there.",
-      "author": "bitterlemon",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550658075180925011",
-      "channel_id": "1170692781216378960",
-      "content": "AHHHHH",
-      "author": "bitterlemon",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550689635909505164",
-      "channel_id": "1170692781216378960",
-      "content": "how broken is chaos ring",
-      "author": "princess.goth",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550665666854522893",
-      "channel_id": "1326453763355185215",
-      "content": "||Also, him lulling the keeper to sleep with his flute skills||",
-      "author": "leonartona",
-      "reactions": 4,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1550679200963231895",
-      "channel_id": "1550679200963231895",
-      "content": "UID: 100804972\n\n#  **New Relic Picker Page**\n\n<:Saya_yum:1513124263291387975> **",
-      "author": "aurora3981",
-      "reactions": 4,
-      "channel": "Mother Tree: Fruit Version"
-    },
-    {
-      "id": "1550610304352911471",
+      "id": "1550774208877822076",
       "channel_id": "1131839817982947429",
-      "content": "<:Brown_think:1459080117308620996>",
-      "author": "ka_0414",
+      "content": "看命輪真是男同前夜",
+      "author": "heikwok",
       "reactions": 4,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1550628476845953165",
-      "channel_id": "1170692781216378960",
-      "content": "i dont remember his name",
-      "author": "gersona6",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550559961375842356",
-      "channel_id": "1170692781216378960",
-      "content": "Im 2.5 months in and my celestial beast is +2... is my account cooked? Do i rero",
-      "author": "wuyan_kana",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550573797411651787",
-      "channel_id": "1170692781216378960",
-      "content": "im your yap mommy",
-      "author": "princess.goth",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }

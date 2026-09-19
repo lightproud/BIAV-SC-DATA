@@ -4624,7 +4624,7 @@
     "type": "text",
     "parent_id": "1440851754311749733",
     "dir": "05238865",
-    "status": "active"
+    "status": "offline"
   },
   "1548283513122586656": {
     "name": "nothin339",
@@ -4638,6 +4638,6 @@
     "type": "text",
     "parent_id": "1440851754311749733",
     "dir": "67296010",
-    "status": "active"
+    "status": "offline"
   }
 }
