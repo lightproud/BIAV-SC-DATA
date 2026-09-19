@@ -1,8 +1,8 @@
 {
   "date": "2026-09-18",
-  "archived_at": "2026-09-18T23:01:39.187193+00:00",
+  "archived_at": "2026-09-19T03:04:45.144259+00:00",
   "source": "bilibili",
-  "item_count": 10,
+  "item_count": 11,
   "items": [
     {
       "title": "【忘却前夜】2.6.1版本前瞻，复刻抽取建议",
@@ -121,6 +121,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/feff9cc8a648c0b63a2d94ed78d6242ba5085ed4.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】牌序依托伏笔一堆也能过难6这就是毒队吗",
+      "summary": "眨眼补帧警告\n金发女人的作业\n融灾改版前没玩过毒，苟这块也只玩过防瓜\n改版后第一期看了眼数值就自己滚了，第二期找了下攻略\n要输出有输出要生存有生存怎么会有这么美丽的队伍♥",
+      "source": "bilibili",
+      "time": "2026-09-18T13:05:40+00:00",
+      "url": "https://www.bilibili.com/video/av117292184770324",
+      "engagement": 109,
+      "is_hot": false,
+      "author": "Golden_T",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/49c267aa205ba9526e3744a26ce23d6e1c1a05e2.jpg",
       "content_type": "video"
     },
     {
