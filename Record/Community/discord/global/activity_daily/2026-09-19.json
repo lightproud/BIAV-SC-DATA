@@ -1,54 +1,66 @@
 {
   "date": "2026-09-19",
-  "messages": 9875,
-  "unique_authors": 211,
-  "reactions_total": 1065,
-  "attachments": 480,
+  "messages": 13510,
+  "unique_authors": 229,
+  "reactions_total": 1486,
+  "attachments": 664,
   "channel_activity": {
-    "🔸綜合討論": 540,
+    "🔸綜合討論": 617,
+    "🔸morimens-game-chat": 7523,
+    "🔸剧情交流": 21,
+    "🔸欢乐梗图": 6,
+    "🔸相位对弈": 123,
+    "🔸한국어-채팅방": 10,
+    "🔸chaîne-française": 75,
+    "🔸русский-канал": 292,
+    "🔸phòng-chat-tiếng-việt": 101,
+    "🔸canal-español": 43,
+    "🔸canal-português": 30,
+    "🔸ruang-obrolan-indonesia": 215,
+    "🔸ห้องสนทนาภาษาไทย": 330,
+    "🔸traphase": 79,
+    "🔸lore-chat": 209,
+    "🔸lets-count": 2,
+    "🔸team-building": 280,
+    "🔸general-chat": 276,
+    "🔸邀请码互助┊swap-invitation-codes": 4,
+    "🔸game-question": 2704,
+    "🔸游戏问题": 1,
+    "🔸机器人命令┊bot-commands": 54,
+    "放点摸鱼": 4,
+    "堆图ing": 1,
+    "菜雞四小強玩家的抱怨之旅new": 14,
+    "關於維護公告的蘿坦大招成長修復 Regarding the fix of Lotan": 10,
+    "Stop making me play Traphase": 125,
+    "Balance problem in arc2": 5,
+    "Caraboo E3 is kind of lying?": 6,
+    "D-tide Discussion": 79,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
+    "💭「Processing」game client crashed...somewhat": 1,
+    "V2.6.1.0 停服维护公告": 84,
+    "V2.5.1.0 停服维护公告": 11,
+    "On the D-Effect Zone Adjustments": 14,
+    "Sticklet's doodle/art dump": 1,
+    "doreposting / unserious doodles / doreyap": 19,
+    "Caraboo in poison teams": 2,
+    "Morimens New Player Handbook by Cheri [V2.5 UGC Contest]": 3,
+    "【English Translation】Opinions Collection": 15,
+    "📜 V2.6.1 版本前瞻┊Version Outlook┊버전 미리보기": 5,
+    "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 4,
+    "V2.3.1 「朵尔·灵性重生」简约幻衣，可在邀请活动中获取┊Get Basic Skin \"Doll: Gnostic Reshape\" from the New Invitation Event!": 1,
     "🔸阵容构建": 10,
-    "🔸morimens-game-chat": 5213,
-    "🔸剧情交流": 5,
-    "🔸相位对弈": 106,
     "🔸课间休息闲聊": 7,
     "🔸日本語チャンネル": 2,
-    "🔸chaîne-française": 14,
-    "🔸русский-канал": 282,
-    "🔸phòng-chat-tiếng-việt": 49,
-    "🔸canal-español": 11,
-    "🔸canal-português": 19,
-    "🔸ruang-obrolan-indonesia": 196,
-    "🔸ห้องสนทนาภาษาไทย": 309,
-    "🔸traphase": 27,
-    "🔸lore-chat": 128,
-    "🔸team-building": 260,
-    "🔸general-chat": 204,
-    "🔸邀请码互助┊swap-invitation-codes": 3,
-    "🔸game-question": 2155,
-    "🔸机器人命令┊bot-commands": 38,
-    "放点摸鱼": 3,
     "是不是也該在這裡蓋個圖樓👁️": 1,
-    "菜雞四小強玩家的抱怨之旅new": 12,
-    "關於維護公告的蘿坦大招成長修復 Regarding the fix of Lotan": 7,
     "SP小騎士技能是忘卻前夜文案徵人廣告嗎": 3,
-    "Stop making me play Traphase": 12,
-    "Balance problem in arc2": 3,
     "Suggestion For A Better Madness Mechanic": 21,
-    "Caraboo E3 is kind of lying?": 4,
     "✅無法獲得護盾效果表現形式不同之錯誤": 3,
-    "D-tide Discussion": 55,
     "Caraboo Blessing \"Missed Chance\" should be reworked": 1,
     "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 2,
     "繁育沒有提高卡茜亞的超限爆發的固定力量": 4,
-    "V2.6.1.0 停服维护公告": 69,
-    "V2.5.1.0 停服维护公告": 6,
-    "On the D-Effect Zone Adjustments": 13,
     "I NEED GDOLL CONTENT😭😭😭😭": 5,
-    "【English Translation】Opinions Collection": 12,
     "V2.6.1 广播剧《歧路亡羊》┊Radio Drama - Sheep Gone Astray┊오디오 드라마 『망양지탄』": 3,
-    "📜 V2.6.1 版本前瞻┊Version Outlook┊버전 미리보기": 3,
     "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개": 2,
-    "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 3,
     "百相自选唤醒要抽吗": 1,
     "Cov binding for Ramona and G.Ramona doesn't carry over": 2,
     "When will a passive ability be added to these characters?": 14,
@@ -59,12 +71,16 @@
     "Mother Tree: Fruit Version": 1,
     "How to Spend Cores": 4,
     "🔸频道建议┊server-suggestions": 8,
-    "🔸欢乐梗图": 1,
-    "🔸한국어-채팅방": 3,
     "星辰篇第五章劇情文本問題（涉嫌劇透）": 2,
     "请问现在有什么推荐补的超限吗": 4
   },
   "hourly_activity": {
+    "18": 1011,
+    "19": 780,
+    "20": 651,
+    "21": 725,
+    "22": 618,
+    "23": 366,
     "11": 449,
     "12": 779,
     "13": 426,
@@ -72,7 +88,6 @@
     "15": 774,
     "16": 624,
     "17": 654,
-    "18": 516,
     "8": 523,
     "10": 473,
     "7": 291,
@@ -86,11 +101,11 @@
     "3": 455
   },
   "message_types": {
-    "19": 3126,
-    "0": 6708,
-    "20": 35,
-    "4": 3,
-    "6": 3
+    "0": 9107,
+    "19": 4344,
+    "20": 52,
+    "6": 4,
+    "4": 3
   },
   "top_reacted_messages": [
     {
@@ -99,6 +114,22 @@
       "content": "Absolute gold right here.",
       "author": "syro_k",
       "reactions": 28,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550877451691884616",
+      "channel_id": "1170692781216378960",
+      "content": "mpreg!?!?!?!?",
+      "author": "chocobutternut",
+      "reactions": 15,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550877363431022647",
+      "channel_id": "1170692781216378960",
+      "content": "well thats funky",
+      "author": "chocobutternut",
+      "reactions": 13,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -118,6 +149,22 @@
       "channel": "V2.6.1 广播剧《歧路亡羊》┊Radio Drama - Sheep Gone Astray┊오디오 드라마 『망양지탄』"
     },
     {
+      "id": "1550863295412568155",
+      "channel_id": "1170692781216378960",
+      "content": "i have 67% battery",
+      "author": "princess.goth",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550868636644941997",
+      "channel_id": "1170692781216378960",
+      "content": "should i draw gooner arts 😍",
+      "author": "lobotomiecorp337",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1550780194053427285",
       "channel_id": "1170692781216378960",
       "content": "i mean somewhat truth nuke",
@@ -132,6 +179,30 @@
       "author": "gersona6",
       "reactions": 9,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550877671645249582",
+      "channel_id": "1170692781216378960",
+      "content": "goddamnit",
+      "author": "chocobutternut",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550865979557552139",
+      "channel_id": "1170692781216378960",
+      "content": "hi",
+      "author": "lobotomiecorp337",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550841867829121055",
+      "channel_id": "1173463482503536711",
+      "content": "幹好痛",
+      "author": "hon_ey0",
+      "reactions": 7,
+      "channel": "🔸剧情交流"
     },
     {
       "id": "1550810546981445642",
@@ -158,6 +229,30 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1550835587228110930",
+      "channel_id": "1131839817982947429",
+      "content": "<:Vulnerable:1546814476186288138>",
+      "author": "annabelle0868",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550877056244387993",
+      "channel_id": "1131839817982947429",
+      "content": "有大佬可以帶帶我嗎<:Aurita_please:1356053110375714817>",
+      "author": "wild_pansy",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1550886075398881333",
+      "channel_id": "1170692781216378960",
+      "content": "poof sucks",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1550778160717766680",
       "channel_id": "1170692781216378960",
       "content": "<:Doresain_proud:1468257815238938645> have faith in doresain at least i do anw",
@@ -172,86 +267,6 @@
       "author": "_venush",
       "reactions": 6,
       "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550782796719595611",
-      "channel_id": "1550782796719595611",
-      "content": "守密人你好：\n       弥萨格大学预计于9月21日08:00~11:00（UTC+8）进行校内设施维护。\n       维护结束后需要重新登入并更新资源，补",
-      "author": "morimensstaff02",
-      "reactions": 6,
-      "channel": "V2.6.1.0 停服维护公告"
-    },
-    {
-      "id": "1550732004486684673",
-      "channel_id": "1543760297637187614",
-      "content": "Never AA'ing a unit again",
-      "author": "utsuro.bune",
-      "reactions": 5,
-      "channel": "D-tide Discussion"
-    },
-    {
-      "id": "1550683819353440307",
-      "channel_id": "1170692781216378960",
-      "content": "https://klipy.com/gifs/silver-wolf-honkai-star-rail-7",
-      "author": "crowlov1",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550630484160159846",
-      "channel_id": "1170692781216378960",
-      "content": "do you hate him because he is turning emo?",
-      "author": "tawil.3ami9",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550548105236324363",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "princess.goth",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550548679390142595",
-      "channel_id": "1170692781216378960",
-      "content": "Serah clearly has some leaks we dont",
-      "author": "stormimi",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550550805667385354",
-      "channel_id": "1170692781216378960",
-      "content": "bruh wtf",
-      "author": "12n0zer010",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550573603206991973",
-      "channel_id": "1170692781216378960",
-      "content": "you are on it",
-      "author": "princess.goth",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550585968388739274",
-      "channel_id": "1400750050208125010",
-      "content": "https://x.com/i/status/2100944933376946179",
-      "author": "k.y.u.",
-      "reactions": 5,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1550774208877822076",
-      "channel_id": "1131839817982947429",
-      "content": "看命輪真是男同前夜",
-      "author": "heikwok",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
     }
   ]
 }
