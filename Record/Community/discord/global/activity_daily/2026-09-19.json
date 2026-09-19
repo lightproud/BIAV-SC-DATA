@@ -1,57 +1,69 @@
 {
   "date": "2026-09-19",
-  "messages": 3639,
+  "messages": 5619,
   "unique_authors": 159,
-  "reactions_total": 382,
-  "attachments": 197,
+  "reactions_total": 636,
+  "attachments": 285,
   "channel_activity": {
-    "🔸綜合討論": 158,
-    "🔸morimens-game-chat": 2317,
-    "🔸русский-канал": 244,
-    "🔸canal-español": 3,
-    "🔸canal-português": 10,
-    "🔸ruang-obrolan-indonesia": 13,
-    "🔸traphase": 10,
+    "🔸綜合討論": 172,
+    "🔸morimens-game-chat": 3606,
+    "🔸剧情交流": 4,
+    "🔸chaîne-française": 12,
+    "🔸русский-канал": 250,
+    "🔸phòng-chat-tiếng-việt": 13,
+    "🔸canal-español": 8,
+    "🔸canal-português": 17,
+    "🔸ruang-obrolan-indonesia": 92,
+    "🔸traphase": 13,
+    "🔸lore-chat": 22,
+    "🔸team-building": 132,
+    "🔸general-chat": 157,
+    "🔸game-question": 953,
+    "🔸机器人命令┊bot-commands": 26,
+    "菜雞四小強玩家的抱怨之旅new": 9,
+    "Cov binding for Ramona and G.Ramona doesn't carry over": 2,
+    "When will a passive ability be added to these characters?": 14,
+    "Primordial Chaos Posse Skill Rework": 3,
+    "Stop making me play Traphase": 11,
+    "Suggestion For A Better Madness Mechanic": 14,
+    "Pls give out origin of time for limited awakener & wheels": 3,
+    "Quadra / 4-Realm Rerun Banners": 3,
+    "💭「Processing」Cannot login \"You have reached the maximum number of character creations\"": 1,
+    "V2.5.1.0 停服维护公告": 3,
+    "On the D-Effect Zone Adjustments": 11,
+    "I NEED GDOLL CONTENT😭😭😭😭": 1,
+    "Mother Tree: Fruit Version": 1,
+    "How to Spend Cores": 4,
     "🔸频道建议┊server-suggestions": 8,
-    "🔸team-building": 78,
-    "🔸general-chat": 145,
-    "🔸game-question": 512,
-    "🔸机器人命令┊bot-commands": 19,
-    "Suggestion For A Better Madness Mechanic": 9,
-    "On the D-Effect Zone Adjustments": 8,
     "【English Translation】Opinions Collection": 1,
     "🔸阵容构建": 9,
-    "🔸剧情交流": 3,
     "🔸欢乐梗图": 1,
     "🔸相位对弈": 4,
     "🔸한국어-채팅방": 3,
-    "🔸chaîne-française": 10,
-    "🔸phòng-chat-tiếng-việt": 10,
-    "🔸lore-chat": 3,
     "🔸邀请码互助┊swap-invitation-codes": 1,
-    "菜雞四小強玩家的抱怨之旅new": 8,
     "星辰篇第五章劇情文本問題（涉嫌劇透）": 2,
-    "When will a passive ability be added to these characters?": 7,
-    "Stop making me play Traphase": 9,
     "Balance problem in arc2": 1,
     "D-tide Discussion": 28,
-    "V2.5.1.0 停服维护公告": 1,
     "请问现在有什么推荐补的超限吗": 4
   },
   "hourly_activity": {
+    "8": 523,
+    "10": 473,
+    "11": 402,
+    "7": 291,
+    "9": 309,
     "4": 347,
     "6": 586,
     "5": 518,
-    "7": 18,
     "0": 589,
     "1": 352,
     "2": 774,
     "3": 455
   },
   "message_types": {
-    "19": 1327,
-    "0": 2290,
-    "20": 22
+    "0": 3518,
+    "19": 2074,
+    "20": 27
   },
   "top_reacted_messages": [
     {
@@ -84,6 +96,14 @@
       "content": "if the mother tree counters you does that mean you get pregnant instead",
       "author": "princess.goth",
       "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550683819353440307",
+      "channel_id": "1170692781216378960",
+      "content": "https://klipy.com/gifs/silver-wolf-honkai-star-rail-7",
+      "author": "crowlov1",
+      "reactions": 5,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -135,6 +155,46 @@
       "channel": "🔸general-chat"
     },
     {
+      "id": "1550649766252253244",
+      "channel_id": "1170692781216378960",
+      "content": "<@296679098703544321> i am getting there.",
+      "author": "bitterlemon",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550658075180925011",
+      "channel_id": "1170692781216378960",
+      "content": "AHHHHH",
+      "author": "bitterlemon",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550689635909505164",
+      "channel_id": "1170692781216378960",
+      "content": "how broken is chaos ring",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1550665666854522893",
+      "channel_id": "1326453763355185215",
+      "content": "||Also, him lulling the keeper to sleep with his flute skills||",
+      "author": "leonartona",
+      "reactions": 4,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1550679200963231895",
+      "channel_id": "1550679200963231895",
+      "content": "UID: 100804972\n\n#  **New Relic Picker Page**\n\n<:Saya_yum:1513124263291387975> **",
+      "author": "aurora3981",
+      "reactions": 4,
+      "channel": "Mother Tree: Fruit Version"
+    },
+    {
       "id": "1550610304352911471",
       "channel_id": "1131839817982947429",
       "content": "<:Brown_think:1459080117308620996>",
@@ -164,54 +224,6 @@
       "content": "im your yap mommy",
       "author": "princess.goth",
       "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550573878148075541",
-      "channel_id": "1170692781216378960",
-      "content": "Anything past top 10 doesn’t count!!!",
-      "author": "stormimi",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550577194005172346",
-      "channel_id": "1170692781216378960",
-      "content": "https://cdn.discordapp.com/attachments/533123324281225216/1529600899016556705/gs",
-      "author": "mosske",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550632493437165619",
-      "channel_id": "1170692781216378960",
-      "content": "lazy wave 2 hard mode to scout the map but nice to be close to my previous score",
-      "author": "violettaautumn",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550640277205680242",
-      "channel_id": "1170692781216378960",
-      "content": "i lvld tawil to 70 today",
-      "author": "princess.goth",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550553538894241907",
-      "channel_id": "1170692781216378960",
-      "content": "Hopefully he is not balanced around lemurians",
-      "author": "amirganj",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550562663795269724",
-      "channel_id": "1170692781216378960",
-      "content": "wait why is my aigis e1",
-      "author": "bru0001",
-      "reactions": 3,
       "channel": "🔸morimens-game-chat"
     }
   ]
