@@ -1,37 +1,37 @@
 {
   "date": "2026-09-20",
-  "messages": 14955,
+  "messages": 15262,
   "unique_authors": 211,
-  "reactions_total": 1449,
-  "attachments": 901,
+  "reactions_total": 1512,
+  "attachments": 918,
   "channel_activity": {
-    "🔸綜合討論": 1139,
-    "🔸morimens-game-chat": 7514,
-    "🔸剧情交流": 2,
+    "🔸綜合討論": 1161,
+    "🔸morimens-game-chat": 7734,
+    "🔸剧情交流": 6,
+    "🔸chaîne-française": 26,
+    "🔸русский-канал": 233,
+    "🔸phòng-chat-tiếng-việt": 680,
+    "🔸canal-português": 66,
+    "🔸traphase": 180,
+    "🔸team-building": 300,
+    "🔸general-chat": 1322,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "🔸game-question": 2625,
+    "Turn Rewind Feature from Premium BP and Replay of finished Battle do not exceed turn 25.": 19,
+    "D-tide Discussion": 13,
     "🔸晒卡分享": 3,
     "🔸相位对弈": 16,
     "🔸课间休息闲聊": 151,
     "🔸한국어-채팅방": 24,
-    "🔸chaîne-française": 24,
-    "🔸русский-канал": 231,
-    "🔸phòng-chat-tiếng-việt": 650,
     "🔸canal-español": 93,
-    "🔸canal-português": 63,
     "🔸ruang-obrolan-indonesia": 152,
     "🔸ห้องสนทนาภาษาไทย": 84,
-    "🔸traphase": 179,
     "🔸lore-chat": 75,
     "🔸lets-count": 8,
-    "🔸team-building": 299,
-    "🔸general-chat": 1321,
-    "🔸邀请码互助┊swap-invitation-codes": 4,
-    "🔸game-question": 2614,
     "🔸机器人命令┊bot-commands": 39,
     "Decompress D-tide difficulty back to before": 1,
     "星辰篇第五章劇情文本問題（涉嫌劇透）": 3,
     "隱秘的誕生有異常": 27,
-    "Turn Rewind Feature from Premium BP and Replay of finished Battle do not exceed turn 25.": 12,
-    "D-tide Discussion": 11,
     "Impact of Version 2.6 Affinity Changes on Player Experience": 15,
     "V2.6.1.0 停服维护公告": 9,
     "V2.5.1.0 停服维护公告": 18,
@@ -66,11 +66,11 @@
     "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 1
   },
   "hourly_activity": {
+    "23": 848,
     "19": 668,
     "20": 614,
     "21": 922,
     "22": 535,
-    "23": 541,
     "18": 481,
     "12": 433,
     "13": 919,
@@ -92,9 +92,9 @@
     "3": 448
   },
   "message_types": {
-    "0": 9806,
-    "19": 5104,
-    "20": 42,
+    "0": 9998,
+    "19": 5218,
+    "20": 43,
     "6": 2,
     "4": 1
   },
@@ -156,6 +156,14 @@
       "channel": "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개"
     },
     {
+      "id": "1551256890003034232",
+      "channel_id": "1170692781216378960",
+      "content": "If you really wanted to make a super clickbait thumbnail, you basically do somet",
+      "author": "moyashi0672",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1551193060715536426",
       "channel_id": "1131839817982947429",
       "content": "~~真心都是互相的，我们这次如果都去充钱充648，校猫肯定下版本会对我们好很多做出更强角色的，这次是我们惹他生气了🥺~~",
@@ -178,6 +186,22 @@
       "author": "osxmax",
       "reactions": 6,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551259422918049954",
+      "channel_id": "1545056363883929630",
+      "content": "If they want to take my literal, real life money, give me a broken product then ",
+      "author": "momvolo",
+      "reactions": 5,
+      "channel": "Turn Rewind Feature from Premium BP and Replay of finished Battle do not exceed turn 25."
+    },
+    {
+      "id": "1551259951291179049",
+      "channel_id": "1545056363883929630",
+      "content": "I would understand a \"free currency\" refund if it could be purchased with \"free ",
+      "author": "momvolo",
+      "reactions": 5,
+      "channel": "Turn Rewind Feature from Premium BP and Replay of finished Battle do not exceed turn 25."
     },
     {
       "id": "1551199779277639843",
@@ -232,30 +256,6 @@
       "channel_id": "1170692781216378960",
       "content": "fake btw",
       "author": "princess.goth",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550967801911443479",
-      "channel_id": "1170692781216378960",
-      "content": "temporary tent damage spike for caecus oe counter gain big brain",
-      "author": "violettaautumn",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550973844053954594",
-      "channel_id": "1170692781216378960",
-      "content": "Ellie a un magnifique front qui brille de mille feux",
-      "author": "moyashi0672",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550976505381650494",
-      "channel_id": "1170692781216378960",
-      "content": "shining tornado!",
-      "author": "serahh__",
       "reactions": 5,
       "channel": "🔸morimens-game-chat"
     }
