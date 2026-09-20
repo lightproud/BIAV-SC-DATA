@@ -1,19 +1,36 @@
 {
   "date": "2026-09-21",
-  "messages": 8,
-  "unique_authors": 4,
-  "reactions_total": 0,
-  "attachments": 0,
+  "messages": 22,
+  "unique_authors": 5,
+  "reactions_total": 2,
+  "attachments": 1,
   "channel_activity": {
-    "💬なんでも雑談（ネタバレあり）": 6,
-    "誰でもOKグロ版野次馬スレ　2世": 2
+    "💬なんでも雑談（ネタバレあり）": 14,
+    "誰でもOKグロ版野次馬スレ　2世": 8
   },
   "hourly_activity": {
-    "0": 8
+    "0": 22
   },
   "message_types": {
-    "0": 7,
-    "19": 1
+    "0": 19,
+    "19": 3
   },
-  "top_reacted_messages": []
+  "top_reacted_messages": [
+    {
+      "id": "1551270503853981857",
+      "channel_id": "1377478664609857647",
+      "content": "多分その空白||ハロウィンマーフィーちゃん||のやつかも？",
+      "author": "namenemue3",
+      "reactions": 1,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1551276216110030849",
+      "channel_id": "1377478664609857647",
+      "content": "あと倦怠を一瞬で解除してくれるライカー君はやっぱ神",
+      "author": "hoshin0557_89188",
+      "reactions": 1,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    }
+  ]
 }
