@@ -1,8 +1,8 @@
 {
   "date": "2026-09-20",
-  "archived_at": "2026-09-20T15:25:50.697557+00:00",
+  "archived_at": "2026-09-20T20:19:38.196038+00:00",
   "source": "youtube",
-  "item_count": 15,
+  "item_count": 17,
   "items": [
     {
       "title": "[Morimens] New META Crit Rate Wheel in JP coming to Global soon + JP Corpo is BROKEN.",
@@ -124,6 +124,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "【忘却前夜】　ユウハシュダメチャレ1633k　サルバドル/レーア/タイス/ユウハシュ(4/1/0/15)",
+      "summary": "忘却前夜 調査データ:砂海の遺跡I 調査チーム:サルバドル(4凸)/レーア(1凸)/タイス(0凸)/ユウハシュ(15凸 救援) キーオーダー:咆哮 ...",
+      "source": "youtube",
+      "time": "2026-09-20T15:42:56Z",
+      "url": "https://www.youtube.com/watch?v=Ndtd62LIJhA",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "じゃく",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/Ndtd62LIJhA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "【忘却前夜|Morimens】新手只能勉强过第一关~",
       "summary": "忘却前夜#morimens #卡牌遊戲#卡牌#卡牌游戏#活動#新手.",
       "source": "youtube",
@@ -170,6 +187,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/c5dwkcXEPcY/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜|Morimens】剧情1-12 彩色的梦魇",
+      "summary": "忘却前夜#morimens #卡牌遊戲#卡牌#剧情.",
+      "source": "youtube",
+      "time": "2026-09-20T15:43:05Z",
+      "url": "https://www.youtube.com/watch?v=vC0_KGLMcVw",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "渡川游戏频道 Ford Gaming",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/vC0_KGLMcVw/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

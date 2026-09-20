@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-21",
+  "archived_at": "2026-09-20T20:19:38.286598+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[正面] Оригинально.",
+      "summary": "Оригинально.",
+      "source": "steam_review",
+      "time": "2026-09-20T17:56:04+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198052336200/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198052336200",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 514,
+        "votes_up": 0,
+        "timestamp_created": 1789926964
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 현질 유도는 별로 없어요\n스토리가 크툴루 계열로 재밌는데 번역이 좀 맛간 부분이 있어요 (...",
+      "summary": "현질 유도는 별로 없어요\n스토리가 크툴루 계열로 재밌는데 번역이 좀 맛간 부분이 있어요 (공식 지원이 전부 안됨)\n최근 운영을 X같이 말아먹었어요\n게임성은 카드게임 장르인데 평범해요\n\n결론 : 스토리 궁금하면 현질 안하고 해볼만한함. 그러나 게임성의 경우, 널려있는 카드게임을 하는게 좀 더 나아보임. 슬더스라든가.\n개인적으로, 최근 운영 때문에 비추천.",
+      "source": "steam_review",
+      "time": "2026-09-20T16:30:47+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198085463993/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198085463993",
+      "tags": [
+        "koreana"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 3944,
+        "votes_up": 0,
+        "timestamp_created": 1789921847
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
