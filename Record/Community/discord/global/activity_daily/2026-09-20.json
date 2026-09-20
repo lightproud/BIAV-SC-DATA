@@ -1,49 +1,64 @@
 {
   "date": "2026-09-20",
-  "messages": 3729,
+  "messages": 7216,
   "unique_authors": 159,
-  "reactions_total": 472,
-  "attachments": 228,
+  "reactions_total": 773,
+  "attachments": 373,
   "channel_activity": {
-    "🔸綜合討論": 28,
-    "🔸morimens-game-chat": 2666,
+    "🔸綜合討論": 115,
+    "🔸morimens-game-chat": 4425,
+    "🔸晒卡分享": 1,
+    "🔸한국어-채팅방": 7,
+    "🔸русский-канал": 65,
+    "🔸phòng-chat-tiếng-việt": 25,
+    "🔸canal-español": 27,
+    "🔸ruang-obrolan-indonesia": 53,
+    "🔸ห้องสนทนาภาษาไทย": 46,
+    "🔸traphase": 15,
+    "🔸lore-chat": 34,
+    "🔸lets-count": 7,
+    "🔸team-building": 186,
+    "🔸general-chat": 841,
+    "🔸邀请码互助┊swap-invitation-codes": 3,
+    "🔸game-question": 1195,
+    "🔸游戏问题": 27,
+    "🔸机器人命令┊bot-commands": 15,
+    "[BUG] Steam login not functioning": 4,
+    "Do not Forget: Jenkins": 2,
+    "D-tide Discussion": 2,
+    "Better handling of nerfs through bug fixes": 3,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 5,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 1,
+    "Quadra / 4-Realm Rerun Banners": 1,
+    "V2.5.1.0 停服维护公告": 6,
+    "On the D-Effect Zone Adjustments": 2,
+    "Morimens New Player Handbook by Cheri [V2.5 UGC Contest]": 1,
+    "【English Translation】Opinions Collection": 2,
+    "📜 V2.6.1 版本前瞻┊Version Outlook┊버전 미리보기": 2,
+    "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개": 2,
     "🔸chaîne-française": 4,
-    "🔸canal-español": 25,
     "🔸canal-português": 28,
-    "🔸ruang-obrolan-indonesia": 5,
-    "🔸lore-chat": 26,
-    "🔸lets-count": 3,
-    "🔸team-building": 88,
-    "🔸general-chat": 202,
-    "🔸game-question": 478,
-    "🔸机器人命令┊bot-commands": 5,
-    "[BUG] Steam login not functioning": 3,
     "Alternate realms Enhancement": 1,
-    "Do not Forget: Jenkins": 1,
-    "V2.5.1.0 停服维护公告": 3,
     "William posting": 2,
-    "【English Translation】Opinions Collection": 1,
     "🔸剧情交流": 1,
     "🔸deutscher-chatraum": 1,
-    "🔸русский-канал": 64,
-    "🔸phòng-chat-tiếng-việt": 6,
-    "🔸ห้องสนทนาภาษาไทย": 11,
-    "🔸traphase": 14,
-    "🔸邀请码互助┊swap-invitation-codes": 2,
-    "🔸游戏问题": 1,
     "往時": 4,
     "When will a passive ability be added to these characters?": 2,
     "Stop making me play Traphase": 26,
     "Caraboo E3 is kind of lying?": 13,
-    "D-tide Discussion": 1,
     "V2.6.1.0 停服维护公告": 8,
     "doreposting / unserious doodles / doreyap": 4,
     "Caraboo in poison teams": 1,
     "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 1
   },
   "hourly_activity": {
+    "7": 1105,
+    "8": 658,
+    "9": 338,
+    "10": 534,
+    "11": 584,
+    "6": 884,
     "5": 617,
-    "6": 616,
     "4": 468,
     "0": 465,
     "1": 402,
@@ -51,18 +66,59 @@
     "3": 448
   },
   "message_types": {
-    "0": 2171,
-    "19": 1552,
-    "20": 5,
+    "0": 4546,
+    "19": 2650,
+    "20": 17,
+    "6": 2,
     "4": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1551010525381394484",
+      "channel_id": "1170692781216378960",
+      "content": "Dawg why am I still blocked",
+      "author": "guava3442",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551076843954638849",
+      "channel_id": "1550132466080153640",
+      "content": "Phiên bản tiếng Việt của poster\n——Do <@328059424667205633> thực hiện\n<@&13556019",
+      "author": "morimensstaff06",
+      "reactions": 7,
+      "channel": "📜 V2.6.1 版本前瞻┊Version Outlook┊버전 미리보기"
+    },
+    {
+      "id": "1551076652224749650",
+      "channel_id": "1549748077810941982",
+      "content": "Phiên bản tiếng Việt của poster\n——Do <@328059424667205633> thực hiện\n<@&13556019",
+      "author": "morimensstaff06",
+      "reactions": 7,
+      "channel": "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개"
+    },
     {
       "id": "1550946868987568169",
       "channel_id": "1170692781216378960",
       "content": "sort of listening to Arlene because she got #1 in her name so i think she kinda ",
       "author": "osxmax",
       "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551002478781276181",
+      "channel_id": "1170692781216378960",
+      "content": "Play the traphase gamemode, you'll have so much \"fun\"",
+      "author": "moyashi0672",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551067857734074449",
+      "channel_id": "1170692781216378960",
+      "content": "fake btw",
+      "author": "princess.goth",
+      "reactions": 5,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -114,6 +170,22 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1551003271865569371",
+      "channel_id": "1170692781216378960",
+      "content": "🛀🏻",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551026244106199063",
+      "channel_id": "1300659662311526512",
+      "content": "",
+      "author": "rendezvoushr",
+      "reactions": 4,
+      "channel": "🔸canal-español"
+    },
+    {
       "id": "1550974978353004735",
       "channel_id": "1170692781216378960",
       "content": "i coded it myself",
@@ -154,66 +226,10 @@
       "channel": "往時"
     },
     {
-      "id": "1550985043189702706",
+      "id": "1551001280951091343",
       "channel_id": "1170692781216378960",
-      "content": "found this funny doll thing",
-      "author": "arandomflamev2",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550989608987136076",
-      "channel_id": "1170692781216378960",
-      "content": "its a main stat btw",
-      "author": "gersona6",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550992321892450456",
-      "channel_id": "1400749543288475770",
-      "content": "ahh I was excited to try saya in a team after I finally got her too haha, tyty!",
-      "author": "unbrain9632",
-      "reactions": 3,
-      "channel": "🔸team-building"
-    },
-    {
-      "id": "1550986146006310935",
-      "channel_id": "1400750050208125010",
-      "content": "Wtf is happening here",
-      "author": "k.y.u.",
-      "reactions": 3,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1550922858476212313",
-      "channel_id": "1170692781216378960",
-      "content": "Hope y'all have a good rest of your day and wishing everyone good fortune in the",
-      "author": "flower_stone",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550929799583637747",
-      "channel_id": "1170692781216378960",
-      "content": "my Liz will be level 80 soon I can’t wait",
-      "author": "serahh__",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550939374429143314",
-      "channel_id": "1170692781216378960",
-      "content": "there's a new code!?",
-      "author": "verdy_heh",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1550941825291001868",
-      "channel_id": "1170692781216378960",
-      "content": "they share the same Es no?",
-      "author": "lavache.",
+      "content": "what am i mining",
+      "author": "princess.goth",
       "reactions": 3,
       "channel": "🔸morimens-game-chat"
     }
