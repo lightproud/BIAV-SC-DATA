@@ -1,8 +1,8 @@
 {
   "date": "2026-09-21",
-  "archived_at": "2026-09-20T20:19:38.286598+00:00",
+  "archived_at": "2026-09-20T22:58:54.079360+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] Оригинально.",
@@ -46,6 +46,52 @@
         "playtime_forever": 3944,
         "votes_up": 0,
         "timestamp_created": 1789921847
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Story became slop in arc 2. Stage design became mo...",
+      "summary": "Story became slop in arc 2. Stage design became more annoying and less fun. Inflated boss hp combined with more predatory p2w monetization.",
+      "source": "steam_review",
+      "time": "2026-09-20T20:29:42+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199215073026/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199215073026",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 4218,
+        "votes_up": 0,
+        "timestamp_created": 1789936182
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] it's fun, feels a bit difficult towards the end bu...",
+      "summary": "it's fun, feels a bit difficult towards the end but that's to be expected. i like how many different awakeners there are, makes gameplay feel less stifling. i wish it was cheaper for some stuff like to upgrade the awakener but i understand why it's not. i also wish it was a little less gacha-y but that's not too bad tbh. overall i think the game is worth it for the fact that it's free. you also get a decent amount of rewards. (ex is kind of hard to come by tho imo)",
+      "source": "steam_review",
+      "time": "2026-09-20T20:20:26+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199435590785/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199435590785",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 2322,
+        "votes_up": 0,
+        "timestamp_created": 1789935626
       },
       "region": "global",
       "archive_subtype": "review"
