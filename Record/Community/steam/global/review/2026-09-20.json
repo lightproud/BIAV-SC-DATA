@@ -1,8 +1,8 @@
 {
   "date": "2026-09-20",
-  "archived_at": "2026-09-20T10:36:45.002729+00:00",
+  "archived_at": "2026-09-20T15:25:50.791617+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 7,
   "items": [
     {
       "title": "[正面] Игрушка просто офигенная с классным и вайбовым сюж...",
@@ -115,6 +115,52 @@
         "playtime_forever": 12876,
         "votes_up": 0,
         "timestamp_created": 1789871425
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] The game freezes quite often, and the only way to...",
+      "summary": "The game freezes quite often, and the only way to fix it is to completely restart it. On top of that, just launching the game is very annoying. These optimization issues really ruin the experience.",
+      "source": "steam_review",
+      "time": "2026-09-20T13:35:02+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199138125175/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199138125175",
+      "tags": [
+        "polish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 793,
+        "votes_up": 0,
+        "timestamp_created": 1789911302
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] very nice game. dont listen to the negative rewiev...",
+      "summary": "very nice game. dont listen to the negative rewievs!",
+      "source": "steam_review",
+      "time": "2026-09-20T11:33:52+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199131811438/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199131811438",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1631,
+        "votes_up": 0,
+        "timestamp_created": 1789904032
       },
       "region": "global",
       "archive_subtype": "review"

@@ -1,9 +1,23 @@
 {
   "date": "2026-09-19",
-  "archived_at": "2026-09-20T10:36:45.078219+00:00",
+  "archived_at": "2026-09-20T15:25:50.706447+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
+    {
+      "title": "[Google Play 差评] ★2 Modificando minha avaliação, o jogo é be",
+      "summary": "Modificando minha avaliação, o jogo é bem predatório e feito para jogadores que ativamente gastam dinheiro físico, a necessidade de muitas cópias de unidades e WoD para desbloquear seu potencial completo é triste. Além de que o jogo não só exige duas equipes, mas algumas três até cinco equipes, o que nem a longo prazo é viável. Por recomendação nem instale.",
+      "source": "google_play",
+      "time": "2026-09-19T13:06:28+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=pt#gp-fe69665c-82b3-4fb5-805f-78db060b3e04",
+      "engagement": 9,
+      "is_hot": false,
+      "author": "Gabriel Sdroieski Malassa",
+      "tags": [],
+      "lang": "pt",
+      "platform_region": "",
+      "region": "global"
+    },
     {
       "title": "[Google Play 好评] ★5 game peak btw ❤️",
       "summary": "game peak btw ❤️",
@@ -29,6 +43,20 @@
       "author": "Aitor Moya Climent",
       "tags": [],
       "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 GOAT, just GOAT. From gameplay, characte",
+      "summary": "GOAT, just GOAT. From gameplay, character designs, to stories, everything is GOAT. Please never change",
+      "source": "google_play",
+      "time": "2026-09-19T10:41:24+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-7e0697aa-75e4-40b0-87bb-d19c4a4a62d6",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Seo Jung",
+      "tags": [],
+      "lang": "en",
       "platform_region": "",
       "region": "global"
     }
