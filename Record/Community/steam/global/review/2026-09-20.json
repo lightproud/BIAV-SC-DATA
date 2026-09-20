@@ -1,8 +1,8 @@
 {
   "date": "2026-09-20",
-  "archived_at": "2026-09-20T03:21:06.467930+00:00",
+  "archived_at": "2026-09-20T10:36:45.002729+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 5,
   "items": [
     {
       "title": "[正面] Игрушка просто офигенная с классным и вайбовым сюж...",
@@ -23,6 +23,98 @@
         "playtime_forever": 187,
         "votes_up": 0,
         "timestamp_created": 1789842577
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] game vui, hay",
+      "summary": "game vui, hay",
+      "source": "steam_review",
+      "time": "2026-09-20T09:13:41+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199854853886/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199854853886",
+      "tags": [
+        "vietnamese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 6625,
+        "votes_up": 0,
+        "timestamp_created": 1789895621
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] goaarra",
+      "summary": "goaarra",
+      "source": "steam_review",
+      "time": "2026-09-20T08:31:51+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199842928752/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199842928752",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 8,
+        "votes_up": 0,
+        "timestamp_created": 1789893111
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 好玩。ymzx也好玩，但是我还是更喜欢克苏鲁风格的设定，以及卡牌的战斗模式.....这个游戏调查问卷...",
+      "summary": "好玩。ymzx也好玩，但是我还是更喜欢克苏鲁风格的设定，以及卡牌的战斗模式.....这个游戏调查问卷里面我居然看到了月圆之夜...勾起了一些古老的回忆啊（让我想起白月光了，当年就是她拉我玩这个游戏）。必须好评",
+      "source": "steam_review",
+      "time": "2026-09-20T07:52:39+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198647194222/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198647194222",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1316,
+        "votes_up": 0,
+        "timestamp_created": 1789890759
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] this game is good. it is not perfect. people keep...",
+      "summary": "this game is good. it is not perfect. people keep getting upset at Biav for not being perfect and I don't like that.\nD-Tide is a little too hard, Taraphase isn't great and power creep is rampant.\nHowever the game deserves to be checked out, it deserves to be played and it deserves to be successful. People should be vocal about what they dislike but this should not turn to aggression. BIAV is so communicative, so responsive and so generous I have never seen the makers of a gatcha game be this involved and that deserves respect.",
+      "source": "steam_review",
+      "time": "2026-09-20T02:30:25+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199112494817/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199112494817",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 12876,
+        "votes_up": 0,
+        "timestamp_created": 1789871425
       },
       "region": "global",
       "archive_subtype": "review"

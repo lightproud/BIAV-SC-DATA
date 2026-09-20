@@ -1,8 +1,8 @@
 {
   "date": "2026-09-19",
-  "archived_at": "2026-09-20T03:21:06.372776+00:00",
+  "archived_at": "2026-09-20T10:36:44.946515+00:00",
   "source": "bilibili",
-  "item_count": 14,
+  "item_count": 15,
   "items": [
     {
       "title": "忘却前夜丨广播剧《歧路亡羊》（CV：音羽里奏）",
@@ -70,6 +70,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/655054ecfadd91595e1ee0a36b3685fb68770337.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "就差8滴血，气不气。",
+      "summary": "依旧1vs4",
+      "source": "bilibili",
+      "time": "2026-09-19T14:49:39+00:00",
+      "url": "https://www.bilibili.com/video/av117298241214156",
+      "engagement": 155,
+      "is_hot": false,
+      "author": "-风岬",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/067de54a02d36f980db74fe48ac436017f70518f.jpg",
       "content_type": "video"
     },
     {
