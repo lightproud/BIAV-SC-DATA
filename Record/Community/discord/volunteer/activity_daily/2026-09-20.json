@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-20",
+  "messages": 2,
+  "unique_authors": 1,
+  "reactions_total": 1,
+  "attachments": 0,
+  "channel_activity": {
+    "general-discussion": 2
+  },
+  "hourly_activity": {
+    "18": 1,
+    "19": 1
+  },
+  "message_types": {
+    "19": 2
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1551189038793232425",
+      "channel_id": "1402941858606219294",
+      "content": "This version will indeed include prologue-related content. It was an oversight o",
+      "author": "morimensstaff03",
+      "reactions": 1,
+      "channel": "general-discussion"
+    }
+  ]
+}
