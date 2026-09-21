@@ -1,9 +1,43 @@
 {
   "date": "2026-09-21",
-  "archived_at": "2026-09-20T22:58:54.080082+00:00",
+  "archived_at": "2026-09-21T03:16:17.917078+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
+    {
+      "title": "[Steam论坛] Is Pollux worth it?",
+      "summary": "Is it worth investing my monthly dupe thingies on Pollux(currently E1) if I already have an OE Jenkins? I'm currently running jenkins with castor/arachme/horla and wondering if a high investment pollux would be better than her",
+      "source": "steam_discussion",
+      "time": "2026-09-21T02:12:55+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591814056255650541/",
+      "engagement": 13,
+      "is_hot": true,
+      "author": "DingusDork",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] I wanted to download this today",
+      "summary": "This game has been my wishlist for a long time. I saw some recent reviews and it appears that some balancing issues are going on. Should I get in now as a new player, or should I wait until it gets fixed?",
+      "source": "steam_discussion",
+      "time": "2026-09-21T02:16:41+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/568171838846442363/",
+      "engagement": 7,
+      "is_hot": false,
+      "author": "Yuka",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
     {
       "title": "[Steam论坛] &quot;Logging into user center&quot;",
       "summary": "Nothing happens after the clickable stuff flickers onto the screen and then vanishes.",

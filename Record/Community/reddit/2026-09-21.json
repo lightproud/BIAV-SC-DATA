@@ -1,8 +1,8 @@
 {
   "date": "2026-09-21",
-  "archived_at": "2026-09-20T22:58:54.075288+00:00",
+  "archived_at": "2026-09-21T03:16:18.003096+00:00",
   "source": "reddit",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "Help recovering my progress",
@@ -91,6 +91,19 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/Baraoomatsuri",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Is this one still obtainable?",
+      "summary": "&#32; submitted by &#32;  /u/legitlaggy   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-21T00:01:24+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wlx338/is_this_one_still_obtainable/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/legitlaggy",
       "tags": [],
       "lang": "en",
       "platform_region": ""

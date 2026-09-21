@@ -1,8 +1,8 @@
 {
   "date": "2026-09-21",
-  "archived_at": "2026-09-20T22:58:54.014075+00:00",
+  "archived_at": "2026-09-21T03:16:17.912180+00:00",
   "source": "youtube",
-  "item_count": 6,
+  "item_count": 9,
   "items": [
     {
       "title": "Night Time Morimens Hangout! Let&#39;s Discuss the Game and Meta while I get my account ready~",
@@ -22,6 +22,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "イベントやっていきます！【#忘却前夜】",
+      "summary": "steamURL https://store.steampowered.com/app/4226130/_/",
+      "source": "youtube",
+      "time": "2026-09-20T23:02:30Z",
+      "url": "https://www.youtube.com/watch?v=86MobBiODgc",
+      "engagement": 32,
+      "is_hot": false,
+      "author": "バグッチャーYT",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/86MobBiODgc/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "[忘却前夜]なんかいあいあするらしい",
       "summary": "のんびりやるやつ.",
       "source": "youtube",
@@ -34,6 +51,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/UC2vN006nTc/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Kita coba main game ini. Morimens",
+      "summary": "Jangan lupa like and subcribe Trakteer: https://trakteer.id/aonami_no_kitsu_ito This stream is created with ...",
+      "source": "youtube",
+      "time": "2026-09-21T00:52:28Z",
+      "url": "https://www.youtube.com/watch?v=YXkSnVKtP3c",
+      "engagement": 12,
+      "is_hot": false,
+      "author": "kitsu Ito",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/YXkSnVKtP3c/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -102,6 +136,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/fhuMYFb5kgA/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "『忘却前夜/対人戦』最後に残れば全て覆す！　１v３での最強ラストアタッカー！『ゲーム実況』",
+      "summary": "『忘却前夜』オンラインプレイヤーとの対戦動画です！ 今回は再び限定覚醒体、イベント札無しの誰でも編成可能なPTで戦って ...",
+      "source": "youtube",
+      "time": "2026-09-21T00:42:19Z",
+      "url": "https://www.youtube.com/watch?v=I1FSAsIo-Ho",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "薄めの『ゆゆ』",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/I1FSAsIo-Ho/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
