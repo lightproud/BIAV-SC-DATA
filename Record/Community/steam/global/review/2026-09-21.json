@@ -1,9 +1,32 @@
 {
   "date": "2026-09-21",
-  "archived_at": "2026-09-21T03:16:17.981328+00:00",
+  "archived_at": "2026-09-21T11:59:36.436918+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 10,
   "items": [
+    {
+      "title": "[负面] Before they understand what wanna see from game, a...",
+      "summary": "Before they understand what wanna see from game, and fix her, i don't recomend to play",
+      "source": "steam_review",
+      "time": "2026-09-21T07:32:45+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199784475225/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561199784475225",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 28,
+        "votes_up": 1,
+        "timestamp_created": 1789975965
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[正面] Оригинально.",
       "summary": "Оригинально.",
@@ -92,6 +115,121 @@
         "playtime_forever": 2322,
         "votes_up": 0,
         "timestamp_created": 1789935626
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] \"Mom, can we get Slay the Spire?\" \r\n\"We have Slay...",
+      "summary": "\"Mom, can we get Slay the Spire?\" \r\n\"We have Slay the Spire at home.\"\r\nSlay the Spire at home:\r\n\r\nJokes aside, very well made \"gacha\" game with developers that really care about what they're making.",
+      "source": "steam_review",
+      "time": "2026-09-21T11:01:57+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199883532392/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199883532392",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 11044,
+        "votes_up": 0,
+        "timestamp_created": 1789988517
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 网络一坨，全程红信号，点一下卡几秒。推剧情走格子只要重连就卡死，鼠标点哪都走不了",
+      "summary": "网络一坨，全程红信号，点一下卡几秒。推剧情走格子只要重连就卡死，鼠标点哪都走不了",
+      "source": "steam_review",
+      "time": "2026-09-21T08:54:52+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199138172962/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199138172962",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 714,
+        "votes_up": 0,
+        "timestamp_created": 1789980892
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Honestly, despite the currently mixed reviews, \nI...",
+      "summary": "Honestly, despite the currently mixed reviews, \nI can say that this has been the most fun I've had with a gacha game ever. The characters are fun and unique, the story ( so far ) is super engaging. And the gameplay is very enjoyable!",
+      "source": "steam_review",
+      "time": "2026-09-21T06:49:54+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198097315604/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198097315604",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1577,
+        "votes_up": 0,
+        "timestamp_created": 1789973394
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 好玩，抽角色的物品很好获得，不肝",
+      "summary": "好玩，抽角色的物品很好获得，不肝",
+      "source": "steam_review",
+      "time": "2026-09-21T05:32:34+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199783826419/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199783826419",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1851,
+        "votes_up": 0,
+        "timestamp_created": 1789968754
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Fico imaginando como seria Morimens se tivesse uma...",
+      "summary": "Fico imaginando como seria Morimens se tivesse uma exploração em 2D ou 3D conosco movendo o grupo como em um RPG ao estilo de Valkirie Profile, e é só isso que falta pro jogo ser 10/10, já que o estilo de exploração em \"tabuleiro\" me incomoda um pouco.\r\n\r\nAs batalhas são incriveis e o formato de construção de deck também é muito interessante.\r\n\r\nO enredo é muito bom, beirando a excelência. Só não é perfeito porque falta localizar o jogo para o Português Brasileiro corrigindo alguns erros bem estranhos de tradução automatica.\r\n\r\nNo geral 7/10\r\nVale a pena jogar e experimentar",
+      "source": "steam_review",
+      "time": "2026-09-21T02:36:09+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198070409488/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198070409488",
+      "tags": [
+        "brazilian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 6294,
+        "votes_up": 0,
+        "timestamp_created": 1789958169
       },
       "region": "global",
       "archive_subtype": "review"
