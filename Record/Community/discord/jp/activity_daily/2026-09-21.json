@@ -1,17 +1,17 @@
 {
   "date": "2026-09-21",
   "messages": 23,
-  "unique_authors": 5,
+  "unique_authors": 7,
   "reactions_total": 2,
   "attachments": 1,
   "channel_activity": {
-    "お絵描き": 1,
     "💬なんでも雑談（ネタバレあり）": 14,
-    "誰でもOKグロ版野次馬スレ　2世": 8
+    "誰でもOKグロ版野次馬スレ　2世": 8,
+    "お絵描き": 1
   },
   "hourly_activity": {
-    "6": 1,
-    "0": 22
+    "0": 22,
+    "6": 1
   },
   "message_types": {
     "0": 20,
