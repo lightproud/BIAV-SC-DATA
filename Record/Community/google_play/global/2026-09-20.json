@@ -1,8 +1,8 @@
 {
   "date": "2026-09-20",
-  "archived_at": "2026-09-21T11:59:36.503591+00:00",
+  "archived_at": "2026-09-21T18:02:16.692379+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 Peak. From the lovecraftian themes to th",
@@ -15,6 +15,20 @@
       "author": "Zykie Spades",
       "tags": [],
       "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 膨胀很严重，策划朝夕令改，为了卖新卡创造新环境，曾经的人权分分钟沦为下水道，不建",
+      "summary": "膨胀很严重，策划朝夕令改，为了卖新卡创造新环境，曾经的人权分分钟沦为下水道，不建议氪金很容易被背刺",
+      "source": "google_play",
+      "time": "2026-09-20T14:06:34+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=zh_CN#gp-a704fbe2-9591-4332-99f0-19fca6f0f4b8",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "章杰",
+      "tags": [],
+      "lang": "zh",
       "platform_region": "",
       "region": "global"
     }

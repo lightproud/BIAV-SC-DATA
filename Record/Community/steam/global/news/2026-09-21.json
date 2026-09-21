@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-21",
+  "archived_at": "2026-09-21T18:02:16.630998+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam新闻] An Apology and Further Adjustments to the D-Effect Zone",
+      "summary": "In V2.6.0, we made substantial changes to the D-Effect Zone to bring you greater challenges and rewards to match.However, those changes were clearly not well received. The steep difficulty curve, in particular, led to a frustrating experience for Keepers at different stages of progression: too easy for some, too difficult for others. This was certainly not what we intended.On reflection, I believe that, given the current state of the game, insisting on fitting the difficulty into just four tiers...",
+      "source": "official",
+      "time": "2026-09-21T14:54:36+00:00",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010501618",
+      "engagement": 0,
+      "is_hot": true,
+      "author": "lqx02483534",
+      "tags": [
+        "Community Announcements"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "news"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "news"
+}
