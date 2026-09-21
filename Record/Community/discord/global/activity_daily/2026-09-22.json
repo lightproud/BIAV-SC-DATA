@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-22",
+  "messages": 4739,
+  "unique_authors": 240,
+  "reactions_total": 433,
+  "attachments": 241,
+  "channel_activity": {
+    "🔸綜合討論": 234,
+    "🔸morimens-game-chat": 2186,
+    "🔸相位对弈": 2,
+    "🔸chaîne-française": 28,
+    "🔸русский-канал": 2,
+    "🔸phòng-chat-tiếng-việt": 22,
+    "🔸canal-español": 172,
+    "🔸canal-português": 760,
+    "🔸ruang-obrolan-indonesia": 9,
+    "🔸ห้องสนทนาภาษาไทย": 11,
+    "🔸traphase": 24,
+    "🔸lore-chat": 4,
+    "🔸team-building": 235,
+    "🔸general-chat": 468,
+    "🔸邀请码互助┊swap-invitation-codes": 4,
+    "🔸game-question": 441,
+    "🔸机器人命令┊bot-commands": 22,
+    "內部消息，負騎的加強爆料": 1,
+    "是不是也該在這裡蓋個圖樓👁️": 1,
+    "mistranslation": 1,
+    "Singularity Beacon doesn't work correctly on Daffodil's derived cards.": 3,
+    "Rework GOgier and Address the Treatment of Male Characters": 9,
+    "Caraboo Dimensional Image : Corrosion hit the cap (???) at 999,999 stack per exalt": 4,
+    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 5,
+    "Alternate realms Enhancement": 4,
+    "D-tide Discussion": 4,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
+    "Please rework how Propagation Caro works for the future units": 4,
+    "V2.6.0.3 在线维护公告": 1,
+    "An Apology and Further Adjustments to the D-Effect Zone": 69,
+    "On the D-Effect Zone Adjustments": 2,
+    "【English Translation】Opinions Collection": 1,
+    "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 3,
+    "Early Team Building & Pulling Advice": 1,
+    "How To Play Anatoly?": 1
+  },
+  "hourly_activity": {
+    "0": 1191,
+    "1": 1288,
+    "2": 1070,
+    "3": 1190
+  },
+  "message_types": {
+    "0": 2977,
+    "19": 1751,
+    "20": 11
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1551631172034101259",
+      "channel_id": "1551598270084812840",
+      "content": "we can still doompost very much about the divine realms",
+      "author": "arandomflamev2",
+      "reactions": 13,
+      "channel": "An Apology and Further Adjustments to the D-Effect Zone"
+    },
+    {
+      "id": "1551625422129598565",
+      "channel_id": "1131839817982947429",
+      "content": "参考文献",
+      "author": "ethylenediamine33",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1551654689773322361",
+      "channel_id": "1170692781216378960",
+      "content": "give me gwanda i am on my KNEES",
+      "author": "mosske",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551646691885719633",
+      "channel_id": "1170692781216378960",
+      "content": "I think the best QoL is when BIVA gets their shets together and actually think a",
+      "author": "brainrot_in_a_vat",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551675816939884685",
+      "channel_id": "1170692781216378960",
+      "content": "that's my guidemaker",
+      "author": "direhands",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551677950527803393",
+      "channel_id": "1170692781216378960",
+      "content": "dtide may come and go but lesbian propaganda is eternal",
+      "author": "violettaautumn",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551679428696743977",
+      "channel_id": "1170692781216378960",
+      "content": "When the female characters are tastefully sexy and not just raw goonbait 👌",
+      "author": "bog_rtm",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551632609065439387",
+      "channel_id": "1551632609065439387",
+      "content": "I need to ask directly: what was the design team thinking? (Or is there even a t",
+      "author": "fenris_oozz",
+      "reactions": 5,
+      "channel": "Rework GOgier and Address the Treatment of Male Characters"
+    },
+    {
+      "id": "1551639770273415309",
+      "channel_id": "1551598270084812840",
+      "content": "all this commotion just for that\n\nLight should hire some play testers that have ",
+      "author": "sexysneakystoat1625",
+      "reactions": 5,
+      "channel": "An Apology and Further Adjustments to the D-Effect Zone"
+    },
+    {
+      "id": "1551658256701726768",
+      "channel_id": "1131839817982947429",
+      "content": "其實沒這種玩意\n這玩意打擊x2都降不了牢鯨費",
+      "author": "heikwok",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1551635089618763896",
+      "channel_id": "1170692781216378960",
+      "content": "one more wheel done <:GDoll_serenity:1468257540809822302>",
+      "author": "bunnycide420",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551654739660382209",
+      "channel_id": "1170692781216378960",
+      "content": "Gwanda, but she's white-washed",
+      "author": "brainrot_in_a_vat",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551677644905385985",
+      "channel_id": "1170692781216378960",
+      "content": "I'll gladly be the baby maker she consumes",
+      "author": "unwavering_soul",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551679073779056724",
+      "channel_id": "1170692781216378960",
+      "content": "a lot of the characters here, both the men and women are quite female gaze coded",
+      "author": "violettaautumn",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551679468110741685",
+      "channel_id": "1170692781216378960",
+      "content": "The female gaze adds symptoms to the deck <:Thais_snicker:1468258174908891355>",
+      "author": "stormimi",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551679872605102103",
+      "channel_id": "1170692781216378960",
+      "content": "doesn't apply any poison",
+      "author": "direhands",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551682145196441763",
+      "channel_id": "1170692781216378960",
+      "content": "i can tell you who i did on my birthday",
+      "author": "violettaautumn",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551626472387645492",
+      "channel_id": "1551598270084812840",
+      "content": "Kind of surprising at this point since I thought it would happen sooner or not a",
+      "author": "reya.li",
+      "reactions": 4,
+      "channel": "An Apology and Further Adjustments to the D-Effect Zone"
+    },
+    {
+      "id": "1551646298858463273",
+      "channel_id": "1551598270084812840",
+      "content": "Main feedback: The next time you do a large change like this, call it a beta or ",
+      "author": "fairlysadpanda",
+      "reactions": 4,
+      "channel": "An Apology and Further Adjustments to the D-Effect Zone"
+    },
+    {
+      "id": "1551631997858873375",
+      "channel_id": "1170692781216378960",
+      "content": "Well now I can hurl Salv at A7 and do an A3 clear for full rewards like god inte",
+      "author": "jadlithon",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
