@@ -1,8 +1,8 @@
 {
   "date": "2026-09-22",
-  "archived_at": "2026-09-21T18:02:16.540409+00:00",
+  "archived_at": "2026-09-21T23:49:52.662404+00:00",
   "source": "bahamut",
-  "item_count": 23,
+  "item_count": 24,
   "items": [
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
@@ -234,6 +234,19 @@
       "engagement": 12,
       "is_hot": false,
       "author": "jesusaida",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【情報】負責了奧吉爾sp的前期設計",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-21T23:49:00.204817+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1588&tnum=1",
+      "engagement": 9,
+      "is_hot": false,
+      "author": "t12345825",
       "tags": [],
       "lang": "zh",
       "platform_region": ""

@@ -1,8 +1,8 @@
 {
   "date": "2026-09-21",
-  "archived_at": "2026-09-21T18:02:16.538880+00:00",
+  "archived_at": "2026-09-21T23:49:52.660582+00:00",
   "source": "bilibili",
-  "item_count": 15,
+  "item_count": 16,
   "items": [
     {
       "title": "【忘却前夜】负誓·奥吉尔抽取建议",
@@ -223,6 +223,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/fb0a8bf99fed0d396daad58f1b8be2746451adc5.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "〖相位〗什么叫，血希随机伤害打朵尔三次！",
+      "summary": "关于我今天打相位牌运极其离谱这件事……\n开局把毒发等三张牌的丢回牌库给我换了三张打击，后发制人摇三张打击……\n经典永流传之：宁妃特色四费沉底三费卡手，直到被点杀我四费也没抽出来\n不好孩子们，对面带着勋爵手杖/引舵之帆/汀克特/小玫瑰/小骑士等等净化类唤醒体和命轮，来殴打我们出血+毒队了！\n以及，茉夏大人终于没有道中暴毙，展现了恐怖的残局战斗力（）",
+      "source": "bilibili",
+      "time": "2026-09-21T11:56:14+00:00",
+      "url": "https://www.bilibili.com/video/av117308894875934",
+      "engagement": 125,
+      "is_hot": false,
+      "author": "只想摸鱼的屑-",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/d49a5d1d2a52a81648ea553ff642d269e827454e.jpg",
       "content_type": "video"
     },
     {

@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-22",
+  "archived_at": "2026-09-21T23:49:52.707856+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] don't bother about eu crybabies and their negative...",
+      "summary": "don't bother about eu crybabies and their negative reviews, this game is just a hidden gem",
+      "source": "steam_review",
+      "time": "2026-09-21T17:25:23+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198179265163/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561198179265163",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 19738,
+        "votes_up": 1,
+        "timestamp_created": 1790011523
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
