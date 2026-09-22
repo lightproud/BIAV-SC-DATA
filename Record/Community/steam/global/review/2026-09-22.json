@@ -1,8 +1,8 @@
 {
   "date": "2026-09-22",
-  "archived_at": "2026-09-21T23:49:52.707856+00:00",
+  "archived_at": "2026-09-22T03:16:21.492498+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] don't bother about eu crybabies and their negative...",
@@ -23,6 +23,52 @@
         "playtime_forever": 19738,
         "votes_up": 1,
         "timestamp_created": 1790011523
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Fajna gierka była by w nie własnym zakresie gdyby...",
+      "summary": "Fajna gierka była by w nie własnym zakresie gdyby nie fakt że ma opcje auto-playu (rozumiesz atuo play w karciane? idź sobie po krzesełko żeby postawić je w rogu, bo  gra bedzie sama siebie przechodziła)",
+      "source": "steam_review",
+      "time": "2026-09-22T01:50:00+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198341135576/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198341135576",
+      "tags": [
+        "polish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 208,
+        "votes_up": 0,
+        "timestamp_created": 1790041800
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Eldritch horror gacha, play if you like tentacles",
+      "summary": "Eldritch horror gacha, play if you like tentacles",
+      "source": "steam_review",
+      "time": "2026-09-22T00:55:15+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199652847843/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199652847843",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 204,
+        "votes_up": 0,
+        "timestamp_created": 1790038515
       },
       "region": "global",
       "archive_subtype": "review"

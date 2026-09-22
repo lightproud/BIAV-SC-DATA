@@ -1,8 +1,8 @@
 {
   "date": "2026-09-22",
-  "archived_at": "2026-09-21T23:49:52.661910+00:00",
+  "archived_at": "2026-09-22T03:16:21.471222+00:00",
   "source": "youtube",
-  "item_count": 9,
+  "item_count": 10,
   "items": [
     {
       "title": "Nefrea please change the fate of morimens updates | Arc 2 ch 5",
@@ -136,6 +136,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/nj197VJKTQ0/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Ogier Oathbound / Ever Sunward recommendations after day 1 testing",
+      "summary": "Check out the vod for tested lineups: https://youtube.com/live/d4ZNfy2NNqc https://www.twitch.tv/Nazoric ...",
+      "source": "youtube",
+      "time": "2026-09-21T23:55:01Z",
+      "url": "https://www.youtube.com/watch?v=XGfAyNVBDwo",
+      "engagement": 14,
+      "is_hot": false,
+      "author": "Nazoric",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/XGfAyNVBDwo/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
