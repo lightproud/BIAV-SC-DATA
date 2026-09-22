@@ -1,50 +1,63 @@
 {
   "date": "2026-09-22",
-  "messages": 11277,
-  "unique_authors": 240,
-  "reactions_total": 1367,
-  "attachments": 619,
+  "messages": 17305,
+  "unique_authors": 285,
+  "reactions_total": 1947,
+  "attachments": 931,
   "channel_activity": {
-    "🔸綜合討論": 261,
-    "🔸morimens-game-chat": 6465,
-    "🔸晒卡分享": 2,
-    "🔸相位对弈": 4,
-    "🔸한국어-채팅방": 14,
-    "🔸русский-канал": 14,
-    "🔸phòng-chat-tiếng-việt": 176,
+    "🔸綜合討論": 698,
+    "🔸morimens-game-chat": 9237,
+    "🔸剧情交流": 11,
+    "🔸晒卡分享": 3,
+    "🔸相位对弈": 5,
+    "🔸한국어-채팅방": 17,
+    "🔸русский-канал": 38,
+    "🔸phòng-chat-tiếng-việt": 667,
+    "🔸canal-português": 932,
+    "🔸ruang-obrolan-indonesia": 969,
+    "🔸ห้องสนทนาภาษาไทย": 42,
+    "🔸traphase": 43,
+    "🔸lore-chat": 86,
+    "🔸lets-count": 7,
+    "🔸team-building": 705,
+    "🔸general-chat": 618,
+    "🔸邀请码互助┊swap-invitation-codes": 12,
+    "🔸game-question": 2469,
+    "🔸机器人命令┊bot-commands": 58,
+    "【敌方意图收录】「融灾禁区」总览69期·星辰篇": 1,
+    "往時": 3,
+    "我想出兩隊四小強": 2,
+    "Faint posse wrong language displayed (cn instead of en) after update": 2,
+    "mistranslation": 17,
+    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 7,
+    "Balance problem in arc2": 2,
+    "可以公告一份「已知bug清單」嗎 Can we get a “known issues” list?": 3,
+    "📢 「官方问答」频道使用说明丨Official Q&A Channel - Guide": 4,
+    "D-tide Discussion": 28,
+    "关于「轮转之相」唤醒规则说明概率显示异常的说明与致歉": 1,
+    "V2.5.1.0 停服维护公告": 12,
+    "「官方素材」頻道使用說明": 3,
+    "An Apology and Further Adjustments to the D-Effect Zone": 117,
+    "Nefraea + Arachne Posting": 3,
+    "Morimens New Player Handbook by Cheri [V2.5 UGC Contest]": 1,
+    "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 6,
+    "想問問融災組隊": 1,
+    "Give me suggestions on team build": 5,
     "🔸canal-español": 368,
-    "🔸canal-português": 906,
-    "🔸ruang-obrolan-indonesia": 523,
-    "🔸ห้องสนทนาภาษาไทย": 25,
-    "🔸traphase": 30,
-    "🔸lore-chat": 68,
     "🔸礼包码┊gift-codes": 1,
-    "🔸lets-count": 3,
-    "🔸team-building": 444,
-    "🔸general-chat": 554,
-    "🔸game-question": 1146,
-    "🔸机器人命令┊bot-commands": 33,
     "刪牌區bug": 3,
     "Horla: Wrong Icon for Dirge Psalm": 3,
-    "mistranslation": 2,
     "Singularity Beacon doesn't work correctly on Daffodil's derived cards.": 4,
     "faint's keyflare rouse not being translated to english": 1,
     "G:Ogier X cost display bug": 1,
     "Unable to login - Silver Communication Error": 1,
     "Traphase portraits are too close up in some occasions": 1,
     "Login Issues on Steam Deck": 1,
-    "D-tide Discussion": 24,
-    "V2.5.1.0 停服维护公告": 4,
-    "An Apology and Further Adjustments to the D-Effect Zone": 88,
-    "Nefraea + Arachne Posting": 2,
     "DTide Meta Teams and Units": 4,
     "【English Translation】Opinions Collection": 7,
-    "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 4,
     "Early Team Building & Pulling Advice": 4,
-    "Give me suggestions on team build": 4,
     "How To Play Anatoly?": 9,
     "🔸chaîne-française": 29,
-    "🔸邀请码互助┊swap-invitation-codes": 6,
     "Decompress D-tide difficulty back to before": 1,
     "When will a passive ability be added to these characters?": 1,
     "Alternate realms Enhancement": 8,
@@ -52,17 +65,24 @@
     "是不是也該在這裡蓋個圖樓👁️": 1,
     "Rework GOgier and Address the Treatment of Male Characters": 9,
     "Caraboo Dimensional Image : Corrosion hit the cap (???) at 999,999 stack per exalt": 4,
-    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 5,
     "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
     "Please rework how Propagation Caro works for the future units": 4,
     "V2.6.0.3 在线维护公告": 1,
     "On the D-Effect Zone Adjustments": 2
   },
   "hourly_activity": {
+    "12": 753,
+    "13": 966,
+    "14": 1232,
+    "15": 638,
+    "16": 742,
+    "17": 818,
+    "18": 667,
+    "19": 130,
+    "11": 1382,
     "8": 681,
     "9": 429,
     "10": 1147,
-    "11": 1300,
     "7": 831,
     "3": 1280,
     "4": 811,
@@ -73,9 +93,10 @@
     "2": 1070
   },
   "message_types": {
-    "19": 4470,
-    "0": 6783,
-    "20": 24
+    "19": 6457,
+    "0": 10808,
+    "20": 39,
+    "4": 1
   },
   "top_reacted_messages": [
     {
@@ -101,6 +122,14 @@
       "author": "mosske",
       "reactions": 11,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551812292239163445",
+      "channel_id": "1131839817982947429",
+      "content": "无意间看完了阿狗用卡拉布C来打5-4的录像<:Ramona_tuff_:1441426630420467753>",
+      "author": "galagalaguo",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
     },
     {
       "id": "1551753253006606497",
@@ -135,6 +164,30 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1551899521427181659",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1551822404169498654",
+      "channel_id": "1170692781216378960",
+      "content": "<:durr:1505777073887645767>",
+      "author": "orphevs__",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551828427735040060",
+      "channel_id": "1170692781216378960",
+      "content": "The design I wanted my son to have<:Horla_cry:1357186646294138890>",
+      "author": "shadowgame7101",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1551754805792219146",
       "channel_id": "1131839817982947429",
       "content": "7 回合",
@@ -149,6 +202,30 @@
       "author": "mosske",
       "reactions": 6,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551842532399386665",
+      "channel_id": "1131839817982947429",
+      "content": "下星期挑战8队500分<:Ramona_tuff_:1441426630420467753>",
+      "author": "galagalaguo",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1551873192950505473",
+      "channel_id": "1131839817982947429",
+      "content": "我现在是六个癫狂一个噩梦",
+      "author": "ponponnyaru",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1551837704206163998",
+      "channel_id": "1551837704206163998",
+      "content": "如題\n由於環拉本人無法和普拉同時出場\n導致我的兩隊四小強夢碎\n我在此懇請校貓調整過往對拉蒙娜的限制\n（畢竟其他色違角色這麼普及的出現\n（只有我們的主角還被綁死二",
+      "author": "passerbycat",
+      "reactions": 5,
+      "channel": "我想出兩隊四小強"
     },
     {
       "id": "1551770298494353498",
@@ -181,62 +258,6 @@
       "author": "direhands",
       "reactions": 5,
       "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551646691885719633",
-      "channel_id": "1170692781216378960",
-      "content": "I think the best QoL is when BIVA gets their shets together and actually think a",
-      "author": "brainrot_in_a_vat",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551675816939884685",
-      "channel_id": "1170692781216378960",
-      "content": "that's my guidemaker",
-      "author": "direhands",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551677950527803393",
-      "channel_id": "1170692781216378960",
-      "content": "dtide may come and go but lesbian propaganda is eternal",
-      "author": "violettaautumn",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551679428696743977",
-      "channel_id": "1170692781216378960",
-      "content": "When the female characters are tastefully sexy and not just raw goonbait 👌",
-      "author": "bog_rtm",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551632609065439387",
-      "channel_id": "1551632609065439387",
-      "content": "I need to ask directly: what was the design team thinking? (Or is there even a t",
-      "author": "fenris_oozz",
-      "reactions": 5,
-      "channel": "Rework GOgier and Address the Treatment of Male Characters"
-    },
-    {
-      "id": "1551639770273415309",
-      "channel_id": "1551598270084812840",
-      "content": "all this commotion just for that\n\nLight should hire some play testers that have ",
-      "author": "sexysneakystoat1625",
-      "reactions": 5,
-      "channel": "An Apology and Further Adjustments to the D-Effect Zone"
-    },
-    {
-      "id": "1551794659049873480",
-      "channel_id": "1131839817982947429",
-      "content": "借了隻小騎士打癲狂的我：",
-      "author": "iamnotbunny",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
     }
   ]
 }
