@@ -1,27 +1,40 @@
 {
   "date": "2026-09-22",
-  "messages": 4739,
+  "messages": 7687,
   "unique_authors": 240,
-  "reactions_total": 433,
-  "attachments": 241,
+  "reactions_total": 739,
+  "attachments": 415,
   "channel_activity": {
+    "🔸morimens-game-chat": 4295,
+    "🔸한국어-채팅방": 3,
+    "🔸chaîne-française": 29,
+    "🔸русский-канал": 9,
+    "🔸phòng-chat-tiếng-việt": 25,
+    "🔸canal-español": 232,
+    "🔸canal-português": 839,
+    "🔸ruang-obrolan-indonesia": 59,
+    "🔸traphase": 27,
+    "🔸lore-chat": 12,
+    "🔸lets-count": 2,
+    "🔸team-building": 298,
+    "🔸general-chat": 534,
+    "🔸邀请码互助┊swap-invitation-codes": 6,
+    "🔸game-question": 896,
+    "🔸机器人命令┊bot-commands": 27,
+    "刪牌區bug": 1,
+    "Horla: Wrong Icon for Dirge Psalm": 2,
+    "Decompress D-tide difficulty back to before": 1,
+    "When will a passive ability be added to these characters?": 1,
+    "Alternate realms Enhancement": 8,
+    "D-tide Discussion": 7,
+    "V2.5.1.0 停服维护公告": 2,
+    "An Apology and Further Adjustments to the D-Effect Zone": 79,
+    "Nefraea + Arachne Posting": 1,
+    "【English Translation】Opinions Collection": 3,
+    "How To Play Anatoly?": 6,
     "🔸綜合討論": 234,
-    "🔸morimens-game-chat": 2186,
     "🔸相位对弈": 2,
-    "🔸chaîne-française": 28,
-    "🔸русский-канал": 2,
-    "🔸phòng-chat-tiếng-việt": 22,
-    "🔸canal-español": 172,
-    "🔸canal-português": 760,
-    "🔸ruang-obrolan-indonesia": 9,
     "🔸ห้องสนทนาภาษาไทย": 11,
-    "🔸traphase": 24,
-    "🔸lore-chat": 4,
-    "🔸team-building": 235,
-    "🔸general-chat": 468,
-    "🔸邀请码互助┊swap-invitation-codes": 4,
-    "🔸game-question": 441,
-    "🔸机器人命令┊bot-commands": 22,
     "內部消息，負騎的加強爆料": 1,
     "是不是也該在這裡蓋個圖樓👁️": 1,
     "mistranslation": 1,
@@ -29,28 +42,27 @@
     "Rework GOgier and Address the Treatment of Male Characters": 9,
     "Caraboo Dimensional Image : Corrosion hit the cap (???) at 999,999 stack per exalt": 4,
     "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 5,
-    "Alternate realms Enhancement": 4,
-    "D-tide Discussion": 4,
     "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
     "Please rework how Propagation Caro works for the future units": 4,
     "V2.6.0.3 在线维护公告": 1,
-    "An Apology and Further Adjustments to the D-Effect Zone": 69,
     "On the D-Effect Zone Adjustments": 2,
-    "【English Translation】Opinions Collection": 1,
     "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 3,
-    "Early Team Building & Pulling Advice": 1,
-    "How To Play Anatoly?": 1
+    "Early Team Building & Pulling Advice": 1
   },
   "hourly_activity": {
+    "3": 1280,
+    "4": 811,
+    "5": 624,
+    "6": 625,
+    "7": 798,
     "0": 1191,
     "1": 1288,
-    "2": 1070,
-    "3": 1190
+    "2": 1070
   },
   "message_types": {
-    "0": 2977,
-    "19": 1751,
-    "20": 11
+    "19": 3079,
+    "0": 4592,
+    "20": 16
   },
   "top_reacted_messages": [
     {
@@ -60,6 +72,22 @@
       "author": "arandomflamev2",
       "reactions": 13,
       "channel": "An Apology and Further Adjustments to the D-Effect Zone"
+    },
+    {
+      "id": "1551691794884984965",
+      "channel_id": "1170692781216378960",
+      "content": "I FEEL MY SHACKLES BREAKING",
+      "author": "mosske",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551687789488381985",
+      "channel_id": "1170692781216378960",
+      "content": "``` 🔒 Message hidden ```⁩⁩⁩\n-# Discord now requires 525 no rewind no SSR wheels ",
+      "author": "bagels5899",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1551625422129598565",
@@ -75,6 +103,30 @@
       "content": "give me gwanda i am on my KNEES",
       "author": "mosske",
       "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551687407349276755",
+      "channel_id": "1170692781216378960",
+      "content": "<:Alva_shock:1468259232963891220>  MY FIRST 5 PULL?!",
+      "author": "toby_010",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551688574368489573",
+      "channel_id": "1170692781216378960",
+      "content": "FIxed a bug where players could clear madness without DR farming",
+      "author": "frosthief",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551722922190700605",
+      "channel_id": "1170692781216378960",
+      "content": "immediately remembered the bit i used to do last year where i pretended that psy",
+      "author": "direhands",
+      "reactions": 5,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -126,91 +178,51 @@
       "channel": "An Apology and Further Adjustments to the D-Effect Zone"
     },
     {
-      "id": "1551658256701726768",
-      "channel_id": "1131839817982947429",
-      "content": "其實沒這種玩意\n這玩意打擊x2都降不了牢鯨費",
-      "author": "heikwok",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1551635089618763896",
+      "id": "1551684664006156379",
       "channel_id": "1170692781216378960",
-      "content": "one more wheel done <:GDoll_serenity:1468257540809822302>",
-      "author": "bunnycide420",
+      "content": "It feels so expensive to build covenants",
+      "author": "devilishdesire222",
       "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1551654739660382209",
+      "id": "1551687313396858991",
       "channel_id": "1170692781216378960",
-      "content": "Gwanda, but she's white-washed",
-      "author": "brainrot_in_a_vat",
+      "content": "No thoughts\nOnly pursuits",
+      "author": "theonewhomemes._32833",
       "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1551677644905385985",
+      "id": "1551690090269380710",
       "channel_id": "1170692781216378960",
-      "content": "I'll gladly be the baby maker she consumes",
-      "author": "unwavering_soul",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551679073779056724",
-      "channel_id": "1170692781216378960",
-      "content": "a lot of the characters here, both the men and women are quite female gaze coded",
-      "author": "violettaautumn",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551679468110741685",
-      "channel_id": "1170692781216378960",
-      "content": "The female gaze adds symptoms to the deck <:Thais_snicker:1468258174908891355>",
-      "author": "stormimi",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551679872605102103",
-      "channel_id": "1170692781216378960",
-      "content": "doesn't apply any poison",
+      "content": "real morimens players don't open the game",
       "author": "direhands",
       "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1551682145196441763",
+      "id": "1551690674712092698",
       "channel_id": "1170692781216378960",
-      "content": "i can tell you who i did on my birthday",
-      "author": "violettaautumn",
+      "content": "Can we change the translator bot so it doesn't translate but instead teaches you",
+      "author": "aurora3981",
       "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1551626472387645492",
-      "channel_id": "1551598270084812840",
-      "content": "Kind of surprising at this point since I thought it would happen sooner or not a",
-      "author": "reya.li",
-      "reactions": 4,
-      "channel": "An Apology and Further Adjustments to the D-Effect Zone"
-    },
-    {
-      "id": "1551646298858463273",
-      "channel_id": "1551598270084812840",
-      "content": "Main feedback: The next time you do a large change like this, call it a beta or ",
-      "author": "fairlysadpanda",
-      "reactions": 4,
-      "channel": "An Apology and Further Adjustments to the D-Effect Zone"
-    },
-    {
-      "id": "1551631997858873375",
+      "id": "1551692896569131030",
       "channel_id": "1170692781216378960",
-      "content": "Well now I can hurl Salv at A7 and do an A3 clear for full rewards like god inte",
-      "author": "jadlithon",
-      "reactions": 3,
+      "content": "First 410!",
+      "author": "infirma_persona",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551728071688847440",
+      "channel_id": "1170692781216378960",
+      "content": "Yeah like what did he mean by this?",
+      "author": "corvim",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     }
   ]
