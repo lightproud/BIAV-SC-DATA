@@ -1,32 +1,151 @@
 {
   "date": "2026-09-23",
-  "messages": 376,
-  "unique_authors": 63,
-  "reactions_total": 27,
-  "attachments": 33,
+  "messages": 3738,
+  "unique_authors": 184,
+  "reactions_total": 276,
+  "attachments": 242,
   "channel_activity": {
-    "🔸綜合討論": 26,
-    "🔸morimens-game-chat": 285,
-    "🔸deutscher-chatraum": 1,
-    "🔸canal-español": 11,
-    "🔸ห้องสนทนาภาษาไทย": 1,
-    "🔸team-building": 14,
-    "🔸general-chat": 1,
-    "🔸game-question": 32,
-    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 3,
-    "关于「轮转之相」唤醒规则说明概率显示异常的说明与致歉": 1,
+    "🔸綜合討論": 76,
+    "🔸morimens-game-chat": 2522,
+    "🔸deutscher-chatraum": 3,
+    "🔸chaîne-française": 103,
+    "🔸русский-канал": 183,
+    "🔸phòng-chat-tiếng-việt": 70,
+    "🔸canal-español": 40,
+    "🔸canal-português": 133,
+    "🔸ruang-obrolan-indonesia": 4,
+    "🔸ห้องสนทนาภาษาไทย": 41,
+    "🔸traphase": 4,
+    "🔸team-building": 118,
+    "🔸general-chat": 134,
+    "🔸game-question": 225,
+    "🔸机器人命令┊bot-commands": 8,
+    "摸魚 放點塗鴉✍️": 1,
+    "堆图ing": 1,
+    "菜雞四小強玩家的抱怨之旅new": 2,
+    "redesign Gogier. his design and kit are boring": 2,
+    "Logging problem on steam": 1,
+    "Traphase 24 and wheels with \"strike can select a target\" bug": 1,
+    "The game expects us to be bilingual now?": 3,
+    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 38,
+    "可以公告一份「已知bug清單」嗎 Can we get a “known issues” list?": 1,
+    "On the Subject of Jenkins": 7,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 1,
+    "Quadra / 4-Realm Rerun Banners": 2,
+    "Please rework how Propagation Caro works for the future units": 2,
+    "Login Issues on Steam Deck": 1,
+    "关于「轮转之相」唤醒规则说明概率显示异常的说明与致歉": 3,
+    "V2.5.1.0 停服维护公告": 2,
+    "💖 表情丨Emotes": 3,
+    "想問問融災組隊": 1,
     "Need help with team Building for D-Tide": 1
   },
   "hourly_activity": {
-    "0": 376
+    "0": 561,
+    "1": 794,
+    "2": 807,
+    "3": 779,
+    "4": 767,
+    "5": 30
   },
   "message_types": {
-    "0": 206,
-    "19": 168,
-    "23": 1,
-    "20": 1
+    "0": 2161,
+    "19": 1569,
+    "20": 4,
+    "23": 2,
+    "46": 1,
+    "4": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1552030029288833075",
+      "channel_id": "1300659662311526512",
+      "content": "Lemuria lo mejor del sistema",
+      "author": "octekg",
+      "reactions": 21,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1552002509894197299",
+      "channel_id": "1170692781216378960",
+      "content": "New grandma art i found",
+      "author": "theonewhomemes._32833",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552012219770867712",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "dracozion",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552005858521522177",
+      "channel_id": "1170692781216378960",
+      "content": "♂️",
+      "author": "legendaryredz",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552012961730531440",
+      "channel_id": "1131839817982947429",
+      "content": "神秘星彩双子打榜人<:Tinct_shy:1356053151349997829> <:Faint_cry:1356053046374961212> ……  \n",
+      "author": "sweet_25367",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1552041143427145819",
+      "channel_id": "1170692781216378960",
+      "content": "Wow okay, sign i should sleep",
+      "author": "verdy_heh",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552022523334492285",
+      "channel_id": "1131839817982947429",
+      "content": "輸光……",
+      "author": "ahuahuahua",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1552029396750307340",
+      "channel_id": "1170692781216378960",
+      "content": "Larplax x Kade!?",
+      "author": "verdy_heh",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552030377709674567",
+      "channel_id": "1170692781216378960",
+      "content": "im finally done with dtide for this biweek",
+      "author": "2ndselna",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552020400131801110",
+      "channel_id": "1400749543288475770",
+      "content": "thanks guys",
+      "author": "_.adriel.",
+      "reactions": 3,
+      "channel": "🔸team-building"
+    },
+    {
+      "id": "1552033366797320306",
+      "channel_id": "1400749543288475770",
+      "content": "or maybe later than sooner lol who knows",
+      "author": "nekoboyastra",
+      "reactions": 3,
+      "channel": "🔸team-building"
+    },
     {
       "id": "1551986752447586365",
       "channel_id": "1170692781216378960",
@@ -36,147 +155,67 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1551986572981837977",
+      "id": "1552003165417640009",
       "channel_id": "1170692781216378960",
-      "content": "also yay",
-      "author": "thebluestlime",
+      "content": "I think it's better like this her hips are too wide otherwise\nIt distracts me",
+      "author": "theonewhomemes._32833",
       "reactions": 2,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1551986871196713052",
+      "id": "1552004398517850223",
       "channel_id": "1170692781216378960",
-      "content": "fuck y'all mean BRICK???",
-      "author": "thebluestlime",
+      "content": "",
+      "author": "n0vella._",
       "reactions": 2,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1551988505566253226",
+      "id": "1552010121050062868",
       "channel_id": "1170692781216378960",
-      "content": "oops",
-      "author": "dose1694",
+      "content": "",
+      "author": "dracozion",
       "reactions": 2,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1551988965303787673",
+      "id": "1552010277422112848",
       "channel_id": "1170692781216378960",
-      "content": "Because the Princess is a witch.\nPersonally I think it's a massive leap in logic",
-      "author": "skigloves",
+      "content": "Very sus 22% dr but I managed \n<@193043069275209728> with ur tawil( she needs kf",
+      "author": "arem0972",
       "reactions": 2,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1551989594080411752",
-      "channel_id": "1300659662311526512",
-      "content": "(hijodelapapoy con que hay se fue mi suerte)",
-      "author": "hectorwolffox",
-      "reactions": 2,
-      "channel": "🔸canal-español"
-    },
-    {
-      "id": "1551987149039997040",
-      "channel_id": "1400749543288475770",
-      "content": "<:Aurita_please:1356053110375714817> I GOT THAIS WHEEL I WIN",
-      "author": "orphevs__",
-      "reactions": 2,
-      "channel": "🔸team-building"
-    },
-    {
-      "id": "1551988657454452738",
-      "channel_id": "1131839817982947429",
-      "content": "我覺得凱帶他自己的專差別不大就是了 只是有看到這種帶法",
-      "author": "theal8893",
-      "reactions": 1,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1551992074247872524",
-      "channel_id": "1131839817982947429",
-      "content": "今天是小鸭子<:Pandia_love:1459078512303411261>",
-      "author": "galagalaguo",
-      "reactions": 1,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1551987161694216303",
+      "id": "1552011316498145362",
       "channel_id": "1170692781216378960",
-      "content": "Mentioned this before, but\n\nhe feels so lackluster and lacking in general\n\n- Red",
-      "author": "snorlax01",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551987614679040043",
-      "channel_id": "1170692781216378960",
-      "content": "showing how he is S TIER",
-      "author": "monchi3524",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551988970030633101",
-      "channel_id": "1170692781216378960",
-      "content": "<@233217233583734785>",
-      "author": "snorlax01",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551989188935553125",
-      "channel_id": "1170692781216378960",
-      "content": "Mine better, I haven't pulled on any Banners for like the past Month now",
-      "author": "snorlax01",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551989378824536208",
-      "channel_id": "1170692781216378960",
-      "content": "both lucky so lucky",
-      "author": "._ingg",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551989715673026682",
-      "channel_id": "1170692781216378960",
-      "content": "The same kit, but now Poof! discards and inflicts corrosion scaled off of the nu",
-      "author": "skigloves",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551989984213467169",
-      "channel_id": "1170692781216378960",
-      "content": "i mean with the current quality of character designs/kits mostly being bad (gogi",
+      "content": "also hes not sexy hes repulsive",
       "author": "princess.goth",
-      "reactions": 1,
+      "reactions": 2,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1551990332017610823",
+      "id": "1552012085238439988",
       "channel_id": "1170692781216378960",
-      "content": "It annoys me that PCaro is here to stay because telling people that I'm eating p",
-      "author": "oddeyesight",
-      "reactions": 1,
+      "content": "Tldr sunfall + 24 wheel is bis even if it starts weakest cuz it scales",
+      "author": "dracozion",
+      "reactions": 2,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1551990489627099207",
+      "id": "1552012136274726964",
       "channel_id": "1170692781216378960",
-      "content": "Nah. What I said was about 3/4",
-      "author": "arandomflamev2",
-      "reactions": 1,
+      "content": "I'm so glad most of my family is dead",
+      "author": "corvim",
+      "reactions": 2,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1551991848531136542",
+      "id": "1552013062179913828",
       "channel_id": "1170692781216378960",
-      "content": "🥀 💔 😔",
-      "author": "snorlax01",
-      "reactions": 1,
+      "content": "holy shit is that verity",
+      "author": "thereaperinthedresss",
+      "reactions": 2,
       "channel": "🔸morimens-game-chat"
     }
   ]
