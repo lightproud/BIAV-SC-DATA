@@ -1,0 +1,183 @@
+{
+  "date": "2026-09-23",
+  "messages": 376,
+  "unique_authors": 63,
+  "reactions_total": 27,
+  "attachments": 33,
+  "channel_activity": {
+    "🔸綜合討論": 26,
+    "🔸morimens-game-chat": 285,
+    "🔸deutscher-chatraum": 1,
+    "🔸canal-español": 11,
+    "🔸ห้องสนทนาภาษาไทย": 1,
+    "🔸team-building": 14,
+    "🔸general-chat": 1,
+    "🔸game-question": 32,
+    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 3,
+    "关于「轮转之相」唤醒规则说明概率显示异常的说明与致歉": 1,
+    "Need help with team Building for D-Tide": 1
+  },
+  "hourly_activity": {
+    "0": 376
+  },
+  "message_types": {
+    "0": 206,
+    "19": 168,
+    "23": 1,
+    "20": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1551986752447586365",
+      "channel_id": "1170692781216378960",
+      "content": "Hows gogier chat?",
+      "author": "undeterredhomo",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551986572981837977",
+      "channel_id": "1170692781216378960",
+      "content": "also yay",
+      "author": "thebluestlime",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551986871196713052",
+      "channel_id": "1170692781216378960",
+      "content": "fuck y'all mean BRICK???",
+      "author": "thebluestlime",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551988505566253226",
+      "channel_id": "1170692781216378960",
+      "content": "oops",
+      "author": "dose1694",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551988965303787673",
+      "channel_id": "1170692781216378960",
+      "content": "Because the Princess is a witch.\nPersonally I think it's a massive leap in logic",
+      "author": "skigloves",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551989594080411752",
+      "channel_id": "1300659662311526512",
+      "content": "(hijodelapapoy con que hay se fue mi suerte)",
+      "author": "hectorwolffox",
+      "reactions": 2,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1551987149039997040",
+      "channel_id": "1400749543288475770",
+      "content": "<:Aurita_please:1356053110375714817> I GOT THAIS WHEEL I WIN",
+      "author": "orphevs__",
+      "reactions": 2,
+      "channel": "🔸team-building"
+    },
+    {
+      "id": "1551988657454452738",
+      "channel_id": "1131839817982947429",
+      "content": "我覺得凱帶他自己的專差別不大就是了 只是有看到這種帶法",
+      "author": "theal8893",
+      "reactions": 1,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1551992074247872524",
+      "channel_id": "1131839817982947429",
+      "content": "今天是小鸭子<:Pandia_love:1459078512303411261>",
+      "author": "galagalaguo",
+      "reactions": 1,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1551987161694216303",
+      "channel_id": "1170692781216378960",
+      "content": "Mentioned this before, but\n\nhe feels so lackluster and lacking in general\n\n- Red",
+      "author": "snorlax01",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551987614679040043",
+      "channel_id": "1170692781216378960",
+      "content": "showing how he is S TIER",
+      "author": "monchi3524",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551988970030633101",
+      "channel_id": "1170692781216378960",
+      "content": "<@233217233583734785>",
+      "author": "snorlax01",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551989188935553125",
+      "channel_id": "1170692781216378960",
+      "content": "Mine better, I haven't pulled on any Banners for like the past Month now",
+      "author": "snorlax01",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551989378824536208",
+      "channel_id": "1170692781216378960",
+      "content": "both lucky so lucky",
+      "author": "._ingg",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551989715673026682",
+      "channel_id": "1170692781216378960",
+      "content": "The same kit, but now Poof! discards and inflicts corrosion scaled off of the nu",
+      "author": "skigloves",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551989984213467169",
+      "channel_id": "1170692781216378960",
+      "content": "i mean with the current quality of character designs/kits mostly being bad (gogi",
+      "author": "princess.goth",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551990332017610823",
+      "channel_id": "1170692781216378960",
+      "content": "It annoys me that PCaro is here to stay because telling people that I'm eating p",
+      "author": "oddeyesight",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551990489627099207",
+      "channel_id": "1170692781216378960",
+      "content": "Nah. What I said was about 3/4",
+      "author": "arandomflamev2",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551991848531136542",
+      "channel_id": "1170692781216378960",
+      "content": "🥀 💔 😔",
+      "author": "snorlax01",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
