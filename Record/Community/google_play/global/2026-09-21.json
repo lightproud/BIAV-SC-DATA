@@ -1,8 +1,8 @@
 {
   "date": "2026-09-21",
-  "archived_at": "2026-09-22T10:58:06.652097+00:00",
+  "archived_at": "2026-09-22T16:16:45.864368+00:00",
   "source": "google_play",
-  "item_count": 3,
+  "item_count": 5,
   "items": [
     {
       "title": "[Google Play 好评] ★5 so this is my first time writing a revie",
@@ -43,6 +43,34 @@
       "author": "Empty",
       "tags": [],
       "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 I hope the game gets optimized. With my",
+      "summary": "I hope the game gets optimized. With my super low end device I can't play this game normally. Please update it so it can be played too in low end devices. I love this game btw.",
+      "source": "google_play",
+      "time": "2026-09-21T13:10:10+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-99172ee5-5b62-40f5-9638-f4fd44b3590d",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Arcaine",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 bagus gamenya, up terus dev",
+      "summary": "bagus gamenya, up terus dev",
+      "source": "google_play",
+      "time": "2026-09-21T12:19:29+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=id#gp-5ce20164-b694-4a0e-b02f-6ad3af453f95",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Mar Sel",
+      "tags": [],
+      "lang": "id",
       "platform_region": "",
       "region": "global"
     }
