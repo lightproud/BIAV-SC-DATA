@@ -1,8 +1,8 @@
 {
   "date": "2026-09-22",
-  "archived_at": "2026-09-22T03:16:21.492498+00:00",
+  "archived_at": "2026-09-22T10:58:06.551685+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[正面] don't bother about eu crybabies and their negative...",
@@ -69,6 +69,29 @@
         "playtime_forever": 204,
         "votes_up": 0,
         "timestamp_created": 1790038515
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] perfection",
+      "summary": "perfection",
+      "source": "steam_review",
+      "time": "2026-09-22T06:19:37+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198773270137/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198773270137",
+      "tags": [
+        "romanian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 324,
+        "votes_up": 0,
+        "timestamp_created": 1790057977
       },
       "region": "global",
       "archive_subtype": "review"

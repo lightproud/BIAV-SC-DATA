@@ -1,8 +1,8 @@
 {
   "date": "2026-09-21",
-  "archived_at": "2026-09-22T03:16:21.545914+00:00",
+  "archived_at": "2026-09-22T10:58:06.652097+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 so this is my first time writing a revie",
@@ -13,6 +13,34 @@
       "engagement": 0,
       "is_hot": false,
       "author": "Yosra Wardi",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 中评] ★3 it's okay, at later levels if u don't sp",
+      "summary": "it's okay, at later levels if u don't spend money you end up playing for about 10min/day.",
+      "source": "google_play",
+      "time": "2026-09-21T04:22:44+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-7381cc5b-c521-4171-b1c4-e62bd8ba928d",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "joey",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 This is a good game. The plot, the atmos",
+      "summary": "This is a good game. The plot, the atmosphere, the balance and the gameplay. Truly unable to stop playing.",
+      "source": "google_play",
+      "time": "2026-09-21T03:52:38+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-6ee515cd-ae2d-48aa-8f32-e70edd166164",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Empty",
       "tags": [],
       "lang": "en",
       "platform_region": "",
