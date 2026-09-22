@@ -1,8 +1,8 @@
 {
   "date": "2026-09-23",
-  "archived_at": "2026-09-22T16:16:45.714630+00:00",
+  "archived_at": "2026-09-22T20:53:18.688923+00:00",
   "source": "bahamut",
-  "item_count": 22,
+  "item_count": 23,
   "items": [
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
@@ -286,6 +286,19 @@
       "engagement": 2,
       "is_hot": false,
       "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【日服】克珀珊特版本 小課體感強度榜",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-22T20:52:24.968752+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1591&tnum=1",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "jack01212537",
       "tags": [],
       "lang": "zh",
       "platform_region": ""
