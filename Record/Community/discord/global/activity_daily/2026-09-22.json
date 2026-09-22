@@ -1,70 +1,91 @@
 {
   "date": "2026-09-22",
-  "messages": 7687,
+  "messages": 11277,
   "unique_authors": 240,
-  "reactions_total": 739,
-  "attachments": 415,
+  "reactions_total": 1367,
+  "attachments": 619,
   "channel_activity": {
-    "🔸morimens-game-chat": 4295,
-    "🔸한국어-채팅방": 3,
+    "🔸綜合討論": 261,
+    "🔸morimens-game-chat": 6465,
+    "🔸晒卡分享": 2,
+    "🔸相位对弈": 4,
+    "🔸한국어-채팅방": 14,
+    "🔸русский-канал": 14,
+    "🔸phòng-chat-tiếng-việt": 176,
+    "🔸canal-español": 368,
+    "🔸canal-português": 906,
+    "🔸ruang-obrolan-indonesia": 523,
+    "🔸ห้องสนทนาภาษาไทย": 25,
+    "🔸traphase": 30,
+    "🔸lore-chat": 68,
+    "🔸礼包码┊gift-codes": 1,
+    "🔸lets-count": 3,
+    "🔸team-building": 444,
+    "🔸general-chat": 554,
+    "🔸game-question": 1146,
+    "🔸机器人命令┊bot-commands": 33,
+    "刪牌區bug": 3,
+    "Horla: Wrong Icon for Dirge Psalm": 3,
+    "mistranslation": 2,
+    "Singularity Beacon doesn't work correctly on Daffodil's derived cards.": 4,
+    "faint's keyflare rouse not being translated to english": 1,
+    "G:Ogier X cost display bug": 1,
+    "Unable to login - Silver Communication Error": 1,
+    "Traphase portraits are too close up in some occasions": 1,
+    "Login Issues on Steam Deck": 1,
+    "D-tide Discussion": 24,
+    "V2.5.1.0 停服维护公告": 4,
+    "An Apology and Further Adjustments to the D-Effect Zone": 88,
+    "Nefraea + Arachne Posting": 2,
+    "DTide Meta Teams and Units": 4,
+    "【English Translation】Opinions Collection": 7,
+    "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 4,
+    "Early Team Building & Pulling Advice": 4,
+    "Give me suggestions on team build": 4,
+    "How To Play Anatoly?": 9,
     "🔸chaîne-française": 29,
-    "🔸русский-канал": 9,
-    "🔸phòng-chat-tiếng-việt": 25,
-    "🔸canal-español": 232,
-    "🔸canal-português": 839,
-    "🔸ruang-obrolan-indonesia": 59,
-    "🔸traphase": 27,
-    "🔸lore-chat": 12,
-    "🔸lets-count": 2,
-    "🔸team-building": 298,
-    "🔸general-chat": 534,
     "🔸邀请码互助┊swap-invitation-codes": 6,
-    "🔸game-question": 896,
-    "🔸机器人命令┊bot-commands": 27,
-    "刪牌區bug": 1,
-    "Horla: Wrong Icon for Dirge Psalm": 2,
     "Decompress D-tide difficulty back to before": 1,
     "When will a passive ability be added to these characters?": 1,
     "Alternate realms Enhancement": 8,
-    "D-tide Discussion": 7,
-    "V2.5.1.0 停服维护公告": 2,
-    "An Apology and Further Adjustments to the D-Effect Zone": 79,
-    "Nefraea + Arachne Posting": 1,
-    "【English Translation】Opinions Collection": 3,
-    "How To Play Anatoly?": 6,
-    "🔸綜合討論": 234,
-    "🔸相位对弈": 2,
-    "🔸ห้องสนทนาภาษาไทย": 11,
     "內部消息，負騎的加強爆料": 1,
     "是不是也該在這裡蓋個圖樓👁️": 1,
-    "mistranslation": 1,
-    "Singularity Beacon doesn't work correctly on Daffodil's derived cards.": 3,
     "Rework GOgier and Address the Treatment of Male Characters": 9,
     "Caraboo Dimensional Image : Corrosion hit the cap (???) at 999,999 stack per exalt": 4,
     "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 5,
     "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
     "Please rework how Propagation Caro works for the future units": 4,
     "V2.6.0.3 在线维护公告": 1,
-    "On the D-Effect Zone Adjustments": 2,
-    "V2.6.1 全新唤醒体✦负誓·奥吉尔┊New Awakener✦Ogier: Oathbound┊신규 각성체✦서약·오지에": 3,
-    "Early Team Building & Pulling Advice": 1
+    "On the D-Effect Zone Adjustments": 2
   },
   "hourly_activity": {
+    "8": 681,
+    "9": 429,
+    "10": 1147,
+    "11": 1300,
+    "7": 831,
     "3": 1280,
     "4": 811,
     "5": 624,
     "6": 625,
-    "7": 798,
     "0": 1191,
     "1": 1288,
     "2": 1070
   },
   "message_types": {
-    "19": 3079,
-    "0": 4592,
-    "20": 16
+    "19": 4470,
+    "0": 6783,
+    "20": 24
   },
   "top_reacted_messages": [
+    {
+      "id": "1551790995249692703",
+      "channel_id": "1355094251775459399",
+      "content": "**🎁 DC 63000守密人入驻达成礼 ┊ Discord 63,000 Keepers Milestone Reward**\n\n《忘却前夜》官方Discor",
+      "author": "morimensstaff06",
+      "reactions": 306,
+      "channel": "🔸礼包码┊gift-codes"
+    },
     {
       "id": "1551631172034101259",
       "channel_id": "1551598270084812840",
@@ -79,6 +100,14 @@
       "content": "I FEEL MY SHACKLES BREAKING",
       "author": "mosske",
       "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551753253006606497",
+      "channel_id": "1170692781216378960",
+      "content": "downvoted",
+      "author": "princess.goth",
+      "reactions": 9,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -98,11 +127,35 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1551790160553967726",
+      "channel_id": "1131839817982947429",
+      "content": "想借小骑士竟然刷不出来hhhh",
+      "author": "xyakoto",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1551754805792219146",
+      "channel_id": "1131839817982947429",
+      "content": "7 回合",
+      "author": "angbak",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
       "id": "1551654689773322361",
       "channel_id": "1170692781216378960",
       "content": "give me gwanda i am on my KNEES",
       "author": "mosske",
       "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1551770298494353498",
+      "channel_id": "1170692781216378960",
+      "content": "Finally got GMurphy E3!",
+      "author": "kevsalvador",
+      "reactions": 5,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -178,52 +231,12 @@
       "channel": "An Apology and Further Adjustments to the D-Effect Zone"
     },
     {
-      "id": "1551684664006156379",
-      "channel_id": "1170692781216378960",
-      "content": "It feels so expensive to build covenants",
-      "author": "devilishdesire222",
+      "id": "1551794659049873480",
+      "channel_id": "1131839817982947429",
+      "content": "借了隻小騎士打癲狂的我：",
+      "author": "iamnotbunny",
       "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551687313396858991",
-      "channel_id": "1170692781216378960",
-      "content": "No thoughts\nOnly pursuits",
-      "author": "theonewhomemes._32833",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551690090269380710",
-      "channel_id": "1170692781216378960",
-      "content": "real morimens players don't open the game",
-      "author": "direhands",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551690674712092698",
-      "channel_id": "1170692781216378960",
-      "content": "Can we change the translator bot so it doesn't translate but instead teaches you",
-      "author": "aurora3981",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551692896569131030",
-      "channel_id": "1170692781216378960",
-      "content": "First 410!",
-      "author": "infirma_persona",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1551728071688847440",
-      "channel_id": "1170692781216378960",
-      "content": "Yeah like what did he mean by this?",
-      "author": "corvim",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
+      "channel": "🔸綜合討論"
     }
   ]
 }
