@@ -1,11 +1,12 @@
 {
   "date": "2026-09-22",
-  "messages": 22,
+  "messages": 25,
   "unique_authors": 11,
   "reactions_total": 7,
-  "attachments": 3,
+  "attachments": 5,
   "channel_activity": {
-    "💬なんでも雑談（ネタバレあり）": 2,
+    "💬なんでも雑談（ネタバレあり）": 3,
+    "ニムフィーアの毒パ研究日誌": 2,
     "🔰初心者質問": 3,
     "🙋誰でも質問": 3,
     "描いたもの": 1,
@@ -14,14 +15,16 @@
     "ソナニール号の亡霊": 11
   },
   "hourly_activity": {
+    "7": 1,
+    "8": 2,
     "1": 5,
     "0": 15,
     "3": 1,
     "2": 1
   },
   "message_types": {
-    "19": 4,
-    "0": 18
+    "19": 5,
+    "0": 20
   },
   "top_reacted_messages": [
     {
