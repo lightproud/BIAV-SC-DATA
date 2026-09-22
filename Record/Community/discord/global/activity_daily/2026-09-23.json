@@ -1,33 +1,43 @@
 {
   "date": "2026-09-23",
-  "messages": 3738,
+  "messages": 5525,
   "unique_authors": 184,
-  "reactions_total": 276,
-  "attachments": 242,
+  "reactions_total": 428,
+  "attachments": 323,
   "channel_activity": {
-    "🔸綜合討論": 76,
-    "🔸morimens-game-chat": 2522,
+    "🔸綜合討論": 82,
+    "🔸morimens-game-chat": 3829,
+    "🔸한국어-채팅방": 2,
+    "🔸русский-канал": 235,
+    "🔸phòng-chat-tiếng-việt": 71,
+    "🔸canal-português": 149,
+    "🔸ruang-obrolan-indonesia": 12,
+    "🔸ห้องสนทนาภาษาไทย": 137,
+    "🔸traphase": 5,
+    "🔸lore-chat": 7,
+    "🔸频道建议┊server-suggestions": 2,
+    "🔸team-building": 143,
+    "🔸general-chat": 162,
+    "🔸game-question": 440,
+    "🔸机器人命令┊bot-commands": 11,
+    "redesign Gogier. his design and kit are boring": 6,
+    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 42,
+    "关于「轮转之相」唤醒规则说明概率显示异常的说明与致歉": 4,
+    "V2.5.1.0 停服维护公告": 4,
+    "morimens team generator!!": 1,
+    "【English Translation】Opinions Collection": 1,
+    "🛍️ 周边速报：「沉渊渡影」唤醒体徽章预售开启┊Merch News: \"Shadows Adrift\" Awakener Badges Pre-order Opens!": 2,
+    "Teambuilding help for dtides endgame and is GOgier recommended to pull for my case?": 1,
+    "1552093251966869598": 2,
     "🔸deutscher-chatraum": 3,
     "🔸chaîne-française": 103,
-    "🔸русский-канал": 183,
-    "🔸phòng-chat-tiếng-việt": 70,
     "🔸canal-español": 40,
-    "🔸canal-português": 133,
-    "🔸ruang-obrolan-indonesia": 4,
-    "🔸ห้องสนทนาภาษาไทย": 41,
-    "🔸traphase": 4,
-    "🔸team-building": 118,
-    "🔸general-chat": 134,
-    "🔸game-question": 225,
-    "🔸机器人命令┊bot-commands": 8,
     "摸魚 放點塗鴉✍️": 1,
     "堆图ing": 1,
     "菜雞四小強玩家的抱怨之旅new": 2,
-    "redesign Gogier. his design and kit are boring": 2,
     "Logging problem on steam": 1,
     "Traphase 24 and wheels with \"strike can select a target\" bug": 1,
     "The game expects us to be bilingual now?": 3,
-    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 38,
     "可以公告一份「已知bug清單」嗎 Can we get a “known issues” list?": 1,
     "On the Subject of Jenkins": 7,
     "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
@@ -35,24 +45,26 @@
     "Quadra / 4-Realm Rerun Banners": 2,
     "Please rework how Propagation Caro works for the future units": 2,
     "Login Issues on Steam Deck": 1,
-    "关于「轮转之相」唤醒规则说明概率显示异常的说明与致歉": 3,
-    "V2.5.1.0 停服维护公告": 2,
     "💖 表情丨Emotes": 3,
     "想問問融災組隊": 1,
     "Need help with team Building for D-Tide": 1
   },
   "hourly_activity": {
+    "5": 707,
+    "6": 775,
+    "7": 335,
     "0": 561,
     "1": 794,
     "2": 807,
     "3": 779,
-    "4": 767,
-    "5": 30
+    "4": 767
   },
   "message_types": {
-    "0": 2161,
-    "19": 1569,
-    "20": 4,
+    "0": 3173,
+    "19": 2341,
+    "18": 1,
+    "20": 5,
+    "21": 1,
     "23": 2,
     "46": 1,
     "4": 1
@@ -65,6 +77,22 @@
       "author": "octekg",
       "reactions": 21,
       "channel": "🔸canal-español"
+    },
+    {
+      "id": "1552096276328222823",
+      "channel_id": "1170692781216378960",
+      "content": "Shit im gonna get banned",
+      "author": "gersona6",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552097402473938974",
+      "channel_id": "1170692781216378960",
+      "content": "Use KogamiGPT",
+      "author": "jmjmjm6667",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1552002509894197299",
@@ -83,11 +111,35 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1552062903547330590",
+      "channel_id": "1170692781216378960",
+      "content": "These are all various tests for display damage versus actual damage after posses",
+      "author": "dracozion",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552096770329153613",
+      "channel_id": "1170692781216378960",
+      "content": "That I will make my gmurphy level 80",
+      "author": "serahh__",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1552005858521522177",
       "channel_id": "1170692781216378960",
       "content": "♂️",
       "author": "legendaryredz",
       "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552082434806382612",
+      "channel_id": "1170692781216378960",
+      "content": "<@1471414323883540501> <@595414429957619725> <@702430527994724432> <@77596106924",
+      "author": "angbak",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -105,6 +157,38 @@
       "author": "verdy_heh",
       "reactions": 4,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552083056532258817",
+      "channel_id": "1131839817982947429",
+      "content": "Lvl 1 小骑士op",
+      "author": "angbak",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1552075316267196467",
+      "channel_id": "1170692781216378960",
+      "content": "what the fuck it has way too many details",
+      "author": "corvim",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552095972983578765",
+      "channel_id": "1170692781216378960",
+      "content": "Yes i am the best cc in the morimens space",
+      "author": "gersona6",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552074941057212467",
+      "channel_id": "1552057717865193472",
+      "content": "Should have been a fortress defence unit lol, would have been so incredibly cool",
+      "author": "kullervo47.",
+      "reactions": 3,
+      "channel": "redesign Gogier. his design and kit are boring"
     },
     {
       "id": "1552022523334492285",
@@ -145,78 +229,6 @@
       "author": "nekoboyastra",
       "reactions": 3,
       "channel": "🔸team-building"
-    },
-    {
-      "id": "1551986752447586365",
-      "channel_id": "1170692781216378960",
-      "content": "Hows gogier chat?",
-      "author": "undeterredhomo",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552003165417640009",
-      "channel_id": "1170692781216378960",
-      "content": "I think it's better like this her hips are too wide otherwise\nIt distracts me",
-      "author": "theonewhomemes._32833",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552004398517850223",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "n0vella._",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552010121050062868",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "dracozion",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552010277422112848",
-      "channel_id": "1170692781216378960",
-      "content": "Very sus 22% dr but I managed \n<@193043069275209728> with ur tawil( she needs kf",
-      "author": "arem0972",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552011316498145362",
-      "channel_id": "1170692781216378960",
-      "content": "also hes not sexy hes repulsive",
-      "author": "princess.goth",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552012085238439988",
-      "channel_id": "1170692781216378960",
-      "content": "Tldr sunfall + 24 wheel is bis even if it starts weakest cuz it scales",
-      "author": "dracozion",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552012136274726964",
-      "channel_id": "1170692781216378960",
-      "content": "I'm so glad most of my family is dead",
-      "author": "corvim",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552013062179913828",
-      "channel_id": "1170692781216378960",
-      "content": "holy shit is that verity",
-      "author": "thereaperinthedresss",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }
