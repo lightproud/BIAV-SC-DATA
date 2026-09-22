@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-23",
+  "archived_at": "2026-09-22T23:30:36.301956+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] Il arrive parfois qu'on tombe sur un jeu qu'on n'a...",
+      "summary": "Il arrive parfois qu'on tombe sur un jeu qu'on n'attendait pas, en se disant que ce sera un énième truc d'un genre auquel on a joué mille fois....\r\nJ'ai téléchargé Morimens par curiosité car je trouvais les graphismes vraiment sympas et que j'aime bien les jeux de cartes d'une façon générale mais je n'en attendais rien de spécial. Absolument TOUT m'a cueilli dans ce jeu. L'univers de Lovecraft réinterprété de façon très poétique sans cependant enlever au côté horrifique (je suis un grand Fan de H.P.L, \"Cthulluh R'lyeh V'gah nagl Fhtagn!\" :D ). Le système de jeu est vraiment très bon et on n'est pas obligé de mettre de l'argent, le contenu gratuit est suffisant pour progresser à un rythme très correct, ce qui change de la pléthore de gachas sans âme qu'on voit débarquer par milliers ces dernières années. \r\nAu final, je peux comprendre qu'on puisse ne pas aimer ce jeu mais à titre personnel, j'ai été totalement pris dans cet univers à tout point de vue : graphismes, musiques, scénario, ambiance générale et bien sûr le jeu en lui-même. Il y a un vrai parti pris dans la réalisation et ça mérite d'être salué. En un mot comme en cent : J'adore!",
+      "source": "steam_review",
+      "time": "2026-09-22T22:07:24+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198003573721/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198003573721",
+      "tags": [
+        "french"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 15175,
+        "votes_up": 0,
+        "timestamp_created": 1790114844
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

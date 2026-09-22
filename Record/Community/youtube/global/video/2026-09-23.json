@@ -1,8 +1,8 @@
 {
   "date": "2026-09-23",
-  "archived_at": "2026-09-22T20:53:18.689550+00:00",
+  "archived_at": "2026-09-22T23:30:36.213512+00:00",
   "source": "youtube",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "Directo relax Morimens",
@@ -17,6 +17,40 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/vzoP4OVYBbY/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Low Investment G-Ogier/Hameln/Horla/Kath Lineup Showcase",
+      "summary": "https://www.twitch.tv/Nazoric https://www.youtube.com/@Cirozan/streams 0:00 Lineup Discussion 3:00 Low Investment Example ...",
+      "source": "youtube",
+      "time": "2026-09-22T22:43:11Z",
+      "url": "https://www.youtube.com/watch?v=dIgAlHZH4tY",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "Nazoric",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/dIgAlHZH4tY/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "망각전야(Morimens) 융재 1파 4급(광기) 클리어 영상 09.14- 09.27",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-09-22T22:30:49Z",
+      "url": "https://www.youtube.com/watch?v=IGX9CGbcrG4",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "앤농",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/IGX9CGbcrG4/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
