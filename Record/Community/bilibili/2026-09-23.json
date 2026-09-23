@@ -1,9 +1,43 @@
 {
   "date": "2026-09-23",
-  "archived_at": "2026-09-23T03:15:34.095996+00:00",
+  "archived_at": "2026-09-23T10:46:39.292948+00:00",
   "source": "bilibili",
-  "item_count": 3,
+  "item_count": 7,
   "items": [
+    {
+      "title": "【忘却前夜】65级零氪无超限 2癫狂1噩梦2困难融灾450分记录(9.14-9.28)",
+      "summary": "本期融灾道中都比较恶心，不能像上期融灾一样低配逃两张图，尤其是二图上期逃课太多...\n但整体思路还是一样的，多逃一张癫狂就少打一张噩梦，13两张图建议尽量癫狂。\n然后是明显感觉到困难难度很轻松，一旦到了噩梦就直接打不过。\n下期改版后加两个中间难度应该会好很多，之后拼好队也正式回归。\n新融灾推出后每期都在改，抽卡规划也不用做了直接不抽等背刺好了。\n提前祝大家中秋和国庆快乐~",
+      "source": "bilibili",
+      "time": "2026-09-23T04:38:46+00:00",
+      "url": "https://www.bilibili.com/video/av117318491376497",
+      "engagement": 519,
+      "is_hot": false,
+      "author": "天辉信使Official",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/ea5ff2e4678a9c4792dab6cb5324d772ac6bbf4c.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "［相位］相 位 有 大 运",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-23T08:10:10+00:00",
+      "url": "https://www.bilibili.com/video/av117319330171961",
+      "engagement": 310,
+      "is_hot": false,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/e0fabaa1a9f88e7e323eee26d3708535eec65ded.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】电脑里有一款无牌可打的卡牌游戏",
       "summary": "叠甲游戏理解为零随便打着玩，全靠造物神力",
@@ -19,6 +53,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/45dbd4275e05c56c2db735017bad536f1de81cb7.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "第二章：新人实用的五个小技巧",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-23T07:00:09+00:00",
+      "url": "https://www.bilibili.com/video/av117319045093354",
+      "engagement": 204,
+      "is_hot": false,
+      "author": "绘绘绘绘名",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/2b6305507cef3fe8c4f68c4a5913a081b8dcb0c8.jpg",
       "content_type": "video"
     },
     {
@@ -53,6 +104,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/d6c87615b550f93102439c2cc3e493af9b8587f4.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜 负誓C 癫狂列车大虫子",
+      "summary": "其实作为对单主C来说输出还不错\n只要你能想办法结算全部侵蚀\n如果有矫正器的话伤害应该会高不少\n\n可能有用的小技巧是可以先打死前排再丢觉醒\n这样能把那回合的侵蚀砸到后排上\n\n背景音乐：G.F. Händel - &quot;Lascia ch&#x27;io pianga&quot;",
+      "source": "bilibili",
+      "time": "2026-09-23T09:24:13+00:00",
+      "url": "https://www.bilibili.com/video/av117319615386944",
+      "engagement": 68,
+      "is_hot": false,
+      "author": "夢遊遊遊遊",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/a487fd7e51e66d372ba720dd70375318e14a6c75.jpg",
       "content_type": "video"
     }
   ]
