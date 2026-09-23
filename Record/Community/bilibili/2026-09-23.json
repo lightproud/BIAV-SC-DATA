@@ -1,8 +1,8 @@
 {
   "date": "2026-09-23",
-  "archived_at": "2026-09-23T10:46:39.292948+00:00",
+  "archived_at": "2026-09-23T16:06:14.446707+00:00",
   "source": "bilibili",
-  "item_count": 7,
+  "item_count": 9,
   "items": [
     {
       "title": "【忘却前夜】65级零氪无超限 2癫狂1噩梦2困难融灾450分记录(9.14-9.28)",
@@ -73,6 +73,23 @@
       "content_type": "video"
     },
     {
+      "title": "〖相位〗出血+毒vs献祭",
+      "summary": "诞墨命轮献祭太恐怖了，吓哭了，后悔诞墨复刻那会没抽了",
+      "source": "bilibili",
+      "time": "2026-09-23T02:38:39+00:00",
+      "url": "https://www.bilibili.com/video/av117318021683053",
+      "engagement": 166,
+      "is_hot": false,
+      "author": "只想摸鱼的屑-",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/e1c83fb4af972e05442041f970797a59bb6ca5b3.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "【忘却前夜】双鸟5-7癫狂圣子白夜 9.14期融灾 红悸鸟弟试玩",
       "summary": "",
       "source": "bilibili",
@@ -104,6 +121,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/d6c87615b550f93102439c2cc3e493af9b8587f4.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜Morimens】意识潜游「五日谈」",
+      "summary": "《忘却前夜》意识潜游「五日谈」开放 纯享入梦剧情！\n- Psyche Deepdive: Five-Day Tales -\n\n已过的世代，无人记念，将来的世代，后来的人也不记念。\n对逝去的执着犹如捕风，所以我恨恶生命。",
+      "source": "bilibili",
+      "time": "2026-09-23T12:09:49+00:00",
+      "url": "https://www.bilibili.com/video/av117320185875477",
+      "engagement": 101,
+      "is_hot": false,
+      "author": "井上银溪",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/d75cdd9c191036fc3a6df46a399ba4cfd97da5c3.jpg",
       "content_type": "video"
     },
     {

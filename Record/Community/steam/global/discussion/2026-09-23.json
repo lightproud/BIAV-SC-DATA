@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-23",
+  "archived_at": "2026-09-23T16:06:14.448220+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam论坛] Invitation Code",
+      "summary": "1D1EGZ10U1",
+      "source": "steam_discussion",
+      "time": "2026-09-23T15:34:02+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/603039786130771940/",
+      "engagement": 237,
+      "is_hot": true,
+      "author": "Znye",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}

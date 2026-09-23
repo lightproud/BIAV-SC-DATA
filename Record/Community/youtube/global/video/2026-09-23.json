@@ -1,9 +1,26 @@
 {
   "date": "2026-09-23",
-  "archived_at": "2026-09-23T10:46:39.294122+00:00",
+  "archived_at": "2026-09-23T16:06:14.447412+00:00",
   "source": "youtube",
-  "item_count": 7,
+  "item_count": 9,
   "items": [
+    {
+      "title": "太陽の下へ #忘却前夜 #shorts",
+      "summary": "音楽：BGMer https://bgmer.net/",
+      "source": "youtube",
+      "time": "2026-09-23T11:26:20Z",
+      "url": "https://www.youtube.com/watch?v=0cLims95y_g",
+      "engagement": 601,
+      "is_hot": false,
+      "author": "たじまる(tajimal)",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/0cLims95y_g/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
     {
       "title": "Directo relax Morimens",
       "summary": "No olviden unirse al discord :). https://discord.gg/UgmMCae3Sg.",
@@ -34,6 +51,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/wegr4jK2uQo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "イベントやっていきます！【#忘却前夜】",
+      "summary": "steamURL https://store.steampowered.com/app/4226130/_/",
+      "source": "youtube",
+      "time": "2026-09-23T14:12:33Z",
+      "url": "https://www.youtube.com/watch?v=CxC1lvrc-O0",
+      "engagement": 13,
+      "is_hot": false,
+      "author": "バグッチャーYT",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/CxC1lvrc-O0/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
