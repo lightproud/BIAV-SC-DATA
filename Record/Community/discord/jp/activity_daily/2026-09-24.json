@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-24",
+  "messages": 12,
+  "unique_authors": 6,
+  "reactions_total": 0,
+  "attachments": 1,
+  "channel_activity": {
+    "💬なんでも雑談（ネタバレあり）": 6,
+    "誰でもOKグロ版野次馬スレ　2世": 6
+  },
+  "hourly_activity": {
+    "0": 11,
+    "1": 1
+  },
+  "message_types": {
+    "0": 9,
+    "19": 3
+  },
+  "top_reacted_messages": []
+}
