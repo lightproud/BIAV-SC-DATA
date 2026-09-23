@@ -1,8 +1,8 @@
 {
   "date": "2026-09-24",
-  "archived_at": "2026-09-23T16:06:14.447809+00:00",
+  "archived_at": "2026-09-23T21:04:50.805267+00:00",
   "source": "bahamut",
-  "item_count": 22,
+  "item_count": 25,
   "items": [
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
@@ -148,6 +148,19 @@
       "platform_region": ""
     },
     {
+      "title": "【討論】負誓·奧吉爾技能分析 (24/9/2026 臨時維護，SP奧吉爾加強)",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-23T21:04:03.307779+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1581&tnum=2",
+      "engagement": 17,
+      "is_hot": false,
+      "author": "k93522920",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
       "title": "【情報】V2.6.1 版本前瞻：倘若榮光不復、新命輪「誕於黑暗」；卡斯托爾、彌利亞姆、徐復刻",
       "summary": "",
       "source": "bahamut",
@@ -278,6 +291,19 @@
       "platform_region": ""
     },
     {
+      "title": "【問題】求求組隊建議",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-23T21:04:03.307812+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1593&tnum=1",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "colorless23",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
       "title": "【情報】V2.6.1 廣播劇《歧路亡羊》",
       "summary": "",
       "source": "bahamut",
@@ -286,6 +312,19 @@
       "engagement": 2,
       "is_hot": false,
       "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【閒聊】本期融災難度降低",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-23T21:04:03.307737+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1594&tnum=1",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "aa0973721147",
       "tags": [],
       "lang": "zh",
       "platform_region": ""
