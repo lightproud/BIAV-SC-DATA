@@ -1,8 +1,8 @@
 {
   "date": "2026-09-22",
-  "archived_at": "2026-09-22T23:30:36.211088+00:00",
+  "archived_at": "2026-09-23T03:15:34.093231+00:00",
   "source": "bilibili",
-  "item_count": 12,
+  "item_count": 13,
   "items": [
     {
       "title": "[忘却前夜]两个兑换码共七百银芯和五个无垢，sp小骑士不推荐抽，太弱了，甚至都比不上血希大人（当然血希大人也是很强的），和蚀萝相比，简直一个天一个地",
@@ -189,6 +189,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/b48c408ae04434133868794293a9c778be8a7a5d.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "只打噩梦的旧融灾记录26.09",
+      "summary": "配置不是不能打癫狂N7，更别说还有逃课\n但是太坐牢了，配置多高都坐牢\n然而大伙都在晒N7记录，N6就集中发一发不做参考了\n不知道更新融灾以后还打不打得过N6",
+      "source": "bilibili",
+      "time": "2026-09-22T14:25:40+00:00",
+      "url": "https://www.bilibili.com/video/av117315136001794",
+      "engagement": 129,
+      "is_hot": false,
+      "author": "子夜唯雪",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/c85f31790fa5b4cd69893d9ce5eee748a0ef5d0a.jpg",
       "content_type": "video"
     },
     {

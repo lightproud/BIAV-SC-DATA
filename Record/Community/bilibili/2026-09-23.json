@@ -1,9 +1,43 @@
 {
   "date": "2026-09-23",
-  "archived_at": "2026-09-22T23:30:36.213919+00:00",
+  "archived_at": "2026-09-23T03:15:34.095996+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
+    {
+      "title": "【忘却前夜】电脑里有一款无牌可打的卡牌游戏",
+      "summary": "叠甲游戏理解为零随便打着玩，全靠造物神力",
+      "source": "bilibili",
+      "time": "2026-09-22T20:06:03+00:00",
+      "url": "https://www.bilibili.com/video/av117316478044819",
+      "engagement": 210,
+      "is_hot": false,
+      "author": "人生轮转百回",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/45dbd4275e05c56c2db735017bad536f1de81cb7.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】双鸟5-7癫狂圣子白夜 9.14期融灾 红悸鸟弟试玩",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-23T00:00:00+00:00",
+      "url": "https://www.bilibili.com/video/av117315890842391",
+      "engagement": 152,
+      "is_hot": false,
+      "author": "上好佳薯片丶",
+      "tags": [
+        "单机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/0be83bea40dae8ae43b03c64ca79192c1e4883ff.jpg",
+      "content_type": "video"
+    },
     {
       "title": "[忘却前夜]羊皮哈奥7t噩梦食尸鬼，0启负誓·奥吉尔副c试玩",
       "summary": "爆伤皮皮可真强，重新给我种草羊皮了。",

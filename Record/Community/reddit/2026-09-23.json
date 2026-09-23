@@ -1,8 +1,8 @@
 {
   "date": "2026-09-23",
-  "archived_at": "2026-09-22T23:30:36.296084+00:00",
+  "archived_at": "2026-09-23T03:15:34.163588+00:00",
   "source": "reddit",
-  "item_count": 7,
+  "item_count": 9,
   "items": [
     {
       "title": "Tawil by Carpe_Diem°",
@@ -91,6 +91,32 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/eslam098",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Darker than darkness WoD",
+      "summary": "whos the better user for this WoD? i tought abt mouchete and GLotan but i want yo know another characters https://preview.redd.it/ggvjge4iy5rh1.png?width=862&amp;format=png&amp;auto=webp&amp;s=b747d7b22b49ba9c395dba750d1232b40c7597df  &#32; submitted by &#32;  /u/Q11iy   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-23T00:23:30+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wnqsep/darker_than_darkness_wod/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Q11iy",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Buffs for G Ogier?",
+      "summary": "I don’t think we’ve had such a skippable unit released in quite a while. Honestly surprising for this to be the first release post nightmare and madness dtide. Do you think buffs are warranted and what does he need?  &#32; submitted by &#32;  /u/monchers   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-23T03:05:59+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wnucah/buffs_for_g_ogier/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/monchers",
       "tags": [],
       "lang": "en",
       "platform_region": ""
