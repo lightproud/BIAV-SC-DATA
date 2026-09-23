@@ -1,35 +1,60 @@
 {
   "date": "2026-09-24",
-  "messages": 413,
-  "unique_authors": 59,
-  "reactions_total": 100,
-  "attachments": 47,
+  "messages": 4769,
+  "unique_authors": 221,
+  "reactions_total": 642,
+  "attachments": 353,
   "channel_activity": {
-    "🔸綜合討論": 36,
-    "🔸morimens-game-chat": 271,
-    "🔸русский-канал": 4,
-    "🔸phòng-chat-tiếng-việt": 21,
-    "🔸canal-español": 4,
-    "🔸canal-português": 7,
-    "🔸ruang-obrolan-indonesia": 3,
-    "🔸ห้องสนทนาภาษาไทย": 2,
-    "🔸team-building": 19,
-    "🔸general-chat": 3,
-    "🔸game-question": 35,
+    "🔸綜合討論": 166,
+    "🔸morimens-game-chat": 2907,
+    "🔸晒卡分享": 1,
+    "🔸日本語チャンネル": 2,
+    "🔸한국어-채팅방": 1,
+    "🔸deutscher-chatraum": 5,
+    "🔸chaîne-française": 3,
+    "🔸русский-канал": 33,
+    "🔸phòng-chat-tiếng-việt": 138,
+    "🔸canal-español": 79,
+    "🔸canal-português": 387,
+    "🔸ruang-obrolan-indonesia": 9,
+    "🔸ห้องสนทนาภาษาไทย": 35,
+    "🔸traphase": 96,
+    "🔸lore-chat": 24,
+    "🔸lets-count": 2,
+    "🔸team-building": 72,
+    "🔸general-chat": 107,
+    "🔸邀请码互助┊swap-invitation-codes": 2,
+    "🔸game-question": 620,
+    "🔸机器人命令┊bot-commands": 3,
+    "快乐摸鱼中……": 1,
+    "Hameln Rondino Effect has No Description": 1,
+    "Logging problem on steam": 6,
+    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 22,
+    "D-tide Discussion": 7,
+    "融灾禁区难度异常问题说明及补偿┊D-Effect Zone Difficulty Anomaly Notice and Compensation": 3,
+    "V2.6.1.2 在线维护公告": 21,
+    "V2.5.1.0 停服维护公告": 2,
+    "Our favorite guppy caecus": 1,
+    "Ogier: Oathbound🌹": 5,
+    "moss’s art dump": 2,
+    "The Arc 1 GDoll Incident Compilation": 1,
+    "【English Translation】Opinions Collection": 2,
     "是不是也該在這裡蓋個圖樓👁️": 1,
     "Jenkin's quote bug": 1,
-    "When will a passive ability be added to these characters?": 1,
-    "V2.6.1.2 在线维护公告": 3,
-    "V2.5.1.0 停服维护公告": 1,
-    "Ogier: Oathbound🌹": 1
+    "When will a passive ability be added to these characters?": 1
   },
   "hourly_activity": {
-    "0": 413
+    "0": 941,
+    "1": 857,
+    "2": 788,
+    "4": 947,
+    "3": 942,
+    "5": 294
   },
   "message_types": {
-    "0": 228,
-    "19": 182,
-    "20": 3
+    "0": 2928,
+    "19": 1834,
+    "20": 7
   },
   "top_reacted_messages": [
     {
@@ -41,11 +66,83 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1552380204213735424",
+      "channel_id": "1170692781216378960",
+      "content": "whew that was hard. never again 525",
+      "author": "monchi3524",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552355112826052618",
+      "channel_id": "1170692781216378960",
+      "content": "Totally legitimate madness mouchette clear btw",
+      "author": "tatsutets",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552382464742260848",
+      "channel_id": "1170692781216378960",
+      "content": "That's still 215 standard pulls! <:Salvador_sip:1356053106038673610>",
+      "author": "fairlysadpanda",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552407689907277916",
+      "channel_id": "1170692781216378960",
+      "content": "IT WAS 90%",
+      "author": "verdy_heh",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552390649960202291",
+      "channel_id": "1170692781216378960",
+      "content": "first and only time I'll probably ever taste this lmao",
+      "author": "w1nt3r5",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552424914034761729",
+      "channel_id": "1170692781216378960",
+      "content": "remove pontos from the game",
+      "author": "direhands",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552425048088903802",
+      "channel_id": "1170692781216378960",
+      "content": "just remove pandia",
+      "author": "poki5539",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552372128811061248",
+      "channel_id": "1552372128811061248",
+      "content": "放置这两天一下画的鸟弟和羊妈……我亲亲＾3＾",
+      "author": "zheqingmei_72139",
+      "reactions": 6,
+      "channel": "快乐摸鱼中……"
+    },
+    {
       "id": "1552351516470288448",
       "channel_id": "1170692781216378960",
       "content": "why is every genesis miserable and then glotan is just aura and hype moment",
       "author": "dores3331",
       "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552376805518745646",
+      "channel_id": "1170692781216378960",
+      "content": "Wow, certified 500 player, totally fairly achieved",
+      "author": "sirtealot",
+      "reactions": 5,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -57,139 +154,67 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1552352614270767215",
+      "id": "1552354980827238471",
+      "channel_id": "1131839817982947429",
+      "content": "超了1點",
+      "author": "heikwok",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1552387005839577100",
       "channel_id": "1170692781216378960",
-      "content": "HEY GUYS CHECK OUT THIS TOTALLY LEGIT AND NOT AT ALL PAINFUL MADNESS CLEAR 😭",
-      "author": "mosske",
+      "content": "everyone got what they wanted. A4 level ditide",
+      "author": "monchi3524",
       "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1552353755184242729",
+      "id": "1552388352601227295",
       "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "princess.goth",
+      "content": "> Kath is good\n\n> Looks inside \n\n> Horla and Castor",
+      "author": "601671_",
       "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1552351630777913436",
+      "id": "1552406418219466863",
       "channel_id": "1170692781216378960",
-      "content": "Isnt gdoll also aura",
-      "author": "kevsalvador",
-      "reactions": 3,
+      "content": "my gogier looks dif",
+      "author": "gersona6",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1552351645088612373",
+      "id": "1552412134061908048",
       "channel_id": "1170692781216378960",
-      "content": "oh and lesbianism",
-      "author": "lukityswoogity",
-      "reactions": 3,
+      "content": "Bro fr?",
+      "author": "dracozion",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1552350286645952542",
-      "channel_id": "1170692781216378960",
-      "content": "oh, i see, the left hand side says lvl 96 but the monsters are only level 79?  w",
-      "author": "serene.dream",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552351347209281578",
-      "channel_id": "1170692781216378960",
-      "content": "i had to ecog 😭",
-      "author": "mosske",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552351499777216533",
-      "channel_id": "1170692781216378960",
-      "content": "gogier saved morimens (for a week)",
-      "author": "lukityswoogity",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552351574746075207",
-      "channel_id": "1170692781216378960",
-      "content": "it's time to hit 320",
-      "author": "direhands",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552351733764722729",
-      "channel_id": "1170692781216378960",
-      "content": "lotan only exist to look cool and to scissor helot whenever",
-      "author": "lukityswoogity",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552352340567130163",
+      "id": "1552414123726217287",
       "channel_id": "1170692781216378960",
       "content": "",
-      "author": "not_blueberry",
-      "reactions": 2,
+      "author": "begonethot8290",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1552352632973041707",
+      "id": "1552415868112216077",
       "channel_id": "1170692781216378960",
-      "content": "see guys corpo aint bad in madness",
-      "author": "tatsutets",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552352946887331894",
-      "channel_id": "1170692781216378960",
-      "content": "1 so technically 3 with dtide rules",
-      "author": "mosske",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552353099191033898",
-      "channel_id": "1170692781216378960",
-      "content": "......glup",
-      "author": "not_blueberry",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552353348878073958",
-      "channel_id": "1170692781216378960",
-      "content": "this is intended",
-      "author": "princess.goth",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552353811589365791",
-      "channel_id": "1170692781216378960",
-      "content": "and apologize cores",
-      "author": "princess.goth",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552353855038296185",
-      "channel_id": "1170692781216378960",
-      "content": "everyone say thx u gogier",
+      "content": "just draw her naked whats the big deal <:Ramona_tuff_:1441426630420467753>",
       "author": "lukityswoogity",
-      "reactions": 2,
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1552353940123951174",
+      "id": "1552421359735283827",
       "channel_id": "1170692781216378960",
-      "content": "yes",
-      "author": "2ndselna",
-      "reactions": 2,
+      "content": "below 500= lazy\nabove 500= bug abuse",
+      "author": "violettaautumn",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     }
   ]
