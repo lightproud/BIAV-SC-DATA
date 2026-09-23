@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-24",
+  "messages": 413,
+  "unique_authors": 59,
+  "reactions_total": 100,
+  "attachments": 47,
+  "channel_activity": {
+    "🔸綜合討論": 36,
+    "🔸morimens-game-chat": 271,
+    "🔸русский-канал": 4,
+    "🔸phòng-chat-tiếng-việt": 21,
+    "🔸canal-español": 4,
+    "🔸canal-português": 7,
+    "🔸ruang-obrolan-indonesia": 3,
+    "🔸ห้องสนทนาภาษาไทย": 2,
+    "🔸team-building": 19,
+    "🔸general-chat": 3,
+    "🔸game-question": 35,
+    "是不是也該在這裡蓋個圖樓👁️": 1,
+    "Jenkin's quote bug": 1,
+    "When will a passive ability be added to these characters?": 1,
+    "V2.6.1.2 在线维护公告": 3,
+    "V2.5.1.0 停服维护公告": 1,
+    "Ogier: Oathbound🌹": 1
+  },
+  "hourly_activity": {
+    "0": 413
+  },
+  "message_types": {
+    "0": 228,
+    "19": 182,
+    "20": 3
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1552350584307327066",
+      "channel_id": "1131839817982947429",
+      "content": "6767",
+      "author": "ka_0414",
+      "reactions": 18,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1552351516470288448",
+      "channel_id": "1170692781216378960",
+      "content": "why is every genesis miserable and then glotan is just aura and hype moment",
+      "author": "dores3331",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552351155806539856",
+      "channel_id": "1170692781216378960",
+      "content": "Ok light i forgive you",
+      "author": "gersona6",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552352614270767215",
+      "channel_id": "1170692781216378960",
+      "content": "HEY GUYS CHECK OUT THIS TOTALLY LEGIT AND NOT AT ALL PAINFUL MADNESS CLEAR 😭",
+      "author": "mosske",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552353755184242729",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552351630777913436",
+      "channel_id": "1170692781216378960",
+      "content": "Isnt gdoll also aura",
+      "author": "kevsalvador",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552351645088612373",
+      "channel_id": "1170692781216378960",
+      "content": "oh and lesbianism",
+      "author": "lukityswoogity",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552350286645952542",
+      "channel_id": "1170692781216378960",
+      "content": "oh, i see, the left hand side says lvl 96 but the monsters are only level 79?  w",
+      "author": "serene.dream",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552351347209281578",
+      "channel_id": "1170692781216378960",
+      "content": "i had to ecog 😭",
+      "author": "mosske",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552351499777216533",
+      "channel_id": "1170692781216378960",
+      "content": "gogier saved morimens (for a week)",
+      "author": "lukityswoogity",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552351574746075207",
+      "channel_id": "1170692781216378960",
+      "content": "it's time to hit 320",
+      "author": "direhands",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552351733764722729",
+      "channel_id": "1170692781216378960",
+      "content": "lotan only exist to look cool and to scissor helot whenever",
+      "author": "lukityswoogity",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552352340567130163",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "not_blueberry",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552352632973041707",
+      "channel_id": "1170692781216378960",
+      "content": "see guys corpo aint bad in madness",
+      "author": "tatsutets",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552352946887331894",
+      "channel_id": "1170692781216378960",
+      "content": "1 so technically 3 with dtide rules",
+      "author": "mosske",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552353099191033898",
+      "channel_id": "1170692781216378960",
+      "content": "......glup",
+      "author": "not_blueberry",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552353348878073958",
+      "channel_id": "1170692781216378960",
+      "content": "this is intended",
+      "author": "princess.goth",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552353811589365791",
+      "channel_id": "1170692781216378960",
+      "content": "and apologize cores",
+      "author": "princess.goth",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552353855038296185",
+      "channel_id": "1170692781216378960",
+      "content": "everyone say thx u gogier",
+      "author": "lukityswoogity",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552353940123951174",
+      "channel_id": "1170692781216378960",
+      "content": "yes",
+      "author": "2ndselna",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
