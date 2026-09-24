@@ -1,18 +1,35 @@
 {
   "date": "2026-09-25",
-  "messages": 7,
-  "unique_authors": 3,
-  "reactions_total": 0,
-  "attachments": 3,
+  "messages": 30,
+  "unique_authors": 10,
+  "reactions_total": 1,
+  "attachments": 7,
   "channel_activity": {
-    "💬なんでも雑談（ネタバレあり）": 6,
-    "🙋誰でも質問": 1
+    "💬なんでも雑談（ネタバレあり）": 17,
+    "🔰初心者質問": 8,
+    "🙋誰でも質問": 2,
+    "ソナニール号の亡霊": 3
   },
   "hourly_activity": {
+    "1": 8,
+    "2": 5,
+    "3": 5,
+    "5": 1,
+    "4": 4,
     "0": 7
   },
   "message_types": {
-    "0": 7
+    "0": 27,
+    "19": 3
   },
-  "top_reacted_messages": []
+  "top_reacted_messages": [
+    {
+      "id": "1552757507217162431",
+      "channel_id": "1391701560496623688",
+      "content": "消えません！\nコーパサントの解放の「発見」はデッキのカードをドローしてる訳では無くて、パーティーメンバーの攻撃防御とスキルをコピーしてランダムに持ってきます\nな",
+      "author": "yasaizujusu",
+      "reactions": 1,
+      "channel": "🔰初心者質問"
+    }
+  ]
 }
