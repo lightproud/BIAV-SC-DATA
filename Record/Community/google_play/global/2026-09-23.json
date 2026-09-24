@@ -1,8 +1,8 @@
 {
   "date": "2026-09-23",
-  "archived_at": "2026-09-24T11:06:21.450938+00:00",
+  "archived_at": "2026-09-24T16:29:39.850469+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
     {
       "title": "[Google Play 好评] ★5 so far ni game udah bagus sih aku udah m",
@@ -15,6 +15,34 @@
       "author": "Muhammad Zulfikar",
       "tags": [],
       "lang": "id",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 캐디도 개이쁘고 스토리도 너무 좋음 근데 아무래도 번역이 ai여서 그런가",
+      "summary": "캐디도 개이쁘고 스토리도 너무 좋음 근데 아무래도 번역이 ai여서 그런가 부자연스러움",
+      "source": "google_play",
+      "time": "2026-09-23T14:59:21+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-99842389-2096-423c-8977-b960a700340b",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "七種 茨_",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 中评] ★3 지금 3D로 오픈월드게임을 아무런 버벅임 없이 돌리는 컴퓨터가 이 게임은",
+      "summary": "지금 3D로 오픈월드게임을 아무런 버벅임 없이 돌리는 컴퓨터가 이 게임은 매번 렉으로 버벅이면서 플레이하는중인데 이게 맞음? 아니 번역이 구데기ai로 치환되는게 애교로 보일 정도임",
+      "source": "google_play",
+      "time": "2026-09-23T14:13:01+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-91b57773-d4da-4a2b-a226-6f6de113de4a",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Panda Baka_",
+      "tags": [],
+      "lang": "ko",
       "platform_region": "",
       "region": "global"
     }

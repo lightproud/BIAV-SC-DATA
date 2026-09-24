@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-24",
+  "archived_at": "2026-09-24T16:29:39.778709+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] 豪看",
+      "summary": "豪看",
+      "source": "steam_review",
+      "time": "2026-09-24T11:42:30+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199522979886/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199522979886",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 264,
+        "votes_up": 0,
+        "timestamp_created": 1790250150
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

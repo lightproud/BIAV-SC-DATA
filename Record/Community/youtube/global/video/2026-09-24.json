@@ -1,8 +1,8 @@
 {
   "date": "2026-09-24",
-  "archived_at": "2026-09-24T11:06:21.314391+00:00",
+  "archived_at": "2026-09-24T16:29:39.687591+00:00",
   "source": "youtube",
-  "item_count": 11,
+  "item_count": 15,
   "items": [
     {
       "title": "[Morimens] New D-Tide Bug/Exploit. Free 525. No voice cause I&#39;m at work, secretly streaming.",
@@ -73,6 +73,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "[Morimens] Gogier First turn 15 million DMG with no WHALE supports. What&#39;s the point of balance?",
+      "summary": "https://buymeacoffee.com/flares https://discord.gg/yypzJhgcUP - Personal Flares Discord ...",
+      "source": "youtube",
+      "time": "2026-09-24T14:31:22Z",
+      "url": "https://www.youtube.com/watch?v=5sZuKaVhbfk",
+      "engagement": 348,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/5sZuKaVhbfk/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "[Morimens] D-Tide 525 Madness/Nightmare Exploit/BUG. Get your free 525 or 500 Score NOW.",
       "summary": "https://buymeacoffee.com/flares https://discord.gg/yypzJhgcUP - Personal Flares Discord ...",
       "source": "youtube",
@@ -90,6 +107,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Morimens \\\\ Быстренько на Маднесе пролетим д-зону пока она багованая",
+      "summary": "Добровольная поддержка: https://www.donationalerts.com/r/closetom Напрямую: 2200700154063498 Т-Банк Соцсети: ...",
+      "source": "youtube",
+      "time": "2026-09-24T13:51:18Z",
+      "url": "https://www.youtube.com/watch?v=3ZBDj9KMsfk",
+      "engagement": 172,
+      "is_hot": false,
+      "author": "Closetom",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/3ZBDj9KMsfk/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Morimens Arc 2 Chapter 6 Hard",
       "summary": "",
       "source": "youtube",
@@ -102,6 +136,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/HfoaJtpnnEQ/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens \\\\ Халявные 500 очков в Д-зоне для всех (почти) (210)",
+      "summary": "Стрим, где быстренько пролетели все уровни: https://www.youtube.com/live/3ZBDj9KMsfk Соцсети: Стримы на твич: ...",
+      "source": "youtube",
+      "time": "2026-09-24T14:43:53Z",
+      "url": "https://www.youtube.com/watch?v=9glUkX5_G1U",
+      "engagement": 24,
+      "is_hot": false,
+      "author": "Closetom",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/9glUkX5_G1U/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -153,6 +204,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/b0VmWxsQU3w/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens - D-Tide - W3 Nightmare - Sept 14 2026 - Faint Poison",
+      "summary": "DTide for Sept 14 2026 got a bug in the middle of the week of Sept 21 that made DTide scaling similar to past A5 DTide. Wanted ...",
+      "source": "youtube",
+      "time": "2026-09-24T15:16:26Z",
+      "url": "https://www.youtube.com/watch?v=3tMQAkVG4As",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "Ringgo",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/3tMQAkVG4As/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

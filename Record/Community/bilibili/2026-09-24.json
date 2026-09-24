@@ -1,8 +1,8 @@
 {
   "date": "2026-09-24",
-  "archived_at": "2026-09-24T11:06:21.315096+00:00",
+  "archived_at": "2026-09-24T16:29:39.686799+00:00",
   "source": "bilibili",
-  "item_count": 3,
+  "item_count": 7,
   "items": [
     {
       "title": "【忘却前夜】融灾难度bug 人人都能拿满银芯奖励",
@@ -22,6 +22,40 @@
       "content_type": "video"
     },
     {
+      "title": "负骑用自己的加强机会换本期融灾水温降低，无愧骑士之名！",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-24T11:57:43+00:00",
+      "url": "https://www.bilibili.com/video/av117325890062121",
+      "engagement": 372,
+      "is_hot": false,
+      "author": "黯陌_biko",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/8e1df986318a523450d38441c0bbe1feb0472b09.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】已严肃偷吃本期525",
+      "summary": "我必须考虑这是否是我此生仅有的机会……",
+      "source": "bilibili",
+      "time": "2026-09-24T13:04:48+00:00",
+      "url": "https://www.bilibili.com/video/av117326141723105",
+      "engagement": 371,
+      "is_hot": false,
+      "author": "花岚天音Amane",
+      "tags": [
+        "桌游棋牌"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/12d772519811e82c07db87486a504f4ae022304f.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "负誓奥吉尔逝玩 老癫狂2图红花help区骑单回合千万瞬杀鸟哥二阶段",
       "summary": "发晚了.....死猫调整的一手好难度",
       "source": "bilibili",
@@ -36,6 +70,40 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/02971eb0b3f223853d828dc6901870594ba37bd6.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】BUG前夜融灾525批发手慢无（9.14-9.28）",
+      "summary": "摸了个无回溯525。现在的融灾癫狂难度是以前的困难，如果有想打525挂主页的抓紧机会。",
+      "source": "bilibili",
+      "time": "2026-09-24T11:29:56+00:00",
+      "url": "https://www.bilibili.com/video/av117325772621733",
+      "engagement": 255,
+      "is_hot": false,
+      "author": "Potatis_土豆",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/92d4afd7e7f6d13e546833dca5040b3d33e151b0.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "〖相位〗出血+毒+献祭vs毒+麻痹",
+      "summary": "我觉得我这队现在似乎应该叫debuff队了……\n等我研究研究怎么把迟缓和麻痹塞里边",
+      "source": "bilibili",
+      "time": "2026-09-24T06:08:45+00:00",
+      "url": "https://www.bilibili.com/video/av117324514332982",
+      "engagement": 117,
+      "is_hot": false,
+      "author": "只想摸鱼的屑-",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/01ae4bffc1f8e78427973c682abdd5dcccde6591.jpg",
       "content_type": "video"
     },
     {

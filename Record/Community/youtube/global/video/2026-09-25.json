@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-25",
+  "archived_at": "2026-09-24T16:29:39.696191+00:00",
+  "source": "youtube",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Saya: Your Very Own Monster  #morimens",
+      "summary": "When all things are eroded by twisted flesh, when the everyday life is overturned, a dandelion drifts down upon this wasteland ...",
+      "source": "youtube",
+      "time": "2026-09-24T16:15:03Z",
+      "url": "https://www.youtube.com/watch?v=U2vYT-Jvw5I",
+      "engagement": 9,
+      "is_hot": false,
+      "author": "Nechromicon",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/U2vYT-Jvw5I/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Forever More Men (Stream 34) MORIMENS",
+      "summary": "In which the OG becomes GO.",
+      "source": "youtube",
+      "time": "2026-09-24T16:00:02Z",
+      "url": "https://www.youtube.com/watch?v=xDf_lS4odJo",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "GhotiVT",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/xDf_lS4odJo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "video"
+}
