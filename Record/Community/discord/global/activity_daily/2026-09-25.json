@@ -1,36 +1,118 @@
 {
   "date": "2026-09-25",
-  "messages": 710,
-  "unique_authors": 57,
-  "reactions_total": 69,
-  "attachments": 32,
+  "messages": 2855,
+  "unique_authors": 148,
+  "reactions_total": 334,
+  "attachments": 148,
   "channel_activity": {
-    "🔸綜合討論": 8,
-    "🔸morimens-game-chat": 324,
-    "🔸chaîne-française": 3,
-    "🔸phòng-chat-tiếng-việt": 118,
-    "🔸canal-español": 33,
-    "🔸ruang-obrolan-indonesia": 2,
-    "🔸team-building": 14,
-    "🔸general-chat": 20,
-    "🔸game-question": 160,
+    "🔸綜合討論": 163,
+    "🔸morimens-game-chat": 1490,
+    "🔸chaîne-française": 5,
+    "🔸русский-канал": 13,
+    "🔸phòng-chat-tiếng-việt": 123,
+    "🔸canal-español": 199,
+    "🔸canal-português": 44,
+    "🔸ruang-obrolan-indonesia": 5,
+    "🔸ห้องสนทนาภาษาไทย": 30,
+    "🔸traphase": 2,
+    "🔸lore-chat": 84,
+    "🔸lets-count": 4,
+    "🔸team-building": 78,
+    "🔸general-chat": 61,
+    "🔸game-question": 293,
+    "🔸机器人命令┊bot-commands": 4,
+    "Softlock on 6-6 when using Vitality wheel option at Rest Site": 1,
+    "Recategorize Awakener Roles": 88,
+    "gogier stike card bug": 4,
+    "Vortice Splash Art Error?": 2,
+    "Alternative main stat": 2,
+    "Gogier is waaaay too op at +12 compared to non +12": 18,
+    "dtide and arc 3?": 1,
+    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 122,
+    "D-tide Discussion": 3,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 3,
+    "Nefraea chibi?": 1,
+    "Keeper": 1,
+    "saschys doodle thread": 1,
+    "Dtide 450 Meta Report Sept Chaos Ring 2026": 2,
+    "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개": 2,
+    "Early Team Building & Pulling Advice": 2,
     "🔸忘却前夜┊morimens-tv": 1,
-    "🔸机器人命令┊bot-commands": 2,
-    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 22,
     "NOT ANSWERED: Jenkins": 1,
     "Quadra / 4-Realm Rerun Banners": 1,
     "1552717551275089944": 1
   },
   "hourly_activity": {
-    "0": 710
+    "1": 614,
+    "2": 529,
+    "0": 844,
+    "3": 434,
+    "4": 357,
+    "5": 77
   },
   "message_types": {
-    "20": 4,
-    "0": 484,
-    "19": 221,
+    "19": 959,
+    "0": 1890,
+    "20": 5,
     "21": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1552729580232777850",
+      "channel_id": "1170692781216378960",
+      "content": "Ancient history",
+      "author": "sirtealot",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552731710293155961",
+      "channel_id": "1170692781216378960",
+      "content": "cant fire a qa team if we never had one",
+      "author": "princess.goth",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552763689751289950",
+      "channel_id": "1170692781216378960",
+      "content": ">game wont be balanced around aa\n>buffs aa",
+      "author": "bing_sus",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552730288013058098",
+      "channel_id": "1170692781216378960",
+      "content": "Remember when their CS copy pasted a reviews into their responses to other peopl",
+      "author": "moyashi0672",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552723456230162473",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552723496625377372",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552724732011479081",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1552716090164117517",
       "channel_id": "1433513650299076780",
@@ -38,6 +120,54 @@
       "author": "skigloves",
       "reactions": 4,
       "channel": "🔸game-question"
+    },
+    {
+      "id": "1552724304716890213",
+      "channel_id": "1170692781216378960",
+      "content": "are human",
+      "author": "corvim",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552728936264499221",
+      "channel_id": "1170692781216378960",
+      "content": "next person who will get banned is serah",
+      "author": "princess.goth",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552740110032834754",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "gersona6",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552741589787353160",
+      "channel_id": "1170692781216378960",
+      "content": "Also add a black line to hide the eyes",
+      "author": "moyashi0672",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552753666023235588",
+      "channel_id": "1170692781216378960",
+      "content": "That's what she said<:Ramona_tuff_:1441426630420467753>",
+      "author": "arem0972",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552758305506594837",
+      "channel_id": "1300659718653476925",
+      "content": "120 tiros 12 copias",
+      "author": "mushisho",
+      "reactions": 3,
+      "channel": "🔸canal-português"
     },
     {
       "id": "1552714318389452861",
@@ -56,139 +186,35 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1552713266638094399",
+      "id": "1552736135342461059",
       "channel_id": "1131839817982947429",
-      "content": "<:Caecus_cry:1356068126894194758>",
-      "author": "sweet_25367",
+      "content": "剛好連假",
+      "author": "abhartach_0",
       "reactions": 2,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1552720159439847575",
+      "id": "1552722616958197821",
       "channel_id": "1170692781216378960",
-      "content": "doompost is how i yes i got gogier buffed",
-      "author": "lukityswoogity",
+      "content": "<:Horla_cry:1357186646294138890>",
+      "author": "drunkey.vibe",
       "reactions": 2,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1552721608987254897",
+      "id": "1552722671719022822",
       "channel_id": "1170692781216378960",
-      "content": "N gets bored and just nuke your whole team after turn 3",
-      "author": "baomin4",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552721754286334002",
-      "channel_id": "1170692781216378960",
-      "content": "",
+      "content": "legend of baltos",
       "author": "dread_empress_meera",
       "reactions": 2,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1552715465640513679",
-      "channel_id": "1433513650299076780",
-      "content": "I'm starting to love 24's playstyle y'all",
-      "author": "ringgo0901",
+      "id": "1552723499322318899",
+      "channel_id": "1170692781216378960",
+      "content": "you use her ultimate only in ultra round or if u ever use annhilation - that too",
+      "author": "dread_empress_meera",
       "reactions": 2,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1552720705588564039",
-      "channel_id": "1433513650299076780",
-      "content": "But I used it.... <:Horla_cry:1357186646294138890>",
-      "author": "flynnize",
-      "reactions": 2,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1552716996678783007",
-      "channel_id": "1131839817982947429",
-      "content": "还是要提前做，看阿临那个队型就能猜到是一个很怪的词，有点剧透了",
-      "author": "galagalaguo",
-      "reactions": 1,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1552714551768907801",
-      "channel_id": "1170692781216378960",
-      "content": "this is the type of comp <@595414429957619725> somehow clears a madness wave wit",
-      "author": "princess.goth",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552714666503970978",
-      "channel_id": "1170692781216378960",
-      "content": "yo am i the only one who pulled gogiers fuckass aheel",
-      "author": "lukityswoogity",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552715346790588417",
-      "channel_id": "1170692781216378960",
-      "content": "excuse me",
-      "author": "goonbred",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552715618955034635",
-      "channel_id": "1170692781216378960",
-      "content": "cant get over the fact that its so bs i had almost no suitable wod with keyflare",
-      "author": "drunkey.vibe",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552715845694922864",
-      "channel_id": "1170692781216378960",
-      "content": "Im not a believer itd need lotan oe and a single hp bar",
-      "author": "dracozion",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552715959184134194",
-      "channel_id": "1170692781216378960",
-      "content": "it's called tinnitus, i have what's called chronic tinnitus because it doesn't g",
-      "author": "violettaautumn",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552716165850075227",
-      "channel_id": "1170692781216378960",
-      "content": "like u dont realize it exist until its in front of u its kinda like meningitis",
-      "author": "lukityswoogity",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552716228873691237",
-      "channel_id": "1170692781216378960",
-      "content": "oh my god i almost played this straight for 4 hour",
-      "author": "drunkey.vibe",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552716976701313165",
-      "channel_id": "1170692781216378960",
-      "content": "https://x.com/temchib/status/2102881097126170861",
-      "author": "princess.goth",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552718685947306075",
-      "channel_id": "1170692781216378960",
-      "content": "jk kudos on gogier!",
-      "author": "unknowable3333",
-      "reactions": 1,
       "channel": "🔸morimens-game-chat"
     }
   ]
