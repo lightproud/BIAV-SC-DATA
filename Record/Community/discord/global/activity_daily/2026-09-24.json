@@ -1,60 +1,79 @@
 {
   "date": "2026-09-24",
-  "messages": 4769,
-  "unique_authors": 221,
-  "reactions_total": 642,
-  "attachments": 353,
+  "messages": 11370,
+  "unique_authors": 243,
+  "reactions_total": 1150,
+  "attachments": 657,
   "channel_activity": {
-    "🔸綜合討論": 166,
-    "🔸morimens-game-chat": 2907,
+    "🔸綜合討論": 258,
+    "🔸阵容构建": 6,
+    "🔸morimens-game-chat": 6858,
+    "🔸剧情交流": 1,
+    "🔸课间休息闲聊": 4,
+    "🔸交友频道": 2,
+    "🔸한국어-채팅방": 5,
+    "🔸русский-канал": 35,
+    "🔸phòng-chat-tiếng-việt": 146,
+    "🔸canal-español": 323,
+    "🔸canal-português": 462,
+    "🔸ruang-obrolan-indonesia": 109,
+    "🔸ห้องสนทนาภาษาไทย": 43,
+    "🔸traphase": 102,
+    "🔸lore-chat": 49,
+    "🔸lets-count": 3,
+    "🔸team-building": 269,
+    "🔸general-chat": 923,
+    "🔸邀请码互助┊swap-invitation-codes": 4,
+    "🔸game-question": 1508,
+    "🔸机器人命令┊bot-commands": 9,
+    "【OC】：貝托露娜": 1,
+    "Gogier is waaaay too op at +12 compared to non +12": 1,
+    "dtide and arc 3?": 3,
+    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 71,
+    "When will a passive ability be added to these characters?": 16,
+    "Alternate realms Enhancement": 3,
+    "D-tide Discussion": 61,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 6,
+    "融灾禁区难度异常问题说明及补偿┊D-Effect Zone Difficulty Anomaly Notice and Compensation": 11,
+    "V2.6.1.2 在线维护公告": 28,
+    "V2.5.1.0 停服维护公告": 8,
+    "Ramona Dreamy vacation cosplay/adventure": 2,
+    "moss’s art dump": 4,
+    "Stat Collection Spreadsheet": 2,
+    "Teambuilding help for dtides endgame and is GOgier recommended to pull for my case?": 1,
+    "Need help with team Building for D-Tide": 3,
     "🔸晒卡分享": 1,
     "🔸日本語チャンネル": 2,
-    "🔸한국어-채팅방": 1,
     "🔸deutscher-chatraum": 5,
     "🔸chaîne-française": 3,
-    "🔸русский-канал": 33,
-    "🔸phòng-chat-tiếng-việt": 138,
-    "🔸canal-español": 79,
-    "🔸canal-português": 387,
-    "🔸ruang-obrolan-indonesia": 9,
-    "🔸ห้องสนทนาภาษาไทย": 35,
-    "🔸traphase": 96,
-    "🔸lore-chat": 24,
-    "🔸lets-count": 2,
-    "🔸team-building": 72,
-    "🔸general-chat": 107,
-    "🔸邀请码互助┊swap-invitation-codes": 2,
-    "🔸game-question": 620,
-    "🔸机器人命令┊bot-commands": 3,
     "快乐摸鱼中……": 1,
     "Hameln Rondino Effect has No Description": 1,
     "Logging problem on steam": 6,
-    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 22,
-    "D-tide Discussion": 7,
-    "融灾禁区难度异常问题说明及补偿┊D-Effect Zone Difficulty Anomaly Notice and Compensation": 3,
-    "V2.6.1.2 在线维护公告": 21,
-    "V2.5.1.0 停服维护公告": 2,
     "Our favorite guppy caecus": 1,
     "Ogier: Oathbound🌹": 5,
-    "moss’s art dump": 2,
     "The Arc 1 GDoll Incident Compilation": 1,
     "【English Translation】Opinions Collection": 2,
     "是不是也該在這裡蓋個圖樓👁️": 1,
-    "Jenkin's quote bug": 1,
-    "When will a passive ability be added to these characters?": 1
+    "Jenkin's quote bug": 1
   },
   "hourly_activity": {
+    "6": 828,
+    "7": 858,
+    "8": 931,
+    "9": 1199,
+    "10": 1471,
+    "11": 715,
+    "5": 893,
     "0": 941,
     "1": 857,
     "2": 788,
     "4": 947,
-    "3": 942,
-    "5": 294
+    "3": 942
   },
   "message_types": {
-    "0": 2928,
-    "19": 1834,
-    "20": 7
+    "0": 7009,
+    "19": 4344,
+    "20": 17
   },
   "top_reacted_messages": [
     {
@@ -74,11 +93,27 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1552516102234578955",
+      "channel_id": "1170692781216378960",
+      "content": "man i popped dr on the first trash fight 💀",
+      "author": "mosske",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1552355112826052618",
       "channel_id": "1170692781216378960",
       "content": "Totally legitimate madness mouchette clear btw",
       "author": "tatsutets",
       "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552488770195034112",
+      "channel_id": "1170692781216378960",
+      "content": "guys look at my mouch team clear",
+      "author": "direhands",
+      "reactions": 7,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -95,6 +130,22 @@
       "content": "IT WAS 90%",
       "author": "verdy_heh",
       "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552488128390889564",
+      "channel_id": "1170692781216378960",
+      "content": "ellie is not the last corpo player because i just did her trial a minute ago",
+      "author": "serahh__",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552494726316302346",
+      "channel_id": "1170692781216378960",
+      "content": "<@693905974750216212> i updated le goat",
+      "author": "n0vella._",
+      "reactions": 6,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -138,6 +189,38 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1552506130545119354",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "cakolu781",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1552431349309378674",
+      "channel_id": "1170692781216378960",
+      "content": "noob?",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552518028728733737",
+      "channel_id": "1170692781216378960",
+      "content": "its honestly really annoying how daff is my 2nd favorite team in the game but to",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552482667713396869",
+      "channel_id": "1300659662311526512",
+      "content": "",
+      "author": "keldarkshed",
+      "reactions": 5,
+      "channel": "🔸canal-español"
+    },
+    {
       "id": "1552376805518745646",
       "channel_id": "1170692781216378960",
       "content": "Wow, certified 500 player, totally fairly achieved",
@@ -151,70 +234,6 @@
       "content": "Ok light i forgive you",
       "author": "gersona6",
       "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552354980827238471",
-      "channel_id": "1131839817982947429",
-      "content": "超了1點",
-      "author": "heikwok",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1552387005839577100",
-      "channel_id": "1170692781216378960",
-      "content": "everyone got what they wanted. A4 level ditide",
-      "author": "monchi3524",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552388352601227295",
-      "channel_id": "1170692781216378960",
-      "content": "> Kath is good\n\n> Looks inside \n\n> Horla and Castor",
-      "author": "601671_",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552406418219466863",
-      "channel_id": "1170692781216378960",
-      "content": "my gogier looks dif",
-      "author": "gersona6",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552412134061908048",
-      "channel_id": "1170692781216378960",
-      "content": "Bro fr?",
-      "author": "dracozion",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552414123726217287",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "begonethot8290",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552415868112216077",
-      "channel_id": "1170692781216378960",
-      "content": "just draw her naked whats the big deal <:Ramona_tuff_:1441426630420467753>",
-      "author": "lukityswoogity",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552421359735283827",
-      "channel_id": "1170692781216378960",
-      "content": "below 500= lazy\nabove 500= bug abuse",
-      "author": "violettaautumn",
-      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     }
   ]
