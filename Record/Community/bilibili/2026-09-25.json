@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-25",
+  "archived_at": "2026-09-24T21:09:17.912287+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[忘却前夜]守咪人 中秋节快乐",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-24T16:52:29+00:00",
+      "url": "https://www.bilibili.com/video/av117327030916344",
+      "engagement": 396,
+      "is_hot": false,
+      "author": "渔歌伴晚舟",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/7539a25844528d9ad88bea7828006c82f64ff402.jpg",
+      "content_type": "video"
+    }
+  ]
+}

@@ -1,9 +1,26 @@
 {
   "date": "2026-09-25",
-  "archived_at": "2026-09-24T16:29:39.696191+00:00",
+  "archived_at": "2026-09-24T21:09:17.912654+00:00",
   "source": "youtube",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
+    {
+      "title": "🔞 More act 2 stuff :3 - Morimens",
+      "summary": "More act 2 stuff :3 Links https://www.twitch.tv/eepyghost https://discord.gg/tSq5H32dAm https://twitter.com/eepyghostie.",
+      "source": "youtube",
+      "time": "2026-09-24T17:10:10Z",
+      "url": "https://www.youtube.com/watch?v=TNa2plqVyYs",
+      "engagement": 21,
+      "is_hot": false,
+      "author": "eepyghost",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/TNa2plqVyYs/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
     {
       "title": "Saya: Your Very Own Monster  #morimens",
       "summary": "When all things are eroded by twisted flesh, when the everyday life is overturned, a dandelion drifts down upon this wasteland ...",
@@ -34,6 +51,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/xDf_lS4odJo/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "yapping about 525 dtide for 1 hour",
+      "summary": "strawberry yaps about 525 dtide (late september '26, probably the only 525 too) featuring 9 mostly functional comps and corpita...",
+      "source": "youtube",
+      "time": "2026-09-24T20:53:34Z",
+      "url": "https://www.youtube.com/watch?v=-iSUvnGp0E0",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "strawberry",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/-iSUvnGp0E0/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
