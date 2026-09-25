@@ -1,41 +1,51 @@
 {
   "date": "2026-09-25",
-  "messages": 2855,
-  "unique_authors": 148,
-  "reactions_total": 334,
-  "attachments": 148,
+  "messages": 6900,
+  "unique_authors": 203,
+  "reactions_total": 691,
+  "attachments": 367,
   "channel_activity": {
-    "🔸綜合討論": 163,
-    "🔸morimens-game-chat": 1490,
+    "🔸綜合討論": 239,
+    "🔸morimens-game-chat": 3642,
+    "🔸剧情交流": 13,
+    "🔸晒卡分享": 4,
+    "🔸欢乐梗图": 3,
+    "🔸课间休息闲聊": 1,
+    "🔸交友频道": 2,
+    "🔸phòng-chat-tiếng-việt": 223,
+    "🔸canal-español": 397,
+    "🔸canal-português": 56,
+    "🔸ruang-obrolan-indonesia": 76,
+    "🔸ห้องสนทนาภาษาไทย": 32,
+    "🔸traphase": 3,
+    "🔸lore-chat": 137,
+    "🔸lets-count": 9,
+    "🔸team-building": 223,
+    "🔸general-chat": 134,
+    "🔸邀请码互助┊swap-invitation-codes": 1,
+    "🔸game-question": 1315,
+    "🔸机器人命令┊bot-commands": 13,
+    "Recategorize Awakener Roles": 89,
+    "Gogier is waaaay too op at +12 compared to non +12": 59,
+    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 146,
+    "D-tide Discussion": 11,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 13,
+    "V2.5.1.0 停服维护公告": 4,
+    "Nefraea chibi?": 2,
+    "Sticklet's doodle/art dump": 4,
+    "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개": 8,
+    "Need help with team Building for D-Tide": 2,
+    "【Newcomer Help】Forum Introduction": 1,
     "🔸chaîne-française": 5,
     "🔸русский-канал": 13,
-    "🔸phòng-chat-tiếng-việt": 123,
-    "🔸canal-español": 199,
-    "🔸canal-português": 44,
-    "🔸ruang-obrolan-indonesia": 5,
-    "🔸ห้องสนทนาภาษาไทย": 30,
-    "🔸traphase": 2,
-    "🔸lore-chat": 84,
-    "🔸lets-count": 4,
-    "🔸team-building": 78,
-    "🔸general-chat": 61,
-    "🔸game-question": 293,
-    "🔸机器人命令┊bot-commands": 4,
     "Softlock on 6-6 when using Vitality wheel option at Rest Site": 1,
-    "Recategorize Awakener Roles": 88,
     "gogier stike card bug": 4,
     "Vortice Splash Art Error?": 2,
     "Alternative main stat": 2,
-    "Gogier is waaaay too op at +12 compared to non +12": 18,
     "dtide and arc 3?": 1,
-    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 122,
-    "D-tide Discussion": 3,
-    "Impact of Version 2.6 Affinity Changes on Player Experience": 3,
-    "Nefraea chibi?": 1,
     "Keeper": 1,
     "saschys doodle thread": 1,
     "Dtide 450 Meta Report Sept Chaos Ring 2026": 2,
-    "V2.6.1 负誓·奥吉尔✦唤醒体&命轮介绍┊Ogier: Oathbound✦Awakener & Wheel of Destiny Introduction┊서약·오지에✦각성체 & 명륜 소개": 2,
     "Early Team Building & Pulling Advice": 2,
     "🔸忘却前夜┊morimens-tv": 1,
     "NOT ANSWERED: Jenkins": 1,
@@ -43,17 +53,25 @@
     "1552717551275089944": 1
   },
   "hourly_activity": {
+    "6": 335,
+    "8": 1025,
+    "9": 698,
+    "10": 559,
+    "11": 470,
+    "5": 392,
+    "7": 632,
+    "12": 11,
     "1": 614,
     "2": 529,
     "0": 844,
     "3": 434,
-    "4": 357,
-    "5": 77
+    "4": 357
   },
   "message_types": {
-    "19": 959,
-    "0": 1890,
-    "20": 5,
+    "0": 4580,
+    "19": 2305,
+    "20": 13,
+    "46": 1,
     "21": 1
   },
   "top_reacted_messages": [
@@ -90,6 +108,78 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1552849040536895589",
+      "channel_id": "1131839817982947429",
+      "content": "沒有專造<:Nymphaea_frustrated:1459078117485445288>",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1552845928266731571",
+      "channel_id": "1170692781216378960",
+      "content": "A brain eating amoeba would starve to death in your head ellie.",
+      "author": "shanhaijingactivist",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552855774550691871",
+      "channel_id": "1326453763355185215",
+      "content": "ogier.............",
+      "author": "hikarimew",
+      "reactions": 5,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1552880619019698268",
+      "channel_id": "1131839817982947429",
+      "content": "难道你不应该带上自己的小骑士上银钥嘛",
+      "author": "polkarain",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1552800692802945066",
+      "channel_id": "1170692781216378960",
+      "content": "Your goal is to go on the opposite side of the map before your opponent does, yo",
+      "author": "moyashi0672",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552802903889027123",
+      "channel_id": "1170692781216378960",
+      "content": "Good luck <:Aurita_please:1356053110375714817> <:Aurita_please:13560531103757148",
+      "author": "moyashi0672",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552838818741362720",
+      "channel_id": "1170692781216378960",
+      "content": "I prefer the term \"Choking Hazard\" personally",
+      "author": "momvolo",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552841119790923877",
+      "channel_id": "1170692781216378960",
+      "content": "short ppl got more personality per square inch",
+      "author": "lukityswoogity",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1552856641857392771",
+      "channel_id": "1180437373012672522",
+      "content": "",
+      "author": "mman64527",
+      "reactions": 4,
+      "channel": "🔸欢乐梗图"
+    },
+    {
       "id": "1552723456230162473",
       "channel_id": "1170692781216378960",
       "content": "",
@@ -122,99 +212,27 @@
       "channel": "🔸game-question"
     },
     {
-      "id": "1552724304716890213",
-      "channel_id": "1170692781216378960",
-      "content": "are human",
-      "author": "corvim",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552728936264499221",
-      "channel_id": "1170692781216378960",
-      "content": "next person who will get banned is serah",
-      "author": "princess.goth",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552740110032834754",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "gersona6",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552741589787353160",
-      "channel_id": "1170692781216378960",
-      "content": "Also add a black line to hide the eyes",
-      "author": "moyashi0672",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552753666023235588",
-      "channel_id": "1170692781216378960",
-      "content": "That's what she said<:Ramona_tuff_:1441426630420467753>",
-      "author": "arem0972",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552758305506594837",
-      "channel_id": "1300659718653476925",
-      "content": "120 tiros 12 copias",
-      "author": "mushisho",
-      "reactions": 3,
-      "channel": "🔸canal-português"
-    },
-    {
-      "id": "1552714318389452861",
-      "channel_id": "1170692781216378960",
-      "content": "look aat this bad food i made",
-      "author": "drunkey.vibe",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552721523666722857",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "drunkey.vibe",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552736135342461059",
+      "id": "1552883264077955074",
       "channel_id": "1131839817982947429",
-      "content": "剛好連假",
-      "author": "abhartach_0",
-      "reactions": 2,
+      "content": "",
+      "author": "0.0._.0_0.",
+      "reactions": 3,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1552722616958197821",
+      "id": "1552797011693281373",
       "channel_id": "1170692781216378960",
-      "content": "<:Horla_cry:1357186646294138890>",
-      "author": "drunkey.vibe",
-      "reactions": 2,
+      "content": "holy whale wtf",
+      "author": "serahh__",
+      "reactions": 3,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1552722671719022822",
+      "id": "1552798635580858410",
       "channel_id": "1170692781216378960",
-      "content": "legend of baltos",
-      "author": "dread_empress_meera",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1552723499322318899",
-      "channel_id": "1170692781216378960",
-      "content": "you use her ultimate only in ultra round or if u ever use annhilation - that too",
-      "author": "dread_empress_meera",
-      "reactions": 2,
+      "content": "Please don't hit hard pity on miry and her wod 🥀",
+      "author": "verdy_heh",
+      "reactions": 3,
       "channel": "🔸morimens-game-chat"
     }
   ]
