@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-26",
+  "messages": 787,
+  "unique_authors": 73,
+  "reactions_total": 100,
+  "attachments": 40,
+  "channel_activity": {
+    "🔸綜合討論": 13,
+    "🔸morimens-game-chat": 648,
+    "🔸chaîne-française": 8,
+    "🔸phòng-chat-tiếng-việt": 66,
+    "🔸canal-español": 2,
+    "🔸canal-português": 2,
+    "🔸ruang-obrolan-indonesia": 4,
+    "🔸ห้องสนทนาภาษาไทย": 16,
+    "🔸lore-chat": 4,
+    "🔸team-building": 1,
+    "🔸general-chat": 7,
+    "🔸game-question": 9,
+    "🔸机器人命令┊bot-commands": 1,
+    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 2,
+    "Alternate realms Enhancement": 1,
+    "A humble suggestion regarding GLotan's pursuit": 2,
+    "(unserious EN translation) I Was Reborn, on the Day Morimens Announced Its End of Service": 1
+  },
+  "hourly_activity": {
+    "0": 787
+  },
+  "message_types": {
+    "19": 368,
+    "0": 418,
+    "20": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1553075930748948621",
+      "channel_id": "1131839817982947429",
+      "content": "修正又修錯了啊",
+      "author": "foxcatfurry",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1553085871568199701",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "lavache.",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553075399695663237",
+      "channel_id": "1170692781216378960",
+      "content": "The N stands for none!",
+      "author": "corvim",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553079506468610052",
+      "channel_id": "1131839817982947429",
+      "content": "其實是校貓安插的",
+      "author": "akkom730",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1553083813347987507",
+      "channel_id": "1170692781216378960",
+      "content": "fiamma now does exponential scaling",
+      "author": "direhands",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553084832773308617",
+      "channel_id": "1170692781216378960",
+      "content": "80% of statistics are made up factoid is actually just statistical error, averag",
+      "author": "violettaautumn",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553085087560761496",
+      "channel_id": "1170692781216378960",
+      "content": "I think numbers are giga cringe. ANyway ogier mogs gogier because he works bette",
+      "author": "kinbote.",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553085232050077719",
+      "channel_id": "1170692781216378960",
+      "content": "things to say to your math professor:\n- what are your intentions with my calcula",
+      "author": "not_blueberry",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553085945966886963",
+      "channel_id": "1170692781216378960",
+      "content": "Math is underrated imo",
+      "author": "kevsalvador",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553076286753218605",
+      "channel_id": "1170692781216378960",
+      "content": "I like bare feet chars",
+      "author": "oplol6528",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553079134715121685",
+      "channel_id": "1170692781216378960",
+      "content": "Idk Thais hooves licker",
+      "author": "devilishdesire222",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553083654195126323",
+      "channel_id": "1170692781216378960",
+      "content": "***Justice for Kath!***",
+      "author": "syro_k",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553081136916201654",
+      "channel_id": "1131839817982947429",
+      "content": "我去还真是",
+      "author": "ponponnyaru",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1553083481276551280",
+      "channel_id": "1170692781216378960",
+      "content": "Oh right!! Tea! I got AA Ramona and e0 gogier now!",
+      "author": "stormimi",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553085427718692934",
+      "channel_id": "1170692781216378960",
+      "content": "they aint even got numbers",
+      "author": "not_blueberry",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553079769992790057",
+      "channel_id": "1326453763355185215",
+      "content": "Ty!\nWho needs EricaGPT when you have Pontos gaunts?",
+      "author": "tulipreign",
+      "reactions": 2,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1553073640315166823",
+      "channel_id": "1170692781216378960",
+      "content": "you couldnt see it but i just smashed my head against the wall",
+      "author": "princess.goth",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553074749440266281",
+      "channel_id": "1170692781216378960",
+      "content": "Morimens is pretty good and interesting",
+      "author": "oplol6528",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553075331542417601",
+      "channel_id": "1170692781216378960",
+      "content": "Is N a moaner or a groaner",
+      "author": "iunosbeloved",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553075388056338538",
+      "channel_id": "1170692781216378960",
+      "content": "You don't need it",
+      "author": "sirtealot",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
