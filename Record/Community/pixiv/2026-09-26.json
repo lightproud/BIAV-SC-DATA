@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-26",
+  "archived_at": "2026-09-25T21:05:48.602198+00:00",
+  "source": "pixiv",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Hameln",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-09-26T03:16:39+09:00",
+      "url": "https://www.pixiv.net/artworks/150111476",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "ezmizu",
+      "tags": [
+        "忘卻前夜",
+        "Morimens"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/09/26/03/16/39/150111476_p0_square1200.jpg",
+      "content_type": "image"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-26",
+  "archived_at": "2026-09-25T21:05:48.593455+00:00",
+  "source": "steam",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[正面] J'ai vite fais jouer, il me donne envie de continu...",
+      "summary": "J'ai vite fais jouer, il me donne envie de continuer, mais la traduction est vraiment buguer (c'est précisé fait automatiquement en attendant un traduction officiel) mais genre \"she peut le faire, j'ai confiance en her\" c'est dur. enfin je préfère attendre.\nMais la D.A. est magnifique et la narration donne envie.",
+      "source": "steam_review",
+      "time": "2026-09-25T18:44:32+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199436143331/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199436143331",
+      "tags": [
+        "french"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 28,
+        "votes_up": 0,
+        "timestamp_created": 1790361872
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] jogue",
+      "summary": "jogue",
+      "source": "steam_review",
+      "time": "2026-09-25T18:39:23+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199698313410/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199698313410",
+      "tags": [
+        "brazilian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 858,
+        "votes_up": 0,
+        "timestamp_created": 1790361563
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 除了养成和玩法都还不错",
+      "summary": "除了养成和玩法都还不错",
+      "source": "steam_review",
+      "time": "2026-09-25T17:59:45+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199683585595/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199683585595",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 5947,
+        "votes_up": 0,
+        "timestamp_created": 1790359185
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
