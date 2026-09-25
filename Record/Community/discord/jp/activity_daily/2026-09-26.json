@@ -1,21 +1,41 @@
 {
   "date": "2026-09-26",
-  "messages": 20,
+  "messages": 28,
   "unique_authors": 7,
-  "reactions_total": 0,
-  "attachments": 0,
+  "reactions_total": 2,
+  "attachments": 3,
   "channel_activity": {
-    "💬なんでも雑談（ネタバレあり）": 11,
-    "🔰初心者質問": 8,
+    "💬なんでも雑談（ネタバレあり）": 16,
+    "🔰初心者質問": 10,
+    "落描き": 1,
     "🙋誰でも質問": 1
   },
   "hourly_activity": {
+    "3": 5,
+    "2": 3,
     "0": 12,
     "1": 8
   },
   "message_types": {
-    "19": 5,
-    "0": 15
+    "19": 6,
+    "0": 22
   },
-  "top_reacted_messages": []
+  "top_reacted_messages": [
+    {
+      "id": "1553106646824263793",
+      "channel_id": "1391701560496623688",
+      "content": "調査-融災禁区・第5波・V級警報——バトルリプレイ\n守秘者：おチャラ（200008352）\n\nムシェット、果てなき殺戮、星天の獣、薬となる夢、墓地の囁き\nオルラ",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 1,
+      "channel": "🔰初心者質問"
+    },
+    {
+      "id": "1553112041420624013",
+      "channel_id": "1553112041420624013",
+      "content": "気が向いた時に描いてます\n\nトゥルー(模写)\n戦闘時のデフォルメ具合が大好き。",
+      "author": "mitsuba2529",
+      "reactions": 1,
+      "channel": "落描き"
+    }
+  ]
 }
