@@ -1,8 +1,8 @@
 {
   "date": "2026-09-25",
-  "archived_at": "2026-09-24T21:09:17.912287+00:00",
+  "archived_at": "2026-09-25T03:22:43.744261+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[忘却前夜]守咪人 中秋节快乐",
@@ -19,6 +19,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/7539a25844528d9ad88bea7828006c82f64ff402.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "70级茉夏5T星辰H3boss",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-24T22:06:37+00:00",
+      "url": "https://www.bilibili.com/video/av117328272427691",
+      "engagement": 33,
+      "is_hot": false,
+      "author": "CreScent知式",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/abdf89d350cc89041fcb95dd9dd80dc5018d6ef1.jpg",
       "content_type": "video"
     }
   ]

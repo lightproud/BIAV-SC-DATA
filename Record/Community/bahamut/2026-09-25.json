@@ -1,8 +1,8 @@
 {
   "date": "2026-09-25",
-  "archived_at": "2026-09-24T21:09:17.911585+00:00",
+  "archived_at": "2026-09-25T03:22:43.745351+00:00",
   "source": "bahamut",
-  "item_count": 23,
+  "item_count": 24,
   "items": [
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
@@ -299,6 +299,19 @@
       "engagement": 2,
       "is_hot": false,
       "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【問題】請益現版本深海角色抽取",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-25T03:22:01.115693+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1595&tnum=1",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "imnot87",
       "tags": [],
       "lang": "zh",
       "platform_region": ""

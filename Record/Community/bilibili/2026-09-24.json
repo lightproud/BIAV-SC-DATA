@@ -1,8 +1,8 @@
 {
   "date": "2026-09-24",
-  "archived_at": "2026-09-24T21:09:17.909760+00:00",
+  "archived_at": "2026-09-25T03:22:43.742601+00:00",
   "source": "bilibili",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "【忘却前夜】融灾难度bug 人人都能拿满银芯奖励",
@@ -19,6 +19,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/a7aaf5d28d7264400172650d9b5f2208ab154c61.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "刻纸/练习/茉夏",
+      "summary": "军训完恢复手感ing",
+      "source": "bilibili",
+      "time": "2026-09-24T14:56:35+00:00",
+      "url": "https://www.bilibili.com/video/av117326561220591",
+      "engagement": 411,
+      "is_hot": false,
+      "author": "张轻衣",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/6ce7d0818ca71fa939b686dc26c0c5cf03f2bfec.jpg",
       "content_type": "video"
     },
     {

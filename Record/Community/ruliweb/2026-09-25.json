@@ -1,8 +1,8 @@
 {
   "date": "2026-09-25",
-  "archived_at": "2026-09-24T21:09:18.009504+00:00",
+  "archived_at": "2026-09-25T03:22:43.848696+00:00",
   "source": "ruliweb",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "폴드8 망각전야 패치 받을때 무한진동이 오는데;;",
@@ -36,6 +36,19 @@
       "source": "ruliweb",
       "time": "2026-09-24T16:28:45.488126+00:00",
       "url": "https://bbs.ruliweb.com/etcs/board/300143/read/76777036",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [],
+      "lang": "ko",
+      "platform_region": ""
+    },
+    {
+      "title": "AI GPT 구도 포즈용 TXT 내용",
+      "summary": "CROWN SEVEN — CROSS-CHAT IMAGE GENERATION OPERATING BRIEF PORTABLE DU...",
+      "source": "ruliweb",
+      "time": "2026-09-25T03:22:01.861987+00:00",
+      "url": "https://bbs.ruliweb.com/etcs/board/300143/read/76794450",
       "engagement": 0,
       "is_hot": false,
       "author": "",
