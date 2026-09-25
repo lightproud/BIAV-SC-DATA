@@ -1,8 +1,8 @@
 {
   "date": "2026-09-25",
-  "archived_at": "2026-09-25T11:07:20.376363+00:00",
+  "archived_at": "2026-09-25T16:31:42.726135+00:00",
   "source": "reddit",
-  "item_count": 13,
+  "item_count": 18,
   "items": [
     {
       "title": "Buenas, estudiantes! hoy les traigo la guía de Aegis (español)",
@@ -169,6 +169,71 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/therealsolidmeat",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Playing morimens be like :",
+      "summary": "I feel like ppl would have heart attack if they see my team and build 😭 idk what I&#39;m even doing  &#32; submitted by &#32;  /u/Livialiva   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-25T13:50:45+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wpwvug/playing_morimens_be_like/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Livialiva",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Newish player getting the third prototype horizon soon, who should be getting them for maximum impact?",
+      "summary": "My main story pushers so far were GLotan and Pollux, so the initial take is GLotan E2 for consistency and E1 Thais for double debuffs.  &#32; submitted by &#32;  /u/Secret_Choice_5996   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-25T14:47:54+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wpyans/newish_player_getting_the_third_prototype_horizon/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Secret_Choice_5996",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Twil build",
+      "summary": "Hey, New player just got tawil and I am really vibing with her/them (?). Was wondering who goes good with her/them (?), and maybe what cards (forgot the name) go good with her?  &#32; submitted by &#32;  /u/Typical_Train_4305   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-25T15:17:53+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wpz2jd/twil_build/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Typical_Train_4305",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Computations for measuring",
+      "summary": "I need a way on how to compute for final damage with extra stuff, amplifiers, status effects to reach a result of either damage and shield. This is my first game that I have ever used math on something so this will be new and so I need a way to compute for these aspects Say for example you have a simple &quot;lotan&quot; card Lotan&#39;s strike card has these as it&#39;s description &quot;Deal N (18% ATK) DMG. Lotan obtains 9 Aliemus.&quot; N is of course a placeholder for the actual damage dealt before computation Of course here are the stats affecting result - Awakener level 60 - 0 soul forge upgrades - Skill level 6 - Englighten is 0 That would lead to our &quot;ATK&quot; to a whopping &quot;132&quot;. So 20% of 132 results in 26.4, yet we see that it turns into 27 instead, on the &quot;lotan&quot; strike card. The result of 27 I got from was in the skeydb web to calculate damage. (I had originally thought it&#39;d be 26 considering that the decimals aren&#39;t higher than 5 to be able to round it off as 27. This is probably just a game feature or something) Now what about the wheels of destiny? STR? Or even damage amplification? Realm Mastery Etc. How would each of these factors scale up damage? (I saw cards saying &quot;Counts as a &quot;Strike&quot;. Deal 305 (150% ATK) DMG to all enemies 1 times, which enjoys a 500% STR Bonus. Also crits and stuff like that) STR BONUS??? How do you compute for that? Anyways sorry for my yap but I like math and it&#39;s my first time on games like these, I just want to discover ways to calculate stats and not make mistakes. (There&#39;s also cards that take up %hp from enemies and yourself. There&#39;s also tentacle damage which might be hard to compute for considering that you actually have to get in-game to see if it&#39;s right might be a challenge. Same with soul forge effects in Astral Reign rulesets) PS: WHEN I SAY FACTORS, I MEANT ALL OF IT(UNLESS IT&#39;S COMPLETELY IRRELEVANT, I ALSO WANT TO COMPUTE FOR SHIELD) Anyways thank you for reading my yap. Have a nice day everybody!! This is all in great fun and because I want to maximize my investments. You don&#39;t have to explain everything, just a little bit helps :)  &#32; submitted by &#32;  /u/DRAgonDEEXN   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-25T11:07:39+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wptglh/computations_for_measuring/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/DRAgonDEEXN",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "como obtengo el logro",
+      "summary": "Como puedo obtener ese logro ? Como equipo dos creaciones? Son creaciones en específico? O tengo que avanzar más en la historia para poder equipar dos creaciones??? (Soy nuevo en el juego y apenas voy en el capítulo 2)   &#32; submitted by &#32;  /u/SnowyFate105   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-25T11:41:09+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wpu2zw/como_obtengo_el_logro/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/SnowyFate105",
       "tags": [],
       "lang": "en",
       "platform_region": ""

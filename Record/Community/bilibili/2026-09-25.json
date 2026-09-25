@@ -1,8 +1,8 @@
 {
   "date": "2026-09-25",
-  "archived_at": "2026-09-25T11:07:20.284553+00:00",
+  "archived_at": "2026-09-25T16:31:42.632264+00:00",
   "source": "bilibili",
-  "item_count": 5,
+  "item_count": 8,
   "items": [
     {
       "title": "加强后的负骑数值，5771单卡最有数值宝座叒易主了",
@@ -56,6 +56,40 @@
       "content_type": "video"
     },
     {
+      "title": "卡拉布1t癫狂？当然是假的。",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-25T11:38:05+00:00",
+      "url": "https://www.bilibili.com/video/av117331460102891",
+      "engagement": 239,
+      "is_hot": false,
+      "author": "伊莎玛拉-大群来了",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/cc2808003c9149b9f914c206bf7b6f21ce5f2409.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜，不要错过525，顺便推荐几个队伍",
+      "summary": "最难打的是神国，我不会乱说。",
+      "source": "bilibili",
+      "time": "2026-09-25T13:54:57+00:00",
+      "url": "https://www.bilibili.com/video/av117332013749281",
+      "engagement": 231,
+      "is_hot": false,
+      "author": "断裂免罪符",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/458be1763c8ff4a953fa0e9b7db71f477401986d.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "【忘却前夜】大炮清杂，涡流攻坚，低难高难都强力！沙耶莫丝阵容攻略",
       "summary": "如果有什么要补充的或是觉得我讲错的欢迎评论区指出哦~",
       "source": "bilibili",
@@ -87,6 +121,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/abdf89d350cc89041fcb95dd9dd80dc5018d6ef1.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "30天茉夏萌新过图一N6记录（水温调低前）",
+      "summary": "水温调低后过了450，调低前茉夏无助阵过了N6，简单记录下萌新这一个月经历茉夏风评过山车的心路历程\n省流：抽茉夏到三启甚至超限不亏，不怎么吃队友，可以在队伍整体练度不高的情况下凭操作冲击高难，显著提高零氪玩家游戏体验",
+      "source": "bilibili",
+      "time": "2026-09-25T13:57:48+00:00",
+      "url": "https://www.bilibili.com/video/av117332013746891",
+      "engagement": 21,
+      "is_hot": false,
+      "author": "西部野鸡",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/260cb60dea85917b623f5c37ba48769b2bad325c.jpg",
       "content_type": "video"
     }
   ]
