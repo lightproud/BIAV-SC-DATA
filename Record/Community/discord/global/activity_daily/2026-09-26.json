@@ -1,37 +1,90 @@
 {
   "date": "2026-09-26",
-  "messages": 787,
-  "unique_authors": 73,
-  "reactions_total": 100,
-  "attachments": 40,
+  "messages": 4472,
+  "unique_authors": 132,
+  "reactions_total": 509,
+  "attachments": 193,
   "channel_activity": {
-    "🔸綜合討論": 13,
-    "🔸morimens-game-chat": 648,
-    "🔸chaîne-française": 8,
-    "🔸phòng-chat-tiếng-việt": 66,
-    "🔸canal-español": 2,
-    "🔸canal-português": 2,
+    "🔸綜合討論": 29,
+    "🔸阵容构建": 1,
+    "🔸morimens-game-chat": 3016,
+    "🔸课间休息闲聊": 6,
+    "🔸chaîne-française": 11,
+    "🔸phòng-chat-tiếng-việt": 73,
+    "🔸canal-español": 142,
+    "🔸canal-português": 8,
+    "🔸ห้องสนทนาภาษาไทย": 93,
+    "🔸traphase": 1,
+    "🔸lore-chat": 13,
+    "🔸team-building": 22,
+    "🔸general-chat": 70,
+    "🔸邀请码互助┊swap-invitation-codes": 1,
+    "🔸game-question": 928,
+    "🔸机器人命令┊bot-commands": 5,
+    "我重生了，重生到忘卻前夜宣布關服的那天【多人接力抽象文】": 1,
+    "Doresain Exalt value < casually cast 2 Cost AA Gogier": 1,
+    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 28,
+    "Alternate realms Enhancement": 11,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 3,
+    "V2.5.1.0 停服维护公告": 1,
+    "(unserious EN translation) I Was Reborn, on the Day Morimens Announced Its End of Service": 2,
     "🔸ruang-obrolan-indonesia": 4,
-    "🔸ห้องสนทนาภาษาไทย": 16,
-    "🔸lore-chat": 4,
-    "🔸team-building": 1,
-    "🔸general-chat": 7,
-    "🔸game-question": 9,
-    "🔸机器人命令┊bot-commands": 1,
-    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 2,
-    "Alternate realms Enhancement": 1,
-    "A humble suggestion regarding GLotan's pursuit": 2,
-    "(unserious EN translation) I Was Reborn, on the Day Morimens Announced Its End of Service": 1
+    "A humble suggestion regarding GLotan's pursuit": 2
   },
   "hourly_activity": {
-    "0": 787
+    "0": 953,
+    "2": 801,
+    "4": 751,
+    "1": 755,
+    "3": 1030,
+    "5": 182
   },
   "message_types": {
-    "19": 368,
-    "0": 418,
-    "20": 1
+    "19": 1818,
+    "0": 2649,
+    "20": 5
   },
   "top_reacted_messages": [
+    {
+      "id": "1553104770275999846",
+      "channel_id": "1131839817982947429",
+      "content": "```🔒 圖片內容受限制```\n-# Discord 現在需要進一步的年齡認證，以顯示受限制的內容。 [了解更多](<https://discord.com/v",
+      "author": "ahong0727",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1553128688415932427",
+      "channel_id": "1170692781216378960",
+      "content": "It is like female chicken but more flamboyant",
+      "author": "2ndselna",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553140920172675152",
+      "channel_id": "1170692781216378960",
+      "content": "ok added the day",
+      "author": "gersona6",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553143619312033813",
+      "channel_id": "1170692781216378960",
+      "content": "❓",
+      "author": "serahh__",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553144086494584983",
+      "channel_id": "1170692781216378960",
+      "content": "where's the reaction!?",
+      "author": "verdy_heh",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1553075930748948621",
       "channel_id": "1131839817982947429",
@@ -49,11 +102,43 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1553105078838362262",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1553075399695663237",
       "channel_id": "1170692781216378960",
       "content": "The N stands for none!",
       "author": "corvim",
       "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553143764426424421",
+      "channel_id": "1170692781216378960",
+      "content": "i meannn",
+      "author": "gersona6",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553146160049295422",
+      "channel_id": "1170692781216378960",
+      "content": "fuck you 2 discord",
+      "author": "gersona6",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553151295798382653",
+      "channel_id": "1170692781216378960",
+      "content": "i got 2 thais FIVE HORLAS AND 5 24S AND NO TAWIL !!!",
+      "author": "lukityswoogity",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -105,91 +190,19 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1553076286753218605",
+      "id": "1553097309821337651",
       "channel_id": "1170692781216378960",
-      "content": "I like bare feet chars",
-      "author": "oplol6528",
+      "content": "wdym, I've seen plenty of hallmark holiday movies",
+      "author": "sparkling_moose_59074",
       "reactions": 3,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1553079134715121685",
+      "id": "1553127700254695465",
       "channel_id": "1170692781216378960",
-      "content": "Idk Thais hooves licker",
-      "author": "devilishdesire222",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553083654195126323",
-      "channel_id": "1170692781216378960",
-      "content": "***Justice for Kath!***",
-      "author": "syro_k",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553081136916201654",
-      "channel_id": "1131839817982947429",
-      "content": "我去还真是",
-      "author": "ponponnyaru",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1553083481276551280",
-      "channel_id": "1170692781216378960",
-      "content": "Oh right!! Tea! I got AA Ramona and e0 gogier now!",
-      "author": "stormimi",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553085427718692934",
-      "channel_id": "1170692781216378960",
-      "content": "they aint even got numbers",
-      "author": "not_blueberry",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553079769992790057",
-      "channel_id": "1326453763355185215",
-      "content": "Ty!\nWho needs EricaGPT when you have Pontos gaunts?",
-      "author": "tulipreign",
-      "reactions": 2,
-      "channel": "🔸lore-chat"
-    },
-    {
-      "id": "1553073640315166823",
-      "channel_id": "1170692781216378960",
-      "content": "you couldnt see it but i just smashed my head against the wall",
+      "content": "nono he VEHEMENTLY !!!!! refused to say qiqi was a minor after very suspicious s",
       "author": "princess.goth",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553074749440266281",
-      "channel_id": "1170692781216378960",
-      "content": "Morimens is pretty good and interesting",
-      "author": "oplol6528",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553075331542417601",
-      "channel_id": "1170692781216378960",
-      "content": "Is N a moaner or a groaner",
-      "author": "iunosbeloved",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553075388056338538",
-      "channel_id": "1170692781216378960",
-      "content": "You don't need it",
-      "author": "sirtealot",
-      "reactions": 1,
+      "reactions": 3,
       "channel": "🔸morimens-game-chat"
     }
   ]
