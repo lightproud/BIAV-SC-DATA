@@ -1,8 +1,8 @@
 {
   "date": "2026-09-25",
-  "archived_at": "2026-09-25T03:22:43.746028+00:00",
+  "archived_at": "2026-09-25T11:07:20.287301+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Steam论坛] Invitation Code",
@@ -13,6 +13,23 @@
       "engagement": 238,
       "is_hot": true,
       "author": "Znye",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] Invitation Code 邀请码",
+      "summary": "请使用我的邀请码：VHI6PUZWCF 谢谢\nplease use my  Invitation Code： VHI6PUZWCF thank you",
+      "source": "steam_discussion",
+      "time": "2026-09-25T03:46:31+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/590690402783433493/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "心已被她占据",
       "tags": [
         "steam_forum"
       ],

@@ -1,9 +1,26 @@
 {
   "date": "2026-09-25",
-  "archived_at": "2026-09-25T03:22:43.744261+00:00",
+  "archived_at": "2026-09-25T11:07:20.284553+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 5,
   "items": [
+    {
+      "title": "加强后的负骑数值，5771单卡最有数值宝座叒易主了",
+      "summary": "郑重声明，我是杜乐黑，再有人吹你杜推荐你玩你杜的，让他看看小骑士二费倍率再说吧，笑死了",
+      "source": "bilibili",
+      "time": "2026-09-25T04:40:26+00:00",
+      "url": "https://www.bilibili.com/video/av117329832711465",
+      "engagement": 857,
+      "is_hot": false,
+      "author": "甜甜甜甜甜菜菜菜菜菜",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/f69c854786c39222947d7a3f6797f72b0cc8a78a.jpg",
+      "content_type": "video"
+    },
     {
       "title": "[忘却前夜]守咪人 中秋节快乐",
       "summary": "",
@@ -19,6 +36,40 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/7539a25844528d9ad88bea7828006c82f64ff402.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "列车最数值的一集，千万献祭千万侵蚀，可惜没法触发，负骑恐成为列车最炸鱼的角色",
+      "summary": "沙耶真不熟吧，笑",
+      "source": "bilibili",
+      "time": "2026-09-25T07:28:24+00:00",
+      "url": "https://www.bilibili.com/video/av117330487021953",
+      "engagement": 317,
+      "is_hot": false,
+      "author": "甜甜甜甜甜菜菜菜菜菜",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/79e4d50aa44c47baae4d1fc9f38ab90b91d8a3ba.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】大炮清杂，涡流攻坚，低难高难都强力！沙耶莫丝阵容攻略",
+      "summary": "如果有什么要补充的或是觉得我讲错的欢迎评论区指出哦~",
+      "source": "bilibili",
+      "time": "2026-09-25T10:23:19+00:00",
+      "url": "https://www.bilibili.com/video/av117331174887553",
+      "engagement": 228,
+      "is_hot": false,
+      "author": "花岚天音Amane",
+      "tags": [
+        "桌游棋牌"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/71b98978e743b8f87d68a9ae4cfbd3c6e5b31ff8.jpg",
       "content_type": "video"
     },
     {

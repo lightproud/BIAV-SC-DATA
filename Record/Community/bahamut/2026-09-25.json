@@ -1,9 +1,22 @@
 {
   "date": "2026-09-25",
-  "archived_at": "2026-09-25T03:22:43.745351+00:00",
+  "archived_at": "2026-09-25T11:07:20.286461+00:00",
   "source": "bahamut",
-  "item_count": 24,
+  "item_count": 27,
   "items": [
+    {
+      "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-25T11:06:40.053430+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1144&tnum=267",
+      "engagement": 411,
+      "is_hot": true,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
       "summary": "",
@@ -39,6 +52,19 @@
       "engagement": 37,
       "is_hot": false,
       "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【心得】(更新)新融災簡易攻略:做個簡單的隊伍分享,讓可能不是玩這麼久的玩家參考~已更新本尊的情況供參考!",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-25T11:06:40.053353+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1558&tnum=5",
+      "engagement": 36,
+      "is_hot": false,
+      "author": "Daisuke1990",
       "tags": [],
       "lang": "zh",
       "platform_region": ""
@@ -260,6 +286,19 @@
       "engagement": 11,
       "is_hot": false,
       "author": "jack01212537",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【問題】請益現版本深海角色抽取",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-25T11:06:40.053395+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1595&tnum=3",
+      "engagement": 10,
+      "is_hot": false,
+      "author": "imnot87",
       "tags": [],
       "lang": "zh",
       "platform_region": ""
