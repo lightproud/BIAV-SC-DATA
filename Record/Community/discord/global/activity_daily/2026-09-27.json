@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-27",
+  "messages": 11,
+  "unique_authors": 7,
+  "reactions_total": 0,
+  "attachments": 2,
+  "channel_activity": {
+    "🔸phòng-chat-tiếng-việt": 4,
+    "🔸ruang-obrolan-indonesia": 4,
+    "🔸ห้องสนทนาภาษาไทย": 2,
+    "redesign Gogier. his design and kit are boring": 1
+  },
+  "hourly_activity": {
+    "0": 11
+  },
+  "message_types": {
+    "19": 3,
+    "0": 8
+  },
+  "top_reacted_messages": []
+}
