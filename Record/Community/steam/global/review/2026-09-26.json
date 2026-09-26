@@ -1,8 +1,8 @@
 {
   "date": "2026-09-26",
-  "archived_at": "2026-09-26T03:28:35.830799+00:00",
+  "archived_at": "2026-09-26T10:49:08.255534+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 5,
   "items": [
     {
       "title": "[正面] J'ai vite fais jouer, il me donne envie de continu...",
@@ -69,6 +69,52 @@
         "playtime_forever": 5947,
         "votes_up": 0,
         "timestamp_created": 1790359185
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 游戏好玩，角色很可爱，但是建猫弥补了这一点",
+      "summary": "游戏好玩，角色很可爱，但是建猫弥补了这一点",
+      "source": "steam_review",
+      "time": "2026-09-26T06:50:25+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199477855079/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199477855079",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 10109,
+        "votes_up": 0,
+        "timestamp_created": 1790405425
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] I knew about the game thanks to the saya no uta co...",
+      "summary": "I knew about the game thanks to the saya no uta collab and i wasnt expecting anything outside the norm. yet it manages to be a great lovecraft inspired game. \r\nEven some minuscule details as simple as a \"teke-li-li\" sound effect that is never given more attention and just taken as fanservice, that shows actual love towards the lovecraft mythos. \r\nThis minute detail clearly elevates it over other gachas ive played. \r\nThe story at first has too much going on but thats like most of the gachas nowadays, but it slowly delves into what it can offer and shows its content. im still playing chapter 3 with no grinding and having a ton of fun!\r\n- Kyu´thulhu",
+      "source": "steam_review",
+      "time": "2026-09-26T02:08:34+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198440844660/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198440844660",
+      "tags": [
+        "spanish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 946,
+        "votes_up": 0,
+        "timestamp_created": 1790388514
       },
       "region": "global",
       "archive_subtype": "review"

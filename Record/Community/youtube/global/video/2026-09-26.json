@@ -1,8 +1,8 @@
 {
   "date": "2026-09-26",
-  "archived_at": "2026-09-26T03:28:35.729657+00:00",
+  "archived_at": "2026-09-26T10:49:08.142792+00:00",
   "source": "youtube",
-  "item_count": 4,
+  "item_count": 7,
   "items": [
     {
       "title": "Directo relax Morimens",
@@ -39,6 +39,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "【忘却前夜 | Morimens JP】Corposant Counter team showcase | corpo event madness lv70",
+      "summary": "wonda good now corpo good now Pink fish normal horla still handstuck a bit.",
+      "source": "youtube",
+      "time": "2026-09-26T09:25:37Z",
+      "url": "https://www.youtube.com/watch?v=3ORzysr0Rhk",
+      "engagement": 12,
+      "is_hot": false,
+      "author": "章魚3000",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/3ORzysr0Rhk/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "忘却前夜解説動画シリーズあなたも忘却前夜やってみませんか？忘却前夜の魅力を紹介!",
       "summary": "動画の投稿が遅くなって申し訳ございませんでした… 本来なら9月15日辺りに投稿できる予定だったんですが、 Youtubeに動画を ...",
       "source": "youtube",
@@ -68,6 +85,40 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/D91Z0mnMY1g/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "#忘卻前夜 #morimens Regional D-Effect Zone update! 400 points achieved! 融災400分達成.",
+      "summary": "忘卻前夜 #morimens 融災更新,9月14日~9月28日. Regional D-Effect Zone Update (Sep 14 - Sep 28). 這次的融災也不太好打,哪次 ...",
+      "source": "youtube",
+      "time": "2026-09-26T10:00:14Z",
+      "url": "https://www.youtube.com/watch?v=1I7qNnruG8E",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Noir",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/1I7qNnruG8E/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "『忘却前夜/対人戦』いつ使っても優秀なキーオーダーで確定撃破！『ゲーム実況』",
+      "summary": "『忘却前夜』オンラインプレイヤーとの対戦動画です！ 今回はいま僕がとってもお勧めなキーオーダーを紹介していきます！",
+      "source": "youtube",
+      "time": "2026-09-26T03:24:30Z",
+      "url": "https://www.youtube.com/watch?v=ZfJ8eTEkGgs",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "薄めの『ゆゆ』",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/ZfJ8eTEkGgs/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

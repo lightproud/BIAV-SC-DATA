@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-26",
+  "archived_at": "2026-09-26T10:49:08.219378+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Steam论坛] I miss the exploration in story mode",
+      "summary": "I really wish they could give us the option to turn exploration on or off in the story because that was one of the things I really enjoyed, and it made it feel different from other visual novel games in the sense that it gave you a small amount of freedom and control making it feel less linear....",
+      "source": "steam_discussion",
+      "time": "2026-09-26T05:41:00+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/568171838846489449/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "(121)exanu",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}

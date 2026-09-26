@@ -1,9 +1,43 @@
 {
   "date": "2026-09-26",
-  "archived_at": "2026-09-26T03:28:35.730849+00:00",
+  "archived_at": "2026-09-26T10:49:08.141319+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
+    {
+      "title": "要数值没数值，要机制机制垃圾，奥黑策划差不多得了",
+      "summary": "本来不打算学习黑蛇了，但黑蛇还在打jt8-3那我也不得不打了",
+      "source": "bilibili",
+      "time": "2026-09-26T04:52:08+00:00",
+      "url": "https://www.bilibili.com/video/av117335520184274",
+      "engagement": 453,
+      "is_hot": false,
+      "author": "全忘却最尊重圣婴之人",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/362f8f17e810f7f252582c1c7930f09ca4421639.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】 bug融灾9.14-9.27 低低的配500记录",
+      "summary": "前脚刚凹完430后脚就bug了，毕竟是忘生可能仅一次的机会，于是陆陆续续全部重置，调整队伍拼出500…爽是蛮爽的但心疼前面买的4个（？）灵芝。觉得bug太搞笑了这我一定得体验一下，凹得像在看一周目走马灯的时候又觉得我怎么这么能赤…唯有沙耶珊和吃饱的卡拉布把1图boss打得吃不上死扛，还有捡到诞墨专造的时候觉得这融灾可太好玩了。\n\n建号50天等级62，无超限的低低的配。只传了艰难绷住的1、3、5图，2-3和混沌24助战4-4打起来比起之前凹困难/噩梦轻松不少。2图的道中压力还是太大，放弃了凹bug难度4决定",
+      "source": "bilibili",
+      "time": "2026-09-25T22:08:53+00:00",
+      "url": "https://www.bilibili.com/video/av117333943130086",
+      "engagement": 164,
+      "is_hot": false,
+      "author": "涉嫌下饭",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/3b85f611613a284d588f10bb7f892bc9fbb36550.jpg",
+      "content_type": "video"
+    },
     {
       "title": "宁妃：不许半场开香槟！",
       "summary": "",
