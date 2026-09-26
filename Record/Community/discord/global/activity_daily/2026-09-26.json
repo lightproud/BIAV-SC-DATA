@@ -1,50 +1,109 @@
 {
   "date": "2026-09-26",
-  "messages": 4472,
-  "unique_authors": 132,
-  "reactions_total": 509,
-  "attachments": 193,
+  "messages": 10148,
+  "unique_authors": 189,
+  "reactions_total": 1293,
+  "attachments": 443,
   "channel_activity": {
-    "🔸綜合討論": 29,
+    "🔸綜合討論": 57,
+    "🔸morimens-game-chat": 6326,
+    "🔸phòng-chat-tiếng-việt": 100,
+    "🔸canal-español": 528,
+    "🔸canal-português": 26,
+    "🔸ruang-obrolan-indonesia": 292,
+    "🔸traphase": 9,
+    "🔸lore-chat": 40,
+    "🔸lets-count": 21,
+    "🔸team-building": 134,
+    "🔸general-chat": 699,
+    "🔸邀请码互助┊swap-invitation-codes": 2,
+    "🔸game-question": 1643,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 18,
+    "My worries over the future of AA": 11,
+    "Doresain Exalt value < casually cast 2 Cost AA Gogier": 2,
+    "Gogier is waaaay too op at +12 compared to non +12": 2,
+    "Hameln Rondino Effect has No Description": 1,
+    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 32,
+    "Pls give out origin of time for limited awakener & wheels": 2,
+    "D-tide Discussion": 22,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 27,
+    "Quadra / 4-Realm Rerun Banners": 1,
+    "V2.5.1.0 停服维护公告": 5,
+    "POV You’re a young girl in the world of Morimens and the Keeper shows up at your place": 2,
+    "Thais being thais": 4,
+    "Gogier": 1,
+    "Sticklet's doodle/art dump": 5,
+    "I NEED GDOLL CONTENT😭😭😭😭": 2,
+    "【English Translation】Opinions Collection": 2,
+    "Need help Team Building for chapter 8~9 of Act 1": 1,
+    "Traphase Draft Guides and Quick Navigation": 1,
+    "Give me suggestions on team build": 1,
+    "1553214464923271279": 1,
     "🔸阵容构建": 1,
-    "🔸morimens-game-chat": 3016,
     "🔸课间休息闲聊": 6,
     "🔸chaîne-française": 11,
-    "🔸phòng-chat-tiếng-việt": 73,
-    "🔸canal-español": 142,
-    "🔸canal-português": 8,
     "🔸ห้องสนทนาภาษาไทย": 93,
-    "🔸traphase": 1,
-    "🔸lore-chat": 13,
-    "🔸team-building": 22,
-    "🔸general-chat": 70,
-    "🔸邀请码互助┊swap-invitation-codes": 1,
-    "🔸game-question": 928,
-    "🔸机器人命令┊bot-commands": 5,
     "我重生了，重生到忘卻前夜宣布關服的那天【多人接力抽象文】": 1,
-    "Doresain Exalt value < casually cast 2 Cost AA Gogier": 1,
-    "+12/+12 Gogier: Oathbound Is Still Awful in Madness. How Many Male Awakeners Have to Fail?": 28,
     "Alternate realms Enhancement": 11,
-    "Impact of Version 2.6 Affinity Changes on Player Experience": 3,
-    "V2.5.1.0 停服维护公告": 1,
     "(unserious EN translation) I Was Reborn, on the Day Morimens Announced Its End of Service": 2,
-    "🔸ruang-obrolan-indonesia": 4,
     "A humble suggestion regarding GLotan's pursuit": 2
   },
   "hourly_activity": {
+    "6": 575,
+    "8": 711,
+    "10": 1140,
+    "11": 1047,
+    "5": 725,
+    "7": 862,
+    "9": 745,
+    "12": 53,
     "0": 953,
     "2": 801,
     "4": 751,
     "1": 755,
-    "3": 1030,
-    "5": 182
+    "3": 1030
   },
   "message_types": {
-    "19": 1818,
-    "0": 2649,
-    "20": 5
+    "19": 3890,
+    "0": 6242,
+    "20": 14,
+    "4": 1,
+    "21": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1553168916359020556",
+      "channel_id": "1170692781216378960",
+      "content": "I don't understand this context, but I can respect it enough to not use that ter",
+      "author": "angbak",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553221810932162570",
+      "channel_id": "1170692781216378960",
+      "content": "wip but I’m old & going to bed",
+      "author": "mosske",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553224009980846260",
+      "channel_id": "1300659662311526512",
+      "content": "",
+      "author": "cowit_moo22",
+      "reactions": 7,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1553231539414765670",
+      "channel_id": "1326453763355185215",
+      "content": "the bird of all time",
+      "author": "hallowednebulae",
+      "reactions": 6,
+      "channel": "🔸lore-chat"
+    },
     {
       "id": "1553104770275999846",
       "channel_id": "1131839817982947429",
@@ -102,6 +161,30 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1553165954635010152",
+      "channel_id": "1170692781216378960",
+      "content": "?afk playing wordle reset",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553172972548915301",
+      "channel_id": "1170692781216378960",
+      "content": "ellie claiming angbak's mod position through higher dtide score",
+      "author": "violettaautumn",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553183957212864583",
+      "channel_id": "1170692781216378960",
+      "content": "biva's just going to use that money to fuck up dtide again",
+      "author": "sparkling_moose_59074",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1553105078838362262",
       "channel_id": "1170692781216378960",
       "content": "",
@@ -118,91 +201,35 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1553143764426424421",
+      "id": "1553230867118293087",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1553158031779434630",
       "channel_id": "1170692781216378960",
-      "content": "i meannn",
+      "content": "Next collab is morimens x morimens",
       "author": "gersona6",
       "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1553146160049295422",
+      "id": "1553159464604143668",
       "channel_id": "1170692781216378960",
-      "content": "fuck you 2 discord",
-      "author": "gersona6",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553151295798382653",
-      "channel_id": "1170692781216378960",
-      "content": "i got 2 thais FIVE HORLAS AND 5 24S AND NO TAWIL !!!",
+      "content": "gtinct is just a kpop star #true",
       "author": "lukityswoogity",
       "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1553079506468610052",
-      "channel_id": "1131839817982947429",
-      "content": "其實是校貓安插的",
-      "author": "akkom730",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1553083813347987507",
+      "id": "1553168331865853953",
       "channel_id": "1170692781216378960",
-      "content": "fiamma now does exponential scaling",
-      "author": "direhands",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553084832773308617",
-      "channel_id": "1170692781216378960",
-      "content": "80% of statistics are made up factoid is actually just statistical error, averag",
-      "author": "violettaautumn",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553085087560761496",
-      "channel_id": "1170692781216378960",
-      "content": "I think numbers are giga cringe. ANyway ogier mogs gogier because he works bette",
-      "author": "kinbote.",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553085232050077719",
-      "channel_id": "1170692781216378960",
-      "content": "things to say to your math professor:\n- what are your intentions with my calcula",
-      "author": "not_blueberry",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553085945966886963",
-      "channel_id": "1170692781216378960",
-      "content": "Math is underrated imo",
-      "author": "kevsalvador",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553097309821337651",
-      "channel_id": "1170692781216378960",
-      "content": "wdym, I've seen plenty of hallmark holiday movies",
-      "author": "sparkling_moose_59074",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553127700254695465",
-      "channel_id": "1170692781216378960",
-      "content": "nono he VEHEMENTLY !!!!! refused to say qiqi was a minor after very suspicious s",
+      "content": "its a dehumanizing word that literally kills trans women in real life",
       "author": "princess.goth",
-      "reactions": 3,
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     }
   ]
