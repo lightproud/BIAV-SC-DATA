@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-27",
+  "archived_at": "2026-09-26T20:39:10.990768+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "【忘却前夜】这可能是我此生仅有的机会，耐着性子打完了",
+      "summary": "想到这可能是最后的机会了还是打完了",
+      "source": "bilibili",
+      "time": "2026-09-26T17:06:03+00:00",
+      "url": "https://www.bilibili.com/video/av117338422642535",
+      "engagement": 80,
+      "is_hot": false,
+      "author": "寂榕",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/a0a620e39a760a71cc3c7015cbad930b5f14fccc.jpg",
+      "content_type": "video"
+    }
+  ]
+}

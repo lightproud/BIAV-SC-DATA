@@ -1,8 +1,8 @@
 {
   "date": "2026-09-26",
-  "archived_at": "2026-09-26T15:45:29.169773+00:00",
+  "archived_at": "2026-09-26T20:39:10.987082+00:00",
   "source": "youtube",
-  "item_count": 11,
+  "item_count": 12,
   "items": [
     {
       "title": "Directo relax Morimens",
@@ -136,6 +136,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/D91Z0mnMY1g/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens Bab 2, Chapter 2.14 finals boss",
+      "summary": "Halo teman-teman! Di video kali ini aku mau share guide cara melewati stage sulit di game Morimens menggunakan deck build ...",
+      "source": "youtube",
+      "time": "2026-09-26T11:51:07Z",
+      "url": "https://www.youtube.com/watch?v=pXSjcLcjWU0",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "clipperorvideorandom",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/pXSjcLcjWU0/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
