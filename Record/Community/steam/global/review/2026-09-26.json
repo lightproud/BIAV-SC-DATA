@@ -1,8 +1,8 @@
 {
   "date": "2026-09-26",
-  "archived_at": "2026-09-26T10:49:08.255534+00:00",
+  "archived_at": "2026-09-26T15:45:29.246308+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "[正面] J'ai vite fais jouer, il me donne envie de continu...",
@@ -115,6 +115,29 @@
         "playtime_forever": 946,
         "votes_up": 0,
         "timestamp_created": 1790388514
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 戦闘システムは好きだったが、マップの探索がイベントや日課としても手間で続けることができなかった",
+      "summary": "戦闘システムは好きだったが、マップの探索がイベントや日課としても手間で続けることができなかった",
+      "source": "steam_review",
+      "time": "2026-09-26T12:15:20+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198271531366/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198271531366",
+      "tags": [
+        "japanese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 42882,
+        "votes_up": 0,
+        "timestamp_created": 1790424920
       },
       "region": "global",
       "archive_subtype": "review"

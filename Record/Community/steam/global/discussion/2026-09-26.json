@@ -1,8 +1,8 @@
 {
   "date": "2026-09-26",
-  "archived_at": "2026-09-26T10:49:08.219378+00:00",
+  "archived_at": "2026-09-26T15:45:29.215375+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Steam论坛] I miss the exploration in story mode",
@@ -13,6 +13,23 @@
       "engagement": 1,
       "is_hot": false,
       "author": "(121)exanu",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] 阿拉克涅被改动了吗？",
+      "summary": "以前使用阿拉克涅打‘攻击’，‘守护’牌会触发追击效果，给人套’命运裁定‘。但是刚刚打融灾时却发现没这效果了，是我记错了吗？",
+      "source": "steam_discussion",
+      "time": "2026-09-26T14:06:40+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/590690697298872357/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Greeliser",
       "tags": [
         "steam_forum"
       ],
