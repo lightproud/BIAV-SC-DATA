@@ -1,8 +1,8 @@
 {
   "date": "2026-09-26",
-  "archived_at": "2026-09-25T21:05:48.588898+00:00",
+  "archived_at": "2026-09-26T03:28:35.825622+00:00",
   "source": "reddit",
-  "item_count": 7,
+  "item_count": 10,
   "items": [
     {
       "title": "William playable in 2026?",
@@ -91,6 +91,45 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/Iozstal",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Corposant by foreign gentle",
+      "summary": "&#32; submitted by &#32;  /u/OneThanks3   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-25T23:09:25+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wqasui/corposant_by_foreign_gentle/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/OneThanks3",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Help me with Pontos team please 🥺",
+      "summary": "This is my current Pontos team and I am going through arc 2. Please recommend who replaces who or is this team already okay. Thanks! (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)  &#32; submitted by &#32;  /u/RedactedLife   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-26T02:23:49+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wqetyn/help_me_with_pontos_team_please/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/RedactedLife",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Que team me recomiendan?",
+      "summary": "&#32; submitted by &#32;  /u/tom_naik   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-26T02:04:15+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wqeg1h/que_team_me_recomiendan/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/tom_naik",
       "tags": [],
       "lang": "en",
       "platform_region": ""

@@ -1,0 +1,42 @@
+{
+  "date": "2026-09-26",
+  "archived_at": "2026-09-26T03:28:35.730849+00:00",
+  "source": "bilibili",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "宁妃：不许半场开香槟！",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-25T17:42:32+00:00",
+      "url": "https://www.bilibili.com/video/av117332886165000",
+      "engagement": 122,
+      "is_hot": false,
+      "author": "汤圆Devil",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/667ca5f50f479b4707d361fe782660e238fc03ef.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】70抽出地瓜 哭T﹏T",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-26T01:45:13+00:00",
+      "url": "https://www.bilibili.com/video/av117334798764168",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "喵老狮",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/40714405ef6437a46b69552b61aa1e1410703194.jpg",
+      "content_type": "video"
+    }
+  ]
+}
