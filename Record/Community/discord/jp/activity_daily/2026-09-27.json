@@ -1,23 +1,36 @@
 {
   "date": "2026-09-27",
-  "messages": 11,
-  "unique_authors": 4,
-  "reactions_total": 0,
-  "attachments": 1,
+  "messages": 33,
+  "unique_authors": 5,
+  "reactions_total": 1,
+  "attachments": 7,
   "channel_activity": {
-    "💬なんでも雑談（ネタバレあり）": 3,
+    "💬なんでも雑談（ネタバレあり）": 22,
+    "🙋誰でも質問": 2,
+    "ソナニール号の亡霊": 2,
     "落描き": 2,
     "ぼちぼち描いていきます": 1,
     "描いたもの": 1,
-    "忘却前夜妄想、二次創作部屋": 3,
-    "ソナニール号の亡霊": 1
+    "忘却前夜妄想、二次創作部屋": 3
   },
   "hourly_activity": {
+    "1": 4,
+    "2": 15,
+    "3": 3,
     "0": 11
   },
   "message_types": {
-    "0": 9,
+    "0": 31,
     "19": 2
   },
-  "top_reacted_messages": []
+  "top_reacted_messages": [
+    {
+      "id": "1553473112568496171",
+      "channel_id": "1544992919784521738",
+      "content": "潜水艦じゃない、名前がノーチラス号の客船？ってなんかちょっと縁起悪そう(",
+      "author": "fl0e0l",
+      "reactions": 1,
+      "channel": "ソナニール号の亡霊"
+    }
+  ]
 }
