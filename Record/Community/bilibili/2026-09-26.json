@@ -1,8 +1,8 @@
 {
   "date": "2026-09-26",
-  "archived_at": "2026-09-26T20:39:10.988702+00:00",
+  "archived_at": "2026-09-26T23:23:52.882441+00:00",
   "source": "bilibili",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "要数值没数值，要机制机制垃圾，奥黑策划差不多得了",
@@ -53,6 +53,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/667ca5f50f479b4707d361fe782660e238fc03ef.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "我必须考虑这会不会是此生仅有的机会",
+      "summary": "成功阴到525",
+      "source": "bilibili",
+      "time": "2026-09-26T15:32:54+00:00",
+      "url": "https://www.bilibili.com/video/av117338053544594",
+      "engagement": 107,
+      "is_hot": false,
+      "author": "小红是俺们山东的骄傲",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/7ee6bd4b11e537e2eb091075554460c8e349c303.jpg",
       "content_type": "video"
     },
     {

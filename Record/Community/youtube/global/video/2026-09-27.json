@@ -1,9 +1,26 @@
 {
   "date": "2026-09-27",
-  "archived_at": "2026-09-26T20:39:10.990168+00:00",
+  "archived_at": "2026-09-26T23:23:52.881684+00:00",
   "source": "youtube",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
+    {
+      "title": "Ten Clears of the MOST BAFFLING D-Tide of ALL TIME? Ft. GOgier Pulls and Viewer Teams",
+      "summary": "Well... here we go! I've had a long week and I'm super late to it, but it's time to pull my own GOgier and run through D-Tides and ...",
+      "source": "youtube",
+      "time": "2026-09-26T22:29:19Z",
+      "url": "https://www.youtube.com/watch?v=RZvoKL86M9Q",
+      "engagement": 1256,
+      "is_hot": false,
+      "author": "Rose Guardian Reya",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/RZvoKL86M9Q/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
     {
       "title": "🐔 Its Morimens time",
       "summary": "",
@@ -17,6 +34,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/mHqlj12Py7Q/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Directo relax Morimens",
+      "summary": "No olviden unirse al discord :). https://discord.gg/UgmMCae3Sg.",
+      "source": "youtube",
+      "time": "2026-09-26T22:34:44Z",
+      "url": "https://www.youtube.com/watch?v=ASAHSWJaCqg",
+      "engagement": 25,
+      "is_hot": false,
+      "author": "OcteKG",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/ASAHSWJaCqg/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
