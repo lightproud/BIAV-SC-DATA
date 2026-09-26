@@ -1,35 +1,35 @@
 {
   "date": "2026-09-27",
-  "messages": 2469,
+  "messages": 3942,
   "unique_authors": 166,
-  "reactions_total": 213,
-  "attachments": 174,
+  "reactions_total": 476,
+  "attachments": 256,
   "channel_activity": {
+    "🔸morimens-game-chat": 1986,
+    "🔸canal-español": 134,
+    "🔸canal-português": 9,
+    "🔸ruang-obrolan-indonesia": 32,
+    "🔸traphase": 11,
+    "🔸lore-chat": 12,
+    "🔸lets-count": 6,
+    "🔸team-building": 165,
+    "🔸general-chat": 387,
+    "🔸game-question": 813,
+    "🔸机器人命令┊bot-commands": 12,
+    "When will a passive ability be added to these characters?": 2,
     "🔸綜合討論": 18,
-    "🔸morimens-game-chat": 1387,
     "🔸课间休息闲聊": 2,
     "🔸deutscher-chatraum": 10,
     "🔸chaîne-française": 6,
     "🔸русский-канал": 8,
     "🔸phòng-chat-tiếng-việt": 71,
-    "🔸canal-español": 116,
-    "🔸canal-português": 6,
-    "🔸ruang-obrolan-indonesia": 28,
     "🔸ห้องสนทนาภาษาไทย": 230,
-    "🔸traphase": 5,
-    "🔸lore-chat": 7,
-    "🔸lets-count": 5,
-    "🔸team-building": 74,
-    "🔸general-chat": 81,
-    "🔸game-question": 377,
-    "🔸机器人命令┊bot-commands": 9,
     "我重生了，重生到忘卻前夜宣布關服的那天【多人接力抽象文】": 1,
     "Asking as a game dev.": 3,
     "Time Rewind can disable Lotan: Cetarchon's Rouse": 1,
     "Relic Library QoL": 1,
     "My worries over the future of AA": 4,
     "redesign Gogier. his design and kit are boring": 5,
-    "When will a passive ability be added to these characters?": 1,
     "V2.5.1.0 停服维护公告": 2,
     "it's me, i'm the skull in this one :D": 3,
     "doreposting / unserious doodles / doreyap": 1,
@@ -38,16 +38,19 @@
     "【Newcomer Help】Forum Introduction": 2
   },
   "hourly_activity": {
+    "4": 314,
+    "5": 449,
+    "6": 573,
+    "7": 398,
     "0": 520,
     "1": 492,
     "3": 566,
-    "2": 630,
-    "4": 261
+    "2": 630
   },
   "message_types": {
-    "0": 1712,
-    "19": 749,
-    "20": 8
+    "19": 1257,
+    "0": 2676,
+    "20": 9
   },
   "top_reacted_messages": [
     {
@@ -59,6 +62,14 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1553542576697770025",
+      "channel_id": "1170692781216378960",
+      "content": "you think this now but 7 years from now you'll be married and reminiscing about ",
+      "author": "violettaautumn",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1553438838993715280",
       "channel_id": "1170692781216378960",
       "content": "hai gaiz doresain and i made up he cooperated and let me paint him again :)",
@@ -67,11 +78,91 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1553528164871839774",
+      "channel_id": "1170692781216378960",
+      "content": "anyways i finished my design :3 <@219832442427670529>",
+      "author": "princess.goth",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553542821246672967",
+      "channel_id": "1170692781216378960",
+      "content": "so can one of you all set a level 43 winkle as your support awakener please <:Mu",
+      "author": "reya.li",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1553459125298659401",
       "channel_id": "1170692781216378960",
       "content": "and then league of legends in favorite games 💔💔💔💔",
       "author": "zweihanderlssj",
       "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553543010363641857",
+      "channel_id": "1170692781216378960",
+      "content": "i only made 2 comments and if anyone follows me from those im worried",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553540256719183873",
+      "channel_id": "1170692781216378960",
+      "content": "i was in one forum where the owner was very adamant that spaces should be self m",
+      "author": "violettaautumn",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553540621892059217",
+      "channel_id": "1170692781216378960",
+      "content": "the best part of that forum was said owner called me subhuman for suggesting hav",
+      "author": "violettaautumn",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553542011238359042",
+      "channel_id": "1170692781216378960",
+      "content": "you do just get randomly shown to people too there's like a 'suggested follows' ",
+      "author": "violettaautumn",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553529479773683893",
+      "channel_id": "1170692781216378960",
+      "content": "on to the next project...",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553538768131067985",
+      "channel_id": "1170692781216378960",
+      "content": "\"lived longer than they should have\" ah yes a slur that asks: why haven't you di",
+      "author": "zicma",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553539001607000156",
+      "channel_id": "1170692781216378960",
+      "content": "me when i see a 6000 page long forum thread I posted in that was locked for tear",
+      "author": "violettaautumn",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553546788034584679",
+      "channel_id": "1170692781216378960",
+      "content": "Not enough morimens youtube content to watch so YouTube never recommends it to m",
+      "author": "guava3442",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -99,115 +190,27 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1553437650906644580",
+      "id": "1553515573135015947",
       "channel_id": "1170692781216378960",
-      "content": "https://x.com/haneopng/status/2103827220842303718?s=20",
-      "author": "vaish6421",
+      "content": "110k dmg in bleed and it all went away when boss revived",
+      "author": "goonbred",
       "reactions": 3,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1553447688857456740",
+      "id": "1553530669282361385",
       "channel_id": "1170692781216378960",
-      "content": "errrrrr, he just casually 22 turn HSR lol  <@296679098703544321>",
-      "author": "ice3564",
+      "content": "i'd take 20 dollars for lifetime rewind",
+      "author": "violettaautumn",
       "reactions": 3,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1553452931045662940",
+      "id": "1553532819551293554",
       "channel_id": "1170692781216378960",
-      "content": "seriously.....",
-      "author": "climbkaly",
+      "content": "imagine if british people were real, that really would be spooky",
+      "author": "violettaautumn",
       "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553456760235360490",
-      "channel_id": "1170692781216378960",
-      "content": "collab with helot",
-      "author": "fibrinogen",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553483392148963368",
-      "channel_id": "1170692781216378960",
-      "content": "okay we thought the game was okay a year ago too",
-      "author": "princess.goth",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553485073448435713",
-      "channel_id": "1170692781216378960",
-      "content": "How good is e3 gogier",
-      "author": "guava3442",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553498428812566538",
-      "channel_id": "1170692781216378960",
-      "content": "i win again pandia",
-      "author": "gersona6",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553494761816588310",
-      "channel_id": "1433513650299076780",
-      "content": "WOULD BE SO MUCH BETTER",
-      "author": "verdy_heh",
-      "reactions": 3,
-      "channel": "🔸game-question"
-    },
-    {
-      "id": "1553451445741821952",
-      "channel_id": "1553451445741821952",
-      "content": "doresain actually fought me a little over this one, but we eventually made up an",
-      "author": "glitzy_x",
-      "reactions": 3,
-      "channel": "it's me, i'm the skull in this one :D"
-    },
-    {
-      "id": "1553451026340904992",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "polkarain",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1553436186318733432",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "lycoris_z7",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553437225252032676",
-      "channel_id": "1170692781216378960",
-      "content": "she works great with sorel, too bad sorel doesnt work great",
-      "author": "unknowable3333",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553441884444041371",
-      "channel_id": "1170692781216378960",
-      "content": "I support womens rights and wrongs",
-      "author": "lycoris_z7",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553442173608001687",
-      "channel_id": "1170692781216378960",
-      "content": "***Let's fucking go!?***",
-      "author": "syro_k",
-      "reactions": 2,
       "channel": "🔸morimens-game-chat"
     }
   ]
