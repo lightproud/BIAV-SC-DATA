@@ -1,8 +1,8 @@
 {
   "date": "2026-09-27",
-  "archived_at": "2026-09-26T23:23:52.881684+00:00",
+  "archived_at": "2026-09-27T03:36:02.659840+00:00",
   "source": "youtube",
-  "item_count": 6,
+  "item_count": 8,
   "items": [
     {
       "title": "Ten Clears of the MOST BAFFLING D-Tide of ALL TIME? Ft. GOgier Pulls and Viewer Teams",
@@ -34,6 +34,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/mHqlj12Py7Q/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】狂気！全身筋肉痛悶絶人間【星辰編２章】",
+      "summary": "毎日早寝健康生活しすぎてこの時間でもゴリゴリに眠い 良いことではあるものの配信したい気持ちとのジレンマが凄い ...",
+      "source": "youtube",
+      "time": "2026-09-27T02:09:28Z",
+      "url": "https://www.youtube.com/watch?v=NdwwLDB4HC8",
+      "engagement": 68,
+      "is_hot": false,
+      "author": "to真冬",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/NdwwLDB4HC8/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -102,6 +119,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/ow1ezwkOcE8/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "I tested Ogier, his protection is good, his dmg is... bruh",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-09-27T00:57:43Z",
+      "url": "https://www.youtube.com/watch?v=tilq5pT8xA0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Natrazim",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/tilq5pT8xA0/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

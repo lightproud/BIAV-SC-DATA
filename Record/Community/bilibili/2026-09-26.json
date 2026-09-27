@@ -1,8 +1,8 @@
 {
   "date": "2026-09-26",
-  "archived_at": "2026-09-26T23:23:52.882441+00:00",
+  "archived_at": "2026-09-27T03:36:02.660657+00:00",
   "source": "bilibili",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "要数值没数值，要机制机制垃圾，奥黑策划差不多得了",
@@ -36,6 +36,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/3b85f611613a284d588f10bb7f892bc9fbb36550.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "〖相位〗献祭是一款不可驱散的debuff",
+      "summary": "逐渐变得看不出曾经出血队的模样哩——",
+      "source": "bilibili",
+      "time": "2026-09-26T15:53:38+00:00",
+      "url": "https://www.bilibili.com/video/av117338137563196",
+      "engagement": 135,
+      "is_hot": false,
+      "author": "只想摸鱼的屑-",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/69109632e8b726fda7aa92828637b006f4af8267.jpg",
       "content_type": "video"
     },
     {

@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-27",
+  "archived_at": "2026-09-27T03:36:02.723127+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[负面] 畫風內容都不錯 可惜是手游所以給負評",
+      "summary": "畫風內容都不錯 可惜是手游所以給負評",
+      "source": "steam_review",
+      "time": "2026-09-27T02:04:11+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198241546670/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198241546670",
+      "tags": [
+        "tchinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 11465,
+        "votes_up": 0,
+        "timestamp_created": 1790474651
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] One of the only gacha games I will openly endorse,...",
+      "summary": "One of the only gacha games I will openly endorse, really fun gameplay, phenomenal art and character design, and a surprisingly great story. I originally got it with low expectations but honestly the game is great and keeps me coming back. Vortice my beloved :3",
+      "source": "steam_review",
+      "time": "2026-09-27T00:51:49+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199447113672/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199447113672",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3436,
+        "votes_up": 0,
+        "timestamp_created": 1790470309
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

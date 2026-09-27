@@ -1,8 +1,8 @@
 {
   "date": "2026-09-27",
-  "archived_at": "2026-09-26T23:23:52.884342+00:00",
+  "archived_at": "2026-09-27T03:36:02.661816+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "【忘却前夜】这可能是我此生仅有的机会，耐着性子打完了",
@@ -19,6 +19,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/a0a620e39a760a71cc3c7015cbad930b5f14fccc.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜 希洛 癫狂列车大虫子",
+      "summary": "没梗了\n用自己的小破希洛打打列车吧\n这场造物其实没很好\n基伤造物有点少了\n\n背景音乐：\n0 K - &quot;Voyager III&quot;\nStreet - &quot;花鳥風月&quot;",
+      "source": "bilibili",
+      "time": "2026-09-27T02:01:34+00:00",
+      "url": "https://www.bilibili.com/video/av117340519797124",
+      "engagement": 25,
+      "is_hot": false,
+      "author": "夢遊遊遊遊",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/6da3f4bec93bf3b9a01263b057d5510683ad3082.jpg",
       "content_type": "video"
     }
   ]
