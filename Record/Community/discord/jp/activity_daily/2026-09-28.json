@@ -1,20 +1,23 @@
 {
   "date": "2026-09-28",
-  "messages": 77,
+  "messages": 81,
   "unique_authors": 10,
   "reactions_total": 6,
-  "attachments": 8,
+  "attachments": 9,
   "channel_activity": {
+    "忘却前夜妄想、二次創作部屋": 1,
+    "ソナニール号の亡霊": 3,
     "💬なんでも雑談（ネタバレあり）": 71,
     "🔰初心者質問": 6
   },
   "hourly_activity": {
+    "6": 4,
     "1": 16,
     "5": 1,
     "0": 60
   },
   "message_types": {
-    "0": 74,
+    "0": 78,
     "19": 3
   },
   "top_reacted_messages": [
