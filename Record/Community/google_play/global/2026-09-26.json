@@ -1,8 +1,8 @@
 {
   "date": "2026-09-26",
-  "archived_at": "2026-09-27T11:23:33.191103+00:00",
+  "archived_at": "2026-09-27T16:23:41.461759+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 差评] ★1 一个角色要抽十六个才能满配，给我看笑了",
@@ -29,6 +29,34 @@
       "author": "rt r",
       "tags": [],
       "lang": "ko",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Great game! I especially like the art st",
+      "summary": "Great game! I especially like the art style. The download method is also great because it can continue in the background.",
+      "source": "google_play",
+      "time": "2026-09-26T11:31:25+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-50684a66-ef48-468c-b90c-a7bc18431d7a",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Kru Re",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 simplemente perfeccion",
+      "summary": "simplemente perfeccion",
+      "source": "google_play",
+      "time": "2026-09-26T14:56:06+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-6bc39670-ba35-4fc5-801c-c22cbcc906df",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Eduardo rafael Perez carrillo",
+      "tags": [],
+      "lang": "es",
       "platform_region": "",
       "region": "global"
     }

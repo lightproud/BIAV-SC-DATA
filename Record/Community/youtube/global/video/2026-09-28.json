@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-28",
+  "archived_at": "2026-09-27T16:23:41.325127+00:00",
+  "source": "youtube",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Hardly a Knight (Stream 35) MORIMENS",
+      "summary": "In which GOgier seems to be having a rough time.",
+      "source": "youtube",
+      "time": "2026-09-27T16:00:36Z",
+      "url": "https://www.youtube.com/watch?v=ldWByOp69PI",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "GhotiVT",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/ldWByOp69PI/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "video"
+}

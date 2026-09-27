@@ -1,8 +1,8 @@
 {
   "date": "2026-09-27",
-  "archived_at": "2026-09-27T11:23:33.062557+00:00",
+  "archived_at": "2026-09-27T16:23:41.234146+00:00",
   "source": "bilibili",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "【忘却前夜】负誓奥吉尔摧毁癫狂列车",
@@ -70,6 +70,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/6da3f4bec93bf3b9a01263b057d5510683ad3082.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "「忘却前夜」LOVE ME",
+      "summary": "第一次做这视频做的不怎么好请见谅",
+      "source": "bilibili",
+      "time": "2026-09-27T14:51:56+00:00",
+      "url": "https://www.bilibili.com/video/av117343556541050",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "该用户应该还没注销",
+      "tags": [
+        "MAD·AMV"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/4eaf6b0d46d396c5cbeddbf622e2dc5a835f9435.jpg",
       "content_type": "video"
     },
     {
