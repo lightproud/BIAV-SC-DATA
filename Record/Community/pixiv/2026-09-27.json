@@ -1,0 +1,48 @@
+{
+  "date": "2026-09-27",
+  "archived_at": "2026-09-27T11:23:33.130275+00:00",
+  "source": "pixiv",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "拉拉的蒙娜",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-09-27T18:44:04+09:00",
+      "url": "https://www.pixiv.net/artworks/150176373",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "kama763",
+      "tags": [
+        "女の子",
+        "ラモンナ",
+        "忘却前夜"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/09/27/18/44/04/150176373_p0_square1200.jpg",
+      "content_type": "image"
+    },
+    {
+      "title": "Corposant",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-09-27T18:33:48+09:00",
+      "url": "https://www.pixiv.net/artworks/150175999",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "CaptainFantom",
+      "tags": [
+        "fanart",
+        "Morimens",
+        "忘却前夜",
+        "忘卻前夜",
+        "Corposant"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/custom-thumb/img/2026/09/27/18/33/48/150175999_p0_custom1200.jpg",
+      "content_type": "image"
+    }
+  ]
+}

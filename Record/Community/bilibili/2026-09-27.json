@@ -1,9 +1,26 @@
 {
   "date": "2026-09-27",
-  "archived_at": "2026-09-27T03:36:02.661816+00:00",
+  "archived_at": "2026-09-27T11:23:33.062557+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 5,
   "items": [
+    {
+      "title": "【忘却前夜】负誓奥吉尔摧毁癫狂列车",
+      "summary": "这把有点丑陋，打了38t，\n实际上20多t是很轻松的，\n如果能拿到繁育之理，甚至基本上部分王关都能1t\n\n我们负奥也是成了新时代助战虐菜大c了，\n甚至感觉明天融灾助战负奥单带一队前4波癫狂应该都没什么问题（）",
+      "source": "bilibili",
+      "time": "2026-09-27T06:48:28+00:00",
+      "url": "https://www.bilibili.com/video/av117341643937827",
+      "engagement": 197,
+      "is_hot": false,
+      "author": "A-Tomesdays",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/a7d2b0b87f1e6dba28f5e20301877733304b20c0.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】这可能是我此生仅有的机会，耐着性子打完了",
       "summary": "想到这可能是最后的机会了还是打完了",
@@ -22,6 +39,23 @@
       "content_type": "video"
     },
     {
+      "title": "【忘却前夜】降了难度后，从在地底蠕动变成了在地板蠕动",
+      "summary": "降了难度后，从在地底蠕动变成了在地板蠕动",
+      "source": "bilibili",
+      "time": "2026-09-27T10:00:00+00:00",
+      "url": "https://www.bilibili.com/video/av117342398843382",
+      "engagement": 46,
+      "is_hot": false,
+      "author": "咸鱼梦蝶",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/b0b5c565830e0407e155e569ead9047737bf9cd0.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "忘却前夜 希洛 癫狂列车大虫子",
       "summary": "没梗了\n用自己的小破希洛打打列车吧\n这场造物其实没很好\n基伤造物有点少了\n\n背景音乐：\n0 K - &quot;Voyager III&quot;\nStreet - &quot;花鳥風月&quot;",
       "source": "bilibili",
@@ -36,6 +70,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/6da3f4bec93bf3b9a01263b057d5510683ad3082.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜下载教程｜忘却前夜剧情经营全平台安装，闪退黑屏根治存档导入教程【亝低森咧咧并闭五符和北忛】",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-27T11:15:12+00:00",
+      "url": "https://www.bilibili.com/video/av117342700837041",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "梦绘漫途",
+      "tags": [
+        "动漫杂谈"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/8eec11ba2d071f5944d3fcc7d0d09849f2d18f3b.jpg",
       "content_type": "video"
     }
   ]

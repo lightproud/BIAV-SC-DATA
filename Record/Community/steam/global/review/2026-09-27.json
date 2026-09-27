@@ -1,9 +1,32 @@
 {
   "date": "2026-09-27",
-  "archived_at": "2026-09-27T03:36:02.723127+00:00",
+  "archived_at": "2026-09-27T11:23:33.107098+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 5,
   "items": [
+    {
+      "title": "[正面] 豪玩。玩的够久，喜欢的角色都能满命，官方送抽数很大方，容易全图鉴。回合制卡牌肉鸽策略很好玩，可玩性很...",
+      "summary": "豪玩。玩的够久，喜欢的角色都能满命，官方送抽数很大方，容易全图鉴。回合制卡牌肉鸽策略很好玩，可玩性很高",
+      "source": "steam_review",
+      "time": "2026-09-27T07:47:02+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199758535051/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561199758535051",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 13049,
+        "votes_up": 1,
+        "timestamp_created": 1790495222
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[负面] 畫風內容都不錯 可惜是手游所以給負評",
       "summary": "畫風內容都不錯 可惜是手游所以給負評",
@@ -46,6 +69,52 @@
         "playtime_forever": 3436,
         "votes_up": 0,
         "timestamp_created": 1790470309
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Morimens est vraiment un très bon jeu ! Il reprend...",
+      "summary": "Morimens est vraiment un très bon jeu ! Il reprend un gameplay à la Slay the Spire, mais dans un format gacha. Sincèrement, le farming est étonnamment correct, et les pity sont généreux : il n’est pas très compliqué d’obtenir de bons personnages.\nMême si le jeu vous demandera parfois d’être bien concentré sur certains boss difficiles, il reste vraiment cool pour un titre gratuit.\nLes designs des personnages sont en plus très sympas !",
+      "source": "steam_review",
+      "time": "2026-09-27T08:59:30+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198288338009/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198288338009",
+      "tags": [
+        "french"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1660,
+        "votes_up": 0,
+        "timestamp_created": 1790499570
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] Great intro visuals until you come to the first ga...",
+      "summary": "Great intro visuals until you come to the first gameplay sequence and realize it is one of these cheap mobile games.",
+      "source": "steam_review",
+      "time": "2026-09-27T08:22:04+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198032327533/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198032327533",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 5,
+        "votes_up": 0,
+        "timestamp_created": 1790497324
       },
       "region": "global",
       "archive_subtype": "review"
