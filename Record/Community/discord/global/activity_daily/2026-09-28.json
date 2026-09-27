@@ -1,0 +1,191 @@
+{
+  "date": "2026-09-28",
+  "messages": 284,
+  "unique_authors": 49,
+  "reactions_total": 37,
+  "attachments": 16,
+  "channel_activity": {
+    "🔸綜合討論": 56,
+    "🔸morimens-game-chat": 170,
+    "🔸课间休息闲聊": 5,
+    "🔸phòng-chat-tiếng-việt": 21,
+    "🔸canal-português": 5,
+    "🔸ห้องสนทนาภาษาไทย": 6,
+    "🔸team-building": 6,
+    "🔸general-chat": 3,
+    "🔸game-question": 9,
+    "Where are you staying?": 2,
+    "Need help with team Building for D-Tide": 1
+  },
+  "hourly_activity": {
+    "0": 284
+  },
+  "message_types": {
+    "0": 193,
+    "23": 1,
+    "19": 89,
+    "20": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1553806467331788880",
+      "channel_id": "1170692781216378960",
+      "content": "ts looks so empty",
+      "author": "gersona6",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553805799237750918",
+      "channel_id": "1131839817982947429",
+      "content": "所谓的bug是把之后难7里面的1-4摆进这个版本的1-4？",
+      "author": "yuul_b_alwrigh",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1553807259945926787",
+      "channel_id": "1131839817982947429",
+      "content": "卧槽 有挂",
+      "author": "yuul_b_alwrigh",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1553807685089234977",
+      "channel_id": "1131839817982947429",
+      "content": "我把老玩家的象徵用沒了",
+      "author": "oiia_0216",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1553806201765240894",
+      "channel_id": "1170692781216378960",
+      "content": "Okay I'll do hard mode and then I'll let you know",
+      "author": "cowit_moo22",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553801735430996018",
+      "channel_id": "1400749543288475770",
+      "content": "<@693983290423509042> <@393585313618067456> thanks to u both i managed to clear ",
+      "author": "bitterlemon",
+      "reactions": 2,
+      "channel": "🔸team-building"
+    },
+    {
+      "id": "1553802245143793704",
+      "channel_id": "1131839817982947429",
+      "content": "狂气自由了",
+      "author": "ling_an_",
+      "reactions": 1,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1553807336559214733",
+      "channel_id": "1131839817982947429",
+      "content": "你別叫",
+      "author": "bang_0622",
+      "reactions": 1,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1553807627920744559",
+      "channel_id": "1131839817982947429",
+      "content": "不是改版前玩才會有重複嗎",
+      "author": "fool6692",
+      "reactions": 1,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1553807787736436818",
+      "channel_id": "1131839817982947429",
+      "content": "不用客氣我叫你回來赤石",
+      "author": "oiia_0216",
+      "reactions": 1,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1553801758914912420",
+      "channel_id": "1170692781216378960",
+      "content": "the 250-300 -str value was when my gogier lvl 60 btw, didnt test it after maxed ",
+      "author": "ice3564",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553801882642808873",
+      "channel_id": "1170692781216378960",
+      "content": "I hate her",
+      "author": "sastranuklir7",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553802327826235526",
+      "channel_id": "1170692781216378960",
+      "content": "not a bother at all thank you <3",
+      "author": "violettaautumn",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553803187054579743",
+      "channel_id": "1170692781216378960",
+      "content": "if it's 300 str down at 5 arith it's 100 at 1 arith\nseems pretty good",
+      "author": "violettaautumn",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553803203601109105",
+      "channel_id": "1170692781216378960",
+      "content": "Returnal line and rm, april is for exalt dps vort which is e3+ only and imo a ve",
+      "author": "sisuluasex",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553803290947625094",
+      "channel_id": "1170692781216378960",
+      "content": "only a little bit at the start of the stream, i hope you rested alright ^^",
+      "author": "reya.li",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553804026137808987",
+      "channel_id": "1170692781216378960",
+      "content": "yeah it's 5PM here, i wanted to stream earlier in the day since then most people",
+      "author": "reya.li",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553804585972408453",
+      "channel_id": "1170692781216378960",
+      "content": "how does arith help me press the 24 exalt button fr",
+      "author": "violettaautumn",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553804780449566953",
+      "channel_id": "1170692781216378960",
+      "content": "I'm good, finished chapter 3 and I massacred turn 1 weak battles<:Helot_slack_of",
+      "author": "cowit_moo22",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553804805531770931",
+      "channel_id": "1170692781216378960",
+      "content": "now she cry even harder hahahah",
+      "author": "ice3564",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

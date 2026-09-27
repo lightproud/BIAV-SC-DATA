@@ -1,25 +1,38 @@
 {
   "date": "2026-09-27",
-  "messages": 14811,
+  "messages": 17967,
   "unique_authors": 232,
-  "reactions_total": 1694,
-  "attachments": 734,
+  "reactions_total": 2025,
+  "attachments": 903,
   "channel_activity": {
-    "🔸綜合討論": 306,
-    "🔸morimens-game-chat": 7600,
+    "🔸綜合討論": 582,
+    "🔸阵容构建": 7,
+    "🔸morimens-game-chat": 8416,
+    "🔸剧情交流": 133,
+    "🔸课间休息闲聊": 566,
+    "🔸phòng-chat-tiếng-việt": 1592,
+    "🔸canal-español": 260,
+    "🔸ruang-obrolan-indonesia": 229,
+    "🔸ห้องสนทนาภาษาไทย": 450,
+    "🔸traphase": 32,
+    "🔸team-building": 423,
+    "🔸general-chat": 2290,
+    "🔸game-question": 2726,
+    "🔸机器人命令┊bot-commands": 45,
+    "真的能放到教室裡嗎？？": 3,
+    "YO WHAT IS GOING ON": 3,
+    "D-tide Discussion": 4,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 2,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 1,
+    "V2.5.1.0 停服维护公告": 16,
+    "An Apology and Further Adjustments to the D-Effect Zone": 3,
+    "Where are you staying?": 3,
+    "hamposting by lin": 1,
+    "mo's doresain art posting! (★)": 7,
+    "融災請教": 2,
     "🔸欢乐梗图": 5,
-    "🔸课间休息闲聊": 126,
     "🔸русский-канал": 17,
-    "🔸phòng-chat-tiếng-việt": 731,
-    "🔸canal-español": 248,
-    "🔸ruang-obrolan-indonesia": 205,
-    "🔸ห้องสนทนาภาษาไทย": 349,
-    "🔸traphase": 28,
     "🔸lore-chat": 49,
-    "🔸team-building": 388,
-    "🔸general-chat": 2057,
-    "🔸game-question": 2552,
-    "🔸机器人命令┊bot-commands": 35,
     "我重生了，重生到忘卻前夜宣布關服的那天【多人接力抽象文】": 15,
     "Stuck at \"entering the game\" screen": 1,
     "2x speed": 2,
@@ -28,7 +41,6 @@
     "Balance problem in arc2": 2,
     "关于新版本改动": 2,
     "✅「已回答」建議列車的隨機初始受祝造物和專屬造物改為自選": 2,
-    "V2.5.1.0 停服维护公告": 15,
     "Sticklet's doodle/art dump": 3,
     "【Newcomer Help】Forum Introduction": 3,
     "🔸canal-português": 15,
@@ -51,6 +63,11 @@
     "求隊伍跟目前強度排行😭": 4
   },
   "hourly_activity": {
+    "19": 799,
+    "20": 556,
+    "21": 819,
+    "22": 678,
+    "23": 920,
     "12": 660,
     "13": 1001,
     "14": 970,
@@ -58,7 +75,6 @@
     "16": 1032,
     "17": 1175,
     "18": 954,
-    "19": 616,
     "7": 741,
     "8": 859,
     "10": 746,
@@ -73,10 +89,11 @@
     "2": 630
   },
   "message_types": {
-    "0": 9703,
-    "19": 5073,
-    "6": 1,
-    "20": 34
+    "19": 5857,
+    "0": 12063,
+    "20": 45,
+    "4": 1,
+    "6": 1
   },
   "top_reacted_messages": [
     {
@@ -118,6 +135,14 @@
       "author": "glitzy_x",
       "reactions": 9,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553779218419286106",
+      "channel_id": "1553779218419286106",
+      "content": "教室佈置快截止了，緊急畫一個熔朵\n，教室裡不能放，我就放房間裡了（還挺會獎勵自己\n\n明天揭曉到底能不能放在教室裡",
+      "author": "0_0101._45013",
+      "reactions": 8,
+      "channel": "真的能放到教室裡嗎？？"
     },
     {
       "id": "1553728619891658803",
@@ -184,6 +209,14 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1553755228040339596",
+      "channel_id": "1131839817982947429",
+      "content": "去旅行沒玩一天忘卻前夜，整個人神清氣爽",
+      "author": "arachnids_nacha",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
       "id": "1553678142303113279",
       "channel_id": "1131839817982947429",
       "content": "这个号卖掉啦，这个圈子我先退了。对不起宝们，这个圈已经没办法给我带来快乐了，感觉是一种负担，也没有那么多精力和时间去玩这个啦，虽然很舍不得，但天下没有不散的筵席",
@@ -221,22 +254,6 @@
       "content": "i only made 2 comments and if anyone follows me from those im worried",
       "author": "princess.goth",
       "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553651338074918969",
-      "channel_id": "1131839817982947429",
-      "content": "我现在 520了<:Aurita_please:1356053110375714817>",
-      "author": "ling_an_",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1553713809577746553",
-      "channel_id": "1170692781216378960",
-      "content": "it's toxic yuri. a fully one sided dependency, kath needs corpo to keep her wash",
-      "author": "violettaautumn",
-      "reactions": 5,
       "channel": "🔸morimens-game-chat"
     }
   ]
