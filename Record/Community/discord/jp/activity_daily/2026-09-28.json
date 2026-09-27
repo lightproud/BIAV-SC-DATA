@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-28",
+  "messages": 75,
+  "unique_authors": 10,
+  "reactions_total": 6,
+  "attachments": 7,
+  "channel_activity": {
+    "💬なんでも雑談（ネタバレあり）": 69,
+    "🔰初心者質問": 6
+  },
+  "hourly_activity": {
+    "0": 60,
+    "1": 15
+  },
+  "message_types": {
+    "0": 72,
+    "19": 3
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1553803485554802739",
+      "channel_id": "1377478664609857647",
+      "content": "突然失礼します\n諸事情あって1ヶ月離れてたら帰ってきてくれてありがとうのミニストーリーとイベントあって手厚いなって思った",
+      "author": "achachamaru",
+      "reactions": 2,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1553813147654299779",
+      "channel_id": "1377478664609857647",
+      "content": "私1分",
+      "author": "zzzorz",
+      "reactions": 1,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1553817662759633048",
+      "channel_id": "1377478664609857647",
+      "content": "いつも気絶してる",
+      "author": "zzzorz",
+      "reactions": 1,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1553804191753965669",
+      "channel_id": "1391701560496623688",
+      "content": "ラモンナ３は基本売却用\nカーシア１は好み\nカーシアの狂気をガンガン回したい場合のみ使う",
+      "author": "sugoitsubasanohaetaop",
+      "reactions": 1,
+      "channel": "🔰初心者質問"
+    },
+    {
+      "id": "1553805223145771180",
+      "channel_id": "1391701560496623688",
+      "content": "色々とありがとうございました！とりあえず使ってみて、また困ったことがあれば動画やリプレイなど貼ってアドバイスお願いしたいです！",
+      "author": "tea_528",
+      "reactions": 1,
+      "channel": "🔰初心者質問"
+    }
+  ]
+}
