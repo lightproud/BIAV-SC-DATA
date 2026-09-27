@@ -1,8 +1,8 @@
 {
   "date": "2026-09-27",
-  "archived_at": "2026-09-27T16:23:41.234146+00:00",
+  "archived_at": "2026-09-27T20:52:28.015345+00:00",
   "source": "bilibili",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "【忘却前夜】负誓奥吉尔摧毁癫狂列车",
@@ -19,6 +19,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/a7d2b0b87f1e6dba28f5e20301877733304b20c0.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜萌新不懂就问，这对吗？",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-27T13:29:18+00:00",
+      "url": "https://www.bilibili.com/video/av117343220929954",
+      "engagement": 161,
+      "is_hot": false,
+      "author": "全泰拉最爱小熊宝之人",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/b43285073ddb889e4aeda055244b53a51209d270.jpg",
       "content_type": "video"
     },
     {

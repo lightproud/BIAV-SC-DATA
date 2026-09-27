@@ -1,8 +1,8 @@
 {
   "date": "2026-09-28",
-  "archived_at": "2026-09-27T16:23:41.325127+00:00",
+  "archived_at": "2026-09-27T20:52:28.071582+00:00",
   "source": "youtube",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "Hardly a Knight (Stream 35) MORIMENS",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/ldWByOp69PI/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Ridiculously bad/good? morimens gameplay",
+      "summary": "nothing to see here, just playing this team for the first time because the last dzone is always \"whatever i have left lol\"",
+      "source": "youtube",
+      "time": "2026-09-27T19:42:21Z",
+      "url": "https://www.youtube.com/watch?v=LW7vSIfO7M8",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Lettuce Hunt",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/LW7vSIfO7M8/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

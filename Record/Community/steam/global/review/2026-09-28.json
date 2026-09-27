@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-28",
+  "archived_at": "2026-09-27T20:52:28.088370+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] 还行",
+      "summary": "还行",
+      "source": "steam_review",
+      "time": "2026-09-27T19:30:26+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198686811835/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198686811835",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 357,
+        "votes_up": 0,
+        "timestamp_created": 1790537426
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

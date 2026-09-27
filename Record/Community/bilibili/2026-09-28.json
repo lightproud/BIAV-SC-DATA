@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-28",
+  "archived_at": "2026-09-27T20:52:28.019430+00:00",
+  "source": "bilibili",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "假如我变成了一块石头，你还会爱我吗？",
+      "summary": "抽卡抽来抽去不如初版，没招了，是真不会写提示词",
+      "source": "bilibili",
+      "time": "2026-09-27T18:25:02+00:00",
+      "url": "https://www.bilibili.com/video/av117344395401071",
+      "engagement": 12,
+      "is_hot": false,
+      "author": "Hikbisohir",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/85b9dfafb7677cc2c90a0b92fc8491d2a150b3ae.jpg",
+      "content_type": "video"
+    }
+  ]
+}
