@@ -1,37 +1,45 @@
 {
   "date": "2026-09-27",
-  "messages": 7497,
-  "unique_authors": 166,
-  "reactions_total": 956,
-  "attachments": 409,
+  "messages": 14811,
+  "unique_authors": 232,
+  "reactions_total": 1694,
+  "attachments": 734,
   "channel_activity": {
-    "🔸綜合討論": 27,
-    "🔸morimens-game-chat": 4175,
-    "🔸课间休息闲聊": 5,
-    "🔸phòng-chat-tiếng-việt": 166,
-    "🔸canal-español": 241,
+    "🔸綜合討論": 306,
+    "🔸morimens-game-chat": 7600,
+    "🔸欢乐梗图": 5,
+    "🔸课间休息闲聊": 126,
+    "🔸русский-канал": 17,
+    "🔸phòng-chat-tiếng-việt": 731,
+    "🔸canal-español": 248,
+    "🔸ruang-obrolan-indonesia": 205,
+    "🔸ห้องสนทนาภาษาไทย": 349,
+    "🔸traphase": 28,
+    "🔸lore-chat": 49,
+    "🔸team-building": 388,
+    "🔸general-chat": 2057,
+    "🔸game-question": 2552,
+    "🔸机器人命令┊bot-commands": 35,
+    "我重生了，重生到忘卻前夜宣布關服的那天【多人接力抽象文】": 15,
+    "Stuck at \"entering the game\" screen": 1,
+    "2x speed": 2,
+    "Reunion's Wish only shows up under Posse-All": 1,
+    "gogier stike card bug": 1,
+    "Balance problem in arc2": 2,
+    "关于新版本改动": 2,
+    "✅「已回答」建議列車的隨機初始受祝造物和專屬造物改為自選": 2,
+    "V2.5.1.0 停服维护公告": 15,
+    "Sticklet's doodle/art dump": 3,
+    "【Newcomer Help】Forum Introduction": 3,
     "🔸canal-português": 15,
-    "🔸ruang-obrolan-indonesia": 182,
-    "🔸traphase": 14,
-    "🔸lore-chat": 41,
     "🔸lets-count": 7,
-    "🔸team-building": 280,
-    "🔸general-chat": 553,
     "🔸邀请码互助┊swap-invitation-codes": 1,
-    "🔸game-question": 1476,
-    "🔸机器人命令┊bot-commands": 19,
     "When will a passive ability be added to these characters?": 3,
     "Pls give out origin of time for limited awakener & wheels": 1,
-    "关于新版本改动": 1,
-    "V2.5.1.0 停服维护公告": 7,
     "「官方素材」頻道使用說明": 1,
     "Caraboo wip❤️‍🩹": 1,
-    "Sticklet's doodle/art dump": 1,
     "🔸deutscher-chatraum": 10,
     "🔸chaîne-française": 6,
-    "🔸русский-канал": 8,
-    "🔸ห้องสนทนาภาษาไทย": 230,
-    "我重生了，重生到忘卻前夜宣布關服的那天【多人接力抽象文】": 1,
     "Asking as a game dev.": 3,
     "Time Rewind can disable Lotan: Cetarchon's Rouse": 1,
     "Relic Library QoL": 1,
@@ -40,16 +48,22 @@
     "it's me, i'm the skull in this one :D": 3,
     "doreposting / unserious doodles / doreyap": 1,
     "V2.5.0 命运剧院┊Theater of Fate": 1,
-    "求隊伍跟目前強度排行😭": 4,
-    "【Newcomer Help】Forum Introduction": 2
+    "求隊伍跟目前強度排行😭": 4
   },
   "hourly_activity": {
+    "12": 660,
+    "13": 1001,
+    "14": 970,
+    "15": 1088,
+    "16": 1032,
+    "17": 1175,
+    "18": 954,
+    "19": 616,
     "7": 741,
     "8": 859,
     "10": 746,
     "11": 593,
     "9": 832,
-    "12": 182,
     "4": 314,
     "5": 449,
     "6": 573,
@@ -59,9 +73,10 @@
     "2": 630
   },
   "message_types": {
-    "0": 4815,
-    "19": 2662,
-    "20": 20
+    "0": 9703,
+    "19": 5073,
+    "6": 1,
+    "20": 34
   },
   "top_reacted_messages": [
     {
@@ -71,6 +86,22 @@
       "author": "violettaautumn",
       "reactions": 12,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553634399541661777",
+      "channel_id": "1131839817982947429",
+      "content": "哪裏有肉便器",
+      "author": "ahuahuahua",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1553698484476182619",
+      "channel_id": "1131839817982947429",
+      "content": "？大佬我在融災是路邊\n你應該要去找降配置高手",
+      "author": "water_heart",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
     },
     {
       "id": "1553542576697770025",
@@ -89,12 +120,44 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1553728619891658803",
+      "channel_id": "1170692781216378960",
+      "content": "~~I should bot 1m votes to aurita~~",
+      "author": "aurora3981",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1553528164871839774",
       "channel_id": "1170692781216378960",
       "content": "anyways i finished my design :3 <@219832442427670529>",
       "author": "princess.goth",
       "reactions": 8,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553696007609389158",
+      "channel_id": "1131839817982947429",
+      "content": "小知識\n忘卻裡很多看起來像是同時發生的事情其實都是有順序的\n就像是你打雙子用AOE同時打黑子和白子\n那會先判定擊中在前排的黑子\n所以如果AOE能秒掉黑子的話白子",
+      "author": "water_heart",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1553661995637805107",
+      "channel_id": "1170692781216378960",
+      "content": "mouchette propaganda(?)",
+      "author": "enchaaanttt",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553685175400140820",
+      "channel_id": "1553685175400140820",
+      "content": "The button for 2x speed really needs to be moved away from things that you press",
+      "author": "foxblood13",
+      "reactions": 7,
+      "channel": "2x speed"
     },
     {
       "id": "1553549858856640575",
@@ -118,6 +181,22 @@
       "content": "and then league of legends in favorite games 💔💔💔💔",
       "author": "zweihanderlssj",
       "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553678142303113279",
+      "channel_id": "1131839817982947429",
+      "content": "这个号卖掉啦，这个圈子我先退了。对不起宝们，这个圈已经没办法给我带来快乐了，感觉是一种负担，也没有那么多精力和时间去玩这个啦，虽然很舍不得，但天下没有不散的筵席",
+      "author": "xianrenwurao",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1553728047318827068",
+      "channel_id": "1170692781216378960",
+      "content": "Nuh uh",
+      "author": "sirtealot",
+      "reactions": 6,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -145,83 +224,19 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1553565647525646430",
-      "channel_id": "1170692781216378960",
-      "content": "gonna ask ang to kick you for progress reset",
-      "author": "princess.goth",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553566499271086135",
-      "channel_id": "1170692781216378960",
-      "content": "if you disagree youre homophobic",
-      "author": "princess.goth",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553566850976186369",
-      "channel_id": "1170692781216378960",
-      "content": "I imagine GJenkin would be called Jenkins and it's just Brown coagulated into a ",
-      "author": "samas_uttu",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553579427215048747",
-      "channel_id": "1170692781216378960",
-      "content": "can you be mean to me as well :D",
-      "author": "direhands",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553584338304499793",
-      "channel_id": "1170692781216378960",
-      "content": "Fire ellie for being homphpbic",
-      "author": "guava3442",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553540256719183873",
-      "channel_id": "1170692781216378960",
-      "content": "i was in one forum where the owner was very adamant that spaces should be self m",
-      "author": "violettaautumn",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553540621892059217",
-      "channel_id": "1170692781216378960",
-      "content": "the best part of that forum was said owner called me subhuman for suggesting hav",
-      "author": "violettaautumn",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553542011238359042",
-      "channel_id": "1170692781216378960",
-      "content": "you do just get randomly shown to people too there's like a 'suggested follows' ",
-      "author": "violettaautumn",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553609324012507137",
+      "id": "1553651338074918969",
       "channel_id": "1131839817982947429",
-      "content": "~~aaa~~",
-      "author": "foxcatfurry",
-      "reactions": 4,
+      "content": "我现在 520了<:Aurita_please:1356053110375714817>",
+      "author": "ling_an_",
+      "reactions": 5,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1553550708719231047",
+      "id": "1553713809577746553",
       "channel_id": "1170692781216378960",
-      "content": "ur just so popular in the morimens community that all 12 morimens fan tune in",
-      "author": "lukityswoogity",
-      "reactions": 4,
+      "content": "it's toxic yuri. a fully one sided dependency, kath needs corpo to keep her wash",
+      "author": "violettaautumn",
+      "reactions": 5,
       "channel": "🔸morimens-game-chat"
     }
   ]
