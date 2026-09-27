@@ -1,28 +1,35 @@
 {
   "date": "2026-09-27",
-  "messages": 3942,
+  "messages": 7497,
   "unique_authors": 166,
-  "reactions_total": 476,
-  "attachments": 256,
+  "reactions_total": 956,
+  "attachments": 409,
   "channel_activity": {
-    "🔸morimens-game-chat": 1986,
-    "🔸canal-español": 134,
-    "🔸canal-português": 9,
-    "🔸ruang-obrolan-indonesia": 32,
-    "🔸traphase": 11,
-    "🔸lore-chat": 12,
-    "🔸lets-count": 6,
-    "🔸team-building": 165,
-    "🔸general-chat": 387,
-    "🔸game-question": 813,
-    "🔸机器人命令┊bot-commands": 12,
-    "When will a passive ability be added to these characters?": 2,
-    "🔸綜合討論": 18,
-    "🔸课间休息闲聊": 2,
+    "🔸綜合討論": 27,
+    "🔸morimens-game-chat": 4175,
+    "🔸课间休息闲聊": 5,
+    "🔸phòng-chat-tiếng-việt": 166,
+    "🔸canal-español": 241,
+    "🔸canal-português": 15,
+    "🔸ruang-obrolan-indonesia": 182,
+    "🔸traphase": 14,
+    "🔸lore-chat": 41,
+    "🔸lets-count": 7,
+    "🔸team-building": 280,
+    "🔸general-chat": 553,
+    "🔸邀请码互助┊swap-invitation-codes": 1,
+    "🔸game-question": 1476,
+    "🔸机器人命令┊bot-commands": 19,
+    "When will a passive ability be added to these characters?": 3,
+    "Pls give out origin of time for limited awakener & wheels": 1,
+    "关于新版本改动": 1,
+    "V2.5.1.0 停服维护公告": 7,
+    "「官方素材」頻道使用說明": 1,
+    "Caraboo wip❤️‍🩹": 1,
+    "Sticklet's doodle/art dump": 1,
     "🔸deutscher-chatraum": 10,
     "🔸chaîne-française": 6,
     "🔸русский-канал": 8,
-    "🔸phòng-chat-tiếng-việt": 71,
     "🔸ห้องสนทนาภาษาไทย": 230,
     "我重生了，重生到忘卻前夜宣布關服的那天【多人接力抽象文】": 1,
     "Asking as a game dev.": 3,
@@ -30,7 +37,6 @@
     "Relic Library QoL": 1,
     "My worries over the future of AA": 4,
     "redesign Gogier. his design and kit are boring": 5,
-    "V2.5.1.0 停服维护公告": 2,
     "it's me, i'm the skull in this one :D": 3,
     "doreposting / unserious doodles / doreyap": 1,
     "V2.5.0 命运剧院┊Theater of Fate": 1,
@@ -38,19 +44,24 @@
     "【Newcomer Help】Forum Introduction": 2
   },
   "hourly_activity": {
+    "7": 741,
+    "8": 859,
+    "10": 746,
+    "11": 593,
+    "9": 832,
+    "12": 182,
     "4": 314,
     "5": 449,
     "6": 573,
-    "7": 398,
     "0": 520,
     "1": 492,
     "3": 566,
     "2": 630
   },
   "message_types": {
-    "19": 1257,
-    "0": 2676,
-    "20": 9
+    "0": 4815,
+    "19": 2662,
+    "20": 20
   },
   "top_reacted_messages": [
     {
@@ -86,6 +97,14 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1553549858856640575",
+      "channel_id": "1170692781216378960",
+      "content": "subscribe, hit the bell, comment, tell your friends, share this video, copy past",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1553542821246672967",
       "channel_id": "1170692781216378960",
       "content": "so can one of you all set a level 43 winkle as your support awakener please <:Mu",
@@ -102,11 +121,67 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1553549171191971971",
+      "channel_id": "1170692781216378960",
+      "content": "(as in if a higher percentage of people who watch me click the funny youtube bel",
+      "author": "reya.li",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553584569058599023",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1553543010363641857",
       "channel_id": "1170692781216378960",
       "content": "i only made 2 comments and if anyone follows me from those im worried",
       "author": "princess.goth",
       "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553565647525646430",
+      "channel_id": "1170692781216378960",
+      "content": "gonna ask ang to kick you for progress reset",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553566499271086135",
+      "channel_id": "1170692781216378960",
+      "content": "if you disagree youre homophobic",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553566850976186369",
+      "channel_id": "1170692781216378960",
+      "content": "I imagine GJenkin would be called Jenkins and it's just Brown coagulated into a ",
+      "author": "samas_uttu",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553579427215048747",
+      "channel_id": "1170692781216378960",
+      "content": "can you be mean to me as well :D",
+      "author": "direhands",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553584338304499793",
+      "channel_id": "1170692781216378960",
+      "content": "Fire ellie for being homphpbic",
+      "author": "guava3442",
+      "reactions": 5,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -134,83 +209,19 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1553529479773683893",
-      "channel_id": "1170692781216378960",
-      "content": "on to the next project...",
-      "author": "princess.goth",
+      "id": "1553609324012507137",
+      "channel_id": "1131839817982947429",
+      "content": "~~aaa~~",
+      "author": "foxcatfurry",
       "reactions": 4,
-      "channel": "🔸morimens-game-chat"
+      "channel": "🔸綜合討論"
     },
     {
-      "id": "1553538768131067985",
+      "id": "1553550708719231047",
       "channel_id": "1170692781216378960",
-      "content": "\"lived longer than they should have\" ah yes a slur that asks: why haven't you di",
-      "author": "zicma",
+      "content": "ur just so popular in the morimens community that all 12 morimens fan tune in",
+      "author": "lukityswoogity",
       "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553539001607000156",
-      "channel_id": "1170692781216378960",
-      "content": "me when i see a 6000 page long forum thread I posted in that was locked for tear",
-      "author": "violettaautumn",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553546788034584679",
-      "channel_id": "1170692781216378960",
-      "content": "Not enough morimens youtube content to watch so YouTube never recommends it to m",
-      "author": "guava3442",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553442683622785195",
-      "channel_id": "1170692781216378960",
-      "content": "ruhiger zwerg",
-      "author": "serahh__",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553456336677773435",
-      "channel_id": "1170692781216378960",
-      "content": "Someone said to me Ghelot was a collab character",
-      "author": "iunosbeloved",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553488006583812268",
-      "channel_id": "1170692781216378960",
-      "content": "got eaten",
-      "author": "princess.goth",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553515573135015947",
-      "channel_id": "1170692781216378960",
-      "content": "110k dmg in bleed and it all went away when boss revived",
-      "author": "goonbred",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553530669282361385",
-      "channel_id": "1170692781216378960",
-      "content": "i'd take 20 dollars for lifetime rewind",
-      "author": "violettaautumn",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553532819551293554",
-      "channel_id": "1170692781216378960",
-      "content": "imagine if british people were real, that really would be spooky",
-      "author": "violettaautumn",
-      "reactions": 3,
       "channel": "🔸morimens-game-chat"
     }
   ]
