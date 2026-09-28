@@ -1,8 +1,8 @@
 {
   "date": "2026-09-28",
-  "archived_at": "2026-09-28T03:35:13.015726+00:00",
+  "archived_at": "2026-09-28T12:54:18.620063+00:00",
   "source": "steam",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "[Steam论坛] 唤醒体",
@@ -47,6 +47,23 @@
       "engagement": 1,
       "is_hot": false,
       "author": "romanyoyo",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] 阿拉克涅被改动了吗？",
+      "summary": "以前使用阿拉克涅打‘攻击’，‘守护’牌会触发追击效果，给人套’命运裁定‘。但是刚刚打融灾时却发现没这效果了，是我记错了吗？",
+      "source": "steam_discussion",
+      "time": "2026-09-28T06:20:35+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/590690697298872357/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Greeliser",
       "tags": [
         "steam_forum"
       ],
