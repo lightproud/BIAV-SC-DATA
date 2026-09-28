@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-29",
+  "messages": 6,
+  "unique_authors": 3,
+  "reactions_total": 1,
+  "attachments": 1,
+  "channel_activity": {
+    "💬なんでも雑談（ネタバレあり）": 2,
+    "ソナニール号の亡霊": 4
+  },
+  "hourly_activity": {
+    "0": 4,
+    "1": 2
+  },
+  "message_types": {
+    "0": 6
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1554189446180774032",
+      "channel_id": "1544992919784521738",
+      "content": "中心部分のデザインはかなりコンパスっぽいよね",
+      "author": "fl0e0l",
+      "reactions": 1,
+      "channel": "ソナニール号の亡霊"
+    }
+  ]
+}
