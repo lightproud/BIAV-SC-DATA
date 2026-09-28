@@ -1,43 +1,62 @@
 {
   "date": "2026-09-28",
-  "messages": 3449,
-  "unique_authors": 140,
-  "reactions_total": 370,
-  "attachments": 200,
+  "messages": 7963,
+  "unique_authors": 210,
+  "reactions_total": 890,
+  "attachments": 461,
   "channel_activity": {
-    "🔸morimens-game-chat": 1903,
-    "🔸课间休息闲聊": 11,
-    "🔸canal-español": 16,
-    "🔸ruang-obrolan-indonesia": 2,
-    "🔸traphase": 10,
-    "🔸lore-chat": 12,
-    "🔸team-building": 298,
-    "🔸general-chat": 45,
+    "🔸綜合討論": 329,
+    "🔸morimens-game-chat": 3801,
+    "🔸剧情交流": 6,
+    "🔸晒卡分享": 1,
+    "🔸相位对弈": 1,
+    "🔸课间休息闲聊": 16,
+    "🔸phòng-chat-tiếng-việt": 194,
+    "🔸canal-español": 36,
+    "🔸canal-português": 60,
+    "🔸ruang-obrolan-indonesia": 46,
+    "🔸ห้องสนทนาภาษาไทย": 24,
+    "🔸traphase": 12,
+    "🔸lore-chat": 17,
+    "🔸team-building": 307,
+    "🔸general-chat": 298,
+    "🔸game-question": 2697,
+    "🔸机器人命令┊bot-commands": 16,
+    "真的能放到教室裡嗎？？": 1,
+    "第六章_終關BOSS數值與戰鬥節奏問題": 1,
+    "When will a passive ability be added to these characters?": 1,
+    "Alternate realms Enhancement": 1,
+    "NOT ANSWERED: Jenkins": 1,
+    "D-tide Discussion": 35,
+    "Better handling of nerfs through bug fixes": 2,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 1,
+    "Please rework how Propagation Caro works for the future units": 1,
+    "V2.5.1.0 停服维护公告": 1,
+    "📢 「官方素材」频道使用说明丨Official Assets Channel - Guide": 3,
+    "Where are you staying?": 22,
+    "morimens team generator!!": 2,
+    "Morimens Timeline Megasheet (and other Miscellaneous lore stuff)": 1,
+    "融災請教": 4,
+    "【Newcomer Help】Forum Introduction": 2,
     "🔸邀请码互助┊swap-invitation-codes": 2,
-    "🔸game-question": 823,
-    "🔸机器人命令┊bot-commands": 8,
-    "D-tide Discussion": 9,
     "An Apology and Further Adjustments to the D-Effect Zone": 1,
     "Medio sprite edits": 3,
-    "Where are you staying?": 15,
     "Pull advice?": 3,
     "need help with overall team building": 6,
-    "【Newcomer Help】Forum Introduction": 1,
-    "🔸綜合討論": 156,
-    "🔸剧情交流": 5,
     "🔸한국어-채팅방": 2,
-    "🔸phòng-chat-tiếng-việt": 88,
-    "🔸canal-português": 10,
-    "🔸ห้องสนทนาภาษาไทย": 11,
     "Recategorize Awakener Roles": 1,
     "融灾禁区难度异常问题说明及补偿┊D-Effect Zone Difficulty Anomaly Notice and Compensation": 1,
-    "融災請教": 3,
     "Need help with team Building for D-Tide": 4
   },
   "hourly_activity": {
+    "8": 629,
+    "9": 1499,
+    "10": 1091,
+    "11": 935,
+    "12": 291,
+    "7": 483,
     "5": 140,
     "6": 539,
-    "7": 414,
     "0": 483,
     "1": 610,
     "2": 609,
@@ -45,12 +64,44 @@
     "4": 308
   },
   "message_types": {
-    "19": 1097,
-    "0": 2336,
-    "20": 15,
+    "19": 2545,
+    "0": 5394,
+    "20": 23,
     "23": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1553937459018997853",
+      "channel_id": "1131839817982947429",
+      "content": "要被小蜜蜂插到外翻了",
+      "author": "ahuahuahua",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1553925315514990624",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553928230631776287",
+      "channel_id": "1170692781216378960",
+      "content": "react fish if i should stream dtide",
+      "author": "syruponstrawberrycake",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553968439465349211",
+      "channel_id": "1170692781216378960",
+      "content": "No more wheel jail i guess <:Helot_slack_off:1459092159465521184>",
+      "author": "vulcan1613",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1553855137913774261",
       "channel_id": "1170692781216378960",
@@ -60,12 +111,60 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1553937681250259054",
+      "channel_id": "1433513650299076780",
+      "content": "https://klipy.com/gifs/vortice-morimens",
+      "author": "slymate_",
+      "reactions": 6,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1553967022675726498",
+      "channel_id": "1170692781216378960",
+      "content": "almost tempted to get out of bed and attempt to redeem myself after the \"xu 15 s",
+      "author": "reya.li",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553933142581190677",
+      "channel_id": "1433513650299076780",
+      "content": "5 minutes before my 525 is gone...",
+      "author": "idiota__",
+      "reactions": 5,
+      "channel": "🔸game-question"
+    },
+    {
       "id": "1553859879624638465",
       "channel_id": "1170692781216378960",
       "content": "me when i try to capture my favorite morimon but arachne shoots it while im not ",
       "author": "princess.goth",
       "reactions": 5,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553926209140690994",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1553919076517281824",
+      "channel_id": "1433513650299076780",
+      "content": "Oh lmao",
+      "author": "verdy_heh",
+      "reactions": 4,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1553942238952689715",
+      "channel_id": "1433513650299076780",
+      "content": "525 is just suffering for bragging rights or maybe just um showing off money+ski",
+      "author": "._ingg",
+      "reactions": 4,
+      "channel": "🔸game-question"
     },
     {
       "id": "1553825647431000155",
@@ -84,131 +183,51 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1553878751597564039",
-      "channel_id": "1170692781216378960",
-      "content": "why did they abbreviate cyber punk",
-      "author": "princess.goth",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553808440655220938",
+      "id": "1553933040189968554",
       "channel_id": "1131839817982947429",
-      "content": "~~好壞，欺騙我一個萌新回答~~",
-      "author": "under_bright_light",
+      "content": "",
+      "author": "akalanden",
       "reactions": 3,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1553811217259302974",
+      "id": "1553939536562622606",
       "channel_id": "1131839817982947429",
-      "content": "不放",
-      "author": "kemomimi_",
+      "content": "難度那麼高這樣我要怎麼打過融災",
+      "author": "water_heart",
       "reactions": 3,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1553813474952609873",
+      "id": "1553943302796218399",
       "channel_id": "1131839817982947429",
-      "content": "我想要很多F佬",
-      "author": "kemomimi_",
+      "content": "各位大佬可不可以放菜狗阿花一條生路",
+      "author": "ahuahuahua",
       "reactions": 3,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1553813750207881401",
+      "id": "1553960630963146864",
       "channel_id": "1131839817982947429",
-      "content": "我需要合成UR的F佬做脑缸",
-      "author": "kemomimi_",
+      "content": "好的幫你換成小蜜蜂",
+      "author": "ahuahuahua",
       "reactions": 3,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1553820815831732375",
+      "id": "1553932082785427456",
       "channel_id": "1170692781216378960",
-      "content": "never happened before btw",
-      "author": "direhands",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553821391302824027",
-      "channel_id": "1170692781216378960",
-      "content": "this fells like its in the right direction",
-      "author": "gersona6",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553825476760309801",
-      "channel_id": "1170692781216378960",
-      "content": "just exalt celeste 8 times this turn and youll live",
-      "author": "direhands",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553840224063328267",
-      "channel_id": "1170692781216378960",
-      "content": "12 more copies...../s",
-      "author": "direhands",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553854023159783575",
-      "channel_id": "1170692781216378960",
-      "content": "yes good job",
-      "author": "princess.goth",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553862453681590426",
-      "channel_id": "1170692781216378960",
-      "content": "GAMINGA",
-      "author": "bitterlemon",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1553820363241037905",
-      "channel_id": "1400749543288475770",
-      "content": "alright got it",
-      "author": "wishuri.",
-      "reactions": 3,
-      "channel": "🔸team-building"
-    },
-    {
-      "id": "1553820767790047325",
-      "channel_id": "1400749543288475770",
-      "content": "alright pulled like 3 times and got nothing now im out of silver (850 left)",
-      "author": "wishuri.",
-      "reactions": 3,
-      "channel": "🔸team-building"
-    },
-    {
-      "id": "1553817868800368751",
-      "channel_id": "1543760297637187614",
-      "content": "when the update drops and we realize their changes arent as good as we expected",
-      "author": "flocke999",
-      "reactions": 3,
-      "channel": "D-tide Discussion"
-    },
-    {
-      "id": "1553893172013437018",
-      "channel_id": "1170692781216378960",
-      "content": "i forgot how annoying these fights are",
+      "content": "can this last one be gogier i want to maul him like a feral animal",
       "author": "thereaperinthedresss",
-      "reactions": 2,
+      "reactions": 3,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1553893539958751445",
+      "id": "1553968183462076428",
       "channel_id": "1170692781216378960",
-      "content": "Borrow Mouchette + p chaos + saya + g ramona posse.\nClear all in 1 turn",
-      "author": "aurora3981",
-      "reactions": 2,
+      "content": "First *literally the strongest dps in the game by a significant margin* clear ha",
+      "author": "sirtealot",
+      "reactions": 3,
       "channel": "🔸morimens-game-chat"
     }
   ]
