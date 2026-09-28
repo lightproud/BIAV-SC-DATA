@@ -1,8 +1,8 @@
 {
   "date": "2026-09-28",
-  "archived_at": "2026-09-27T23:38:48.322815+00:00",
+  "archived_at": "2026-09-28T03:35:13.043298+00:00",
   "source": "reddit",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "What is the best team to clear main story right now?",
@@ -52,6 +52,19 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/NoAtmosphere9209",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Me on Thais loading screen",
+      "summary": "&#32; submitted by &#32;  /u/deejayej   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-28T03:26:31+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1ws3sfw/me_on_thais_loading_screen/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/deejayej",
       "tags": [],
       "lang": "en",
       "platform_region": ""

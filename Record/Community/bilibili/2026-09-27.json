@@ -1,8 +1,8 @@
 {
   "date": "2026-09-27",
-  "archived_at": "2026-09-27T23:38:48.276435+00:00",
+  "archived_at": "2026-09-28T03:35:12.986897+00:00",
   "source": "bilibili",
-  "item_count": 7,
+  "item_count": 8,
   "items": [
     {
       "title": "【忘却前夜】负誓奥吉尔摧毁癫狂列车",
@@ -36,6 +36,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/b43285073ddb889e4aeda055244b53a51209d270.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】bug融灾500分自存",
+      "summary": "我必须开始思考这是否是我玩这个游戏以来唯一一次吃到500，打得很水。",
+      "source": "bilibili",
+      "time": "2026-09-27T09:40:13+00:00",
+      "url": "https://www.bilibili.com/video/av117342331800878",
+      "engagement": 149,
+      "is_hot": false,
+      "author": "大团子不是团子",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/70007c95fe04093befd5382ce8492e87f7321776.jpg",
       "content_type": "video"
     },
     {

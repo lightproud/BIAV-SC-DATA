@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-28",
+  "archived_at": "2026-09-28T03:35:13.015726+00:00",
+  "source": "steam",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "[Steam论坛] 唤醒体",
+      "summary": "哪个防御型唤醒体比较好啊",
+      "source": "steam_discussion",
+      "time": "2026-09-28T02:03:13+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/591813764140012968/",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "心已被她占据",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] 很好的游戏，很美的画风，我真的爱上了",
+      "summary": "我玩过很少这种2D二游，第一次让我觉得喜欢的是明日方舟，这个游戏还是我偶然刷到的，这个标签都很吸引我，刚开始尝试玩的时候很喜欢这个美术风格，我没有玩太长时间，对角色配队也不是很熟悉，这个游戏我真的挺喜欢的希望工作室做大做强，可以继续做这种有趣的游戏ːsteamthumbsupː...",
+      "source": "steam_discussion",
+      "time": "2026-09-28T01:48:54+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/528764739481867883/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "123456",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] 应急灵知体为什么不能在沉淀兑换里兑换了？",
+      "summary": "更新后应急灵知体在哪儿获取啊？不能兑换那简直没法玩了",
+      "source": "steam_discussion",
+      "time": "2026-09-28T01:31:39+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/528765047224295730/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "romanyoyo",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}

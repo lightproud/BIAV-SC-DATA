@@ -1,9 +1,43 @@
 {
   "date": "2026-09-28",
-  "archived_at": "2026-09-27T23:38:48.277936+00:00",
+  "archived_at": "2026-09-28T03:35:12.986408+00:00",
   "source": "bilibili",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
+    {
+      "title": "【忘却前夜】9.28-10.12容灾攻略",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-28T02:56:42+00:00",
+      "url": "https://www.bilibili.com/video/av117346408599888",
+      "engagement": 610,
+      "is_hot": false,
+      "author": "金发女人丨型",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/7103fc51af94b042f3a092660e0070356bb5104c.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "琵琶曲 | 地瓜追杀N的珍贵录像",
+      "summary": "小时候看完这集吃亿兆耀斑了",
+      "source": "bilibili",
+      "time": "2026-09-27T16:31:31+00:00",
+      "url": "https://www.bilibili.com/video/av117343942346706",
+      "engagement": 257,
+      "is_hot": false,
+      "author": "Au9usTus_",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/3b2ba6ee923f546fdbd0b5cb02f6660a2d84df41.jpg",
+      "content_type": "video"
+    },
     {
       "title": "假如我变成了一块石头，你还会爱我吗？",
       "summary": "抽卡抽来抽去不如初版，没招了，是真不会写提示词",

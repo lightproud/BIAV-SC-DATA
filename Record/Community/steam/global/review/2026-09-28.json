@@ -1,8 +1,8 @@
 {
   "date": "2026-09-28",
-  "archived_at": "2026-09-27T23:38:48.325800+00:00",
+  "archived_at": "2026-09-28T03:35:13.047410+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[正面] 还行",
@@ -23,6 +23,29 @@
         "playtime_forever": 357,
         "votes_up": 0,
         "timestamp_created": 1790537426
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] thais on top.",
+      "summary": "thais on top.",
+      "source": "steam_review",
+      "time": "2026-09-28T01:23:54+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199147647105/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199147647105",
+      "tags": [
+        "spanish"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 527,
+        "votes_up": 0,
+        "timestamp_created": 1790558634
       },
       "region": "global",
       "archive_subtype": "review"
