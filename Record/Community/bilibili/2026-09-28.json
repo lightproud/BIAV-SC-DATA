@@ -1,9 +1,43 @@
 {
   "date": "2026-09-28",
-  "archived_at": "2026-09-28T12:54:18.591346+00:00",
+  "archived_at": "2026-09-28T21:05:57.991309+00:00",
   "source": "bilibili",
-  "item_count": 13,
+  "item_count": 17,
   "items": [
+    {
+      "title": "【忘却前夜】本期容灾省流",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-28T13:45:27+00:00",
+      "url": "https://www.bilibili.com/video/av117348958737760",
+      "engagement": 2227,
+      "is_hot": false,
+      "author": "金发女人丨型",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/59ae3fdb330667d9f7bd0b04ef0107d7da7d4b9a.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】掩面痴醉惑众生，缸中癫狂赐终末！徐朵毒队阵容攻略",
+      "summary": "趁早把想做的东西做了，万一未来真的跑路可以不留心理负担。。。。。。",
+      "source": "bilibili",
+      "time": "2026-09-28T13:05:20+00:00",
+      "url": "https://www.bilibili.com/video/av117348791031293",
+      "engagement": 997,
+      "is_hot": false,
+      "author": "花岚天音Amane",
+      "tags": [
+        "桌游棋牌"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/581266f67212cb9971d886bbd90f4d96c7ba49fa.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】9.28-10.12容灾攻略",
       "summary": "",
@@ -73,6 +107,23 @@
       "content_type": "video"
     },
     {
+      "title": "【忘却前夜】温卡船莫4-7",
+      "summary": "传统大炮来了\n一把打一小时，还好不用凹死抗凹世界线……",
+      "source": "bilibili",
+      "time": "2026-09-28T15:24:07+00:00",
+      "url": "https://www.bilibili.com/video/av117349327835619",
+      "engagement": 229,
+      "is_hot": false,
+      "author": "朝星-",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/4f35159e58e1f77c933cd48690bf813d919d94c9.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "忘却前夜 点击查看万古之眸 癫狂列车大虫子",
       "summary": "背景音乐：Rigël Theatre - &quot;Lurie&quot;",
       "source": "bilibili",
@@ -104,6 +155,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/d2dd6ad14065b902c9dc36d44cef0317dc47f2de.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】本期融灾500",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-28T12:31:00+00:00",
+      "url": "https://www.bilibili.com/video/av117348640035058",
+      "engagement": 156,
+      "is_hot": false,
+      "author": "星咏ようむ",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/fc2a81953dd1284b7574013f6b829f7525acee45.jpg",
       "content_type": "video"
     },
     {

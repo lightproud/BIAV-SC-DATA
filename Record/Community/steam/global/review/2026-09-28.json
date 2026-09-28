@@ -1,8 +1,8 @@
 {
   "date": "2026-09-28",
-  "archived_at": "2026-09-28T12:54:18.654940+00:00",
+  "archived_at": "2026-09-28T21:05:58.085243+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "[正面] 还行",
@@ -46,6 +46,29 @@
         "playtime_forever": 527,
         "votes_up": 0,
         "timestamp_created": 1790558634
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] a game made for lesbians i think",
+      "summary": "a game made for lesbians i think",
+      "source": "steam_review",
+      "time": "2026-09-28T15:06:29+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199091615970/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199091615970",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 596,
+        "votes_up": 0,
+        "timestamp_created": 1790607989
       },
       "region": "global",
       "archive_subtype": "review"

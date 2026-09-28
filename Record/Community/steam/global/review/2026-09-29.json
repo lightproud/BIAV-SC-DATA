@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-29",
+  "archived_at": "2026-09-28T21:05:58.085015+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] I'm not at the end game content people have compla...",
+      "summary": "I'm not at the end game content people have complained about recently (as of late-summer 2026) but I've got decent hours on mobile especially and I've loved this game's soundtrack, writing, characterizations, and gameplay loop.\n\nMy partner plays as well, he deep-dives into mechanics to play things optimally and to overcome the challenges. I play it by grinding resources and following builds online that are just strong enough to feel fun so I can keep reading the story. We both love it.",
+      "source": "steam_review",
+      "time": "2026-09-28T19:55:16+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198055468451/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198055468451",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 948,
+        "votes_up": 0,
+        "timestamp_created": 1790625316
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

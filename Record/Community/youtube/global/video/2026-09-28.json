@@ -1,9 +1,26 @@
 {
   "date": "2026-09-28",
-  "archived_at": "2026-09-28T12:54:18.590555+00:00",
+  "archived_at": "2026-09-28T21:05:57.987167+00:00",
   "source": "youtube",
-  "item_count": 10,
+  "item_count": 13,
   "items": [
+    {
+      "title": "that was one of the cleanest ults You will ever see 💯",
+      "summary": "Gacha gaming shorts featuring gameplay moments from popular gacha RPG games. Games featured Genshin Impact Honkai Star ...",
+      "source": "youtube",
+      "time": "2026-09-28T15:08:21Z",
+      "url": "https://www.youtube.com/watch?v=00OE8J5ZPOA",
+      "engagement": 2048,
+      "is_hot": false,
+      "author": "Nykko Nimye",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/00OE8J5ZPOA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
     {
       "title": "Finishing the JOB with 525 D-Tide... then putting GOgier through the WRINGER",
       "summary": "Sorry I'm late in the day, but as promised it'll be the end of the D-Tides (viewer request teams still accepted) and then GOgier ...",
@@ -56,6 +73,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "【忘却前夜】ドーパミンと強さは比例する",
+      "summary": "こいつだけ次元の違う強さしてる #忘却前夜.",
+      "source": "youtube",
+      "time": "2026-09-28T12:53:28Z",
+      "url": "https://www.youtube.com/watch?v=QQtJ9OfF_qA",
+      "engagement": 88,
+      "is_hot": false,
+      "author": "あいなる2",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/QQtJ9OfF_qA/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Cách chơi Vortice, Saya, GMurphy hiệu quả nhất. (Ăn mừ quá kháy ở A5)",
       "summary": "Video bổ ích nhất từng xuất hiện trên kênh này.",
       "source": "youtube",
@@ -85,6 +119,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/8o5HK5YPAzc/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】【対人戦】ロータン最高",
+      "summary": "忘却前夜 #shorts これから忘却前夜の動画をあげていくのでよろしくお願いします.",
+      "source": "youtube",
+      "time": "2026-09-28T13:44:49Z",
+      "url": "https://www.youtube.com/watch?v=lsCKjrMwFVQ",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "忘却",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/lsCKjrMwFVQ/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
