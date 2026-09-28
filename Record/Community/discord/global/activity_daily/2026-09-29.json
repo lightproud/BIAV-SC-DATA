@@ -1,0 +1,219 @@
+{
+  "date": "2026-09-29",
+  "messages": 2344,
+  "unique_authors": 172,
+  "reactions_total": 241,
+  "attachments": 139,
+  "channel_activity": {
+    "🔸綜合討論": 45,
+    "🔸阵容构建": 4,
+    "🔸morimens-game-chat": 1527,
+    "🔸剧情交流": 1,
+    "🔸русский-канал": 14,
+    "🔸phòng-chat-tiếng-việt": 22,
+    "🔸canal-español": 7,
+    "🔸canal-português": 7,
+    "🔸ruang-obrolan-indonesia": 44,
+    "🔸ห้องสนทนาภาษาไทย": 57,
+    "🔸lore-chat": 1,
+    "🔸lets-count": 1,
+    "🔸team-building": 61,
+    "🔸general-chat": 81,
+    "🔸邀请码互助┊swap-invitation-codes": 2,
+    "🔸game-question": 402,
+    "🔸机器人命令┊bot-commands": 6,
+    "Buff for older and standard units?": 1,
+    "Give us a points free mode in Traphase.": 1,
+    "A button for clearing all the configured Awakeners, WoDs, Covenants and Posse of a team slot": 3,
+    "Dtide is out of control.": 2,
+    "D-tide Discussion": 37,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 2,
+    "V2.5.1.0 停服维护公告": 1,
+    "An Apology and Further Adjustments to the D-Effect Zone": 1,
+    "Where are you staying?": 2,
+    "POV You’re a young girl in the world of Morimens and the Keeper shows up at your place": 1,
+    "Nefraea + Arachne Posting": 3,
+    "Last thing you see after attacking an \"innocent little girl.\"": 1,
+    "Ramona is holding her sword wrong": 2,
+    "Pull advice?": 1,
+    "need help with overall team building": 2,
+    "【Newcomer Help】Forum Introduction": 1
+  },
+  "hourly_activity": {
+    "0": 683,
+    "1": 408,
+    "2": 398,
+    "4": 544,
+    "3": 284,
+    "5": 27
+  },
+  "message_types": {
+    "0": 1409,
+    "20": 5,
+    "19": 929,
+    "23": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1554177349078094047",
+      "channel_id": "1170692781216378960",
+      "content": "Huh, Faros is cool to use",
+      "author": "tulipreign",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554164558975991878",
+      "channel_id": "1170692781216378960",
+      "content": "sadly i dont have alot of time today so its kinda lazy\n\nidea from <@122866661865",
+      "author": "gersona6",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554166615468154931",
+      "channel_id": "1433513650299076780",
+      "content": "I really joined right after yousavedmorimens and saya expired, in the middle of ",
+      "author": "hderpobfriknye",
+      "reactions": 6,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1554162558251040851",
+      "channel_id": "1170692781216378960",
+      "content": "to disprove the asian skill theory, i'd like to present the fact i am all asian,",
+      "author": "wuyan_kana",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554167592476872704",
+      "channel_id": "1170692781216378960",
+      "content": "<@296679098703544321>  easy tawiwi, no Gogier image and no DR proc",
+      "author": "ice3564",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554161834649723025",
+      "channel_id": "1170692781216378960",
+      "content": "it'd be funny if the staff had to make a 3 day rule so Light could get actual wo",
+      "author": "wuyan_kana",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554230040709832788",
+      "channel_id": "1170692781216378960",
+      "content": "I have AA, he's still slow since  I did A6 with him. Would have done A7 but that",
+      "author": "rozu",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554184087667871854",
+      "channel_id": "1300659603993923644",
+      "content": "",
+      "author": "tagoru34.",
+      "reactions": 4,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1554163914864984135",
+      "channel_id": "1554163914864984135",
+      "content": "Players (Me) need somewhere to play around without having to watch their ranking",
+      "author": "oatstemp",
+      "reactions": 4,
+      "channel": "Give us a points free mode in Traphase."
+    },
+    {
+      "id": "1554205072081166488",
+      "channel_id": "1131839817982947429",
+      "content": "累晕。活生生打了4个多小时。",
+      "author": "xyakoto",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554166486317400138",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "cowit_moo22",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554184768873308262",
+      "channel_id": "1170692781216378960",
+      "content": "i didn't go in with an optimized setup but i don't think alva can do this one",
+      "author": "reya.li",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554190538930917437",
+      "channel_id": "1170692781216378960",
+      "content": "Miryam image <:Helot_slack_off:1459092159465521184>",
+      "author": "82353019",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554210355779993790",
+      "channel_id": "1170692781216378960",
+      "content": "https://cdn.discordapp.com/attachments/1170692781216378960/1544386215686438972/t",
+      "author": "flocke999",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554162960535003218",
+      "channel_id": "1131839817982947429",
+      "content": "~~就算回家也不一定有要打~~",
+      "author": "yusi4172",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554186051126431765",
+      "channel_id": "1131839817982947429",
+      "content": "🚮",
+      "author": "xyakoto",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554161281903100008",
+      "channel_id": "1170692781216378960",
+      "content": "that's literally just a good thing\nyou are supposed to make decisions and weigh ",
+      "author": "violettaautumn",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554161512862588990",
+      "channel_id": "1170692781216378960",
+      "content": "burn the witch!!!!\nwith the torches from my store, best in the business",
+      "author": "violettaautumn",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554162909813285086",
+      "channel_id": "1170692781216378960",
+      "content": "i am the ruler of lien land",
+      "author": "not_blueberry",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554165947634425998",
+      "channel_id": "1170692781216378960",
+      "content": "谢谢 <:Murphy_satisfy:1468258389850193960>",
+      "author": "reya.li",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
