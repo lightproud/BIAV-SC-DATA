@@ -20,15 +20,14 @@
 
 所需 Secrets（Settings → Secrets and variables → Actions）：
 
-- `BIAV_SC_DATA_TOKEN`：写本仓的个人令牌（fine-grained PAT，本仓 Contents 读写）
-- `DISCORD_BOT_TOKEN`、`DISCORD_CHANNEL_IDS`
-- `YOUTUBE_API_KEY`、`YOUTUBE_CHANNEL_ID`
-- `TWITTER_BEARER_TOKEN`、`TWITTER_HANDLES`
-- `FACEBOOK_ACCESS_TOKEN`、`FACEBOOK_PAGE_IDS`、`INSTAGRAM_ACCESS_TOKEN`、`INSTAGRAM_USER_ID`
-- `TWITCH_CLIENT_ID`、`TWITCH_ACCESS_TOKEN`、`TELEGRAM_CHANNELS`、`DC_GALLERY_ID`、`QQ_CHANNEL`
-- `WEIBO_COOKIE`、`XHS_COOKIE`、`DOUYIN_COOKIE`、`ZHIHU_COOKIE`、`NGA_COOKIE`、`NAVER_COOKIE`
-- `LLM_API_KEY`
+| 类别 | Secret | 用途 |
+|---|---|---|
+| 必配 | `BIAV_SC_DATA_TOKEN` | 写本仓的个人令牌（fine-grained PAT，本仓 Contents 读写） |
+| 必配 | `DISCORD_BOT_TOKEN` | Discord 三区服归档、历史回填、同人图、媒体链接刷新 |
+| 必配 | `YOUTUBE_API_KEY` | YouTube 视频与评论 |
+| 可选 | `WEIBO_COOKIE` | 微博不配也能采，配了成功率更高 |
 
-未配置的平台采集器会跳过，不会中断整轮采集。
+工作流里还引用了其他平台的 Secrets（推特、Facebook、Instagram、Twitch、Telegram、小红书、抖音、知乎、NGA、Naver、QQ、DC 等），
+这些平台 2026-09-29 时均无产出，不必配置；未配置的平台采集器会跳过，不会中断整轮采集。
 
 本仓公开，Actions 运行日志任何人可见；工作流步骤不得打印凭据。
