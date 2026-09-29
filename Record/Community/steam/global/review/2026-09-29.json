@@ -1,8 +1,8 @@
 {
   "date": "2026-09-29",
-  "archived_at": "2026-09-28T21:05:58.085015+00:00",
+  "archived_at": "2026-09-29T04:10:33.862992+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[正面] I'm not at the end game content people have compla...",
@@ -23,6 +23,29 @@
         "playtime_forever": 948,
         "votes_up": 0,
         "timestamp_created": 1790625316
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Очень милая, приятная и красивая игра, которой мож...",
+      "summary": "Очень милая, приятная и красивая игра, которой можно только пожелать успехов в поиске своей аудитории, чтобы та помогла ей стать более огранённой.",
+      "source": "steam_review",
+      "time": "2026-09-28T22:05:14+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198883024952/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198883024952",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 282,
+        "votes_up": 0,
+        "timestamp_created": 1790633114
       },
       "region": "global",
       "archive_subtype": "review"

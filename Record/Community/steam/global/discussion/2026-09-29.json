@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-29",
+  "archived_at": "2026-09-29T04:10:33.694013+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[Steam论坛] Invitation Code",
+      "summary": "1D1EGZ10U1",
+      "source": "steam_discussion",
+      "time": "2026-09-29T01:51:00+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/603039786130771940/",
+      "engagement": 239,
+      "is_hot": true,
+      "author": "Znye",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] What is the best character to have my first pull?",
+      "summary": "The first pull grants a ssr that u can reroll, which one should i take?",
+      "source": "steam_discussion",
+      "time": "2026-09-29T00:34:27+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/590690937745719809/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Gorvak",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "discussion"
+}
