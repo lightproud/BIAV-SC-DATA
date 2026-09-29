@@ -1,39 +1,53 @@
 {
   "date": "2026-09-29",
-  "messages": 8929,
+  "messages": 13701,
   "unique_authors": 208,
-  "reactions_total": 1033,
-  "attachments": 400,
+  "reactions_total": 1542,
+  "attachments": 623,
   "channel_activity": {
-    "🔸綜合討論": 122,
-    "🔸morimens-game-chat": 5628,
-    "🔸晒卡分享": 1,
+    "🔸綜合討論": 547,
+    "🔸阵容构建": 7,
+    "🔸morimens-game-chat": 7735,
+    "🔸晒卡分享": 4,
+    "🔸课间休息闲聊": 220,
+    "🔸日本語チャンネル": 3,
+    "🔸한국어-채팅방": 13,
+    "🔸русский-канал": 18,
+    "🔸phòng-chat-tiếng-việt": 355,
+    "🔸canal-português": 40,
+    "🔸ruang-obrolan-indonesia": 248,
+    "🔸ห้องสนทนาภาษาไทย": 84,
+    "🔸lore-chat": 55,
+    "🔸lets-count": 12,
+    "🔸team-building": 370,
+    "🔸general-chat": 1822,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "🔸game-question": 1917,
+    "🔸机器人命令┊bot-commands": 30,
+    "这个那个": 2,
+    "D-Zone show clear difficulty": 2,
+    "Been stuck on \"entering game\" screen for 3 days now": 1,
+    "A button for clearing all the configured Awakeners, WoDs, Covenants and Posse of a team slot": 6,
+    "Why doesn't this wave 4 dtide rotation have icefield?": 9,
+    "Dtide is out of control.": 12,
+    "Balance problem in arc2": 3,
+    "V2.5.1.0 停服维护公告": 12,
+    "[Producer's Letter] We Will Not Fail You": 1,
+    "Nefraea + Arachne Posting": 8,
+    "【English Translation】Opinions Collection": 4,
+    "Need help for D-Tide team build and pull strategy": 2,
+    "Need help with team Building for D-Tide": 2,
     "🔸交友频道": 2,
-    "🔸phòng-chat-tiếng-việt": 40,
     "🔸canal-español": 51,
-    "🔸canal-português": 36,
-    "🔸ruang-obrolan-indonesia": 161,
-    "🔸ห้องสนทนาภาษาไทย": 66,
     "🔸traphase": 2,
-    "🔸lore-chat": 29,
-    "🔸lets-count": 8,
-    "🔸team-building": 355,
-    "🔸general-chat": 1083,
-    "🔸邀请码互助┊swap-invitation-codes": 3,
-    "🔸game-question": 1182,
-    "🔸机器人命令┊bot-commands": 19,
     "🐘 Unresolved elephants 🐘": 6,
     "Buff for older and standard units?": 4,
-    "Why doesn't this wave 4 dtide rotation have icefield?": 5,
-    "Dtide is out of control.": 8,
-    "Balance problem in arc2": 2,
     "D-tide Discussion": 44,
     "Better handling of nerfs through bug fixes": 1,
     "Impact of Version 2.6 Affinity Changes on Player Experience": 4,
     "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 3,
     "Quadra / 4-Realm Rerun Banners": 4,
     "💭「???」game client crashed...somewhat": 1,
-    "V2.5.1.0 停服维护公告": 5,
     "Ogier Oathbound Concept Art Doodle": 2,
     "Did the music trend with hameln!": 2,
     "Sticklet's doodle/art dump": 8,
@@ -41,25 +55,29 @@
     "V2.5.0 命运剧院┊Theater of Fate": 1,
     "Pull advice?": 3,
     "need help with overall team building": 3,
-    "🔸阵容构建": 4,
     "🔸剧情交流": 1,
-    "🔸русский-канал": 14,
     "Give us a points free mode in Traphase.": 1,
-    "A button for clearing all the configured Awakeners, WoDs, Covenants and Posse of a team slot": 3,
     "An Apology and Further Adjustments to the D-Effect Zone": 1,
     "Where are you staying?": 2,
     "POV You’re a young girl in the world of Morimens and the Keeper shows up at your place": 1,
-    "Nefraea + Arachne Posting": 3,
     "Last thing you see after attacking an \"innocent little girl.\"": 1,
     "【Newcomer Help】Forum Introduction": 1
   },
   "hourly_activity": {
+    "12": 562,
+    "13": 442,
+    "14": 540,
+    "15": 398,
+    "16": 723,
+    "17": 482,
+    "18": 737,
+    "19": 1032,
+    "20": 398,
     "7": 776,
     "8": 633,
     "9": 685,
     "10": 1391,
     "11": 1272,
-    "12": 542,
     "5": 327,
     "6": 986,
     "0": 683,
@@ -69,13 +87,45 @@
     "3": 284
   },
   "message_types": {
-    "0": 5605,
-    "19": 3305,
-    "20": 17,
+    "0": 8890,
+    "19": 4784,
+    "20": 25,
     "4": 1,
     "23": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1554454115180875857",
+      "channel_id": "1131839817982947429",
+      "content": "沙耶適應不了虛無牌 短暫永恆 是朵老師贏了..",
+      "author": "heikwok",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554442515392765953",
+      "channel_id": "1131839817982947429",
+      "content": "我才不会说我对鸟哥高评价一大半来源于是我们阿拉C最优质发射器",
+      "author": "gensono0609",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554371576693133334",
+      "channel_id": "1131839874132090890",
+      "content": "下期再見👋🏻",
+      "author": "fgoisaac",
+      "reactions": 7,
+      "channel": "🔸阵容构建"
+    },
+    {
+      "id": "1554452549430411316",
+      "channel_id": "1170692781216378960",
+      "content": "half the time I think they just release content and expect it to be beatable wit",
+      "author": "alistiel",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1554177349078094047",
       "channel_id": "1170692781216378960",
@@ -83,6 +133,30 @@
       "author": "tulipreign",
       "reactions": 7,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554369888141705267",
+      "channel_id": "1131839817982947429",
+      "content": "為什麼牢一年才20銀芯阿破貓",
+      "author": "r1nouo",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554445449530966117",
+      "channel_id": "1131839817982947429",
+      "content": "現在轉階段都有無敵是不是有點卑鄙",
+      "author": "theal8893",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554449211494367294",
+      "channel_id": "1131839817982947429",
+      "content": "「我們不會把AA內容列入必需範圍」",
+      "author": "heikwok",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
     },
     {
       "id": "1554164558975991878",
@@ -99,6 +173,46 @@
       "author": "hderpobfriknye",
       "reactions": 6,
       "channel": "🔸game-question"
+    },
+    {
+      "id": "1554381671607046164",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "._.aahh",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554450654221574177",
+      "channel_id": "1131839817982947429",
+      "content": "有\n||進融災當王||",
+      "author": "0.0._.0_0.",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554452012689522699",
+      "channel_id": "1131839817982947429",
+      "content": "+1 (407) 734-9254",
+      "author": "wer987456321",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554454255031820348",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "heikwok",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554420344264069170",
+      "channel_id": "1170692781216378960",
+      "content": "just a friendly reminder about Salvador",
+      "author": "anicillia",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1554265025840160839",
@@ -133,108 +247,12 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1554310649365008389",
+      "id": "1554456639980052661",
       "channel_id": "1131839817982947429",
-      "content": "我們是真的不想讓人打牌嗎",
-      "author": "water_heart",
+      "content": "我也來打一個<:Ogier_cheer:1468259351889318049>",
+      "author": "0.0._.0_0.",
       "reactions": 4,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1554246633405939732",
-      "channel_id": "1170692781216378960",
-      "content": "they really need to up the poison cap huh...",
-      "author": "bunnycide420",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554253583736643648",
-      "channel_id": "1170692781216378960",
-      "content": "funny number",
-      "author": "mo6niq",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554272775038828654",
-      "channel_id": "1170692781216378960",
-      "content": "holy shit red 24",
-      "author": "gersona6",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554272992429740153",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "aurora3981",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554277430037053474",
-      "channel_id": "1170692781216378960",
-      "content": "is saya oe op?",
-      "author": "gersona6",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554284892513374281",
-      "channel_id": "1170692781216378960",
-      "content": "-# ~~I'd like to take this opportunity to complain about the game not being cons",
-      "author": "alistiel",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554299788927959103",
-      "channel_id": "1170692781216378960",
-      "content": "I'm only 97k silver prime",
-      "author": "angbak",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554323276627443824",
-      "channel_id": "1170692781216378960",
-      "content": "Stable? That's for horses",
-      "author": "cowit_moo22",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554325999737512008",
-      "channel_id": "1170692781216378960",
-      "content": "ik her closet is NASTYYYY",
-      "author": "lukityswoogity",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554328881991778345",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "climbkaly",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554336150620082197",
-      "channel_id": "1170692781216378960",
-      "content": "~~unironically, an English degree would be useful for programming cuz you write ",
-      "author": "aurora3981",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554336848866713624",
-      "channel_id": "1170692781216378960",
-      "content": "we already have a niche horror streamer and its <@296679098703544321> doing dtid",
-      "author": "princess.goth",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }
