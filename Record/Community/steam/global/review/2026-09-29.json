@@ -1,8 +1,8 @@
 {
   "date": "2026-09-29",
-  "archived_at": "2026-09-29T12:07:24.169789+00:00",
+  "archived_at": "2026-09-29T17:26:26.700596+00:00",
   "source": "steam",
-  "item_count": 5,
+  "item_count": 9,
   "items": [
     {
       "title": "[负面] 策划是此游戏最大败笔",
@@ -115,6 +115,98 @@
         "playtime_forever": 21891,
         "votes_up": 0,
         "timestamp_created": 1790650486
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Great game! \n\nLove the storyline\n\nExcellent produc...",
+      "summary": "Great game! \n\nLove the storyline\n\nExcellent production value.",
+      "source": "steam_review",
+      "time": "2026-09-29T15:52:48+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198081707380/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198081707380",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 18645,
+        "votes_up": 0,
+        "timestamp_created": 1790697168
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 傻逼游戏",
+      "summary": "傻逼游戏",
+      "source": "steam_review",
+      "time": "2026-09-29T14:07:50+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199558330788/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199558330788",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 46303,
+        "votes_up": 0,
+        "timestamp_created": 1790690870
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Мне понравились красивые и необычные персонажи, ин...",
+      "summary": "Мне понравились красивые и необычные персонажи, интересный сюжет. Перевод на русский кривой, но в принципе это особо сильно не мешает.",
+      "source": "steam_review",
+      "time": "2026-09-29T12:21:50+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199856184251/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199856184251",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 491,
+        "votes_up": 0,
+        "timestamp_created": 1790684510
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 好玩",
+      "summary": "好玩",
+      "source": "steam_review",
+      "time": "2026-09-29T12:12:37+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198689346440/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198689346440",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 687,
+        "votes_up": 0,
+        "timestamp_created": 1790683957
       },
       "region": "global",
       "archive_subtype": "review"

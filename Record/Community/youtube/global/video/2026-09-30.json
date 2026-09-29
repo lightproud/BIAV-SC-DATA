@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-30",
+  "archived_at": "2026-09-29T17:26:26.704474+00:00",
+  "source": "youtube",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "🔞 Drink my blood PLEASE :3 - Morimens",
+      "summary": "Drink my blood PLEASE :3 Links https://www.twitch.tv/eepyghost https://discord.gg/tSq5H32dAm ...",
+      "source": "youtube",
+      "time": "2026-09-29T17:05:32Z",
+      "url": "https://www.youtube.com/watch?v=cr7you1QdcA",
+      "engagement": 4,
+      "is_hot": false,
+      "author": "eepyghost",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/cr7you1QdcA/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens DZone Take 3",
+      "summary": "https://www.twitch.tv/Nazoric https://www.youtube.com/@Cirozan/streams UID: 101772783 Invite Code: QIF6F47ONM Livesteam ...",
+      "source": "youtube",
+      "time": "2026-09-29T17:19:35Z",
+      "url": "https://www.youtube.com/watch?v=h5yYT1zg7b0",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "Nazoric",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/h5yYT1zg7b0/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "video"
+}

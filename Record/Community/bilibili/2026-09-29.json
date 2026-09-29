@@ -1,9 +1,26 @@
 {
   "date": "2026-09-29",
-  "archived_at": "2026-09-29T12:07:24.106903+00:00",
+  "archived_at": "2026-09-29T17:26:26.655262+00:00",
   "source": "bilibili",
-  "item_count": 5,
+  "item_count": 9,
   "items": [
+    {
+      "title": "【忘却前夜】《鸟弟速通1-7》",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-29T14:26:48+00:00",
+      "url": "https://www.bilibili.com/video/av117354780497561",
+      "engagement": 1100,
+      "is_hot": false,
+      "author": "金发女人丨型",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/194dc24dc4c00b4883044ce2b9cac51888f4b532.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】融灾3启60级神国不凹轻取3图SS",
       "summary": "打法：\n1.开局觉醒诞墨，提前攒命契。梦游可以晚点开，只要对上5层命契轴就行\n2.boss有一个意图会吞噬手上保留的牌（大概率吃螺湮），必须把手里的螺湮打掉防止被偷吃\n3.神国小垃圾可以屯在手上，等到爆发回合提供算力、抽牌、易伤\n4.每轮诞墨大招尽量吃满5层命契，否则低配伤害会不够。正常情况下两次5命契的大招配合献祭就能击杀两个形态\n5.如果你的诞墨配置高可以忽略以上所有，直接大运创飞",
@@ -73,6 +90,23 @@
       "content_type": "video"
     },
     {
+      "title": "忘却前夜抽卡分析网站",
+      "summary": "一个不太好用的网站，内容将会进行优化",
+      "source": "bilibili",
+      "time": "2026-09-29T14:17:08+00:00",
+      "url": "https://www.bilibili.com/video/av117354746872148",
+      "engagement": 161,
+      "is_hot": false,
+      "author": "是听雨啦",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/69ba65b6634211df09f6f539c4adf5c82bc3b09e.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "萌新拼尽全力无法战胜450😭",
       "summary": "",
       "source": "bilibili",
@@ -87,6 +121,40 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/ab62f636627216adff2e3998e73dcdf1e44b4528.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "「未陨的骑士心」",
+      "summary": "剪得我好舒服啊呵呵呵呵呵呵呵呵呵呵呵",
+      "source": "bilibili",
+      "time": "2026-09-29T06:56:47+00:00",
+      "url": "https://www.bilibili.com/video/av117353018823968",
+      "engagement": 104,
+      "is_hot": false,
+      "author": "小喵泥泥",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/20c2eafb08be98238f989e2a07a0e1f9a2ccf75e.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "［忘却前夜］0氪必玩队：沙耶+3小只吃灵芝3-7",
+      "summary": "低配打高难很好用的队，老融灾就经常用，现在有了灵芝强度更上一层楼，缺点就是很多队伍都要沙耶，不过塔薇融朵也是很多队伍在抢，需要的配置还比沙耶高。\n\n这里面拉蒙娜在n7感觉很难换掉，定向找肉脂烂漫太重要了，银钥也最多。朵尔倒是随便换，但是朵尔的就业面很少，能塞就塞吧。可惜这期因为练度太低没能把极夜省下来。\n\n如果连吃两次灵芝，就可以随便塞混子队友和垃圾命轮了",
+      "source": "bilibili",
+      "time": "2026-09-29T14:12:45+00:00",
+      "url": "https://www.bilibili.com/video/av117354730162750",
+      "engagement": 103,
+      "is_hot": false,
+      "author": "Cosmic_Worm",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/e84362dad85f5d40cee858af455cdeea76ec1ad0.jpg",
       "content_type": "video"
     }
   ]
