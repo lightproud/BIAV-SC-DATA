@@ -1,8 +1,8 @@
 {
   "date": "2026-09-28",
-  "archived_at": "2026-09-29T04:10:33.913674+00:00",
+  "archived_at": "2026-09-29T12:07:24.328833+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 jogo bommmmmm demaissss to chorando de f",
@@ -15,6 +15,20 @@
       "author": "Eduardo Harder",
       "tags": [],
       "lang": "pt",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 Nothing comes close to this game in term",
+      "summary": "Nothing comes close to this game in terms of art and presentation as well as story in the gacha space. I love this game and I love being a keeper.",
+      "source": "google_play",
+      "time": "2026-09-28T10:44:58+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-99f11541-635d-4d41-83f4-e0975912c8d3",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Dragon Nguyen",
+      "tags": [],
+      "lang": "en",
       "platform_region": "",
       "region": "global"
     }

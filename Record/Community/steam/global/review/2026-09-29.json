@@ -1,9 +1,32 @@
 {
   "date": "2026-09-29",
-  "archived_at": "2026-09-29T04:10:33.862992+00:00",
+  "archived_at": "2026-09-29T12:07:24.169789+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 5,
   "items": [
+    {
+      "title": "[负面] 策划是此游戏最大败笔",
+      "summary": "策划是此游戏最大败笔",
+      "source": "steam_review",
+      "time": "2026-09-29T07:55:09+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199441875382/recommended/3052450",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "76561199441875382",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 3271,
+        "votes_up": 2,
+        "timestamp_created": 1790668509
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[正面] I'm not at the end game content people have compla...",
       "summary": "I'm not at the end game content people have complained about recently (as of late-summer 2026) but I've got decent hours on mobile especially and I've loved this game's soundtrack, writing, characterizations, and gameplay loop.\n\nMy partner plays as well, he deep-dives into mechanics to play things optimally and to overcome the challenges. I play it by grinding resources and following builds online that are just strong enough to feel fun so I can keep reading the story. We both love it.",
@@ -46,6 +69,52 @@
         "playtime_forever": 282,
         "votes_up": 0,
         "timestamp_created": 1790633114
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] игра говна, тупо копирка ревёрс 1999",
+      "summary": "игра говна, тупо копирка ревёрс 1999",
+      "source": "steam_review",
+      "time": "2026-09-29T09:01:04+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199572487467/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199572487467",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 53,
+        "votes_up": 0,
+        "timestamp_created": 1790672464
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 好玩",
+      "summary": "好玩",
+      "source": "steam_review",
+      "time": "2026-09-29T02:54:46+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198410223340/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198410223340",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 21891,
+        "votes_up": 0,
+        "timestamp_created": 1790650486
       },
       "region": "global",
       "archive_subtype": "review"

@@ -1,8 +1,8 @@
 {
   "date": "2026-09-29",
-  "archived_at": "2026-09-29T04:10:33.693452+00:00",
+  "archived_at": "2026-09-29T12:07:24.107546+00:00",
   "source": "bahamut",
-  "item_count": 26,
+  "item_count": 27,
   "items": [
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
@@ -89,6 +89,19 @@
       "time": "2026-09-28T21:05:08.590023+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1577&tnum=1",
       "engagement": 29,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【攻略】天才想的「神仙加強」？SP奧吉爾抽取建議",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-29T12:06:45.441591+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1596&tnum=2",
+      "engagement": 26,
       "is_hot": false,
       "author": "t12345825",
       "tags": [],

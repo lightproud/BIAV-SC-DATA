@@ -1,8 +1,8 @@
 {
   "date": "2026-09-29",
-  "archived_at": "2026-09-29T04:10:33.693168+00:00",
+  "archived_at": "2026-09-29T12:07:24.106903+00:00",
   "source": "bilibili",
-  "item_count": 4,
+  "item_count": 5,
   "items": [
     {
       "title": "【忘却前夜】融灾3启60级神国不凹轻取3图SS",
@@ -36,6 +36,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/571afee4b0d72c6f23bb51a9450f757ae99a5ac9.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "我已，不惧死亡",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-29T00:01:33+00:00",
+      "url": "https://www.bilibili.com/video/av117351374654392",
+      "engagement": 265,
+      "is_hot": false,
+      "author": "Au9usTus_",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/0575cca70d91d639b60fd184741554e898c897d4.jpg",
       "content_type": "video"
     },
     {

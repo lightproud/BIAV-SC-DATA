@@ -1,8 +1,8 @@
 {
   "date": "2026-09-29",
-  "archived_at": "2026-09-29T04:10:33.692726+00:00",
+  "archived_at": "2026-09-29T12:07:24.106228+00:00",
   "source": "youtube",
-  "item_count": 9,
+  "item_count": 12,
   "items": [
     {
       "title": "[Morimens] D-Tide Guide 9/28/2026 - Blue Ring, Harder 525, easier for newbies. DR. Strange Meta",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/5qo39fl8KnU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Getting scammed by a Worm | Arc 2 ch 6 BLIND",
+      "summary": "Yo can you believe that for once i'm not playing months old chapters? impressive, i know GENERAL INFO My discord server: ...",
+      "source": "youtube",
+      "time": "2026-09-29T06:41:02Z",
+      "url": "https://www.youtube.com/watch?v=hFIVyLRE3vo",
+      "engagement": 359,
+      "is_hot": false,
+      "author": "Dumb Keeper",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/hFIVyLRE3vo/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -90,6 +107,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "Silent Hill: Townfall, Pokémon Champions, Eternal Darkness, Morimens, Warhammer 40k: Rogue Trader",
+      "summary": "Discord! https://discord.gg/EcpTYgYysx Telegram: https://t.me/quelvecchiacciodimomo Nuova settimana, nuovo Aggiornamento ...",
+      "source": "youtube",
+      "time": "2026-09-29T10:00:21Z",
+      "url": "https://www.youtube.com/watch?v=kJzRyCW4lGQ",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Quel Vecchiaccio di Momo",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/kJzRyCW4lGQ/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "Star Slaying Frenzy (GLotan) | Morimens",
       "summary": "",
       "source": "youtube",
@@ -153,6 +187,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/riOtdPf6CT4/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "This N is about to kill me",
+      "summary": "Full protection build without death resistance, so it looks like survival for me. I spoiled my Agrippa and create dear toxic creature ...",
+      "source": "youtube",
+      "time": "2026-09-29T06:00:21Z",
+      "url": "https://www.youtube.com/watch?v=7LQqmMjgwmw",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Natrazim",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/7LQqmMjgwmw/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
