@@ -1,48 +1,55 @@
 {
   "date": "2026-09-29",
-  "messages": 13701,
+  "messages": 16383,
   "unique_authors": 208,
-  "reactions_total": 1542,
-  "attachments": 623,
+  "reactions_total": 1806,
+  "attachments": 746,
   "channel_activity": {
-    "🔸綜合討論": 547,
+    "🔸綜合討論": 806,
+    "🔸morimens-game-chat": 8976,
+    "🔸欢乐梗图": 1,
+    "🔸课间休息闲聊": 722,
+    "🔸русский-канал": 21,
+    "🔸phòng-chat-tiếng-việt": 585,
+    "🔸canal-português": 45,
+    "🔸ruang-obrolan-indonesia": 341,
+    "🔸ห้องสนทนาภาษาไทย": 218,
+    "🔸traphase": 3,
+    "🔸lore-chat": 56,
+    "🔸lets-count": 15,
+    "🔸team-building": 375,
+    "🔸general-chat": 1875,
+    "🔸邀请码互助┊swap-invitation-codes": 8,
+    "🔸game-question": 2034,
+    "🔸机器人命令┊bot-commands": 38,
+    "这个那个": 3,
+    "D-Zone show clear difficulty": 3,
+    "🐘 Unresolved elephants 🐘": 7,
+    "Why doesn't this wave 4 dtide rotation have icefield?": 10,
+    "The Counter archetype has been forgotten?": 5,
+    "When will a passive ability be added to these characters?": 1,
+    "Balance problem and enemy stats inflation": 2,
+    "Pls give out origin of time for limited awakener & wheels": 1,
+    "D-tide Discussion": 45,
+    "G ogier crit not working": 2,
+    "V2.5.1.0 停服维护公告": 17,
+    "【English Translation】Opinions Collection": 5,
+    "Pull advice?": 4,
     "🔸阵容构建": 7,
-    "🔸morimens-game-chat": 7735,
     "🔸晒卡分享": 4,
-    "🔸课间休息闲聊": 220,
     "🔸日本語チャンネル": 3,
     "🔸한국어-채팅방": 13,
-    "🔸русский-канал": 18,
-    "🔸phòng-chat-tiếng-việt": 355,
-    "🔸canal-português": 40,
-    "🔸ruang-obrolan-indonesia": 248,
-    "🔸ห้องสนทนาภาษาไทย": 84,
-    "🔸lore-chat": 55,
-    "🔸lets-count": 12,
-    "🔸team-building": 370,
-    "🔸general-chat": 1822,
-    "🔸邀请码互助┊swap-invitation-codes": 5,
-    "🔸game-question": 1917,
-    "🔸机器人命令┊bot-commands": 30,
-    "这个那个": 2,
-    "D-Zone show clear difficulty": 2,
     "Been stuck on \"entering game\" screen for 3 days now": 1,
     "A button for clearing all the configured Awakeners, WoDs, Covenants and Posse of a team slot": 6,
-    "Why doesn't this wave 4 dtide rotation have icefield?": 9,
     "Dtide is out of control.": 12,
     "Balance problem in arc2": 3,
-    "V2.5.1.0 停服维护公告": 12,
     "[Producer's Letter] We Will Not Fail You": 1,
     "Nefraea + Arachne Posting": 8,
-    "【English Translation】Opinions Collection": 4,
     "Need help for D-Tide team build and pull strategy": 2,
     "Need help with team Building for D-Tide": 2,
     "🔸交友频道": 2,
     "🔸canal-español": 51,
-    "🔸traphase": 2,
-    "🐘 Unresolved elephants 🐘": 6,
     "Buff for older and standard units?": 4,
-    "D-tide Discussion": 44,
     "Better handling of nerfs through bug fixes": 1,
     "Impact of Version 2.6 Affinity Changes on Player Experience": 4,
     "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 3,
@@ -53,7 +60,6 @@
     "Sticklet's doodle/art dump": 8,
     "Ramona is holding her sword wrong": 3,
     "V2.5.0 命运剧院┊Theater of Fate": 1,
-    "Pull advice?": 3,
     "need help with overall team building": 3,
     "🔸剧情交流": 1,
     "Give us a points free mode in Traphase.": 1,
@@ -64,6 +70,10 @@
     "【Newcomer Help】Forum Introduction": 1
   },
   "hourly_activity": {
+    "20": 914,
+    "21": 722,
+    "22": 630,
+    "23": 814,
     "12": 562,
     "13": 442,
     "14": 540,
@@ -72,7 +82,6 @@
     "17": 482,
     "18": 737,
     "19": 1032,
-    "20": 398,
     "7": 776,
     "8": 633,
     "9": 685,
@@ -87,10 +96,10 @@
     "3": 284
   },
   "message_types": {
-    "0": 8890,
-    "19": 4784,
-    "20": 25,
-    "4": 1,
+    "0": 10776,
+    "19": 5569,
+    "20": 35,
+    "4": 2,
     "23": 1
   },
   "top_reacted_messages": [
@@ -101,6 +110,22 @@
       "author": "heikwok",
       "reactions": 9,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554482496375361547",
+      "channel_id": "1131839817982947429",
+      "content": "<:Aurita_please:1356053110375714817> 打卡是最爽的部分",
+      "author": "arr5721",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554488677093212261",
+      "channel_id": "1524457119955554374",
+      "content": "",
+      "author": "wjcjskw",
+      "reactions": 7,
+      "channel": "这个那个"
     },
     {
       "id": "1554442515392765953",
@@ -132,6 +157,14 @@
       "content": "Huh, Faros is cool to use",
       "author": "tulipreign",
       "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554485859921821746",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "gersona6",
+      "reactions": 6,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -175,6 +208,30 @@
       "channel": "🔸game-question"
     },
     {
+      "id": "1554483083573731448",
+      "channel_id": "1131839817982947429",
+      "content": "群狗除我",
+      "author": "ahuahuahua",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554487178518728705",
+      "channel_id": "1170692781216378960",
+      "content": "BIAV’s favourite way of balancing content is to ruin playing cards in the card g",
+      "author": "bagels5899",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554522031100403712",
+      "channel_id": "1170692781216378960",
+      "content": "this is my witch/gtulu funds, whichever doesn't suck, and if they both suck i ju",
+      "author": "wuyan_kana",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1554381671607046164",
       "channel_id": "1131839817982947429",
       "content": "",
@@ -204,54 +261,6 @@
       "content": "",
       "author": "heikwok",
       "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1554420344264069170",
-      "channel_id": "1170692781216378960",
-      "content": "just a friendly reminder about Salvador",
-      "author": "anicillia",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554265025840160839",
-      "channel_id": "1170692781216378960",
-      "content": "Not enough",
-      "author": "angbak",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554314530543378458",
-      "channel_id": "1170692781216378960",
-      "content": "Blood will run",
-      "author": "cowit_moo22",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554162558251040851",
-      "channel_id": "1170692781216378960",
-      "content": "to disprove the asian skill theory, i'd like to present the fact i am all asian,",
-      "author": "wuyan_kana",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554167592476872704",
-      "channel_id": "1170692781216378960",
-      "content": "<@296679098703544321>  easy tawiwi, no Gogier image and no DR proc",
-      "author": "ice3564",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554456639980052661",
-      "channel_id": "1131839817982947429",
-      "content": "我也來打一個<:Ogier_cheer:1468259351889318049>",
-      "author": "0.0._.0_0.",
-      "reactions": 4,
       "channel": "🔸綜合討論"
     }
   ]

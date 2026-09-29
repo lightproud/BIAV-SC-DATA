@@ -1,0 +1,199 @@
+{
+  "date": "2026-09-30",
+  "messages": 828,
+  "unique_authors": 93,
+  "reactions_total": 56,
+  "attachments": 42,
+  "channel_activity": {
+    "🔸綜合討論": 273,
+    "🔸morimens-game-chat": 399,
+    "🔸课间休息闲聊": 3,
+    "🔸phòng-chat-tiếng-việt": 19,
+    "🔸canal-español": 6,
+    "🔸ruang-obrolan-indonesia": 8,
+    "🔸ห้องสนทนาภาษาไทย": 10,
+    "🔸traphase": 1,
+    "🔸team-building": 2,
+    "🔸general-chat": 8,
+    "🔸game-question": 87,
+    "🔸机器人命令┊bot-commands": 2,
+    "🐘 Unresolved elephants 🐘": 1,
+    "The Counter archetype has been forgotten?": 1,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
+    "V2.5.1.0 停服维护公告": 1,
+    "Hello people im new here :>": 3,
+    "need help with overall team building": 1,
+    "Teambuilding help for dtides endgame and is GOgier recommended to pull for my case?": 2
+  },
+  "hourly_activity": {
+    "0": 555,
+    "1": 273
+  },
+  "message_types": {
+    "0": 587,
+    "19": 238,
+    "20": 3
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1554531119830016120",
+      "channel_id": "1554531119830016120",
+      "content": "hello ppl im new here,im not that far in the story yet so ik wings might not be ",
+      "author": "deadline004",
+      "reactions": 5,
+      "channel": "Hello people im new here :>"
+    },
+    {
+      "id": "1554523668875321407",
+      "channel_id": "1131839817982947429",
+      "content": "這鑰匙有人搞出來了嗎",
+      "author": "soft_whisper",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554540975567798413",
+      "channel_id": "1131839817982947429",
+      "content": "當初原話好像是兩個新難度各漲3倍",
+      "author": "heikwok",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554542360157888624",
+      "channel_id": "1131839817982947429",
+      "content": "我被推到群友的ig",
+      "author": "nemu_s_t_a_r",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554543246078771292",
+      "channel_id": "1131839817982947429",
+      "content": "你說的對\n這就是我們的大膨脹遊戲",
+      "author": "nemu_s_t_a_r",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554525506743836703",
+      "channel_id": "1170692781216378960",
+      "content": "i'm in real estate\nno, wait, that's i'm in a real state",
+      "author": "violettaautumn",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554526169104257074",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "arem0972",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554526180001185842",
+      "channel_id": "1170692781216378960",
+      "content": "Im so sorry <@1489884219067858954>",
+      "author": "dracozion",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554527189058199573",
+      "channel_id": "1170692781216378960",
+      "content": "playing clips of old draco dtide as if its my dead wife",
+      "author": "princess.goth",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554528425723822191",
+      "channel_id": "1170692781216378960",
+      "content": "okay (this was from karen exalt)",
+      "author": "reya.li",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554531554381004953",
+      "channel_id": "1170692781216378960",
+      "content": "I think I can probably like 495ish",
+      "author": "dracozion",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554536655971549335",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "gersona6",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554539609227001937",
+      "channel_id": "1170692781216378960",
+      "content": "i would rather kill myself than mob with murphy",
+      "author": "sisuluasex",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554523239718461600",
+      "channel_id": "1131839817982947429",
+      "content": "還有兩把鑰匙不知道要幹嘛（）",
+      "author": "luna_.90",
+      "reactions": 1,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554523562725871677",
+      "channel_id": "1131839817982947429",
+      "content": "我是迷途糕手",
+      "author": "luna_.90",
+      "reactions": 1,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554533560604434604",
+      "channel_id": "1131839817982947429",
+      "content": "去年啊啊啊把我推特拔出来发隔壁被一堆人看我都只是害羞了三天",
+      "author": "carme.0588",
+      "reactions": 1,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554534065867333683",
+      "channel_id": "1131839817982947429",
+      "content": "有种2006年那会网上说吵架吵的是气势然后开键盘自动输入发了几百条",
+      "author": "carme.0588",
+      "reactions": 1,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554534545552973917",
+      "channel_id": "1131839817982947429",
+      "content": "能让我害羞三天不想说话",
+      "author": "carme.0588",
+      "reactions": 1,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554535319016046603",
+      "channel_id": "1131839817982947429",
+      "content": "不过都是说哈基米",
+      "author": "carme.0588",
+      "reactions": 1,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554536845730119721",
+      "channel_id": "1131839817982947429",
+      "content": "舊難5是難4",
+      "author": "heikwok",
+      "reactions": 1,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}
