@@ -1,0 +1,13 @@
+{
+  "target": "steam-review-summary",
+  "title": "Morimens Steam review summary",
+  "url": "https://store.steampowered.com/appreviews/3052450?json=1&num_per_page=0&language=all&purchase_type=all",
+  "checked_at": "2026-09-18T12:13:02.778Z",
+  "signature": {
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "total_positive": 4311,
+    "total_negative": 1090,
+    "total_reviews": 5401
+  }
+}

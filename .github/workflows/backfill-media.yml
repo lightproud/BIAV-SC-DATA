@@ -1,0 +1,123 @@
+name: "🖼️ Backfill & Archive Media"
+
+# ── 2026-09-29 自 BIAV-SC-CODE 迁入（守密人裁定：采集代码与工作流整体搬到本公开仓）──
+# 公开仓 Actions 分钟与存储免费；CODE 仓 2026-09-27 转私有后采集改在本仓跑，CODE 仓不再参与采集。
+# 采集代码在本仓 projects/news/；数据仍按 BIAV_SC_DATA_ROOT 写本仓 Record/（另行克隆一份完整数据根）。
+# 定时只在仓库变量 COLLECTION_ENABLED=true 后生效，手动触发不受限（切换前验证用）。
+# 本仓公开，运行日志任何人可见——勿在步骤里打印凭据。
+
+# 媒体补录与归档：把归档里仍存活的图片全部下载，二进制传 GitHub Releases（决策 038/059）。
+# Discord 过期链接经 refresh-urls 接口刷新后再下载（附件本体仍在 Discord，丢的只是签名链接）。
+#
+# T62 P2-3c 已切换（2026-07-19）：源读根 SRC（Record/Community）经 community_root() 分仓桥接
+# **读 BIAV-SC-DATA**；media 二进制仍传 code 仓 Releases。
+# manifest 已迁 **data 仓** Record/media/（守密人 2026-07-30 裁定）：原写 code 仓 news/data 的路线
+# 被 #876 的 .gitignore 整目录忽略挡下 git add，连败 38 天；台账随数据湖同仓同推（PAT 读写）。
+# 所需 Secrets：DISCORD_BOT_TOKEN（刷新 Discord 链接）；GH_TOKEN 用内置 github.token；BIAV_SC_DATA_TOKEN。
+
+on:
+  schedule:
+    # 2026-07-26 降为每日（守密人裁定）：死手开关首跑抓到本工作流**最近一次成功在
+    # 836 小时前**——每小时 cron 撞 90 分钟超时，排队比排空快，新 run 顶掉待跑 run，
+    # 于是连续 35 天全是 cancelled。注释原写「积压补齐后可调回每日」，此刻兑现。
+    - cron: '40 8 * * *'   # 每日北京 16:40（08:40 UTC），错开 15 点档采集群
+  workflow_dispatch:
+    inputs:
+      no_discord:
+        description: '只补持久平台源（跳过 Discord）'
+        type: boolean
+        default: false
+      budget:
+        description: '运行预算秒数'
+        default: '2400'
+
+concurrency:
+  group: backfill-media
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+defaults:
+  run:
+    working-directory: code-repo
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    if: (github.ref == 'refs/heads/main') && (github.event_name == 'workflow_dispatch' || vars.COLLECTION_ENABLED == 'true')
+    env:
+      BIAV_SC_DATA_ROOT: ${{ github.workspace }}/data-repo
+    steps:
+      - name: Checkout code repo（sparse 脚本 + state；manifest 已迁 data 仓，无需回推密钥）
+        uses: actions/checkout@v7
+        with:
+          path: code-repo
+          sparse-checkout: |
+            projects/news
+          sparse-checkout-cone-mode: true
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Clone BIAV-SC-DATA（PAT，读源 + 回推 manifest；全克隆同 update-news 推送形态）
+        working-directory: ${{ github.workspace }}
+        env:
+          DATA_TOKEN: ${{ secrets.BIAV_SC_DATA_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -z "${DATA_TOKEN:-}" ]; then
+            echo "::error::secret BIAV_SC_DATA_TOKEN 未配置"; exit 1
+          fi
+          # 凭据内联进 remote URL，不再依赖 credential.helper store。
+          # 2026-08-18 09:48~13:07 之间起，store helper 在 push 时不再返回任何凭据
+          # （fatal: could not read Username for 'https://github.com'），而 pull 因
+          # DATA 仓公开、匿名可读照常成功——于是所有写 DATA 仓的作业从那一刻起全部
+          # 卡在 commit/push，社区归档整整停摆 3 天而无人察觉。同窗口内本仓零代码改动，
+          # 变的是 runner 环境（观测到 git 2.54.0 -> 2.55.0）。
+          # URL 内联与 git 版本、helper 实现无关；secret 值由 Actions 在日志中遮蔽，
+          # 且仅存在于本次运行的临时 .git/config 内。
+          git clone "https://x-access-token:${DATA_TOKEN}@github.com/lightproud/BIAV-SC-DATA.git" data-repo
+
+      - name: Install dependencies
+        run: pip install -r projects/news/requirements.txt
+
+      - name: Backfill still-alive media (refresh Discord URLs)
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          INPUT_BUDGET: ${{ github.event.inputs.budget || '3000' }}
+          INPUT_NO_DISCORD: ${{ github.event.inputs.no_discord }}
+        run: |
+          FLAGS="--budget $INPUT_BUDGET"
+          if [ "$INPUT_NO_DISCORD" = "true" ]; then FLAGS="$FLAGS --no-discord"; fi
+          python projects/news/scripts/backfill_media.py $FLAGS
+
+      - name: Package binaries to GitHub Releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view community-assets --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1 \
+            || gh release create community-assets --repo "$GITHUB_REPOSITORY" \
+               --title "社区二创 — fanart 同人图 + 回填媒体" \
+               --notes "社区产出二进制（fanart 月桶 + 回填媒体）。2026-09-29 起由本仓采集写入；此前的存量在 BIAV-SC-CODE 同名 Release。"
+          python projects/news/scripts/backfill_media.py --upload
+
+      - name: Commit manifest → data repo (text only; binaries live in Releases)
+        working-directory: ${{ github.workspace }}/data-repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Record/media/backfill_manifest.json
+          if git diff --staged --quiet; then
+            echo "No manifest changes"
+          else
+            git commit -m "data: backfill media manifest"
+            for i in 1 2 3 4; do
+              git pull --rebase origin main && git push origin main && exit 0
+              echo "Push attempt $i failed, retrying in ${i}s..."
+              sleep $i
+            done
+            exit 1
+          fi

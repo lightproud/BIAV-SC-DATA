@@ -1,0 +1,4 @@
+requests>=2.34.2
+cloudscraper>=1.2.71
+google-play-scraper>=1.2.7
+playwright>=1.61.0

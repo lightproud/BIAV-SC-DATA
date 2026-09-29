@@ -1,0 +1,121 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/lightproud/BIAV-SC-CODE/projects/news/schema/platform-data.schema.json",
+  "title": "Platform Data",
+  "description": "忘却前夜（Morimens）各平台数据统一格式。自动采集和手动采集均使用此格式。",
+  "type": "object",
+  "required": ["platform", "updated_at", "source", "items"],
+  "additionalProperties": false,
+  "properties": {
+    "platform": {
+      "type": "string",
+      "description": "平台标识符",
+      "enum": [
+        "steam",
+        "bilibili",
+        "xiaohongshu",
+        "discord",
+        "reddit",
+        "twitter",
+        "youtube",
+        "taptap",
+        "nga",
+        "arca",
+        "weibo",
+        "other"
+      ]
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "数据最后更新时间（ISO 8601 UTC）"
+    },
+    "source": {
+      "type": "string",
+      "enum": ["auto", "manual"],
+      "description": "数据来源：auto=API 自动采集，manual=人工采集"
+    },
+    "meta": {
+      "type": "object",
+      "description": "平台级别的统计元信息（可选）",
+      "additionalProperties": true
+    },
+    "items": {
+      "type": "array",
+      "description": "条目列表",
+      "items": {
+        "$ref": "#/definitions/Item"
+      }
+    }
+  },
+  "definitions": {
+    "Item": {
+      "type": "object",
+      "required": ["platform", "timestamp", "content", "content_type"],
+      "additionalProperties": false,
+      "properties": {
+        "platform": {
+          "type": "string",
+          "description": "条目所属平台（与顶层 platform 一致）"
+        },
+        "language": {
+          "type": ["string", "null"],
+          "description": "内容语言代码（ISO 639-1），未知时为 null",
+          "examples": ["en", "zh", "ja", "ko", "ru"]
+        },
+        "timestamp": {
+          "type": "string",
+          "format": "date-time",
+          "description": "条目发布时间（ISO 8601 UTC）"
+        },
+        "content": {
+          "type": "string",
+          "description": "正文文本"
+        },
+        "sentiment": {
+          "type": ["string", "null"],
+          "enum": ["positive", "negative", "neutral", null],
+          "description": "情感倾向，无法判断时为 null"
+        },
+        "source_url": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "条目原始链接"
+        },
+        "title": {
+          "type": ["string", "null"],
+          "description": "标题（评论类通常无标题）"
+        },
+        "author": {
+          "type": ["string", "null"],
+          "description": "作者用户名或 ID"
+        },
+        "engagement": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "互动数（点赞/投票/回复等，平台语义各异）",
+          "default": 0
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "标签列表",
+          "default": []
+        },
+        "content_type": {
+          "type": "string",
+          "enum": ["review", "post", "video", "comment"],
+          "description": "内容类型"
+        },
+        "metadata": {
+          "type": "object",
+          "description": "平台特有的额外字段（如 playtime_forever、voted_up 等）",
+          "additionalProperties": true,
+          "default": {}
+        }
+      }
+    }
+  }
+}

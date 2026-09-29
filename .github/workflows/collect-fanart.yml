@@ -1,0 +1,104 @@
+name: "🎨 Collect Fan Art"
+
+# ── 2026-09-29 自 BIAV-SC-CODE 迁入（守密人裁定：采集代码与工作流整体搬到本公开仓）──
+# 公开仓 Actions 分钟与存储免费；CODE 仓 2026-09-27 转私有后采集改在本仓跑，CODE 仓不再参与采集。
+# 采集代码在本仓 projects/news/；数据仍按 BIAV_SC_DATA_ROOT 写本仓 Record/（另行克隆一份完整数据根）。
+# 定时只在仓库变量 COLLECTION_ENABLED=true 后生效，手动触发不受限（切换前验证用）。
+# 本仓公开，运行日志任何人可见——勿在步骤里打印凭据。
+
+# 独立采集忘却前夜社区当日（默认北京昨日）二创同人图，落 runner 本地 staging
+# projects/news/data/fanart/{date}/ 后直传 community-assets release 当月资产
+# （fanart-archive-{YYYY-MM}.tar.gz，取回既有月桶合并后经归档引擎 --force-group 重传）。
+# 2026-06-21 守密人裁定 fanart 二进制不入 git（.gitignore 排除、采集链直传 release），
+# 故本工作流不做任何 git 提交。经 Discord attachments/refresh-urls 刷新过期 CDN 链接
+# 后落盘原图（缩略图在会话产报告时按需生成）。
+# 只用 DISCORD_BOT_TOKEN（免费），不碰 Anthropic API、不花钱。
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: '归档日期标签 YYYY-MM-DD（默认=北京昨日）'
+        required: false
+        default: ''
+  schedule:
+    - cron: '10 7 * * *'   # 每日北京时间 15:10（07:10 UTC）自动采（2026-07-11 日更档统一北京 15 点裁定）
+
+concurrency:
+  group: collect-fanart
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    if: (github.ref == 'refs/heads/main') && (github.event_name == 'workflow_dispatch' || vars.COLLECTION_ENABLED == 'true')
+    env:
+      BIAV_SC_DATA_ROOT: ${{ github.workspace }}/data-repo
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          # 只取采集代码；数据根另行克隆，避免把本仓近 1GB 档案层拉进工作区
+          sparse-checkout: |
+            projects/news
+          sparse-checkout-cone-mode: true
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      # 二创附件是从 discord 归档里挑出来的——档案自 T62 §7甲 起住在数据仓。
+      # 本作业只读数据仓（产物直传 release，不回写），故浅克隆即可。
+      - name: Clone BIAV-SC-DATA（PAT，数据根）
+        env:
+          DATA_TOKEN: ${{ secrets.BIAV_SC_DATA_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -z "${DATA_TOKEN:-}" ]; then
+            echo "::error::secret BIAV_SC_DATA_TOKEN 未配置"; exit 1
+          fi
+          # 凭据内联进 remote URL，不再依赖 credential.helper store（2026-08-21 裁定）。
+          # 详见 discord-archive.yml 同位注释：08-18 起 store helper 在 push 时不再
+          # 返回任何凭据，所有写 DATA 仓的作业整整停摆 3 天。
+          git clone --depth 1 "https://x-access-token:${DATA_TOKEN}@github.com/lightproud/BIAV-SC-DATA.git" data-repo
+
+      - name: Collect fan art
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+        run: |
+          D="${{ github.event.inputs.date }}"
+          [ -n "$D" ] || D=$(TZ=Asia/Shanghai date -d 'yesterday' +%Y-%m-%d)
+          python projects/news/scripts/collect_fanart.py --date "$D" --out "projects/news/data/fanart/$D"
+          echo "FANART_DATE=$D" >> "$GITHUB_ENV"
+
+      - name: Upload to community-assets release (merge month asset)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          BASE=projects/news/data/fanart
+          if [ ! -d "$BASE/$FANART_DATE" ] || [ -z "$(ls -A "$BASE/$FANART_DATE")" ]; then
+            echo "No new fan art for $FANART_DATE, nothing to upload"
+            exit 0
+          fi
+          M=${FANART_DATE:0:7}
+          ASSET="fanart-archive-$M.tar.gz"
+          mkdir -p /tmp/fanart-assets
+          gh release view community-assets --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1 \
+            || gh release create community-assets --repo "$GITHUB_REPOSITORY" \
+               --title "社区二创 — fanart 同人图 + 回填媒体" \
+               --notes "社区产出二进制（fanart 月桶 + 回填媒体）。2026-09-29 起由本仓采集写入；此前的存量在 BIAV-SC-CODE 同名 Release。"
+          # 查询失败必须硬失败：静默当「资产不存在」会用当日增量 --clobber 覆掉整月存量
+          gh release view community-assets --json assets -q '.assets[].name' \
+            --repo "$GITHUB_REPOSITORY" > /tmp/fanart-assets/names.txt
+          if grep -qx "$ASSET" /tmp/fanart-assets/names.txt; then
+            gh release download community-assets --pattern "$ASSET" \
+              --dir /tmp/fanart-assets --repo "$GITHUB_REPOSITORY"
+            # --skip-old-files：月桶存量与本次新采同名时保留新采（刚刷新过 CDN 链接）
+            tar --skip-old-files -xzf "/tmp/fanart-assets/$ASSET" -C "$BASE"
+          else
+            echo "No existing asset for $M (first upload of the month)"
+          fi
+          python projects/news/scripts/archive_engine.py --source fanart --force-group "$M"

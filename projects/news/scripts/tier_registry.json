@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "what": "projects/news/scripts 的层籍注册表——每个模块属于采集三层的哪一层，或属于不隶属任何层的跨层基础设施（shared）。",
+    "why": "CLAUDE.md §1.4 把采集层定性为三层且明写「T2 绝不并入 T1」，但在 2026-07-27 的结构审视之前，这条边界只存在于散文里：磁盘上 32 档全平铺，谁属于哪层靠读者按文件名猜。审视过程中就猜错过一次（archive_platforms 按名字像 T2，实为 T1 的下游落盘），差点据此写出一个把错误固化进代码的守卫。本表把「谁属于哪层」从猜测变成可复核、可守卫的数据，每条附判据。",
+    "not_a_directory_split": "刻意不按层拆物理目录。本层 32 档以裸 basename 互相 import（实测 62 条同目录依赖边），CI 另有 28 处硬编码路径引用；拆目录后必须把三个子目录全部注入 sys.path 才能跑，那是「形式分层、实质未分」——目录暗示了一条并不存在的边界，比不分更误导。层籍靠本表 + tests/test_news_tiers.py 落地。",
+    "shared_tier": "第四类 shared 是实地考据的产物，不在 CLAUDE.md 的三层叙述里：这些模块是被多层（乃至跨目录）共用的单一真相源，硬塞进任何一层都会让另一层的引用看起来像越界。archive_layout 住在本目录却被全仓消费，正是这一类没有名分的后果（见 P4 / scripts/news_bridge.py）。",
+    "tiers": {
+      "T1": "新闻流 → 采集入口：collect_global 单入口，每 3 小时一轮，产运行期全量层供 T2 落档（原「输出展示层流快照」随 2026-08-21 该层删除、2026-08-22 aggregator 退役而作废）",
+      "T2": "数据层归档：声明式引擎 + 全量永驻数据仓 + 冷热分层，节拍与 T1 刻意错峰",
+      "T3": "维护回填：补跑、回填、对账；刻意复用 T1/T2 的部件，不是它们的上游",
+      "shared": "跨层基础设施：单一真相源，不隶属任何一层"
+    },
+    "reviewed": "2026-07-27 结构审视 P2（逐档读头注 + 核对 CI 实际调用顺序）；2026-08-22 采集线重构后订正（删 aggregator 三档 + split_output 层籍）"
+  },
+  "modules": {
+    "collect_global": {
+      "tier": "T1",
+      "why": "T1 唯一采集入口（2026-08-22「采集 → 直接入湖」裁定：aggregator 全家退役，本模块直接编排 GC 栈 + 迁入的 steam 三源，产运行期全量层交 T2 落档）"
+    },
+    "global_collectors": {
+      "tier": "T1",
+      "why": "collect_global 的采集器实现层"
+    },
+    "playwright_collectors": {
+      "tier": "T1",
+      "why": "Playwright 采集器，供 T1 采集使用"
+    },
+    "taptap_collector": {
+      "tier": "T1",
+      "why": "TapTap 无头浏览器采集器"
+    },
+    "collect_arca_daily": {
+      "tier": "T1",
+      "why": "arca 单源采集（守密人 2026-07-10 方案 2：CF 拦 Actions IP 的绕行）"
+    },
+    "collection_state": {
+      "tier": "T1",
+      "why": "自适应回看时窗——只服务采集轮次"
+    },
+    "data_quality": {
+      "tier": "T1",
+      "why": "采集条目的质量增强/打分"
+    },
+    "archive_platforms": {
+      "tier": "T1",
+      "why": "把刚采的 news.json 按条目真实日期落 data/platforms/——T1 的下游落盘，不是 T2 归档引擎（2026-07-27 结构审视实地校正：曾按名字误归 T2）"
+    },
+    "archive_engine": {
+      "tier": "T2",
+      "why": "声明式归档引擎，读 archive_sources.json 打包冷数据 → Releases（T2 真身）"
+    },
+    "archive_discord": {
+      "tier": "T2",
+      "why": "archive_engine 的向后兼容垫片（守密人 2026-06-21 裁定 A）"
+    },
+    "discord_archiver": {
+      "tier": "T2",
+      "why": "Discord 全量归档器 v2，双轨并行 + 断点续传；每 3 小时独立工作流"
+    },
+    "discord_cold_compress": {
+      "tier": "T2",
+      "why": "discord 冷热分层压缩（当月+上月裸档，更早压 gz）"
+    },
+    "community_cold_compress": {
+      "tier": "T2",
+      "why": "冷压总入口，月度 CI（每月 2 日）"
+    },
+    "collect_fanart": {
+      "tier": "T2",
+      "why": "同人图采集 → Releases「社区二创」桶，独立日更工作流"
+    },
+    "store_patrol": {
+      "tier": "T2",
+      "why": "店面日巡检：Steam 店面 / 评测摘要签名 → Record/store-patrol/ 日快照 + 变更日志，独立日更工作流（2026-09-28 自 maestro SDK 示例移植）"
+    },
+    "collect_video_comments": {
+      "tier": "T2",
+      "why": "视频评论采集 + 旧评论归档（守密人要求不丢历史），独立日更工作流"
+    },
+    "repair_gaps": {
+      "tier": "T3",
+      "why": "检测并补平台归档的日期缺口"
+    },
+    "backfill_gap": {
+      "tier": "T3",
+      "why": "一次性回填 4/13–25 数据缺口"
+    },
+    "backfill_platforms": {
+      "tier": "T3",
+      "why": "多平台历史数据回溯采集"
+    },
+    "backfill_media": {
+      "tier": "T3",
+      "why": "回填归档丢失的 CDN 媒体（附件本体仍在 Discord）"
+    },
+    "backfill_forum_starters": {
+      "tier": "T3",
+      "why": "一次性回填 forum thread 的 starter 消息"
+    },
+    "download_media": {
+      "tier": "T3",
+      "why": "全平台媒体下载器；在 update-news 轮内补跑，亦有独立日更工作流"
+    },
+    "discord_reconcile": {
+      "tier": "T3",
+      "why": "频道索引对账，修覆盖式重写导致的条目蒸发"
+    },
+    "discord_list_guilds": {
+      "tier": "T3",
+      "why": "探测 bot 已加入的 guild 清单"
+    },
+    "silent_sources_audit": {
+      "tier": "T3",
+      "why": "基于归档历史的沉默源审计 + 健康门"
+    },
+    "archive_layout": {
+      "tier": "shared",
+      "why": "归档布局单一真相源（P0-1）：16 个层内消费者 + 顶层脚本经 news_bridge 取用"
+    },
+    "discord_compact": {
+      "tier": "shared",
+      "why": "紧凑 JSONL schema 单一权威定义——归档器写盘与顶层 compact_discord_archive.py 重写器共用"
+    },
+    "news_common": {
+      "tier": "shared",
+      "why": "采集层共享工具（ARCH-01/02 收敛单一归属）：11 个消费者横跨 T1/T3"
+    },
+    "sources": {
+      "tier": "shared",
+      "why": "采集源单一真相源：9 个消费者横跨 T1/T2/T3"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+name: Discord Archive (JP)
+
+# ── 2026-09-29 自 BIAV-SC-CODE 迁入（守密人裁定：采集代码与工作流整体搬到本公开仓）──
+# 公开仓 Actions 分钟与存储免费；CODE 仓 2026-09-27 转私有后采集改在本仓跑，CODE 仓不再参与采集。
+# 采集代码在本仓 projects/news/；数据仍按 BIAV_SC_DATA_ROOT 写本仓 Record/（另行克隆一份完整数据根）。
+# 定时只在仓库变量 COLLECTION_ENABLED=true 后生效，手动触发不受限（切换前验证用）。
+# 本仓公开，运行日志任何人可见——勿在步骤里打印凭据。
+
+# 日服服务器采集，与 Global 完全隔离（数据落 discord/jp/，2026-07-10 方案甲区服布局），复用同一 bot。
+# T62 P2-3c 已切换（2026-07-19）：写 **BIAV-SC-DATA**（不再写 code 仓）。archiver 经 env
+# BIAV_SC_DATA_ROOT 解析数据根 = data 仓 checkout；提交推 data 仓（PAT）。
+#
+# guild = 1377475512716234902 ·【公式】忘却前夜サーバー（日服官方），2026-06-17 探测确认并启用。
+# Guard 步骤保留：若 JP_GUILD_ID 被清空则安全跳过、不回落 Global guild。
+on:
+  schedule:
+    - cron: '45 */3 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: discord-archive-jp-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: read   # 只读 code 仓脚本；写 data 仓走 PAT
+
+env:
+  JP_GUILD_ID: '1377475512716234902'
+  BIAV_SC_DATA_ROOT: ${{ github.workspace }}/data-repo
+
+jobs:
+  archive:
+    if: (github.ref == 'refs/heads/main') && (github.event_name == 'workflow_dispatch' || vars.COLLECTION_ENABLED == 'true')
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - name: Guard — require JP guild id
+        id: guard
+        run: |
+          if [ -z "$JP_GUILD_ID" ]; then
+            echo "::notice::JP_GUILD_ID 未配置 —— 安全跳过。请先运行 'Discord Discover Guilds'，从 discord/guilds_seen.json 取得日服 guild ID 填入 env.JP_GUILD_ID。"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout code repo（sparse 脚本，不取数据）
+        uses: actions/checkout@v7
+        if: steps.guard.outputs.skip == 'false'
+        with:
+          sparse-checkout: |
+            projects/news
+          sparse-checkout-cone-mode: true
+
+      - uses: actions/setup-python@v6
+        if: steps.guard.outputs.skip == 'false'
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        if: steps.guard.outputs.skip == 'false'
+        run: pip install -r projects/news/requirements.txt
+
+      - name: Clone BIAV-SC-DATA（PAT，数据根）
+        if: steps.guard.outputs.skip == 'false'
+        env:
+          DATA_TOKEN: ${{ secrets.BIAV_SC_DATA_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -z "${DATA_TOKEN:-}" ]; then
+            echo "::error::secret BIAV_SC_DATA_TOKEN 未配置"; exit 1
+          fi
+          # 凭据内联进 remote URL，不再依赖 credential.helper store。
+          # 2026-08-18 09:48~13:07 之间起，store helper 在 push 时不再返回任何凭据
+          # （fatal: could not read Username for 'https://github.com'），而 pull 因
+          # DATA 仓公开、匿名可读照常成功——于是所有写 DATA 仓的作业从那一刻起全部
+          # 卡在 commit/push，社区归档整整停摆 3 天而无人察觉。同窗口内本仓零代码改动，
+          # 变的是 runner 环境（观测到 git 2.54.0 -> 2.55.0）。
+          # URL 内联与 git 版本、helper 实现无关；secret 值由 Actions 在日志中遮蔽，
+          # 且仅存在于本次运行的临时 .git/config 内。
+          git clone "https://x-access-token:${DATA_TOKEN}@github.com/lightproud/BIAV-SC-DATA.git" data-repo
+
+      - name: Run Discord archiver for JP guild
+        if: steps.guard.outputs.skip == 'false'
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DISCORD_GUILD_ID: ${{ env.JP_GUILD_ID }}
+        run: python projects/news/scripts/discord_archiver.py
+
+      - name: Commit and push if changed → BIAV-SC-DATA
+        if: steps.guard.outputs.skip == 'false'
+        run: |
+          set -euo pipefail
+          cd data-repo
+          git config user.name "Erica (BIAV-SC)"
+          git config user.email "lightproud@hotmail.com"
+          git add Record/Community/discord/jp/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "data: archive JP Discord data (T62 P2-3c)"
+          for i in 1 2 3 4; do
+            git pull --rebase origin main && git push origin main && exit 0
+            # rebase 撞冲突会在树里留下未合并文件。不 abort 就重试，后续每一次
+            # pull 都只会回 "Pulling is not possible because you have unmerged
+            # files" —— 2026-08-17 run 31992498596 实测：4 次尝试里有 3 次是这条
+            # 空转，35 分钟采集成果原样丢弃。abort 让下一次重试回到干净基线，
+            # 也让真冲突（内容级、重试也解不开）尽快落到响亮失败而不是被噪声淹没。
+            git rebase --abort 2>/dev/null || true
+            echo "Push attempt $i failed, retrying in ${i}s..."
+            sleep $i
+          done
+          echo "All push attempts failed"
+          # 未推上去 = origin 上的游标没有前移，下一轮从同一基线重抓，
+          # 只丢本轮工时、不丢数据、不会写坏归档。
+          exit 1

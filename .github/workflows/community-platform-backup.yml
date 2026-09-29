@@ -1,0 +1,118 @@
+name: Community Platform Backup
+
+# ── 2026-09-29 自 BIAV-SC-CODE 迁入（守密人裁定：采集代码与工作流整体搬到本公开仓）──
+# 公开仓 Actions 分钟与存储免费；CODE 仓 2026-09-27 转私有后采集改在本仓跑，CODE 仓不再参与采集。
+# 采集代码在本仓 projects/news/；数据仍按 BIAV_SC_DATA_ROOT 写本仓 Record/（另行克隆一份完整数据根）。
+# 定时只在仓库变量 COLLECTION_ENABLED=true 后生效，手动触发不受限（切换前验证用）。
+# 本仓公开，运行日志任何人可见——勿在步骤里打印凭据。
+
+# 为非 discord 社区平台建 Release 副本 —— 分仓（T62）硬前置。
+# 门① 盘点发现：discord 有 community-data 桶兜底，但 16 个非 discord 平台
+# （appstore / bilibili / reddit / steam / youtube / weibo / ... ）只有一份正本、零第二份。
+# 本工作流每月刷新一次滚动全量副本（--clobber 覆盖同名），亦可 workflow_dispatch 手动跑。
+# discord 不在此（自有 community-data 桶）；tar 步显式跳过 discord 作正确性兜底。
+#
+# 2026-07-26 修复（守密人裁定「修好并立即跑一轮」）：本工作流建于 2026-07-19，
+# 原从 code 仓 sparse 取 `Public-Info-Pool/Record/Community` —— 而 T62 §7甲（07-20）
+# 已把数据湖迁出 code 仓，该目录不再存在。它建成后一次都没触发过（首次 cron 为 08-03），
+# 所以这个断裂一直没被发现，只是静静等在那里；照原样跑必在自检处响亮失败。
+# 现改为 clone BIAV-SC-DATA 数据仓（同 discord 族 CI 模板，PAT = BIAV_SC_DATA_TOKEN），
+# 数据根经 `BIAV_SC_DATA_ROOT` + `archive_layout.community_root()` 解析 —— 布局真相
+# 只在 archive_layout 一处（CLAUDE.md §7.3），本工作流不再自行拼路径。
+# 前置 secret：BIAV_SC_DATA_TOKEN。Release 仍落 code 仓（与数据仓互为异地副本）。
+
+on:
+  schedule:
+    # 每月 3 日 04:23 UTC（≈ 北京 12:23）；错开 2 日的 community-cold-compress。
+    - cron: '23 4 3 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: community-platform-backup
+  cancel-in-progress: false
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    if: (github.ref == 'refs/heads/main') && (github.event_name == 'workflow_dispatch' || vars.COLLECTION_ENABLED == 'true')
+    env:
+      BIAV_SC_DATA_ROOT: ${{ github.workspace }}/data-repo
+    steps:
+      - name: Checkout code repo（sparse 脚本，不取数据）
+        uses: actions/checkout@v7
+        with:
+          sparse-checkout: |
+            projects/news
+          sparse-checkout-cone-mode: true
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Clone BIAV-SC-DATA（PAT，数据根）
+        env:
+          DATA_TOKEN: ${{ secrets.BIAV_SC_DATA_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -z "${DATA_TOKEN:-}" ]; then
+            echo "::error::secret BIAV_SC_DATA_TOKEN 未配置"; exit 1
+          fi
+          # 凭据内联进 remote URL，不再依赖 credential.helper store（2026-08-21 裁定）。
+          # 详见 discord-archive.yml 同位注释：08-18 起 store helper 在 push 时不再
+          # 返回任何凭据，所有写 DATA 仓的作业整整停摆 3 天。
+          # 只读用途，--depth 1 足够（要的是当前全量内容，不是历史）
+          git clone --depth 1 "https://x-access-token:${DATA_TOKEN}@github.com/lightproud/BIAV-SC-DATA.git" data-repo
+
+      - name: Resolve the community root（单一真相源）
+        id: root
+        run: |
+          set -euo pipefail
+          COMM=$(python3 -c "
+          import sys
+          sys.path.insert(0, 'projects/news/scripts')
+          from archive_layout import community_root
+          print(community_root())
+          ")
+          echo "comm=$COMM" >> "$GITHUB_OUTPUT"
+          echo "community root: $COMM"
+
+      - name: Package non-discord platforms
+        env:
+          COMM: ${{ steps.root.outputs.comm }}
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/platform-backup
+          if [ ! -d "$COMM" ]; then
+            echo "::error::$COMM 不存在，数据仓 clone 异常"; exit 1
+          fi
+          backed=""
+          for d in "$COMM"/*/; do
+            name=$(basename "$d")
+            [ "$name" = "discord" ] && continue   # 正确性兜底：discord 自有 community-data 桶
+            [ -d "$d" ] || continue
+            tar czf "/tmp/platform-backup/platform-archive-$name.tar.gz" -C "$COMM" "$name"
+            backed="$backed $name"
+          done
+          echo "backed up:$backed"
+          if [ -z "$backed" ]; then
+            echo "::error::无任何平台被打包，异常"; exit 1
+          fi
+          ls -la /tmp/platform-backup
+
+      - name: Upload to community-platforms release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          gh release view community-platforms --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1 \
+            || gh release create community-platforms --repo "$GITHUB_REPOSITORY" \
+                 --title "Community Platform Archive (non-discord)" \
+                 --notes "非 discord 社区平台全量档案备份（T65 三网之一）。源 = BIAV-SC-DATA 数据仓，滚动全量、每月刷新。"
+          # --clobber：同名平台资产覆盖为最新全量（滚动副本，非月度版本化）
+          gh release upload community-platforms /tmp/platform-backup/*.tar.gz \
+            --clobber --repo "$GITHUB_REPOSITORY"
+          echo "已上传 $(ls /tmp/platform-backup | wc -l) 个平台副本至 community-platforms release"
