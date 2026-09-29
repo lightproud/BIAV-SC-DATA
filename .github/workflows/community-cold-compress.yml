@@ -1,0 +1,99 @@
+name: Community Cold Compress
+
+# ── 2026-09-29 自 BIAV-SC-CODE 迁入（守密人裁定：采集代码与工作流整体搬到本公开仓）──
+# 公开仓 Actions 分钟与存储免费；CODE 仓 2026-09-27 转私有后采集改在本仓跑，CODE 仓不再参与采集。
+# 采集代码在本仓 projects/news/；数据仍按 BIAV_SC_DATA_ROOT 写本仓 Record/（另行克隆一份完整数据根）。
+# 定时只在仓库变量 COLLECTION_ENABLED=true 后生效，手动触发不受限（切换前验证用）。
+# 本仓公开，运行日志任何人可见——勿在步骤里打印凭据。
+
+# 月度压冷（守密人 2026-07-12 甲案裁定 + 同日推广到全部平台档案）：每到新月份，
+# 把上上个月及更早的 Community dated 归档压成 .gz（当月 + 上月保持裸文本热层）。
+# discord JSONL 按消息 id 并轨，平台 .json 按条目并轨；幂等可重入。
+# T62 P2-3c 已切换（2026-07-19）：操作 **BIAV-SC-DATA** 的 Community 存量
+# （community_cold_compress 经 community_root() 分仓桥接），提交推 data 仓。
+on:
+  schedule:
+    - cron: '23 3 2 * *'   # 每月 2 日 03:23 UTC（错峰归档器整点轮）
+  workflow_dispatch:
+    inputs:
+      cutoff:
+        description: '冷月上界 YYYY-MM（不含；留空 = 上月）'
+        required: false
+        default: ''
+      scope:
+        description: 'all / discord / platforms'
+        required: false
+        default: 'all'
+
+concurrency:
+  group: community-cold-compress
+  cancel-in-progress: false
+
+permissions:
+  contents: read   # 只读 code 仓脚本；写 data 仓走 PAT
+
+env:
+  BIAV_SC_DATA_ROOT: ${{ github.workspace }}/data-repo
+
+jobs:
+  compress:
+    if: (github.event_name == 'workflow_dispatch' || vars.COLLECTION_ENABLED == 'true')
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout code repo（sparse 脚本，不取数据）
+        uses: actions/checkout@v7
+        with:
+          sparse-checkout: |
+            projects/news
+          sparse-checkout-cone-mode: true
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Clone BIAV-SC-DATA（PAT，数据根）
+        env:
+          DATA_TOKEN: ${{ secrets.BIAV_SC_DATA_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -z "${DATA_TOKEN:-}" ]; then
+            echo "::error::secret BIAV_SC_DATA_TOKEN 未配置"; exit 1
+          fi
+          # 凭据内联进 remote URL，不再依赖 credential.helper store。
+          # 2026-08-18 09:48~13:07 之间起，store helper 在 push 时不再返回任何凭据
+          # （fatal: could not read Username for 'https://github.com'），而 pull 因
+          # DATA 仓公开、匿名可读照常成功——于是所有写 DATA 仓的作业从那一刻起全部
+          # 卡在 commit/push，社区归档整整停摆 3 天而无人察觉。同窗口内本仓零代码改动，
+          # 变的是 runner 环境（观测到 git 2.54.0 -> 2.55.0）。
+          # URL 内联与 git 版本、helper 实现无关；secret 值由 Actions 在日志中遮蔽，
+          # 且仅存在于本次运行的临时 .git/config 内。
+          git clone "https://x-access-token:${DATA_TOKEN}@github.com/lightproud/BIAV-SC-DATA.git" data-repo
+
+      - name: Run cold compress
+        run: |
+          ARGS="--scope ${{ github.event.inputs.scope || 'all' }}"
+          if [ -n "${{ github.event.inputs.cutoff }}" ]; then
+            ARGS="$ARGS --cutoff ${{ github.event.inputs.cutoff }}"
+          fi
+          python3 projects/news/scripts/community_cold_compress.py $ARGS
+
+      - name: Commit and push if changed → BIAV-SC-DATA
+        run: |
+          set -euo pipefail
+          cd data-repo
+          git config user.name "Erica (BIAV-SC)"
+          git config user.email "lightproud@hotmail.com"
+          git add -A Record/Community/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "data(community): monthly cold compress (T62 P2-3c)"
+          for i in 1 2 3 4; do
+            git pull --rebase origin main && git push origin main && exit 0
+            echo "Push attempt $i failed, retrying in ${i}s..."
+            sleep $i
+          done
+          echo "All push attempts failed"
+          exit 1

@@ -1,0 +1,241 @@
+{
+  "updated_at": "2026-03-29T14:04:17.336220+00:00",
+  "summary": "今日热门话题：［相位］三小只，但是乱拳打死老师傅？（2）；［相位］♿灾难始终慢我一步♿；os推流跟尿一样流走了；【忘却前夜 Morimens_动态壁纸】拉蒙娜_朵尔_萝坦_。",
+  "stats": {
+    "total_fetched": 7,
+    "total_after_validation": 7,
+    "total_after_dedup": 7,
+    "sources": {
+      "bilibili_articles": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 1226
+      },
+      "twitter": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 0
+      },
+      "bilibili": {
+        "status": "ok",
+        "count": 7,
+        "time_ms": 1645
+      },
+      "taptap": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 0
+      },
+      "youtube": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 44
+      },
+      "discord": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 0
+      },
+      "official": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 0
+      },
+      "bilibili_dynamic": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 2291
+      },
+      "nga": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 1940
+      },
+      "reddit": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 3281
+      }
+    },
+    "trends": {
+      "new_topics": 3,
+      "disappeared_topics": 1,
+      "rising": [
+        {
+          "title": "［相位］♿灾难始终慢我一步♿",
+          "source": "bilibili",
+          "prev_engagement": 53,
+          "curr_engagement": 219,
+          "growth": 313.2
+        },
+        {
+          "title": "第四届塔薇杯-第八日录播",
+          "source": "bilibili",
+          "prev_engagement": 17,
+          "curr_engagement": 30,
+          "growth": 76.5
+        }
+      ],
+      "platform_activity": {
+        "bilibili": {
+          "previous": 5,
+          "current": 7,
+          "change": 2
+        }
+      }
+    }
+  },
+  "news": [
+    {
+      "title": "［相位］三小只，但是乱拳打死老师傅？（2）",
+      "summary": "提示：此为娱乐构筑",
+      "source": "bilibili",
+      "time": "2026-03-29T04:11:46+00:00",
+      "url": "https://www.bilibili.com/video/av116310499396420",
+      "engagement": 522,
+      "is_hot": true,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常",
+        "相位"
+      ],
+      "engagement_detail": {
+        "play": 489,
+        "danmaku": 0,
+        "favorites": 5,
+        "review": 9
+      },
+      "lang": "zh"
+    },
+    {
+      "title": "［相位］♿灾难始终慢我一步♿",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-03-29T09:27:24+00:00",
+      "url": "https://www.bilibili.com/video/av116311741040205",
+      "engagement": 219,
+      "is_hot": true,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常",
+        "相位"
+      ],
+      "engagement_detail": {
+        "play": 207,
+        "danmaku": 0,
+        "favorites": 0,
+        "review": 6
+      },
+      "lang": "zh",
+      "trending": true
+    },
+    {
+      "title": "os推流跟尿一样流走了",
+      "summary": "我的法克呀其实我一个月前发了这个但是没过审",
+      "source": "bilibili",
+      "time": "2026-03-28T21:55:13+00:00",
+      "url": "https://www.bilibili.com/video/av116309006293247",
+      "engagement": 200,
+      "is_hot": true,
+      "author": "这就是此刻的思绪",
+      "tags": [
+        "动画综合"
+      ],
+      "engagement_detail": {
+        "play": 185,
+        "danmaku": 0,
+        "favorites": 3,
+        "review": 3
+      },
+      "lang": "zh"
+    },
+    {
+      "title": "【忘却前夜 Morimens_动态壁纸】拉蒙娜_朵尔_萝坦_奥吉尔=混沌界域1期_Wallpaper Engine",
+      "summary": "梦，开始的地方~\n\n如使用的开心，还请赠送免费的一键三联（加关注不迷路）哦~\n您的支持是我更新的动力！\n备注：如需下载，评论区留言，Wallpaper Engine上传同名。\n\nAI制作，个人整活二创；\n声明：抽象《忘却前夜》二创，仅供娱乐，不代表原作人物设定,一切以官方为准；",
+      "source": "bilibili",
+      "time": "2026-03-29T10:49:53+00:00",
+      "url": "https://www.bilibili.com/video/av116312059677892",
+      "engagement": 108,
+      "is_hot": true,
+      "author": "9_9墨玖",
+      "tags": [
+        "手机游戏",
+        "版本更新",
+        "同人"
+      ],
+      "engagement_detail": {
+        "play": 101,
+        "danmaku": 0,
+        "favorites": 1,
+        "review": 2
+      },
+      "lang": "zh"
+    },
+    {
+      "title": "【忘却前夜 Morimens】墨菲-倒错的群星_剧情动画化",
+      "summary": "群星之下，这是你我的约定。\n\nAI制作；个人整活二创。不存在的游玩记忆增加了2333；\n声明：抽象《忘却前夜》二创，仅供娱乐，不代表原作人物设定；\n备注：收米人好感度+999",
+      "source": "bilibili",
+      "time": "2026-03-29T11:18:49+00:00",
+      "url": "https://www.bilibili.com/video/av116312177119105",
+      "engagement": 49,
+      "is_hot": false,
+      "author": "9_9墨玖",
+      "tags": [
+        "手机游戏",
+        "剧情",
+        "同人"
+      ],
+      "engagement_detail": {
+        "play": 46,
+        "danmaku": 0,
+        "favorites": 1,
+        "review": 0
+      },
+      "lang": "zh"
+    },
+    {
+      "title": "［相位］一回合砍翻四个！吃我迴环剑技！",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-03-29T13:48:15+00:00",
+      "url": "https://www.bilibili.com/video/av116312764450429",
+      "engagement": 38,
+      "is_hot": false,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常",
+        "相位"
+      ],
+      "engagement_detail": {
+        "play": 31,
+        "danmaku": 0,
+        "favorites": 1,
+        "review": 2
+      },
+      "lang": "zh"
+    },
+    {
+      "title": "第四届塔薇杯-第八日录播",
+      "summary": "第八日直播录播\n本次比赛为预组比赛，赛程如下\n白修VS淸淸梓燃\n琉璃VS冥心\n琉璃VSA牛肉批发黄姨\ndoVSA牛肉批发黄姨\n空乏VS莱星\n淸淸梓燃VS立誓氪金打400\n莱星VS我不是kk\n莱星VS惑星\n冥心VS惑星\nA牛肉批发黄姨VS咕咕嘎嘎咕咕咕",
+      "source": "bilibili",
+      "time": "2026-03-29T06:58:26+00:00",
+      "url": "https://www.bilibili.com/video/av116311120223540",
+      "engagement": 30,
+      "is_hot": false,
+      "author": "God7777",
+      "tags": [
+        "手机游戏",
+        "直播",
+        "赛事"
+      ],
+      "engagement_detail": {
+        "play": 30,
+        "danmaku": 0,
+        "favorites": 0,
+        "review": 0
+      },
+      "lang": "zh",
+      "trending": true
+    }
+  ]
+}

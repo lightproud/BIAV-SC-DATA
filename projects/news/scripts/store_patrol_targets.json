@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "what": "店面巡检（store-patrol）目标注册表。新增一个店面 = 在此加一条；只要 store_patrol.py 的 EXTRACTORS 里已有对应 `extract` 类型，就零新代码。两个现行目标都是 Steam 官方公开 JSON 端点；appreviews 端点新闻层（global_collectors）早已在用，不新增 ToS 面。2026-09-28 自 projects/silver-core-maestro-sdk/examples/store-patrol.targets.json 迁来（maestro SDK 删除，巡检改独立 Python 脚本）。",
+    "archive": "Public-Info-Pool/Record/store-patrol/{target-id}/ — latest.json（当前签名）+ {date}.json（日快照）+ changes.jsonl（只追加变更日志）；运行状态 state/patrol-state.json"
+  },
+  "targets": [
+    {
+      "id": "steam-appdetails",
+      "title": "Morimens Steam storefront (price / release surface)",
+      "url": "https://store.steampowered.com/api/appdetails?appids=3052450&cc=us&l=en&filters=basic,price_overview,release_date",
+      "extract": "steam-appdetails",
+      "key": "3052450"
+    },
+    {
+      "id": "steam-review-summary",
+      "title": "Morimens Steam review summary",
+      "url": "https://store.steampowered.com/appreviews/3052450?json=1&num_per_page=0&language=all&purchase_type=all",
+      "extract": "steam-review-summary"
+    }
+  ]
+}

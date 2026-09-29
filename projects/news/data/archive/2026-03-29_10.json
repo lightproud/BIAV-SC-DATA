@@ -1,0 +1,173 @@
+{
+  "updated_at": "2026-03-29T10:04:40.803009+00:00",
+  "summary": "今日热门话题：［相位］三小只，但是乱拳打死老师傅？（2）；你觉得坚持不住的时候 不如听听厨尸说；os推流跟尿一样流走了；［相位］♿灾难始终慢我一步♿。",
+  "stats": {
+    "total_fetched": 5,
+    "total_after_validation": 5,
+    "total_after_dedup": 5,
+    "sources": {
+      "bilibili": {
+        "status": "ok",
+        "count": 5,
+        "time_ms": 1774
+      },
+      "twitter": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 0
+      },
+      "bilibili_articles": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 1953
+      },
+      "taptap": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 0
+      },
+      "youtube": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 70
+      },
+      "discord": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 0
+      },
+      "official": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 0
+      },
+      "bilibili_dynamic": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 2566
+      },
+      "nga": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 2013
+      },
+      "reddit": {
+        "status": "empty",
+        "count": 0,
+        "time_ms": 4034
+      }
+    },
+    "trends": {
+      "new_topics": 5,
+      "disappeared_topics": 0,
+      "rising": [],
+      "platform_activity": {}
+    }
+  },
+  "news": [
+    {
+      "title": "［相位］三小只，但是乱拳打死老师傅？（2）",
+      "summary": "提示：此为娱乐构筑",
+      "source": "bilibili",
+      "time": "2026-03-29T04:11:46+00:00",
+      "url": "https://www.bilibili.com/video/av116310499396420",
+      "engagement": 379,
+      "is_hot": true,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常",
+        "相位"
+      ],
+      "engagement_detail": {
+        "play": 351,
+        "danmaku": 0,
+        "favorites": 4,
+        "review": 8
+      },
+      "lang": "zh"
+    },
+    {
+      "title": "你觉得坚持不住的时候 不如听听厨尸说",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-03-28T11:03:19+00:00",
+      "url": "https://www.bilibili.com/video/av116306456222316",
+      "engagement": 227,
+      "is_hot": true,
+      "author": "汤圆Devil",
+      "tags": [
+        "手机游戏"
+      ],
+      "engagement_detail": {
+        "play": 203,
+        "danmaku": 0,
+        "favorites": 2,
+        "review": 9
+      },
+      "lang": "zh"
+    },
+    {
+      "title": "os推流跟尿一样流走了",
+      "summary": "我的法克呀其实我一个月前发了这个但是没过审",
+      "source": "bilibili",
+      "time": "2026-03-28T21:55:13+00:00",
+      "url": "https://www.bilibili.com/video/av116309006293247",
+      "engagement": 190,
+      "is_hot": true,
+      "author": "这就是此刻的思绪",
+      "tags": [
+        "动画综合"
+      ],
+      "engagement_detail": {
+        "play": 182,
+        "danmaku": 0,
+        "favorites": 2,
+        "review": 1
+      },
+      "lang": "zh"
+    },
+    {
+      "title": "［相位］♿灾难始终慢我一步♿",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-03-29T09:27:24+00:00",
+      "url": "https://www.bilibili.com/video/av116311741040205",
+      "engagement": 53,
+      "is_hot": true,
+      "author": "莱星Ligh",
+      "tags": [
+        "日常",
+        "相位"
+      ],
+      "engagement_detail": {
+        "play": 53,
+        "danmaku": 0,
+        "favorites": 0,
+        "review": 0
+      },
+      "lang": "zh"
+    },
+    {
+      "title": "第四届塔薇杯-第八日录播",
+      "summary": "第八日直播录播\n本次比赛为预组比赛，赛程如下\n白修VS淸淸梓燃\n琉璃VS冥心\n琉璃VSA牛肉批发黄姨\ndoVSA牛肉批发黄姨\n空乏VS莱星\n淸淸梓燃VS立誓氪金打400\n莱星VS我不是kk\n莱星VS惑星\n冥心VS惑星\nA牛肉批发黄姨VS咕咕嘎嘎咕咕咕",
+      "source": "bilibili",
+      "time": "2026-03-29T06:58:26+00:00",
+      "url": "https://www.bilibili.com/video/av116311120223540",
+      "engagement": 17,
+      "is_hot": false,
+      "author": "God7777",
+      "tags": [
+        "手机游戏",
+        "直播",
+        "赛事"
+      ],
+      "engagement_detail": {
+        "play": 17,
+        "danmaku": 0,
+        "favorites": 0,
+        "review": 0
+      },
+      "lang": "zh"
+    }
+  ]
+}

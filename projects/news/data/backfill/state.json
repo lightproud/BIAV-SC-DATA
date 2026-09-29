@@ -1,0 +1,48 @@
+{
+  "bilibili": {
+    "page": 56,
+    "done": true,
+    "total": 1340
+  },
+  "appstore": {
+    "page": 21,
+    "done": true,
+    "total": 210
+  },
+  "steam_review": {
+    "page": 41,
+    "done": false,
+    "total": 3924,
+    "cursor": "AoJ4gJC/iJEDd+WojQU="
+  },
+  "arca_live": {
+    "page": 1,
+    "done": false,
+    "total": 0
+  },
+  "dcinside": {
+    "page": 1,
+    "done": false,
+    "total": 0
+  },
+  "naver_cafe": {
+    "page": 1,
+    "done": false,
+    "total": 0
+  },
+  "pixiv": {
+    "page": 3,
+    "done": true,
+    "total": 343
+  },
+  "ruliweb": {
+    "page": 1,
+    "done": false,
+    "total": 0
+  },
+  "weixin": {
+    "page": 11,
+    "done": true,
+    "total": 188
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "discord": {
+    "base_dir": "Public-Info-Pool/Record/Community/discord",
+    "glob": ["*/channels/*/*.jsonl", "*/channels/*/*.jsonl.gz"],
+    "group_by": "month_from_stem",
+    "cutoff_days": 60,
+    "release_tag": "community-data",
+    "release_title": "Community Archive Data",
+    "release_notes": "（2026-06-21 de-tier）discord 全量 text 永驻 git；本 release 冻结为历史备份/黑池交接物。after_archive=keep 起归档不再驱逐 git。（2026-07-10 方案甲）布局统一 discord/{global,jp,volunteer}/，glob 自此覆盖三区服——此前只备份 Global，日服/志愿者服月档未进过本桶。",
+    "asset_template": "discord-archive-{group}.tar.gz",
+    "after_archive": "keep",
+    "clean_empty_dirs": false
+  },
+  "fanart": {
+    "base_dir": "projects/news/data/fanart",
+    "glob": "20*/*",
+    "group_by": "month_from_parent_dir",
+    "cutoff_days": 60,
+    "release_tag": "community-assets",
+    "release_title": "Community Archive Assets",
+    "release_notes": "社区归档资产滚动 release：每月一个 fanart-archive-YYYY-MM.tar.gz 资产（同人图原图 + 当日 gallery_manifest）。2026-06-21 起 fanart 不入 git：采集工作流（collect-fanart / recover-fanart）取回当月资产合并后经 archive_engine.py --force-group 重传。",
+    "asset_template": "fanart-archive-{group}.tar.gz",
+    "after_archive": "git_rm",
+    "clean_empty_dirs": false
+  }
+}

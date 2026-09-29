@@ -1,0 +1,95 @@
+name: Store Patrol
+
+# ── 2026-09-29 自 BIAV-SC-CODE 迁入（守密人裁定：采集代码与工作流整体搬到本公开仓）──
+# 公开仓 Actions 分钟与存储免费；CODE 仓 2026-09-27 转私有后采集改在本仓跑，CODE 仓不再参与采集。
+# 采集代码在本仓 projects/news/；数据仍按 BIAV_SC_DATA_ROOT 写本仓 Record/（另行克隆一份完整数据根）。
+# 定时只在仓库变量 COLLECTION_ENABLED=true 后生效，手动触发不受限（切换前验证用）。
+# 本仓公开，运行日志任何人可见——勿在步骤里打印凭据。
+
+# 忘却前夜店面日巡检：Steam 店面（价格 / 上线面）+ 评测摘要，抽稳定字段签名，
+# 落日快照 + 变更日志到 Record/store-patrol/，以 [skip ci] 提交。
+# 宿主 = projects/news/scripts/store_patrol.py（纯标准库 Python），目标注册表 =
+# projects/news/scripts/store_patrol_targets.json（新店面 = 新条目，零新代码）。
+# 2026-09-28 守密人裁定：原宿主 maestro SDK 示例 store-patrol.mjs（TaskLedger /
+# LedgerDriver）随 SDK 删除，巡检移植为独立脚本；档案路径与 JSON 形状不变，历史续写。
+# 运行状态改写 state/patrol-state.json；旧 state/ledger.json 冻结留档不再写。
+#
+# Daily slot: Beijing 15:15 (07:15 UTC) — the unified 北京 15 点档 for daily
+# collectors (keeper ruling 2026-07-11), minute-offset against the 07:00 /
+# 07:05 / 07:10 / 07:37 siblings.
+
+on:
+  schedule:
+    - cron: '15 7 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: store-patrol
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  patrol:
+    if: (github.event_name == 'workflow_dispatch' || vars.COLLECTION_ENABLED == 'true')
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          # 回推本仓 main 用 PAT（与数据写入同一凭据）。
+          token: ${{ secrets.BIAV_SC_DATA_TOKEN }}
+          # Sparse: exclude the multi-GB archive layers but RE-INCLUDE the
+          # patrol's own archive subdir (write + commit target). Re-inclusion
+          # verified with `git sparse-checkout check-rules` (2026-07-18).
+          sparse-checkout: |
+            /*
+            !/Record/
+            /Record/store-patrol/
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+      # 纯标准库，无需 pip install。
+      # A partial patrol failure (one storefront down) must not discard the
+      # SUCCESSFUL targets' snapshots + state (audit H5): capture the
+      # exit code, always commit, and only then fail the job.
+      - name: Run store patrol
+        id: patrol
+        continue-on-error: true
+        run: python projects/news/scripts/store_patrol.py --out Record/store-patrol
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Record/store-patrol/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: store patrol snapshot [skip ci]"
+            for i in 1 2 3 4; do
+              if git pull --rebase origin main; then
+                git push origin main && exit 0
+              else
+                git checkout --theirs . 2>/dev/null || true
+                # 冲突解决也只 stage 本作业该提交的那棵子树：裸 `git add -A` 会把
+                # 工作树里任何意外产物（临时文件 / 其他步骤残留）一并推上 main。
+                git add -A Record/store-patrol/
+                git -c core.editor=true rebase --continue \
+                  && git push origin main && exit 0
+                git rebase --abort 2>/dev/null || true
+              fi
+              echo "Push attempt $i failed, retrying in ${i}s..."
+              sleep $i
+            done
+            echo "All push attempts failed"
+            exit 1
+          fi
+      # Deferred failure: the commit step above has already persisted whatever
+      # the patrol did manage to collect; now surface the partial failure.
+      - name: Fail the job if the patrol failed
+        if: steps.patrol.outcome == 'failure'
+        run: |
+          echo "Store patrol exited non-zero (partial failure); snapshots for successful targets were committed above."
+          exit 1

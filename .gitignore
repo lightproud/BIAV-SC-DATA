@@ -1,0 +1,28 @@
+# 凭据与本地配置绝不入库
+.env
+.env.local
+__pycache__/
+*.pyc
+
+# 采集运行期中间产物（同一作业内产生、同一作业内被归档步吃掉），绝不进 git
+projects/news/run/*
+!projects/news/run/.gitkeep
+projects/news/data/collected_raw.json
+projects/news/data/debug_*.html
+
+# 媒体与同人图二进制走 Releases，不进 git
+projects/news/data/media/*.jpg
+projects/news/data/media/*.jpeg
+projects/news/data/media/*.png
+projects/news/data/media/*.gif
+projects/news/data/media/*.webp
+projects/news/data/media/*.avif
+projects/news/data/media/*.mp4
+projects/news/data/media/*.webm
+projects/news/data/media/*.tar.gz
+projects/news/data/media/*.tar
+projects/news/data/media/files/
+projects/news/data/fanart/
+
+# 工作流内嵌套克隆的数据根
+data-repo/
