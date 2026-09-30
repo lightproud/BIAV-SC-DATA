@@ -1,0 +1,11 @@
+# 采集测试配置（2026-09-30 采集代码与测试自 BIAV-SC-CODE 迁入本仓）。
+# 本仓 Python 不是包：模块以裸 basename 互相 import，pytest 经 pythonpath 找到源目录；
+# 直跑 `python tests/test_x.py` 走 tests/_paths.py，两处目录清单须一致。
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = [
+    ".",
+    "projects/news/scripts",
+    "tests",
+]

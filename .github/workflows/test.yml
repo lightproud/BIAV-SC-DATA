@@ -1,0 +1,49 @@
+name: Collector Tests
+
+# 采集代码测试（2026-09-30 随采集测试自 BIAV-SC-CODE 迁入）。本仓公开，Actions 免费，
+# 改采集代码或测试时自动跑；数据提交不触发（路径过滤）。
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'projects/news/scripts/**'
+      - 'projects/news/requirements.txt'
+      - 'tests/**'
+      - 'pyproject.toml'
+      - '.github/workflows/test.yml'
+  pull_request:
+    paths:
+      - 'projects/news/scripts/**'
+      - 'projects/news/requirements.txt'
+      - 'tests/**'
+      - 'pyproject.toml'
+      - '.github/workflows/test.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: collector-tests-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          # 只取代码与测试，不拉近 1GB 档案层
+          sparse-checkout: |
+            projects/news
+            tests
+          sparse-checkout-cone-mode: true
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install -r projects/news/requirements.txt pytest
+      - name: Run tests
+        run: python -m pytest -q
