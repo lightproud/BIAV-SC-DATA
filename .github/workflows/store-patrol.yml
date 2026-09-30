@@ -38,8 +38,6 @@ jobs:
     steps:
       - uses: actions/checkout@v7
         with:
-          # 回推本仓 main 用 PAT（与数据写入同一凭据）。
-          token: ${{ secrets.BIAV_SC_DATA_TOKEN }}
           # Sparse: exclude the multi-GB archive layers but RE-INCLUDE the
           # patrol's own archive subdir (write + commit target). Re-inclusion
           # verified with `git sparse-checkout check-rules` (2026-07-18).
