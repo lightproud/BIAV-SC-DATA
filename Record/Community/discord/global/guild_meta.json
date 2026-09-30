@@ -1,6 +1,6 @@
 {
   "guild_id": "1131791637933199470",
-  "updated_at": "2026-09-29T17:33:55.225554+00:00",
+  "updated_at": "2026-09-30T05:21:52.876292+00:00",
   "channels": [
     {
       "id": "1131791637933199471",
@@ -1289,14 +1289,6 @@
       "parent_id": "1440851754311749733",
       "position": 12,
       "topic": "ModMail Channel 1025091828015452251 1082864390656765963 (Please do not change this)"
-    },
-    {
-      "id": "1554495541789073519",
-      "name": "eden",
-      "type": 0,
-      "parent_id": "1440851754311749733",
-      "position": 142,
-      "topic": "ModMail Channel 1338004706286502032 1459186446484242534 (Please do not change this)"
     }
   ]
 }

@@ -1,40 +1,197 @@
 {
   "date": "2026-09-30",
-  "messages": 828,
-  "unique_authors": 93,
-  "reactions_total": 56,
-  "attachments": 42,
+  "messages": 8538,
+  "unique_authors": 251,
+  "reactions_total": 908,
+  "attachments": 381,
   "channel_activity": {
-    "🔸綜合討論": 273,
-    "🔸morimens-game-chat": 399,
-    "🔸课间休息闲聊": 3,
-    "🔸phòng-chat-tiếng-việt": 19,
-    "🔸canal-español": 6,
-    "🔸ruang-obrolan-indonesia": 8,
-    "🔸ห้องสนทนาภาษาไทย": 10,
-    "🔸traphase": 1,
-    "🔸team-building": 2,
-    "🔸general-chat": 8,
-    "🔸game-question": 87,
-    "🔸机器人命令┊bot-commands": 2,
-    "🐘 Unresolved elephants 🐘": 1,
-    "The Counter archetype has been forgotten?": 1,
-    "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
-    "V2.5.1.0 停服维护公告": 1,
-    "Hello people im new here :>": 3,
-    "need help with overall team building": 1,
-    "Teambuilding help for dtides endgame and is GOgier recommended to pull for my case?": 2
+    "🔸綜合討論": 505,
+    "🔸morimens-game-chat": 4705,
+    "🔸剧情交流": 15,
+    "🔸课间休息闲聊": 20,
+    "🔸deutscher-chatraum": 1,
+    "🔸русский-канал": 1,
+    "🔸phòng-chat-tiếng-việt": 117,
+    "🔸canal-español": 23,
+    "🔸canal-português": 14,
+    "🔸ruang-obrolan-indonesia": 32,
+    "🔸ห้องสนทนาภาษาไทย": 21,
+    "🔸traphase": 15,
+    "🔸lore-chat": 32,
+    "🔸team-building": 249,
+    "🔸general-chat": 1314,
+    "🔸邀请码互助┊swap-invitation-codes": 6,
+    "🔸game-question": 1244,
+    "🔸机器人命令┊bot-commands": 27,
+    "WoD QoL": 2,
+    "\"Card Seal\" also seals Rouse": 1,
+    "Been stuck on \"entering game\" screen for 3 days now": 1,
+    "🐘 Unresolved elephants 🐘": 3,
+    "Buff for older and standard units?": 1,
+    "A button for clearing all the configured Awakeners, WoDs, Covenants and Posse of a team slot": 1,
+    "Why doesn't this wave 4 dtide rotation have icefield?": 1,
+    "Dtide is out of control.": 3,
+    "The Counter archetype has been forgotten?": 25,
+    "Rework GOgier and Address the Treatment of Male Characters": 3,
+    "Alternate realms Enhancement": 14,
+    "Pls give out origin of time for limited awakener & wheels": 2,
+    "NOT ANSWERED: Jenkins": 98,
+    "Please rework how Propagation Caro works for the future units": 2,
+    "💭「Processing」My team got its Covenants some Wheels unequipped or changed, and my Posse was changed.": 1,
+    "V2.5.1.0 停服维护公告": 8,
+    "📢 「官方素材」频道使用说明丨Official Assets Channel - Guide": 1,
+    "An Apology and Further Adjustments to the D-Effect Zone": 3,
+    "Hello people im new here :>": 7,
+    "Sticklet's doodle/art dump": 1,
+    "moss’s art dump": 3,
+    "Dtide 450 Meta Report October Aequor Ring 2026": 5,
+    "need help with overall team building": 5,
+    "Teambuilding help for dtides endgame and is GOgier recommended to pull for my case?": 4,
+    "Give me suggestions on team build": 1,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 1
   },
   "hourly_activity": {
-    "0": 555,
-    "1": 273
+    "1": 681,
+    "2": 437,
+    "3": 327,
+    "5": 440,
+    "7": 355,
+    "8": 572,
+    "9": 905,
+    "10": 846,
+    "11": 970,
+    "12": 1102,
+    "13": 163,
+    "4": 737,
+    "6": 448,
+    "0": 555
   },
   "message_types": {
-    "0": 587,
-    "19": 238,
-    "20": 3
+    "0": 5573,
+    "19": 2948,
+    "20": 17
   },
   "top_reacted_messages": [
+    {
+      "id": "1554690666276065342",
+      "channel_id": "1131839817982947429",
+      "content": "Aaa抓到",
+      "author": "ahuahuahua",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554607748770168994",
+      "channel_id": "1131839817982947429",
+      "content": "突然想到啊不是克系嗎 阿怎麼只有克蘇魯 猶格索托斯 阿撒托斯 奈亞拉托提普 伊德海拉 哈斯塔 怎麼沒有蹤影",
+      "author": "bc.sheng525",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554554573392183296",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "guava3442",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554616182630518804",
+      "channel_id": "1170692781216378960",
+      "content": "Casshia",
+      "author": "jmjmjm6667",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554659623653609523",
+      "channel_id": "1170692781216378960",
+      "content": "okay whatever gacha games are a lost cause",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554653393434443849",
+      "channel_id": "1131839817982947429",
+      "content": "Aaa果然是0",
+      "author": "ahuahuahua",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554549385516556301",
+      "channel_id": "1552966288681205772",
+      "content": "I hope they buff every counter unit except caecus",
+      "author": "spooky_penguin_",
+      "reactions": 6,
+      "channel": "The Counter archetype has been forgotten?"
+    },
+    {
+      "id": "1554571647074435184",
+      "channel_id": "1536111788439900170",
+      "content": "wip update",
+      "author": "mosske",
+      "reactions": 6,
+      "channel": "moss’s art dump"
+    },
+    {
+      "id": "1554716363019391097",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "angbak",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554554809703473323",
+      "channel_id": "1170692781216378960",
+      "content": "i have a friend that is a nurse and she wrote a story about a serial killer that",
+      "author": "direhands",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554614486630010912",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "monchi3524",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554629361078902795",
+      "channel_id": "1170692781216378960",
+      "content": "nymph better though",
+      "author": "direhands",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554651570799640657",
+      "channel_id": "1170692781216378960",
+      "content": "pchaos 24 looking at you",
+      "author": "bunnycide420",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554708845010493465",
+      "channel_id": "1170692781216378960",
+      "content": "Bro clearly just wants to hug his grandpa",
+      "author": "crowlov1",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554721125685268582",
+      "channel_id": "1170692781216378960",
+      "content": "I ma push for 515 just for fun,  Gdoll and Mouchette still available",
+      "author": "ice3564",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1554531119830016120",
       "channel_id": "1554531119830016120",
@@ -44,156 +201,36 @@
       "channel": "Hello people im new here :>"
     },
     {
-      "id": "1554523668875321407",
-      "channel_id": "1131839817982947429",
-      "content": "這鑰匙有人搞出來了嗎",
-      "author": "soft_whisper",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1554540975567798413",
-      "channel_id": "1131839817982947429",
-      "content": "當初原話好像是兩個新難度各漲3倍",
-      "author": "heikwok",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1554542360157888624",
-      "channel_id": "1131839817982947429",
-      "content": "我被推到群友的ig",
-      "author": "nemu_s_t_a_r",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1554543246078771292",
-      "channel_id": "1131839817982947429",
-      "content": "你說的對\n這就是我們的大膨脹遊戲",
-      "author": "nemu_s_t_a_r",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1554525506743836703",
+      "id": "1554552282668863519",
       "channel_id": "1170692781216378960",
-      "content": "i'm in real estate\nno, wait, that's i'm in a real state",
-      "author": "violettaautumn",
-      "reactions": 2,
+      "content": "This is why we don't have data miners because there's nothing to datamine",
+      "author": "thereaperinthedresss",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1554526169104257074",
+      "id": "1554652319197700147",
       "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "arem0972",
-      "reactions": 2,
+      "content": "you are all just fake and lame... pchaos 24 my beloved...........",
+      "author": "bunnycide420",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1554526180001185842",
+      "id": "1554658016668946475",
       "channel_id": "1170692781216378960",
-      "content": "Im so sorry <@1489884219067858954>",
-      "author": "dracozion",
-      "reactions": 2,
+      "content": "Playing Vortice without her Posse? Easily done.",
+      "author": "anicillia",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1554527189058199573",
+      "id": "1554660616969650269",
       "channel_id": "1170692781216378960",
-      "content": "playing clips of old draco dtide as if its my dead wife",
-      "author": "princess.goth",
-      "reactions": 2,
+      "content": "I thought heal was more important so I levelled doll initially",
+      "author": "angbak",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554528425723822191",
-      "channel_id": "1170692781216378960",
-      "content": "okay (this was from karen exalt)",
-      "author": "reya.li",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554531554381004953",
-      "channel_id": "1170692781216378960",
-      "content": "I think I can probably like 495ish",
-      "author": "dracozion",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554536655971549335",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "gersona6",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554539609227001937",
-      "channel_id": "1170692781216378960",
-      "content": "i would rather kill myself than mob with murphy",
-      "author": "sisuluasex",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554523239718461600",
-      "channel_id": "1131839817982947429",
-      "content": "還有兩把鑰匙不知道要幹嘛（）",
-      "author": "luna_.90",
-      "reactions": 1,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1554523562725871677",
-      "channel_id": "1131839817982947429",
-      "content": "我是迷途糕手",
-      "author": "luna_.90",
-      "reactions": 1,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1554533560604434604",
-      "channel_id": "1131839817982947429",
-      "content": "去年啊啊啊把我推特拔出来发隔壁被一堆人看我都只是害羞了三天",
-      "author": "carme.0588",
-      "reactions": 1,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1554534065867333683",
-      "channel_id": "1131839817982947429",
-      "content": "有种2006年那会网上说吵架吵的是气势然后开键盘自动输入发了几百条",
-      "author": "carme.0588",
-      "reactions": 1,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1554534545552973917",
-      "channel_id": "1131839817982947429",
-      "content": "能让我害羞三天不想说话",
-      "author": "carme.0588",
-      "reactions": 1,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1554535319016046603",
-      "channel_id": "1131839817982947429",
-      "content": "不过都是说哈基米",
-      "author": "carme.0588",
-      "reactions": 1,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1554536845730119721",
-      "channel_id": "1131839817982947429",
-      "content": "舊難5是難4",
-      "author": "heikwok",
-      "reactions": 1,
-      "channel": "🔸綜合討論"
     }
   ]
 }
