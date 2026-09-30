@@ -1,6 +1,6 @@
 """global_collectors coverage for branches the existing test leaves: _get_cf
 (cloudscraper success + ImportError fallback), fetch_google_play success path,
-fetch_taptap success path, and assorted fetcher exception / fallback branches.
+and assorted fetcher exception / fallback branches.
 
 Hermetic — network helpers (_get / _get_cf / requests) and optional libs are
 mocked; CUTOFF pinned to the past so recency filters pass.
@@ -79,26 +79,6 @@ class TestFetchYoutubeError(unittest.TestCase):
             self.assertEqual(gc.fetch_youtube(), [])
 
 
-# ── fetch_taptap success path ────────────────────────────────────────────────
-
-class TestFetchTaptapSuccess(unittest.TestCase):
-    def test_collects_via_taptap_collector(self):
-        fake_tc = mock.MagicMock()
-        # gc.fetch_taptap calls asyncio.run(_tc.collect(...)); stub asyncio.run
-        # to return the (topics, reviews) tuple deterministically.
-        with mock.patch.dict(sys.modules, {"taptap_collector": fake_tc}), \
-                mock.patch.object(gc.asyncio, "run",
-                                  return_value=([{"title": "post"}], [{"title": "review"}])):
-            items = gc.fetch_taptap()
-        self.assertEqual(len(items), 2)
-
-    def test_collect_exception_returns_empty(self):
-        fake_tc = mock.MagicMock()
-        with mock.patch.dict(sys.modules, {"taptap_collector": fake_tc}), \
-                mock.patch.object(gc.asyncio, "run", side_effect=RuntimeError("boom")):
-            self.assertEqual(gc.fetch_taptap(), [])
-
-
 # ── fetch_google_play success path ───────────────────────────────────────────
 
 class TestFetchGooglePlaySuccess(unittest.TestCase):
@@ -154,22 +134,6 @@ class TestFetchBahamutError(unittest.TestCase):
                 mock.patch.object(gc, "_get", side_effect=RuntimeError("down")):
             out = gc.fetch_bahamut()
         self.assertIsInstance(out, list)
-
-
-# ── fetch_arca_live exception branch ─────────────────────────────────────────
-
-class TestFetchArcaError(unittest.TestCase):
-    def setUp(self):
-        self._p = mock.patch.object(gc, "CUTOFF", PAST_CUTOFF)
-        self._p.start()
-
-    def tearDown(self):
-        self._p.stop()
-
-    def test_get_raises_tolerated(self):
-        with mock.patch.dict(gc.os.environ, {}, clear=True), \
-                mock.patch.object(gc, "_get", side_effect=RuntimeError("blocked")):
-            self.assertEqual(gc.fetch_arca_live(), [])
 
 
 # ── fetch_ruliweb playwright-time parse branch ───────────────────────────────

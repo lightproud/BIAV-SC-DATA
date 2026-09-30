@@ -227,36 +227,6 @@ def test_backfill_appstore_skips_non_dict_rating(paths, monkeypatch):
     assert n == 0
 
 
-# ── backfill_arca_live ──────────────────────────────────────────────────────
-
-ARCA_HTML = (
-    '<div data-url="/b/forgettingeve/123">'
-    '<a class="title">Hello Morimens</a>'
-    '<span class="col-time">2026-04-13</span></div>'
-)
-
-
-def test_backfill_arca_done_short_circuits(paths):
-    state = {"arca_live": {"page": 1, "done": True, "total": 0}}
-    assert bp.backfill_arca_live(state, 5) == 0
-
-
-def test_backfill_arca_collects_then_done_on_empty(paths, monkeypatch):
-    page1 = _resp({}, text=ARCA_HTML)
-    page2 = _resp({}, text="<html>no matches</html>")
-    monkeypatch.setattr(gc, "_get", mock.Mock(side_effect=[page1, page2]))
-    state = {}
-    n = bp.backfill_arca_live(state, 5)
-    assert n == 1
-    assert state["arca_live"]["done"] is True
-
-
-def test_backfill_arca_exception_breaks(paths, monkeypatch):
-    monkeypatch.setattr(gc, "_get", mock.Mock(side_effect=RuntimeError("net")))
-    state = {}
-    assert bp.backfill_arca_live(state, 5) == 0
-
-
 # ── backfill_steam_reviews ──────────────────────────────────────────────────
 
 def test_backfill_steam_done_short_circuits(paths):
@@ -391,35 +361,6 @@ def test_backfill_weixin_exception_breaks(paths, monkeypatch):
     monkeypatch.setattr(gc, "_get", mock.Mock(side_effect=RuntimeError("x")))
     state = {}
     assert bp.backfill_weixin(state, 5) == 0
-
-
-# ── backfill_taptap ─────────────────────────────────────────────────────────
-
-def test_backfill_taptap_browser_failure_returns_zero(paths, monkeypatch):
-    # asyncio.run raising simulates missing browser env
-    import asyncio
-    # taptap_collector 必须一并替身：不替身则 `taptap_collector.collect(...)` 会真造出一个
-    # 协程对象，而 asyncio.run 被替身成抛异常 => 协程永不被 await，Python 在**任意后续
-    # 时点**抛 "coroutine 'collect' was never awaited" RuntimeWarning。该告警会随 GC
-    # 时机挂到别的用例名下（本仓实测每轮换一个受害者），是不可复现失败的经典来源；
-    # -W error::RuntimeWarning 下更会直接把无关用例判红。
-    monkeypatch.setitem(sys.modules, "taptap_collector", mock.MagicMock())
-    monkeypatch.setattr(asyncio, "run", mock.Mock(side_effect=RuntimeError("no chromium")))
-    state = {}
-    assert bp.backfill_taptap(state, 5) == 0
-
-
-def test_backfill_taptap_collects(paths, monkeypatch):
-    import asyncio
-    topics = [{"url": "t1", "time": "2026-04-13T20:00:00+00:00"}]
-    reviews = [{"url": "r1", "time": "2026-04-13T20:00:00+00:00"}]
-    fake_mod = mock.MagicMock()
-    monkeypatch.setitem(sys.modules, "taptap_collector", fake_mod)
-    monkeypatch.setattr(asyncio, "run", mock.Mock(return_value=(topics, reviews)))
-    state = {}
-    n = bp.backfill_taptap(state, 5)
-    assert n == 2
-    assert state["taptap"]["total"] == 2
 
 
 # ── show_status ─────────────────────────────────────────────────────────────

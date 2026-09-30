@@ -128,35 +128,6 @@ class TestWeiboExceptionBranches(unittest.TestCase):
             self.assertEqual(pc.fetch_weibo_playwright(), [])
 
 
-class TestTaptapExceptionBranches(unittest.TestCase):
-    SEL = '.app-card, .search-item, [class*="app"]'
-
-    def test_card_parse_exception_continues(self):
-        # _parse_taptap_card 抛异常 → per-card except continue (267-268)
-        page = ConfigurablePage({self.SEL: [RaisingEl()]})
-        with _install(page):
-            items = pc.fetch_taptap_playwright()
-        self.assertEqual(items, [])
-
-    def test_top_level_exception_warns(self):
-        # query_selector_all 抛异常 → 顶层 except warning (271-272)
-        page = ConfigurablePage(raise_on={"query_selector_all"})
-        with _install(page):
-            self.assertEqual(pc.fetch_taptap_playwright(), [])
-
-
-class TestArcaExceptionBranches(unittest.TestCase):
-    def test_per_mode_exception_warns(self):
-        # wait_for_selector 抛异常 → per-mode except warning (314-315)，两 mode 均失败
-        page = ConfigurablePage(raise_on={"wait_for_selector"})
-        with _install(page):
-            self.assertEqual(pc.fetch_arca_live_playwright(), [])
-
-    def test_top_level_exception_warns(self):
-        with _install_raising_sync():
-            self.assertEqual(pc.fetch_arca_live_playwright(), [])
-
-
 class TestRuliwebExceptionBranches(unittest.TestCase):
     def test_per_keyword_exception_warns(self):
         # goto 抛异常 → per-keyword except warning (354-355)
@@ -185,8 +156,6 @@ class TestMain(unittest.TestCase):
     def test_main_runs_all_collectors(self):
         # main() 调用全部 fetch_*，打桩返回固定结果并走打印分支 (409-427)
         with mock.patch.object(pc, "fetch_weibo_playwright", return_value=[{"title": "weibo item example"}]), \
-                mock.patch.object(pc, "fetch_taptap_playwright", return_value=[]), \
-                mock.patch.object(pc, "fetch_arca_live_playwright", return_value=[]), \
                 mock.patch.object(pc, "fetch_ruliweb_playwright", return_value=[]), \
                 mock.patch.object(pc, "fetch_bahamut_playwright", return_value=[]), \
                 mock.patch("builtins.print"):

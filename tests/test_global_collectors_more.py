@@ -308,25 +308,6 @@ class TestFetchWeiboExtra(unittest.TestCase):
         self.assertEqual(calls["n"], 4)
 
 
-# ─── arca extra branches ───────────────────────────────────
-
-class TestFetchArcaExtra(unittest.TestCase):
-    def test_row_without_title_skipped(self):
-        # 行有 href 段但 title 段缺失 → 跳过（line 640）
-        html = '<a class="vrow column" href="/b/forgettingeve/1?p=1">no title span info missing'
-        with mock.patch.dict(gc.os.environ, {}, clear=True), \
-                mock.patch.object(gc, "_get", return_value=FakeResp(text=html)):
-            self.assertEqual(gc.fetch_arca_live(), [])
-
-    def test_empty_title_skipped(self):
-        # title 段存在但 strip 后为空 → 跳过（line 643）
-        html = ('<a class="vrow column" href="/b/forgettingeve/2?p=1">'
-                '<span class="title">   </span> <span class="info"></span>')
-        with mock.patch.dict(gc.os.environ, {}, clear=True), \
-                mock.patch.object(gc, "_get", return_value=FakeResp(text=html)):
-            self.assertEqual(gc.fetch_arca_live(), [])
-
-
 # ─── discord extra branches ────────────────────────────────
 
 class TestFetchDiscordExtra(unittest.TestCase):

@@ -20,7 +20,6 @@ collect_global.py 各自维护一份源清单，长期漂移，导致「采了�
 KNOWN_SOURCES = [
     'bilibili',
     'steam',
-    'taptap',
     'discord',
     'youtube',
     'reddit',
@@ -40,8 +39,6 @@ KNOWN_SOURCES = [
     'stopgame',
     # 中文补充
     'weixin',
-    # TapTap 评论流（taptap_collector 衍生 source，与 taptap 论坛帖分桶归档；走主线 news.json）
-    'taptap_review',
 ]
 # twitter 已摘除（守密人 2026-07-30 裁定，归档完整性审计待裁项④）：挂名 1,126 天审计窗口
 # 零产出、归档目录从未存在（syndication 接口 API 墙）。采集器 fetch_twitter 保留在
@@ -51,21 +48,21 @@ KNOWN_SOURCES = [
 # 机房 IP（HTTP 403 / PW 挑战页超时 / App API 403）。2026-07-10 方案 2 本要改由每日
 # 云端例程绕行，但那条 Routine 从未建立——数据停在 2026-07-11，归档共 10 个文件。
 # 韩区实际声量主要在 YouTube 创作者侧而非 arca，为它单挂一条云端例程投入产出不成立。
-# 采集器 fetch_arca_live / fetch_arca_live_playwright 与 collect_arca_daily.py 单脚本
-# 均保留（CF 某日放行 Actions 即可原样复用），但都不再入编排；未来要恢复须重新登记
-# 回 KNOWN_SOURCES 并接回 collect_global。
+#
+# arca_live / taptap 采集器整体删除（守密人 2026-09-30 裁定删除两个断档源）：
+#   - arca_live 自 2026-07-11 无数据（原靠已不存在的 Claude Code 例程日采）——
+#     fetch_arca_live / fetch_arca_live_playwright / backfill_arca_live / collect_arca_daily.py 均删；
+#   - taptap 族（taptap / taptap_review / taptap_post）自 2026-08-25 无成功——
+#     taptap_collector.py / fetch_taptap / fetch_taptap_playwright / backfill_taptap 均删。
+# 历史归档 Record/Community/arca_live/、taptap/ 保留不动；archive_layout 的 taptap
+# 读侧布局映射（taptap_review 折叠认领 review/ 子目录）保留，读方照常可读历史档。
+# 两源归档目录在静默源审计里归入「遗留源（有归档但未注册采集）」只读展示，不再告警。
 
 # 原始源名 → 规范源名
 SOURCE_ALIASES = {
     'bilibili_articles': 'bilibili',
     'bilibili_dynamic': 'bilibili',
     'steam_review': 'steam',
-    # taptap_collector 的 topic 帖子仍以 'taptap_post' 出稿，而 ARCH-01 收敛后
-    # 这条能力被 AC fetch_taptap 吸收、直接汇入主线 news.json。清单里却只登记了
-    # taptap_review —— 于是每一条 TapTap 帖子都在 validate_news_item 被判
-    # "unknown source" 整批丢弃（与 2026-07-02 taptap_review 单轮丢 108 条同型）。
-    # 归一到 taptap（论坛帖桶），校验放行、split/archive 照旧落 taptap/。
-    'taptap_post': 'taptap',
 }
 
 # 稀疏源（split_output + collect_global 历史两份清单的并集）
@@ -75,21 +72,20 @@ SPARSE_SOURCES = {
     'weixin',
     'pixiv',
     'stopgame',
-    'note_com', 'ruliweb', 'bahamut',   # arca_live 已摘除（2026-08-16）
-    'taptap', 'taptap_review',
+    'note_com', 'ruliweb', 'bahamut',   # arca_live / taptap 族已删（2026-09-30）
     'discord',
 }
 
 # 主管线核心源（aggregator.py 直采）。长期 0 产出 = 采集故障，健康门控据此告警。
 CORE_SOURCES = [
-    'reddit', 'bilibili', 'taptap',
+    'reddit', 'bilibili',
     'steam', 'official', 'youtube', 'discord',
 ]
 
 # §4.2 R1 硬失败源：本次运行中崩溃且未被 fallback 救回即令整次失败（aggregator.py 据此）。
-# 严格子集，区别于 CORE_SOURCES（长期健康门控）：这三个是「单次跑必须有的命脉源」，
-# 不含 youtube/discord 等可因 AUTH_GATED 缺 cookie 而预期降级的源。
-R1_HARD_FAIL_SOURCES = {'reddit', 'bilibili', 'taptap'}
+# 严格子集，区别于 CORE_SOURCES（长期健康门控）：这两个是「单次跑必须有的命脉源」，
+# 不含 youtube/discord 等可因 AUTH_GATED 缺 cookie 而预期降级的源（taptap 2026-09-30 随源删除移出）。
+R1_HARD_FAIL_SOURCES = {'reddit', 'bilibili'}
 
 # 需登录态 cookie / API key 才能采集的源 → 所需环境变量名（单一真相源）。
 # 未配置对应 secret 时：该源 0 产出属预期降级（标注「待配」，不计采集故障）；
@@ -103,11 +99,10 @@ AUTH_GATED = {
 ARCHIVE_PLATFORMS = [s for s in KNOWN_SOURCES if s != 'discord']
 
 # backfill_platforms.py 的 PLATFORM_BACKFILLERS 实际支持的源（务必与之同步）
-# arca_live 已摘除（2026-08-16）：回填器实现保留在 backfill_platforms，但不再登记，
-# 否则 backfill-news 的手动回填仍会去撞 Cloudflare、每次必然空手而归。
+# arca_live / taptap 回填器已随源删除（2026-09-30）。
 BACKFILL_PLATFORMS = [
     'bilibili', 'appstore', 'steam_review',
-    'pixiv', 'ruliweb', 'weixin', 'taptap',
+    'pixiv', 'ruliweb', 'weixin',
 ]
 
 # 独立归档源：由专用采集器直写 Public-Info-Pool/Record/Community/，不经主线 news.json
@@ -137,9 +132,6 @@ REGION_APPS = {
     # jp 已解析为 channelId（频道「忘却前夜【日本版公式】」，2026-06-22 网络检索 + 频道页标题核验）。
     'youtube':     {'global': '@morimensofficial',        'jp': 'UCF6iFnr28T4KjmVvPakmU3g'},
 }
-
-# TapTap 国服双 appid → 合并归档至 taptap/cn/，条目内 app_id 字段区分预约 vs 测试服。
-TAPTAP_CN_APPS = {'reserve': '364992', 'cbt': '374995'}
 
 # Discord 三服务器 → 区服（global/jp/volunteer）。归档至 discord/<区服>/<channel_id>/。
 DISCORD_GUILDS = {

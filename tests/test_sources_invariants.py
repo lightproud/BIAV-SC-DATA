@@ -134,9 +134,5 @@ class TestRegionRegistries(unittest.TestCase):
     def test_discord_guilds_have_three_regions(self):
         self.assertEqual(set(sources.DISCORD_GUILDS), {'global', 'jp', 'volunteer'})
 
-    def test_taptap_cn_apps_present(self):
-        self.assertEqual(set(sources.TAPTAP_CN_APPS), {'reserve', 'cbt'})
-
-
 if __name__ == '__main__':
     unittest.main()

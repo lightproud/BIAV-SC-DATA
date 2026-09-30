@@ -47,7 +47,6 @@ jobs:
           - bilibili
           - appstore
           - steam_review
-          - arca_live
           - pixiv
           - ruliweb
           - weixin
@@ -105,10 +104,6 @@ jobs:
       - name: Install dependencies
         if: steps.check.outputs.skip != 'true'
         run: pip install -r projects/news/requirements.txt
-
-      - name: Install Playwright browsers
-        if: steps.check.outputs.skip != 'true'
-        run: playwright install chromium || true
 
       - name: Pull latest backfill state (code repo)
         if: steps.check.outputs.skip != 'true'

@@ -25,14 +25,6 @@
       "tier": "T1",
       "why": "Playwright 采集器，供 T1 采集使用"
     },
-    "taptap_collector": {
-      "tier": "T1",
-      "why": "TapTap 无头浏览器采集器"
-    },
-    "collect_arca_daily": {
-      "tier": "T1",
-      "why": "arca 单源采集（守密人 2026-07-10 方案 2：CF 拦 Actions IP 的绕行）"
-    },
     "collection_state": {
       "tier": "T1",
       "why": "自适应回看时窗——只服务采集轮次"

@@ -384,36 +384,6 @@ class TestFetchWeibo(unittest.TestCase):
         self.assertEqual(it["url"], "https://m.weibo.cn/detail/123")
 
 
-class TestFetchArcaLive(unittest.TestCase):
-    HTML = (
-        '<a class="vrow column" href="/b/forgettingeve/111?p=1">'
-        '<span class="title">망각전야 패치</span> <span class="info">'
-        '<time datetime="2026-06-19T00:00:00+00:00"></time>'
-        '<span class="vcol col-view"> 1,234</span>'
-        '<span class="vcol col-rate"> 15</span>'
-        '<span class="comment-count"> [7]</span>'
-        '<span data-filter="author1"></span>'
-    )
-
-    def test_parses_rows(self):
-        with mock.patch.dict(gc.os.environ, {}, clear=True), \
-                mock.patch.object(gc, "_get", return_value=FakeResp(text=self.HTML)):
-            items = gc.fetch_arca_live()
-        # best + latest 两个 mode，但 URL 去重 → 同一条只进 1 次
-        self.assertEqual(len(items), 1)
-        it = items[0]
-        self.assertEqual(it["source"], "arca_live")
-        self.assertEqual(it["url"], "https://arca.live/b/forgettingeve/111")
-        # views 1234 + rate 15*5 + comments 7*2 = 1323
-        self.assertEqual(it["engagement"], 1234 + 75 + 14)
-        self.assertEqual(it["author"], "author1")
-
-    def test_empty_html(self):
-        with mock.patch.dict(gc.os.environ, {}, clear=True), \
-                mock.patch.object(gc, "_get", return_value=FakeResp(text="<html></html>")):
-            self.assertEqual(gc.fetch_arca_live(), [])
-
-
 class TestFetchDiscord(unittest.TestCase):
     def test_no_token_returns_empty(self):
         with mock.patch.dict(gc.os.environ, {}, clear=True):
@@ -638,13 +608,6 @@ class TestFetchStopgame(unittest.TestCase):
     def test_failure_returns_empty(self):
         with mock.patch.object(gc, "_get", side_effect=RuntimeError("down")):
             self.assertEqual(gc.fetch_stopgame(), [])
-
-
-class TestFetchTaptap(unittest.TestCase):
-    def test_import_error_returns_empty(self):
-        # taptap_collector 不存在 → 两次 ImportError → 返回空
-        with mock.patch.dict(sys.modules, {"taptap_collector": None}):
-            self.assertEqual(gc.fetch_taptap(), [])
 
 
 class TestFetchGooglePlay(unittest.TestCase):
