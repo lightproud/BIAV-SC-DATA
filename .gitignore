@@ -26,3 +26,6 @@ projects/news/data/fanart/
 
 # 工作流内嵌套克隆的数据根
 data-repo/
+
+# 测试缓存
+.pytest_cache/

@@ -118,8 +118,8 @@
       "why": "归档布局单一真相源（P0-1）：16 个层内消费者 + 顶层脚本经 news_bridge 取用"
     },
     "discord_compact": {
-      "tier": "shared",
-      "why": "紧凑 JSONL schema 单一权威定义——归档器写盘与顶层 compact_discord_archive.py 重写器共用"
+      "tier": "T2",
+      "why": "紧凑 JSONL schema 单一权威定义，归档器写盘专用（2026-09-30 一次性存量重写器 compact_discord_archive.py 随采集迁仓删除，唯一消费者只剩 discord_archiver，自 shared 改归 T2）"
     },
     "news_common": {
       "tier": "shared",
