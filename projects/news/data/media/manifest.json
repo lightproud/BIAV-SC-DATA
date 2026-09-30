@@ -279,6 +279,83 @@
       "title": "忘却前夜実況動画　Part5　超越存在でボスステージを振り返ろう！第2章編",
       "time": "2026-09-30T07:55:04Z",
       "downloaded_at": "2026-09-30T09:15:00.549837+00:00"
+    },
+    "https://i.ytimg.com/vi/OwVcCnokCnI/hqdefault.jpg": {
+      "filename": "youtube_f8859852c87ab19b.jpg",
+      "source": "youtube",
+      "title": "Directo relax Morimens",
+      "time": "2026-09-29T23:10:31Z",
+      "downloaded_at": "2026-09-30T17:14:02.672210+00:00"
+    },
+    "https://i.ytimg.com/vi/JXq6aYYIzUs/hqdefault.jpg": {
+      "filename": "youtube_f4d0a0a43b25d7b9.jpg",
+      "source": "youtube",
+      "title": "【忘却前夜】ラジオドラマ「航海譫妄」",
+      "time": "2026-09-30T10:00:16Z",
+      "downloaded_at": "2026-09-30T17:14:03.339520+00:00"
+    },
+    "https://i.ytimg.com/vi/3ZOMKZgWIsM/hqdefault.jpg": {
+      "filename": "youtube_750f5594a90ad368.jpg",
+      "source": "youtube",
+      "title": "#02 Morimens | The Suffering Continues",
+      "time": "2026-09-30T09:31:12Z",
+      "downloaded_at": "2026-09-30T17:14:03.999317+00:00"
+    },
+    "https://i.ytimg.com/vi/cr7you1QdcA/hqdefault.jpg": {
+      "filename": "youtube_c294a2c746c755e6.jpg",
+      "source": "youtube",
+      "title": "🔞 Drink my blood PLEASE :3 - Morimens",
+      "time": "2026-09-30T09:54:49Z",
+      "downloaded_at": "2026-09-30T17:14:04.402439+00:00"
+    },
+    "https://i.ytimg.com/vi/l7OJWXEyESk/hqdefault_live.jpg": {
+      "filename": "youtube_eebf5af94fbb182a.jpg",
+      "source": "youtube",
+      "title": "イベントやっていきます！【#忘却前夜】",
+      "time": "2026-09-30T12:31:32Z",
+      "downloaded_at": "2026-09-30T17:14:04.799571+00:00"
+    },
+    "https://i.ytimg.com/vi/DaMk3ziquUM/hqdefault.jpg": {
+      "filename": "youtube_cc1765a148a57857.jpg",
+      "source": "youtube",
+      "title": "[Speedpaint] : N - Morimens (Fanart)",
+      "time": "2026-09-30T14:43:00Z",
+      "downloaded_at": "2026-09-30T17:14:05.170480+00:00"
+    },
+    "https://i.ytimg.com/vi/TwqYc9NcyAs/hqdefault.jpg": {
+      "filename": "youtube_f7eab8627469f7de.jpg",
+      "source": "youtube",
+      "title": "#忘卻前夜 #morimens Regional D-Effect Zone 5:Threat Level S,融災5-S的Boss戰部分!",
+      "time": "2026-09-30T10:00:34Z",
+      "downloaded_at": "2026-09-30T17:14:05.539805+00:00"
+    },
+    "https://i.ytimg.com/vi/8WZPB0QB0Jw/hqdefault_live.jpg": {
+      "filename": "youtube_55ee76bec96fc0f5.jpg",
+      "source": "youtube",
+      "title": "🔞 More yapping on act 2 :3 - Morimens",
+      "time": "2026-09-30T17:01:18Z",
+      "downloaded_at": "2026-09-30T17:14:05.995203+00:00"
+    },
+    "https://i.ytimg.com/vi/XHxJ6eZ6i8k/hqdefault.jpg": {
+      "filename": "youtube_fc07c55ccbfcb8b0.jpg",
+      "source": "youtube",
+      "title": "Morimens",
+      "time": "2026-09-30T09:16:46Z",
+      "downloaded_at": "2026-09-30T17:14:06.387432+00:00"
+    },
+    "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/09/30/23/44/57/150301365_p0_square1200.jpg": {
+      "filename": "pixiv_5be995b51a21ccdc.jpg",
+      "source": "pixiv",
+      "title": "ムシェットさん　ファンアート",
+      "time": "2026-09-30T23:44:57+09:00",
+      "downloaded_at": "2026-09-30T17:14:07.123831+00:00"
+    },
+    "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/09/30/20/13/49/150291275_p0_square1200.jpg": {
+      "filename": "pixiv_64a1f613f7cda529.jpg",
+      "source": "pixiv",
+      "title": "忘却前夜まとめ",
+      "time": "2026-09-30T20:13:49+09:00",
+      "downloaded_at": "2026-09-30T17:14:07.864827+00:00"
     }
   },
   "failed": {
@@ -321,6 +398,21 @@
       "source": "bilibili",
       "reason": "download_failed",
       "attempted_at": "2026-09-30T02:57:39.382854+00:00"
+    },
+    "//i2.hdslb.com/bfs/archive/df6789f4db3ceda0f58a6b01dccdb4bd36bdbeef.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-09-30T17:14:02.242460+00:00"
+    },
+    "//i1.hdslb.com/bfs/archive/5a5aa885aa742558081a3d95c08811c06f8ee552.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-09-30T17:14:02.972683+00:00"
+    },
+    "//i0.hdslb.com/bfs/archive/8c93498f2b2624ed3ff3422ea03ab6e54a5e8507.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-09-30T17:14:03.640138+00:00"
     }
   },
   "archived": []
