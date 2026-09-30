@@ -1,45 +1,52 @@
 {
   "date": "2026-09-30",
-  "messages": 13609,
+  "messages": 16102,
   "unique_authors": 251,
-  "reactions_total": 1395,
-  "attachments": 669,
+  "reactions_total": 1712,
+  "attachments": 824,
   "channel_activity": {
-    "🔸綜合討論": 882,
-    "🔸morimens-game-chat": 7570,
+    "🔸綜合討論": 1062,
+    "🔸阵容构建": 12,
+    "🔸morimens-game-chat": 8537,
+    "🔸晒卡分享": 3,
+    "🔸欢乐梗图": 2,
+    "🔸课间休息闲聊": 454,
+    "🔸русский-канал": 9,
+    "🔸phòng-chat-tiếng-việt": 1141,
+    "🔸canal-español": 28,
+    "🔸canal-português": 57,
+    "🔸ruang-obrolan-indonesia": 206,
+    "🔸ห้องสนทนาภาษาไทย": 174,
+    "🔸traphase": 152,
+    "🔸lore-chat": 69,
+    "🔸team-building": 323,
+    "🔸general-chat": 1729,
+    "🔸邀请码互助┊swap-invitation-codes": 7,
+    "🔸game-question": 1498,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 41,
+    "人在做怪事的時候總是特別有動力": 13,
+    "菜雞四小強玩家的抱怨之旅new": 1,
+    "Would be great to have replay filter sort by number of turn clear.": 5,
+    "Dtide is out of control.": 107,
+    "The Counter archetype has been forgotten?": 116,
+    "Alternate realms Enhancement": 17,
+    "V2.5.1.0 停服维护公告": 20,
+    "Pollux Morimens in Minimuse 🫶🫶🫶": 2,
+    "Where are you staying?": 3,
+    "I am wondering what realm I should pull for the before memories fade banner": 1,
+    "1554866481961898105": 1,
     "🔸剧情交流": 91,
-    "🔸晒卡分享": 1,
-    "🔸欢乐梗图": 1,
-    "🔸课间休息闲聊": 391,
     "🔸한국어-채팅방": 13,
     "🔸deutscher-chatraum": 3,
-    "🔸русский-канал": 5,
-    "🔸phòng-chat-tiếng-việt": 683,
-    "🔸canal-português": 15,
-    "🔸ruang-obrolan-indonesia": 161,
-    "🔸ห้องสนทนาภาษาไทย": 161,
-    "🔸traphase": 27,
-    "🔸lore-chat": 54,
-    "🔸team-building": 303,
-    "🔸general-chat": 1532,
-    "🔸game-question": 1364,
-    "🔸机器人命令┊bot-commands": 36,
-    "人在做怪事的時候總是特別有動力": 6,
-    "Would be great to have replay filter sort by number of turn clear.": 3,
     "關卡優化": 1,
     "Measurer sealing rouse": 2,
     "🐘 Unresolved elephants 🐘": 38,
-    "Dtide is out of control.": 5,
-    "The Counter archetype has been forgotten?": 37,
     "Balance problem and enemy stats inflation": 3,
-    "Alternate realms Enhancement": 16,
     "NOT ANSWERED: Jenkins": 110,
-    "V2.5.1.0 停服维护公告": 16,
     "📢 「官方素材」频道使用说明丨Official Assets Channel - Guide": 2,
     "Ramona is holding her sword wrong": 1,
     "【新人帮助】论坛介绍": 2,
-    "🔸canal-español": 23,
-    "🔸邀请码互助┊swap-invitation-codes": 6,
     "WoD QoL": 2,
     "\"Card Seal\" also seals Rouse": 1,
     "Been stuck on \"entering game\" screen for 3 days now": 1,
@@ -61,13 +68,16 @@
     "Impact of Version 2.6 Affinity Changes on Player Experience": 1
   },
   "hourly_activity": {
+    "20": 285,
+    "21": 876,
+    "22": 907,
+    "23": 578,
     "14": 556,
     "15": 637,
     "16": 779,
     "17": 835,
     "18": 944,
     "19": 891,
-    "20": 153,
     "13": 439,
     "1": 681,
     "2": 437,
@@ -84,11 +94,20 @@
     "0": 555
   },
   "message_types": {
-    "19": 4424,
-    "0": 9154,
-    "20": 31
+    "0": 10809,
+    "19": 5254,
+    "20": 38,
+    "21": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1554866561670586481",
+      "channel_id": "1170692781216378960",
+      "content": "May need to switch which one is the borrow",
+      "author": "dracozion",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1554690666276065342",
       "channel_id": "1131839817982947429",
@@ -138,6 +157,22 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1554877082415276182",
+      "channel_id": "1131839817982947429",
+      "content": "難打的🔑",
+      "author": "nemu_s_t_a_r",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554871548341387265",
+      "channel_id": "1552966288681205772",
+      "content": "character that makes your counter aoe",
+      "author": "arandomflamev2",
+      "reactions": 6,
+      "channel": "The Counter archetype has been forgotten?"
+    },
+    {
       "id": "1554653393434443849",
       "channel_id": "1131839817982947429",
       "content": "Aaa果然是0",
@@ -160,6 +195,14 @@
       "author": "mosske",
       "reactions": 6,
       "channel": "moss’s art dump"
+    },
+    {
+      "id": "1554871793314041897",
+      "channel_id": "1170692781216378960",
+      "content": "I got leigh.",
+      "author": "cowit_moo22",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1554765213125840916",
@@ -216,38 +259,6 @@
       "author": "bunnycide420",
       "reactions": 5,
       "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554708845010493465",
-      "channel_id": "1170692781216378960",
-      "content": "Bro clearly just wants to hug his grandpa",
-      "author": "crowlov1",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554721125685268582",
-      "channel_id": "1170692781216378960",
-      "content": "I ma push for 515 just for fun,  Gdoll and Mouchette still available",
-      "author": "ice3564",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554531119830016120",
-      "channel_id": "1554531119830016120",
-      "content": "hello ppl im new here,im not that far in the story yet so ik wings might not be ",
-      "author": "deadline004",
-      "reactions": 5,
-      "channel": "Hello people im new here :>"
-    },
-    {
-      "id": "1554752188603957288",
-      "channel_id": "1131839817982947429",
-      "content": "终末地的新问卷hhhhh",
-      "author": "xyakoto",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
     }
   ]
 }

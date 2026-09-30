@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-01",
+  "messages": 3825,
+  "unique_authors": 148,
+  "reactions_total": 372,
+  "attachments": 126,
+  "channel_activity": {
+    "🔸綜合討論": 401,
+    "🔸morimens-game-chat": 1864,
+    "🔸剧情交流": 5,
+    "🔸晒卡分享": 5,
+    "🔸课间休息闲聊": 15,
+    "🔸한국어-채팅방": 2,
+    "🔸deutscher-chatraum": 2,
+    "🔸русский-канал": 12,
+    "🔸phòng-chat-tiếng-việt": 16,
+    "🔸canal-español": 115,
+    "🔸canal-português": 77,
+    "🔸ruang-obrolan-indonesia": 93,
+    "🔸ห้องสนทนาภาษาไทย": 21,
+    "🔸traphase": 44,
+    "🔸lore-chat": 59,
+    "🔸team-building": 250,
+    "🔸general-chat": 406,
+    "🔸game-question": 417,
+    "🔸机器人命令┊bot-commands": 5,
+    "真的能放到教室裡嗎？？": 1,
+    "Dtide is out of control.": 10,
+    "When will a passive ability be added to these characters?": 1,
+    "汀克特旺達「本回合下次躍遷必定觸發」變不可疊加了？can’t use Tinct & Wanda “The next Leap this turn is guaranteed” in a roll?": 1,
+    "NOT ANSWERED: Jenkins": 1,
+    "「官方素材」頻道使用說明": 1,
+    "Nefraea + Arachne Posting": 1
+  },
+  "hourly_activity": {
+    "0": 973,
+    "1": 1020,
+    "2": 1031,
+    "3": 801
+  },
+  "message_types": {
+    "0": 2543,
+    "23": 1,
+    "19": 1275,
+    "20": 6
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1554898407535943791",
+      "channel_id": "1131839817982947429",
+      "content": "有大佬可以帶帶我打多力多滋難度嗎",
+      "author": "nemu_s_t_a_r",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554892392799141989",
+      "channel_id": "1170692781216378960",
+      "content": "but now your pouch is so much lighter! your climb up the mountain will be that m",
+      "author": "violettaautumn",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554926495481200781",
+      "channel_id": "1170692781216378960",
+      "content": "sanga is so cool...",
+      "author": "direhands",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554930894190674064",
+      "channel_id": "1170692781216378960",
+      "content": "A little detailing work and rendering left",
+      "author": "davedotexe",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554936735664836742",
+      "channel_id": "1170692781216378960",
+      "content": "Ritual Summons are fun",
+      "author": "brainrot_in_a_vat",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554939358312800327",
+      "channel_id": "1170692781216378960",
+      "content": "she's nymph",
+      "author": "direhands",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554892739982921731",
+      "channel_id": "1131839817982947429",
+      "content": "其实我是纯正的繁衍狂热剧情党",
+      "author": "kemomimi_",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554901766384914634",
+      "channel_id": "1131839817982947429",
+      "content": "不听语音",
+      "author": "kemomimi_",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554887388973629604",
+      "channel_id": "1170692781216378960",
+      "content": "He is a cool bean",
+      "author": "unknowable3333",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554888671465836676",
+      "channel_id": "1170692781216378960",
+      "content": "LET'S GO I FORGOT MONTHLY RESET WAS TONIGHT",
+      "author": "mosske",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554888782908752037",
+      "channel_id": "1170692781216378960",
+      "content": "NO LUCK NEEDED IT'S JUST THE HORIZON",
+      "author": "mosske",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554892793422549139",
+      "channel_id": "1170692781216378960",
+      "content": "i'm almost done with the corpo art",
+      "author": "mosske",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554893587244916777",
+      "channel_id": "1170692781216378960",
+      "content": "Morimens podcast between creators",
+      "author": "crowlov1",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554894469676007549",
+      "channel_id": "1170692781216378960",
+      "content": "REALLY, think about It.\n\nWe put Reya Dom Ellie Kaly and yes, believe it or not, ",
+      "author": "crowlov1",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554899693434052629",
+      "channel_id": "1170692781216378960",
+      "content": "still haven't even finished doresain chap on normal",
+      "author": "mosske",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554930269021020210",
+      "channel_id": "1170692781216378960",
+      "content": "Heh..... I just like nuking people with Lily in Trap",
+      "author": "brainrot_in_a_vat",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554936589128568852",
+      "channel_id": "1170692781216378960",
+      "content": "Woah no way, twins!",
+      "author": "zicma",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554939450428235827",
+      "channel_id": "1170692781216378960",
+      "content": "dont have anyone else",
+      "author": "asharpiemarker",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554891761506320385",
+      "channel_id": "1173463482503536711",
+      "content": "~~所有角色都可以是女性啊對吧~~",
+      "author": "yusi4172",
+      "reactions": 3,
+      "channel": "🔸剧情交流"
+    },
+    {
+      "id": "1554912312085712978",
+      "channel_id": "1300659718653476925",
+      "content": "Primeiras palavras ao ver o personagem: \"Uau~\"",
+      "author": "vinny6658",
+      "reactions": 3,
+      "channel": "🔸canal-português"
+    }
+  ]
+}
