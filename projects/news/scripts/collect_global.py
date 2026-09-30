@@ -48,7 +48,6 @@ SOURCE_MAP = {
     'bilibili': 'bilibili',
     'reddit': 'reddit',
     'youtube': 'youtube',
-    'taptap': 'taptap',
     # 'steam' 不再重映射：steam 三源采集器（2026-08-22 自 AC 栈迁入）各自直接产
     # steam / steam_review / steam_discussion，旧的 steam→steam_review 映射会把官方
     # 新闻错标成评价，落档就进错桶。
@@ -156,7 +155,6 @@ def run_zero_cost_collectors() -> list[dict]:
     zero_cost_fetchers = [
         ('Reddit', c.fetch_reddit),
         ('Bilibili', c.fetch_bilibili),
-        ('TapTap', c.fetch_taptap),
         ('Steam News', c.fetch_steam_news),
         ('Steam Reviews', c.fetch_steam_reviews),
         ('Steam Discussions', c.fetch_steam_discussions),
@@ -174,8 +172,7 @@ def run_zero_cost_collectors() -> list[dict]:
     api_fetchers = [
         ('YouTube', c.fetch_youtube),
         ('Bahamut', c.fetch_bahamut),
-        # Arca.live 已退出编排（守密人 2026-08-16 裁定摘除注册表；CF 封死 Actions
-        # 机房 IP，采集器与 collect_arca_daily.py 单脚本均保留在树上待复用）
+        # Arca.live / TapTap 采集器已整体删除（守密人 2026-09-30 裁定删除两个断档源）
         ('Google Play', c.fetch_google_play),
     ]
 
@@ -183,7 +180,7 @@ def run_zero_cost_collectors() -> list[dict]:
 
     # 显示名 → source_id（与 archive/split 对齐）
     NAME_TO_SOURCE_ID = {
-        'Reddit': 'reddit', 'Bilibili': 'bilibili', 'TapTap': 'taptap',
+        'Reddit': 'reddit', 'Bilibili': 'bilibili',
         'Steam News': 'steam', 'Steam Reviews': 'steam_review',
         'Steam Discussions': 'steam_discussion',
         'Weibo': 'weibo', 'App Store': 'appstore',
@@ -274,7 +271,7 @@ def run_zero_cost_collectors() -> list[dict]:
                     tracker.update_platform_status(source_id, 0, note=f"待配 {gate_env}")
             else:
                 # 核心源静默吐 0：从 INFO 提升为 WARNING，不再悄悄溜过（§4.2 R1 告警）。
-                # 不做硬失败：部分核心源（如 taptap）本就低频，0 产出不应阻断管线；
+                # 不做硬失败：部分核心源（如 official）本就低频，0 产出不应阻断管线；
                 # 持久信号交由健康层按 consecutive_silent_days 自动 degraded/dormant。
                 # 硬失败（非零退出）仍只保留给抛异常的核心源（见 core_failures 主路径）。
                 if source_id in CORE_SOURCES:

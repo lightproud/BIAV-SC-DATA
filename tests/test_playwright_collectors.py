@@ -102,79 +102,6 @@ class TestParseWeiboArticle(unittest.TestCase):
         self.assertEqual(item["url"], "https://m.weibo.cn/status/9")
 
 
-class TestParseTaptapCard(unittest.TestCase):
-    def _card(self, title_text=None, href=None):
-        title_el = FakeEl(text=title_text) if title_text is not None else None
-        link_el = FakeEl(attrs={"href": href}) if href is not None else None
-        return FakeEl(children={
-            '.app-name, .title, h3': title_el,
-            'a[href*="/app/"]': link_el,
-        })
-
-    def test_no_app_link_returns_none(self):
-        self.assertIsNone(pc._parse_taptap_card(self._card(title_text="X", href=None)))
-
-    def test_link_without_app_path_returns_none(self):
-        self.assertIsNone(pc._parse_taptap_card(self._card(title_text="X", href="/other/1")))
-
-    def test_valid_card_relative_href(self):
-        item = pc._parse_taptap_card(self._card(title_text="忘却前夜", href="/app/123"))
-        self.assertEqual(item["url"], "https://www.taptap.cn/app/123")
-        self.assertEqual(item["title"], "[TapTap] 忘却前夜")
-        self.assertTrue(item["time_is_approximate"])
-
-    def test_absolute_href_kept(self):
-        item = pc._parse_taptap_card(
-            self._card(title_text="Title", href="https://www.taptap.cn/app/9")
-        )
-        self.assertEqual(item["url"], "https://www.taptap.cn/app/9")
-
-    def test_missing_title_uses_default(self):
-        card = self._card(title_text=None, href="/app/5")
-        item = pc._parse_taptap_card(card)
-        self.assertEqual(item["title"], "[TapTap] 忘却前夜")
-
-
-class TestParseArcaRow(unittest.TestCase):
-    def _row(self, title=None, time_text=None, href=None):
-        title_el = FakeEl(text=title) if title is not None else None
-        time_el = FakeEl(text=time_text) if time_text is not None else None
-        link_el = FakeEl(attrs={"href": href}) if href is not None else None
-        return FakeEl(children={
-            '.title': title_el,
-            '.col-time': time_el,
-            'a.vrow-top': link_el,
-        })
-
-    def test_no_title_element_returns_none(self):
-        self.assertIsNone(pc._parse_arca_row(self._row(title=None), ""))
-
-    def test_empty_title_returns_none(self):
-        self.assertIsNone(pc._parse_arca_row(self._row(title="   "), ""))
-
-    def test_best_mode_is_hot(self):
-        item = pc._parse_arca_row(self._row(title="제목", href="/b/1"), "best")
-        self.assertTrue(item["is_hot"])
-        self.assertEqual(item["url"], "https://arca.live/b/1")
-        self.assertEqual(item["lang"], "ko")
-        self.assertEqual(item["platform_region"], "kr")
-
-    def test_latest_mode_not_hot(self):
-        item = pc._parse_arca_row(self._row(title="제목", href="https://arca.live/b/2"), "")
-        self.assertFalse(item["is_hot"])
-        self.assertEqual(item["url"], "https://arca.live/b/2")
-
-    def test_title_truncated_to_100(self):
-        item = pc._parse_arca_row(self._row(title="가" * 150), "")
-        self.assertEqual(len(item["title"]), 100)
-
-    def test_time_parsed(self):
-        item = pc._parse_arca_row(
-            self._row(title="제목", time_text="2026-06-09T12:00:00Z"), ""
-        )
-        self.assertNotIn("time_is_approximate", item)
-
-
 class TestParseRuliwebLink(unittest.TestCase):
     def test_empty_title_returns_none(self):
         self.assertIsNone(pc._parse_ruliweb_link(FakeEl(text="  ", attrs={"href": "/x"})))
@@ -333,39 +260,6 @@ class TestFetchWeiboPlaywright(unittest.TestCase, FetchPlaywrightTestMixin):
         # 不注入 playwright → import 失败 → 返回空
         with mock.patch.dict(sys.modules, {"playwright": None, "playwright.sync_api": None}):
             self.assertEqual(pc.fetch_weibo_playwright(), [])
-
-
-class TestFetchTaptapPlaywright(unittest.TestCase, FetchPlaywrightTestMixin):
-    def test_collects_cards(self):
-        card = FakeEl(children={
-            '.app-name, .title, h3': FakeEl(text="忘却前夜"),
-            'a[href*="/app/"]': FakeEl(attrs={"href": "/app/1"}),
-        })
-        page = FakePage({'.app-card, .search-item, [class*="app"]': [card]})
-        with self._run_with_page(page):
-            items = pc.fetch_taptap_playwright()
-        self.assertEqual(len(items), 1)
-        self.assertEqual(items[0]["source"], "taptap")
-
-    def test_empty(self):
-        page = FakePage({'.app-card, .search-item, [class*="app"]': []})
-        with self._run_with_page(page):
-            self.assertEqual(pc.fetch_taptap_playwright(), [])
-
-
-class TestFetchArcaPlaywright(unittest.TestCase, FetchPlaywrightTestMixin):
-    def test_collects_rows_both_modes(self):
-        row = FakeEl(children={
-            '.title': FakeEl(text="제목"),
-            '.col-time': None,
-            'a.vrow-top': FakeEl(attrs={"href": "/b/1"}),
-        })
-        page = FakePage({'.vrow:not(.notice)': [row]})
-        with self._run_with_page(page):
-            items = pc.fetch_arca_live_playwright()
-        # 两个 mode 各采一条
-        self.assertEqual(len(items), 2)
-        self.assertEqual(items[0]["source"], "arca_live")
 
 
 class TestFetchRuliwebPlaywright(unittest.TestCase, FetchPlaywrightTestMixin):

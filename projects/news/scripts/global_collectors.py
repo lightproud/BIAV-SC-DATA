@@ -3,12 +3,12 @@
 忘却前夜 Morimens - 全球信息收集器
 从全球多个社区平台收集忘却前夜相关信息，输出结构化 JSON 数据。
 
-支持平台 (29个):
-  中文: Bilibili, NGA, TapTap, Weibo, Xiaohongshu, Douyin, Tieba, QQ频道, Zhihu, Bahamut(巴哈姆特)
+支持平台 (27个):
+  中文: Bilibili, NGA, Weibo, Xiaohongshu, Douyin, Tieba, QQ频道, Zhihu, Bahamut(巴哈姆特)
   同人: Pixiv, Lofter
   周边: 闲鱼, 淘宝
   全球: Reddit, Twitter/X, YouTube, Discord, Facebook, TikTok, Twitch, Instagram
-  韩国: Naver Cafe, Arca.live
+  韩国: Naver Cafe
   日本: 5ch
   商店: App Store, Google Play
 
@@ -16,7 +16,6 @@
 输出: data/collected_raw.json
 """
 
-import asyncio
 import hashlib
 import html as _html
 import json
@@ -521,35 +520,6 @@ def _fetch_youtube_videos(api_key, published_after, query_params, region):
     return items
 
 
-# NOTE: divergent from aggregator_collectors.fetch_taptap — see audit ARCH-01 (behavior differs, not merged).
-def fetch_taptap():
-    """从 TapTap 获取忘却前夜社区帖子和评价（Playwright 无头浏览器方案）。
-
-    TapTap 已废弃 webapiv2 端点，改用 taptap_collector 模块通过 headless Chromium
-    渲染页面后拦截 API 响应或提取 DOM 来获取数据。
-    source 字段：帖子为 "taptap_post"，评价为 "taptap_review"。
-    """
-    try:
-        import taptap_collector as _tc
-    except ImportError:
-        try:
-            import sys
-            sys.path.insert(0, str(Path(__file__).resolve().parent))
-            import taptap_collector as _tc
-        except ImportError:
-            logger.warning("TapTap: taptap_collector not available (playwright not installed?), skipping")
-            return []
-
-    try:
-        topic_items, review_items = asyncio.run(_tc.collect(cutoff=CUTOFF))
-        items = topic_items + review_items
-        logger.info(f"TapTap: {len(topic_items)} posts + {len(review_items)} reviews")
-        return items
-    except Exception as e:
-        logger.warning(f"TapTap failed: {e}")
-        return []
-
-
 # ─── 新增数据源 ──────────────────────────────────────────
 
 def _parse_weibo_time(created_str):
@@ -660,84 +630,6 @@ def _collect_weibo_cards(cards, items):
         if time_approx:
             item["time_is_approximate"] = True
         items.append(item)
-
-
-def fetch_arca_live():
-    """从 Arca.live 抓取韩国忘却前夜频道 (forgettingeve)。
-
-    Cloudflare 对裸 `Mozilla/5.0` UA 直接 403，须用完整浏览器头。
-    2026-06 实测 DOM：每帖为 `<a class="vrow column" href="/b/.../id?p=1">`，
-    含 <time datetime="ISO">、col-view 浏览数、col-rate 推荐数、comment-count。
-    （公告行 class 为 "vrow column notice ..."，精确匹配普通行即自动排除。）
-    """
-    arca_channel = os.environ.get("ARCA_CHANNEL", "forgettingeve")
-    items = []
-    seen_urls = set()
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "ko-KR,ko;q=0.9,en;q=0.8",
-        "Referer": "https://arca.live/",
-    }
-    import re as _re
-
-    for mode in ("best", ""):  # best=인기, ""=최신
-        try:
-            params = {"p": 1}
-            if mode:
-                params["mode"] = mode
-            resp = _get(
-                f"https://arca.live/b/{arca_channel}",
-                params=params,
-                headers=headers,
-            )
-            html = resp.text
-
-            rows = _re.split(r'<a class="vrow column" href="', html)[1:]
-            mode_added = 0
-            for row in rows:
-                m_href = _re.match(r'(/b/[^"?]+)', row)
-                m_title = _re.search(r'<span class="title">(.*?)</span>\s*<span class="info">', row, _re.DOTALL)
-                if not m_href or not m_title:
-                    continue
-                title = news_common.strip_html(m_title.group(1)).strip()
-                if not title:
-                    continue
-                url = f"https://arca.live{m_href.group(1)}"
-                if url in seen_urls:
-                    continue
-                seen_urls.add(url)
-
-                m_time = _re.search(r'<time datetime="([^"]+)"', row)
-                time_str = m_time.group(1) if m_time else datetime.now(UTC).isoformat()
-                m_view = _re.search(r'class="vcol col-view">\s*([\d,]+)', row)
-                m_rate = _re.search(r'class="vcol col-rate">\s*(-?[\d,]+)', row)
-                m_cmt = _re.search(r'class="comment-count">\s*\[(\d+)\]', row)
-                views = int(m_view.group(1).replace(",", "")) if m_view else 0
-                rate = int(m_rate.group(1).replace(",", "")) if m_rate else 0
-                comments = int(m_cmt.group(1)) if m_cmt else 0
-                m_author = _re.search(r'data-filter="([^"]*)"', row)
-
-                items.append(_make_item(
-                    title=title,
-                    summary="",
-                    source="arca_live",
-                    platform_region="kr",
-                    time_str=time_str,
-                    url=url,
-                    engagement=views + rate * 5 + comments * 2,
-                    is_hot=(mode == "best") or rate >= 10,
-                    author=m_author.group(1) if m_author else "",
-                    lang="ko",
-                    time_is_approximate=not m_time,
-                ))
-                mode_added += 1
-
-            logger.info(f'Arca.live "{arca_channel}" mode={mode or "latest"}: +{mode_added} items')
-        except Exception as e:
-            logger.warning(f'Arca.live "{arca_channel}" mode={mode or "latest"} failed: {e}')
-
-    return items
 
 
 # NOTE: divergent from aggregator_collectors.fetch_discord_local — see audit ARCH-01:

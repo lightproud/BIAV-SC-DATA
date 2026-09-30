@@ -28,7 +28,7 @@ import sys
 import time
 import logging
 import argparse
-from datetime import datetime, timedelta, UTC
+from datetime import datetime, UTC
 from pathlib import Path
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
@@ -271,73 +271,6 @@ def backfill_appstore(state: dict, max_pages: int) -> int:
     if start_page + max_pages > 10:  # App Store max ~10 pages per region
         ps['done'] = True
     _save_state(state)
-    return total
-
-
-def backfill_arca_live(state: dict, max_pages: int) -> int:
-    """Backfill Arca.live forgettingeve channel page by page."""
-    from global_collectors import _get, _make_item
-    import re as _re
-    ps = _platform_state(state, 'arca_live')
-    if ps['done']:
-        return 0
-
-    channel = "forgettingeve"
-    total = 0
-    start_page = ps['page']
-
-    for page in range(start_page, start_page + max_pages):
-        if _is_time_up():
-            break
-        try:
-            resp = _get(
-                f"https://arca.live/b/{channel}",
-                params={"p": page},
-                headers={"User-Agent": "Mozilla/5.0"},
-            )
-            html = resp.text
-
-            items = []
-            for match in _re.finditer(
-                r'data-url="(/b/[^"]+/(\d+))"[^>]*>.*?'
-                r'class="title"[^>]*>([^<]+)</a>.*?'
-                r'class="col-time"[^>]*>([^<]+)',
-                html, _re.DOTALL
-            ):
-                path, article_id, title, time_text = match.groups()
-                title = title.strip()
-                if not title:
-                    continue
-                items.append(_make_item(
-                    title=title,
-                    summary="",
-                    source="arca_live",
-                    platform_region="kr",
-                    time_str=time_text.strip(),
-                    url=f"https://arca.live{path}",
-                    engagement=0,
-                    is_hot=False,
-                    author="",
-                    lang="ko",
-                ))
-
-            if not items:
-                ps['done'] = True
-                break
-
-            _archive_items('arca_live', items)
-            total += len(items)
-            ps['page'] = page + 1
-            ps['total'] += len(items)
-            _save_state(state)
-
-            logger.info(f'Arca.live backfill p{page}: +{len(items)}')
-            time.sleep(REQUEST_DELAY)
-
-        except Exception as e:
-            logger.warning(f'Arca.live backfill p{page} failed: {e}')
-            break
-
     return total
 
 
@@ -669,52 +602,16 @@ def backfill_weixin(state: dict, max_pages: int) -> int:
     return total
 
 
-def backfill_taptap(state: dict, max_pages: int) -> int:
-    """TapTap 帖子/评价历史回溯。
-
-    TapTap 无可用官方 API（webapiv2 端点全 404），复用 taptap_collector 的
-    Playwright 滚动深采：回溯模式下用深 cutoff（180 天）+ 放大滚动轮次
-    （max_pages*4），一次尽量多抓历史，并绕过增量短路（backfill=True）。
-    帖子归 taptap/、评价归 taptap_review/，与日常增量同目录、按 URL 去重合并。
-
-    注意：实际可补深度受 TapTap 懒加载放出的历史上限约束，无法保证补到任意
-    久远；浏览器采集需 CI 带 Chromium 环境，本地无浏览器时返回 0 不报错。
-    """
-    ps = _platform_state(state, 'taptap')
-    cutoff = datetime.now(UTC) - timedelta(days=180)
-    try:
-        import asyncio
-        import taptap_collector
-        topics, reviews = asyncio.run(
-            taptap_collector.collect(
-                cutoff=cutoff, max_scrolls=max_pages * 4, backfill=True
-            )
-        )
-    except Exception as e:
-        logger.warning(f'TapTap backfill failed (browser env required): {e}')
-        return 0
-
-    _archive_items('taptap', topics)
-    _archive_items('taptap_review', reviews)
-    count = len(topics) + len(reviews)
-    ps['total'] = ps.get('total', 0) + count
-    ps['page'] = ps.get('page', 1) + 1
-    ps['last_run'] = datetime.now(UTC).isoformat()
-    return count
-
-
 # ── Registry ──────────────────────────────────────────────────────────────
 
 BACKFILL_REGISTRY = {
     'bilibili': backfill_bilibili,
     'appstore': backfill_appstore,
     'steam_review': backfill_steam_reviews,
-    # arca_live 已摘除（守密人 2026-08-16 裁定）：backfill_arca_live 实现保留在本模块
-    # 待复用，但不再登记——CF 封死 Actions 出口，登记着只会让手动回填每次空手而归。
+    # arca_live / taptap 回填器已随源删除（守密人 2026-09-30 裁定删除两个断档源）。
     'pixiv': backfill_pixiv,
     'ruliweb': backfill_ruliweb,
     'weixin': backfill_weixin,
-    'taptap': backfill_taptap,
 }
 
 

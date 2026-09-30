@@ -118,12 +118,11 @@ class TestFailureAggregation(unittest.TestCase):
         names mapped through NAME_TO_SOURCE_ID.
         """
         # Map display name → global_collectors attribute used by the fetcher list.
-        # 2026-08-22「采集 → 直接入湖」：AC 栈退役，reddit / bilibili / taptap 回落 GC，
+        # 2026-08-22「采集 → 直接入湖」：AC 栈退役，reddit / bilibili /（已删的）taptap 回落 GC，
         # steam 三源整段迁入 GC —— 六者必须在此登记，否则它们不被 mock，测试会真的出网
         # 采集（实测把一次本该 5 秒的 hermetic 用例拖成 79 秒）。discord 仍归 archiver。
         attr_by_name = {
             "Reddit": "fetch_reddit", "Bilibili": "fetch_bilibili",
-            "TapTap": "fetch_taptap",
             "Steam News": "fetch_steam_news", "Steam Reviews": "fetch_steam_reviews",
             "Steam Discussions": "fetch_steam_discussions",
             "Weibo": "fetch_weibo",
@@ -132,7 +131,7 @@ class TestFailureAggregation(unittest.TestCase):
             "StopGame": "fetch_stopgame", "搜狗微信": "fetch_weixin",
             "YouTube": "fetch_youtube",
             "Bahamut": "fetch_bahamut",
-            "Arca.live": "fetch_arca_live", "Google Play": "fetch_google_play",
+            "Google Play": "fetch_google_play",
         }
         patches = []
         for name, attr in attr_by_name.items():
@@ -197,11 +196,11 @@ class TestFailureAggregation(unittest.TestCase):
 
     def test_core_empty_not_hard_failure(self):
         # 设计决策：核心源「静默吐 0」只告警（WARNING）+ 健康层降级，不进 core_failures。
-        # 部分核心源（如 taptap）本就低频长期 0，硬失败会让管线永久非零退出。
+        # 部分核心源（如 official）本就低频长期 0，硬失败会让管线永久非零退出。
         # 仅「抛异常」的核心源才进 core_failures（见 test_core_failure_recorded）。
         self._patch_fetchers({
             "Weibo": lambda: [_item("t", "https://t/1")],
-            # TapTap / YouTube 等核心源默认返回 []（空）→ 只告警，不入 core_failures
+            # YouTube 等核心源默认返回 []（空）→ 只告警，不入 core_failures
         })
         items, core_failures = collect_global.run_zero_cost_collectors()
         self.assertEqual(core_failures, [])

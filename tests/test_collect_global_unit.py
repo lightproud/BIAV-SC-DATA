@@ -123,18 +123,17 @@ class TestRunZeroCostBranches(unittest.TestCase):
 
     def _patch_all_empty(self, overrides):
         attr_by_name = {
-            # 2026-08-22：AC 栈退役后 reddit / bilibili / taptap 回落 GC、steam 三源迁入 GC。
+            # 2026-08-22：AC 栈退役后 reddit / bilibili /（已删的）taptap 回落 GC、steam 三源迁入 GC。
             # 本表漏登记 = 该采集器不被 mock = 用例真的出网（实测把 hermetic 用例拖成 55 秒）。
             # 漂移守卫见 test_fetcher_stub_map_covers_every_registered_collector。
             "Reddit": "fetch_reddit", "Bilibili": "fetch_bilibili",
-            "TapTap": "fetch_taptap",
             "Steam News": "fetch_steam_news", "Steam Reviews": "fetch_steam_reviews",
             "Steam Discussions": "fetch_steam_discussions",
             "Weibo": "fetch_weibo", "App Store": "fetch_appstore_reviews",
             "Pixiv": "fetch_pixiv", "Note.com": "fetch_note_com",
             "Ruliweb": "fetch_ruliweb", "StopGame": "fetch_stopgame",
             "搜狗微信": "fetch_weixin", "YouTube": "fetch_youtube",
-            "Bahamut": "fetch_bahamut", "Arca.live": "fetch_arca_live",
+            "Bahamut": "fetch_bahamut",
             "Google Play": "fetch_google_play",
         }
         patches = []

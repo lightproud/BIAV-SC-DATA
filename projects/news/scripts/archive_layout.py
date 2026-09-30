@@ -147,6 +147,8 @@ def news_state_root() -> Path:
 
 # ── 折叠映射：源 → (宿主平台, 类型子目录) ────────────────────────────────────
 # steam 家族三子类共享宿主 steam；taptap 评论流归 taptap/*/review。
+# taptap 族采集器已删（守密人 2026-09-30 裁定），但本映射与下方 taptap 默认落点**保留**：
+# 读方遍历历史档 taptap/ 时须靠 taptap_review 认领 review/ 子目录防双计，删了读侧即错。
 # 与 sources.SOURCE_ALIASES / ARCHIVE_PLATFORM_FOLD 语义对齐（那边管「叫什么」，
 # 这边管「放哪里」）。
 FOLDED_SOURCE_LAYOUT: dict[str, tuple[str, str]] = {

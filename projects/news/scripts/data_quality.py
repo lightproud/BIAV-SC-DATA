@@ -49,7 +49,6 @@ ENGAGEMENT_WEIGHTS = {
     'twitter': {'repost_weight': 3.0, 'reply_weight': 2.0, 'like_weight': 1.0},
 
     # 游戏社区
-    'taptap': {'weight': 1.0},
     'xiaohongshu': {'weight': 1.0},
 
     # 默认
@@ -65,7 +64,6 @@ HOT_THRESHOLDS = {
     'steam_review': 5,
     'weibo': 100,
     'twitter': 100,
-    'taptap': 50,
     'xiaohongshu': 50,
     'default': 50,
 }
