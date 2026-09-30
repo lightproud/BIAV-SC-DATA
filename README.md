@@ -18,11 +18,10 @@
 2026-09-29 起采集在本仓运行（公开仓 Actions 免费）。定时任务只在仓库变量 `COLLECTION_ENABLED` 为 `true` 时生效，
 未开启前只能手动触发，用于验证。
 
-所需 Secrets（Settings → Secrets and variables → Actions）：
+所需 Secrets（Settings → Secrets and variables → Actions）。写本仓数据与 Release 一律用内置 `GITHUB_TOKEN`，不需要个人令牌：
 
 | 类别 | Secret | 用途 |
 |---|---|---|
-| 必配 | `BIAV_SC_DATA_TOKEN` | 写本仓的个人令牌（fine-grained PAT，本仓 Contents 读写） |
 | 必配 | `DISCORD_BOT_TOKEN` | Discord 三区服归档、历史回填、同人图、媒体链接刷新 |
 | 必配 | `YOUTUBE_API_KEY` | YouTube 视频与评论 |
 | 可选 | `WEIBO_COOKIE` | 微博不配也能采，配了成功率更高 |

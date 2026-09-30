@@ -13,7 +13,7 @@ name: "🖼️ Backfill & Archive Media"
 # **读 BIAV-SC-DATA**；media 二进制仍传 code 仓 Releases。
 # manifest 已迁 **data 仓** Record/media/（守密人 2026-07-30 裁定）：原写 code 仓 news/data 的路线
 # 被 #876 的 .gitignore 整目录忽略挡下 git add，连败 38 天；台账随数据湖同仓同推（PAT 读写）。
-# 所需 Secrets：DISCORD_BOT_TOKEN（刷新 Discord 链接）；GH_TOKEN 用内置 github.token；BIAV_SC_DATA_TOKEN。
+# 所需 Secrets：DISCORD_BOT_TOKEN（刷新 Discord 链接）；GH_TOKEN 与写数据均用内置 github.token。
 
 on:
   schedule:
@@ -65,11 +65,11 @@ jobs:
       - name: Clone BIAV-SC-DATA（PAT，读源 + 回推 manifest；全克隆同 update-news 推送形态）
         working-directory: ${{ github.workspace }}
         env:
-          DATA_TOKEN: ${{ secrets.BIAV_SC_DATA_TOKEN }}
+          DATA_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
           if [ -z "${DATA_TOKEN:-}" ]; then
-            echo "::error::secret BIAV_SC_DATA_TOKEN 未配置"; exit 1
+            echo "::error::内置 github.token 不可用"; exit 1
           fi
           # 凭据内联进 remote URL，不再依赖 credential.helper store。
           # 2026-08-18 09:48~13:07 之间起，store helper 在 push 时不再返回任何凭据

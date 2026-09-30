@@ -27,7 +27,7 @@ concurrency:
   cancel-in-progress: false
 
 permissions:
-  contents: read   # 只读 code 仓脚本；写 data 仓走 PAT
+  contents: write  # 内置 github.token 推送本仓数据（2026-09-29 起不再用个人令牌）
 
 env:
   BIAV_SC_DATA_ROOT: ${{ github.workspace }}/data-repo
@@ -57,11 +57,11 @@ jobs:
 
       - name: Clone BIAV-SC-DATA（PAT，数据根：读 youtube 存档 + 写评论）
         env:
-          DATA_TOKEN: ${{ secrets.BIAV_SC_DATA_TOKEN }}
+          DATA_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
           if [ -z "${DATA_TOKEN:-}" ]; then
-            echo "::error::secret BIAV_SC_DATA_TOKEN 未配置"; exit 1
+            echo "::error::内置 github.token 不可用"; exit 1
           fi
           # 凭据内联进 remote URL，不再依赖 credential.helper store。
           # 2026-08-18 09:48~13:07 之间起，store helper 在 push 时不再返回任何凭据
