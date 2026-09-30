@@ -1,8 +1,8 @@
 {
   "date": "2026-09-29",
-  "archived_at": "2026-09-30T02:57:40.575931+00:00",
+  "archived_at": "2026-09-30T09:15:00.857391+00:00",
   "source": "google_play",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[Google Play 好评] ★5 i really love the character designs and",
@@ -13,6 +13,20 @@
       "engagement": 0,
       "is_hot": false,
       "author": "McLaughing",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 差评] ★1 end game content is pay to win. you need",
+      "summary": "end game content is pay to win. you need level up your character to progress the main story through limit break item. limit break item can only obtain from dtide but it's very very hard without your character +12 ( or total obtain 1 character =15 dupe) Their new affinity system can give some limit break item but it's more a scam because you need long long way to max it. It's more like a bonus ( who already have lv.90 characters) than obtainable target for users (who don't have lv.90 characters)",
+      "source": "google_play",
+      "time": "2026-09-29T03:05:26+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-3d371829-098e-4514-80b0-3fc58c4968a0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Lanny Hardjono",
       "tags": [],
       "lang": "en",
       "platform_region": "",

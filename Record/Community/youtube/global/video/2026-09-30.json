@@ -1,8 +1,8 @@
 {
   "date": "2026-09-30",
-  "archived_at": "2026-09-30T02:57:40.392708+00:00",
+  "archived_at": "2026-09-30T09:15:00.713747+00:00",
   "source": "youtube",
-  "item_count": 6,
+  "item_count": 9,
   "items": [
     {
       "title": "The best Arc 2 Chapter (yes i&#39;m jinxing it) | Arc 2 ch 6 BLIND",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/uXYmjZ-BbAU/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] NA #1 Proves G‑Ogier Is META, Meanwhile other CCs Spread Misinformation... Again.",
+      "summary": "https://buymeacoffee.com/flares https://discord.gg/yypzJhgcUP - Personal Flares Discord ...",
+      "source": "youtube",
+      "time": "2026-09-30T07:08:29Z",
+      "url": "https://www.youtube.com/watch?v=YzabUXk8Ijc",
+      "engagement": 254,
+      "is_hot": false,
+      "author": "Flares117",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/YzabUXk8Ijc/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -51,6 +68,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/OwVcCnokCnI/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "#01 Morimens | The Dying World",
+      "summary": "",
+      "source": "youtube",
+      "time": "2026-09-30T05:04:52Z",
+      "url": "https://www.youtube.com/watch?v=YclW-EUzYbo",
+      "engagement": 38,
+      "is_hot": false,
+      "author": "kitt",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/YclW-EUzYbo/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -102,6 +136,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/BF8ukg7BDqM/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "忘却前夜実況動画　Part5　超越存在でボスステージを振り返ろう！第2章編",
+      "summary": "超越存在でボスステージを振り返ろう！今回はPart2、第2章のボスステージを攻略します。 戦闘は全て等倍速でプレイする派 ...",
+      "source": "youtube",
+      "time": "2026-09-30T07:55:04Z",
+      "url": "https://www.youtube.com/watch?v=paZnY2cD5FY",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "パラレル",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/paZnY2cD5FY/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

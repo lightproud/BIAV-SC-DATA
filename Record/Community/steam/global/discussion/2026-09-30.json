@@ -1,8 +1,8 @@
 {
   "date": "2026-09-30",
-  "archived_at": "2026-09-30T02:57:40.406365+00:00",
+  "archived_at": "2026-09-30T09:15:00.726890+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[Steam论坛] I miss the exploration in story mode",
@@ -22,6 +22,23 @@
       "archive_subtype": "discussion"
     },
     {
+      "title": "[Steam论坛] My Invitation Code!",
+      "summary": "0BNZHT4VSZ\n\nEnjoy the game and the rewards! :3",
+      "source": "steam_discussion",
+      "time": "2026-09-30T04:47:28+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/603040822196396086/",
+      "engagement": 6,
+      "is_hot": false,
+      "author": "Otichoo",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
       "title": "[Steam论坛] What is the best character to have my first pull?",
       "summary": "The first pull grants a ssr that u can reroll, which one should i take?",
       "source": "steam_discussion",
@@ -30,6 +47,23 @@
       "engagement": 4,
       "is_hot": false,
       "author": "Gorvak",
+      "tags": [
+        "steam_forum"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "region": "global",
+      "archive_subtype": "discussion"
+    },
+    {
+      "title": "[Steam论坛] 关于猫做的剧情太畜生的这一概论",
+      "summary": "我操你个妈的，剧情做的怎么这么畜生啊，玩到第五章我就他妈受不了了，太不是人了，墨菲是一个多么可爱的女孩，却让她在未成年被侵犯怀孕，你妈的是人？",
+      "source": "steam_discussion",
+      "time": "2026-09-30T03:03:21+00:00",
+      "url": "https://steamcommunity.com/app/3052450/discussions/0/590690937745760787/",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "爱睡觉的雷姆",
       "tags": [
         "steam_forum"
       ],
