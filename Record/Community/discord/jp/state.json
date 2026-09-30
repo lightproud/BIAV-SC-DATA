@@ -84,7 +84,7 @@
       "name": "フレンド募集（非表示）"
     },
     "1391701560496623688": {
-      "last_message_id": "1554891231413149697",
+      "last_message_id": "1554976272105611265",
       "name": "🔰初心者質問",
       "cold_started": true,
       "last_historical_message_id": "1378523440742400000",
@@ -115,7 +115,7 @@
       ]
     },
     "1400058619726266462": {
-      "last_message_id": "1554838786188255355",
+      "last_message_id": "1554965407876513842",
       "name": "🙋誰でも質問",
       "cold_started": true,
       "last_historical_message_id": "1378523440742400000",
@@ -1301,6 +1301,6 @@
     }
   },
   "historical_month": null,
-  "last_run": "2026-09-30T18:09:28.022262+00:00",
+  "last_run": "2026-09-30T22:39:42.117414+00:00",
   "history_backfill_complete": true
 }
