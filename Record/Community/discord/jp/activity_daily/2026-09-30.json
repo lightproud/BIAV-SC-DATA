@@ -1,17 +1,21 @@
 {
   "date": "2026-09-30",
-  "messages": 1,
-  "unique_authors": 1,
+  "messages": 5,
+  "unique_authors": 3,
   "reactions_total": 0,
   "attachments": 0,
   "channel_activity": {
-    "💬なんでも雑談（ネタバレあり）": 1
+    "💬なんでも雑談（ネタバレあり）": 3,
+    "忘却前夜妄想、二次創作部屋": 2
   },
   "hourly_activity": {
+    "8": 2,
+    "6": 1,
+    "7": 1,
     "0": 1
   },
   "message_types": {
-    "0": 1
+    "0": 5
   },
   "top_reacted_messages": []
 }
