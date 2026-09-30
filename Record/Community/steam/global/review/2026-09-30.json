@@ -1,8 +1,8 @@
 {
   "date": "2026-09-30",
-  "archived_at": "2026-09-30T09:15:00.759949+00:00",
+  "archived_at": "2026-09-30T17:14:08.064627+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
     {
       "title": "[正面] It's like Genshin Impact and Slay the Spire had a...",
@@ -92,6 +92,52 @@
         "playtime_forever": 28126,
         "votes_up": 0,
         "timestamp_created": 1790742415
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 傻逼校猫",
+      "summary": "傻逼校猫",
+      "source": "steam_review",
+      "time": "2026-09-30T13:00:06+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198658159094/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198658159094",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 799,
+        "votes_up": 0,
+        "timestamp_created": 1790773206
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Strong story focus, great strategic and tactical g...",
+      "summary": "Strong story focus, great strategic and tactical gameplay, genuinely difficult content available, high skill ceiling, generous free premium currency, decent dolphin options. Nearly perfect gacha. FYI there is no head to head PvP available, only leaderboard competition.",
+      "source": "steam_review",
+      "time": "2026-09-30T12:56:14+00:00",
+      "url": "https://steamcommunity.com/profiles/76561197967813205/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561197967813205",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 321,
+        "votes_up": 0,
+        "timestamp_created": 1790772974
       },
       "region": "global",
       "archive_subtype": "review"

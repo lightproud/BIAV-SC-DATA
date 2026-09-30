@@ -1,8 +1,8 @@
 {
   "date": "2026-09-29",
-  "archived_at": "2026-09-30T09:15:00.857391+00:00",
+  "archived_at": "2026-09-30T17:14:08.143866+00:00",
   "source": "google_play",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "[Google Play 好评] ★5 i really love the character designs and",
@@ -29,6 +29,34 @@
       "author": "Lanny Hardjono",
       "tags": [],
       "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★5 I've had a blast playing this game, it r",
+      "summary": "I've had a blast playing this game, it reminds me of Slay the Spire. The developers are constantly handing out free pulls and resources so I've never felt like I had to grind nonstop. This is a great deckbuulder on the go, and the art style and world building are genuinely amazing.",
+      "source": "google_play",
+      "time": "2026-09-29T14:39:15+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=en#gp-4b8b1923-7829-4b40-8af3-9ac93838b9c2",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Zachary Rogers",
+      "tags": [],
+      "lang": "en",
+      "platform_region": "",
+      "region": "global"
+    },
+    {
+      "title": "[Google Play 好评] ★4 겜분위기랑 캐디는 마음에 들지만 ai번역기라는게 많이 아쉽다",
+      "summary": "겜분위기랑 캐디는 마음에 들지만 ai번역기라는게 많이 아쉽다",
+      "source": "google_play",
+      "time": "2026-09-29T12:54:33+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=ko#gp-a6c24643-b840-4836-af6a-c6de816b430e",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "GB T",
+      "tags": [],
+      "lang": "ko",
       "platform_region": "",
       "region": "global"
     }

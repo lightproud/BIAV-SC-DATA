@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-30",
+  "archived_at": "2026-09-30T17:14:08.010664+00:00",
+  "source": "bilibili",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "【忘却前夜】9.28-10.12 等效全3启无灵芝融灾450",
+      "summary": "1图出了超限茉夏，可以等效助战茉夏（后面没出助战），但应该压到3启也能过\n2图我不会玩海人，靠群友帮忙了",
+      "source": "bilibili",
+      "time": "2026-09-30T13:18:06+00:00",
+      "url": "https://www.bilibili.com/video/av117360165912933",
+      "engagement": 245,
+      "is_hot": false,
+      "author": "Potatis_土豆",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/df6789f4db3ceda0f58a6b01dccdb4bd36bdbeef.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "〖相位〗天胡开局✌",
+      "summary": "可能短期内不玩宁妃了，毒女子还是太牢了……",
+      "source": "bilibili",
+      "time": "2026-09-30T01:53:22+00:00",
+      "url": "https://www.bilibili.com/video/av117357481826868",
+      "engagement": 147,
+      "is_hot": false,
+      "author": "只想摸鱼的屑-",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/5a5aa885aa742558081a3d95c08811c06f8ee552.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "［忘却前夜］LOVE ME",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-30T13:53:07+00:00",
+      "url": "https://www.bilibili.com/video/av117360316978208",
+      "engagement": 64,
+      "is_hot": false,
+      "author": "无生持",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/8c93498f2b2624ed3ff3422ea03ab6e54a5e8507.jpg",
+      "content_type": "video"
+    }
+  ]
+}
