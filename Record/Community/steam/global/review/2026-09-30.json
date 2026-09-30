@@ -1,9 +1,32 @@
 {
   "date": "2026-09-30",
-  "archived_at": "2026-09-29T17:26:26.760351+00:00",
+  "archived_at": "2026-09-30T02:57:40.468678+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 3,
   "items": [
+    {
+      "title": "[正面] It's like Genshin Impact and Slay the Spire had a...",
+      "summary": "It's like Genshin Impact and Slay the Spire had a baby.\r\n\r\nAn adorable spooky baby raised by Darkest Dungeon and Final Fantasy, with Fallen London visiting frequently as a wine aunt.\r\n\r\nSo, y'know, if you like any of those, definitely worth giving this a try.",
+      "source": "steam_review",
+      "time": "2026-09-29T19:25:38+00:00",
+      "url": "https://steamcommunity.com/profiles/76561197999899781/recommended/3052450",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "76561197999899781",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 704,
+        "votes_up": 1,
+        "timestamp_created": 1790709938
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
     {
       "title": "[负面] 希望可以出個幾百塊的買斷吧 500我可能都會考慮 氪金就算了",
       "summary": "希望可以出個幾百塊的買斷吧 500我可能都會考慮 氪金就算了",
@@ -23,6 +46,29 @@
         "playtime_forever": 84,
         "votes_up": 0,
         "timestamp_created": 1790700501
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] เกมเล่นสนุกดีนะะ(ในสายตาคนที่อ่านเนื้อเรื่อง) แต่จ...",
+      "summary": "เกมเล่นสนุกดีนะะ(ในสายตาคนที่อ่านเนื้อเรื่อง) แต่จะมีปัญหาตรงการแปลเนี่ยแหละ แต่อันนี้ก็เข้าใจว่าเป็นค่ายเกมเล็กๆไม่ได้มีงบจะมาจ้างแปล 20 ประเทศไรงี้ เขาเลยใช้เอไอมาแปลประหยัดงบ(ปล. ทางค่ายจ้างแปลเฉพาะของ eng มาให้แล้ว ที่เหลือรอต่อไป) คือตรงปัญหาก็เป็น การพูดไวยากรไรงี้มันแปลกๆ เช่นผญพูด ครับ ผม   ผชพูด ค่ะ ดิฉัน ส่วนตรงกาชาคือเราก็โอเคดีนะ เรทออกทุกๆ 30 โรล ถ้าจะเอาการันตีหน้าตู้คือโรลที่ 90 (หลุด 2 ครั้ง ครั้งที่ 3 ได้ชัว) ถือว่าโดยรวมโอเคเลย",
+      "source": "steam_review",
+      "time": "2026-09-30T02:27:55+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198718437999/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198718437999",
+      "tags": [
+        "thai"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1949,
+        "votes_up": 0,
+        "timestamp_created": 1790735275
       },
       "region": "global",
       "archive_subtype": "review"

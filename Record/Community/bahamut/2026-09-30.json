@@ -1,8 +1,8 @@
 {
   "date": "2026-09-30",
-  "archived_at": "2026-09-29T17:26:26.656077+00:00",
+  "archived_at": "2026-09-30T02:57:40.393404+00:00",
   "source": "bahamut",
-  "item_count": 24,
+  "item_count": 25,
   "items": [
     {
       "title": "【集中串】2.4.0 發問集中串，來問，有問必答",
@@ -26,6 +26,19 @@
       "engagement": 53,
       "is_hot": false,
       "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": ""
+    },
+    {
+      "title": "【心得】(9月28~10月12日)新融災簡易攻略:做個簡單的隊伍分享,讓可能不是玩這麼久的玩家參考~",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-09-30T02:04:23.893926+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1558&tnum=7",
+      "engagement": 45,
+      "is_hot": false,
+      "author": "Daisuke1990",
       "tags": [],
       "lang": "zh",
       "platform_region": ""

@@ -1,8 +1,8 @@
 {
   "date": "2026-09-29",
-  "archived_at": "2026-09-29T17:26:26.655262+00:00",
+  "archived_at": "2026-09-30T02:57:40.391772+00:00",
   "source": "bilibili",
-  "item_count": 9,
+  "item_count": 10,
   "items": [
     {
       "title": "【忘却前夜】《鸟弟速通1-7》",
@@ -104,6 +104,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/69ba65b6634211df09f6f539c4adf5c82bc3b09e.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "狂乱罗坦，猜猜我有多少张打击",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-29T14:39:30+00:00",
+      "url": "https://www.bilibili.com/video/av117354830830113",
+      "engagement": 140,
+      "is_hot": false,
+      "author": "-风岬",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/22d6a2c12b98107fac21f23ea156c8081fc84d6d.jpg",
       "content_type": "video"
     },
     {
