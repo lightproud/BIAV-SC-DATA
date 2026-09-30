@@ -230,6 +230,34 @@
       "title": "This N is about to kill me",
       "time": "2026-09-29T06:00:21Z",
       "downloaded_at": "2026-09-29T17:26:26.491634+00:00"
+    },
+    "https://i.ytimg.com/vi/uXYmjZ-BbAU/hqdefault.jpg": {
+      "filename": "youtube_61ef9c5fc8f69613.jpg",
+      "source": "youtube",
+      "title": "The best Arc 2 Chapter (yes i&#39;m jinxing it) | Arc 2 ch 6 BLIND",
+      "time": "2026-09-29T22:53:14Z",
+      "downloaded_at": "2026-09-30T02:57:38.731856+00:00"
+    },
+    "https://i.ytimg.com/vi/FZBmVQR7bvI/hqdefault.jpg": {
+      "filename": "youtube_f1cc7cb201f7a755.jpg",
+      "source": "youtube",
+      "title": "[Morimens] Short Dtide Coaching",
+      "time": "2026-09-29T18:18:32Z",
+      "downloaded_at": "2026-09-30T02:57:39.082479+00:00"
+    },
+    "https://i.ytimg.com/vi/OwVcCnokCnI/hqdefault_live.jpg": {
+      "filename": "youtube_2a235bdfabe0920d.jpg",
+      "source": "youtube",
+      "title": "Directo relax Morimens",
+      "time": "2026-09-29T23:10:31Z",
+      "downloaded_at": "2026-09-30T02:57:39.796489+00:00"
+    },
+    "https://i.ytimg.com/vi/BF8ukg7BDqM/hqdefault.jpg": {
+      "filename": "youtube_4b9c26a240ba7daf.jpg",
+      "source": "youtube",
+      "title": "Zone 4 with Corposant 29.09.2026 (Aequor rotation)",
+      "time": "2026-09-29T18:00:16Z",
+      "downloaded_at": "2026-09-30T02:57:40.225004+00:00"
     }
   },
   "failed": {
@@ -267,6 +295,11 @@
       "source": "bilibili",
       "reason": "download_failed",
       "attempted_at": "2026-09-29T17:26:03.451056+00:00"
+    },
+    "//i1.hdslb.com/bfs/archive/22d6a2c12b98107fac21f23ea156c8081fc84d6d.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-09-30T02:57:39.382854+00:00"
     }
   },
   "archived": []
