@@ -1,45 +1,55 @@
 {
   "date": "2026-09-30",
-  "messages": 8538,
+  "messages": 13609,
   "unique_authors": 251,
-  "reactions_total": 908,
-  "attachments": 381,
+  "reactions_total": 1395,
+  "attachments": 669,
   "channel_activity": {
-    "🔸綜合討論": 505,
-    "🔸morimens-game-chat": 4705,
-    "🔸剧情交流": 15,
-    "🔸课间休息闲聊": 20,
-    "🔸deutscher-chatraum": 1,
-    "🔸русский-канал": 1,
-    "🔸phòng-chat-tiếng-việt": 117,
+    "🔸綜合討論": 882,
+    "🔸morimens-game-chat": 7570,
+    "🔸剧情交流": 91,
+    "🔸晒卡分享": 1,
+    "🔸欢乐梗图": 1,
+    "🔸课间休息闲聊": 391,
+    "🔸한국어-채팅방": 13,
+    "🔸deutscher-chatraum": 3,
+    "🔸русский-канал": 5,
+    "🔸phòng-chat-tiếng-việt": 683,
+    "🔸canal-português": 15,
+    "🔸ruang-obrolan-indonesia": 161,
+    "🔸ห้องสนทนาภาษาไทย": 161,
+    "🔸traphase": 27,
+    "🔸lore-chat": 54,
+    "🔸team-building": 303,
+    "🔸general-chat": 1532,
+    "🔸game-question": 1364,
+    "🔸机器人命令┊bot-commands": 36,
+    "人在做怪事的時候總是特別有動力": 6,
+    "Would be great to have replay filter sort by number of turn clear.": 3,
+    "關卡優化": 1,
+    "Measurer sealing rouse": 2,
+    "🐘 Unresolved elephants 🐘": 38,
+    "Dtide is out of control.": 5,
+    "The Counter archetype has been forgotten?": 37,
+    "Balance problem and enemy stats inflation": 3,
+    "Alternate realms Enhancement": 16,
+    "NOT ANSWERED: Jenkins": 110,
+    "V2.5.1.0 停服维护公告": 16,
+    "📢 「官方素材」频道使用说明丨Official Assets Channel - Guide": 2,
+    "Ramona is holding her sword wrong": 1,
+    "【新人帮助】论坛介绍": 2,
     "🔸canal-español": 23,
-    "🔸canal-português": 14,
-    "🔸ruang-obrolan-indonesia": 32,
-    "🔸ห้องสนทนาภาษาไทย": 21,
-    "🔸traphase": 15,
-    "🔸lore-chat": 32,
-    "🔸team-building": 249,
-    "🔸general-chat": 1314,
     "🔸邀请码互助┊swap-invitation-codes": 6,
-    "🔸game-question": 1244,
-    "🔸机器人命令┊bot-commands": 27,
     "WoD QoL": 2,
     "\"Card Seal\" also seals Rouse": 1,
     "Been stuck on \"entering game\" screen for 3 days now": 1,
-    "🐘 Unresolved elephants 🐘": 3,
     "Buff for older and standard units?": 1,
     "A button for clearing all the configured Awakeners, WoDs, Covenants and Posse of a team slot": 1,
     "Why doesn't this wave 4 dtide rotation have icefield?": 1,
-    "Dtide is out of control.": 3,
-    "The Counter archetype has been forgotten?": 25,
     "Rework GOgier and Address the Treatment of Male Characters": 3,
-    "Alternate realms Enhancement": 14,
     "Pls give out origin of time for limited awakener & wheels": 2,
-    "NOT ANSWERED: Jenkins": 98,
     "Please rework how Propagation Caro works for the future units": 2,
     "💭「Processing」My team got its Covenants some Wheels unequipped or changed, and my Posse was changed.": 1,
-    "V2.5.1.0 停服维护公告": 8,
-    "📢 「官方素材」频道使用说明丨Official Assets Channel - Guide": 1,
     "An Apology and Further Adjustments to the D-Effect Zone": 3,
     "Hello people im new here :>": 7,
     "Sticklet's doodle/art dump": 1,
@@ -51,6 +61,14 @@
     "Impact of Version 2.6 Affinity Changes on Player Experience": 1
   },
   "hourly_activity": {
+    "14": 556,
+    "15": 637,
+    "16": 779,
+    "17": 835,
+    "18": 944,
+    "19": 891,
+    "20": 153,
+    "13": 439,
     "1": 681,
     "2": 437,
     "3": 327,
@@ -61,15 +79,14 @@
     "10": 846,
     "11": 970,
     "12": 1102,
-    "13": 163,
     "4": 737,
     "6": 448,
     "0": 555
   },
   "message_types": {
-    "0": 5573,
-    "19": 2948,
-    "20": 17
+    "19": 4424,
+    "0": 9154,
+    "20": 31
   },
   "top_reacted_messages": [
     {
@@ -79,6 +96,14 @@
       "author": "ahuahuahua",
       "reactions": 9,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554791826060349440",
+      "channel_id": "1554791826060349440",
+      "content": "發瘋啊這個人",
+      "author": "yukirin9591",
+      "reactions": 8,
+      "channel": "人在做怪事的時候總是特別有動力"
     },
     {
       "id": "1554607748770168994",
@@ -135,6 +160,22 @@
       "author": "mosske",
       "reactions": 6,
       "channel": "moss’s art dump"
+    },
+    {
+      "id": "1554765213125840916",
+      "channel_id": "1131839817982947429",
+      "content": "這隻是偷爽沒<:Vulnerable:1546814476186288138>",
+      "author": "nemu_s_t_a_r",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1554825693798342767",
+      "channel_id": "1131839817982947429",
+      "content": "有大佬可以草死我嗎",
+      "author": "ahuahuahua",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
     },
     {
       "id": "1554716363019391097",
@@ -201,36 +242,12 @@
       "channel": "Hello people im new here :>"
     },
     {
-      "id": "1554552282668863519",
-      "channel_id": "1170692781216378960",
-      "content": "This is why we don't have data miners because there's nothing to datamine",
-      "author": "thereaperinthedresss",
+      "id": "1554752188603957288",
+      "channel_id": "1131839817982947429",
+      "content": "终末地的新问卷hhhhh",
+      "author": "xyakoto",
       "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554652319197700147",
-      "channel_id": "1170692781216378960",
-      "content": "you are all just fake and lame... pchaos 24 my beloved...........",
-      "author": "bunnycide420",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554658016668946475",
-      "channel_id": "1170692781216378960",
-      "content": "Playing Vortice without her Posse? Easily done.",
-      "author": "anicillia",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554660616969650269",
-      "channel_id": "1170692781216378960",
-      "content": "I thought heal was more important so I levelled doll initially",
-      "author": "angbak",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
+      "channel": "🔸綜合討論"
     }
   ]
 }
