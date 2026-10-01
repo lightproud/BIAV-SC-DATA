@@ -115,7 +115,7 @@ jobs:
         run: python projects/news/scripts/repair_gaps.py
 
       - name: Refresh silent-source health report
-        run: python projects/news/scripts/silent_sources_audit.py --write
+        run: python projects/news/scripts/silent_sources_audit.py --write --check-source-freshness
 
       - name: Core-source health gate (non-blocking alarm)
         id: health_gate
@@ -187,7 +187,7 @@ jobs:
           EXISTING=$(gh issue list --state open --search "\"$TITLE\" in:title" --json number --jq 'length')
           if [ "$EXISTING" = "0" ]; then
             gh issue create --title "$TITLE" \
-              --body "silent_sources_audit --strict 触发告警（核心源零产出/长期沉默，或单源单轮校验丢弃 >= 50 条——后者意味着采集在产出但被校验层扔掉，查 VALID_SOURCES/必填字段契约是否漂移）。具体原因见运行日志 [健康门控] 行。运行: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}。详见 projects/news/data/source-health.json 与 validation-drops.json。"
+              --body "silent_sources_audit --strict 触发告警（核心源零产出/长期沉默，或单源单轮校验丢弃 >= 50 条——后者意味着采集在产出但被校验层扔掉，查 VALID_SOURCES/必填字段契约是否漂移）。具体原因见运行日志 [健康门控] 行。运行: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}。详见 projects/news/data/source-health.json 与 validation-drops.json。source_date_checks 只核对部分沉默叶的最新公开日期；unverified 表示未核实，no_newer_source_date 不证明采集完整，告警阈值未改变。"
           else
             echo "Alert issue already open, skipping"
           fi

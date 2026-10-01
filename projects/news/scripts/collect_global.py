@@ -189,7 +189,7 @@ def run_zero_cost_collectors() -> list[dict]:
     # 显示名 → source_id（与 archive/split 对齐）
     NAME_TO_SOURCE_ID = {
         'Reddit': 'reddit', 'Bilibili': 'bilibili',
-        'Steam News': 'steam', 'Steam Reviews': 'steam_review',
+        'Steam News': 'official', 'Steam Reviews': 'steam',
         'Steam Discussions': 'steam_discussion',
         'Weibo': 'weibo', 'App Store': 'appstore',
         'Pixiv': 'pixiv', 'Note.com': 'note_com', 'Ruliweb': 'ruliweb',
