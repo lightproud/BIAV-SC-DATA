@@ -611,6 +611,11 @@ def _collect_weibo_cards(cards, items):
     """把一页搜索卡片解析成标准 item 追加进 items。"""
     for card in cards:
         mblog = card.get("mblog", {})
+        from weibo_common import metrics
+        engagement, metadata = metrics(
+            mblog.get("reposts_count"), mblog.get("comments_count"),
+            mblog.get("attitudes_count"))
+        metadata['author_is_unknown'] = not bool((mblog.get("user") or {}).get("screen_name"))
         parsed_time, time_approx = _parse_weibo_time(mblog.get("created_at", ""))
         text_clean = re.sub(r"<[^>]+>", "", mblog.get("text", ""))
 
@@ -621,12 +626,12 @@ def _collect_weibo_cards(cards, items):
             platform_region="cn",
             time_str=parsed_time,
             url=f"https://m.weibo.cn/detail/{mblog.get('id', '')}",
-            engagement=(mblog.get("reposts_count", 0) + mblog.get("comments_count", 0)
-                        + mblog.get("attitudes_count", 0)),
-            is_hot=mblog.get("attitudes_count", 0) > 500,
-            author=mblog.get("user", {}).get("screen_name", ""),
+            engagement=engagement,
+            is_hot=(metadata["likes_count"] or 0) > 500,
+            author=(mblog.get("user") or {}).get("screen_name", ""),
             lang="zh",
         )
+        item["metadata"] = metadata
         if time_approx:
             item["time_is_approximate"] = True
         items.append(item)
