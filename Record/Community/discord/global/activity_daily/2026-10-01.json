@@ -1,50 +1,131 @@
 {
   "date": "2026-10-01",
-  "messages": 3825,
+  "messages": 6248,
   "unique_authors": 148,
-  "reactions_total": 372,
-  "attachments": 126,
+  "reactions_total": 632,
+  "attachments": 233,
   "channel_activity": {
-    "🔸綜合討論": 401,
-    "🔸morimens-game-chat": 1864,
+    "🔸綜合討論": 451,
+    "🔸morimens-game-chat": 3027,
+    "🔸晒卡分享": 6,
+    "🔸欢乐梗图": 1,
+    "🔸русский-канал": 37,
+    "🔸phòng-chat-tiếng-việt": 36,
+    "🔸canal-português": 95,
+    "🔸ruang-obrolan-indonesia": 116,
+    "🔸traphase": 53,
+    "🔸lore-chat": 75,
+    "🔸lets-count": 2,
+    "🔸team-building": 656,
+    "🔸general-chat": 934,
+    "🔸邀请码互助┊swap-invitation-codes": 1,
+    "🔸game-question": 541,
+    "🔸机器人命令┊bot-commands": 12,
+    "人在做怪事的時候總是特別有動力": 2,
+    "堆图ing": 2,
+    "Dtide is out of control.": 12,
+    "Doresain Exalt value < casually cast 2 Cost AA Gogier": 2,
+    "Pls give out origin of time for limited awakener & wheels": 1,
+    "NOT ANSWERED: Jenkins": 2,
+    "Please rework how Propagation Caro works for the future units": 13,
+    "V2.5.1.0 停服维护公告": 1,
+    "morimens team generator!!": 1,
+    "【English Translation】Opinions Collection": 2,
+    "I am wondering what realm I should pull for the before memories fade banner": 2,
     "🔸剧情交流": 5,
-    "🔸晒卡分享": 5,
     "🔸课间休息闲聊": 15,
     "🔸한국어-채팅방": 2,
     "🔸deutscher-chatraum": 2,
-    "🔸русский-канал": 12,
-    "🔸phòng-chat-tiếng-việt": 16,
     "🔸canal-español": 115,
-    "🔸canal-português": 77,
-    "🔸ruang-obrolan-indonesia": 93,
     "🔸ห้องสนทนาภาษาไทย": 21,
-    "🔸traphase": 44,
-    "🔸lore-chat": 59,
-    "🔸team-building": 250,
-    "🔸general-chat": 406,
-    "🔸game-question": 417,
-    "🔸机器人命令┊bot-commands": 5,
     "真的能放到教室裡嗎？？": 1,
-    "Dtide is out of control.": 10,
     "When will a passive ability be added to these characters?": 1,
     "汀克特旺達「本回合下次躍遷必定觸發」變不可疊加了？can’t use Tinct & Wanda “The next Leap this turn is guaranteed” in a roll?": 1,
-    "NOT ANSWERED: Jenkins": 1,
     "「官方素材」頻道使用說明": 1,
     "Nefraea + Arachne Posting": 1
   },
   "hourly_activity": {
+    "3": 819,
+    "4": 693,
+    "5": 553,
+    "6": 466,
+    "8": 204,
+    "7": 489,
     "0": 973,
     "1": 1020,
-    "2": 1031,
-    "3": 801
+    "2": 1031
   },
   "message_types": {
-    "0": 2543,
-    "23": 1,
-    "19": 1275,
-    "20": 6
+    "0": 4078,
+    "19": 2156,
+    "23": 2,
+    "20": 12
   },
   "top_reacted_messages": [
+    {
+      "id": "1554957486140948510",
+      "channel_id": "1170692781216378960",
+      "content": "She grew",
+      "author": "zicma",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554959510085439622",
+      "channel_id": "1170692781216378960",
+      "content": "\"Daff is top tier\"\n\n-sun tzu the art of war",
+      "author": "gersona6",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554995982222233651",
+      "channel_id": "1170692781216378960",
+      "content": "Speaking of chapter 7, I think if my dms to my friend after I unlocked rep frenz",
+      "author": "stargnh",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555006447962816604",
+      "channel_id": "1170692781216378960",
+      "content": "i do not but i just dont care enough",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554986298337398805",
+      "channel_id": "1170692781216378960",
+      "content": "sorry to hear",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1554989368224260268",
+      "channel_id": "1170692781216378960",
+      "content": "Adieu",
+      "author": "serahh__",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555006220950052915",
+      "channel_id": "1170692781216378960",
+      "content": "Looks mid 😅",
+      "author": "lordvador0656",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555000233216446556",
+      "channel_id": "1400750050208125010",
+      "content": "I've never really been to any fast food restaurants",
+      "author": "pacchag",
+      "reactions": 4,
+      "channel": "🔸general-chat"
+    },
     {
       "id": "1554898407535943791",
       "channel_id": "1131839817982947429",
@@ -94,116 +175,52 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1554892739982921731",
+      "id": "1554977821653213339",
       "channel_id": "1131839817982947429",
-      "content": "其实我是纯正的繁衍狂热剧情党",
-      "author": "kemomimi_",
+      "content": "一款很早的黃油",
+      "author": "vgvfvffcc",
       "reactions": 3,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1554901766384914634",
-      "channel_id": "1131839817982947429",
-      "content": "不听语音",
-      "author": "kemomimi_",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1554887388973629604",
+      "id": "1554960030770397310",
       "channel_id": "1170692781216378960",
-      "content": "He is a cool bean",
-      "author": "unknowable3333",
+      "content": "He did no say that",
+      "author": "gersona6",
       "reactions": 3,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1554888671465836676",
+      "id": "1554960177617436745",
       "channel_id": "1170692781216378960",
-      "content": "LET'S GO I FORGOT MONTHLY RESET WAS TONIGHT",
-      "author": "mosske",
+      "content": "Let's play barricade <:Saya_duel:1513123467917135903>",
+      "author": "moyashi0672",
       "reactions": 3,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1554888782908752037",
+      "id": "1554962798306525295",
       "channel_id": "1170692781216378960",
-      "content": "NO LUCK NEEDED IT'S JUST THE HORIZON",
-      "author": "mosske",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554892793422549139",
-      "channel_id": "1170692781216378960",
-      "content": "i'm almost done with the corpo art",
-      "author": "mosske",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554893587244916777",
-      "channel_id": "1170692781216378960",
-      "content": "Morimens podcast between creators",
-      "author": "crowlov1",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554894469676007549",
-      "channel_id": "1170692781216378960",
-      "content": "REALLY, think about It.\n\nWe put Reya Dom Ellie Kaly and yes, believe it or not, ",
-      "author": "crowlov1",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554899693434052629",
-      "channel_id": "1170692781216378960",
-      "content": "still haven't even finished doresain chap on normal",
-      "author": "mosske",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554930269021020210",
-      "channel_id": "1170692781216378960",
-      "content": "Heh..... I just like nuking people with Lily in Trap",
+      "content": "my game just crashed",
       "author": "brainrot_in_a_vat",
       "reactions": 3,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1554936589128568852",
+      "id": "1554966741770043403",
       "channel_id": "1170692781216378960",
-      "content": "Woah no way, twins!",
-      "author": "zicma",
+      "content": "She threatened me with touching me. She's gonna pitch a baseball at my skull.",
+      "author": "shanhaijingactivist",
       "reactions": 3,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1554939450428235827",
+      "id": "1554967108373184662",
       "channel_id": "1170692781216378960",
-      "content": "dont have anyone else",
-      "author": "asharpiemarker",
+      "content": "",
+      "author": "princess.goth",
       "reactions": 3,
       "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554891761506320385",
-      "channel_id": "1173463482503536711",
-      "content": "~~所有角色都可以是女性啊對吧~~",
-      "author": "yusi4172",
-      "reactions": 3,
-      "channel": "🔸剧情交流"
-    },
-    {
-      "id": "1554912312085712978",
-      "channel_id": "1300659718653476925",
-      "content": "Primeiras palavras ao ver o personagem: \"Uau~\"",
-      "author": "vinny6658",
-      "reactions": 3,
-      "channel": "🔸canal-português"
     }
   ]
 }
