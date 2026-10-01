@@ -33,6 +33,7 @@ import requests
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import news_common  # 采集层共享工具（HTTP/HTML-strip/item 单一真源，ARCH-01/02）
 from prtimes_collector import fetch_prtimes
+from four_gamer_collector import fetch_four_gamer
 from sources import REGION_APPS  # 区服 app 标识单一真相源（2026-06-21 采集源命名规范）
 
 logging.basicConfig(

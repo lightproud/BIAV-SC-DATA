@@ -127,7 +127,7 @@ class TestFailureAggregation(unittest.TestCase):
             "Steam Discussions": "fetch_steam_discussions",
             "Weibo": "fetch_weibo",
             "App Store": "fetch_appstore_reviews", "Pixiv": "fetch_pixiv",
-            "Note.com": "fetch_note_com", "PR TIMES": "fetch_prtimes", "Ruliweb": "fetch_ruliweb",
+            "Note.com": "fetch_note_com", "PR TIMES": "fetch_prtimes", "4Gamer": "fetch_four_gamer", "Ruliweb": "fetch_ruliweb",
             "StopGame": "fetch_stopgame", "搜狗微信": "fetch_weixin",
             "YouTube": "fetch_youtube",
             "Bahamut": "fetch_bahamut",
