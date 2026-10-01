@@ -34,6 +34,7 @@ KNOWN_SOURCES = [
     # 日语扩展
     'note_com',
     'prtimes',
+    'four_gamer',
     # 韩语扩展
     'ruliweb',
     # 俄语平台
@@ -68,7 +69,7 @@ SOURCE_ALIASES = {
 
 # 稀疏源（split_output + collect_global 历史两份清单的并集）
 SPARSE_SOURCES = {
-    'official', 'prtimes',
+    'official', 'prtimes', 'four_gamer',
     'appstore', 'google_play',
     'weixin',
     'pixiv',
