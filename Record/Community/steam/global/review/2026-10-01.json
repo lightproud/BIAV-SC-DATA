@@ -1,8 +1,8 @@
 {
   "date": "2026-10-01",
-  "archived_at": "2026-10-01T12:03:38.546642+00:00",
+  "archived_at": "2026-10-01T19:59:23.486154+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "[正面] A jogabilidade é daora e tem uma história que te p...",
@@ -23,6 +23,29 @@
         "playtime_forever": 1108,
         "votes_up": 0,
         "timestamp_created": 1790836642
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 卡",
+      "summary": "卡",
+      "source": "steam_review",
+      "time": "2026-10-01T15:02:56+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199873725906/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199873725906",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3536,
+        "votes_up": 0,
+        "timestamp_created": 1790866976
       },
       "region": "global",
       "archive_subtype": "review"

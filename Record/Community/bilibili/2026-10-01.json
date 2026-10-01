@@ -1,9 +1,43 @@
 {
   "date": "2026-10-01",
-  "archived_at": "2026-10-01T12:03:37.748208+00:00",
+  "archived_at": "2026-10-01T19:59:21.853183+00:00",
   "source": "bilibili",
-  "item_count": 3,
+  "item_count": 5,
   "items": [
+    {
+      "title": "忘却前夜 恐怖宙音汀暴打乐园 癫狂列车",
+      "summary": "道中疯狂蠕动...\n有阿拉克涅的话应该会好打不少\n\n背景音乐：\nElliot Hsu - &quot;Turbulent Hearts&quot;\nARForest - &quot;The Unattended&quot;\nElliot Hsu - &quot;Frailty Of The Isolated&quot;",
+      "source": "bilibili",
+      "time": "2026-10-01T14:29:30+00:00",
+      "url": "https://www.bilibili.com/video/av117366105053077",
+      "engagement": 214,
+      "is_hot": false,
+      "author": "夢遊遊遊遊",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/03d7cab8fe91ee48bf91f9bf69d27c455990ff35.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】人偶演算尤乌+莱克过融灾5-7",
+      "summary": "国庆了，终于有时间玩了）\n感谢@步饷罔了 帮忙凹的尤乌专\n因为塔薇打起来挺轻松的，所以玩的比较放松随意），爆发对轴之类的技巧基本上没用上，随便看看就好，没啥参考性（虽然也没几个人玩尤乌（））\n什么时候n7能进门自选我尤专造，扣我100黑印也行，反正进门都要凹（，还不用花那么多时间浪费在凹专造上\n尤乌副手带演算的原因：15额外狂气获得，+12的本身自带14.4狂气回充，开大给200银钥。除了12写实（写实如果回合拖长了也不如演算）外回转最强的副手，打限牌怪再合适不过",
+      "source": "bilibili",
+      "time": "2026-10-01T15:08:37+00:00",
+      "url": "https://www.bilibili.com/video/av117366272824419",
+      "engagement": 126,
+      "is_hot": false,
+      "author": "跳段木偶舞",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/921dc5aad7273d7118c59a1a0d42efb1cbdc5591.jpg",
+      "content_type": "video"
+    },
     {
       "title": "忘却前夜抽卡数据网站抓包讲解",
       "summary": "我不知道这个抓包程序能不能使用，对此还是感到担心，所以就不打算进行上传，懂行的希望可以联系我，给我提一些建议，如果有人想要参考，可以在github去找那个人的脚本程序",
