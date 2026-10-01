@@ -10,12 +10,15 @@ Tested and working:
 """
 
 import logging
+import os
+from urllib.parse import urlencode, urljoin
 import sys
 from datetime import datetime, UTC
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import news_common  # 时间归一单一真源（H4）
+from weibo_common import metrics
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
 logger = logging.getLogger(__name__)
@@ -56,12 +59,34 @@ def _parse_weibo_article(article) -> dict:
         time_text = time_el.get_attribute('datetime') or time_el.inner_text().strip()
     parsed_time, time_approx = _parse_relative_time(time_text)
 
-    link_el = article.query_selector('a[href*="status"]')
-    href = ''
-    if link_el:
-        href = link_el.get_attribute('href') or ''
-        if href and not href.startswith('http'):
-            href = f'https://m.weibo.cn{href}'
+    link_el = article.query_selector('a[href*="status"], a[href*="/detail/"]')
+    raw_href = link_el.get_attribute('href') if link_el else ''
+    href = urljoin('https://m.weibo.cn', raw_href) if raw_href else ''
+    href = href.replace('/status/', '/detail/').split('?')[0]
+    author_el = article.query_selector('.m-text-cut, .username, a[href*="/u/"]')
+    author = author_el.inner_text().strip() if author_el else ''
+    labels = {
+        'reposts': '[data-count="reposts"], .reposts, [class*="repost"]',
+        'comments': '[data-count="comments"], .comments, [class*="comment-count"]',
+        'likes': '[data-count="likes"], .likes, [class*="like-count"]',
+    }
+    counts = {}
+    for key, selector in labels.items():
+        element = article.query_selector(selector)
+        counts[key] = (element.get_attribute('data-value') or element.inner_text()) if element else None
+    # Mobile footer buttons identify the metric by label or icon, never by order.
+    for button in article.query_selector_all('.m-diy-btn, .card-act li'):
+        text = button.inner_text().strip()
+        for key, words, icon in (
+            ('reposts', ('转发', '轉發'), 'i[class*="retweet"]'),
+            ('comments', ('评论', '評論'), 'i[class*="comment"]'),
+            ('likes', ('赞', '讚'), 'i[class*="like"]'),
+        ):
+            if any(word in text for word in words) or button.query_selector(icon):
+                counts[key] = text
+                break
+    engagement, metadata = metrics(**counts)
+    metadata['author_is_unknown'] = not bool(author)
 
     item = {
         'title': text[:80],
@@ -69,9 +94,10 @@ def _parse_weibo_article(article) -> dict:
         'source': 'weibo',
         'time': parsed_time,
         'url': href,
-        'engagement': 0,
-        'is_hot': False,
-        'author': '',
+        'engagement': engagement,
+        'is_hot': (metadata['likes_count'] or 0) > 500,
+        'author': author,
+        'metadata': metadata,
         'tags': ['weibo'],
     }
     if time_approx:
@@ -130,48 +156,71 @@ def _parse_bahamut_row(row) -> dict:
     }
 
 
-def fetch_weibo_playwright() -> list[dict]:
-    """
-    Fetch Weibo search results using mobile version.
-    Tested: 15 articles found with content.
-    """
+def _collect_weibo_search(page, seen, max_rounds):
+    """Bounded scrolling; stop after two consecutive snapshots add no new items."""
     items = []
+    stalled = 0
+    for _ in range(max_rounds):
+        added = 0
+        for article in page.query_selector_all('article'):
+            try:
+                item = _parse_weibo_article(article)
+                if item is None:
+                    continue
+                key = item['url'] or (item['summary'], item['author'])
+                if key not in seen:
+                    seen.add(key)
+                    items.append(item)
+                    added += 1
+            except Exception as exc:
+                logger.debug('微博 article 解析失败: %s', type(exc).__name__)
+        stalled = 0 if added else stalled + 1
+        if stalled >= 2:
+            break
+        try:
+            page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
+            page.wait_for_timeout(2000)
+        except Exception as exc:
+            logger.warning('微博滚动中断: %s', type(exc).__name__)
+            break  # Preserve entries already read from earlier snapshots.
+    return items
 
+
+def fetch_weibo_playwright() -> list[dict]:
+    """API fallback: simplified/traditional searches with bounded infinite scroll."""
+    items = []
+    seen = set()
+    max_rounds = max(1, min(news_common.env_int('WEIBO_MAX_PAGES', 5), 20))
     try:
         from playwright.sync_api import sync_playwright
-
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
-            page = browser.new_page()
-            page.set_default_timeout(TIMEOUT_MS)
-
-            # 移动版无需登录
-            url = 'https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BF%98%E5%8D%B4%E5%89%8D%E5%A4%9C'
-            logger.info('微博: 访问移动版')
-            page.goto(url, wait_until='networkidle')
-            page.wait_for_timeout(3000)
-
-            articles = page.query_selector_all('article')
-            logger.info(f'微博: 找到 {len(articles)} 条微博')
-
-            for article in articles[:20]:
-                try:
-                    item = _parse_weibo_article(article)
-                    if item is not None:
-                        items.append(item)
-                # 逐条解析是 best-effort（页面结构常变，单条失败不该毁掉整轮），但
-                # 原先的裸 `except Exception: continue` 连解析器**自己写崩**都一起
-                # 吞掉——结构改版导致的全军覆没与「今天就是没几条」长得一模一样。
-                # 照旧不中断，但出声：条数对不上时日志里有据可查。
-                except Exception as exc:
-                    logger.debug(f'跳过一条解析失败的article: {type(exc).__name__}: {exc}')
-                    continue
-
-            browser.close()
-    except Exception as e:
-        logger.warning(f'微博 Playwright 失败: {e}')
-
-    logger.info(f'微博 Playwright: fetched {len(items)} items')
+            try:
+                page = browser.new_page()
+                page.set_default_timeout(TIMEOUT_MS)
+                cookie = os.environ.get('WEIBO_COOKIE', '')
+                if cookie:
+                    page.context.add_cookies([
+                        {'name': name.strip(), 'value': value.strip(),
+                         'domain': '.weibo.cn', 'path': '/'}
+                        for part in cookie.split(';') if '=' in part
+                        for name, value in [part.split('=', 1)] if name.strip()
+                    ])
+                for keyword in ('忘却前夜', '忘卻前夜'):
+                    try:
+                        url = 'https://m.weibo.cn/search?' + urlencode({
+                            'containerid': f'100103type=1&q={keyword}'})
+                        page.goto(url, wait_until='domcontentloaded')
+                        page.wait_for_timeout(3000)
+                        items.extend(_collect_weibo_search(page, seen, max_rounds))
+                    except Exception as exc:
+                        # Avoid echoing a request/header that could contain cookies.
+                        logger.warning('微博 PW 搜索失败 (%s): %s', keyword, type(exc).__name__)
+            finally:
+                browser.close()
+    except Exception as exc:
+        logger.warning('微博 Playwright 失败: %s', type(exc).__name__)
+    logger.info('微博 Playwright: fetched %s items', len(items))
     return items
 
 
