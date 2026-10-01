@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-02",
+  "messages": 2193,
+  "unique_authors": 105,
+  "reactions_total": 223,
+  "attachments": 83,
+  "channel_activity": {
+    "🔸綜合討論": 15,
+    "🔸morimens-game-chat": 887,
+    "🔸剧情交流": 3,
+    "🔸相位对弈": 2,
+    "🔸русский-канал": 8,
+    "🔸phòng-chat-tiếng-việt": 207,
+    "🔸canal-español": 21,
+    "🔸ruang-obrolan-indonesia": 9,
+    "🔸traphase": 5,
+    "🔸lore-chat": 57,
+    "🔸team-building": 15,
+    "🔸general-chat": 582,
+    "🔸邀请码互助┊swap-invitation-codes": 1,
+    "🔸game-question": 379,
+    "🔸机器人命令┊bot-commands": 1,
+    "Where are you staying?": 1
+  },
+  "hourly_activity": {
+    "0": 989,
+    "1": 1099,
+    "2": 105
+  },
+  "message_types": {
+    "0": 1440,
+    "19": 751,
+    "20": 2
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1555252048902103092",
+      "channel_id": "1170692781216378960",
+      "content": "you could never scare me rich white woman",
+      "author": "princess.goth",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555259523898417154",
+      "channel_id": "1170692781216378960",
+      "content": "could be us",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555249682274582529",
+      "channel_id": "1170692781216378960",
+      "content": "Had a dream about the upcoming 2.7 buffs today, but instead of kit adjustments, ",
+      "author": "sirtealot",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555254994406477955",
+      "channel_id": "1170692781216378960",
+      "content": "i scrolled yaoi akiangel edits during the credits of the movie",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555257022071709840",
+      "channel_id": "1170692781216378960",
+      "content": "okay whatever im changing pfps",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555250167203111023",
+      "channel_id": "1170692781216378960",
+      "content": "nerfing gmurphy's skirt length",
+      "author": "chronically.distracted",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555257984131670079",
+      "channel_id": "1170692781216378960",
+      "content": "I care about Larplax more than i care about you heh (jk)",
+      "author": "verdy_heh",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555260609740931155",
+      "channel_id": "1170692781216378960",
+      "content": "last word is un needed",
+      "author": "gersona6",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555261160545062963",
+      "channel_id": "1170692781216378960",
+      "content": "night night vyvy",
+      "author": "princess.goth",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555267016137506831",
+      "channel_id": "1170692781216378960",
+      "content": "just pretend it's a bot",
+      "author": "direhands",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555274918713630885",
+      "channel_id": "1170692781216378960",
+      "content": "buff tulu",
+      "author": "princess.goth",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555275025291022417",
+      "channel_id": "1300659603993923644",
+      "content": "cách 1 nửa vấn đề của lemumu đc giải queyt16",
+      "author": "wolfyy1",
+      "reactions": 3,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1555261712125657118",
+      "channel_id": "1300659662311526512",
+      "content": "AL FIN LO LOGRÉ",
+      "author": "datastormed",
+      "reactions": 3,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1555252772742627379",
+      "channel_id": "1170692781216378960",
+      "content": "for me? <:Horla_Rizz:1502267926353543219>",
+      "author": "princess.goth",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555253452878118985",
+      "channel_id": "1170692781216378960",
+      "content": "only if u wear the goth makeup to a fine dining restaurant as discussed previous",
+      "author": "mosske",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555253970992373851",
+      "channel_id": "1170692781216378960",
+      "content": "I had a good day <:merublanket:645304127282217000> I got 335 in d tide! how was ",
+      "author": "unknowable3333",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555255763134320641",
+      "channel_id": "1170692781216378960",
+      "content": "god i need to rewatch that movie like NOW",
+      "author": "princess.goth",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555255857447440455",
+      "channel_id": "1170692781216378960",
+      "content": "princess bride diff though",
+      "author": "direhands",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555256894153691238",
+      "channel_id": "1170692781216378960",
+      "content": "Ellie was a vtuber all along",
+      "author": "azaenya",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555256978933293120",
+      "channel_id": "1170692781216378960",
+      "content": "I see",
+      "author": "serahh__",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
