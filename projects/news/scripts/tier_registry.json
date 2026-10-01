@@ -124,6 +124,10 @@
     "sources": {
       "tier": "shared",
       "why": "采集源单一真相源：9 个消费者横跨 T1/T2/T3"
+    },
+    "prtimes_collector": {
+      "tier": "T1",
+      "why": "日本发行方 PR TIMES 公开 RSS 与官方新闻正文采集，供 collect_global 调度"
     }
   }
 }

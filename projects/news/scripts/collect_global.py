@@ -168,6 +168,7 @@ def run_zero_cost_collectors() -> list[dict]:
         ('App Store', c.fetch_appstore_reviews),
         ('Pixiv', c.fetch_pixiv),
         ('Note.com', c.fetch_note_com),
+        ('PR TIMES', c.fetch_prtimes),
         ('Ruliweb', c.fetch_ruliweb),
         ('StopGame', c.fetch_stopgame),
         ('搜狗微信', c.fetch_weixin),
@@ -191,7 +192,7 @@ def run_zero_cost_collectors() -> list[dict]:
         'Steam Discussions': 'steam_discussion',
         'Weibo': 'weibo', 'App Store': 'appstore',
         'Pixiv': 'pixiv', 'Note.com': 'note_com', 'Ruliweb': 'ruliweb',
-        'StopGame': 'stopgame', '搜狗微信': 'weixin',
+        'StopGame': 'stopgame', '搜狗微信': 'weixin', 'PR TIMES': 'prtimes',
         'YouTube': 'youtube',
         'Bahamut': 'bahamut',
         'Google Play': 'google_play',
@@ -475,3 +476,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

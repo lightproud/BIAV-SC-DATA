@@ -33,6 +33,7 @@ KNOWN_SOURCES = [
     'pixiv',
     # 日语扩展
     'note_com',
+    'prtimes',
     # 韩语扩展
     'ruliweb',
     # 俄语平台
@@ -67,7 +68,7 @@ SOURCE_ALIASES = {
 
 # 稀疏源（split_output + collect_global 历史两份清单的并集）
 SPARSE_SOURCES = {
-    'official',
+    'official', 'prtimes',
     'appstore', 'google_play',
     'weixin',
     'pixiv',
@@ -161,3 +162,4 @@ def archive_platform(raw: str) -> str:
     """归档 platform 段：先 normalize_source，再按 steam 家族折叠（仅归档层用）。"""
     s = normalize_source(raw)
     return ARCHIVE_PLATFORM_FOLD.get(s, s)
+
