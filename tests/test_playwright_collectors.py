@@ -29,6 +29,9 @@ class FakeEl:
     def query_selector(self, selector):
         return self._children.get(selector)
 
+    def query_selector_all(self, selector):
+        return []
+
 
 class TestParseRelativeTime(unittest.TestCase):
     def test_delegates_to_news_common(self):
@@ -45,7 +48,7 @@ class TestParseWeiboArticle(unittest.TestCase):
     def _article(self, text, time_el=None, link_el=None):
         children = {'.weibo-text, .content, p': FakeEl(text=text)}
         children['time, [class*="time"], [class*="date"]'] = time_el
-        children['a[href*="status"]'] = link_el
+        children['a[href*="status"], a[href*="/detail/"]'] = link_el
         return FakeEl(children=children)
 
     def test_no_text_element_returns_none(self):
@@ -92,14 +95,14 @@ class TestParseWeiboArticle(unittest.TestCase):
         item = pc._parse_weibo_article(
             self._article("足够长的正文内容用于链接解析测试", link_el=link_el)
         )
-        self.assertEqual(item["url"], "https://m.weibo.cn/status/12345")
+        self.assertEqual(item["url"], "https://m.weibo.cn/detail/12345")
 
     def test_absolute_href_kept(self):
         link_el = FakeEl(attrs={"href": "https://m.weibo.cn/status/9"})
         item = pc._parse_weibo_article(
             self._article("足够长的正文内容用于绝对链接测试", link_el=link_el)
         )
-        self.assertEqual(item["url"], "https://m.weibo.cn/status/9")
+        self.assertEqual(item["url"], "https://m.weibo.cn/detail/9")
 
 
 class TestParseRuliwebLink(unittest.TestCase):
@@ -167,13 +170,13 @@ class FakePage:
         # selector_results: {selector: [FakeEl, ...]}
         self._selector_results = selector_results or {}
 
+    def evaluate(self, expression):
+        pass
+
     def set_default_timeout(self, ms):
         pass
 
     def goto(self, url, **kwargs):
-        pass
-
-    def evaluate(self, expression):
         pass
 
     def wait_for_timeout(self, ms):
@@ -246,7 +249,7 @@ class TestFetchWeiboPlaywright(unittest.TestCase, FetchPlaywrightTestMixin):
         art = FakeEl(children={
             '.weibo-text, .content, p': FakeEl(text="足够长的微博正文内容用于采集测试"),
             'time, [class*="time"], [class*="date"]': None,
-            'a[href*="status"]': None,
+            'a[href*="status"], a[href*="/detail/"]': None,
         })
         page = FakePage({'article': [art]})
         with self._run_with_page(page):

@@ -132,8 +132,12 @@ jobs:
           else
             git commit -m "chore: backfill ${{ matrix.platform }} state [skip ci]"
             for i in 1 2 3 4; do
-              git pull --rebase origin main && git push origin main && break
-              git rebase --abort 2>/dev/null || true
+              if git pull --rebase origin main; then
+                git push origin main && break
+              elif [ -d "$(git rev-parse --git-path rebase-merge)" ] ||
+                   [ -d "$(git rev-parse --git-path rebase-apply)" ]; then
+                git rebase --abort || exit 1
+              fi
               echo "Push attempt $i failed, retrying in $((i * 2))s..."
               sleep $((i * 2))
               [ "$i" = "4" ] && { echo "All push attempts failed"; exit 1; }
@@ -154,8 +158,12 @@ jobs:
           fi
           git commit -m "data: backfill ${{ matrix.platform }} historical data (T62 P2-3c)"
           for i in 1 2 3 4; do
-            git pull --rebase origin main && git push origin main && exit 0
-            git rebase --abort 2>/dev/null || true
+            if git pull --rebase origin main; then
+              git push origin main && exit 0
+            elif [ -d "$(git rev-parse --git-path rebase-merge)" ] ||
+                 [ -d "$(git rev-parse --git-path rebase-apply)" ]; then
+              git rebase --abort || exit 1
+            fi
             echo "Push attempt $i failed, retrying in $((i * 2))s..."
             sleep $((i * 2))
           done

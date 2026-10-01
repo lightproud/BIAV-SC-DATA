@@ -44,9 +44,6 @@ class ConfigurablePage:
         if "goto" in self._raise_on:
             raise RuntimeError("goto boom")
 
-    def evaluate(self, expression):
-        pass
-
     def wait_for_timeout(self, ms):
         pass
 

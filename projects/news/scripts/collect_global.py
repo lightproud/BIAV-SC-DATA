@@ -96,6 +96,12 @@ def convert_item(item: dict) -> dict:
         converted['region'] = item['region']
     if item.get('archive_subtype'):
         converted['archive_subtype'] = item['archive_subtype']
+    if item.get('time_is_approximate'):
+        converted['time_is_approximate'] = True
+    if source == 'steam_discussion':
+        for field in ('created_at', 'last_reply_at', 'fetched_at', 'time_basis'):
+            if field in item:
+                converted[field] = item[field]
     return converted
 
 
@@ -162,6 +168,7 @@ def run_zero_cost_collectors() -> list[dict]:
         ('App Store', c.fetch_appstore_reviews),
         ('Pixiv', c.fetch_pixiv),
         ('Note.com', c.fetch_note_com),
+        ('PR TIMES', c.fetch_prtimes),
         ('Ruliweb', c.fetch_ruliweb),
         ('StopGame', c.fetch_stopgame),
         ('搜狗微信', c.fetch_weixin),
@@ -185,7 +192,7 @@ def run_zero_cost_collectors() -> list[dict]:
         'Steam Discussions': 'steam_discussion',
         'Weibo': 'weibo', 'App Store': 'appstore',
         'Pixiv': 'pixiv', 'Note.com': 'note_com', 'Ruliweb': 'ruliweb',
-        'StopGame': 'stopgame', '搜狗微信': 'weixin',
+        'StopGame': 'stopgame', '搜狗微信': 'weixin', 'PR TIMES': 'prtimes',
         'YouTube': 'youtube',
         'Bahamut': 'bahamut',
         'Google Play': 'google_play',
@@ -469,3 +476,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

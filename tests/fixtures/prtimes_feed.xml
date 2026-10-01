@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<item><title>忘却前夜 テスト告知</title><link>https://prtimes.jp/main/html/rd/p/000000355.000053906.html</link><description>[画像1: https://prtimes.jp/i/53906/355/resize/test.png ] テスト摘要</description><dc:corp>株式会社オルトプラス</dc:corp><dc:date>2026-09-17T17:30:02+09:00</dc:date></item>
+<item><title>忘却前夜 テスト告知</title><link>https://prtimes.jp/main/html/rd/p/000000355.000053906.html</link><dc:date>2026-09-17T17:30:02+09:00</dc:date></item>
+<item><title>別のゲーム</title><link>https://prtimes.jp/main/html/rd/p/000000354.000053906.html</link><dc:date>2026-09-17T17:30:02+09:00</dc:date></item>
+<item><title>忘却前夜 古い告知</title><link>https://prtimes.jp/main/html/rd/p/000000350.000053906.html</link><dc:date>2026-08-19T15:30:02+09:00</dc:date></item>
+<item><title>忘却前夜 不明日時</title><link>https://prtimes.jp/main/html/rd/p/000000349.000053906.html</link></item>
+<item><title>忘却前夜 タイムゾーンなし</title><link>https://prtimes.jp/main/html/rd/p/000000348.000053906.html</link><dc:date>2026-09-17T17:30:02</dc:date></item>
+<item><title>忘却前夜 外部リンク</title><link>https://evil.example/main/html/rd/p/000000355.000053906.html</link><dc:date>2026-09-17T17:30:02+09:00</dc:date></item>
+<item><title>忘却前夜 別の会社</title><link>https://prtimes.jp/main/html/rd/p/000000355.000000001.html</link><dc:date>2026-09-17T17:30:02+09:00</dc:date></item>
+</rdf:RDF>

@@ -25,6 +25,10 @@
       "tier": "T1",
       "why": "Playwright 采集器，供 T1 采集使用"
     },
+    "weibo_common": {
+      "tier": "T1",
+      "why": "微博 API 与 Playwright 两条 T1 采集路线共用的计数解析和未知值语义"
+    },
     "collection_state": {
       "tier": "T1",
       "why": "自适应回看时窗——只服务采集轮次"
@@ -120,6 +124,10 @@
     "sources": {
       "tier": "shared",
       "why": "采集源单一真相源：9 个消费者横跨 T1/T2/T3"
+    },
+    "prtimes_collector": {
+      "tier": "T1",
+      "why": "日本发行方 PR TIMES 公开 RSS 与官方新闻正文采集，供 collect_global 调度"
     }
   }
 }

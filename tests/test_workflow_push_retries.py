@@ -17,7 +17,7 @@ def retry_loops():
         for job in workflow['jobs'].values():
             for step in job.get('steps', []):
                 for index, loop in enumerate(re.findall(r'for i in 1 2 3 4; do\n.*?\bdone', step.get('run', ''), re.S)):
-                    if "git pull --rebase origin main && git push" not in loop:
+                    if step.get("name") == "Commit cross-run state → code repo":
                         continue  # update-news 状态推送另有内容级冲突合并方案
                     cases.append(pytest.param(loop, id=f'{name}-{step["name"]}-{index}'))
     assert len(cases) == 6, '必须验证这次修改的六个重试入口'

@@ -637,26 +637,11 @@ def validate_news_item(item):
     # community-archive-date-confusion-20260917.md D3。
     if item.get('time_is_approximate'):
         cleaned['time_is_approximate'] = True
-
-    # 明确时间语义必须随校验入湖；回复 / 采集时间不能被当成发布时间。
-    if item.get('time_semantics') in {'published', 'last_reply', 'fetched'}:
-        cleaned['time_semantics'] = item['time_semantics']
-    for field in ('created_at', 'last_reply_at', 'fetched_at'):
-        if field not in item:
-            continue
-        value = item[field]
-        if value is None and field != 'fetched_at':
-            cleaned[field] = None
-        elif isinstance(value, str):
-            try:
-                datetime.fromisoformat(value)
-            except ValueError:
-                _log.warning(f'Validation: invalid optional timestamp "{field}"')
-            else:
-                cleaned[field] = value
-    for field in ('engagement_is_unknown', 'author_is_unknown'):
-        if item.get(field) is True:
-            cleaned[field] = True
+    # Steam discussion temporal provenance; null means unknown, not fetch time.
+    if item['source'] == 'steam_discussion':
+        for field in ('created_at', 'last_reply_at', 'fetched_at', 'time_basis'):
+            if field in item:
+                cleaned[field] = item[field]
 
     # Title must not be empty after sanitization
     if not cleaned['title']:
