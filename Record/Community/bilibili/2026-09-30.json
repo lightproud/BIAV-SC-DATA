@@ -1,9 +1,26 @@
 {
   "date": "2026-09-30",
-  "archived_at": "2026-10-01T03:04:52.057513+00:00",
+  "archived_at": "2026-10-01T12:03:37.717831+00:00",
   "source": "bilibili",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
+    {
+      "title": "不要忘记我。",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-09-30T13:39:56+00:00",
+      "url": "https://www.bilibili.com/video/av117360266580241",
+      "engagement": 279,
+      "is_hot": false,
+      "author": "枕汐繁",
+      "tags": [
+        "动画综合"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/69ba74fb3b8b74a70a433f5298c5bad78f906510.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】9.28-10.12 等效全3启无灵芝融灾450",
       "summary": "1图出了超限茉夏，可以等效助战茉夏（后面没出助战），但应该压到3启也能过\n2图我不会玩海人，靠群友帮忙了",

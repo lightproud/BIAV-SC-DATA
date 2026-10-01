@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-01",
+  "archived_at": "2026-10-01T12:03:38.546642+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[正面] A jogabilidade é daora e tem uma história que te p...",
+      "summary": "A jogabilidade é daora e tem uma história que te prende. Se curte VNs, vale a pena dar uma chance.",
+      "source": "steam_review",
+      "time": "2026-10-01T06:37:22+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198409831098/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198409831098",
+      "tags": [
+        "brazilian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1108,
+        "votes_up": 0,
+        "timestamp_created": 1790836642
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

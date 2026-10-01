@@ -1,8 +1,8 @@
 {
   "date": "2026-10-01",
-  "archived_at": "2026-10-01T03:04:52.058867+00:00",
+  "archived_at": "2026-10-01T12:03:37.748208+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "忘却前夜抽卡数据网站抓包讲解",
@@ -36,6 +36,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i2.hdslb.com/bfs/archive/e2c6a81e6b75419560408dd76a7a9185e6905bb6.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "第三十二话 雪汐宵行",
+      "summary": "(本视频为《忘却前夜》同人二创，非官方出品，无任何商业用途) 【出场演员：萨尔瓦多 菲茵特 汀克特 卡茜亚 杜勒赛因 卡拉布 尤乌哈希 雷娅 徐 图鲁 墨菲 守密人 拉蒙娜 埃尔顿 希莱斯特 奥瑞塔 】返回弥萨格大学只是开始而已 这个世界没有安全的地方",
+      "source": "bilibili",
+      "time": "2026-10-01T12:00:00+00:00",
+      "url": "https://www.bilibili.com/video/av117338758189477",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "比较瓜皮",
+      "tags": [
+        "同人·手书"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/089d8502b630230cb96f584af574550471d1233b.jpg",
       "content_type": "video"
     }
   ]

@@ -1,8 +1,8 @@
 {
   "date": "2026-10-01",
-  "archived_at": "2026-10-01T03:04:52.061207+00:00",
+  "archived_at": "2026-10-01T12:03:37.957698+00:00",
   "source": "youtube",
-  "item_count": 7,
+  "item_count": 11,
   "items": [
     {
       "title": "イベントやっていきます！【#忘却前夜】",
@@ -17,6 +17,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/l7OJWXEyESk/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】イベント「霊魂の牧人・復刻」聖堂の道「要求・超難度」",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-10-01T06:54:22Z",
+      "url": "https://www.youtube.com/watch?v=PHEwdaeOyNU",
+      "engagement": 7,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/PHEwdaeOyNU/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -56,6 +73,23 @@
       "archive_subtype": "video"
     },
     {
+      "title": "【忘却前夜】融災禁区・第4波・Ⅴ級警報（2026/10/01）",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-10-01T09:11:48Z",
+      "url": "https://www.youtube.com/watch?v=jn42PbOUQLM",
+      "engagement": 3,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/jn42PbOUQLM/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
       "title": "🔞 More yapping on act 2 :3 - Morimens",
       "summary": "More yapping on act 2 :3 Links https://www.twitch.tv/eepyghost https://discord.gg/tSq5H32dAm ...",
       "source": "youtube",
@@ -68,6 +102,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/8WZPB0QB0Jw/hqdefault_live.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】融災禁区・第2波・Ⅴ級警報（2026/10/01）",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-10-01T11:33:22Z",
+      "url": "https://www.youtube.com/watch?v=r6BBQlMVWkE",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/r6BBQlMVWkE/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
@@ -119,6 +170,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/QtmgWfnvDgE/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜】融災禁区・第3波・Ⅴ級警報（2026/10/01）",
+      "summary": "忘却前夜 よければお使いください。 招待コード：GCWESC27JR.",
+      "source": "youtube",
+      "time": "2026-10-01T09:24:24Z",
+      "url": "https://www.youtube.com/watch?v=VbNjyZ5wti4",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "霏憂【ひゅう】",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/VbNjyZ5wti4/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
