@@ -173,6 +173,9 @@ class FakePage:
     def goto(self, url, **kwargs):
         pass
 
+    def evaluate(self, expression):
+        pass
+
     def wait_for_timeout(self, ms):
         pass
 

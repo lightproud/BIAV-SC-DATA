@@ -116,6 +116,7 @@ jobs:
             git commit -m "data: backfill media manifest"
             for i in 1 2 3 4; do
               git pull --rebase origin main && git push origin main && exit 0
+              git rebase --abort 2>/dev/null || true
               echo "Push attempt $i failed, retrying in ${i}s..."
               sleep $i
             done

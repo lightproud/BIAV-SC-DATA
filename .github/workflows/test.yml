@@ -11,14 +11,14 @@ on:
       - 'projects/news/requirements.txt'
       - 'tests/**'
       - 'pyproject.toml'
-      - '.github/workflows/test.yml'
+      - '.github/workflows/**'
   pull_request:
     paths:
       - 'projects/news/scripts/**'
       - 'projects/news/requirements.txt'
       - 'tests/**'
       - 'pyproject.toml'
-      - '.github/workflows/test.yml'
+      - '.github/workflows/**'
   workflow_dispatch:
 
 permissions:
@@ -44,6 +44,6 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install dependencies
-        run: pip install -r projects/news/requirements.txt pytest
+        run: pip install -r projects/news/requirements.txt pytest PyYAML
       - name: Run tests
         run: python -m pytest -q

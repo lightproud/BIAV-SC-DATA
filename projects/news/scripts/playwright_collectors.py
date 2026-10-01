@@ -10,6 +10,8 @@ Tested and working:
 """
 
 import logging
+import re
+from urllib.parse import urlencode, urljoin
 import sys
 from datetime import datetime, UTC
 from pathlib import Path
@@ -26,6 +28,8 @@ try:
 except ImportError:
     HOURS_LOOKBACK = 24
 TIMEOUT_MS = 30000
+WEIBO_KEYWORDS = ("忘却前夜", "忘卻前夜")
+WEIBO_MAX_SCROLLS = max(0, min(30, news_common.env_int("WEIBO_MAX_SCROLLS", 6)))
 
 
 def _parse_relative_time(text: str) -> tuple[str, bool]:
@@ -40,6 +44,29 @@ def _parse_relative_time(text: str) -> tuple[str, bool]:
 # ── 纯解析函数（从各 fetch_* 抽出，对 DOM 元素接口做映射，便于单测） ──────────
 # 这些函数只依赖被传入对象的 query_selector / inner_text / get_attribute 接口，
 # 不触碰网络或浏览器，保持原 fetch_* 内联逻辑的行为不变。
+
+def _weibo_metric(text: str, label: str):
+    """读取可见计数；没有数字就是未知，不把标签本身当作零。"""
+    number = r'(\d[\d,]*(?:\.\d+)?\s*(?:万|亿|[kKmM])?)'
+    match = None
+    for row in text.splitlines():
+        if label not in row:
+            continue
+        first = re.search(r'转发|评论|赞|\d', row)
+        if first and first.group().isdigit():
+            match = re.search(number + r'\s*' + re.escape(label), row)
+        else:
+            match = re.search(re.escape(label) + r'\s*' + number, row)
+        if match:
+            break
+    if not match:
+        return None
+    raw = match.group(1).replace(',', '').replace(' ', '')
+    unit = raw[-1]
+    factors = {'万': 10000, '亿': 100000000, 'k': 1000, 'm': 1000000}
+    factor = factors.get(unit.lower(), 1)
+    return int(float(raw[:-1] if factor != 1 else raw) * factor)
+
 
 def _parse_weibo_article(article) -> dict:
     """从一个 Weibo article 元素解析出 item dict；不合格返回 None。"""
@@ -61,7 +88,15 @@ def _parse_weibo_article(article) -> dict:
     if link_el:
         href = link_el.get_attribute('href') or ''
         if href and not href.startswith('http'):
-            href = f'https://m.weibo.cn{href}'
+            href = urljoin('https://m.weibo.cn/', href)
+
+    author_el = article.query_selector('.weibo-top .m-text-cut, .card-wrap .name, .name, .m-text-cut')
+    author = author_el.inner_text().strip() if author_el else ''
+    footer_el = article.query_selector('footer, .m-ctrl-box, .card-act')
+    footer = footer_el.inner_text() if footer_el else ''
+    counts = {key: _weibo_metric(footer, label)
+              for key, label in (('reposts', '转发'), ('comments', '评论'), ('likes', '赞'))}
+    engagement = sum(value for value in counts.values() if value is not None)
 
     item = {
         'title': text[:80],
@@ -69,9 +104,12 @@ def _parse_weibo_article(article) -> dict:
         'source': 'weibo',
         'time': parsed_time,
         'url': href,
-        'engagement': 0,
-        'is_hot': False,
-        'author': '',
+        'engagement': engagement,
+        'engagement_is_unknown': any(value is None for value in counts.values()),
+        'metadata': {'engagement_components': counts},
+        'is_hot': engagement >= 10,
+        'author': author,
+        'author_is_unknown': not bool(author),
         'tags': ['weibo'],
     }
     if time_approx:
@@ -131,46 +169,56 @@ def _parse_bahamut_row(row) -> dict:
 
 
 def fetch_weibo_playwright() -> list[dict]:
-    """
-    Fetch Weibo search results using mobile version.
-    Tested: 15 articles found with content.
-    """
+    """采集简繁关键词；有限滚动，跨轮 / 跨关键词按稳定身份去重。"""
     items = []
-
+    seen = set()
     try:
         from playwright.sync_api import sync_playwright
 
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
-            page = browser.new_page()
-            page.set_default_timeout(TIMEOUT_MS)
-
-            # 移动版无需登录
-            url = 'https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BF%98%E5%8D%B4%E5%89%8D%E5%A4%9C'
-            logger.info('微博: 访问移动版')
-            page.goto(url, wait_until='networkidle')
-            page.wait_for_timeout(3000)
-
-            articles = page.query_selector_all('article')
-            logger.info(f'微博: 找到 {len(articles)} 条微博')
-
-            for article in articles[:20]:
-                try:
-                    item = _parse_weibo_article(article)
-                    if item is not None:
-                        items.append(item)
-                # 逐条解析是 best-effort（页面结构常变，单条失败不该毁掉整轮），但
-                # 原先的裸 `except Exception: continue` 连解析器**自己写崩**都一起
-                # 吞掉——结构改版导致的全军覆没与「今天就是没几条」长得一模一样。
-                # 照旧不中断，但出声：条数对不上时日志里有据可查。
-                except Exception as exc:
-                    logger.debug(f'跳过一条解析失败的article: {type(exc).__name__}: {exc}')
-                    continue
-
-            browser.close()
-    except Exception as e:
-        logger.warning(f'微博 Playwright 失败: {e}')
-
+            try:
+                page = browser.new_page()
+                page.set_default_timeout(TIMEOUT_MS)
+                for keyword in WEIBO_KEYWORDS:
+                    url = 'https://m.weibo.cn/search?' + urlencode({
+                        'containerid': f'100103type=1&q={keyword}'})
+                    try:
+                        page.goto(url, wait_until='networkidle')
+                        page.wait_for_timeout(3000)
+                        keyword_seen = set()
+                        stagnant = 0
+                        for turn in range(WEIBO_MAX_SCROLLS + 1):
+                            before = len(keyword_seen)
+                            articles = page.query_selector_all('article')
+                            for article in articles:
+                                try:
+                                    item = _parse_weibo_article(article)
+                                    if item is None:
+                                        continue
+                                    # 没直链时沿用归档的稳定身份；近似 now 不参与去重。
+                                    key = item['url'] or (
+                                        item['title'],
+                                        '' if item.get('time_is_approximate') else item['time'],
+                                        item['author'])
+                                    keyword_seen.add(key)
+                                    if key not in seen:
+                                        seen.add(key)
+                                        items.append(item)
+                                except Exception as exc:
+                                    logger.debug(f'跳过一条解析失败的 article: {type(exc).__name__}: {exc}')
+                            stagnant = stagnant + 1 if len(keyword_seen) == before else 0
+                            if stagnant >= 2 or turn == WEIBO_MAX_SCROLLS:
+                                break
+                            page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
+                            page.wait_for_timeout(1500)
+                        logger.info(f'微博 "{keyword}": 解析 {len(keyword_seen)} 条，累计 {len(items)} 条')
+                    except Exception as exc:
+                        logger.warning(f'微博关键词 "{keyword}" 采集失败: {exc}')
+            finally:
+                browser.close()
+    except Exception as exc:
+        logger.warning(f'微博 Playwright 失败: {exc}')
     logger.info(f'微博 Playwright: fetched {len(items)} items')
     return items
 

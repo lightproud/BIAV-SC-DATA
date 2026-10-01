@@ -1653,6 +1653,29 @@ def fetch_steam_discussions(max_pages: int = 3):
     return items
 
 
+def _steam_discussion_timestamp(block: str, class_name: str):
+    """只读取明确标注该语义的元素时间戳；缺失或非法时不编造。"""
+    from html.parser import HTMLParser
+
+    class TimestampParser(HTMLParser):
+        value = None
+
+        def handle_starttag(self, tag, attrs):
+            attrs = dict(attrs)
+            if class_name not in (attrs.get('class') or '').split():
+                return
+            raw = attrs.get('data-timestamp')
+            if raw is not None:
+                try:
+                    self.value = datetime.fromtimestamp(int(raw), tz=UTC)
+                except (ValueError, OverflowError, OSError):
+                    pass
+
+    parser = TimestampParser()
+    parser.feed(block)
+    return parser.value
+
+
 def _fetch_steam_discussions_one(app_id, region, max_pages: int = 3):
     """Fetch recent Steam Community discussions for one (app_id, region).
 
@@ -1670,12 +1693,14 @@ def _fetch_steam_discussions_one(app_id, region, max_pages: int = 3):
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
         'Accept-Language': 'en-US,en;q=0.9,zh-CN;q=0.8,ko;q=0.7,ja;q=0.6',
     }
-    cutoff = datetime.now(UTC) - timedelta(hours=HOURS_LOOKBACK)
+    fetched_at = datetime.now(UTC)
+    cutoff = fetched_at - timedelta(hours=HOURS_LOOKBACK)
     items = []
+    seen_urls = set()
 
     try:
-        for page in range(1, max_pages + 1):
-            url = base_url if page == 1 else f'{base_url}?fp={page}'
+        for page in range(max_pages):
+            url = base_url if page == 0 else f'{base_url}?fp={page}'
             resp = requests.get(url, headers=headers, timeout=30)
             resp.raise_for_status()
             html = resp.text
@@ -1697,9 +1722,9 @@ def _fetch_steam_discussions_one(app_id, region, max_pages: int = 3):
                 m_replies = _re.search(r'class="forum_topic_reply_count">.*?>\s*([\d,]+)\s*</div>', block, _re.DOTALL)
                 replies = int(m_replies.group(1).replace(',', '')) if m_replies else 0
 
-                m_ts = _re.search(r'class="forum_topic_lastpost"[^>]*data-timestamp="(\d+)"', block)
-                if m_ts:
-                    lastpost = datetime.fromtimestamp(int(m_ts.group(1)), tz=UTC)
+                lastpost = _steam_discussion_timestamp(block, "forum_topic_lastpost")
+                created_at = _steam_discussion_timestamp(block, "forum_topic_created")
+                if lastpost is not None:
                     if lastpost < cutoff:
                         # 列表页首部是**置顶帖**（class 同为 forum_topic），其最后回复
                         # 往往是几个月前。原实现一见旧帖就 break 整页 —— 只要板块挂着
@@ -1708,8 +1733,10 @@ def _fetch_steam_discussions_one(app_id, region, max_pages: int = 3):
                         # 改为跳过该帖；整页无新帖时由下面 page_added == 0 收尾停翻。
                         continue
                     time_str, approx = lastpost.isoformat(), False
+                elif created_at is not None:
+                    time_str, approx = created_at.isoformat(), False
                 else:
-                    time_str, approx = datetime.now(UTC).isoformat(), True
+                    time_str, approx = fetched_at.isoformat(), True
 
                 m_author = _re.search(r'class="forum_topic_op"[^>]*>\s*([^<]+?)\s*</div>', block)
                 author = m_author.group(1).strip() if m_author else ''
@@ -1729,7 +1756,11 @@ def _fetch_steam_discussions_one(app_id, region, max_pages: int = 3):
                     'source': 'steam_discussion',
                     'region': region,                # 甲方案：global/jp 区服
                     'archive_subtype': 'discussion', # 归档 steam/<区服>/discussion
-                    'time': time_str,
+                    'time': time_str,  # 兼容归档；不是无条件的发帖时间
+                    'time_semantics': 'last_reply' if lastpost else ('published' if created_at else 'fetched'),
+                    'created_at': created_at.isoformat() if created_at else None,
+                    'last_reply_at': lastpost.isoformat() if lastpost else None,
+                    'fetched_at': fetched_at.isoformat(),
                     'url': m_url.group(1),
                     'engagement': replies,
                     'is_hot': replies >= 10,
@@ -1738,6 +1769,9 @@ def _fetch_steam_discussions_one(app_id, region, max_pages: int = 3):
                 }
                 if approx:
                     item['time_is_approximate'] = True
+                if item["url"] in seen_urls:
+                    continue
+                seen_urls.add(item["url"])
                 items.append(item)
                 page_added += 1
 

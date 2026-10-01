@@ -107,7 +107,11 @@ jobs:
 
       - name: Pull latest backfill state (code repo)
         if: steps.check.outputs.skip != 'true'
-        run: git pull --rebase origin main || true
+        run: |
+          git pull --rebase origin main || {
+            git rebase --abort 2>/dev/null || true
+            exit 1
+          }
 
       - name: "Run backfill: ${{ matrix.platform }}"
         if: steps.check.outputs.skip != 'true'
@@ -129,6 +133,7 @@ jobs:
             git commit -m "chore: backfill ${{ matrix.platform }} state [skip ci]"
             for i in 1 2 3 4; do
               git pull --rebase origin main && git push origin main && break
+              git rebase --abort 2>/dev/null || true
               echo "Push attempt $i failed, retrying in $((i * 2))s..."
               sleep $((i * 2))
               [ "$i" = "4" ] && { echo "All push attempts failed"; exit 1; }
@@ -150,6 +155,7 @@ jobs:
           git commit -m "data: backfill ${{ matrix.platform }} historical data (T62 P2-3c)"
           for i in 1 2 3 4; do
             git pull --rebase origin main && git push origin main && exit 0
+            git rebase --abort 2>/dev/null || true
             echo "Push attempt $i failed, retrying in $((i * 2))s..."
             sleep $((i * 2))
           done
