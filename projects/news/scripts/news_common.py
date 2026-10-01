@@ -637,6 +637,11 @@ def validate_news_item(item):
     # community-archive-date-confusion-20260917.md D3。
     if item.get('time_is_approximate'):
         cleaned['time_is_approximate'] = True
+    # Steam discussion temporal provenance; null means unknown, not fetch time.
+    if item['source'] == 'steam_discussion':
+        for field in ('created_at', 'last_reply_at', 'fetched_at', 'time_basis'):
+            if field in item:
+                cleaned[field] = item[field]
 
     # Title must not be empty after sanitization
     if not cleaned['title']:

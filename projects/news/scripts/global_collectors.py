@@ -1681,6 +1681,7 @@ def _fetch_steam_discussions_one(app_id, region, max_pages: int = 3):
             html = resp.text
 
             # 按 forum_topic 块切分（每块以下一个块或容器结束为界）
+            fetched_at = datetime.now(UTC).isoformat()
             blocks = _re.split(r'<div[^>]+class="forum_topic\s', html)[1:]
             page_added = 0
             for block in blocks:
@@ -1707,9 +1708,9 @@ def _fetch_steam_discussions_one(app_id, region, max_pages: int = 3):
                         # 「fetched 0 threads」，与「今天真没人发帖」完全无法区分。
                         # 改为跳过该帖；整页无新帖时由下面 page_added == 0 收尾停翻。
                         continue
-                    time_str, approx = lastpost.isoformat(), False
+                    last_reply_at = lastpost.isoformat()
                 else:
-                    time_str, approx = datetime.now(UTC).isoformat(), True
+                    last_reply_at = None
 
                 m_author = _re.search(r'class="forum_topic_op"[^>]*>\s*([^<]+?)\s*</div>', block)
                 author = m_author.group(1).strip() if m_author else ''
@@ -1729,14 +1730,21 @@ def _fetch_steam_discussions_one(app_id, region, max_pages: int = 3):
                     'source': 'steam_discussion',
                     'region': region,                # 甲方案：global/jp 区服
                     'archive_subtype': 'discussion', # 归档 steam/<区服>/discussion
-                    'time': time_str,
+                    # Legacy activity/bucketing time, NOT the thread creation time.
+                    # Keep the existing last-reply -> fetch fallback for consumers.
+                    'time': last_reply_at or fetched_at,
+                    'time_basis': 'last_reply_at' if last_reply_at else 'fetched_at',
+                    # The listing provides no verified thread creation timestamp.
+                    'created_at': None,
+                    'last_reply_at': last_reply_at,
+                    'fetched_at': fetched_at,
                     'url': m_url.group(1),
                     'engagement': replies,
                     'is_hot': replies >= 10,
                     'author': author,
                     'tags': ['steam_forum'],
                 }
-                if approx:
+                if last_reply_at is None:
                     item['time_is_approximate'] = True
                 items.append(item)
                 page_added += 1

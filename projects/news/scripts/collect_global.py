@@ -96,6 +96,12 @@ def convert_item(item: dict) -> dict:
         converted['region'] = item['region']
     if item.get('archive_subtype'):
         converted['archive_subtype'] = item['archive_subtype']
+    if item.get('time_is_approximate'):
+        converted['time_is_approximate'] = True
+    if source == 'steam_discussion':
+        for field in ('created_at', 'last_reply_at', 'fetched_at', 'time_basis'):
+            if field in item:
+                converted[field] = item[field]
     return converted
 
 
