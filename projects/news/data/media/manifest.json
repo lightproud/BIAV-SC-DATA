@@ -391,6 +391,20 @@
       "title": "망각전야 서약오지에 #morimens #게임 #망각전야",
       "time": "2026-09-30T18:29:02Z",
       "downloaded_at": "2026-09-30T21:40:35.308644+00:00"
+    },
+    "https://i.ytimg.com/vi/l7OJWXEyESk/hqdefault.jpg": {
+      "filename": "youtube_21dce71c7b43f635.jpg",
+      "source": "youtube",
+      "title": "イベントやっていきます！【#忘却前夜】",
+      "time": "2026-10-01T01:14:24Z",
+      "downloaded_at": "2026-10-01T03:04:51.398741+00:00"
+    },
+    "https://i.ytimg.com/vi/Ecroxwg-E40/hqdefault.jpg": {
+      "filename": "youtube_23b3e803c0401f74.jpg",
+      "source": "youtube",
+      "title": "Morimens Arcade N-Event G Ogier vs Putrescence Puppet lvl 80 (No gnosis used)",
+      "time": "2026-09-30T21:48:25Z",
+      "downloaded_at": "2026-10-01T03:04:51.893302+00:00"
     }
   },
   "failed": {
@@ -448,6 +462,16 @@
       "source": "bilibili",
       "reason": "download_failed",
       "attempted_at": "2026-09-30T17:14:03.640138+00:00"
+    },
+    "//i1.hdslb.com/bfs/archive/183921a6f7d6253f087b56a760f9e7d327fa80e0.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-01T03:04:50.596955+00:00"
+    },
+    "//i2.hdslb.com/bfs/archive/e2c6a81e6b75419560408dd76a7a9185e6905bb6.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-01T03:04:50.897496+00:00"
     }
   },
   "archived": []
