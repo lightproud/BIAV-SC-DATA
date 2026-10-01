@@ -1,43 +1,59 @@
 {
   "date": "2026-10-01",
-  "messages": 6248,
-  "unique_authors": 148,
-  "reactions_total": 632,
-  "attachments": 233,
+  "messages": 12563,
+  "unique_authors": 255,
+  "reactions_total": 1474,
+  "attachments": 512,
   "channel_activity": {
-    "🔸綜合討論": 451,
-    "🔸morimens-game-chat": 3027,
-    "🔸晒卡分享": 6,
-    "🔸欢乐梗图": 1,
-    "🔸русский-канал": 37,
-    "🔸phòng-chat-tiếng-việt": 36,
-    "🔸canal-português": 95,
-    "🔸ruang-obrolan-indonesia": 116,
-    "🔸traphase": 53,
-    "🔸lore-chat": 75,
-    "🔸lets-count": 2,
-    "🔸team-building": 656,
-    "🔸general-chat": 934,
-    "🔸邀请码互助┊swap-invitation-codes": 1,
-    "🔸game-question": 541,
-    "🔸机器人命令┊bot-commands": 12,
+    "🔸綜合討論": 1111,
+    "🔸阵容构建": 7,
+    "🔸morimens-game-chat": 6137,
+    "🔸晒卡分享": 8,
+    "🔸欢乐梗图": 2,
+    "🔸课间休息闲聊": 31,
+    "🔸русский-канал": 43,
+    "🔸phòng-chat-tiếng-việt": 137,
+    "🔸canal-español": 124,
+    "🔸canal-português": 108,
+    "🔸ruang-obrolan-indonesia": 258,
+    "🔸ห้องสนทนาภาษาไทย": 35,
+    "🔸traphase": 76,
+    "🔸lore-chat": 327,
+    "🔸lets-count": 3,
+    "🔸team-building": 1270,
+    "🔸general-chat": 1636,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "🔸game-question": 1003,
+    "🔸机器人命令┊bot-commands": 27,
+    "同人作品-繪畫賽道": 2,
+    "融災第一波的精英蜘蛛鎖覺醒卡bug": 2,
+    "汀克特專造回手指令卡未減少算力消耗": 5,
+    "Refined Gnosis Fragments essentially now unobtainable?!?": 101,
+    "Why doesn't this wave 4 dtide rotation have icefield?": 2,
+    "Dtide is out of control.": 15,
+    "Doresain Exalt value < casually cast 2 Cost AA Gogier": 3,
+    "NOT ANSWERED: Jenkins": 7,
+    "D-tide Discussion": 9,
+    "Better handling of nerfs through bug fixes": 1,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 1,
+    "2.6.X Rosescrip Shop Price/unit higher than current Rosescrip Shop Price/unit": 2,
+    "Quadra / 4-Realm Rerun Banners": 1,
+    "V2.5.1.0 停服维护公告": 5,
+    "Pink Fih": 4,
+    "I NEED GDOLL CONTENT😭😭😭😭": 5,
+    "hamposting by lin": 1,
+    "Dtide 450 Meta Report October Aequor Ring 2026": 1,
+    "賣號": 11,
     "人在做怪事的時候總是特別有動力": 2,
     "堆图ing": 2,
-    "Dtide is out of control.": 12,
-    "Doresain Exalt value < casually cast 2 Cost AA Gogier": 2,
     "Pls give out origin of time for limited awakener & wheels": 1,
-    "NOT ANSWERED: Jenkins": 2,
     "Please rework how Propagation Caro works for the future units": 13,
-    "V2.5.1.0 停服维护公告": 1,
     "morimens team generator!!": 1,
     "【English Translation】Opinions Collection": 2,
     "I am wondering what realm I should pull for the before memories fade banner": 2,
     "🔸剧情交流": 5,
-    "🔸课间休息闲聊": 15,
     "🔸한국어-채팅방": 2,
     "🔸deutscher-chatraum": 2,
-    "🔸canal-español": 115,
-    "🔸ห้องสนทนาภาษาไทย": 21,
     "真的能放到教室裡嗎？？": 1,
     "When will a passive ability be added to these characters?": 1,
     "汀克特旺達「本回合下次躍遷必定觸發」變不可疊加了？can’t use Tinct & Wanda “The next Leap this turn is guaranteed” in a roll?": 1,
@@ -45,23 +61,66 @@
     "Nefraea + Arachne Posting": 1
   },
   "hourly_activity": {
+    "8": 383,
+    "9": 731,
+    "10": 608,
+    "11": 764,
+    "12": 479,
+    "13": 1119,
+    "14": 1197,
+    "15": 397,
+    "16": 318,
+    "17": 485,
+    "18": 38,
     "3": 819,
     "4": 693,
     "5": 553,
     "6": 466,
-    "8": 204,
     "7": 489,
     "0": 973,
     "1": 1020,
     "2": 1031
   },
   "message_types": {
-    "0": 4078,
-    "19": 2156,
-    "23": 2,
-    "20": 12
+    "0": 8402,
+    "19": 4135,
+    "46": 1,
+    "20": 23,
+    "23": 2
   },
   "top_reacted_messages": [
+    {
+      "id": "1555061478879395891",
+      "channel_id": "1170692781216378960",
+      "content": "what is going on in these reacts",
+      "author": "fishhazardthewizard",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555061674174709781",
+      "channel_id": "1170692781216378960",
+      "content": "If i can do w5 with jenkins LOL",
+      "author": "angbak",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555134792155140106",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "kemomimi_",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1555103295805063250",
+      "channel_id": "1555103295805063250",
+      "content": "OK, this is my first time truly being upset with this game.  I used to be able t",
+      "author": "multisingularity",
+      "reactions": 7,
+      "channel": "Refined Gnosis Fragments essentially now unobtainable?!?"
+    },
     {
       "id": "1554957486140948510",
       "channel_id": "1170692781216378960",
@@ -69,6 +128,78 @@
       "author": "zicma",
       "reactions": 7,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555023917280792638",
+      "channel_id": "1170692781216378960",
+      "content": "Monchi is the reason devs refuse to remove poison cap",
+      "author": "polkarain",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555070918240374808",
+      "channel_id": "1131839817982947429",
+      "content": "離+12好遙遠",
+      "author": "universe.dark",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1555098248727896193",
+      "channel_id": "1131839817982947429",
+      "content": "有沒有大佬可以帶帶我",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1555135520386982009",
+      "channel_id": "1131839817982947429",
+      "content": "我只打了△",
+      "author": "0.0._.0_0.",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1555060910329036912",
+      "channel_id": "1170692781216378960",
+      "content": "Needs 5 more levels",
+      "author": "angbak",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555124737796214825",
+      "channel_id": "1170692781216378960",
+      "content": "Sheesh the D-tide changes actually hit the mark for me <:Erica_perfect:135608449",
+      "author": "coco_cocoa",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555136888300507221",
+      "channel_id": "1170692781216378960",
+      "content": "I legit killed the bubble or whatever it was with my bare hands no sovereign ski",
+      "author": "cowit_moo22",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555156442678300695",
+      "channel_id": "1170692781216378960",
+      "content": "Omg porn while Im in school",
+      "author": "spooky_penguin_",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555130473775235102",
+      "channel_id": "1555130473775235102",
+      "content": "Paws+ears fake.",
+      "author": "deeprezocide",
+      "reactions": 5,
+      "channel": "Pink Fih"
     },
     {
       "id": "1554959510085439622",
@@ -95,131 +226,27 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1554986298337398805",
-      "channel_id": "1170692781216378960",
-      "content": "sorry to hear",
-      "author": "princess.goth",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554989368224260268",
-      "channel_id": "1170692781216378960",
-      "content": "Adieu",
-      "author": "serahh__",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555006220950052915",
-      "channel_id": "1170692781216378960",
-      "content": "Looks mid 😅",
-      "author": "lordvador0656",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555000233216446556",
-      "channel_id": "1400750050208125010",
-      "content": "I've never really been to any fast food restaurants",
-      "author": "pacchag",
-      "reactions": 4,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1554898407535943791",
+      "id": "1555056888347885611",
       "channel_id": "1131839817982947429",
-      "content": "有大佬可以帶帶我打多力多滋難度嗎",
-      "author": "nemu_s_t_a_r",
+      "content": "~~那如果都抽滿了呢~~",
+      "author": "fon_tain",
       "reactions": 4,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1554892392799141989",
-      "channel_id": "1170692781216378960",
-      "content": "but now your pouch is so much lighter! your climb up the mountain will be that m",
-      "author": "violettaautumn",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554926495481200781",
-      "channel_id": "1170692781216378960",
-      "content": "sanga is so cool...",
-      "author": "direhands",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554930894190674064",
-      "channel_id": "1170692781216378960",
-      "content": "A little detailing work and rendering left",
-      "author": "davedotexe",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554936735664836742",
-      "channel_id": "1170692781216378960",
-      "content": "Ritual Summons are fun",
-      "author": "brainrot_in_a_vat",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554939358312800327",
-      "channel_id": "1170692781216378960",
-      "content": "she's nymph",
-      "author": "direhands",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554977821653213339",
+      "id": "1555136681974431805",
       "channel_id": "1131839817982947429",
-      "content": "一款很早的黃油",
-      "author": "vgvfvffcc",
-      "reactions": 3,
+      "content": "大佬 忘卻前夜就該請你去當數學顧問",
+      "author": "theal8893",
+      "reactions": 4,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1554960030770397310",
+      "id": "1555031006497611927",
       "channel_id": "1170692781216378960",
-      "content": "He did no say that",
-      "author": "gersona6",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554960177617436745",
-      "channel_id": "1170692781216378960",
-      "content": "Let's play barricade <:Saya_duel:1513123467917135903>",
-      "author": "moyashi0672",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554962798306525295",
-      "channel_id": "1170692781216378960",
-      "content": "my game just crashed",
-      "author": "brainrot_in_a_vat",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554966741770043403",
-      "channel_id": "1170692781216378960",
-      "content": "She threatened me with touching me. She's gonna pitch a baseball at my skull.",
-      "author": "shanhaijingactivist",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1554967108373184662",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "princess.goth",
-      "reactions": 3,
+      "content": "Pontus is pretty decent at +12 I think",
+      "author": "dracozion",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     }
   ]
