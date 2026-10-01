@@ -39,6 +39,7 @@ jobs:
           sparse-checkout: |
             projects/news
             tests
+            .github/workflows
           sparse-checkout-cone-mode: true
       - uses: actions/setup-python@v6
         with:
