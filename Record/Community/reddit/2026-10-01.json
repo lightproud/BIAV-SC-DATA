@@ -1,8 +1,8 @@
 {
   "date": "2026-10-01",
-  "archived_at": "2026-09-30T21:40:35.565117+00:00",
+  "archived_at": "2026-10-01T03:04:52.157131+00:00",
   "source": "reddit",
-  "item_count": 6,
+  "item_count": 9,
   "items": [
     {
       "title": "Team comp",
@@ -78,6 +78,45 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/Do_or_Do",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "Why is my Death resistance different on battle?",
+      "summary": "Is there a reason my dr gets reduced so much in battle compared to what I have on my chars?   &#32; submitted by &#32;  /u/Nice_Boysenberry7287   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-09-30T22:22:29+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wuinpf/why_is_my_death_resistance_different_on_battle/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Nice_Boysenberry7287",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "need advice",
+      "summary": "Guys is it worth to E1 Ryker for this team? Is it worth to build this team now or is it not? does this team hold value right now or not? Is Ryker E1 hold value even right now?  &#32; submitted by &#32;  /u/StockFeedback2586   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-10-01T01:31:07+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wumom4/need_advice/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/StockFeedback2586",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "What are Seasonal Missions?",
+      "summary": "That’s the only mission I don’t have for that Helliot Wheel but I can’t figure out what quests they are. Can someone point me in the right direction please?  &#32; submitted by &#32;  /u/Itamikurushima   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-10-01T02:15:01+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1wunknn/what_are_seasonal_missions/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Itamikurushima",
       "tags": [],
       "lang": "en",
       "platform_region": ""

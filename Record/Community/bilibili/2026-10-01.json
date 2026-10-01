@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-01",
+  "archived_at": "2026-10-01T03:04:52.058867+00:00",
+  "source": "bilibili",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "忘却前夜抽卡数据网站抓包讲解",
+      "summary": "我不知道这个抓包程序能不能使用，对此还是感到担心，所以就不打算进行上传，懂行的希望可以联系我，给我提一些建议，如果有人想要参考，可以在github去找那个人的脚本程序",
+      "source": "bilibili",
+      "time": "2026-09-30T23:02:42+00:00",
+      "url": "https://www.bilibili.com/video/av117362481235460",
+      "engagement": 116,
+      "is_hot": false,
+      "author": "是听雨啦",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/183921a6f7d6253f087b56a760f9e7d327fa80e0.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "〖相位〗吓哭了，蚀萝大人——",
+      "summary": "这把近乎完美，唯一遗憾就是献祭命轮没有参与度。\ndebuff存在感不高，但是没这堆debuff的磨血效果的话，没那么容易快速压血线，所以应该还算debuff队（点头）",
+      "source": "bilibili",
+      "time": "2026-09-30T16:05:55+00:00",
+      "url": "https://www.bilibili.com/video/av117360837006625",
+      "engagement": 108,
+      "is_hot": false,
+      "author": "只想摸鱼的屑-",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/e2c6a81e6b75419560408dd76a7a9185e6905bb6.jpg",
+      "content_type": "video"
+    }
+  ]
+}
