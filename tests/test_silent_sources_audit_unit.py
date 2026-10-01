@@ -587,3 +587,25 @@ def test_window_not_clamped_when_within_floor(dirs):
     report = ssa.build_report()
     assert report["window_clamped"] is False
     assert report["window_start"] == "2026-07-01"
+
+
+def test_cli_source_date_evidence_persisted_without_suppressing_gate(dirs, monkeypatch):
+    import source_freshness
+    evidence = [{'leaf': 'steam/global/news', 'last_archive_date': '2026-09-21',
+                 'status': 'no_newer_source_date'}]
+    check = mock.Mock(return_value=evidence)
+    monkeypatch.setattr(source_freshness, 'audit_source_dates', check)
+    with pytest.raises(SystemExit) as exc:
+        _run_main(['--write', '--check-source-freshness', '--strict'])
+    assert exc.value.code == 1  # 空归档的核心源仍然触发门控。
+    check.assert_called_once()
+    assert json.loads(ssa.HEALTH_PATH.read_text())['source_date_checks'] == evidence
+
+
+def test_cli_default_does_not_check_source_dates(dirs, monkeypatch):
+    import source_freshness
+    check = mock.Mock(side_effect=AssertionError('default must be offline'))
+    monkeypatch.setattr(source_freshness, 'audit_source_dates', check)
+    _run_main(['--write'])
+    check.assert_not_called()
+    assert json.loads(ssa.HEALTH_PATH.read_text())['source_date_checks'] == []

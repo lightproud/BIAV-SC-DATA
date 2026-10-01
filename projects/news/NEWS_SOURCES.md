@@ -35,3 +35,20 @@ SomethingAwful、NGA、小红书，以及中英日韩俄语媒体遗漏。此清
 
 仅有价值的新消息或连续访问/入库故障时通知；避开已有美术更新任务的重复提醒。
 仓库写入失败要报告原因并在任务回复保留结果，不宣称归档成功。
+
+
+### 沉默告警的公开源日期证据
+
+`silent_sources_audit.py --write --check-source-freshness` 对沉默的
+`steam/global/news`、`appstore/jp` 请求公开 API，并将核对时间、来源 URL、
+最新发布日期和归档日期写入 `source-health.json` 的 `source_date_checks`。
+日期统一按北京时间比较；默认不传该参数时不联网。
+
+- `newer_source_date`：源站有比最后归档日更晚的发布日期，需要排查采集。
+- `no_newer_source_date`：本次接口结果未发现更晚日期，不证明内容已全部归档。
+- `unverified`：接口失败、响应无效、没有评论/公告或该叶尚无核对器。
+
+核对不改变核心源 never/dormant 或单源校验丢弃 ≥50 条的门控判据，
+也不跳过采集或关闭告警。像查看店铺最后上新日期：能帮助解释店里为何安静，
+但不能证明库存账本没有漏记。Steam 公告的健康键是 `official`，评论是 `steam`，
+与归档来源及健康登记保持一致。

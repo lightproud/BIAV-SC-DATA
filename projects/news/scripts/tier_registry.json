@@ -13,6 +13,10 @@
     "reviewed": "2026-07-27 结构审视 P2（逐档读头注 + 核对 CI 实际调用顺序）；2026-08-22 采集线重构后订正（删 aggregator 三档 + split_output 层籍）"
   },
   "modules": {
+    "source_freshness": {
+      "tier": "T3",
+      "why": "沉默源审计的公开发布日期核对，提供排查证据，不执行采集或改变门控"
+    },
     "four_gamer_collector": {
       "tier": "T1",
       "why": "4Gamer 游戏专属公开 RSS 采集，供 collect_global 调度"

@@ -214,7 +214,7 @@ def print_leaf_report(rows: list[dict], show_all: bool = False) -> None:
         if rows:
             print(f'【区服/类型叶级下钻】{len(rows)} 叶全部在各自节拍内，无断档。\n')
         return
-    title = '全部叶' if show_all else '断档告警'
+    title = '全部叶' if show_all else '归档沉默（未确认采集故障）'
     print(f'【区服/类型叶级下钻（{title}）】({len(shown)}/{len(rows)} 叶)')
     for r in sorted(shown, key=lambda x: -x['silent_days']):
         cadence = f'节拍~{r["cadence_days"]}d' if r['cadence_days'] is not None else '节拍未知'
@@ -386,6 +386,7 @@ def write_health(report: dict) -> None:
                                   'silent_days', 'cadence_days', 'stall_threshold')}
             for leaf in report.get('leaves', []) if leaf['stalled']
         ],
+        'source_date_checks': report.get('source_date_checks', []),
         'platforms': platforms,
     }
     HEALTH_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -511,12 +512,18 @@ def main() -> None:
                         help='核心源处于 never/dormant 时以非零退出（健康门控）')
     parser.add_argument('--leaves', action='store_true',
                         help='叶级下钻显示全部区服/类型叶（默认只列断档告警叶）')
+    parser.add_argument('--check-source-freshness', action='store_true',
+                        help='联网核对支持的沉默叶最新公开日期，不改变告警判据')
     args = parser.parse_args()
 
     report = build_report()
     print_report(report)
     print_leaf_report(report['leaves'], show_all=args.leaves)
     print_legacy_section(scan_unregistered_dirs())
+    if args.check_source_freshness:
+        from source_freshness import audit_source_dates, print_source_dates
+        report['source_date_checks'] = audit_source_dates(report['leaves'])
+        print_source_dates(report['source_date_checks'])
 
     if args.suggest_prune:
         suggest_prune(report)

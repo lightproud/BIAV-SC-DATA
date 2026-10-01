@@ -144,6 +144,29 @@ class TestRunZeroCostBranches(unittest.TestCase):
             p.start()
         self.addCleanup(lambda: [p.stop() for p in patches])
 
+    def test_steam_health_keys_and_core_failures(self):
+        tracker = mock.MagicMock()
+        tracker.should_skip_platform.return_value = False
+        fake_dq = mock.MagicMock()
+        fake_dq.SilentPlatformTracker.return_value = tracker
+
+        def fail():
+            raise RuntimeError("steam review failure")
+
+        with mock.patch.object(global_collectors, "_refresh_cutoff", return_value=None), \
+                mock.patch.dict(sys.modules, {"data_quality": fake_dq,
+                                              "playwright_collectors": None}):
+            self._patch_all_empty({"Steam News": lambda: [_item("news", "https://news/1")],
+                                   "Steam Reviews": fail})
+            items, core_failures = cg.run_zero_cost_collectors()
+        self.assertEqual(len(items), 1)
+        self.assertIn(mock.call("official"), tracker.should_skip_platform.call_args_list)
+        self.assertIn(mock.call("steam"), tracker.should_skip_platform.call_args_list)
+        self.assertNotIn(mock.call("steam_review"), tracker.should_skip_platform.call_args_list)
+        tracker.update_platform_status.assert_any_call("official", 1)
+        tracker.update_platform_status.assert_any_call("steam", 0, error="steam review failure")
+        self.assertEqual(core_failures, [("steam", "steam review failure")])
+
     def test_dormant_source_skipped(self):
         # A tracker that marks every platform dormant → all skipped, no items.
         tracker = mock.MagicMock()
