@@ -91,7 +91,12 @@ jobs:
           fi
           git commit -m "data(community): monthly cold compress (T62 P2-3c)"
           for i in 1 2 3 4; do
-            git pull --rebase origin main && git push origin main && exit 0
+            if git pull --rebase origin main; then
+              git push origin main && exit 0
+            elif [ -d "$(git rev-parse --git-path rebase-merge)" ] ||
+                 [ -d "$(git rev-parse --git-path rebase-apply)" ]; then
+              git rebase --abort || exit 1
+            fi
             echo "Push attempt $i failed, retrying in ${i}s..."
             sleep $i
           done
