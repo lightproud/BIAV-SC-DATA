@@ -447,6 +447,62 @@
       "title": "【忘却前夜】融災禁区・第3波・Ⅴ級警報（2026/10/01）",
       "time": "2026-10-01T09:24:24Z",
       "downloaded_at": "2026-10-01T12:03:37.273306+00:00"
+    },
+    "https://i.ytimg.com/vi/eGvD9urtJBQ/hqdefault.jpg": {
+      "filename": "youtube_14a60e377f3d579b.jpg",
+      "source": "youtube",
+      "title": "[Morimens] Advanced G-Ogier Guide - Editor Edition. Hunt them down if you don&#39;t like the video.",
+      "time": "2026-10-01T13:58:59Z",
+      "downloaded_at": "2026-10-01T19:59:16.750201+00:00"
+    },
+    "https://i.ytimg.com/vi/riOtdPf6CT4/hqdefault.jpg": {
+      "filename": "youtube_59e86aca3287a690.jpg",
+      "source": "youtube",
+      "title": "Cards, Strategy, Art, Story // Morimens // Chron Plays - 1",
+      "time": "2026-10-01T11:59:42Z",
+      "downloaded_at": "2026-10-01T19:59:18.362293+00:00"
+    },
+    "https://i.ytimg.com/vi/hvTDXdBRyqg/hqdefault.jpg": {
+      "filename": "youtube_577fa3704eca0f41.jpg",
+      "source": "youtube",
+      "title": "#healing caraboo :)) #morimens #fyp",
+      "time": "2026-10-01T19:05:13Z",
+      "downloaded_at": "2026-10-01T19:59:19.358523+00:00"
+    },
+    "https://i.ytimg.com/vi/bad97wS3fVs/hqdefault.jpg": {
+      "filename": "youtube_98cb72bd67dc03bb.jpg",
+      "source": "youtube",
+      "title": "[Morimens] How to play Liz [Guide]",
+      "time": "2026-10-01T16:00:06Z",
+      "downloaded_at": "2026-10-01T19:59:19.829699+00:00"
+    },
+    "https://i.ytimg.com/vi/1zU8evWzCAQ/hqdefault.jpg": {
+      "filename": "youtube_d24e333db33191b3.jpg",
+      "source": "youtube",
+      "title": "A Knight&#39;s End (Stream 36) MORIMENS",
+      "time": "2026-10-01T16:00:15Z",
+      "downloaded_at": "2026-10-01T19:59:20.202391+00:00"
+    },
+    "https://i.ytimg.com/vi/ans4YL7gFO0/hqdefault.jpg": {
+      "filename": "youtube_c5535fe35f8fcb4d.jpg",
+      "source": "youtube",
+      "title": "Zone 1 with Lotan 01.10.2026 (Aequor rotation)",
+      "time": "2026-10-01T14:20:09Z",
+      "downloaded_at": "2026-10-01T19:59:20.621076+00:00"
+    },
+    "https://i.ytimg.com/vi/U6tp9GIercU/hqdefault.jpg": {
+      "filename": "youtube_106f1af7973aa369.jpg",
+      "source": "youtube",
+      "title": "Zone 3 with Pontos 01.10.2026 (Aequor rotation)",
+      "time": "2026-10-01T14:10:07Z",
+      "downloaded_at": "2026-10-01T19:59:21.033932+00:00"
+    },
+    "https://i.ytimg.com/vi/BtlGH8Qczzw/hqdefault_live.jpg": {
+      "filename": "youtube_8d49130ae5d6524c.jpg",
+      "source": "youtube",
+      "title": "『忘却前夜/超初心者様向け』毎週・毎月やった方が良い事を紹介！『ゲーム解説』",
+      "time": "2026-10-01T12:26:49Z",
+      "downloaded_at": "2026-10-01T19:59:21.480749+00:00"
     }
   },
   "failed": {
@@ -524,6 +580,36 @@
       "source": "bilibili",
       "reason": "download_failed",
       "attempted_at": "2026-10-01T12:03:35.427807+00:00"
+    },
+    "//i0.hdslb.com/bfs/archive/03d7cab8fe91ee48bf91f9bf69d27c455990ff35.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-01T19:59:17.050729+00:00"
+    },
+    "//i2.hdslb.com/bfs/archive/59fe3f6a086ef5c64952b2f99177853e966aa7bc.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-01T19:59:17.351206+00:00"
+    },
+    "//i1.hdslb.com/bfs/archive/73f0e46267760d0d8fa29477ec8024d2d79fbc12.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-01T19:59:17.651700+00:00"
+    },
+    "//i1.hdslb.com/bfs/archive/921dc5aad7273d7118c59a1a0d42efb1cbdc5591.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-01T19:59:17.952189+00:00"
+    },
+    "//i0.hdslb.com/bfs/archive/10a8648672186437e0107fd900e0b82e396d319c.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-01T19:59:18.662804+00:00"
+    },
+    "//i0.hdslb.com/bfs/archive/21aa315a8cdcab7d3b28d0a64406d554e0dfbbf5.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-01T19:59:18.963286+00:00"
     }
   },
   "archived": []
