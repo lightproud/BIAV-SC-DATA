@@ -25,6 +25,10 @@
       "tier": "T1",
       "why": "Playwright 采集器，供 T1 采集使用"
     },
+    "weibo_common": {
+      "tier": "T1",
+      "why": "微博 API 与 Playwright 两条 T1 采集路线共用的计数解析和未知值语义"
+    },
     "collection_state": {
       "tier": "T1",
       "why": "自适应回看时窗——只服务采集轮次"
