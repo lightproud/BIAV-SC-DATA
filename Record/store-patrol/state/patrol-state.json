@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-30T13:41:10.869Z",
+  "updated_at": "2026-10-01T14:27:02.834Z",
   "targets": {
     "steam-appdetails": {
-      "last_attempt_at": "2026-09-30T04:23:49.040Z",
+      "last_attempt_at": "2026-10-01T14:27:02.587Z",
       "last_attempts": 1,
       "last_status": "ok",
-      "last_success_at": "2026-09-30T04:23:49.040Z",
-      "last_success_date": "2026-09-30",
+      "last_success_at": "2026-10-01T14:27:02.587Z",
+      "last_success_date": "2026-10-01",
       "consecutive_failures": 0,
       "last_error": null
     },
     "steam-review-summary": {
-      "last_attempt_at": "2026-09-30T04:23:49.313Z",
+      "last_attempt_at": "2026-10-01T14:27:02.834Z",
       "last_attempts": 1,
       "last_status": "ok",
-      "last_success_at": "2026-09-30T04:23:49.313Z",
-      "last_success_date": "2026-09-30",
+      "last_success_at": "2026-10-01T14:27:02.834Z",
+      "last_success_date": "2026-10-01",
       "consecutive_failures": 0,
       "last_error": null
     }
