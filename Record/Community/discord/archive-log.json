@@ -1,213 +1,303 @@
 [
   {
-    "month": "2023-11",
-    "files": 9,
-    "archive_size_bytes": 9910,
+    "source": "discord",
+    "group": "2023-11",
+    "tag": "community-data",
+    "asset": "discord-archive-2023-11.tar.gz",
+    "files": 124,
+    "archive_size_bytes": 773213,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:05.261062+00:00"
+    "archived_at": "2026-10-01T12:11:19.159598+00:00"
   },
   {
-    "month": "2023-12",
-    "files": 109,
-    "archive_size_bytes": 249088,
+    "source": "discord",
+    "group": "2023-12",
+    "tag": "community-data",
+    "asset": "discord-archive-2023-12.tar.gz",
+    "files": 223,
+    "archive_size_bytes": 4223812,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:08.651250+00:00"
+    "archived_at": "2026-10-01T12:11:20.747752+00:00"
   },
   {
-    "month": "2024-01",
-    "files": 108,
-    "archive_size_bytes": 207133,
+    "source": "discord",
+    "group": "2024-01",
+    "tag": "community-data",
+    "asset": "discord-archive-2024-01.tar.gz",
+    "files": 195,
+    "archive_size_bytes": 3638875,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:11.757775+00:00"
+    "archived_at": "2026-10-01T12:11:22.407695+00:00"
   },
   {
-    "month": "2024-02",
-    "files": 108,
-    "archive_size_bytes": 167754,
+    "source": "discord",
+    "group": "2024-02",
+    "tag": "community-data",
+    "asset": "discord-archive-2024-02.tar.gz",
+    "files": 152,
+    "archive_size_bytes": 2060604,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:15.015863+00:00"
+    "archived_at": "2026-10-01T12:11:23.845365+00:00"
   },
   {
-    "month": "2024-03",
-    "files": 110,
-    "archive_size_bytes": 189840,
+    "source": "discord",
+    "group": "2024-03",
+    "tag": "community-data",
+    "asset": "discord-archive-2024-03.tar.gz",
+    "files": 135,
+    "archive_size_bytes": 2444153,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:18.296688+00:00"
+    "archived_at": "2026-10-01T12:11:25.587016+00:00"
   },
   {
-    "month": "2024-04",
-    "files": 113,
-    "archive_size_bytes": 217462,
+    "source": "discord",
+    "group": "2024-04",
+    "tag": "community-data",
+    "asset": "discord-archive-2024-04.tar.gz",
+    "files": 136,
+    "archive_size_bytes": 3397598,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:21.526289+00:00"
+    "archived_at": "2026-10-01T12:11:27.182370+00:00"
   },
   {
-    "month": "2024-05",
-    "files": 121,
-    "archive_size_bytes": 286930,
+    "source": "discord",
+    "group": "2024-05",
+    "tag": "community-data",
+    "asset": "discord-archive-2024-05.tar.gz",
+    "files": 169,
+    "archive_size_bytes": 4782849,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:24.644684+00:00"
+    "archived_at": "2026-10-01T12:11:29.110269+00:00"
   },
   {
-    "month": "2024-06",
-    "files": 107,
-    "archive_size_bytes": 228492,
+    "source": "discord",
+    "group": "2024-06",
+    "tag": "community-data",
+    "asset": "discord-archive-2024-06.tar.gz",
+    "files": 159,
+    "archive_size_bytes": 3839733,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:27.892490+00:00"
+    "archived_at": "2026-10-01T12:11:30.834683+00:00"
   },
   {
-    "month": "2024-07",
-    "files": 107,
-    "archive_size_bytes": 150774,
+    "source": "discord",
+    "group": "2024-07",
+    "tag": "community-data",
+    "asset": "discord-archive-2024-07.tar.gz",
+    "files": 164,
+    "archive_size_bytes": 2443394,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:31.038345+00:00"
+    "archived_at": "2026-10-01T12:11:32.567141+00:00"
   },
   {
-    "month": "2024-08",
-    "files": 83,
-    "archive_size_bytes": 104687,
+    "source": "discord",
+    "group": "2024-08",
+    "tag": "community-data",
+    "asset": "discord-archive-2024-08.tar.gz",
+    "files": 147,
+    "archive_size_bytes": 3775393,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:34.451892+00:00"
+    "archived_at": "2026-10-01T12:11:34.380210+00:00"
   },
   {
-    "month": "2024-09",
-    "files": 78,
-    "archive_size_bytes": 97248,
-    "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:37.414487+00:00"
-  },
-  {
-    "month": "2024-10",
-    "files": 87,
-    "archive_size_bytes": 93833,
-    "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:40.539911+00:00"
-  },
-  {
-    "month": "2024-11",
-    "files": 81,
-    "archive_size_bytes": 91214,
-    "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:43.414586+00:00"
-  },
-  {
-    "month": "2024-12",
-    "files": 76,
-    "archive_size_bytes": 73761,
-    "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:46.307750+00:00"
-  },
-  {
-    "month": "2025-01",
-    "files": 67,
-    "archive_size_bytes": 82268,
-    "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:49.395184+00:00"
-  },
-  {
-    "month": "2025-02",
-    "files": 71,
-    "archive_size_bytes": 98261,
-    "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:52.244583+00:00"
-  },
-  {
-    "month": "2025-03",
-    "files": 88,
-    "archive_size_bytes": 93689,
-    "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:55.475078+00:00"
-  },
-  {
-    "month": "2025-04",
-    "files": 106,
-    "archive_size_bytes": 107787,
-    "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:35:58.636731+00:00"
-  },
-  {
-    "month": "2025-05",
-    "files": 107,
-    "archive_size_bytes": 114316,
-    "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:36:01.972682+00:00"
-  },
-  {
-    "month": "2025-06",
-    "files": 103,
-    "archive_size_bytes": 88312,
-    "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:36:05.125449+00:00"
-  },
-  {
-    "month": "2025-07",
-    "files": 110,
-    "archive_size_bytes": 124192,
-    "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:36:08.356593+00:00"
-  },
-  {
-    "month": "2025-08",
-    "files": 150,
-    "archive_size_bytes": 156958,
-    "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:36:11.995369+00:00"
-  },
-  {
-    "month": "2025-09",
+    "source": "discord",
+    "group": "2024-09",
+    "tag": "community-data",
+    "asset": "discord-archive-2024-09.tar.gz",
     "files": 145,
-    "archive_size_bytes": 168109,
+    "archive_size_bytes": 4516209,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:36:15.473463+00:00"
+    "archived_at": "2026-10-01T12:11:36.288150+00:00"
   },
   {
-    "month": "2025-10",
-    "files": 151,
-    "archive_size_bytes": 147580,
+    "source": "discord",
+    "group": "2024-10",
+    "tag": "community-data",
+    "asset": "discord-archive-2024-10.tar.gz",
+    "files": 187,
+    "archive_size_bytes": 4274989,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:36:18.927641+00:00"
+    "archived_at": "2026-10-01T12:11:38.164569+00:00"
   },
   {
-    "month": "2025-11",
-    "files": 166,
-    "archive_size_bytes": 258923,
+    "source": "discord",
+    "group": "2024-11",
+    "tag": "community-data",
+    "asset": "discord-archive-2024-11.tar.gz",
+    "files": 371,
+    "archive_size_bytes": 6776078,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:36:22.741373+00:00"
+    "archived_at": "2026-10-01T12:11:40.006644+00:00"
   },
   {
-    "month": "2025-12",
-    "files": 138,
-    "archive_size_bytes": 189420,
+    "source": "discord",
+    "group": "2024-12",
+    "tag": "community-data",
+    "asset": "discord-archive-2024-12.tar.gz",
+    "files": 371,
+    "archive_size_bytes": 6643540,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:36:26.483856+00:00"
+    "archived_at": "2026-10-01T12:11:41.901013+00:00"
   },
   {
-    "month": "2026-01",
-    "files": 108,
-    "archive_size_bytes": 118574,
+    "source": "discord",
+    "group": "2025-01",
+    "tag": "community-data",
+    "asset": "discord-archive-2025-01.tar.gz",
+    "files": 419,
+    "archive_size_bytes": 6971579,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:36:29.528653+00:00"
+    "archived_at": "2026-10-01T12:11:43.841493+00:00"
   },
   {
-    "month": "2026-02",
-    "files": 120,
-    "archive_size_bytes": 114859,
+    "source": "discord",
+    "group": "2025-02",
+    "tag": "community-data",
+    "asset": "discord-archive-2025-02.tar.gz",
+    "files": 388,
+    "archive_size_bytes": 6194976,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:36:32.673729+00:00"
+    "archived_at": "2026-10-01T12:11:46.166958+00:00"
   },
   {
-    "month": "2026-03",
-    "files": 1129,
-    "archive_size_bytes": 2033341,
+    "source": "discord",
+    "group": "2025-03",
+    "tag": "community-data",
+    "asset": "discord-archive-2025-03.tar.gz",
+    "files": 412,
+    "archive_size_bytes": 6127787,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:36:42.602675+00:00"
+    "archived_at": "2026-10-01T12:11:47.977821+00:00"
   },
   {
-    "month": "2026-04",
-    "files": 31,
-    "archive_size_bytes": 737770,
+    "source": "discord",
+    "group": "2025-04",
+    "tag": "community-data",
+    "asset": "discord-archive-2025-04.tar.gz",
+    "files": 430,
+    "archive_size_bytes": 9396803,
     "uploaded_to_releases": true,
-    "archived_at": "2026-06-01T11:36:45.705807+00:00"
+    "archived_at": "2026-10-01T12:11:50.087983+00:00"
+  },
+  {
+    "source": "discord",
+    "group": "2025-05",
+    "tag": "community-data",
+    "asset": "discord-archive-2025-05.tar.gz",
+    "files": 443,
+    "archive_size_bytes": 12497931,
+    "uploaded_to_releases": true,
+    "archived_at": "2026-10-01T12:11:52.552333+00:00"
+  },
+  {
+    "source": "discord",
+    "group": "2025-06",
+    "tag": "community-data",
+    "asset": "discord-archive-2025-06.tar.gz",
+    "files": 443,
+    "archive_size_bytes": 11962548,
+    "uploaded_to_releases": true,
+    "archived_at": "2026-10-01T12:11:54.675949+00:00"
+  },
+  {
+    "source": "discord",
+    "group": "2025-07",
+    "tag": "community-data",
+    "asset": "discord-archive-2025-07.tar.gz",
+    "files": 485,
+    "archive_size_bytes": 18007463,
+    "uploaded_to_releases": true,
+    "archived_at": "2026-10-01T12:11:57.069461+00:00"
+  },
+  {
+    "source": "discord",
+    "group": "2025-08",
+    "tag": "community-data",
+    "asset": "discord-archive-2025-08.tar.gz",
+    "files": 750,
+    "archive_size_bytes": 21109136,
+    "uploaded_to_releases": true,
+    "archived_at": "2026-10-01T12:11:59.683013+00:00"
+  },
+  {
+    "source": "discord",
+    "group": "2025-09",
+    "tag": "community-data",
+    "asset": "discord-archive-2025-09.tar.gz",
+    "files": 828,
+    "archive_size_bytes": 18511054,
+    "uploaded_to_releases": true,
+    "archived_at": "2026-10-01T12:12:02.343427+00:00"
+  },
+  {
+    "source": "discord",
+    "group": "2025-10",
+    "tag": "community-data",
+    "asset": "discord-archive-2025-10.tar.gz",
+    "files": 852,
+    "archive_size_bytes": 21838223,
+    "uploaded_to_releases": true,
+    "archived_at": "2026-10-01T12:12:05.410377+00:00"
+  },
+  {
+    "source": "discord",
+    "group": "2025-11",
+    "tag": "community-data",
+    "asset": "discord-archive-2025-11.tar.gz",
+    "files": 918,
+    "archive_size_bytes": 27958656,
+    "uploaded_to_releases": true,
+    "archived_at": "2026-10-01T12:12:08.471168+00:00"
+  },
+  {
+    "source": "discord",
+    "group": "2025-12",
+    "tag": "community-data",
+    "asset": "discord-archive-2025-12.tar.gz",
+    "files": 974,
+    "archive_size_bytes": 24459440,
+    "uploaded_to_releases": true,
+    "archived_at": "2026-10-01T12:12:11.229597+00:00"
+  },
+  {
+    "source": "discord",
+    "group": "2026-01",
+    "tag": "community-data",
+    "asset": "discord-archive-2026-01.tar.gz",
+    "files": 908,
+    "archive_size_bytes": 22759547,
+    "uploaded_to_releases": true,
+    "archived_at": "2026-10-01T12:12:14.055722+00:00"
+  },
+  {
+    "source": "discord",
+    "group": "2026-02",
+    "tag": "community-data",
+    "asset": "discord-archive-2026-02.tar.gz",
+    "files": 268,
+    "archive_size_bytes": 1099186,
+    "uploaded_to_releases": true,
+    "archived_at": "2026-10-01T12:12:15.819900+00:00"
+  },
+  {
+    "source": "discord",
+    "group": "2026-03",
+    "tag": "community-data",
+    "asset": "discord-archive-2026-03.tar.gz",
+    "files": 1293,
+    "archive_size_bytes": 2502346,
+    "uploaded_to_releases": true,
+    "archived_at": "2026-10-01T12:12:17.808484+00:00"
+  },
+  {
+    "source": "discord",
+    "group": "2026-04",
+    "tag": "community-data",
+    "asset": "discord-archive-2026-04.tar.gz",
+    "files": 1244,
+    "archive_size_bytes": 32407236,
+    "uploaded_to_releases": true,
+    "archived_at": "2026-10-01T12:12:21.396698+00:00"
   },
   {
     "source": "discord",
@@ -495,19 +585,19 @@
     "tag": "community-data",
     "asset": "discord-archive-2023-07.tar.gz",
     "files": 1,
-    "archive_size_bytes": 2428,
+    "archive_size_bytes": 2562,
     "uploaded_to_releases": true,
-    "archived_at": "2026-07-01T09:30:04.181016+00:00"
+    "archived_at": "2026-10-01T12:11:16.167406+00:00"
   },
   {
     "source": "discord",
     "group": "2023-10",
     "tag": "community-data",
     "asset": "discord-archive-2023-10.tar.gz",
-    "files": 16,
-    "archive_size_bytes": 73581,
+    "files": 15,
+    "archive_size_bytes": 80324,
     "uploaded_to_releases": true,
-    "archived_at": "2026-07-01T09:30:05.528864+00:00"
+    "archived_at": "2026-10-01T12:11:17.581624+00:00"
   },
   {
     "source": "discord",
@@ -814,9 +904,39 @@
     "group": "2026-05",
     "tag": "community-data",
     "asset": "discord-archive-2026-05.tar.gz",
-    "files": 36,
-    "archive_size_bytes": 1029762,
+    "files": 1357,
+    "archive_size_bytes": 44263412,
     "uploaded_to_releases": true,
-    "archived_at": "2026-07-01T09:32:15.596278+00:00"
+    "archived_at": "2026-10-01T12:12:25.683085+00:00"
+  },
+  {
+    "source": "discord",
+    "group": "2026-06",
+    "tag": "community-data",
+    "asset": "discord-archive-2026-06.tar.gz",
+    "files": 1390,
+    "archive_size_bytes": 47470929,
+    "uploaded_to_releases": true,
+    "archived_at": "2026-10-01T12:12:29.544974+00:00"
+  },
+  {
+    "source": "discord",
+    "group": "2026-07",
+    "tag": "community-data",
+    "asset": "discord-archive-2026-07.tar.gz",
+    "files": 1315,
+    "archive_size_bytes": 35169258,
+    "uploaded_to_releases": true,
+    "archived_at": "2026-10-01T12:12:32.825704+00:00"
+  },
+  {
+    "source": "discord",
+    "group": "2026-08",
+    "tag": "community-data",
+    "asset": "discord-archive-2026-08.tar.gz",
+    "files": 42,
+    "archive_size_bytes": 1190330,
+    "uploaded_to_releases": true,
+    "archived_at": "2026-10-01T12:12:34.539964+00:00"
   }
 ]
