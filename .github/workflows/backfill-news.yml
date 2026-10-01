@@ -107,7 +107,11 @@ jobs:
 
       - name: Pull latest backfill state (code repo)
         if: steps.check.outputs.skip != 'true'
-        run: git pull --rebase origin main || true
+        run: |
+          git pull --rebase origin main || {
+            git rebase --abort 2>/dev/null || true
+            exit 1
+          }
 
       - name: "Run backfill: ${{ matrix.platform }}"
         if: steps.check.outputs.skip != 'true'
