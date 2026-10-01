@@ -405,6 +405,48 @@
       "title": "Morimens Arcade N-Event G Ogier vs Putrescence Puppet lvl 80 (No gnosis used)",
       "time": "2026-09-30T21:48:25Z",
       "downloaded_at": "2026-10-01T03:04:51.893302+00:00"
+    },
+    "https://i.ytimg.com/vi/PHEwdaeOyNU/hqdefault.jpg": {
+      "filename": "youtube_b05fa7fd41b0fc05.jpg",
+      "source": "youtube",
+      "title": "【忘却前夜】イベント「霊魂の牧人・復刻」聖堂の道「要求・超難度」",
+      "time": "2026-10-01T06:54:22Z",
+      "downloaded_at": "2026-10-01T12:03:33.076207+00:00"
+    },
+    "https://i.ytimg.com/vi/jn42PbOUQLM/hqdefault.jpg": {
+      "filename": "youtube_b6a44b5a4d5e738f.jpg",
+      "source": "youtube",
+      "title": "【忘却前夜】融災禁区・第4波・Ⅴ級警報（2026/10/01）",
+      "time": "2026-10-01T09:11:48Z",
+      "downloaded_at": "2026-10-01T12:03:33.545169+00:00"
+    },
+    "https://i.ytimg.com/vi/r6BBQlMVWkE/hqdefault.jpg": {
+      "filename": "youtube_72354beff34eafc6.jpg",
+      "source": "youtube",
+      "title": "【忘却前夜】融災禁区・第2波・Ⅴ級警報（2026/10/01）",
+      "time": "2026-10-01T11:33:22Z",
+      "downloaded_at": "2026-10-01T12:03:35.127337+00:00"
+    },
+    "https://prcdn.freetls.fastly.net/release_image/53906/355/53906-355-fa57120b155dd090ce26a6dc32b9c247-1980x1280.png?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff": {
+      "filename": "prtimes_dc89f253e413a77e.png",
+      "source": "prtimes",
+      "title": "カードRPG『忘却前夜』9月17日（木）17時より新覚醒体「コーパサント」が登場！",
+      "time": "2026-09-17T08:30:02+00:00",
+      "downloaded_at": "2026-10-01T12:03:36.067657+00:00"
+    },
+    "https://prcdn.freetls.fastly.net/release_image/53906/352/53906-352-7895239ff605727d562dad4b30eb345f-1980x1280.png?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff": {
+      "filename": "prtimes_8d5948de9c10c318.png",
+      "source": "prtimes",
+      "title": "カードRPG『忘却前夜』9月3日（木）15時より新覚醒体「ムシェット」が登場！",
+      "time": "2026-09-03T06:30:01+00:00",
+      "downloaded_at": "2026-10-01T12:03:36.806356+00:00"
+    },
+    "https://i.ytimg.com/vi/VbNjyZ5wti4/hqdefault.jpg": {
+      "filename": "youtube_71cb0e058ad4521c.jpg",
+      "source": "youtube",
+      "title": "【忘却前夜】融災禁区・第3波・Ⅴ級警報（2026/10/01）",
+      "time": "2026-10-01T09:24:24Z",
+      "downloaded_at": "2026-10-01T12:03:37.273306+00:00"
     }
   },
   "failed": {
@@ -472,6 +514,16 @@
       "source": "bilibili",
       "reason": "download_failed",
       "attempted_at": "2026-10-01T03:04:50.897496+00:00"
+    },
+    "//i0.hdslb.com/bfs/archive/69ba74fb3b8b74a70a433f5298c5bad78f906510.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-01T12:03:32.497324+00:00"
+    },
+    "//i2.hdslb.com/bfs/archive/089d8502b630230cb96f584af574550471d1233b.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-01T12:03:35.427807+00:00"
     }
   },
   "archived": []
