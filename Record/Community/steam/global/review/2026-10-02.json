@@ -1,8 +1,8 @@
 {
   "date": "2026-10-02",
-  "archived_at": "2026-10-02T09:10:22.566566+00:00",
+  "archived_at": "2026-10-02T17:02:22.563079+00:00",
   "source": "steam",
-  "item_count": 6,
+  "item_count": 9,
   "items": [
     {
       "title": "[负面] I would like to recommend this game but im struggl...",
@@ -138,6 +138,75 @@
         "playtime_forever": 11842,
         "votes_up": 0,
         "timestamp_created": 1790895251
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] This game deserves more love for how strategy-base...",
+      "summary": "This game deserves more love for how strategy-based it is and how well it takes the card genre to the next level. Beautiful art and storytelling, and almost everything is perfect.",
+      "source": "steam_review",
+      "time": "2026-10-02T15:41:49+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198657172817/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198657172817",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 4565,
+        "votes_up": 0,
+        "timestamp_created": 1790955709
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 《忘却前夜》是一款克苏鲁风格的卡牌构筑游戏，对我来说是一款爱恨交织的作品，它的美术、角色设计足够抓人...",
+      "summary": "《忘却前夜》是一款克苏鲁风格的卡牌构筑游戏，对我来说是一款爱恨交织的作品，它的美术、角色设计足够抓人，但复杂的战斗玩法，成为了我入坑最大的门槛。\r\n\r\n最让我着迷的，是它独一份的美术画风。厚涂质感的立绘，结合维多利亚暗黑诡谲的克苏鲁氛围，阴郁朦胧的色调，把 “融蚀” 世界那种疯狂又破碎的氛围感完美烘托出来。没有流水线二次元的模板感，每一位唤醒体角色设计都极具辨识度，优雅和异化的细节相互交织，角色档案、CG 插图质量都很高。哪怕暂时打不过关卡，光是翻看角色立绘、阅读人物故事，就足够让人沉浸在这个世界观里。角色群像塑造很有魅力，每个唤醒体背后都藏着痛苦与秘密，我非常愿意去了解他们的过往与命运，光是为了看角色，就愿意继续留在游戏里。\r\n\r\n但亮眼的美术之下，玩法部分对卡牌新手并不算友好。作为肉鸽卡牌构筑，游戏拥有庞大的卡牌库、多种体系机制，融合度、狂气、胚胎、力量等一大堆专有词条堆砌在一起，教程讲得很浅，很多机制需要自己反复碰壁才能慢慢摸索明白。战斗时，经常看不懂卡牌联动逻辑，不知道该怎么组牌，明明很喜欢手里的角色，却不知道怎么发挥他们的实力。经常出现看得懂卡牌文字，却搞不懂整套流派该如何运转的情况，打关卡屡屡受挫。\r\n\r\n不是玩法不好玩，而是它策略深度很高，更适合熟悉卡牌肉鸽的玩家。对于我这种冲着颜值和人设来的人，战斗会带来很强的挫败感，常常出现：很想看剧情看角色，却被玩法没有看懂而感到烦恼。",
+      "source": "steam_review",
+      "time": "2026-10-02T10:31:41+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199820075420/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199820075420",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1118,
+        "votes_up": 0,
+        "timestamp_created": 1790937101
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 缺点明显数值膨胀就是快况且角色练度拉满要求抽数多虽然30抽小保底但是我个人觉得这个歪的几率还是蛮大的...",
+      "summary": "缺点明显数值膨胀就是快况且角色练度拉满要求抽数多虽然30抽小保底但是我个人觉得这个歪的几率还是蛮大的\n优点是游戏剧情是不错立绘也很好看我个人是挺喜欢这个游戏的",
+      "source": "steam_review",
+      "time": "2026-10-02T07:27:23+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199191440875/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199191440875",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1382,
+        "votes_up": 0,
+        "timestamp_created": 1790926043
       },
       "region": "global",
       "archive_subtype": "review"

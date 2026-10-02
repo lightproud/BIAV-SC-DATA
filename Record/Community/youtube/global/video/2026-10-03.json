@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-03",
+  "archived_at": "2026-10-02T17:02:21.085128+00:00",
+  "source": "youtube",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Morimens \\\\ Прохождение д-зоны от 28.09.26",
+      "summary": "Добровольная поддержка: https://www.donationalerts.com/r/closetom Напрямую: 2200700154063498 Т-Банк Соцсети: ...",
+      "source": "youtube",
+      "time": "2026-10-02T16:22:41Z",
+      "url": "https://www.youtube.com/watch?v=qXu8x9BvLxQ",
+      "engagement": 172,
+      "is_hot": false,
+      "author": "Closetom",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/qXu8x9BvLxQ/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Morimens code - Morimens mod unlimited resources for iOS Android",
+      "summary": "Morimens code - Morimens mod unlimited resources for iOS Android Looking for the latest Morimens codes? ✨ This video ...",
+      "source": "youtube",
+      "time": "2026-10-02T16:53:24Z",
+      "url": "https://www.youtube.com/watch?v=BO_RdMfbL5A",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Bobby Charton",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/BO_RdMfbL5A/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "video"
+}

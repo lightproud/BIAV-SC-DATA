@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-02",
+  "archived_at": "2026-10-02T17:02:22.700920+00:00",
+  "source": "pixiv",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Funny moment",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-10-02T20:03:52+09:00",
+      "url": "https://www.pixiv.net/artworks/150366900",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "CaptainFantom",
+      "tags": [
+        "Morimens",
+        "忘却前夜",
+        "忘卻前夜",
+        "Aigis",
+        "Jenkin"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/custom-thumb/img/2026/10/02/20/03/52/150366900_p0_custom1200.jpg",
+      "content_type": "image"
+    },
+    {
+      "title": "Morimens - Jenkin",
+      "summary": "",
+      "source": "pixiv",
+      "time": "2026-10-02T18:43:33+09:00",
+      "url": "https://www.pixiv.net/artworks/150363529",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Vigmatu",
+      "tags": [
+        "망각전야",
+        "忘却前夜",
+        "Morimens"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.pximg.net/c/250x250_80_a2/img-master/img/2026/10/02/18/43/33/150363529_p0_square1200.jpg",
+      "content_type": "image"
+    }
+  ]
+}

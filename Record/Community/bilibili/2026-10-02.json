@@ -1,8 +1,8 @@
 {
   "date": "2026-10-02",
-  "archived_at": "2026-10-02T09:10:21.052477+00:00",
+  "archived_at": "2026-10-02T17:02:21.044911+00:00",
   "source": "bilibili",
-  "item_count": 8,
+  "item_count": 10,
   "items": [
     {
       "title": "癫狂列车最轮椅之选，专造负骑，半小时无脑平推一镜到底",
@@ -36,6 +36,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/54b6cb29a886d97dcd137afbc6af198fe4029204.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "［忘却前夜］新版本密契结合杂谈",
+      "summary": "撒西不理达呐",
+      "source": "bilibili",
+      "time": "2026-10-02T14:23:47+00:00",
+      "url": "https://www.bilibili.com/video/av117371758970438",
+      "engagement": 287,
+      "is_hot": false,
+      "author": "梦依流苏_myls",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/abc95f2bdb34851b619f47c298d32897d424bc7a.jpg",
       "content_type": "video"
     },
     {
@@ -121,6 +138,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i0.hdslb.com/bfs/archive/10a8648672186437e0107fd900e0b82e396d319c.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "[忘却前夜]在1–6蠕动的3启骑士",
+      "summary": "好艰难呀！全靠筹算卡拉布发力",
+      "source": "bilibili",
+      "time": "2026-10-02T14:39:21+00:00",
+      "url": "https://www.bilibili.com/video/av117371809436872",
+      "engagement": 86,
+      "is_hot": false,
+      "author": "护林犬",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i0.hdslb.com/bfs/archive/99b4abdcab4fe9b7561f410f1b8f25ff69bd60e9.jpg",
       "content_type": "video"
     },
     {
