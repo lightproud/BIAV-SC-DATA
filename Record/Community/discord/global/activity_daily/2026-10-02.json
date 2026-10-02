@@ -1,62 +1,101 @@
 {
   "date": "2026-10-02",
-  "messages": 4124,
-  "unique_authors": 133,
-  "reactions_total": 449,
-  "attachments": 232,
+  "messages": 10630,
+  "unique_authors": 221,
+  "reactions_total": 1340,
+  "attachments": 485,
   "channel_activity": {
-    "🔸綜合討論": 40,
+    "🔸綜合討論": 390,
+    "🔸morimens-game-chat": 5353,
+    "🔸相位对弈": 14,
+    "🔸课间休息闲聊": 12,
+    "🔸交友频道": 4,
+    "🔸한국어-채팅방": 3,
+    "🔸phòng-chat-tiếng-việt": 861,
+    "🔸canal-español": 99,
+    "🔸canal-português": 4,
+    "🔸ruang-obrolan-indonesia": 80,
+    "🔸ห้องสนทนาภาษาไทย": 7,
+    "🔸traphase": 93,
+    "🔸lore-chat": 131,
+    "🔸lets-count": 6,
+    "🔸team-building": 642,
+    "🔸general-chat": 994,
+    "🔸邀请码互助┊swap-invitation-codes": 4,
+    "🔸game-question": 1817,
+    "🔸机器人命令┊bot-commands": 14,
+    "大學宿舍鄰居夢遊遊": 20,
+    "8-12 Typo": 1,
+    "Refined Gnosis Fragments essentially now unobtainable?!?": 9,
+    "Why doesn't this wave 4 dtide rotation have icefield?": 2,
+    "Random Posse Pool Control": 7,
+    "Pls give out origin of time for limited awakener & wheels": 4,
+    "D-tide Discussion": 11,
+    "V2.5.1.0 停服维护公告": 10,
+    "Ogier: Oathbound 🛡️": 3,
+    "My game froze mid Pollux exalt and I drew what it reminded me of": 6,
+    "Nefraea + Arachne Posting": 2,
+    "mo's doresain art posting! (★)": 1,
+    "V2.5.0 命运剧院┊Theater of Fate": 1,
+    "Pull advice?": 4,
     "🔸阵容构建": 2,
-    "🔸morimens-game-chat": 2043,
     "🔸剧情交流": 4,
-    "🔸相位对弈": 7,
-    "🔸phòng-chat-tiếng-việt": 314,
-    "🔸canal-español": 73,
-    "🔸canal-português": 3,
-    "🔸ruang-obrolan-indonesia": 20,
-    "🔸ห้องสนทนาภาษาไทย": 2,
-    "🔸traphase": 72,
-    "🔸lore-chat": 66,
-    "🔸lets-count": 2,
-    "🔸team-building": 135,
-    "🔸general-chat": 702,
-    "🔸game-question": 604,
-    "🔸机器人命令┊bot-commands": 8,
-    "Random Posse Pool Control": 4,
-    "V2.5.1.0 停服维护公告": 3,
-    "Ogier: Oathbound 🛡️": 1,
     "my actual nemesis": 3,
-    "My game froze mid Pollux exalt and I drew what it reminded me of": 3,
     "Aurita inspired pattern": 1,
     "Good evening Hameln nation": 1,
     "👀👀 pspsps hameln posting(?)": 1,
     "🔸русский-канал": 8,
-    "🔸邀请码互助┊swap-invitation-codes": 1,
     "Where are you staying?": 1
   },
   "hourly_activity": {
+    "9": 741,
+    "10": 513,
+    "11": 600,
+    "12": 840,
+    "13": 1289,
+    "14": 715,
+    "15": 559,
+    "16": 709,
+    "17": 373,
+    "8": 352,
     "2": 366,
     "3": 121,
     "4": 209,
     "6": 616,
     "7": 88,
-    "8": 185,
     "5": 451,
     "0": 989,
     "1": 1099
   },
   "message_types": {
-    "19": 1295,
-    "0": 2820,
-    "20": 9
+    "0": 7030,
+    "19": 3579,
+    "20": 20,
+    "23": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1555395409084416111",
+      "channel_id": "1555395409084416111",
+      "content": "應海佬要求的霸道樂園強制愛但是夢遊樂園本…..本（？）\n\n看上去就很詭異了還要看的後果自負嘿\n老實說丟同人有點詭異但隨便吧\n\n——————\n\n今天的只有13位住",
+      "author": "foxcatfurry",
+      "reactions": 17,
+      "channel": "大學宿舍鄰居夢遊遊"
+    },
     {
       "id": "1555252048902103092",
       "channel_id": "1170692781216378960",
       "content": "you could never scare me rich white woman",
       "author": "princess.goth",
       "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555395747665547406",
+      "channel_id": "1170692781216378960",
+      "content": "Can we just skip straight ahead to the Ultra unit?",
+      "author": "syro_k",
+      "reactions": 9,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -84,12 +123,52 @@
       "channel": "Ogier: Oathbound 🛡️"
     },
     {
+      "id": "1555489315109208137",
+      "channel_id": "1131839817982947429",
+      "content": "低人一等嗎...",
+      "author": "nemu_s_t_a_r",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1555402319275757749",
+      "channel_id": "1170692781216378960",
+      "content": "I can think of one unit to help....",
+      "author": "climbkaly",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555402646192394371",
+      "channel_id": "1170692781216378960",
+      "content": "Step 1: Introduce AA as a means of rewarding the commitment to characters, makin",
+      "author": "sirtealot",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555402277622120553",
+      "channel_id": "1555395409084416111",
+      "content": "色晕",
+      "author": "water_heart",
+      "reactions": 7,
+      "channel": "大學宿舍鄰居夢遊遊"
+    },
+    {
       "id": "1555259523898417154",
       "channel_id": "1170692781216378960",
       "content": "could be us",
       "author": "princess.goth",
       "reactions": 7,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555428190623629315",
+      "channel_id": "1131839817982947429",
+      "content": "大佬 癢癢 摳摳",
+      "author": "yi000607",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
     },
     {
       "id": "1555321121174192158",
@@ -100,115 +179,59 @@
       "channel": "my actual nemesis"
     },
     {
-      "id": "1555309106925932586",
-      "channel_id": "1170692781216378960",
-      "content": "<@193043069275209728> https://bsky.app/profile/mosske.bsky.social/post/3mwtnn34k",
-      "author": "mosske",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555333872944939069",
-      "channel_id": "1170692781216378960",
-      "content": "best WoD setup confirmed 😂",
-      "author": "ice3564",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555360255322492978",
+      "id": "1555428629381521499",
       "channel_id": "1131839817982947429",
       "content": "",
-      "author": "0.0._.0_0.",
-      "reactions": 4,
+      "author": "annabelle0868",
+      "reactions": 5,
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1555337953239236664",
+      "id": "1555387909883035690",
       "channel_id": "1170692781216378960",
-      "content": "lemurian full rewind team to make them work in dissolution",
-      "author": "monchi3524",
-      "reactions": 4,
+      "content": "good morning morimen and women",
+      "author": "wuyan_kana",
+      "reactions": 5,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1555346757074812939",
+      "id": "1555407957720563842",
       "channel_id": "1170692781216378960",
-      "content": "no, I rouse Goliath and use his OE blade  xd",
-      "author": "ice3564",
-      "reactions": 4,
+      "content": "As you know, not F2P. I didn't even buy the menophine pack for GOgier event caus",
+      "author": "climbkaly",
+      "reactions": 5,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1555301132857905164",
-      "channel_id": "1400749543288475770",
-      "content": "Alva is a girl??? I always thought alva is a boy",
-      "author": "shadowgame7101",
-      "reactions": 4,
-      "channel": "🔸team-building"
-    },
-    {
-      "id": "1555344750679429132",
-      "channel_id": "1400750050208125010",
-      "content": "what are you doing with your life",
-      "author": "hopping_bob",
-      "reactions": 4,
-      "channel": "🔸general-chat"
-    },
-    {
-      "id": "1555249682274582529",
-      "channel_id": "1170692781216378960",
-      "content": "Had a dream about the upcoming 2.7 buffs today, but instead of kit adjustments, ",
-      "author": "sirtealot",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555254994406477955",
-      "channel_id": "1170692781216378960",
-      "content": "i scrolled yaoi akiangel edits during the credits of the movie",
-      "author": "princess.goth",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555257022071709840",
-      "channel_id": "1170692781216378960",
-      "content": "okay whatever im changing pfps",
-      "author": "princess.goth",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555334961480073250",
-      "channel_id": "1170692781216378960",
-      "content": "yes BUT newly generate card is FRESH. So you can say fuck you to adaptation with",
-      "author": "ice3564",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555335037455568927",
-      "channel_id": "1170692781216378960",
-      "content": "Anw adaptation applied to current cards, so if you thais dupe you get a fresh ca",
-      "author": "angbak",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555348515654475917",
+      "id": "1555408414757363813",
       "channel_id": "1170692781216378960",
       "content": "",
-      "author": "dracozion",
-      "reactions": 3,
+      "author": "not_blueberry",
+      "reactions": 5,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1555349122385576017",
+      "id": "1555436306090430584",
       "channel_id": "1170692781216378960",
-      "content": "aa gogier or e0 murphy",
-      "author": "smealbo",
-      "reactions": 3,
+      "content": "This battle was so painful, but i won 🥹 (may I ask for a single fire emoji for v",
+      "author": "unknowable3333",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555441101731799110",
+      "channel_id": "1170692781216378960",
+      "content": "My 200 HP win 🥹  I wanted to share the painful screenshot jaja",
+      "author": "unknowable3333",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555445120227344394",
+      "channel_id": "1170692781216378960",
+      "content": "https://klipy.com/gifs/pollux-castor",
+      "author": "fishhazardthewizard",
+      "reactions": 5,
       "channel": "🔸morimens-game-chat"
     }
   ]
