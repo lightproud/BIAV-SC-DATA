@@ -1,8 +1,8 @@
 {
   "date": "2026-10-03",
-  "archived_at": "2026-10-02T17:02:21.085128+00:00",
+  "archived_at": "2026-10-02T21:35:21.989918+00:00",
   "source": "youtube",
-  "item_count": 2,
+  "item_count": 4,
   "items": [
     {
       "title": "Morimens \\\\ Прохождение д-зоны от 28.09.26",
@@ -34,6 +34,40 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/BO_RdMfbL5A/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "A NEW CHAPTER BEGINS! | Morimens Ch 2 Part 16 &amp; Ch 3 Part 1",
+      "summary": "In this episode on JJ Gamings, we wrap up the lingering mysteries of Chapter 2 in Part 16 and step right into the start of Chapter 3 ...",
+      "source": "youtube",
+      "time": "2026-10-02T19:00:11Z",
+      "url": "https://www.youtube.com/watch?v=K34l3AseyIY",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "JJ Gamings",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/K34l3AseyIY/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "[Morimens] How to play Liz [Guide]",
+      "summary": "In this video I explain how to play with Liz in team. If you don't know something like \"posse, rouse\" and other game termin - just ask ...",
+      "source": "youtube",
+      "time": "2026-10-02T19:12:01Z",
+      "url": "https://www.youtube.com/watch?v=W2qUL2yrOW0",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Natrazim",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/W2qUL2yrOW0/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

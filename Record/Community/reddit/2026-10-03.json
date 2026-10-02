@@ -1,8 +1,8 @@
 {
   "date": "2026-10-03",
-  "archived_at": "2026-10-02T17:02:22.696881+00:00",
+  "archived_at": "2026-10-02T21:35:22.061313+00:00",
   "source": "reddit",
-  "item_count": 1,
+  "item_count": 2,
   "items": [
     {
       "title": "Ogier: Oathbound 🛡️",
@@ -13,6 +13,19 @@
       "engagement": 0,
       "is_hot": false,
       "author": "u//u/Samin-A",
+      "tags": [],
+      "lang": "en",
+      "platform_region": ""
+    },
+    {
+      "title": "I think Mouchette is ready to go now",
+      "summary": "&#32; submitted by &#32;  /u/Potrebitelqt   [link] &#32; [comments]",
+      "source": "reddit",
+      "time": "2026-10-02T20:18:22+00:00",
+      "url": "https://www.reddit.com/r/Morimens/comments/1ww42db/i_think_mouchette_is_ready_to_go_now/",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "u//u/Potrebitelqt",
       "tags": [],
       "lang": "en",
       "platform_region": ""

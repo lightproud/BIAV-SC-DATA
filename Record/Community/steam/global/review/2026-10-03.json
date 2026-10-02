@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-03",
+  "archived_at": "2026-10-02T21:35:22.065858+00:00",
+  "source": "steam",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[负面] OK, I knew when I installed this that it would be...",
+      "summary": "OK, I knew when I installed this that it would be the typical Asian aesthet with the characters all being early teen caucasian blond blue eyed. The game itself would appeal to that age group, maybe pre-teen in the occidental world. It would appeal to the Asian market up to and even past the 20's. \r\nThere is a lot of reading of a typical fantasy of that region. It surpases the actual game play. I chose Chinese for my language which turned out to be for the text. All spoken text, read from the writing is in Japanese. Can't change that. But that's ok, just odd. I passed through the first segment and just could not continue. Can't save before the segment end. 25/100",
+      "source": "steam_review",
+      "time": "2026-10-02T16:55:44+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198076378579/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198076378579",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 103,
+        "votes_up": 0,
+        "timestamp_created": 1790960144
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}
