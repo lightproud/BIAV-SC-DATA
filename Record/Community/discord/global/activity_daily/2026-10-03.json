@@ -1,0 +1,195 @@
+{
+  "date": "2026-10-03",
+  "messages": 1117,
+  "unique_authors": 89,
+  "reactions_total": 147,
+  "attachments": 40,
+  "channel_activity": {
+    "🔸綜合討論": 87,
+    "🔸morimens-game-chat": 798,
+    "🔸phòng-chat-tiếng-việt": 17,
+    "🔸canal-español": 6,
+    "🔸canal-português": 4,
+    "🔸ruang-obrolan-indonesia": 10,
+    "🔸ห้องสนทนาภาษาไทย": 8,
+    "🔸traphase": 8,
+    "🔸lore-chat": 3,
+    "🔸lets-count": 1,
+    "🔸team-building": 5,
+    "🔸general-chat": 23,
+    "🔸game-question": 144,
+    "🔸机器人命令┊bot-commands": 2,
+    "Why doesn't this wave 4 dtide rotation have icefield?": 1
+  },
+  "hourly_activity": {
+    "0": 706,
+    "1": 411
+  },
+  "message_types": {
+    "20": 2,
+    "19": 405,
+    "0": 710
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1555613826106400819",
+      "channel_id": "1170692781216378960",
+      "content": "feast your eyes...",
+      "author": "direhands",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555635573736214572",
+      "channel_id": "1170692781216378960",
+      "content": "Curse simulator",
+      "author": "cowit_moo22",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555622496806641725",
+      "channel_id": "1170692781216378960",
+      "content": "the person watching me stream was quite annoyed",
+      "author": "direhands",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555624807758962878",
+      "channel_id": "1170692781216378960",
+      "content": "dms with a friend and ALL of them are me shitting on doll at separate times btw",
+      "author": "direhands",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555630185662120037",
+      "channel_id": "1131839817982947429",
+      "content": "~~兩個都踢了吧~~",
+      "author": "ahuahuahua",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1555630368617398324",
+      "channel_id": "1131839817982947429",
+      "content": "我沒帶 打到最後其他人都刪差不多 只剩珊的 更強www",
+      "author": "theal8893",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1555613531888558080",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "crowlov1",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555624709327159407",
+      "channel_id": "1170692781216378960",
+      "content": "my work in progress 24 <:nezukodeadtired:995327211513069598>",
+      "author": "wuyan_kana",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555625550658281555",
+      "channel_id": "1170692781216378960",
+      "content": "oh sheesh yeah next month i'll have\n+12 ogier\n+12 celestial beast\n+12 aurita\n\nno",
+      "author": "mosske",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555630113356390490",
+      "channel_id": "1170692781216378960",
+      "content": "hi guys does milk, water, and sausage look appetizing",
+      "author": "direhands",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555611072960929884",
+      "channel_id": "1131839817982947429",
+      "content": "5波SS都好難打\n沙耶莫絲勉強打贏\n沙耶0費是配大招還是追擊打比較好?\n補血靠3T熔爐不太夠\n莫絲+靈魂只補幾十血\n是血上限太低嗎",
+      "author": "fool6692",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1555618989462396940",
+      "channel_id": "1131839817982947429",
+      "content": "我是弱智 我不會打牌 我破防了",
+      "author": "nemu_s_t_a_r",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1555621290134478852",
+      "channel_id": "1131839817982947429",
+      "content": "說啥 當然要等卡池結束",
+      "author": "abhartach_0",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1555623616291282945",
+      "channel_id": "1131839817982947429",
+      "content": "沒專造打起來好痛苦\n我錯了 這角色除了數值簡直一坨",
+      "author": "nemu_s_t_a_r",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1555629187858178061",
+      "channel_id": "1131839817982947429",
+      "content": "~~把大騎士踢掉~~",
+      "author": "ahuahuahua",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1555614759632764954",
+      "channel_id": "1170692781216378960",
+      "content": "i used around 120...",
+      "author": "wuyan_kana",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555617320494170132",
+      "channel_id": "1170692781216378960",
+      "content": "Finally I can use this",
+      "author": "cheesesnaru778",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555619203711508501",
+      "channel_id": "1170692781216378960",
+      "content": "Arlene told me not to",
+      "author": "serahh__",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555619436453433375",
+      "channel_id": "1170692781216378960",
+      "content": "https://klipy.com/gifs/lebron-james-dap-up",
+      "author": "serahh__",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555619638224752801",
+      "channel_id": "1170692781216378960",
+      "content": "Ty for clarifying",
+      "author": "serahh__",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

@@ -1,41 +1,47 @@
 {
   "date": "2026-10-02",
-  "messages": 10630,
+  "messages": 14911,
   "unique_authors": 221,
-  "reactions_total": 1340,
-  "attachments": 485,
+  "reactions_total": 1785,
+  "attachments": 699,
   "channel_activity": {
-    "🔸綜合討論": 390,
-    "🔸morimens-game-chat": 5353,
+    "🔸綜合討論": 613,
+    "🔸morimens-game-chat": 7729,
+    "🔸课间休息闲聊": 19,
+    "🔸한국어-채팅방": 4,
+    "🔸deutscher-chatraum": 1,
+    "🔸русский-канал": 9,
+    "🔸phòng-chat-tiếng-việt": 1059,
+    "🔸canal-español": 126,
+    "🔸canal-português": 19,
+    "🔸ruang-obrolan-indonesia": 211,
+    "🔸ห้องสนทนาภาษาไทย": 87,
+    "🔸traphase": 103,
+    "🔸lore-chat": 153,
+    "🔸lets-count": 7,
+    "🔸team-building": 792,
+    "🔸general-chat": 1540,
+    "🔸邀请码互助┊swap-invitation-codes": 9,
+    "🔸game-question": 2268,
+    "🔸机器人命令┊bot-commands": 30,
+    "Why doesn't this wave 4 dtide rotation have icefield?": 5,
+    "Balance problem and enemy stats inflation": 1,
+    "Alternate realms Enhancement": 1,
+    "Pls give out origin of time for limited awakener & wheels": 6,
+    "D-tide Discussion": 12,
+    "Impact of Version 2.6 Affinity Changes on Player Experience": 3,
+    "Quadra / 4-Realm Rerun Banners": 2,
+    "V2.5.1.0 停服维护公告": 13,
+    "My game froze mid Pollux exalt and I drew what it reminded me of": 7,
+    "mo's doresain art posting! (★)": 4,
     "🔸相位对弈": 14,
-    "🔸课间休息闲聊": 12,
     "🔸交友频道": 4,
-    "🔸한국어-채팅방": 3,
-    "🔸phòng-chat-tiếng-việt": 861,
-    "🔸canal-español": 99,
-    "🔸canal-português": 4,
-    "🔸ruang-obrolan-indonesia": 80,
-    "🔸ห้องสนทนาภาษาไทย": 7,
-    "🔸traphase": 93,
-    "🔸lore-chat": 131,
-    "🔸lets-count": 6,
-    "🔸team-building": 642,
-    "🔸general-chat": 994,
-    "🔸邀请码互助┊swap-invitation-codes": 4,
-    "🔸game-question": 1817,
-    "🔸机器人命令┊bot-commands": 14,
     "大學宿舍鄰居夢遊遊": 20,
     "8-12 Typo": 1,
     "Refined Gnosis Fragments essentially now unobtainable?!?": 9,
-    "Why doesn't this wave 4 dtide rotation have icefield?": 2,
     "Random Posse Pool Control": 7,
-    "Pls give out origin of time for limited awakener & wheels": 4,
-    "D-tide Discussion": 11,
-    "V2.5.1.0 停服维护公告": 10,
     "Ogier: Oathbound 🛡️": 3,
-    "My game froze mid Pollux exalt and I drew what it reminded me of": 6,
     "Nefraea + Arachne Posting": 2,
-    "mo's doresain art posting! (★)": 1,
     "V2.5.0 命运剧院┊Theater of Fate": 1,
     "Pull advice?": 4,
     "🔸阵容构建": 2,
@@ -44,10 +50,16 @@
     "Aurita inspired pattern": 1,
     "Good evening Hameln nation": 1,
     "👀👀 pspsps hameln posting(?)": 1,
-    "🔸русский-канал": 8,
     "Where are you staying?": 1
   },
   "hourly_activity": {
+    "17": 593,
+    "18": 739,
+    "19": 734,
+    "20": 582,
+    "21": 695,
+    "22": 723,
+    "23": 588,
     "9": 741,
     "10": 513,
     "11": 600,
@@ -56,7 +68,6 @@
     "14": 715,
     "15": 559,
     "16": 709,
-    "17": 373,
     "8": 352,
     "2": 366,
     "3": 121,
@@ -68,9 +79,10 @@
     "1": 1099
   },
   "message_types": {
-    "0": 7030,
-    "19": 3579,
-    "20": 20,
+    "0": 9820,
+    "19": 5052,
+    "20": 37,
+    "46": 1,
     "23": 1
   },
   "top_reacted_messages": [
@@ -107,6 +119,14 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1555531651168206878",
+      "channel_id": "1170692781216378960",
+      "content": "<:Saya_caught:1513123193341349968> im hoarding useless items",
+      "author": "2ndselna",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1555312965849325689",
       "channel_id": "1170692781216378960",
       "content": "So far she’s cooperating but we will see <:LA_CatDespair:1361451040913883226>",
@@ -121,6 +141,22 @@
       "author": "samin_",
       "reactions": 8,
       "channel": "Ogier: Oathbound 🛡️"
+    },
+    {
+      "id": "1555603344536379524",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "jmjmjm6667",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555574957101158424",
+      "channel_id": "1181152750319456266",
+      "content": "||該來玩每個版本新角都逆版本的忘卻了吧||",
+      "author": "arr5721",
+      "reactions": 7,
+      "channel": "🔸课间休息闲聊"
     },
     {
       "id": "1555489315109208137",
@@ -163,6 +199,30 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1555587093223182478",
+      "channel_id": "1131839817982947429",
+      "content": "没有AA",
+      "author": "angbak",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1555607359240409148",
+      "channel_id": "1170692781216378960",
+      "content": "this is better\nhttps://youtu.be/cyvkKPnDDZw?si=9pO4QquyIjUXhR2S",
+      "author": "gersona6",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555549302267453570",
+      "channel_id": "1400750050208125010",
+      "content": "",
+      "author": "khryiis",
+      "reactions": 6,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1555428190623629315",
       "channel_id": "1131839817982947429",
       "content": "大佬 癢癢 摳摳",
@@ -179,60 +239,12 @@
       "channel": "my actual nemesis"
     },
     {
-      "id": "1555428629381521499",
+      "id": "1555557848996388907",
       "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "annabelle0868",
+      "content": "核<:Celeste_pray:1356053116260454534>",
+      "author": "fgoisaac",
       "reactions": 5,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1555387909883035690",
-      "channel_id": "1170692781216378960",
-      "content": "good morning morimen and women",
-      "author": "wuyan_kana",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555407957720563842",
-      "channel_id": "1170692781216378960",
-      "content": "As you know, not F2P. I didn't even buy the menophine pack for GOgier event caus",
-      "author": "climbkaly",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555408414757363813",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "not_blueberry",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555436306090430584",
-      "channel_id": "1170692781216378960",
-      "content": "This battle was so painful, but i won 🥹 (may I ask for a single fire emoji for v",
-      "author": "unknowable3333",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555441101731799110",
-      "channel_id": "1170692781216378960",
-      "content": "My 200 HP win 🥹  I wanted to share the painful screenshot jaja",
-      "author": "unknowable3333",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555445120227344394",
-      "channel_id": "1170692781216378960",
-      "content": "https://klipy.com/gifs/pollux-castor",
-      "author": "fishhazardthewizard",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }
