@@ -608,6 +608,20 @@
       "title": "Morimens - Jenkin",
       "time": "2026-10-02T18:43:33+09:00",
       "downloaded_at": "2026-10-02T17:02:20.892788+00:00"
+    },
+    "https://i.ytimg.com/vi/K34l3AseyIY/hqdefault.jpg": {
+      "filename": "youtube_2864741d6b618811.jpg",
+      "source": "youtube",
+      "title": "A NEW CHAPTER BEGINS! | Morimens Ch 2 Part 16 &amp; Ch 3 Part 1",
+      "time": "2026-10-02T19:00:11Z",
+      "downloaded_at": "2026-10-02T21:35:21.324079+00:00"
+    },
+    "https://i.ytimg.com/vi/W2qUL2yrOW0/hqdefault.jpg": {
+      "filename": "youtube_99f15f7b87a8a520.jpg",
+      "source": "youtube",
+      "title": "[Morimens] How to play Liz [Guide]",
+      "time": "2026-10-02T19:12:01Z",
+      "downloaded_at": "2026-10-02T21:35:21.825835+00:00"
     }
   },
   "failed": {
@@ -760,6 +774,11 @@
       "source": "bilibili",
       "reason": "download_failed",
       "attempted_at": "2026-10-02T17:02:15.837464+00:00"
+    },
+    "//i0.hdslb.com/bfs/archive/5497b2f516b4dc73eac0d33dd3c99c197c9955f6.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-02T21:35:20.931479+00:00"
     }
   },
   "archived": []
