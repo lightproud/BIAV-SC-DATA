@@ -517,6 +517,13 @@
       "title": "Should Glory Fade - The Perilous Seat: Madness [Morimens G-Ogier Event]",
       "time": "2026-10-01T22:00:01Z",
       "downloaded_at": "2026-10-02T00:21:30.139711+00:00"
+    },
+    "https://i.ytimg.com/vi/P8RZbZapAfg/hqdefault.jpg": {
+      "filename": "youtube_4f776193e1c5f64c.jpg",
+      "source": "youtube",
+      "title": "ラストまさかの展開w　#忘却前夜 #shorts",
+      "time": "2026-10-02T09:01:41Z",
+      "downloaded_at": "2026-10-02T09:10:20.868685+00:00"
     }
   },
   "failed": {
@@ -624,6 +631,31 @@
       "source": "bilibili",
       "reason": "download_failed",
       "attempted_at": "2026-10-01T19:59:18.963286+00:00"
+    },
+    "//i2.hdslb.com/bfs/archive/3e2a751f85f1cd4fdbb6ad9148027a298fee61cb.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-02T09:10:18.495756+00:00"
+    },
+    "//i1.hdslb.com/bfs/archive/54b6cb29a886d97dcd137afbc6af198fe4029204.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-02T09:10:18.796227+00:00"
+    },
+    "//i1.hdslb.com/bfs/archive/6650b9c15400fa4b6130dc484183c305142af605.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-02T09:10:19.096694+00:00"
+    },
+    "//i0.hdslb.com/bfs/archive/dab8cc51f9964f6ce535d413421e70cb30c14179.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-02T09:10:19.397153+00:00"
+    },
+    "//i2.hdslb.com/bfs/archive/f649b6f95520ea2b6f4353d71292aa32e6ab9497.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-02T09:10:19.697638+00:00"
     }
   },
   "archived": []

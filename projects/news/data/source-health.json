@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T00:21:31.688520+00:00",
+  "updated_at": "2026-10-02T09:10:23.731547+00:00",
   "seeded_from": "silent_sources_audit",
   "audit_window": {
     "start": "2023-07-01",
@@ -7,9 +7,11 @@
     "days": 1190
   },
   "validation_drops": {
-    "generated_at": "2026-10-02T00:21:29.113948+00:00",
-    "total_dropped": 0,
-    "by_source": {}
+    "generated_at": "2026-10-02T09:10:18.054581+00:00",
+    "total_dropped": 1,
+    "by_source": {
+      "pixiv": 1
+    }
   },
   "stalled_leaves": [
     {
@@ -27,21 +29,13 @@
       "silent_days": 7,
       "cadence_days": 2,
       "stall_threshold": 7
-    },
-    {
-      "leaf": "appstore/jp",
-      "source": "appstore",
-      "last_archive_date": "2026-09-17",
-      "silent_days": 15,
-      "cadence_days": 3,
-      "stall_threshold": 9
     }
   ],
   "source_date_checks": [
     {
       "leaf": "steam/global/news",
       "last_archive_date": "2026-09-21",
-      "checked_at": "2026-10-02T00:21:31.205435+00:00",
+      "checked_at": "2026-10-02T09:10:23.445916+00:00",
       "status": "no_newer_source_date",
       "scope": "latest_publication_date_only",
       "source_url": "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=3052450&count=3&maxlength=0&format=json",
@@ -51,20 +45,10 @@
     {
       "leaf": "appstore/global",
       "last_archive_date": "2026-09-25",
-      "checked_at": "2026-10-02T00:21:31.599621+00:00",
+      "checked_at": "2026-10-02T09:10:23.730515+00:00",
       "status": "unverified",
       "scope": "latest_publication_date_only",
       "reason": "no_checker"
-    },
-    {
-      "leaf": "appstore/jp",
-      "last_archive_date": "2026-09-17",
-      "checked_at": "2026-10-02T00:21:31.599629+00:00",
-      "status": "no_newer_source_date",
-      "scope": "latest_publication_date_only",
-      "source_url": "https://itunes.apple.com/jp/rss/customerreviews/id=6743462069/sortBy=mostRecent/json",
-      "latest_source_at": "2026-09-17T02:43:27+00:00",
-      "latest_source_date": "2026-09-17"
     }
   ],
   "platforms": {
@@ -73,7 +57,7 @@
       "last_success_date": "2026-10-02",
       "last_check_date": "2026-10-02",
       "consecutive_silent_days": 0,
-      "total_items": 3984,
+      "total_items": 3989,
       "errors": []
     },
     "steam": {
@@ -81,7 +65,7 @@
       "last_success_date": "2026-10-02",
       "last_check_date": "2026-10-02",
       "consecutive_silent_days": 0,
-      "total_items": 5537,
+      "total_items": 5541,
       "errors": []
     },
     "discord": {
@@ -89,7 +73,7 @@
       "last_success_date": "2026-10-02",
       "last_check_date": "2026-06-20",
       "consecutive_silent_days": 0,
-      "total_items": 9762779,
+      "total_items": 9764710,
       "errors": []
     },
     "youtube": {
@@ -97,7 +81,7 @@
       "last_success_date": "2026-10-02",
       "last_check_date": "2026-10-02",
       "consecutive_silent_days": 0,
-      "total_items": 4268,
+      "total_items": 4269,
       "errors": []
     },
     "reddit": {
@@ -105,7 +89,7 @@
       "last_success_date": "2026-10-02",
       "last_check_date": "2026-10-02",
       "consecutive_silent_days": 0,
-      "total_items": 4396,
+      "total_items": 4402,
       "errors": []
     },
     "official": {
@@ -129,7 +113,7 @@
       "last_success_date": "2026-10-02",
       "last_check_date": "2026-10-02",
       "consecutive_silent_days": 0,
-      "total_items": 15376,
+      "total_items": 15378,
       "errors": []
     },
     "bahamut": {
@@ -141,19 +125,19 @@
       "errors": []
     },
     "appstore": {
-      "level": "degraded",
-      "last_success_date": "2026-09-25",
+      "level": "active",
+      "last_success_date": "2026-10-01",
       "last_check_date": "2026-10-02",
-      "consecutive_silent_days": 7,
-      "total_items": 555,
+      "consecutive_silent_days": 1,
+      "total_items": 556,
       "errors": []
     },
     "google_play": {
       "level": "active",
-      "last_success_date": "2026-09-30",
+      "last_success_date": "2026-10-01",
       "last_check_date": "2026-10-02",
-      "consecutive_silent_days": 2,
-      "total_items": 1247,
+      "consecutive_silent_days": 1,
+      "total_items": 1248,
       "errors": []
     },
     "pixiv": {
