@@ -1,34 +1,49 @@
 {
   "date": "2026-10-03",
-  "messages": 1117,
-  "unique_authors": 89,
-  "reactions_total": 147,
-  "attachments": 40,
+  "messages": 2598,
+  "unique_authors": 100,
+  "reactions_total": 253,
+  "attachments": 105,
   "channel_activity": {
-    "🔸綜合討論": 87,
-    "🔸morimens-game-chat": 798,
-    "🔸phòng-chat-tiếng-việt": 17,
-    "🔸canal-español": 6,
-    "🔸canal-português": 4,
-    "🔸ruang-obrolan-indonesia": 10,
-    "🔸ห้องสนทนาภาษาไทย": 8,
-    "🔸traphase": 8,
-    "🔸lore-chat": 3,
-    "🔸lets-count": 1,
-    "🔸team-building": 5,
-    "🔸general-chat": 23,
-    "🔸game-question": 144,
-    "🔸机器人命令┊bot-commands": 2,
+    "🔸綜合討論": 90,
+    "🔸morimens-game-chat": 1920,
+    "🔸deutscher-chatraum": 2,
+    "🔸русский-канал": 1,
+    "🔸phòng-chat-tiếng-việt": 172,
+    "🔸canal-español": 36,
+    "🔸canal-português": 12,
+    "🔸ruang-obrolan-indonesia": 12,
+    "🔸ห้องสนทนาภาษาไทย": 15,
+    "🔸traphase": 9,
+    "🔸lore-chat": 8,
+    "🔸lets-count": 2,
+    "🔸team-building": 26,
+    "🔸general-chat": 80,
+    "🔸邀请码互助┊swap-invitation-codes": 3,
+    "🔸game-question": 191,
+    "🔸机器人命令┊bot-commands": 4,
+    "Primordial Chaos Posse Skill Rework": 4,
+    "Quadra / 4-Realm Rerun Banners": 4,
+    "Medio sprite edits": 1,
+    "Where are you staying?": 1,
+    "moss’s art dump": 1,
+    "【English Translation】Opinions Collection": 1,
+    "【Newcomer Help】Forum Introduction": 2,
     "Why doesn't this wave 4 dtide rotation have icefield?": 1
   },
   "hourly_activity": {
-    "0": 706,
-    "1": 411
+    "2": 420,
+    "3": 526,
+    "5": 219,
+    "1": 506,
+    "4": 210,
+    "6": 11,
+    "0": 706
   },
   "message_types": {
-    "20": 2,
-    "19": 405,
-    "0": 710
+    "0": 1758,
+    "19": 830,
+    "20": 10
   },
   "top_reacted_messages": [
     {
@@ -40,11 +55,35 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1555674461888446554",
+      "channel_id": "1170692781216378960",
+      "content": "I’m HEALING",
+      "author": "mosske",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1555635573736214572",
       "channel_id": "1170692781216378960",
       "content": "Curse simulator",
       "author": "cowit_moo22",
       "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555663466227040287",
+      "channel_id": "1170692781216378960",
+      "content": "so that solved that problem",
+      "author": "ihatepickinguniqueusernames",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555676765135962147",
+      "channel_id": "1170692781216378960",
+      "content": "+11",
+      "author": "gersona6",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -62,6 +101,38 @@
       "author": "direhands",
       "reactions": 4,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555654613884215319",
+      "channel_id": "1170692781216378960",
+      "content": "be tasty <a:Tastyge:1212164010258993214>",
+      "author": "ihatepickinguniqueusernames",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555656472048832704",
+      "channel_id": "1170692781216378960",
+      "content": "dont worry just get 1000 friends into the discord server and you will get anothe",
+      "author": "ihatepickinguniqueusernames",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555645667135725690",
+      "channel_id": "1400750050208125010",
+      "content": "(c10 spoilers) lmao",
+      "author": "poki5539",
+      "reactions": 3,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1555645421764878488",
+      "channel_id": "1433513650299076780",
+      "content": "<:lopa:1451622325857292453>",
+      "author": "ihatepickinguniqueusernames",
+      "reactions": 3,
+      "channel": "🔸game-question"
     },
     {
       "id": "1555630185662120037",
@@ -112,82 +183,26 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1555611072960929884",
-      "channel_id": "1131839817982947429",
-      "content": "5波SS都好難打\n沙耶莫絲勉強打贏\n沙耶0費是配大招還是追擊打比較好?\n補血靠3T熔爐不太夠\n莫絲+靈魂只補幾十血\n是血上限太低嗎",
-      "author": "fool6692",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1555618989462396940",
-      "channel_id": "1131839817982947429",
-      "content": "我是弱智 我不會打牌 我破防了",
-      "author": "nemu_s_t_a_r",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1555621290134478852",
-      "channel_id": "1131839817982947429",
-      "content": "說啥 當然要等卡池結束",
-      "author": "abhartach_0",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1555623616291282945",
-      "channel_id": "1131839817982947429",
-      "content": "沒專造打起來好痛苦\n我錯了 這角色除了數值簡直一坨",
-      "author": "nemu_s_t_a_r",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1555629187858178061",
-      "channel_id": "1131839817982947429",
-      "content": "~~把大騎士踢掉~~",
-      "author": "ahuahuahua",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1555614759632764954",
+      "id": "1555643293612769401",
       "channel_id": "1170692781216378960",
-      "content": "i used around 120...",
-      "author": "wuyan_kana",
+      "content": "Mouch gets two wheels",
+      "author": "guava3442",
       "reactions": 2,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1555617320494170132",
+      "id": "1555643341578707137",
       "channel_id": "1170692781216378960",
-      "content": "Finally I can use this",
-      "author": "cheesesnaru778",
+      "content": "Get preg",
+      "author": "moyashi0672",
       "reactions": 2,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1555619203711508501",
+      "id": "1555644366427525180",
       "channel_id": "1170692781216378960",
-      "content": "Arlene told me not to",
-      "author": "serahh__",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555619436453433375",
-      "channel_id": "1170692781216378960",
-      "content": "https://klipy.com/gifs/lebron-james-dap-up",
-      "author": "serahh__",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555619638224752801",
-      "channel_id": "1170692781216378960",
-      "content": "Ty for clarifying",
-      "author": "serahh__",
+      "content": "3 flails and all that buffin ;/",
+      "author": "crowlov1",
       "reactions": 2,
       "channel": "🔸morimens-game-chat"
     }
