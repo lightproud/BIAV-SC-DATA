@@ -1,8 +1,8 @@
 {
   "date": "2026-10-02",
-  "archived_at": "2026-10-02T00:21:30.344924+00:00",
+  "archived_at": "2026-10-02T09:10:22.586737+00:00",
   "source": "weibo",
-  "item_count": 21,
+  "item_count": 23,
   "items": [
     {
       "title": "给忘却前夜画的塔薇命轮解禁啦，感谢项目组指导",
@@ -529,6 +529,57 @@
       "summary": "给忘却前夜细化的卡拉布pv解禁啦我发一下！萌萌虫虫宝宝\n*是自己的版本",
       "source": "weibo",
       "time": "2026-10-02T00:21:24.873631+00:00",
+      "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [
+        "weibo"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "reposts_count": null,
+        "comments_count": null,
+        "likes_count": null,
+        "engagement_total": null,
+        "engagement_is_unknown": true,
+        "engagement_basis": "known_counts_sort_fallback",
+        "counts_are_approximate": false,
+        "author_is_unknown": true
+      },
+      "time_is_approximate": true
+    },
+    {
+      "title": "忘却前夜#忘却前夜#\n《忘却前夜》概念PV——「银芯」\n那是自融蚀降临后，人类最后的希望。\n◆◆◆◆◆◆\n官方玩家交流群：700587004 忘却前夜的微博视频",
+      "summary": "忘却前夜#忘却前夜#\n《忘却前夜》概念PV——「银芯」\n那是自融蚀降临后，人类最后的希望。\n◆◆◆◆◆◆\n官方玩家交流群：700587004 忘却前夜的微博视频",
+      "source": "weibo",
+      "time": "2026-10-02T01:21:00+00:00",
+      "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [
+        "weibo"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "reposts_count": null,
+        "comments_count": null,
+        "likes_count": null,
+        "engagement_total": null,
+        "engagement_is_unknown": true,
+        "engagement_basis": "known_counts_sort_fallback",
+        "counts_are_approximate": false,
+        "author_is_unknown": true
+      }
+    },
+    {
+      "title": "忘却前夜丨唤醒体展示✦沙耶\n\n「不可怕吗，我的样子？诶，有点无聊呢……」\n「我能做到那样的事情哦。重组其他生物的身体啦、调整啦……」\n\n✦ 沙耶CV：川村みどり",
+      "summary": "忘却前夜丨唤醒体展示✦沙耶\n\n「不可怕吗，我的样子？诶，有点无聊呢……」\n「我能做到那样的事情哦。重组其他生物的身体啦、调整啦……」\n\n✦ 沙耶CV：川村みどり\n忘却前夜#忘却前夜##Morimens##沙耶##沙耶之歌##联动#",
+      "source": "weibo",
+      "time": "2026-10-02T09:10:13.789631+00:00",
       "url": "",
       "engagement": 0,
       "is_hot": false,

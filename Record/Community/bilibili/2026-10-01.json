@@ -1,8 +1,8 @@
 {
   "date": "2026-10-01",
-  "archived_at": "2026-10-02T00:21:30.269127+00:00",
+  "archived_at": "2026-10-02T09:10:21.053839+00:00",
   "source": "bilibili",
-  "item_count": 5,
+  "item_count": 6,
   "items": [
     {
       "title": "忘却前夜 恐怖宙音汀暴打乐园 癫狂列车",
@@ -36,6 +36,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/921dc5aad7273d7118c59a1a0d42efb1cbdc5591.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "忘却前夜，融灾10.1",
+      "summary": "发视频是为了输出\n至于往哪输出你别问",
+      "source": "bilibili",
+      "time": "2026-10-01T15:50:21+00:00",
+      "url": "https://www.bilibili.com/video/av117366423819743",
+      "engagement": 125,
+      "is_hot": false,
+      "author": "断裂免罪符",
+      "tags": [
+        "网络游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/f649b6f95520ea2b6f4353d71292aa32e6ab9497.jpg",
       "content_type": "video"
     },
     {

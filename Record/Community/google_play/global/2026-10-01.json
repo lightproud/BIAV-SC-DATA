@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-01",
+  "archived_at": "2026-10-02T09:10:22.652963+00:00",
+  "source": "google_play",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "[Google Play 好评] ★4 Buenas. El juego es bastante interesante",
+      "summary": "Buenas. El juego es bastante interesante a nivel de lore y el diseño de los personajes es bastante llamativo. Sin embargo, una queja que tengo es que, al momento de tirar por un personaje, en ocasiones por problemas de señal la tirada no se realiza, pero me lo cuentan como si hubiera tirado, perdiendo mis tiradas. Ya son varias veces que pasa y me resulta un problema. Hay una forma de que puedan ayudarme con eso? muchas gracias",
+      "source": "google_play",
+      "time": "2026-10-01T02:10:50+00:00",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.z1.gp.hk&hl=es#gp-4a22f0ef-4b76-40c2-ba10-582cabc73838",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "José Mora",
+      "tags": [],
+      "lang": "es",
+      "platform_region": "",
+      "region": "global"
+    }
+  ],
+  "region": "global"
+}

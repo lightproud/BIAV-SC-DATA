@@ -1,8 +1,8 @@
 {
   "date": "2026-10-02",
-  "archived_at": "2026-10-02T00:21:30.344024+00:00",
+  "archived_at": "2026-10-02T09:10:22.566566+00:00",
   "source": "steam",
-  "item_count": 2,
+  "item_count": 6,
   "items": [
     {
       "title": "[负面] I would like to recommend this game but im struggl...",
@@ -46,6 +46,98 @@
         "playtime_forever": 3029,
         "votes_up": 0,
         "timestamp_created": 1790887000
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 喜欢他的画风与游戏模式、我也喜欢1999",
+      "summary": "喜欢他的画风与游戏模式、我也喜欢1999",
+      "source": "steam_review",
+      "time": "2026-10-02T03:50:42+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198420115281/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198420115281",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 1367,
+        "votes_up": 0,
+        "timestamp_created": 1790913042
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Amazing! I was hooked from just the prologue. Mori...",
+      "summary": "Amazing! I was hooked from just the prologue. Morimens mixes elements of deckbuilder roguelites with HOT ANIME GIRLS (YAYAYYAYAYA) and is super lore rich just as a cherry-on-top. Moreover, the gatcha system is NOT an arduous daily grind (Ikr unheard of) but instead showers the players with lots of free rewards. Overall, strongly recommended.",
+      "source": "steam_review",
+      "time": "2026-10-02T03:39:12+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199711843468/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199711843468",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 8150,
+        "votes_up": 0,
+        "timestamp_created": 1790912352
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] Awesome game with a small but dedicated team.\nYes,...",
+      "summary": "Awesome game with a small but dedicated team.\nYes, they make mistakes (who doesn't?) but they are very involved with the playerbase and take the time to read through and consider a lot of the suggestions and complaints brought forward by the players. They're trying their best to make a great game work better and it's all I ask for.\n\nIf you like card-battlers or roguelites or are even just an inkling of interested in the Lovecraft-inspired story, please give Morimens a try!\n\nBIAV 加油！💪",
+      "source": "steam_review",
+      "time": "2026-10-02T03:04:28+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199175517630/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199175517630",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 47899,
+        "votes_up": 0,
+        "timestamp_created": 1790910268
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] This game is awesome and is the only anime/gacha g...",
+      "summary": "This game is awesome and is the only anime/gacha game that actually enjoy and plan on playing long term. The game's art is awesome and the character designs are something you wont see in any other gacha or character/hero based game. \n\nAs much as I love the base gameplay and story, I really hope I get to see a world where this game goes 3D or leans heavier into an RPG feel (maybe a separate game entirely). With a world like this, it would be cool to experience it as my character moving through the environment rather than being kept as a chip on a board with the occasionally screenshot with text on it when story happens. Again, love the game for what it is but I think a separate world or game where environment is fleshed out would be really cool",
+      "source": "steam_review",
+      "time": "2026-10-01T22:54:11+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198851438637/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198851438637",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 11842,
+        "votes_up": 0,
+        "timestamp_created": 1790895251
       },
       "region": "global",
       "archive_subtype": "review"
