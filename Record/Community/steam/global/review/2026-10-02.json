@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-02",
+  "archived_at": "2026-10-02T00:21:30.344024+00:00",
+  "source": "steam",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "[负面] I would like to recommend this game but im struggl...",
+      "summary": "I would like to recommend this game but im struggling. Currently getting a thumbs down for unplayability but if they add a server or whatever the problem might be itll change.\nCONS: Getting right to the point, my issue is that the game crashes on me ALL THE TIME! I have tried reinstalling, using the fix feature, verifying data and even defragmented my computer. If im lucky i can get to play for an hour but typically its more like 2 minutes after logging in...\nPROS: \n- Dark story is a refreshing change of pace\n- Meta characters are not the end all be all. Meaning that virtually all the characters could be good if put into the right team and invested in.\nMixed:\n- Every character has a mechanic that requires thought to use properly. \n- Difficulty spikes. Getting a high DPS can carry through story, but suddenly the enemy will take half your life with a single attack and you spend all your turn building defense. I like a challenge as much as the next person but if you dont have a maxed out team, prepare to do some grinding..",
+      "source": "steam_review",
+      "time": "2026-10-01T22:08:39+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198928591683/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198928591683",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 9162,
+        "votes_up": 0,
+        "timestamp_created": 1790892519
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] 别的不说我趁沙耶联动入坑买号卖号倒腾几手净赚100。100刚好给最后留下来的号充了。属于是没赚没亏。...",
+      "summary": "别的不说我趁沙耶联动入坑买号卖号倒腾几手净赚100。100刚好给最后留下来的号充了。属于是没赚没亏。就这我都能打个四星。\n剧情是不看的，副本是不怎么推的，机制玩法是不熟悉的，阵容是只玩一套的。玩了50h我感觉我还是萌新🤣\n不过总体而言确实没啥大毛病，玩法、美术、音乐、剧情（我不好说）大致都在我好球区。肝度低、低氪友好。这样就够了呀。\n据说游戏最大的雷是制作组。这我倒是不太了解。非洗，这年头哪有不爆雷的制作团队🤣\n虽然我不怎么玩了，但请你就这样半死不活地黏住吧，5771！",
+      "source": "steam_review",
+      "time": "2026-10-01T20:36:40+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199380923905/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199380923905",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 3029,
+        "votes_up": 0,
+        "timestamp_created": 1790887000
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    }
+  ],
+  "region": "global",
+  "content_subtype": "review"
+}

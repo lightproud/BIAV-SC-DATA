@@ -1,8 +1,8 @@
 {
   "date": "2026-10-01",
-  "archived_at": "2026-10-01T19:59:21.849457+00:00",
+  "archived_at": "2026-10-02T00:21:30.266633+00:00",
   "source": "youtube",
-  "item_count": 16,
+  "item_count": 17,
   "items": [
     {
       "title": "[Morimens] Advanced G-Ogier Guide - Editor Edition. Hunt them down if you don&#39;t like the video.",
@@ -170,6 +170,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/ans4YL7gFO0/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Zone 2 with Goliath 01.10.2026 (Aequor rotation)",
+      "summary": "This video is very long because I'm stuck with ideas how properly play on Goliath.",
+      "source": "youtube",
+      "time": "2026-10-01T14:15:11Z",
+      "url": "https://www.youtube.com/watch?v=6KMfuuBlU9s",
+      "engagement": 2,
+      "is_hot": false,
+      "author": "Natrazim",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/6KMfuuBlU9s/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

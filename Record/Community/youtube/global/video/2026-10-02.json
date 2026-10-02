@@ -1,8 +1,8 @@
 {
   "date": "2026-10-02",
-  "archived_at": "2026-10-01T19:59:22.430514+00:00",
+  "archived_at": "2026-10-02T00:21:30.267464+00:00",
   "source": "youtube",
-  "item_count": 3,
+  "item_count": 4,
   "items": [
     {
       "title": "#healing caraboo :)) #morimens #fyp",
@@ -51,6 +51,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/1zU8evWzCAQ/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "Should Glory Fade - The Perilous Seat: Madness [Morimens G-Ogier Event]",
+      "summary": "My go-to lazy team that can (usually) survive and deal (somewhat) enough damage to clear difficult stages. Thanks for watching!",
+      "source": "youtube",
+      "time": "2026-10-01T22:00:01Z",
+      "url": "https://www.youtube.com/watch?v=8NffhuXsF64",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "Seinos",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/8NffhuXsF64/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
