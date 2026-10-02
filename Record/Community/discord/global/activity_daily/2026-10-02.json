@@ -1,36 +1,54 @@
 {
   "date": "2026-10-02",
-  "messages": 2193,
-  "unique_authors": 105,
-  "reactions_total": 223,
-  "attachments": 83,
+  "messages": 4124,
+  "unique_authors": 133,
+  "reactions_total": 449,
+  "attachments": 232,
   "channel_activity": {
-    "🔸綜合討論": 15,
-    "🔸morimens-game-chat": 887,
-    "🔸剧情交流": 3,
-    "🔸相位对弈": 2,
+    "🔸綜合討論": 40,
+    "🔸阵容构建": 2,
+    "🔸morimens-game-chat": 2043,
+    "🔸剧情交流": 4,
+    "🔸相位对弈": 7,
+    "🔸phòng-chat-tiếng-việt": 314,
+    "🔸canal-español": 73,
+    "🔸canal-português": 3,
+    "🔸ruang-obrolan-indonesia": 20,
+    "🔸ห้องสนทนาภาษาไทย": 2,
+    "🔸traphase": 72,
+    "🔸lore-chat": 66,
+    "🔸lets-count": 2,
+    "🔸team-building": 135,
+    "🔸general-chat": 702,
+    "🔸game-question": 604,
+    "🔸机器人命令┊bot-commands": 8,
+    "Random Posse Pool Control": 4,
+    "V2.5.1.0 停服维护公告": 3,
+    "Ogier: Oathbound 🛡️": 1,
+    "my actual nemesis": 3,
+    "My game froze mid Pollux exalt and I drew what it reminded me of": 3,
+    "Aurita inspired pattern": 1,
+    "Good evening Hameln nation": 1,
+    "👀👀 pspsps hameln posting(?)": 1,
     "🔸русский-канал": 8,
-    "🔸phòng-chat-tiếng-việt": 207,
-    "🔸canal-español": 21,
-    "🔸ruang-obrolan-indonesia": 9,
-    "🔸traphase": 5,
-    "🔸lore-chat": 57,
-    "🔸team-building": 15,
-    "🔸general-chat": 582,
     "🔸邀请码互助┊swap-invitation-codes": 1,
-    "🔸game-question": 379,
-    "🔸机器人命令┊bot-commands": 1,
     "Where are you staying?": 1
   },
   "hourly_activity": {
+    "2": 366,
+    "3": 121,
+    "4": 209,
+    "6": 616,
+    "7": 88,
+    "8": 185,
+    "5": 451,
     "0": 989,
-    "1": 1099,
-    "2": 105
+    "1": 1099
   },
   "message_types": {
-    "0": 1440,
-    "19": 751,
-    "20": 2
+    "19": 1295,
+    "0": 2820,
+    "20": 9
   },
   "top_reacted_messages": [
     {
@@ -42,12 +60,100 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1555341994832822416",
+      "channel_id": "1170692781216378960",
+      "content": "and im dead",
+      "author": "monchi3524",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555312965849325689",
+      "channel_id": "1170692781216378960",
+      "content": "So far she’s cooperating but we will see <:LA_CatDespair:1361451040913883226>",
+      "author": "mosske",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555328775124811817",
+      "channel_id": "1555328775124811817",
+      "content": "https://x.com/SaminDraws/status/2105766236864880900?s=20",
+      "author": "samin_",
+      "reactions": 8,
+      "channel": "Ogier: Oathbound 🛡️"
+    },
+    {
       "id": "1555259523898417154",
       "channel_id": "1170692781216378960",
       "content": "could be us",
       "author": "princess.goth",
       "reactions": 7,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555321121174192158",
+      "channel_id": "1555321121174192158",
+      "content": "https://bsky.app/profile/mosske.bsky.social/post/3mwtnn34k5k2u",
+      "author": "mosske",
+      "reactions": 6,
+      "channel": "my actual nemesis"
+    },
+    {
+      "id": "1555309106925932586",
+      "channel_id": "1170692781216378960",
+      "content": "<@193043069275209728> https://bsky.app/profile/mosske.bsky.social/post/3mwtnn34k",
+      "author": "mosske",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555333872944939069",
+      "channel_id": "1170692781216378960",
+      "content": "best WoD setup confirmed 😂",
+      "author": "ice3564",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555360255322492978",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "0.0._.0_0.",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1555337953239236664",
+      "channel_id": "1170692781216378960",
+      "content": "lemurian full rewind team to make them work in dissolution",
+      "author": "monchi3524",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555346757074812939",
+      "channel_id": "1170692781216378960",
+      "content": "no, I rouse Goliath and use his OE blade  xd",
+      "author": "ice3564",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555301132857905164",
+      "channel_id": "1400749543288475770",
+      "content": "Alva is a girl??? I always thought alva is a boy",
+      "author": "shadowgame7101",
+      "reactions": 4,
+      "channel": "🔸team-building"
+    },
+    {
+      "id": "1555344750679429132",
+      "channel_id": "1400750050208125010",
+      "content": "what are you doing with your life",
+      "author": "hopping_bob",
+      "reactions": 4,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1555249682274582529",
@@ -74,123 +180,35 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1555250167203111023",
+      "id": "1555334961480073250",
       "channel_id": "1170692781216378960",
-      "content": "nerfing gmurphy's skirt length",
-      "author": "chronically.distracted",
+      "content": "yes BUT newly generate card is FRESH. So you can say fuck you to adaptation with",
+      "author": "ice3564",
       "reactions": 3,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1555257984131670079",
+      "id": "1555335037455568927",
       "channel_id": "1170692781216378960",
-      "content": "I care about Larplax more than i care about you heh (jk)",
-      "author": "verdy_heh",
+      "content": "Anw adaptation applied to current cards, so if you thais dupe you get a fresh ca",
+      "author": "angbak",
       "reactions": 3,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1555260609740931155",
+      "id": "1555348515654475917",
       "channel_id": "1170692781216378960",
-      "content": "last word is un needed",
-      "author": "gersona6",
+      "content": "",
+      "author": "dracozion",
       "reactions": 3,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1555261160545062963",
+      "id": "1555349122385576017",
       "channel_id": "1170692781216378960",
-      "content": "night night vyvy",
-      "author": "princess.goth",
+      "content": "aa gogier or e0 murphy",
+      "author": "smealbo",
       "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555267016137506831",
-      "channel_id": "1170692781216378960",
-      "content": "just pretend it's a bot",
-      "author": "direhands",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555274918713630885",
-      "channel_id": "1170692781216378960",
-      "content": "buff tulu",
-      "author": "princess.goth",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555275025291022417",
-      "channel_id": "1300659603993923644",
-      "content": "cách 1 nửa vấn đề của lemumu đc giải queyt16",
-      "author": "wolfyy1",
-      "reactions": 3,
-      "channel": "🔸phòng-chat-tiếng-việt"
-    },
-    {
-      "id": "1555261712125657118",
-      "channel_id": "1300659662311526512",
-      "content": "AL FIN LO LOGRÉ",
-      "author": "datastormed",
-      "reactions": 3,
-      "channel": "🔸canal-español"
-    },
-    {
-      "id": "1555252772742627379",
-      "channel_id": "1170692781216378960",
-      "content": "for me? <:Horla_Rizz:1502267926353543219>",
-      "author": "princess.goth",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555253452878118985",
-      "channel_id": "1170692781216378960",
-      "content": "only if u wear the goth makeup to a fine dining restaurant as discussed previous",
-      "author": "mosske",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555253970992373851",
-      "channel_id": "1170692781216378960",
-      "content": "I had a good day <:merublanket:645304127282217000> I got 335 in d tide! how was ",
-      "author": "unknowable3333",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555255763134320641",
-      "channel_id": "1170692781216378960",
-      "content": "god i need to rewatch that movie like NOW",
-      "author": "princess.goth",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555255857447440455",
-      "channel_id": "1170692781216378960",
-      "content": "princess bride diff though",
-      "author": "direhands",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555256894153691238",
-      "channel_id": "1170692781216378960",
-      "content": "Ellie was a vtuber all along",
-      "author": "azaenya",
-      "reactions": 2,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555256978933293120",
-      "channel_id": "1170692781216378960",
-      "content": "I see",
-      "author": "serahh__",
-      "reactions": 2,
       "channel": "🔸morimens-game-chat"
     }
   ]
