@@ -1,27 +1,145 @@
 {
   "date": "2026-10-04",
-  "messages": 160,
-  "unique_authors": 27,
-  "reactions_total": 23,
-  "attachments": 8,
+  "messages": 3085,
+  "unique_authors": 140,
+  "reactions_total": 276,
+  "attachments": 155,
   "channel_activity": {
-    "🔸morimens-game-chat": 97,
-    "🔸课间休息闲聊": 1,
-    "🔸phòng-chat-tiếng-việt": 57,
-    "🔸canal-português": 1,
-    "🔸general-chat": 2,
-    "🔸机器人命令┊bot-commands": 1,
-    "Halloween Sanga Concept!": 1
+    "🔸綜合討論": 53,
+    "🔸morimens-game-chat": 2183,
+    "🔸交友频道": 1,
+    "🔸русский-канал": 1,
+    "🔸phòng-chat-tiếng-việt": 364,
+    "🔸canal-español": 57,
+    "🔸canal-português": 8,
+    "🔸ruang-obrolan-indonesia": 29,
+    "🔸ห้องสนทนาภาษาไทย": 4,
+    "🔸traphase": 23,
+    "🔸lore-chat": 17,
+    "🔸频道建议┊server-suggestions": 3,
+    "🔸team-building": 197,
+    "🔸general-chat": 64,
+    "🔸game-question": 56,
+    "🔸机器人命令┊bot-commands": 6,
+    "Would be great to have replay filter sort by number of turn clear.": 2,
+    "The Counter archetype has been forgotten?": 3,
+    "Doresain Exalt value < casually cast 2 Cost AA Gogier": 1,
+    "D-tide Discussion": 4,
+    "Caraboo Blessing \"Missed Chance\" should be reworked": 1,
+    "Halloween Sanga Concept!": 6,
+    "Morimens New Player Handbook by Cheri [V2.5 UGC Contest]": 1,
+    "🔸课间休息闲聊": 1
   },
   "hourly_activity": {
-    "0": 160
+    "0": 972,
+    "1": 610,
+    "2": 583,
+    "3": 630,
+    "4": 290
   },
   "message_types": {
-    "19": 72,
-    "0": 87,
-    "20": 1
+    "0": 1847,
+    "19": 1230,
+    "23": 1,
+    "20": 7
   },
   "top_reacted_messages": [
+    {
+      "id": "1556014909899149464",
+      "channel_id": "1170692781216378960",
+      "content": "mmmmmm remember when we were told “we won’t balance around aa”",
+      "author": "fishhazardthewizard",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1556036204074500277",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "spooky_penguin_",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1556016535225638962",
+      "channel_id": "1170692781216378960",
+      "content": "I dropped hsr cuz didnt enjoy the combat and then they fucked up amphoreus story",
+      "author": "dracozion",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555984985582731387",
+      "channel_id": "1326453763355185215",
+      "content": "the 'morgan le fay' romance bit is probs why biav made his princess here into a ",
+      "author": "hikarimew",
+      "reactions": 4,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1556004257822412882",
+      "channel_id": "1326453763355185215",
+      "content": "if you're a famous knight anywhen between 500 and 1700 in europe, people will cr",
+      "author": "hikarimew",
+      "reactions": 4,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1556006650287226953",
+      "channel_id": "1543760297637187614",
+      "content": "Whenever I go through the ear records to see what my teams could realistically p",
+      "author": "kqtie7505",
+      "reactions": 4,
+      "channel": "D-tide Discussion"
+    },
+    {
+      "id": "1555988228983623753",
+      "channel_id": "1170692781216378960",
+      "content": "time to never go past phase 7  🗣️",
+      "author": "thereaperinthedresss",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1556002444390043718",
+      "channel_id": "1170692781216378960",
+      "content": "fuckkkkkkkkk",
+      "author": "thereaperinthedresss",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1556027371029790831",
+      "channel_id": "1170692781216378960",
+      "content": "1 shield per level of core",
+      "author": "dracozion",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555979276690526300",
+      "channel_id": "1300659603993923644",
+      "content": "https://tenor.com/view/league-moments-gif-3864847921715501909",
+      "author": "anicillia",
+      "reactions": 3,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1556016089157345331",
+      "channel_id": "1300659662311526512",
+      "content": "",
+      "author": "octekg",
+      "reactions": 3,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1555983425947697153",
+      "channel_id": "1326453763355185215",
+      "content": "Isle of Apples is another name for Avalon, and fairies are said to be in Avalon",
+      "author": "kyriostaiga3",
+      "reactions": 3,
+      "channel": "🔸lore-chat"
+    },
     {
       "id": "1555972976426614886",
       "channel_id": "1170692781216378960",
@@ -39,115 +157,51 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1555972768603045889",
+      "id": "1556009434000527521",
+      "channel_id": "1131839817982947429",
+      "content": "雖然我有83個",
+      "author": "ena04564",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1556011592485838869",
+      "channel_id": "1131839817982947429",
+      "content": "我突然想到可以在局內買3罐在放棄對局就能囤了🤓👆",
+      "author": "kevin.yienwenst",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1555979469167272017",
       "channel_id": "1170692781216378960",
-      "content": "daff's entire purpose in traphase is to make your life as miserable as possible",
-      "author": "flocke999",
+      "content": "Sanga MY GOD",
+      "author": "yukichan06970",
       "reactions": 2,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1555974561982316576",
+      "id": "1555979584204181535",
       "channel_id": "1170692781216378960",
-      "content": "What do you mean, Last time I was daf was S teir. I saw bufodil post the teir li",
-      "author": "unknowable3333",
+      "content": "i wanna sac sanga eventually actually probably",
+      "author": "poki5539",
       "reactions": 2,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1555972845044109405",
-      "channel_id": "1300659603993923644",
-      "content": "đánh nhìu quen r tự canh dame thôi",
-      "author": "hoangziet.",
+      "id": "1555979769366061162",
+      "channel_id": "1170692781216378960",
+      "content": "seems like bootleg bluewil ngl 😭",
+      "author": "direhands",
       "reactions": 2,
-      "channel": "🔸phòng-chat-tiếng-việt"
-    },
-    {
-      "id": "1555972735522308239",
-      "channel_id": "1170692781216378960",
-      "content": "My tabletop games will start up next week (after a 6 week break), I am a bit ner",
-      "author": "unknowable3333",
-      "reactions": 1,
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1555972919199404144",
+      "id": "1555980808743821406",
       "channel_id": "1170692781216378960",
-      "content": "Man...",
-      "author": "syro_k",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555973299098615842",
-      "channel_id": "1170692781216378960",
-      "content": "holy yap <:Glorp:1280414261373440031>",
-      "author": "stargnh",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555973546281533571",
-      "channel_id": "1170692781216378960",
-      "content": "Noooo you aren’t ugly",
-      "author": "unknowable3333",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555973592519282689",
-      "channel_id": "1170692781216378960",
-      "content": "You are big and strong and groovy",
-      "author": "unknowable3333",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555973637692072109",
-      "channel_id": "1170692781216378960",
-      "content": "Some might even incandescent",
-      "author": "unknowable3333",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555973744718118956",
-      "channel_id": "1170692781216378960",
-      "content": "you're very groovy",
-      "author": "direhands",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555974396697382963",
-      "channel_id": "1170692781216378960",
-      "content": "I'm just better than everyone else",
-      "author": "direhands",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555974541283692687",
-      "channel_id": "1170692781216378960",
-      "content": "That's what matters most.",
-      "author": "syro_k",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555974556399829113",
-      "channel_id": "1170692781216378960",
-      "content": "cap she is op",
-      "author": "gersona6",
-      "reactions": 1,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555974738516508885",
-      "channel_id": "1170692781216378960",
-      "content": "daff nerf soon",
-      "author": "direhands",
-      "reactions": 1,
+      "content": "verdriet cracked gmuffin and yet makes no appearance in arc 2 chapter 4... deadb",
+      "author": "violettaautumn",
+      "reactions": 2,
       "channel": "🔸morimens-game-chat"
     }
   ]
