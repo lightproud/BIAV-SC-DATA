@@ -43,6 +43,7 @@ def test_folded_source_layout_exact():
         'official': ('steam', 'news'),
         'steam_discussion': ('steam', 'discussion'),
         'taptap_review': ('taptap', 'review'),
+        'reddit_comment': ('reddit', 'comment'),
     }
 
 
@@ -52,6 +53,7 @@ def test_claimed_subtypes_excludes_self_host():
     assert {
         'steam': {'news', 'discussion'},
         'taptap': {'review'},
+        'reddit': {'comment'},
     } == CLAIMED_SUBTYPES
 
 
@@ -91,6 +93,7 @@ def test_build_relpath_flat_and_region_only():
     ('official', ('steam', 'global', 'news')),
     ('steam_discussion', ('steam', 'global', 'discussion')),
     ('taptap_review', ('taptap', 'cn', 'review')),
+    ('reddit_comment', ('reddit', 'global', 'comment')),
     ('taptap', ('taptap', 'cn', 'post')),
     ('youtube', ('youtube', 'global', 'video')),
     ('appstore', ('appstore', 'global', None)),

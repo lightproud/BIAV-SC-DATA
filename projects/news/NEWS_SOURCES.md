@@ -54,6 +54,23 @@ arca.live 对 GitHub Actions 机房 IP 返回 403，但 Claude 云会话容器�
 6. 令牌只经 `Authorization: Bearer` 头发送，不进日志。令牌失效或权限不足时采集器会抛错，该源出现在当轮「失败」清单里，
    此时按本节重新生成即可。Graph API 版本号常量在 `facebook_page_collector.GRAPH_VERSION`（当前 v21.0）。
 
+## Reddit 应用怎么注册（评论采集，官方 OAuth API）
+
+帖子采集（`fetch_reddit`，RSS / 公开 JSON）不需要凭据；**评论**在机房 IP 下评论 RSS 返回 429、`.json` 返回 403，只能走 Reddit
+官方 OAuth API，所以需要守密人注册一个 script 类型应用（免费，一次性）：
+
+1. 登录 reddit.com，打开 <https://www.reddit.com/prefs/apps>，点页面底部 **create app**（或 create another app）。
+2. 类型选 **script**；name 随意（如 `biav-sc-news`）；redirect uri 填 `http://localhost:8080`（script 应用不真用它，但必填）。
+3. 创建后记下两串：**client id** = 应用名称下方那串短字符（在 "personal use script" 字样下面）；**secret** = 标着 secret 的那一串。
+4. 存入数据仓 BIAV-SC-DATA 的 Actions 密钥：`REDDIT_CLIENT_ID`、`REDDIT_CLIENT_SECRET`；可选 `REDDIT_USER_AGENT`
+   （写你的 Reddit 用户名，或完整 UA `python:biav-sc-news:1.0 (by /u/<用户名>)`）。
+5. 可选 `REDDIT_USERNAME` / `REDDIT_PASSWORD`（该应用所属账号，走 password grant）；不配则用 `client_credentials`（application-only），
+   读公开子版块评论已够用。
+
+采集器 `reddit_comments_collector.py`（源名 `reddit_comment`，归档 `Record/Community/reddit/global/comment/`）：id / secret 缺任一即整源
+跳过（日志 info「未配置，跳过」，不算失败源）；额度 100 请求 / 分钟，按响应头 `X-Ratelimit-Remaining/Reset` 自适应，每轮请求总数、
+每子版块帖子数、每帖 `morechildren` 次数均有上限。凭据只经环境变量读取，不入日志、不入归档。
+
 ## 每日补充检索
 
 已建立 ChatGPT 定时任务“忘却前夜新闻补充采集”，从 2026-10-02 起每天北京时间

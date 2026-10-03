@@ -39,6 +39,7 @@ from arca_live_collector import fetch_arca_live
 import taptap_collector
 import bluesky_collector
 import facebook_page_collector
+import reddit_comments_collector
 from sources import REGION_APPS  # 区服 app 标识单一真相源（2026-06-21 采集源命名规范）
 
 logging.basicConfig(
@@ -723,6 +724,11 @@ def fetch_bluesky():
 def fetch_facebook_page():
     """Facebook 官方主页评论（实现见 facebook_page_collector）；未配置返回空。"""
     return facebook_page_collector.fetch_facebook_page(CUTOFF)
+
+
+def fetch_reddit_comments():
+    """Reddit 评论（官方 OAuth API；凭据缺失返回 []，实现见 reddit_comments_collector）；时窗沿用全局 CUTOFF。"""
+    return reddit_comments_collector.fetch_reddit_comments(CUTOFF)
 
 
 # NOTE: divergent from aggregator_collectors.fetch_discord_local — see audit ARCH-01:

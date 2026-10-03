@@ -48,6 +48,8 @@ KNOWN_SOURCES = [
     'bluesky',
     # Facebook 官方主页评论（Studio 管理主页令牌，守密人 2026-10-03 裁定；未配 FB_PAGE_* 时 0 产出属预期）
     'facebook',
+    # Reddit 评论（官方 OAuth API；归档 reddit/global/comment/，需 REDDIT_CLIENT_ID/SECRET）
+    'reddit_comment',
 ]
 # twitter 已摘除（守密人 2026-07-30 裁定，归档完整性审计待裁项④）：挂名 1,126 天审计窗口
 # 零产出、归档目录从未存在（syndication 接口 API 墙）。采集器 fetch_twitter 保留在
@@ -82,6 +84,7 @@ SPARSE_SOURCES = {
     'stopgame',
     'note_com', 'ruliweb', 'bahamut', 'arca_live', 'taptap_review',
     'bluesky', 'facebook',
+    'reddit_comment',
     'discord',
 }
 
@@ -103,6 +106,7 @@ AUTH_GATED = {
     'youtube': 'YOUTUBE_API_KEY',
     'discord': 'DISCORD_BOT_TOKEN',
     'facebook': 'FB_PAGE_TOKEN',  # 另需 FB_PAGE_ID；任一缺失采集器即返回空
+    'reddit_comment': 'REDDIT_CLIENT_ID',  # 另需 REDDIT_CLIENT_SECRET；缺则整源跳过
 }
 
 # Discord 有独立归档器（discord_archiver.py），不走 archive_platforms 的按日归档

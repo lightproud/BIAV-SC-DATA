@@ -138,6 +138,7 @@ class TestRunZeroCostBranches(unittest.TestCase):
             "TapTap": "fetch_taptap_reviews",
             "Bluesky": "fetch_bluesky", "Facebook": "fetch_facebook_page",
             "Google Play": "fetch_google_play",
+            "Reddit Comments": "fetch_reddit_comments",
         }
         patches = []
         for name, attr in attr_by_name.items():
