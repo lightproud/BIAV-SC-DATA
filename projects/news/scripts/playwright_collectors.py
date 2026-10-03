@@ -11,6 +11,7 @@ Tested and working:
 
 import logging
 import os
+import re
 from urllib.parse import urlencode, urljoin
 import sys
 from datetime import datetime, UTC
@@ -156,10 +157,98 @@ def _parse_bahamut_row(row) -> dict:
     }
 
 
+# ---------------------------------------------------------------------------
+# T109 诊断埋点：微博搜索页 article 的脱敏 DOM 骨架（数据仓是公开仓，日志人人可见）
+# 只输出标签名 / class / data-* 属性名 / href 形状 / 有无文本与文本长度，绝不输出文本内容。
+# ---------------------------------------------------------------------------
+_WEIBO_DOM_PROBE_JS = r"""
+() => {
+  const MAXD = 6, MAXLEN = 4000, MAXART = 2;
+  const KEEP = ['u', 'n', 'p', 'detail', 'status', 'statuses', 'search', 'profile', 'comment', 'repost', 'topic', 'hot', 'api', 'container', 'getindex', 'weibo', 'userinfo'];
+  const shapeSeg = (seg) => {
+    if (!seg) return seg;
+    if (/^\d+$/.test(seg)) return 'N';
+    if (KEEP.indexOf(seg) >= 0) return seg;
+    return 'X';
+  };
+  const hrefShape = (h) => {
+    if (h === null || h === undefined) return '';
+    let path = String(h).split('#')[0];
+    const qi = path.indexOf('?');
+    let qkeys = [];
+    if (qi >= 0) {
+      qkeys = path.slice(qi + 1).split('&').map(x => x.split('=')[0].replace(/[^A-Za-z_]/g, '').slice(0, 12)).filter(Boolean);
+      path = path.slice(0, qi);
+    }
+    path = path.replace(/^[a-zA-Z][a-zA-Z0-9+.-]*:\/\/[^\/]*/, '//H');
+    const out = path.split('/').map(shapeSeg).join('/');
+    return out.slice(0, 60) + (qkeys.length ? '?' + qkeys.slice(0, 4).join('&') : '');
+  };
+  const cls = (el) => {
+    const c = (typeof el.className === 'string' ? el.className : '').trim();
+    return c ? c.split(/\s+/).slice(0, 4).map(x => x.replace(/[^A-Za-z0-9_-]/g, 'X').slice(0, 24)).join('.') : '';
+  };
+  const dataNames = (el) => Array.from(el.attributes || []).map(a => a.name)
+    .filter(n => n.indexOf('data-') === 0).map(n => n.replace(/[^a-z0-9-]/g, 'x').slice(0, 24)).slice(0, 4);
+  const ownText = (el) => {
+    let n = 0;
+    for (const c of el.childNodes) if (c.nodeType === 3) n += c.textContent.trim().length;
+    return n;
+  };
+  const walk = (el, d) => {
+    let s = el.tagName.toLowerCase();
+    const c = cls(el); if (c) s += '.' + c;
+    const dn = dataNames(el); if (dn.length) s += '[' + dn.join(',') + ']';
+    if (el.tagName === 'A') s += '{href=' + hrefShape(el.getAttribute('href')) + '}';
+    const t = ownText(el); if (t) s += '(t' + t + ')';
+    const kids = Array.from(el.children);
+    if (kids.length && d < MAXD) s += '>' + kids.slice(0, 12).map(k => walk(k, d + 1)).join('|');
+    else if (kids.length) s += '>+' + kids.length;
+    return s;
+  };
+  const arts = Array.from(document.querySelectorAll('article'));
+  const more = Array.from(document.querySelectorAll('a,span,button,div'))
+    .filter(e => e.children.length === 0 && /^(全文|展开|展開|查看全文)/.test((e.textContent || '').trim())).length;
+  const head = 'articles=' + arts.length + ' fulltext_links=' + more
+    + ' page=' + hrefShape(location.pathname + location.search);
+  const body = arts.slice(0, MAXART).map((a, i) => 'A' + i + ':' + walk(a, 0)).join(' ## ');
+  return (head + ' ## ' + body).slice(0, MAXLEN);
+}
+"""
+
+_EMAIL_RE = re.compile(r'[^\s@/{}|>\[\],;()]+@[^\s@/{}|>\[\],;()]+')
+_HOST_RE = re.compile(r'(?:https?:)?//(?!H(?![A-Za-z0-9]))[^\s/{}|>\[\],;()]+')
+_LONG_DIGITS_RE = re.compile(r'\d{5,}')
+_NON_ASCII_RE = re.compile(r'[^\x00-\x7f]+')
+
+
+def sanitize_dom_skeleton(text, limit=4000) -> str:
+    """Python 侧二次净化：邮箱 -> E，URL 主机 -> //H，非 ASCII（含中文）-> X，连续 5 位以上数字 -> N。
+    无论 JS 产出什么，日志里都不会出现中文文本 / 长数字 / 邮箱 / 完整链接。"""
+    s = str(text)
+    s = _EMAIL_RE.sub('E', s)
+    s = _HOST_RE.sub('//H', s)
+    s = _NON_ASCII_RE.sub('X', s)
+    s = _LONG_DIGITS_RE.sub('N', s)
+    return s[:limit]
+
+
+def _log_weibo_dom_probe(page) -> None:
+    """每轮搜索页打一次脱敏 DOM 骨架；WEIBO_DOM_PROBE=0 关闭；任何异常一律吞掉。"""
+    try:
+        if os.environ.get('WEIBO_DOM_PROBE', '1').strip().lower() in ('0', 'false', 'no', 'off', ''):
+            return
+        skeleton = page.evaluate(_WEIBO_DOM_PROBE_JS)
+        logger.info('微博 DOM 骨架: %s', sanitize_dom_skeleton(skeleton))
+    except Exception as exc:
+        logger.debug('微博 DOM 骨架转储失败: %s', type(exc).__name__)
+
+
 def _collect_weibo_search(page, seen, max_rounds):
     """Bounded scrolling; stop after two consecutive snapshots add no new items."""
     items = []
     stalled = 0
+    _log_weibo_dom_probe(page)  # T109 诊断埋点：只在首屏转储一次，不影响采集
     for _ in range(max_rounds):
         added = 0
         for article in page.query_selector_all('article'):
