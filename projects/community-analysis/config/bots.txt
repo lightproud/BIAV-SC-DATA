@@ -1,0 +1,5 @@
+# 机器人名单（T11）：字段里没标机器人、但实际是机器人的账号。
+# 每行「平台<空白>作者标识」，作者标识取规范化时同一来源（author_id → metadata.author_id → author）。
+# 清洗时用 AUTHOR_SALT 现算哈希再比对，名单本身不进任何产出。
+# 设了环境变量 YUQING_CONFIG_DIR 时改读那里的 bots.txt。
+# 例：discord	123456789012345678

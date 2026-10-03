@@ -1,0 +1,124 @@
+# 社区圈与区服映射（T10）。规则自上而下，取第一个命中的。
+# platform 必填；region 选填，对的是数据湖路径的第二段（如 discord/global/... 的 global）。
+# community 必填；server 只在路径本身写明区服时填，查不到就不写（规范化时留空，不猜）。
+# 都不命中的平台 community 记 "unknown"。
+
+[[rule]]
+platform = "discord"
+region = "global"
+community = "global"
+server = "global"
+
+[[rule]]
+platform = "discord"
+region = "jp"
+community = "jp"
+server = "jp"
+
+[[rule]]
+platform = "discord"
+region = "volunteer"
+community = "volunteer"   # 志愿者服务器，单列；归哪个圈待守密人定
+
+[[rule]]
+platform = "steam"
+region = "jp"
+community = "jp"
+server = "jp"
+
+[[rule]]
+platform = "steam"
+region = "global"
+community = "global"
+server = "global"
+
+[[rule]]
+platform = "appstore"
+region = "jp"
+community = "jp"
+server = "jp"
+
+[[rule]]
+platform = "appstore"
+region = "global"
+community = "global"
+server = "global"
+
+[[rule]]
+platform = "google_play"
+region = "jp"
+community = "jp"
+server = "jp"
+
+[[rule]]
+platform = "google_play"
+region = "global"
+community = "global"
+server = "global"
+
+[[rule]]
+platform = "youtube"
+region = "jp"
+community = "jp"
+
+[[rule]]
+platform = "youtube"
+community = "global"
+
+[[rule]]
+platform = "youtube_comments"
+community = "global"
+
+[[rule]]
+platform = "reddit"
+community = "global"
+
+[[rule]]
+platform = "taptap"
+region = "cn"
+community = "cn"
+server = "cn"
+
+[[rule]]
+platform = "taptap"
+community = "cn"
+
+[[rule]]
+platform = "weibo"
+community = "cn"
+
+[[rule]]
+platform = "bilibili"
+community = "cn"
+
+[[rule]]
+platform = "weixin"
+community = "cn"
+
+[[rule]]
+platform = "bahamut"
+community = "tw"
+
+[[rule]]
+platform = "arca_live"
+community = "kr"
+
+[[rule]]
+platform = "ruliweb"
+community = "kr"
+
+[[rule]]
+platform = "note_com"
+community = "jp"
+
+[[rule]]
+platform = "prtimes"
+community = "jp"
+
+[[rule]]
+platform = "pixiv"
+community = "jp"
+
+[[rule]]
+platform = "stopgame"
+community = "ru"
