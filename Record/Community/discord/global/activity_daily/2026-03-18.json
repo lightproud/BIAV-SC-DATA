@@ -1,10 +1,12 @@
 {
   "date": "2026-03-18",
-  "messages": 17206,
+  "messages": 17912,
   "unique_authors": 275,
-  "reactions_total": 2193,
-  "attachments": 727,
+  "reactions_total": 2245,
+  "attachments": 755,
   "channel_activity": {
+    "🔸game-question": 672,
+    "🔸机器人命令┊bot-commands": 34,
     "🔸morimens-game-chat": 9114,
     "🔸剧情交流": 2,
     "🔸晒卡分享": 88,
@@ -70,35 +72,35 @@
     "1482983909699616811": 2
   },
   "hourly_activity": {
-    "0": 460,
-    "1": 425,
-    "2": 723,
-    "3": 687,
-    "4": 327,
-    "5": 441,
-    "6": 475,
-    "7": 521,
-    "8": 501,
-    "9": 763,
-    "10": 258,
-    "11": 398,
-    "12": 872,
-    "13": 687,
-    "14": 596,
-    "15": 1600,
-    "16": 828,
-    "17": 475,
-    "18": 1011,
-    "19": 672,
-    "20": 1051,
-    "21": 1093,
-    "22": 1418,
-    "23": 924
+    "0": 469,
+    "1": 430,
+    "2": 727,
+    "3": 738,
+    "4": 330,
+    "6": 508,
+    "7": 529,
+    "8": 505,
+    "9": 854,
+    "10": 478,
+    "11": 413,
+    "12": 885,
+    "13": 696,
+    "14": 607,
+    "15": 1621,
+    "17": 478,
+    "18": 1088,
+    "19": 704,
+    "20": 1073,
+    "21": 1150,
+    "22": 1430,
+    "23": 929,
+    "5": 442,
+    "16": 828
   },
   "message_types": {
-    "0": 12129,
-    "19": 5062,
-    "20": 1,
+    "0": 12696,
+    "19": 5197,
+    "20": 5,
     "4": 14
   },
   "top_reacted_messages": [
@@ -125,6 +127,14 @@
       "author": "peanutgod_ofsaturn",
       "reactions": 14,
       "channel": ""
+    },
+    {
+      "id": "1483807143080755232",
+      "channel_id": "1433513650299076780",
+      "content": "https://discord.com/channels/1131791637933199470/1477730088299663431/14777300882",
+      "author": "chinkeeyong",
+      "reactions": 13,
+      "channel": "🔸game-question"
     },
     {
       "id": "1483756178340315216",
@@ -251,14 +261,6 @@
       "channel_id": "1483359118742917201",
       "content": "You can submit any game-related content. However, in cases where two submissions",
       "author": "morimensstaff01",
-      "reactions": 6,
-      "channel": ""
-    },
-    {
-      "id": "1483784233049915413",
-      "channel_id": "1450001353064714320",
-      "content": "the Saya thread is going to pass this thread’s message count any moment now\n\nDor",
-      "author": "bagels5899",
       "reactions": 6,
       "channel": ""
     }

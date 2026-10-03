@@ -1,10 +1,12 @@
 {
   "date": "2026-03-27",
-  "messages": 11078,
+  "messages": 11663,
   "unique_authors": 214,
-  "reactions_total": 1605,
-  "attachments": 550,
+  "reactions_total": 1708,
+  "attachments": 570,
   "channel_activity": {
+    "🔸game-question": 565,
+    "🔸机器人命令┊bot-commands": 20,
     "🔸morimens-game-chat": 6763,
     "🔸剧情交流": 24,
     "🔸相位对弈": 88,
@@ -44,35 +46,35 @@
     "1468895834199298215": 2
   },
   "hourly_activity": {
+    "1": 1265,
+    "2": 506,
+    "3": 311,
+    "4": 322,
+    "6": 697,
+    "7": 620,
+    "8": 236,
+    "9": 390,
+    "10": 614,
+    "11": 570,
+    "12": 273,
+    "13": 191,
+    "14": 386,
+    "15": 167,
+    "16": 193,
+    "18": 315,
+    "19": 391,
+    "20": 318,
+    "21": 313,
+    "22": 706,
+    "23": 942,
+    "17": 577,
     "0": 1173,
-    "1": 1257,
-    "2": 480,
-    "3": 310,
-    "4": 314,
-    "5": 187,
-    "6": 689,
-    "7": 595,
-    "8": 226,
-    "9": 383,
-    "10": 613,
-    "11": 542,
-    "12": 267,
-    "13": 177,
-    "14": 382,
-    "15": 163,
-    "16": 172,
-    "17": 572,
-    "18": 298,
-    "19": 360,
-    "20": 310,
-    "21": 247,
-    "22": 547,
-    "23": 814
+    "5": 187
   },
   "message_types": {
-    "0": 7822,
-    "19": 3249,
-    "20": 2,
+    "19": 3357,
+    "0": 8298,
+    "20": 3,
     "4": 5
   },
   "top_reacted_messages": [
@@ -213,6 +215,14 @@
       "channel": "🔸相位对弈"
     },
     {
+      "id": "1487114769994616955",
+      "channel_id": "1433513650299076780",
+      "content": "I have a question, has someone actually put their life on this game? Like.. Mori",
+      "author": "tokki.mwa",
+      "reactions": 5,
+      "channel": "🔸game-question"
+    },
+    {
       "id": "1486758253495980142",
       "channel_id": "1170692781216378960",
       "content": "I think I'll stick to game-question",
@@ -225,14 +235,6 @@
       "channel_id": "1170692781216378960",
       "content": "<@1440811951386136587> https://x.com/i/status/2037161492769042930 kathigura fana",
       "author": "._.aahh",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1486779511247994881",
-      "channel_id": "1170692781216378960",
-      "content": "My Arachne budget",
-      "author": "frosthief",
       "reactions": 5,
       "channel": "🔸morimens-game-chat"
     }
