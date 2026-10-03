@@ -157,6 +157,7 @@ FOLDED_SOURCE_LAYOUT: dict[str, tuple[str, str]] = {
     'steam_discussion': ('steam', 'discussion'),
     'taptap_review':    ('taptap', 'review'),
     'reddit_comment':   ('reddit', 'comment'),  # Reddit 评论 → reddit/global/comment/（帖子仍平铺）
+    'bilibili_comment': ('bilibili', 'comment'),  # B 站视频评论 → bilibili/cn/comment/（视频仍平铺）
 }
 
 # 宿主平台下被折叠源认领的类型子目录（宿主默认递归遍历时须避开，防双计）

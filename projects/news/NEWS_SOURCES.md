@@ -71,6 +71,9 @@ arca.live 对 GitHub Actions 机房 IP 返回 403，但 Claude 云会话容器�
 跳过（日志 info「未配置，跳过」，不算失败源）；额度 100 请求 / 分钟，按响应头 `X-Ratelimit-Remaining/Reset` 自适应，每轮请求总数、
 每子版块帖子数、每帖 `morechildren` 次数均有上限。凭据只经环境变量读取，不入日志、不入归档。
 
+B 站视频评论：采集器 `bilibili_comments_collector.py`（源名 `bilibili_comment`，归档 `Record/Community/bilibili/cn/comment/`），免登录免签名；
+视频取本轮搜索结果 + 近 7 天已归档热门视频，评论按时间序增量，每轮请求上限 80、间隔 ≥1 秒，遇 -412 / -352 风控码即停本轮降级（保留已采部分）。
+
 ## 每日补充检索
 
 已建立 ChatGPT 定时任务“忘却前夜新闻补充采集”，从 2026-10-02 起每天北京时间

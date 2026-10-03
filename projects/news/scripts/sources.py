@@ -52,6 +52,8 @@ KNOWN_SOURCES = [
     'facebook',
     # Reddit 评论（官方 OAuth API；归档 reddit/global/comment/，需 REDDIT_CLIENT_ID/SECRET）
     'reddit_comment',
+    # B 站视频评论（公开评论接口；归档 bilibili/cn/comment/，风控降级）
+    'bilibili_comment',
 ]
 # twitter 已摘除（守密人 2026-07-30 裁定，归档完整性审计待裁项④）：挂名 1,126 天审计窗口
 # 零产出、归档目录从未存在（syndication 接口 API 墙）。采集器 fetch_twitter 保留在
@@ -87,7 +89,7 @@ SPARSE_SOURCES = {
     'note_com', 'ruliweb', 'bahamut', 'arca_live', 'taptap_review',
     'bluesky', 'facebook',
     'telegram', 'misskey',
-    'reddit_comment',
+    'reddit_comment', 'bilibili_comment',
     'discord',
 }
 

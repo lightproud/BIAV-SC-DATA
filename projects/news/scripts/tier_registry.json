@@ -25,6 +25,10 @@
       "tier": "T1",
       "why": "arca.live 忘却前夜频道列表 + 首帖正文采集（守密人 2026-10-03 裁定重启），供 collect_global 调度"
     },
+    "bilibili_comments_collector": {
+      "tier": "T1",
+      "why": "B 站视频评论采集（公开评论接口，风控码降级），供 collect_global 调度"
+    },
     "reddit_comments_collector": {
       "tier": "T1",
       "why": "Reddit 评论采集（官方 OAuth API，缺凭据整源跳过），供 collect_global 调度"

@@ -42,6 +42,7 @@ import telegram_collector
 import misskey_collector
 import facebook_page_collector
 import reddit_comments_collector
+import bilibili_comments_collector
 from sources import REGION_APPS  # 区服 app 标识单一真相源（2026-06-21 采集源命名规范）
 
 logging.basicConfig(
@@ -741,6 +742,11 @@ def fetch_facebook_page():
 def fetch_reddit_comments():
     """Reddit 评论（官方 OAuth API；凭据缺失返回 []，实现见 reddit_comments_collector）；时窗沿用全局 CUTOFF。"""
     return reddit_comments_collector.fetch_reddit_comments(CUTOFF)
+
+
+def fetch_bilibili_comments():
+    """B 站视频评论（公开评论接口；风控码降级返回已采部分，实现见 bilibili_comments_collector）；时窗沿用全局 CUTOFF。"""
+    return bilibili_comments_collector.fetch_bilibili_comments(CUTOFF)
 
 
 # NOTE: divergent from aggregator_collectors.fetch_discord_local — see audit ARCH-01:

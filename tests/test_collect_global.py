@@ -136,6 +136,7 @@ class TestFailureAggregation(unittest.TestCase):
             "Bluesky": "fetch_bluesky", "Telegram": "fetch_telegram", "Misskey": "fetch_misskey", "Facebook": "fetch_facebook_page",
             "Google Play": "fetch_google_play",
             "Reddit Comments": "fetch_reddit_comments",
+            "Bilibili Comments": "fetch_bilibili_comments",
         }
         patches = []
         for name, attr in attr_by_name.items():

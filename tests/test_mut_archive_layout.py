@@ -44,6 +44,7 @@ def test_folded_source_layout_exact():
         'steam_discussion': ('steam', 'discussion'),
         'taptap_review': ('taptap', 'review'),
         'reddit_comment': ('reddit', 'comment'),
+        'bilibili_comment': ('bilibili', 'comment'),
     }
 
 
@@ -54,6 +55,7 @@ def test_claimed_subtypes_excludes_self_host():
         'steam': {'news', 'discussion'},
         'taptap': {'review'},
         'reddit': {'comment'},
+        'bilibili': {'comment'},
     } == CLAIMED_SUBTYPES
 
 
@@ -94,6 +96,7 @@ def test_build_relpath_flat_and_region_only():
     ('steam_discussion', ('steam', 'global', 'discussion')),
     ('taptap_review', ('taptap', 'cn', 'review')),
     ('reddit_comment', ('reddit', 'global', 'comment')),
+    ('bilibili_comment', ('bilibili', 'global', 'comment')),  # 缺 region 兜底；条目自带 region=cn 落 bilibili/cn/comment
     ('taptap', ('taptap', 'cn', 'post')),
     ('youtube', ('youtube', 'global', 'video')),
     ('appstore', ('appstore', 'global', None)),

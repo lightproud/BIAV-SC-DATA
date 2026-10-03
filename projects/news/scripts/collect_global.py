@@ -48,6 +48,7 @@ SOURCE_MAP = {
     'bilibili': 'bilibili',
     'reddit': 'reddit',
     'reddit_comment': 'reddit_comment',
+    'bilibili_comment': 'bilibili_comment',
     'youtube': 'youtube',
     # 'steam' 不再重映射：steam 三源采集器（2026-08-22 自 AC 栈迁入）各自直接产
     # steam / steam_review / steam_discussion，旧的 steam→steam_review 映射会把官方
@@ -194,6 +195,7 @@ def run_zero_cost_collectors() -> list[dict]:
         ('Misskey', c.fetch_misskey),  # 日本 Fediverse（misskey_collector.py，守密人 2026-10-03 批准）
         ('Facebook', c.fetch_facebook_page),  # 主页评论；FB_PAGE_ID / FB_PAGE_TOKEN 未配则返回空
         ('Reddit Comments', c.fetch_reddit_comments),  # Reddit 官方 OAuth 评论采集（缺凭据返回空，reddit_comments_collector.py）
+        ('Bilibili Comments', c.fetch_bilibili_comments),  # B 站视频评论（公开接口，风控降级，bilibili_comments_collector.py）
     ]
 
     all_fetchers = zero_cost_fetchers + api_fetchers
@@ -216,6 +218,7 @@ def run_zero_cost_collectors() -> list[dict]:
         'Misskey': 'misskey',
         'Facebook': 'facebook',
         'Reddit Comments': 'reddit_comment',
+        'Bilibili Comments': 'bilibili_comment',
     }
 
     # 各采集器互相独立、采集前无共享状态 → 用线程并行（阻塞 requests 用线程即可）。
