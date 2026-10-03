@@ -214,5 +214,190 @@ class TestSnapshotDateByPublish(unittest.TestCase):
             self.assertEqual([r["id"] for r in snap], ["old", "c1"])   # 按 likes 降序
 
 
+def _thr(tid, total=0, replies=(), pub="2026-10-01T00:00:00Z"):
+    """自造线程样本（作者 / 文本均为占位）。"""
+    t = {"id": tid, "snippet": {"totalReplyCount": total, "topLevelComment": {"snippet": {
+        "authorDisplayName": "u", "textDisplay": "t", "likeCount": 1, "publishedAt": pub}}}}
+    if replies:
+        t["replies"] = {"comments": [
+            {"id": f"{tid}.{r}", "snippet": {"authorDisplayName": "u", "textDisplay": "r",
+                                             "likeCount": 0, "publishedAt": pub, "parentId": tid}}
+            for r in replies]}
+    return t
+
+
+class TestReplies(unittest.TestCase):
+    def test_embedded_replies_expanded_with_parent_meta(self):
+        data = {"items": [_thr("T1", total=2, replies=["a", "b"])]}
+        with mock.patch.object(cvc, "_get", return_value=data) as g:
+            rows, ex = cvc.fetch_video_comments("k", "v", set(), 8)
+        self.assertEqual([r["id"] for r in rows], ["T1", "T1.a", "T1.b"])
+        self.assertNotIn("is_reply", rows[0])
+        self.assertTrue(all(r["is_reply"] and r["parent_id"] == "T1" for r in rows[1:]))
+        self.assertEqual(g.call_args.args[1]["part"], "snippet,replies")
+        self.assertEqual(g.call_count, 1)      # 回复已齐，不调 comments.list
+
+    def test_comments_list_fills_missing_with_pagination(self):
+        calls = []
+
+        def fake(path, params):
+            calls.append((path, dict(params)))
+            if path == "commentThreads":
+                return {"items": [_thr("T1", total=5, replies=["a", "b"])]}
+            if "pageToken" not in params:
+                return {"items": [{"id": f"T1.{i}", "snippet": {}} for i in "abcd"],
+                        "nextPageToken": "p2"}
+            return {"items": [{"id": f"T1.{i}", "snippet": {}} for i in "cde"]}
+        with mock.patch.object(cvc, "_get", side_effect=fake):
+            rows, _ = cvc.fetch_video_comments("k", "v", set(), 8)
+        ids = [r["id"] for r in rows]
+        self.assertEqual(ids, ["T1", "T1.a", "T1.b", "T1.c", "T1.d", "T1.e"])
+        self.assertEqual(len(ids), len(set(ids)))           # 去重键稳定：随带与补全重叠不重复
+        lists = [c for c in calls if c[0] == "comments"]
+        self.assertEqual(len(lists), 2)
+        self.assertEqual(lists[0][1]["parentId"], "T1")
+
+    def test_known_thread_with_new_replies_refetched_and_counts_used(self):
+        known = {"T1", "T1.a"}
+        counts = {"T1": 1}
+
+        def fake(path, params):
+            if path == "commentThreads":
+                return {"items": [_thr("T1", total=2)]}
+            return {"items": [{"id": "T1.a", "snippet": {}}, {"id": "T1.z", "snippet": {}}]}
+        with mock.patch.object(cvc, "_get", side_effect=fake):
+            rows, ex = cvc.fetch_video_comments("k", "v", known, 8, known_reply_counts=counts)
+        self.assertEqual([r["id"] for r in rows], ["T1.z"])
+        self.assertEqual(counts["T1"], 2)
+        self.assertTrue(ex)
+
+    def test_no_gap_no_comments_list_call(self):
+        with mock.patch.object(cvc, "_get", return_value={"items": [_thr("T1", total=1)]}) as g:
+            cvc.fetch_video_comments("k", "v", {"T1"}, 8, known_reply_counts={"T1": 1})
+        self.assertEqual(g.call_count, 1)
+
+    def test_sweep_pages_keeps_walking_quiet_pages(self):
+        pages = [{"items": [_thr("T1")], "nextPageToken": "n"} for _ in range(5)]
+        with mock.patch.object(cvc, "_get", side_effect=pages) as g:
+            cvc.fetch_video_comments("k", "v", {"T1"}, 8, sweep_pages=3)
+        self.assertEqual(g.call_count, 3)
+
+    def test_main_rebuilds_reply_counts_from_store(self):
+        import tempfile
+        with tempfile.TemporaryDirectory() as d:
+            dest = Path(d) / "yc"
+            dest.mkdir()
+            (dest / "comments.jsonl").write_text(
+                json.dumps({"id": "T1"}) + "\n" + json.dumps({"id": "T1.a", "parent_id": "T1"}) + "\n",
+                encoding="utf-8")
+            seen = {}
+
+            def fake_fetch(key, vid, known, mp, quota, counts, sweep):
+                seen.update(counts)
+                return [], True
+            with mock.patch.object(cvc, "DEST", str(dest)), \
+                    mock.patch.object(sys, "argv", ["prog", "--date", "2026-10-02"]), \
+                    mock.patch.dict(cvc.os.environ, {"YOUTUBE_API_KEY": "k"}, clear=True), \
+                    mock.patch.object(cvc, "discover_videos", return_value={"v1": ("T", "C")}), \
+                    mock.patch.object(cvc, "fetch_video_comments", side_effect=fake_fetch):
+                cvc.main()
+            self.assertEqual(seen, {"T1": 1})
+
+
+class TestHotDiscovery(unittest.TestCase):
+    def test_viewcount_search_added_and_deduped(self):
+        def fake(path, params):
+            extra = "hot1" if params["order"] == "viewCount" else "new1"
+            return {"items": [
+                {"id": {"videoId": "dup"}, "snippet": {"title": "first", "channelTitle": "c"}},
+                {"id": {"videoId": extra}, "snippet": {"title": "x", "channelTitle": "c"}}]}
+        with mock.patch.object(cvc, "_get", side_effect=fake) as g, \
+                mock.patch.object(cvc.glob, "glob", return_value=[]):
+            vids = cvc.discover_videos("k")
+        orders = [c.args[1]["order"] for c in g.call_args_list]
+        self.assertEqual(orders.count("viewCount"), len(cvc.HOT_Q))
+        self.assertEqual(orders.count("date"), len(cvc.SEARCH_Q))
+        self.assertEqual(set(vids), {"dup", "new1", "hot1"})   # 同 id 只一条
+
+    def test_discovery_stops_when_budget_out(self):
+        q = cvc.Quota(limit=250)       # 只够 2 次 search
+        with mock.patch.object(cvc, "_get", return_value={"items": []}) as g, \
+                mock.patch.object(cvc.glob, "glob", return_value=[]):
+            cvc.discover_videos("k", q)
+        self.assertEqual(g.call_count, 2)
+        self.assertEqual(q.spent, 200)
+
+
+class TestQuota(unittest.TestCase):
+    def test_costs_and_cap(self):
+        q = cvc.Quota(limit=101)
+        q.charge(cvc.SEARCH_COST)
+        q.charge(cvc.LIST_COST)
+        with self.assertRaises(cvc.BudgetExceeded):
+            q.charge(cvc.LIST_COST)
+        self.assertEqual(q.spent, 101)
+
+    def test_budget_within_daily_quota(self):
+        self.assertLessEqual(cvc.RUN_QUOTA_BUDGET, cvc.DAILY_QUOTA)
+
+    def test_fetch_partial_not_exhausted_when_budget_out(self):
+        q = cvc.Quota(limit=2)
+        counter = {"n": 0}
+
+        def fake(path, params):
+            counter["n"] += 1
+            return {"items": [_thr(f"T{counter['n']}")], "nextPageToken": "n"}
+        with mock.patch.object(cvc, "_get", side_effect=fake):
+            rows, ex = cvc.fetch_video_comments("k", "v", set(), 8, q)
+        self.assertEqual([r["id"] for r in rows], ["T1", "T2"])
+        self.assertFalse(ex)       # 预算断在中途 -> 未尽，下轮续
+        self.assertEqual(q.spent, 2)
+
+    def test_reply_fill_yields_when_budget_tight(self):
+        q = cvc.Quota(limit=cvc.REPLY_RESERVE)       # 余量不超过保留线 -> 不补全
+        with mock.patch.object(cvc, "_get", return_value={"items": [_thr("T1", total=9)]}) as g:
+            rows, _ = cvc.fetch_video_comments("k", "v", set(), 8, q)
+        self.assertEqual(g.call_count, 1)
+        self.assertEqual([r["id"] for r in rows], ["T1"])
+
+    def test_api_quota_exceeded_not_treated_as_comments_disabled(self):
+        import io
+        body = io.BytesIO(b'{"error":{"errors":[{"reason":"quotaExceeded"}]}}')
+        err = urllib.error.HTTPError("u", 403, "q", {}, body)
+        q = cvc.Quota()
+        with mock.patch.object(cvc, "_get", side_effect=err):
+            rows, ex = cvc.fetch_video_comments("k", "v", set(), 8, q)
+        self.assertFalse(ex)
+        self.assertTrue(q.hit_api_limit)
+
+    def test_prioritize_new_then_recent_then_old_and_cap(self):
+        vids = {"old": ("", ""), "rec": ("", ""), "new": ("", "")}
+        state = {"old": {"last_run": "2026-09-01", "last_new": "2026-06-01"},
+                 "rec": {"last_run": "2026-10-01", "last_new": "2026-09-30"}}
+        self.assertEqual([v for v, _ in cvc.prioritize(vids, state, "2026-10-02")],
+                         ["new", "rec", "old"])
+        with mock.patch.object(cvc, "MAX_VIDEOS_PER_RUN", 1):
+            self.assertEqual([v for v, _ in cvc.prioritize(vids, state, "2026-10-02")], ["new"])
+
+    def test_estimate(self):
+        typical, upper = cvc.estimate_quota(6, 100, 10, 20, 8)
+        self.assertEqual(typical, 600 + 10 * 8 + 20 * cvc.SWEEP_PAGES + 70)
+        self.assertEqual(upper, 600 + 100 * 8)
+
+    def test_main_records_last_new(self):
+        import tempfile
+        with tempfile.TemporaryDirectory() as d:
+            dest = Path(d) / "yc"
+            row = {"id": "c1", "likes": 1, "published": "2026-10-01T03:00:00Z"}
+            with mock.patch.object(cvc, "DEST", str(dest)), \
+                    mock.patch.object(sys, "argv", ["prog", "--date", "2026-10-02"]), \
+                    mock.patch.dict(cvc.os.environ, {"YOUTUBE_API_KEY": "k"}, clear=True), \
+                    mock.patch.object(cvc, "discover_videos", return_value={"v1": ("T", "C")}), \
+                    mock.patch.object(cvc, "fetch_video_comments", return_value=([row], True)):
+                cvc.main()
+            st = json.loads((dest / "state.json").read_text())
+            self.assertEqual(st["v1"]["last_new"], "2026-10-02")
+
+
 if __name__ == "__main__":
     unittest.main()
