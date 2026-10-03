@@ -1,8 +1,8 @@
 {
   "date": "2026-10-03",
-  "archived_at": "2026-10-03T08:43:20.789800+00:00",
+  "archived_at": "2026-10-03T14:04:40.831287+00:00",
   "source": "steam",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "[负面] OK, I knew when I installed this that it would be...",
@@ -138,6 +138,29 @@
         "playtime_forever": 113,
         "votes_up": 0,
         "timestamp_created": 1791000788
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] телочки сас у пацанов как и в геншине пусто между...",
+      "summary": "телочки сас у пацанов как и в геншине пусто между ножек",
+      "source": "steam_review",
+      "time": "2026-10-03T08:51:02+00:00",
+      "url": "https://steamcommunity.com/profiles/76561199282413817/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561199282413817",
+      "tags": [
+        "russian"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 378,
+        "votes_up": 0,
+        "timestamp_created": 1791017462
       },
       "region": "global",
       "archive_subtype": "review"

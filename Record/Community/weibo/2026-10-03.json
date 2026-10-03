@@ -1,8 +1,8 @@
 {
   "date": "2026-10-03",
-  "archived_at": "2026-10-03T08:43:20.791302+00:00",
+  "archived_at": "2026-10-03T14:04:40.832884+00:00",
   "source": "weibo",
-  "item_count": 21,
+  "item_count": 22,
   "items": [
     {
       "title": "给忘却前夜画的塔薇命轮解禁啦，感谢项目组指导",
@@ -546,6 +546,32 @@
         "engagement_basis": "known_counts_sort_fallback",
         "counts_are_approximate": false,
         "author_is_unknown": true
+      },
+      "time_is_approximate": true
+    },
+    {
+      "title": "sky光遇 真不行了，买了无翼号回游，光遇咋还这样，每次上线都在墓土罚站😡有没有朋友一起玩06大学生时间多，最近在看seventeen和克拉克森的农场，主玩19",
+      "summary": "sky光遇 真不行了，买了无翼号回游，光遇咋还这样，每次上线都在墓土罚站😡有没有朋友一起玩06大学生时间多，最近在看seventeen和克拉克森的农场，主玩1999和阴阳师百闻牌也玩Steam，探索忘却前夜中，看动漫追家教，dy重度依赖，blbg都看杂食一枚，啥都不卡但最好能介绍一下自己喜欢什么",
+      "source": "weibo",
+      "time": "2026-10-03T14:04:27.188599+00:00",
+      "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "【超话】sky光遇",
+      "tags": [
+        "weibo"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "reposts_count": null,
+        "comments_count": null,
+        "likes_count": null,
+        "engagement_total": null,
+        "engagement_is_unknown": true,
+        "engagement_basis": "known_counts_sort_fallback",
+        "counts_are_approximate": false,
+        "author_is_unknown": false
       },
       "time_is_approximate": true
     }

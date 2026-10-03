@@ -1,8 +1,8 @@
 {
   "date": "2026-10-03",
-  "archived_at": "2026-10-03T08:43:20.740782+00:00",
+  "archived_at": "2026-10-03T14:04:40.737260+00:00",
   "source": "youtube",
-  "item_count": 6,
+  "item_count": 7,
   "items": [
     {
       "title": "Morimens \\\\ Прохождение д-зоны от 28.09.26",
@@ -51,6 +51,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/9hSjD1tz3EY/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "【忘却前夜　意識潜行】コーパサント　最後の航行案内【ローグライクで遊ぼうの会】",
+      "summary": "忘却前夜 #忘却前夜Steam版 誕生日のストーリーを見て大分惹かれています とても気になりますね・・・ 提供：株式会社オルト ...",
+      "source": "youtube",
+      "time": "2026-10-03T12:55:02Z",
+      "url": "https://www.youtube.com/watch?v=wPd_cR-IYUA",
+      "engagement": 19,
+      "is_hot": false,
+      "author": "朝霧@ASGRgames",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/wPd_cR-IYUA/hqdefault_live.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"
