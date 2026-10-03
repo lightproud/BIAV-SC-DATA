@@ -1,10 +1,22 @@
 {
   "date": "2026-03-29",
-  "messages": 885,
-  "unique_authors": 88,
-  "reactions_total": 442,
-  "attachments": 97,
+  "messages": 10806,
+  "unique_authors": 228,
+  "reactions_total": 1513,
+  "attachments": 504,
   "channel_activity": {
+    "🔸morimens-game-chat": 6881,
+    "🔸русский-канал": 13,
+    "🔸phòng-chat-tiếng-việt": 777,
+    "🔸canal-español": 121,
+    "🔸canal-português": 220,
+    "🔸ruang-obrolan-indonesia": 57,
+    "🔸ห้องสนทนาภาษาไทย": 69,
+    "🔸traphase": 127,
+    "🔸lore-chat": 83,
+    "🔸lets-count": 25,
+    "🔸team-building": 712,
+    "🔸general-chat": 875,
     "🔸綜合討論": 389,
     "🔸阵容构建": 161,
     "1482261084101541969": 1,
@@ -31,8 +43,6 @@
     "1487389233852452874": 1,
     "1487111853652840448": 13,
     "1482997212354187324": 2,
-    "🔸lore-chat": 29,
-    "🔸ห้องสนทนาภาษาไทย": 10,
     "1480558608365125632": 1,
     "1487263182165774537": 40,
     "1486251108971319386": 1,
@@ -43,35 +53,35 @@
     "1456239100989542555": 9
   },
   "hourly_activity": {
-    "0": 86,
-    "1": 42,
-    "2": 38,
-    "3": 16,
-    "4": 7,
-    "5": 20,
-    "7": 11,
-    "9": 18,
-    "10": 21,
-    "11": 23,
-    "12": 6,
-    "13": 28,
-    "14": 34,
-    "15": 28,
-    "16": 29,
-    "17": 63,
-    "19": 32,
-    "20": 35,
-    "21": 48,
-    "22": 102,
-    "23": 151,
-    "8": 10,
-    "18": 7,
-    "6": 30
+    "0": 686,
+    "1": 495,
+    "2": 658,
+    "3": 482,
+    "4": 438,
+    "5": 421,
+    "6": 440,
+    "7": 468,
+    "8": 482,
+    "9": 503,
+    "10": 604,
+    "11": 337,
+    "12": 218,
+    "13": 387,
+    "14": 372,
+    "15": 246,
+    "16": 263,
+    "17": 177,
+    "18": 90,
+    "19": 317,
+    "20": 381,
+    "21": 523,
+    "22": 902,
+    "23": 916
   },
   "message_types": {
-    "19": 154,
-    "0": 730,
-    "20": 1
+    "0": 7200,
+    "19": 3601,
+    "20": 5
   },
   "top_reacted_messages": [
     {
@@ -115,12 +125,52 @@
       "channel": "🔸晒卡分享"
     },
     {
+      "id": "1487519023053672536",
+      "channel_id": "1170692781216378960",
+      "content": "Anyway since I can't post on the art channel here is my gdoll art",
+      "author": "piereenee",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1487524776892436661",
+      "channel_id": "1170692781216378960",
+      "content": "<:Karen_Happy_Birthday:1459076984251486413>",
+      "author": "annaxxe_",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1487530825883979909",
+      "channel_id": "1170692781216378960",
+      "content": "Its ancient for frost because that age is past twink death",
+      "author": "2ndselna",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1487498941447798819",
       "channel_id": "1174983699935277147",
       "content": "10抽",
       "author": "ahong0727",
       "reactions": 7,
       "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1487517741861699824",
+      "channel_id": "1170692781216378960",
+      "content": "I was typing for a shame emoji but this sham rock was the closest thing",
+      "author": "megidola.",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1487816411798573246",
+      "channel_id": "1170692781216378960",
+      "content": "OMG I FORGOT TO PING YOU https://cdn.discordapp.com/attachments/1170692781216378",
+      "author": "frosthief",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1487753887275548773",
@@ -139,6 +189,38 @@
       "channel": ""
     },
     {
+      "id": "1487499216682225907",
+      "channel_id": "1170692781216378960",
+      "content": "Your getting close to the biggest EN whale who completed wheel jail yesterday",
+      "author": "climbkaly",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1487629419383099614",
+      "channel_id": "1170692781216378960",
+      "content": "Early upgraded stoke and pendulum so I had the luxury of just drafting card draw",
+      "author": "syruponstrawberrycake",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1487823580791046184",
+      "channel_id": "1170692781216378960",
+      "content": "E0 sorel clear w5a5",
+      "author": "angbak",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1487570402061320393",
+      "channel_id": "1400749543288475770",
+      "content": "If you haven't yet, also consider going to Vortice's Event Page and reading thro",
+      "author": "snorlax01",
+      "reactions": 5,
+      "channel": "🔸team-building"
+    },
+    {
       "id": "1487819314634690560",
       "channel_id": "1487819314634690560",
       "content": "We currently have around seven participants gathered so far.\nThere are also memb",
@@ -155,84 +237,12 @@
       "channel": "🔸交友频道"
     },
     {
-      "id": "1487597657621794901",
-      "channel_id": "1435483703114596503",
-      "content": "First choice Standards to help new account\n\nhttps://youtu.be/4Qaw3qB0LYc",
+      "id": "1487500054989242409",
+      "channel_id": "1170692781216378960",
+      "content": "That is such a core memory.\n\nSophie - \"Hi I'm new what units should I play with ",
       "author": "climbkaly",
       "reactions": 4,
-      "channel": "🔸忘却前夜┊morimens-tv"
-    },
-    {
-      "id": "1487526355691114659",
-      "channel_id": "1450337762829144255",
-      "content": "Here’s the piece i initially did for yesterday btw but I lost it in car",
-      "author": "fishhazardthewizard",
-      "reactions": 4,
-      "channel": ""
-    },
-    {
-      "id": "1487501470369579189",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1487662216345026570",
-      "channel_id": "1131839817982947429",
-      "content": "<@1487626955791663208> \n~~倒是記得把日服dc加回去~~",
-      "author": "foxcatfurry",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1487816244580061244",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "kevin.yienwenst",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1487715443354374214",
-      "channel_id": "1194835209242296410",
-      "content": "",
-      "author": "trevorsuyu",
-      "reactions": 3,
-      "channel": "🔸交友频道"
-    },
-    {
-      "id": "1487689141675098183",
-      "channel_id": "1131839817982947429",
-      "content": "五點的班",
-      "author": "xingxiu_0209",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1487689265084235827",
-      "channel_id": "1131839817982947429",
-      "content": "他看起來很塞",
-      "author": "xingxiu_0209",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1487690472196673667",
-      "channel_id": "1131839817982947429",
-      "content": "<:Corpo_advance:1459080545882341376>",
-      "author": "Deleted User",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1487737461852602418",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "sense25.",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

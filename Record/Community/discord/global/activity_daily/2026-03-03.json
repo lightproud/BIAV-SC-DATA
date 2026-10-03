@@ -1,10 +1,28 @@
 {
   "date": "2026-03-03",
-  "messages": 10433,
-  "unique_authors": 192,
-  "reactions_total": 2476,
-  "attachments": 508,
+  "messages": 14138,
+  "unique_authors": 207,
+  "reactions_total": 2753,
+  "attachments": 720,
   "channel_activity": {
+    "🔸剧情交流": 49,
+    "🔸晒卡分享": 4,
+    "🔸相位对弈": 10,
+    "🔸한국어-채팅방": 6,
+    "🔸deutscher-chatraum": 11,
+    "🔸русский-канал": 51,
+    "🔸phòng-chat-tiếng-việt": 648,
+    "🔸canal-español": 328,
+    "🔸canal-português": 276,
+    "🔸ruang-obrolan-indonesia": 299,
+    "🔸ห้องสนทนาภาษาไทย": 290,
+    "🔸traphase": 303,
+    "🔸lore-chat": 187,
+    "🔸lets-count": 1,
+    "🔸team-building": 415,
+    "🔸general-chat": 114,
+    "🔸邀请码互助┊swap-invitation-codes": 8,
+    "🔸game-question": 705,
     "🔸綜合討論": 1482,
     "🔸阵容构建": 8,
     "🔸morimens-game-chat": 8817,
@@ -35,34 +53,34 @@
     "1477730088299663431": 1
   },
   "hourly_activity": {
-    "0": 675,
-    "1": 479,
-    "7": 264,
-    "8": 278,
-    "9": 252,
-    "10": 116,
-    "11": 592,
-    "12": 578,
-    "13": 464,
-    "14": 582,
-    "15": 326,
-    "16": 547,
-    "17": 319,
-    "18": 169,
-    "19": 250,
-    "20": 474,
-    "21": 405,
-    "22": 641,
-    "23": 382,
-    "2": 494,
-    "3": 510,
-    "4": 548,
-    "5": 518,
-    "6": 570
+    "0": 1116,
+    "1": 795,
+    "2": 788,
+    "3": 639,
+    "5": 591,
+    "11": 855,
+    "14": 756,
+    "15": 446,
+    "19": 388,
+    "21": 483,
+    "22": 856,
+    "9": 311,
+    "4": 659,
+    "10": 192,
+    "12": 812,
+    "13": 537,
+    "16": 637,
+    "17": 423,
+    "18": 256,
+    "20": 530,
+    "23": 641,
+    "6": 652,
+    "7": 396,
+    "8": 379
   },
   "message_types": {
-    "0": 6632,
-    "19": 3795,
+    "0": 9455,
+    "19": 4677,
     "46": 1,
     "4": 5
   },
@@ -148,12 +166,36 @@
       "channel": "🔸两周年纪念反馈┊2yr-anniv-feedback"
     },
     {
+      "id": "1478110036201836665",
+      "channel_id": "1326453763355185215",
+      "content": "the real reason is clearly that ||it's gtulu's dream and he got so annoyed with ",
+      "author": "insigible",
+      "reactions": 8,
+      "channel": "🔸lore-chat"
+    },
+    {
       "id": "1478275503738589376",
       "channel_id": "1477936435343527947",
       "content": "Unfortunately? Fortunately? Morimens has absolutely knocked it out of the park w",
       "author": "fishflavoredwater",
       "reactions": 8,
       "channel": ""
+    },
+    {
+      "id": "1478175990730719343",
+      "channel_id": "1326453763355185215",
+      "content": "current formatting btw (in 11-pt newsreader font because i can't stand arial)",
+      "author": "fishhazardthewizard",
+      "reactions": 7,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1478316584266108949",
+      "channel_id": "1326453763355185215",
+      "content": "Albino ||ages slower because of all his siblings he ate|| obviously.",
+      "author": "thpdom",
+      "reactions": 7,
+      "channel": "🔸lore-chat"
     },
     {
       "id": "1478272946693996545",
@@ -202,30 +244,6 @@
       "author": "mightythor",
       "reactions": 7,
       "channel": "🔸两周年纪念反馈┊2yr-anniv-feedback"
-    },
-    {
-      "id": "1478084061066039497",
-      "channel_id": "1131839817982947429",
-      "content": "425<:pray:1356053116260454534>",
-      "author": "0.0._.0_0.",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1478272806516035684",
-      "channel_id": "1131839817982947429",
-      "content": "上次打困難最多也就一拳7000k",
-      "author": "water_heart",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1478336831903891507",
-      "channel_id": "1131839817982947429",
-      "content": "海德拉的蛇疊三層瘋狂後會打出一次高額傷害然後自殺",
-      "author": "water_heart",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
     }
   ]
 }

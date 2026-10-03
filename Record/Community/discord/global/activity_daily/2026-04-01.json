@@ -1,0 +1,235 @@
+{
+  "date": "2026-04-01",
+  "messages": 14375,
+  "unique_authors": 320,
+  "reactions_total": 1787,
+  "attachments": 841,
+  "channel_activity": {
+    "🔸lets-count": 4,
+    "🔸chaîne-française": 2,
+    "🔸剧情交流": 36,
+    "🔸日本語チャンネル": 9,
+    "🔸general-chat": 82,
+    "🔸canal-español": 319,
+    "1487263182165774537": 12,
+    "🔸deutscher-chatraum": 7,
+    "🔸邀请码互助┊swap-invitation-codes": 8,
+    "🔸morimens-game-chat": 10950,
+    "🔸课间休息闲聊": 7,
+    "1488557177932218469": 5,
+    "1488578832314138654": 2,
+    "1488611767570530474": 2,
+    "1467225902029996154": 1,
+    "1488678456114937979": 1,
+    "🔸traphase": 2,
+    "🔸阵容构建": 26,
+    "🔸交友频道": 10,
+    "🔸русский-канал": 168,
+    "1488585399512072302": 4,
+    "1488269429023440926": 1,
+    "1487196532066484409": 3,
+    "🔸한국어-채팅방": 7,
+    "🔸canal-português": 484,
+    "🔸lore-chat": 36,
+    "🔸ห้องสนทนาภาษาไทย": 3,
+    "🔸机器人命令┊bot-commands": 12,
+    "🔸erica-playground": 2,
+    "🔸綜合討論": 1154,
+    "🔸team-building": 23,
+    "🔸phòng-chat-tiếng-việt": 504,
+    "🔸game-question": 489
+  },
+  "hourly_activity": {
+    "2": 867,
+    "7": 636,
+    "21": 631,
+    "23": 721,
+    "10": 521,
+    "12": 371,
+    "13": 359,
+    "14": 781,
+    "15": 968,
+    "16": 483,
+    "6": 687,
+    "18": 255,
+    "20": 558,
+    "0": 909,
+    "1": 960,
+    "3": 618,
+    "5": 355,
+    "4": 540,
+    "8": 487,
+    "9": 744,
+    "11": 362,
+    "19": 479,
+    "22": 720,
+    "17": 363
+  },
+  "message_types": {
+    "0": 9453,
+    "19": 4915,
+    "20": 7
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1488736721838407730",
+      "channel_id": "1170692781216378960",
+      "content": "hi guys, i am so beyond honored to have drawn this william for morimens. here's ",
+      "author": "morimens_15",
+      "reactions": 26,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488584254387392532",
+      "channel_id": "1170692781216378960",
+      "content": "Sorry for sending this a second time, I seriously can't get over how pretty she ",
+      "author": "unwavering_soul",
+      "reactions": 15,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488580675077411019",
+      "channel_id": "1170692781216378960",
+      "content": "or we can celebrate that the community came together and fight racism together <",
+      "author": "l8989c",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488583103978012864",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "legendaryredz",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488579397215588522",
+      "channel_id": "1131839817982947429",
+      "content": "~~有過遊戲外的小劇情~~",
+      "author": "wild_pansy",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1488793584667852891",
+      "channel_id": "1173463482503536711",
+      "content": "||拉布布||",
+      "author": "dog794",
+      "reactions": 7,
+      "channel": "🔸剧情交流"
+    },
+    {
+      "id": "1488704975369666774",
+      "channel_id": "1300659662311526512",
+      "content": "",
+      "author": "blecnes.",
+      "reactions": 7,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1488883493365878834",
+      "channel_id": "1170692781216378960",
+      "content": "Maybe if I stopped holding myself back by playing Aequor\nI could ... always be c",
+      "author": "legendaryredz",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488884823681400913",
+      "channel_id": "1170692781216378960",
+      "content": "i think this is the best i can go now <:GMurphy_peek:1468257868959453305>",
+      "author": "2ndselna",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488794704546889829",
+      "channel_id": "1173463482503536711",
+      "content": "",
+      "author": "navirecorbeau",
+      "reactions": 6,
+      "channel": "🔸剧情交流"
+    },
+    {
+      "id": "1488879631338569818",
+      "channel_id": "1170692781216378960",
+      "content": "The truth is\nI never liked Blue\nIt was always a way for me to cope\nBecause I fol",
+      "author": "legendaryredz",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488882870893150411",
+      "channel_id": "1170692781216378960",
+      "content": "Heartbreaking: new player joins morimens discord for advice on April fools",
+      "author": "thpdom",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488900418690875552",
+      "channel_id": "1170692781216378960",
+      "content": "<@595414429957619725> <@285755067213152257> <@113374123798859776>",
+      "author": "spooky_penguin_",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488903873597804635",
+      "channel_id": "1170692781216378960",
+      "content": "It means:\n    Happiness\n    Joy\n    Hope\n    Kindness\n    Gratitude\n    Peace\n  ",
+      "author": "megidola.",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488920415412945046",
+      "channel_id": "1170692781216378960",
+      "content": "So basically...he types like an old man",
+      "author": "frosthief",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488574125801996380",
+      "channel_id": "1170692781216378960",
+      "content": "> William helping \nHAHAHAHA that's the funniest joke I have ever heard",
+      "author": "aurora3981",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488576436196605962",
+      "channel_id": "1170692781216378960",
+      "content": "Guys open Morimens!!",
+      "author": "2.alwys.remmber",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488576885725069353",
+      "channel_id": "1170692781216378960",
+      "content": "🦦",
+      "author": "junakaru4ever",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488579883599794312",
+      "channel_id": "1170692781216378960",
+      "content": "No as in i need to know whether or not i want to block you over that <:24_smile:",
+      "author": "fishhazardthewizard",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488580310705770627",
+      "channel_id": "1170692781216378960",
+      "content": "my peasants, please give me a chance",
+      "author": "bagels5899",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

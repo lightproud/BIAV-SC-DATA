@@ -1,10 +1,24 @@
 {
   "date": "2026-03-26",
-  "messages": 1033,
-  "unique_authors": 64,
-  "reactions_total": 486,
-  "attachments": 55,
+  "messages": 10718,
+  "unique_authors": 236,
+  "reactions_total": 1506,
+  "attachments": 461,
   "channel_activity": {
+    "🔸morimens-game-chat": 6468,
+    "🔸剧情交流": 259,
+    "🔸相位对弈": 52,
+    "🔸русский-канал": 249,
+    "🔸phòng-chat-tiếng-việt": 493,
+    "🔸canal-español": 119,
+    "🔸canal-português": 1082,
+    "🔸ruang-obrolan-indonesia": 303,
+    "🔸ห้องสนทนาภาษาไทย": 57,
+    "🔸traphase": 27,
+    "🔸lore-chat": 155,
+    "🔸lets-count": 16,
+    "🔸team-building": 286,
+    "🔸general-chat": 119,
     "🔸綜合討論": 749,
     "1486315550400577606": 1,
     "1486642972224393216": 35,
@@ -33,33 +47,36 @@
     "1468895834199298215": 1
   },
   "hourly_activity": {
-    "0": 261,
-    "1": 88,
-    "2": 10,
-    "8": 17,
-    "9": 3,
-    "10": 11,
-    "11": 14,
-    "12": 20,
-    "13": 62,
-    "14": 102,
-    "15": 12,
-    "16": 27,
-    "17": 97,
-    "18": 28,
-    "19": 7,
-    "20": 12,
-    "21": 12,
-    "22": 7,
-    "23": 201,
-    "3": 13,
-    "4": 20,
-    "7": 5,
-    "6": 4
+    "0": 841,
+    "1": 741,
+    "2": 776,
+    "3": 736,
+    "4": 444,
+    "5": 324,
+    "6": 261,
+    "7": 593,
+    "8": 329,
+    "9": 185,
+    "10": 304,
+    "11": 295,
+    "12": 404,
+    "13": 259,
+    "14": 338,
+    "15": 55,
+    "16": 126,
+    "17": 420,
+    "18": 410,
+    "19": 355,
+    "20": 623,
+    "21": 293,
+    "22": 358,
+    "23": 1248
   },
   "message_types": {
-    "0": 831,
-    "19": 198,
+    "0": 7580,
+    "19": 3131,
+    "46": 2,
+    "20": 1,
     "4": 3,
     "6": 1
   },
@@ -121,12 +138,28 @@
       "channel": ""
     },
     {
+      "id": "1486656027104645233",
+      "channel_id": "1300659603993923644",
+      "content": "",
+      "author": "mrmot347",
+      "reactions": 12,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
       "id": "1486662270388932669",
       "channel_id": "1486642972224393216",
       "content": "Русская версия постера <:wanda_proud:1468258146551333088> \n—— сделана российской",
       "author": "morimensstaff01",
       "reactions": 8,
       "channel": ""
+    },
+    {
+      "id": "1486455690804330568",
+      "channel_id": "1170692781216378960",
+      "content": "<@1440811951386136587> i couldnt turn 1 it here im sorry",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1486435810378252406",
@@ -145,83 +178,67 @@
       "channel": ""
     },
     {
+      "id": "1486399348295340225",
+      "channel_id": "1170692781216378960",
+      "content": "okay. imma call it a week here boys.. for a sub 2 month account i am satisfied",
+      "author": "l8989c",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486445780507164859",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486465104147910860",
+      "channel_id": "1170692781216378960",
+      "content": "<@693905974750216212> https://x.com/Nelumbo_nucife2/status/2036900629801525742",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486615491131871272",
+      "channel_id": "1170692781216378960",
+      "content": "Nice freebie from reached 36000 silver prime <:drool:1356053063139463248>",
+      "author": "allyera.emano.hemafuri",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486662864021229729",
+      "channel_id": "1170692781216378960",
+      "content": "yeah good luck with an e0 kath",
+      "author": "nikolazuli",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486749930298282024",
+      "channel_id": "1170692781216378960",
+      "content": "Yeah I dont read blue units.\n\nWaste of information.",
+      "author": "climbkaly",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486670214283399278",
+      "channel_id": "1300659662311526512",
+      "content": "🚮",
+      "author": "isu3579",
+      "reactions": 5,
+      "channel": "🔸canal-español"
+    },
+    {
       "id": "1486614402793869364",
       "channel_id": "1131839817982947429",
       "content": "f佬怎么可以这样怀疑我<:takenotes:1357186646294138890> \n||我可是很努力的描写繁衍狂热||",
       "author": "ling_an_",
       "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1486615761202974841",
-      "channel_id": "1131839817982947429",
-      "content": "我夢到這個<:Brown_think:1459080117308620996> \n為了成就最強，決定成為世界級偶像\n蘿坦\n偶像道，堂堂連載",
-      "author": "heikwok",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1486431310145916928",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "a._0320",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1486747539939135629",
-      "channel_id": "1131839817982947429",
-      "content": "~~致敬傳奇1.5周年~~",
-      "author": "water_heart",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1486747121691525150",
-      "channel_id": "1194835209242296410",
-      "content": "雖然練度高很多應該沒有參考價值而且還凹了4X%死抗😅  繁育刻普莫逆流 智識刻誕墨圓舞",
-      "author": "cpu7954",
-      "reactions": 3,
-      "channel": "🔸交友频道"
-    },
-    {
-      "id": "1486403399934017627",
-      "channel_id": "1131839817982947429",
-      "content": "~~補+12吧~~",
-      "author": "hon_ey0",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1486404283661422672",
-      "channel_id": "1131839817982947429",
-      "content": "~~我們24也是曾經的數值怪啊~~",
-      "author": "ena04564",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1486596574636412940",
-      "channel_id": "1131839817982947429",
-      "content": "感觉星辰篇一年半了，其实是忘却篇半年的产能",
-      "author": "lurenjiao",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1486601093080289370",
-      "channel_id": "1131839817982947429",
-      "content": "||我感覺他們員工現在也在玩這個||",
-      "author": "arr5721",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1486678205724229754",
-      "channel_id": "1131839817982947429",
-      "content": "喔幹對欸那是18",
-      "author": "hon_ey0",
-      "reactions": 2,
       "channel": "🔸綜合討論"
     }
   ]

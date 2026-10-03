@@ -1,15 +1,28 @@
 {
   "date": "2026-03-27",
-  "messages": 1325,
-  "unique_authors": 63,
-  "reactions_total": 456,
-  "attachments": 102,
+  "messages": 11078,
+  "unique_authors": 214,
+  "reactions_total": 1605,
+  "attachments": 550,
   "channel_activity": {
+    "🔸morimens-game-chat": 6763,
+    "🔸剧情交流": 24,
+    "🔸相位对弈": 88,
+    "🔸русский-канал": 322,
+    "🔸phòng-chat-tiếng-việt": 1315,
+    "🔸canal-español": 76,
+    "🔸canal-português": 389,
+    "🔸ruang-obrolan-indonesia": 442,
+    "🔸ห้องสนทนาภาษาไทย": 20,
+    "🔸traphase": 11,
+    "🔸lore-chat": 37,
+    "🔸lets-count": 23,
+    "🔸team-building": 267,
+    "🔸general-chat": 55,
     "🔸綜合討論": 1123,
     "1487022864304570439": 6,
     "🔸日本語チャンネル": 2,
     "1486959459405398157": 8,
-    "🔸相位对弈": 79,
     "1486936365110136832": 5,
     "1486757176612622566": 3,
     "🔸邀请码互助┊swap-invitation-codes": 13,
@@ -31,33 +44,35 @@
     "1468895834199298215": 2
   },
   "hourly_activity": {
-    "0": 68,
-    "1": 183,
-    "3": 16,
-    "6": 5,
-    "7": 10,
-    "8": 27,
-    "9": 25,
-    "10": 10,
-    "11": 13,
-    "12": 25,
-    "13": 16,
-    "14": 201,
-    "15": 52,
-    "16": 12,
-    "17": 131,
-    "18": 17,
-    "19": 106,
-    "20": 71,
-    "21": 94,
-    "22": 41,
-    "23": 200,
-    "2": 1,
-    "5": 1
+    "0": 1173,
+    "1": 1257,
+    "2": 480,
+    "3": 310,
+    "4": 314,
+    "5": 187,
+    "6": 689,
+    "7": 595,
+    "8": 226,
+    "9": 383,
+    "10": 613,
+    "11": 542,
+    "12": 267,
+    "13": 177,
+    "14": 382,
+    "15": 163,
+    "16": 172,
+    "17": 572,
+    "18": 298,
+    "19": 360,
+    "20": 310,
+    "21": 247,
+    "22": 547,
+    "23": 814
   },
   "message_types": {
-    "0": 1062,
-    "19": 258,
+    "0": 7822,
+    "19": 3249,
+    "20": 2,
     "4": 5
   },
   "top_reacted_messages": [
@@ -86,12 +101,100 @@
       "channel": ""
     },
     {
+      "id": "1486800408914690100",
+      "channel_id": "1170692781216378960",
+      "content": "reasons to hate aequor:\n\nyoure bad at managing tentacles\nyou suck at scaling you",
+      "author": "princess.goth",
+      "reactions": 21,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486847150817280062",
+      "channel_id": "1170692781216378960",
+      "content": "incredibly, i manage to do this with Vortice but not with Gmurphy, even after a ",
+      "author": "vxvendetta97",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1486757176612622566",
       "channel_id": "1486757176612622566",
       "content": "",
       "author": "ice_storys",
       "reactions": 13,
       "channel": ""
+    },
+    {
+      "id": "1486964881180852254",
+      "channel_id": "1170692781216378960",
+      "content": "<@595414429957619725> <@113374123798859776> <@1471414323883540501> <@11643031372",
+      "author": "angbak",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486870797308924088",
+      "channel_id": "1170692781216378960",
+      "content": "Angbak uses fire emoji on anything... I could say I lost an arm and he would sti",
+      "author": "spooky_penguin_",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486757548869550253",
+      "channel_id": "1170692781216378960",
+      "content": "reddit was a mistake",
+      "author": "arkaether",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486795350961426612",
+      "channel_id": "1170692781216378960",
+      "content": "https://x.com/i/status/2037235374066463122",
+      "author": "idotly",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486798760829779978",
+      "channel_id": "1170692781216378960",
+      "content": "blue is peak",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486866508914233376",
+      "channel_id": "1170692781216378960",
+      "content": "Happy",
+      "author": "spooky_penguin_",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486923965640343697",
+      "channel_id": "1170692781216378960",
+      "content": "😁",
+      "author": "lordvador0656",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1487104640603521084",
+      "channel_id": "1170692781216378960",
+      "content": "caro furnace",
+      "author": "monchi3524",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1487019374027083812",
+      "channel_id": "1173463482503536711",
+      "content": "闲聊还在追我😱😱😱😱😱",
+      "author": "ahong0727",
+      "reactions": 6,
+      "channel": "🔸剧情交流"
     },
     {
       "id": "1487115498150826125",
@@ -110,116 +213,28 @@
       "channel": "🔸相位对弈"
     },
     {
-      "id": "1486970233230200882",
-      "channel_id": "1131839817982947429",
-      "content": "425!",
-      "author": "angbak",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
+      "id": "1486758253495980142",
+      "channel_id": "1170692781216378960",
+      "content": "I think I'll stick to game-question",
+      "author": "tsarius",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1487000308608401531",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "kevin.yienwenst",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
+      "id": "1486765416884867216",
+      "channel_id": "1170692781216378960",
+      "content": "<@1440811951386136587> https://x.com/i/status/2037161492769042930 kathigura fana",
+      "author": "._.aahh",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1487020358791069786",
-      "channel_id": "1131839817982947429",
-      "content": "100429960",
-      "author": "water_heart",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1487097821139173428",
-      "channel_id": "1131839817982947429",
-      "content": "~~㓇草男娘~~",
-      "author": "kemomimi_",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1486869313863286805",
-      "channel_id": "1485613870176276531",
-      "content": "Hello, your drawing is excellent!\nI am the creator of the Morimens Mod and Oriso",
-      "author": "_cwz_",
-      "reactions": 4,
-      "channel": ""
-    },
-    {
-      "id": "1486974932356431922",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "angbak",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1487026686091460720",
-      "channel_id": "1131839817982947429",
-      "content": "血希",
-      "author": "water_heart",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1487110316771774565",
-      "channel_id": "1131839817982947429",
-      "content": "~~新手入坑嗎\n我建議退坑~~",
-      "author": "foxcatfurry",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1487111993042272456",
-      "channel_id": "1131839817982947429",
-      "content": "aaa沒有魅力",
-      "author": "foxcatfurry",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1487112331208036393",
-      "channel_id": "1131839817982947429",
-      "content": "那有人能幫我課金嗎",
-      "author": "ass191044",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1487114298164777114",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1487115201718255686",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "0.0._.0_0.",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1487116410940428389",
-      "channel_id": "1131839817982947429",
-      "content": "這也不需要凹啊",
-      "author": "water_heart",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1487118776632610967",
-      "channel_id": "1131839817982947429",
-      "content": "我每期都還得靠這種神秘隊伍才能拖住4-5",
-      "author": "water_heart",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
+      "id": "1486779511247994881",
+      "channel_id": "1170692781216378960",
+      "content": "My Arachne budget",
+      "author": "frosthief",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

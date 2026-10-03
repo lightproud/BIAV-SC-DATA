@@ -1,10 +1,28 @@
 {
   "date": "2026-03-18",
-  "messages": 3578,
-  "unique_authors": 53,
-  "reactions_total": 532,
-  "attachments": 167,
+  "messages": 17206,
+  "unique_authors": 275,
+  "reactions_total": 2193,
+  "attachments": 727,
   "channel_activity": {
+    "🔸morimens-game-chat": 9114,
+    "🔸剧情交流": 2,
+    "🔸晒卡分享": 88,
+    "🔸相位对弈": 73,
+    "🔸한국어-채팅방": 2,
+    "🔸deutscher-chatraum": 17,
+    "🔸русский-канал": 267,
+    "🔸phòng-chat-tiếng-việt": 1427,
+    "🔸canal-español": 225,
+    "🔸canal-português": 817,
+    "🔸ruang-obrolan-indonesia": 62,
+    "🔸ห้องสนทนาภาษาไทย": 290,
+    "🔸traphase": 138,
+    "🔸lore-chat": 707,
+    "🔸lets-count": 13,
+    "🔸team-building": 216,
+    "🔸general-chat": 215,
+    "🔸邀请码互助┊swap-invitation-codes": 15,
     "🔸綜合討論": 3312,
     "🔸阵容构建": 2,
     "🔸chaîne-française": 20,
@@ -24,7 +42,6 @@
     "1450337762829144255": 2,
     "1479979789329633340": 1,
     "1428784257534529586": 6,
-    "🔸晒卡分享": 60,
     "1482002768637071370": 1,
     "1482702865041588315": 2,
     "1483359118742917201": 2,
@@ -53,36 +70,46 @@
     "1482983909699616811": 2
   },
   "hourly_activity": {
-    "0": 48,
-    "2": 6,
-    "3": 16,
-    "4": 2,
-    "8": 9,
-    "9": 37,
-    "10": 19,
-    "11": 9,
-    "12": 100,
-    "13": 116,
-    "14": 272,
-    "15": 886,
-    "16": 508,
-    "17": 92,
-    "18": 269,
-    "19": 41,
-    "20": 210,
-    "21": 263,
-    "22": 476,
-    "23": 178,
-    "1": 3,
-    "5": 17,
-    "7": 1
+    "0": 460,
+    "1": 425,
+    "2": 723,
+    "3": 687,
+    "4": 327,
+    "5": 441,
+    "6": 475,
+    "7": 521,
+    "8": 501,
+    "9": 763,
+    "10": 258,
+    "11": 398,
+    "12": 872,
+    "13": 687,
+    "14": 596,
+    "15": 1600,
+    "16": 828,
+    "17": 475,
+    "18": 1011,
+    "19": 672,
+    "20": 1051,
+    "21": 1093,
+    "22": 1418,
+    "23": 924
   },
   "message_types": {
-    "0": 2536,
-    "19": 1028,
+    "0": 12129,
+    "19": 5062,
+    "20": 1,
     "4": 14
   },
   "top_reacted_messages": [
+    {
+      "id": "1483731602369548358",
+      "channel_id": "1170692781216378960",
+      "content": "I prefer apples actually",
+      "author": "megidola.",
+      "reactions": 17,
+      "channel": "🔸morimens-game-chat"
+    },
     {
       "id": "1483801680754769930",
       "channel_id": "1483801680754769930",
@@ -106,6 +133,94 @@
       "author": "aurora3981",
       "reactions": 13,
       "channel": ""
+    },
+    {
+      "id": "1483638941042217030",
+      "channel_id": "1170692781216378960",
+      "content": "Guys can't you see you're walking in circles? No one here is willing to change t",
+      "author": "aurora3981",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483731373264207982",
+      "channel_id": "1170692781216378960",
+      "content": "I do not deserve this <:dead:1356082627509092372>",
+      "author": "megidola.",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483548257073369231",
+      "channel_id": "1170692781216378960",
+      "content": "<@88644018673582080> I'm not sure its possible, I guess in theory",
+      "author": "frosthief",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483849996221546659",
+      "channel_id": "1170692781216378960",
+      "content": "The weakest arc 2 awakener is Doresain",
+      "author": "frosthief",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483731214346092585",
+      "channel_id": "1170692781216378960",
+      "content": "Hey",
+      "author": "megidola.",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483731529007108138",
+      "channel_id": "1170692781216378960",
+      "content": "No",
+      "author": "megidola.",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483556538797789194",
+      "channel_id": "1170692781216378960",
+      "content": "Why would we do that ?\nBy showcasing how ugly and horrible England is, this game",
+      "author": "legendaryredz",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483626773701726338",
+      "channel_id": "1170692781216378960",
+      "content": "Just eat local besides the novelty of fast food place being western and modern i",
+      "author": "sunless_echoing",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483640033310408725",
+      "channel_id": "1170692781216378960",
+      "content": "he has enough kids",
+      "author": "khykken",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483677173972865104",
+      "channel_id": "1170692781216378960",
+      "content": "<@693983290423509042> <@193043069275209728> <@296679098703544321> I did it! tysm",
+      "author": "h3ll0o",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483770113961492521",
+      "channel_id": "1170692781216378960",
+      "content": "<@1471414323883540501> <@113374123798859776> <@212031841786527764> <@59541442995",
+      "author": "angbak",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1483736309381202012",
@@ -146,102 +261,6 @@
       "author": "bagels5899",
       "reactions": 6,
       "channel": ""
-    },
-    {
-      "id": "1483502582264627230",
-      "channel_id": "1131839817982947429",
-      "content": "我是不知道閃到腰跟拉傷差別啦\n總之是用到腰會有一整條由上到下的痛\n\n話說現在擦完酸痛藥膏\n從抽痛變成燒起來\n好像沒有比較好<:emoji_17:14011436",
-      "author": "xingxiu_0209",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483726107285917828",
-      "channel_id": "1131839817982947429",
-      "content": "我怕我等等發言會緩慢生成身分證",
-      "author": "hon_ey0",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483727662039044247",
-      "channel_id": "1131839817982947429",
-      "content": "沒關係我看過阿宏",
-      "author": "hon_ey0",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483728665618415687",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "cameliia._.",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483729541636816936",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "xingxiu_0209",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483826397465280666",
-      "channel_id": "1131839817982947429",
-      "content": "不行 他是給",
-      "author": "yy42974466",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483710699279749141",
-      "channel_id": "1131839874132090890",
-      "content": "咱們塔薇玩家是這樣的\n2階？沒聽過",
-      "author": "akkom730",
-      "reactions": 5,
-      "channel": "🔸阵容构建"
-    },
-    {
-      "id": "1483638811333230762",
-      "channel_id": "1181152750319456266",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 5,
-      "channel": "🔸课间休息闲聊"
-    },
-    {
-      "id": "1483650553211785377",
-      "channel_id": "1131839817982947429",
-      "content": "燉雞燉了27回合<:flop1:1356083604236800030>",
-      "author": "clovertea",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483684080783458385",
-      "channel_id": "1131839817982947429",
-      "content": "<:Hameln_immerse:1468258077626208438>",
-      "author": "Deleted User",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483711618335510579",
-      "channel_id": "1131839817982947429",
-      "content": "下周吧\n這周在打雙4000",
-      "author": "0.0._.0_0.",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483723808115396768",
-      "channel_id": "1131839817982947429",
-      "content": "香蕉靠吃小孩青春永駐，剎那佬是靠裝菜長生不老（",
-      "author": "wangyuan4880",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
     }
   ]
 }

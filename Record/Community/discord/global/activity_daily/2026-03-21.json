@@ -1,10 +1,26 @@
 {
   "date": "2026-03-21",
-  "messages": 1043,
-  "unique_authors": 47,
-  "reactions_total": 295,
-  "attachments": 67,
+  "messages": 11975,
+  "unique_authors": 258,
+  "reactions_total": 1453,
+  "attachments": 508,
   "channel_activity": {
+    "🔸morimens-game-chat": 7530,
+    "🔸剧情交流": 125,
+    "🔸相位对弈": 159,
+    "🔸한국어-채팅방": 9,
+    "🔸deutscher-chatraum": 2,
+    "🔸русский-канал": 88,
+    "🔸phòng-chat-tiếng-việt": 292,
+    "🔸canal-español": 347,
+    "🔸canal-português": 1329,
+    "🔸ruang-obrolan-indonesia": 48,
+    "🔸ห้องสนทนาภาษาไทย": 138,
+    "🔸traphase": 45,
+    "🔸lore-chat": 243,
+    "🔸lets-count": 19,
+    "🔸team-building": 440,
+    "🔸general-chat": 118,
     "🔸綜合討論": 903,
     "1484804984855068702": 46,
     "1482261084101541969": 2,
@@ -37,32 +53,35 @@
     "1477730088299663431": 1
   },
   "hourly_activity": {
-    "0": 5,
-    "1": 6,
-    "9": 9,
-    "10": 10,
-    "11": 87,
-    "12": 53,
-    "13": 184,
-    "14": 40,
-    "15": 253,
-    "17": 45,
-    "18": 36,
-    "19": 60,
-    "20": 31,
-    "21": 15,
-    "22": 27,
-    "23": 165,
-    "6": 2,
-    "7": 4,
-    "16": 5,
-    "4": 3,
-    "5": 1,
-    "8": 2
+    "0": 663,
+    "1": 507,
+    "2": 764,
+    "3": 718,
+    "4": 783,
+    "5": 464,
+    "6": 453,
+    "7": 537,
+    "8": 386,
+    "9": 124,
+    "10": 344,
+    "11": 314,
+    "12": 460,
+    "13": 799,
+    "14": 705,
+    "15": 613,
+    "16": 322,
+    "17": 156,
+    "18": 140,
+    "19": 325,
+    "20": 416,
+    "21": 730,
+    "22": 595,
+    "23": 657
   },
   "message_types": {
-    "19": 189,
-    "0": 854
+    "19": 3826,
+    "0": 8147,
+    "20": 2
   },
   "top_reacted_messages": [
     {
@@ -88,6 +107,14 @@
       "author": "gwenisleirah",
       "reactions": 16,
       "channel": ""
+    },
+    {
+      "id": "1484636226165145812",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "._.aahh",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1484603075577512087",
@@ -122,12 +149,76 @@
       "channel": ""
     },
     {
+      "id": "1484898773212598324",
+      "channel_id": "1170692781216378960",
+      "content": "I mean\nUltra has no real realm mechanics to compensate \nThat's why they are desp",
+      "author": "legendaryredz",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484749120844468407",
+      "channel_id": "1170692781216378960",
+      "content": "https://x.com/i/status/2035189928338886856",
+      "author": "idotly",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484901563729182750",
+      "channel_id": "1170692781216378960",
+      "content": "Now.",
+      "author": "idotly",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484901767174029362",
+      "channel_id": "1170692781216378960",
+      "content": "There is 425Elite and everyone else.\n\nHe was a true visionary, that spoke about ",
+      "author": "climbkaly",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484904984259858573",
+      "channel_id": "1170692781216378960",
+      "content": "i just have 1 single video of using a whale one in HSR",
+      "author": "arandomflamev2",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1484801216046436522",
       "channel_id": "1450337762829144255",
       "content": "doom. (96)",
       "author": "fishhazardthewizard",
       "reactions": 6,
       "channel": ""
+    },
+    {
+      "id": "1484809552443478026",
+      "channel_id": "1170692781216378960",
+      "content": "Just go and say “wow 30 pulls guarantee an SSR so cool and awesome”",
+      "author": "peanutgod_ofsaturn",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484901232240889888",
+      "channel_id": "1170692781216378960",
+      "content": "I feel like Redz is sitting in the same tier with Idot in this server now...",
+      "author": "underxious",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484934310627639356",
+      "channel_id": "1170692781216378960",
+      "content": "No",
+      "author": "brainrot_in_a_vat",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1484920849621586151",
@@ -152,78 +243,6 @@
       "author": "_venush",
       "reactions": 5,
       "channel": ""
-    },
-    {
-      "id": "1484922481931452526",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1484916986122342400",
-      "channel_id": "1181998821291606097",
-      "content": "突然想起来我立绘画了一点点也发在这里哦，小孩是别的世界观的被我换个衣服和写了个相似的设定丢过来玩的<:Pandia_love:14590785123034112",
-      "author": "navirecorbeau",
-      "reactions": 4,
-      "channel": ""
-    },
-    {
-      "id": "1484789509718802503",
-      "channel_id": "1131839817982947429",
-      "content": "~~我現在15000~~",
-      "author": "yy42974466",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1484820190360375327",
-      "channel_id": "1131839817982947429",
-      "content": "然後sp雙子可信性又高了些",
-      "author": "foxcatfurry",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1484582458115756262",
-      "channel_id": "1484582458115756262",
-      "content": "Heya, I think hyperlink or something like that in the Enlightens descriptions wo",
-      "author": ".drakya",
-      "reactions": 3,
-      "channel": ""
-    },
-    {
-      "id": "1484787251920633996",
-      "channel_id": "1174983699935277147",
-      "content": "",
-      "author": "shostakovich524",
-      "reactions": 3,
-      "channel": "🔸晒卡分享"
-    },
-    {
-      "id": "1484843358361751632",
-      "channel_id": "1482628066084782123",
-      "content": "I am sorry for the long wait for response... the king had caught up to me <:dead",
-      "author": "that_one_chippy",
-      "reactions": 3,
-      "channel": ""
-    },
-    {
-      "id": "1484792866076229663",
-      "channel_id": "1131839817982947429",
-      "content": "終於",
-      "author": "quackdayo",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1484934598172606576",
-      "channel_id": "1131839817982947429",
-      "content": "我刷首抽刷了一個小時左右吧",
-      "author": "xingxiu_0209",
-      "reactions": 2,
-      "channel": "🔸綜合討論"
     }
   ]
 }

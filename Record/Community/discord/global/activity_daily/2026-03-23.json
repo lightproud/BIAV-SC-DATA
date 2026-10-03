@@ -1,10 +1,26 @@
 {
   "date": "2026-03-23",
-  "messages": 1217,
-  "unique_authors": 79,
-  "reactions_total": 578,
-  "attachments": 88,
+  "messages": 11242,
+  "unique_authors": 265,
+  "reactions_total": 1910,
+  "attachments": 595,
   "channel_activity": {
+    "🔸morimens-game-chat": 6740,
+    "🔸剧情交流": 3,
+    "🔸相位对弈": 89,
+    "🔸交友频道": 3,
+    "🔸deutscher-chatraum": 21,
+    "🔸русский-канал": 446,
+    "🔸phòng-chat-tiếng-việt": 1297,
+    "🔸canal-español": 306,
+    "🔸canal-português": 224,
+    "🔸ruang-obrolan-indonesia": 116,
+    "🔸ห้องสนทนาภาษาไทย": 203,
+    "🔸traphase": 72,
+    "🔸lore-chat": 52,
+    "🔸lets-count": 14,
+    "🔸team-building": 266,
+    "🔸general-chat": 182,
     "🔸綜合討論": 942,
     "🔸阵容构建": 32,
     "1485575438674825226": 39,
@@ -13,7 +29,6 @@
     "1485667855805710527": 2,
     "1485456007407865926": 6,
     "1485477316644831444": 14,
-    "🔸deutscher-chatraum": 9,
     "🔸邀请码互助┊swap-invitation-codes": 9,
     "🔸忘却前夜┊morimens-tv": 2,
     "1484212697015914496": 1,
@@ -50,33 +65,35 @@
     "1468895834199298215": 1
   },
   "hourly_activity": {
-    "0": 32,
-    "1": 6,
-    "2": 9,
-    "7": 6,
-    "8": 6,
-    "9": 20,
-    "10": 22,
-    "11": 276,
-    "12": 29,
-    "13": 11,
-    "14": 188,
-    "15": 83,
-    "16": 125,
-    "17": 60,
-    "18": 81,
-    "19": 23,
-    "20": 87,
-    "21": 52,
-    "22": 40,
-    "23": 46,
-    "3": 6,
-    "4": 8,
-    "6": 1
+    "0": 464,
+    "1": 409,
+    "2": 525,
+    "3": 414,
+    "4": 464,
+    "5": 577,
+    "6": 310,
+    "7": 165,
+    "8": 485,
+    "9": 228,
+    "10": 546,
+    "11": 396,
+    "12": 341,
+    "13": 246,
+    "14": 385,
+    "15": 226,
+    "16": 304,
+    "17": 349,
+    "18": 289,
+    "19": 530,
+    "20": 722,
+    "21": 786,
+    "22": 1047,
+    "23": 1034
   },
   "message_types": {
-    "19": 236,
-    "0": 975,
+    "19": 3427,
+    "0": 7807,
+    "20": 2,
     "4": 6
   },
   "top_reacted_messages": [
@@ -105,6 +122,14 @@
       "channel": ""
     },
     {
+      "id": "1485643725685395729",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "spooky_penguin_",
+      "reactions": 20,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1485575438674825226",
       "channel_id": "1485575438674825226",
       "content": "以下是来自Arlyeon进行的脑缸组专访文字版，我们取得Arlyeon授权后，将会把文本版分成四部分持续发布在《忘却前夜》Discord频道内，完整视频版请点击",
@@ -127,6 +152,22 @@
       "author": "._.aahh",
       "reactions": 13,
       "channel": "🔸频道建议┊server-suggestions"
+    },
+    {
+      "id": "1485467747193327747",
+      "channel_id": "1170692781216378960",
+      "content": "wtf",
+      "author": "deadtool6587",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1485522540242931733",
+      "channel_id": "1173463482503536711",
+      "content": "早上看見這個給我笑起飛了🤓",
+      "author": "shostakovich524",
+      "reactions": 12,
+      "channel": "🔸剧情交流"
     },
     {
       "id": "1485344233635315814",
@@ -153,6 +194,14 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1485580647069126807",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "legalizedcarnage",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1485555333211357265",
       "channel_id": "1450337762829144255",
       "content": "She's just a silly goober (98)",
@@ -169,6 +218,30 @@
       "channel": ""
     },
     {
+      "id": "1485605199182823616",
+      "channel_id": "1170692781216378960",
+      "content": "I did it to Vortice <:wanda_proud:1468258146551333088>",
+      "author": "megidola.",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1485656197582553290",
+      "channel_id": "1170692781216378960",
+      "content": "finally unlocked all yeay",
+      "author": "craux.",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1485586486404452372",
+      "channel_id": "1180850818509971466",
+      "content": "是的，我刚刚注册了dc",
+      "author": "laixingligh",
+      "reactions": 7,
+      "channel": "🔸相位对弈"
+    },
+    {
       "id": "1485665647303196754",
       "channel_id": "1485575438674825226",
       "content": "Bro好像以為自己把神國隊做的很平衡",
@@ -177,68 +250,12 @@
       "channel": ""
     },
     {
-      "id": "1485596855797547102",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
+      "id": "1485361764366422086",
+      "channel_id": "1170692781216378960",
+      "content": "Feels bad hoarding pens so I started going for 100% April. Made good progress <:",
+      "author": "aurora3981",
       "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1485379152776527962",
-      "channel_id": "1435483703114596503",
-      "content": "https://youtu.be/rqFkcBDuNeo?si=-x3o_HVhFF9zz37n - mecánicas de Liz - habilidade",
-      "author": "yaoshidoppa",
-      "reactions": 5,
-      "channel": "🔸忘却前夜┊morimens-tv"
-    },
-    {
-      "id": "1485530758516052049",
-      "channel_id": "1485530758516052049",
-      "content": "Dear Developers and Management Team,\n\nHello, I am one of the organizers of the P",
-      "author": "gacha_ping",
-      "reactions": 5,
-      "channel": ""
-    },
-    {
-      "id": "1485536251569373245",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "l8989c",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1485577817780518952",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "0.0._.0_0.",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1485487538347970661",
-      "channel_id": "1131839817982947429",
-      "content": "不可以呀",
-      "author": "l8989c",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1485532586901242030",
-      "channel_id": "1131839817982947429",
-      "content": "6️⃣",
-      "author": "Deleted User",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1485536748770693252",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "yy42974466",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

@@ -1,10 +1,26 @@
 {
   "date": "2026-03-25",
-  "messages": 1741,
-  "unique_authors": 67,
-  "reactions_total": 473,
-  "attachments": 91,
+  "messages": 12826,
+  "unique_authors": 238,
+  "reactions_total": 1918,
+  "attachments": 561,
   "channel_activity": {
+    "🔸morimens-game-chat": 8665,
+    "🔸剧情交流": 4,
+    "🔸相位对弈": 322,
+    "🔸交友频道": 8,
+    "🔸한국어-채팅방": 19,
+    "🔸русский-канал": 152,
+    "🔸phòng-chat-tiếng-việt": 548,
+    "🔸canal-español": 287,
+    "🔸canal-português": 290,
+    "🔸ruang-obrolan-indonesia": 54,
+    "🔸ห้องสนทนาภาษาไทย": 14,
+    "🔸traphase": 25,
+    "🔸lore-chat": 68,
+    "🔸lets-count": 6,
+    "🔸team-building": 456,
+    "🔸general-chat": 176,
     "🔸綜合討論": 1279,
     "🔸阵容构建": 268,
     "1486315550400577606": 2,
@@ -34,11 +50,9 @@
     "🔸晒卡分享": 2,
     "1485344233635315814": 4,
     "1482002768637071370": 1,
-    "🔸交友频道": 4,
     "1485477316644831444": 5,
     "1484348005346840678": 2,
     "1486149498869911683": 3,
-    "🔸한국어-채팅방": 5,
     "1484222166051586078": 1,
     "1485809841552228363": 7,
     "1462840887553032335": 1,
@@ -56,32 +70,35 @@
     "1477730088299663431": 3
   },
   "hourly_activity": {
-    "0": 8,
-    "7": 3,
-    "8": 7,
-    "9": 8,
-    "10": 5,
-    "11": 8,
-    "12": 11,
-    "13": 183,
-    "14": 64,
-    "15": 479,
-    "16": 261,
-    "17": 152,
-    "18": 117,
-    "19": 186,
-    "20": 33,
-    "21": 38,
-    "22": 48,
-    "23": 104,
-    "1": 12,
-    "3": 6,
-    "2": 4,
-    "6": 4
+    "0": 511,
+    "1": 314,
+    "2": 284,
+    "3": 530,
+    "4": 368,
+    "5": 187,
+    "6": 426,
+    "7": 396,
+    "8": 415,
+    "9": 161,
+    "10": 259,
+    "11": 646,
+    "12": 298,
+    "13": 483,
+    "14": 376,
+    "15": 970,
+    "16": 785,
+    "17": 522,
+    "18": 561,
+    "19": 656,
+    "20": 620,
+    "21": 742,
+    "22": 1182,
+    "23": 1134
   },
   "message_types": {
-    "19": 361,
-    "0": 1368,
+    "0": 8998,
+    "19": 3815,
+    "46": 1,
     "4": 12
   },
   "top_reacted_messages": [
@@ -126,6 +143,54 @@
       "channel": ""
     },
     {
+      "id": "1486341403876261999",
+      "channel_id": "1170692781216378960",
+      "content": "https://x.com/i/status/2036777008684826680",
+      "author": "idotly",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486347282151505970",
+      "channel_id": "1170692781216378960",
+      "content": "<@285755067213152257> lens says youre a hater",
+      "author": "princess.goth",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486039223298560156",
+      "channel_id": "1170692781216378960",
+      "content": "People borrow my Pandia.",
+      "author": "climbkaly",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486159258151292968",
+      "channel_id": "1170692781216378960",
+      "content": "we learned today wrench jackson is op",
+      "author": "monchi3524",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486347257837129859",
+      "channel_id": "1170692781216378960",
+      "content": "<@285755067213152257> ur a hater",
+      "author": "dracozion",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1486362240851644426",
+      "channel_id": "1170692781216378960",
+      "content": "gulp your hand it.. its so big",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1486156427654598676",
       "channel_id": "1131839817982947429",
       "content": "",
@@ -142,108 +207,60 @@
       "channel": ""
     },
     {
-      "id": "1486286424658546820",
-      "channel_id": "1450337762829144255",
-      "content": "Working on a bigger piece for #100, sorry no update today...",
-      "author": "fishhazardthewizard",
+      "id": "1486036823812739293",
+      "channel_id": "1170692781216378960",
+      "content": "I got leaks, genesis 24 is gonna be called 67",
+      "author": "dyssayah",
       "reactions": 6,
-      "channel": ""
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1486264678429491262",
-      "channel_id": "1486251108971319386",
-      "content": "給戈雅便當加雞腿",
-      "author": "ena04564",
+      "id": "1486093500071280640",
+      "channel_id": "1170692781216378960",
+      "content": "I like how the blue tier is blue.",
+      "author": "kinbote.",
       "reactions": 6,
-      "channel": ""
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1486262081459191928",
-      "channel_id": "1131839817982947429",
-      "content": "點兵點將點到哪個帖子就回哪個",
-      "author": "ahong0727",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
+      "id": "1486103950397669426",
+      "channel_id": "1170692781216378960",
+      "content": "Me and Kaly win\nEveryone else in the chat lose because they have decided to read",
+      "author": "legendaryredz",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1486264021501087764",
-      "channel_id": "1131839817982947429",
-      "content": "懂了 常駐加固怪\n本源傷害忽視減傷\n然後3.0中期出新減傷忽視本源傷害",
-      "author": "heikwok",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
+      "id": "1486219827881443451",
+      "channel_id": "1170692781216378960",
+      "content": "I dont associate with women",
+      "author": "khykken",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1486079811964113018",
-      "channel_id": "1485366013934436512",
-      "content": "Done\nI can't copy the morimens artist's style in color. They're too strong and I",
-      "author": "sexysneakystoat1625",
-      "reactions": 5,
-      "channel": ""
+      "id": "1486307744674877533",
+      "channel_id": "1170692781216378960",
+      "content": "Did I even try to escape?",
+      "author": "brainrot_in_a_vat",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1486352025418469497",
-      "channel_id": "1194835209242296410",
-      "content": "",
-      "author": "nnf02",
-      "reactions": 5,
-      "channel": "🔸交友频道"
+      "id": "1486307758105169970",
+      "channel_id": "1170692781216378960",
+      "content": "<:DollStare:1439369743613034658>",
+      "author": "brainrot_in_a_vat",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1486212905082032299",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1486261870838153297",
-      "channel_id": "1131839817982947429",
-      "content": "有啊\n戈雅在回有問必答",
-      "author": "ice_storys",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1486204728307089540",
-      "channel_id": "1300659436804640788",
-      "content": "初めて400点いけました！✌️ \n所々噓みたいな編成使ってるけど勝ったからヨシ！",
-      "author": "sk2525",
-      "reactions": 4,
-      "channel": "🔸日本語チャンネル"
-    },
-    {
-      "id": "1486236467410894981",
-      "channel_id": "1131839817982947429",
-      "content": "活動那張沒給傷害提升，就純死抗，茉夏用其實反而沒詩人用的爽",
-      "author": "heikwok",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1486297378901200976",
-      "channel_id": "1131839874132090890",
-      "content": "知道沒換掉但徐帶四月超好笑",
-      "author": "hon_ey0",
-      "reactions": 3,
-      "channel": "🔸阵容构建"
-    },
-    {
-      "id": "1486300893719560285",
-      "channel_id": "1445334381404094475",
-      "content": "皮皮整容勉強成功<:dead:1356082627509092372>",
-      "author": "ass191044",
-      "reactions": 3,
-      "channel": ""
-    },
-    {
-      "id": "1486265461132886101",
-      "channel_id": "1484212697015914496",
-      "content": "守密人× 守墓人√",
-      "author": "morimensstaff01",
-      "reactions": 3,
-      "channel": ""
+      "id": "1486078233370951780",
+      "channel_id": "1300659580446969918",
+      "content": "Ножкой эть.",
+      "author": "irrational_obelisk",
+      "reactions": 6,
+      "channel": "🔸русский-канал"
     }
   ]
 }

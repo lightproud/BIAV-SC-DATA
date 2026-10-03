@@ -1,0 +1,255 @@
+{
+  "date": "2026-03-31",
+  "messages": 17029,
+  "unique_authors": 340,
+  "reactions_total": 1871,
+  "attachments": 751,
+  "channel_activity": {
+    "🔸morimens-game-chat": 9479,
+    "🔸phòng-chat-tiếng-việt": 3228,
+    "🔸lets-count": 18,
+    "1482997212354187324": 3,
+    "🔸日本語チャンネル": 11,
+    "🔸general-chat": 276,
+    "🔸相位对弈": 142,
+    "🔸canal-español": 455,
+    "🔸邀请码互助┊swap-invitation-codes": 16,
+    "🔸课间休息闲聊": 54,
+    "1488393388670713876": 4,
+    "1488376592534208724": 5,
+    "1487892571677134898": 2,
+    "1488481880109220000": 2,
+    "1488034886081319055": 2,
+    "1487861511497060384": 2,
+    "1487707118621556846": 1,
+    "1487706656958713937": 1,
+    "1487511891634032841": 2,
+    "1486936365110136832": 2,
+    "1468895834199298215": 2,
+    "1488543045791121560": 9,
+    "1488502974798889072": 3,
+    "1488204690226282697": 1,
+    "1456239100989542555": 6,
+    "1488557177932218469": 2,
+    "1488552413194616963": 4,
+    "1485688845633585223": 1,
+    "1477730088299663431": 1,
+    "1357184174485671966": 2,
+    "1488436666644561960": 4,
+    "🔸traphase": 18,
+    "🔸阵容构建": 4,
+    "🔸русский-канал": 22,
+    "1488269429023440926": 3,
+    "1487836650557149294": 2,
+    "1487111853652840448": 20,
+    "1486728811956670475": 2,
+    "1488435975469400295": 2,
+    "1485613870176276531": 2,
+    "1445556242381672559": 16,
+    "🔸한국어-채팅방": 24,
+    "🔸canal-português": 463,
+    "🔸lore-chat": 121,
+    "🔸ห้องสนทนาภาษาไทย": 149,
+    "🔸机器人命令┊bot-commands": 31,
+    "🔸erica-playground": 28,
+    "🔸綜合討論": 957,
+    "🔸team-building": 219,
+    "🔸ruang-obrolan-indonesia": 136,
+    "🔸game-question": 1070
+  },
+  "hourly_activity": {
+    "0": 1058,
+    "1": 821,
+    "4": 712,
+    "6": 355,
+    "7": 550,
+    "9": 707,
+    "10": 725,
+    "14": 462,
+    "15": 453,
+    "16": 567,
+    "17": 706,
+    "19": 1129,
+    "20": 746,
+    "21": 903,
+    "23": 1003,
+    "18": 756,
+    "3": 544,
+    "11": 873,
+    "12": 710,
+    "13": 514,
+    "22": 708,
+    "8": 574,
+    "2": 1060,
+    "5": 393
+  },
+  "message_types": {
+    "0": 11943,
+    "19": 5064,
+    "23": 1,
+    "20": 13,
+    "4": 8
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1488511036905492681",
+      "channel_id": "1433513650299076780",
+      "content": "https://docs.google.com/document/d/1THjxR9hHs4NWHqSWHHa2dHAGuE_cRGelfzXdBfCnIlM/",
+      "author": "chinkeeyong",
+      "reactions": 11,
+      "channel": "🔸game-question"
+    },
+    {
+      "id": "1488427679685279846",
+      "channel_id": "1170692781216378960",
+      "content": "67",
+      "author": "_venush",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488224394936320171",
+      "channel_id": "1300659603993923644",
+      "content": "Tôi gọi ông sao ông ko nghe máy",
+      "author": "thuanlatao38",
+      "reactions": 8,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1488373969487790232",
+      "channel_id": "1170692781216378960",
+      "content": "Which one should I use? 1 - 4",
+      "author": "snorlax01",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488566972814987434",
+      "channel_id": "1170692781216378960",
+      "content": "Rain, you are a hero for making those dtide posts.",
+      "author": "monchi3524",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488382893091848244",
+      "channel_id": "1445556242381672559",
+      "content": "My art was not arting these past days so i drew casual William to decompress <:t",
+      "author": "zzio_",
+      "reactions": 7,
+      "channel": ""
+    },
+    {
+      "id": "1488555049117290627",
+      "channel_id": "1131839817982947429",
+      "content": "新手先抽旋转旋转+12",
+      "author": "ponponnyaru",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1488231357950857236",
+      "channel_id": "1170692781216378960",
+      "content": "<:GDoll_Inferno_serenity:1468257540809822302>",
+      "author": "frosthief",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488256747188523279",
+      "channel_id": "1170692781216378960",
+      "content": "oh neat",
+      "author": "fishhazardthewizard",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488471412120227962",
+      "channel_id": "1170692781216378960",
+      "content": "sorry for spoilers",
+      "author": "dyssayah",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488492546014445630",
+      "channel_id": "1170692781216378960",
+      "content": "That's the joke 👀",
+      "author": "legendaryredz",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488508244015059068",
+      "channel_id": "1170692781216378960",
+      "content": "大野狼",
+      "author": "chinkeeyong",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488269429023440926",
+      "channel_id": "1488269429023440926",
+      "content": "Keeper 😭😭 I’m crine 😭😭\n\n(Maybe more stuff soon",
+      "author": "bandoh36",
+      "reactions": 6,
+      "channel": ""
+    },
+    {
+      "id": "1488239237232066780",
+      "channel_id": "1300659603993923644",
+      "content": "lè nhè cả buổi",
+      "author": "reu8090",
+      "reactions": 6,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1488242296003756152",
+      "channel_id": "1300659662311526512",
+      "content": "Cada día más cerca del reinicio mensual <:Daffodil_observe:1459080326063198259>",
+      "author": "duxadidus",
+      "reactions": 5,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1488494284373229578",
+      "channel_id": "1170692781216378960",
+      "content": "don't listen to the 法国人's lies",
+      "author": "jyeusu",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488568210121953380",
+      "channel_id": "1170692781216378960",
+      "content": "<@1471414323883540501> <:please:1356053110375714817>",
+      "author": "blecnes.",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1488435975469400295",
+      "channel_id": "1488435975469400295",
+      "content": "I either finish this before the event or this is going to be kept in my folder f",
+      "author": "that_one_chippy",
+      "reactions": 5,
+      "channel": ""
+    },
+    {
+      "id": "1488457735044595823",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "void_1546.",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1488471964434567168",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "sayo.0320",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

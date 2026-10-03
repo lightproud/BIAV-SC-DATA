@@ -1,13 +1,29 @@
 {
   "date": "2026-03-16",
-  "messages": 1747,
-  "unique_authors": 42,
-  "reactions_total": 422,
-  "attachments": 127,
+  "messages": 14299,
+  "unique_authors": 315,
+  "reactions_total": 1965,
+  "attachments": 735,
   "channel_activity": {
+    "🔸morimens-game-chat": 8737,
+    "🔸晒卡分享": 5,
+    "🔸相位对弈": 78,
+    "🔸한국어-채팅방": 5,
+    "🔸chaîne-française": 128,
+    "🔸русский-канал": 149,
+    "🔸phòng-chat-tiếng-việt": 626,
+    "🔸canal-español": 213,
+    "🔸canal-português": 520,
+    "🔸ruang-obrolan-indonesia": 220,
+    "🔸ห้องสนทนาภาษาไทย": 318,
+    "🔸traphase": 551,
+    "🔸lore-chat": 224,
+    "🔸lets-count": 17,
+    "🔸team-building": 138,
+    "🔸general-chat": 638,
+    "🔸邀请码互助┊swap-invitation-codes": 18,
     "🔸綜合討論": 1560,
     "1482997212354187324": 1,
-    "🔸chaîne-française": 33,
     "1482727556003139635": 2,
     "🔸日本語チャンネル": 29,
     "1482676813304955092": 4,
@@ -39,33 +55,35 @@
     "1468895834199298215": 1
   },
   "hourly_activity": {
-    "0": 344,
-    "1": 7,
-    "2": 4,
-    "4": 10,
-    "6": 3,
-    "8": 9,
-    "9": 57,
-    "10": 52,
-    "11": 69,
-    "12": 119,
-    "13": 127,
-    "14": 63,
-    "15": 143,
-    "16": 198,
-    "17": 163,
-    "18": 149,
-    "19": 64,
-    "20": 22,
-    "21": 40,
-    "22": 64,
-    "23": 37,
-    "3": 2,
-    "5": 1
+    "0": 719,
+    "1": 321,
+    "2": 715,
+    "3": 548,
+    "4": 833,
+    "5": 440,
+    "6": 502,
+    "7": 722,
+    "8": 536,
+    "9": 560,
+    "10": 474,
+    "11": 481,
+    "12": 465,
+    "13": 443,
+    "14": 430,
+    "15": 867,
+    "16": 744,
+    "17": 596,
+    "18": 481,
+    "19": 627,
+    "20": 443,
+    "21": 599,
+    "22": 906,
+    "23": 847
   },
   "message_types": {
-    "19": 267,
-    "0": 1470,
+    "19": 3651,
+    "0": 10634,
+    "20": 4,
     "4": 10
   },
   "top_reacted_messages": [
@@ -78,12 +96,68 @@
       "channel": ""
     },
     {
+      "id": "1483001518197313566",
+      "channel_id": "1170692781216378960",
+      "content": "Hsr? Do you mean the hit game mode \nHectic Skybound Rail?",
+      "author": "fishhazardthewizard",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483101624355262565",
+      "channel_id": "1170692781216378960",
+      "content": "Ultra",
+      "author": "shagaru0802",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483038822995333214",
+      "channel_id": "1170692781216378960",
+      "content": "+7 now, 5 copies to go",
+      "author": "megidola.",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1483026471688867890",
       "channel_id": "1417419008898109492",
       "content": "2026 February contribution list is here!\nWe sincerely thank the below <@&1301589",
       "author": "morimens_15",
       "reactions": 10,
       "channel": ""
+    },
+    {
+      "id": "1482977421111328869",
+      "channel_id": "1170692781216378960",
+      "content": "Don't worry Tea. \nSaya no ultra",
+      "author": "arandomflamev2",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483041311832674465",
+      "channel_id": "1170692781216378960",
+      "content": "I posted this in another server almost jokingly during Mist Sequence collab and ",
+      "author": "pkr1111",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482888832419369196",
+      "channel_id": "1400750050208125010",
+      "content": "https://vxtwitter.com/i/status/2011352196382933198",
+      "author": "crowlov1",
+      "reactions": 9,
+      "channel": "🔸general-chat"
+    },
+    {
+      "id": "1482909133270290627",
+      "channel_id": "1170692781216378960",
+      "content": "Anyways guys I'll be streaming D-Tide tomorrow so make sure to tune in; lick, su",
+      "author": "frosthief",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1483084625415766106",
@@ -94,6 +168,22 @@
       "channel": "🔸綜合討論"
     },
     {
+      "id": "1482825081226006711",
+      "channel_id": "1170692781216378960",
+      "content": "Genshin lost impact",
+      "author": "azaenya",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482836078871183633",
+      "channel_id": "1170692781216378960",
+      "content": "Ah.",
+      "author": "fishhazardthewizard",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1483076241652453438",
       "channel_id": "1131839817982947429",
       "content": "425<:pray:1356053116260454534>",
@@ -102,132 +192,60 @@
       "channel": "🔸綜合討論"
     },
     {
-      "id": "1482774024516796630",
-      "channel_id": "1131839817982947429",
-      "content": "圖魯在A檔的那刻我的大腦褶皺舒展開了",
-      "author": "ena04564",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
+      "id": "1483002142481453126",
+      "channel_id": "1170692781216378960",
+      "content": "So I am still the best cc smh",
+      "author": "spooky_penguin_",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1482778145135398983",
-      "channel_id": "1131839817982947429",
-      "content": "他只是想講後面那句",
-      "author": "foxcatfurry",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
+      "id": "1483093227513974785",
+      "channel_id": "1170692781216378960",
+      "content": "I THINK IT TOOK ME 4 HOURS BUT STILL\n\n<@595414429957619725> <@113374123798859776",
+      "author": "angbak",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1482955683174547526",
-      "channel_id": "1131839817982947429",
-      "content": "<:takenotes:1357186646294138890>",
-      "author": "sweet_25367",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
+      "id": "1483105434650021990",
+      "channel_id": "1170692781216378960",
+      "content": "good news. my lvl 90 tawil was left in the garbage bin where she belongs",
+      "author": "monchi3524",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1483126705106452533",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "polkarain",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
+      "id": "1483060081170845849",
+      "channel_id": "1326453763355185215",
+      "content": "so ur saying we're fighting in the trenches our commanders abandoned",
+      "author": "nikolazuli",
+      "reactions": 6,
+      "channel": "🔸lore-chat"
     },
     {
-      "id": "1483101438719557662",
-      "channel_id": "1483101438719557662",
-      "content": "首先我為我所有聽起來會很無知或者狂妄的話道歉，其次我要開始提很奇怪的建議了<:Helot_slack_off:1459092159465521184>\n\n我慢慢",
-      "author": "shostakovich524",
-      "reactions": 4,
-      "channel": ""
+      "id": "1482821044900462756",
+      "channel_id": "1170692781216378960",
+      "content": "Fully formatted manually",
+      "author": "fishhazardthewizard",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1483039482134532116",
-      "channel_id": "1482912635719782490",
-      "content": "~~不然找校貓去，這樣它比較沒時間搞事~~",
-      "author": "akkom730",
-      "reactions": 4,
-      "channel": ""
+      "id": "1482827787088695398",
+      "channel_id": "1170692781216378960",
+      "content": "No it's a porno game",
+      "author": "spooky_penguin_",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1482778681867899053",
-      "channel_id": "1131839817982947429",
-      "content": "你見過一款遊戲\n陸服跟國際服\n卡池不同\n抽卡機率不同\n常駐變成限定\n通關主線資源不同\n甚至多了屬性克制機制嗎\n\n喔 常駐變成限定的，技能倍率還被砍了，不如陸服的",
-      "author": "eddy10051115",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1482925259920375870",
-      "channel_id": "1131839817982947429",
-      "content": "<@856163292296773632> <@883992032530563082> 猜猜某人會不會等等就拿著很猛的角色出來說很猛",
-      "author": "a._0320",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1482938494081962175",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1482955283012649063",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1482980661928136786",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483001738238754957",
-      "channel_id": "1131839817982947429",
-      "content": "时隔八百万年突然想起来了你游还有一个模式叫深潜",
-      "author": "ling_an_",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483009148357709834",
-      "channel_id": "1131839817982947429",
-      "content": "積分獎勵的一併領取死哪去了",
-      "author": "foxcatfurry",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483026854909575169",
-      "channel_id": "1131839817982947429",
-      "content": "<:Helot_slack_off:1459092159465521184>",
-      "author": "eddy10051115",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483083686462095483",
-      "channel_id": "1131839817982947429",
-      "content": "~~攻擊：不用裝就唐~~",
-      "author": "kevin.yienwenst",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483097277995286620",
-      "channel_id": "1300659552701648960",
-      "content": "le japon est mal car il n'est pas français et tous ce qui n'ai pas français est ",
-      "author": "wolsin",
-      "reactions": 3,
-      "channel": "🔸chaîne-française"
+      "id": "1482890225943318689",
+      "channel_id": "1170692781216378960",
+      "content": "PULL BLUE",
+      "author": "jyeusu",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

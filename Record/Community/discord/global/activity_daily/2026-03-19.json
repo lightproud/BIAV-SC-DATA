@@ -1,10 +1,26 @@
 {
   "date": "2026-03-19",
-  "messages": 2862,
-  "unique_authors": 57,
-  "reactions_total": 665,
-  "attachments": 114,
+  "messages": 18708,
+  "unique_authors": 282,
+  "reactions_total": 2536,
+  "attachments": 631,
   "channel_activity": {
+    "🔸morimens-game-chat": 9462,
+    "🔸相位对弈": 15,
+    "🔸한국어-채팅방": 4,
+    "🔸deutscher-chatraum": 28,
+    "🔸русский-канал": 863,
+    "🔸phòng-chat-tiếng-việt": 1005,
+    "🔸canal-español": 302,
+    "🔸canal-português": 1908,
+    "🔸ruang-obrolan-indonesia": 106,
+    "🔸ห้องสนทนาภาษาไทย": 299,
+    "🔸traphase": 69,
+    "🔸lore-chat": 1196,
+    "🔸lets-count": 26,
+    "🔸team-building": 67,
+    "🔸general-chat": 483,
+    "🔸邀请码互助┊swap-invitation-codes": 13,
     "🔸綜合討論": 2645,
     "🔸阵容构建": 53,
     "1484144971341762641": 29,
@@ -45,33 +61,36 @@
     "1477730088299663431": 2
   },
   "hourly_activity": {
-    "0": 107,
-    "1": 11,
-    "2": 51,
-    "3": 10,
-    "9": 27,
-    "10": 51,
-    "11": 291,
-    "12": 182,
-    "13": 170,
-    "14": 668,
-    "15": 161,
-    "16": 272,
-    "17": 154,
-    "18": 109,
-    "19": 45,
-    "20": 9,
-    "21": 133,
-    "22": 238,
-    "23": 154,
-    "5": 5,
-    "7": 10,
-    "8": 3,
-    "6": 1
+    "0": 510,
+    "1": 1327,
+    "2": 809,
+    "3": 819,
+    "4": 395,
+    "5": 260,
+    "6": 636,
+    "7": 625,
+    "8": 801,
+    "9": 520,
+    "10": 640,
+    "11": 1185,
+    "12": 1127,
+    "13": 525,
+    "14": 1221,
+    "15": 679,
+    "16": 679,
+    "17": 523,
+    "18": 899,
+    "19": 840,
+    "20": 342,
+    "21": 867,
+    "22": 1035,
+    "23": 1444
   },
   "message_types": {
-    "0": 2253,
-    "19": 606,
+    "19": 5355,
+    "0": 13343,
+    "20": 6,
+    "18": 1,
     "4": 3
   },
   "top_reacted_messages": [
@@ -140,6 +159,22 @@
       "channel": ""
     },
     {
+      "id": "1483966507963650223",
+      "channel_id": "1170692781216378960",
+      "content": "they dont let us sex toy post on the fancord",
+      "author": "khykken",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483971997049426033",
+      "channel_id": "1170692781216378960",
+      "content": "Except Battle Cats players",
+      "author": "idotly",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1484149330498683011",
       "channel_id": "1131839874132090890",
       "content": "剎那打不過1，所以才會去當0",
@@ -180,60 +215,44 @@
       "channel": ""
     },
     {
+      "id": "1483929003411771572",
+      "channel_id": "1170692781216378960",
+      "content": "my first 400!!!",
+      "author": "chinkeeyong",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483967378684514434",
+      "channel_id": "1170692781216378960",
+      "content": "Destruction",
+      "author": "not_blueberry",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483968835340996799",
+      "channel_id": "1170692781216378960",
+      "content": "You can graduate with an English degree and still not know how to structure fuck",
+      "author": "alistiel",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484207368664387687",
+      "channel_id": "1170692781216378960",
+      "content": "<@212031841786527764> <@113374123798859776>",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1484079607253831783",
       "channel_id": "1131839817982947429",
       "content": "搞不好可以投稿10000銀新餒",
       "author": "yy42974466",
       "reactions": 7,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1484026313470640288",
-      "channel_id": "1131839874132090890",
-      "content": "~~不管怎樣，你都不要從阿宏身上下來~~",
-      "author": "cameliia._.",
-      "reactions": 7,
-      "channel": "🔸阵容构建"
-    },
-    {
-      "id": "1484018563500216455",
-      "channel_id": "1181998821291606097",
-      "content": "突然想畫的仿郵票感覺沒有新開帖的必要那反正請看我oc<:happy:1356053849894420683>",
-      "author": "navirecorbeau",
-      "reactions": 7,
-      "channel": ""
-    },
-    {
-      "id": "1484036264117276722",
-      "channel_id": "1131839817982947429",
-      "content": "普池角色增强也在计划中，预计是用纯白银芯来增强",
-      "author": "polkarain",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1484138978734244010",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483887185181806772",
-      "channel_id": "1445334381404094475",
-      "content": "心血來潮打個皮皮慶生圖草稿，這樣完成剛好明年二月水啦（？",
-      "author": "ass191044",
-      "reactions": 6,
-      "channel": ""
-    },
-    {
-      "id": "1483901221344379060",
-      "channel_id": "1483901221344379060",
-      "content": "Who are the top 5 damage dealers? What about healers? Keyflare? Mob clearers? ..",
-      "author": "climbkaly",
-      "reactions": 6,
-      "channel": ""
     }
   ]
 }

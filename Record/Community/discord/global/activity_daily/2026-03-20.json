@@ -1,10 +1,27 @@
 {
   "date": "2026-03-20",
-  "messages": 1542,
-  "unique_authors": 59,
-  "reactions_total": 296,
-  "attachments": 100,
+  "messages": 13783,
+  "unique_authors": 243,
+  "reactions_total": 1843,
+  "attachments": 603,
   "channel_activity": {
+    "🔸morimens-game-chat": 8903,
+    "🔸剧情交流": 181,
+    "🔸相位对弈": 13,
+    "🔸한국어-채팅방": 1,
+    "🔸deutscher-chatraum": 20,
+    "🔸русский-канал": 40,
+    "🔸phòng-chat-tiếng-việt": 1449,
+    "🔸canal-español": 51,
+    "🔸canal-português": 509,
+    "🔸ruang-obrolan-indonesia": 40,
+    "🔸ห้องสนทนาภาษาไทย": 351,
+    "🔸traphase": 11,
+    "🔸lore-chat": 75,
+    "🔸lets-count": 21,
+    "🔸team-building": 257,
+    "🔸general-chat": 307,
+    "🔸邀请码互助┊swap-invitation-codes": 15,
     "🔸綜合討論": 1155,
     "🔸阵容构建": 50,
     "🔸chaîne-française": 1,
@@ -13,7 +30,6 @@
     "1484500847911239871": 10,
     "1484457112628363284": 9,
     "1484451981773901947": 4,
-    "🔸邀请码互助┊swap-invitation-codes": 3,
     "1484212697015914496": 7,
     "1484467018118987888": 29,
     "🔸课间休息闲聊": 7,
@@ -43,32 +59,35 @@
     "1468895834199298215": 2
   },
   "hourly_activity": {
-    "0": 161,
-    "1": 13,
-    "2": 21,
-    "7": 17,
-    "8": 13,
-    "9": 6,
-    "10": 30,
-    "11": 61,
-    "12": 226,
-    "13": 120,
-    "14": 41,
-    "15": 67,
-    "16": 206,
-    "17": 70,
-    "18": 213,
-    "19": 164,
-    "20": 64,
-    "21": 32,
-    "22": 12,
-    "23": 3,
-    "3": 1,
-    "6": 1
+    "0": 1020,
+    "1": 497,
+    "2": 549,
+    "3": 302,
+    "4": 373,
+    "5": 310,
+    "6": 118,
+    "7": 231,
+    "8": 556,
+    "9": 589,
+    "10": 703,
+    "11": 569,
+    "12": 978,
+    "13": 850,
+    "14": 422,
+    "15": 447,
+    "16": 589,
+    "17": 317,
+    "18": 727,
+    "19": 723,
+    "20": 624,
+    "21": 699,
+    "22": 689,
+    "23": 901
   },
   "message_types": {
-    "0": 1247,
-    "19": 292,
+    "0": 9771,
+    "19": 4006,
+    "20": 3,
     "4": 3
   },
   "top_reacted_messages": [
@@ -79,6 +98,14 @@
       "author": "floriography",
       "reactions": 15,
       "channel": ""
+    },
+    {
+      "id": "1484577171136577546",
+      "channel_id": "1170692781216378960",
+      "content": "In chat, a lot of people who do those things ask you for advice and your thought",
+      "author": "climbkaly",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
     },
     {
       "id": "1484467090726584522",
@@ -113,6 +140,70 @@
       "channel": ""
     },
     {
+      "id": "1484272716813963305",
+      "channel_id": "1170692781216378960",
+      "content": "First 375 babyyy",
+      "author": "q_antum",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484278631575453716",
+      "channel_id": "1170692781216378960",
+      "content": "<@332573289438380032> <@1160510535670968330> this one is for you",
+      "author": "sexysneakystoat1625",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484314685829283992",
+      "channel_id": "1170692781216378960",
+      "content": "Get countered",
+      "author": "heightsflingplane",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484510943240257677",
+      "channel_id": "1170692781216378960",
+      "content": "Give monchi 1 day, and ask again.\nThe outcome will be different",
+      "author": "aurora3981",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484577425076650226",
+      "channel_id": "1170692781216378960",
+      "content": "idk i know you as the bastard that caused the arith hardcap",
+      "author": "nikolazuli",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484578055593656400",
+      "channel_id": "1170692781216378960",
+      "content": "Someone understood the truth about powercreep in this game :",
+      "author": "legendaryredz",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484579477060325602",
+      "channel_id": "1170692781216378960",
+      "content": "-ban <@739841629447520368> scam",
+      "author": "craux.",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484580603772010577",
+      "channel_id": "1170692781216378960",
+      "content": "i'll ban everyone so i dont have to mod",
+      "author": "zyocuh",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1484467226336559198",
       "channel_id": "1484467018118987888",
       "content": "[Event]\n● Fixed an issue in the event \"Phase Reversal\" where Keepers who had pre",
@@ -121,116 +212,44 @@
       "channel": ""
     },
     {
-      "id": "1484474479106330634",
-      "channel_id": "1131839817982947429",
-      "content": "我現在可以看到我忘生抽了8331次",
-      "author": "water_heart",
+      "id": "1484365755289178434",
+      "channel_id": "1170692781216378960",
+      "content": "\"I'm a mid range character who has the numbers appropriate to deal with a variet",
+      "author": "alistiel",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484486016344789023",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "spooky_penguin_",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484571915497504958",
+      "channel_id": "1170692781216378960",
+      "content": "Im fine with anyone as long as they won’t treat Saya as the 2.5 anni awakener",
+      "author": "_venush",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484574010003034133",
+      "channel_id": "1170692781216378960",
+      "content": "my hot take is that people can do whatever the fuck they want as long as it does",
+      "author": "nikolazuli",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1484291061860925560",
+      "channel_id": "1170692781216378960",
+      "content": "BUT E2 GOLI str steal is a must have for every player. must pull it cause its so",
+      "author": "monchi3524",
       "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1484475032108400701",
-      "channel_id": "1131839817982947429",
-      "content": "发现已经看不了这个成就的次数了",
-      "author": "navirecorbeau",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1484476439465295872",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "navirecorbeau",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1484228123787530340",
-      "channel_id": "1450001353064714320",
-      "content": "At least you got a response. Goyo san is pretending the post about '24' doesn't ",
-      "author": "yeriko703",
-      "reactions": 5,
-      "channel": ""
-    },
-    {
-      "id": "1484228768448118834",
-      "channel_id": "1450001353064714320",
-      "content": "Goya is just waiting for it to hit 23999k messages so they can say no as message",
-      "author": "bagels5899",
-      "reactions": 5,
-      "channel": ""
-    },
-    {
-      "id": "1484222037278064814",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "a._0320",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1484405830429442108",
-      "channel_id": "1131839817982947429",
-      "content": "深海毒只要優化掉深海就完美了",
-      "author": "ice_storys",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1484469193666723930",
-      "channel_id": "1131839817982947429",
-      "content": "他很好笑的是\n前一兩週日服才更新5抽2金這條上去",
-      "author": "foxcatfurry",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1484480690551656478",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "0.0._.0_0.",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1484495288197578804",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "ahong0727",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1484259675435438271",
-      "channel_id": "1174983699935277147",
-      "content": "",
-      "author": "hon_ey0",
-      "reactions": 4,
-      "channel": "🔸晒卡分享"
-    },
-    {
-      "id": "1484481645821296761",
-      "channel_id": "1484481613445468272",
-      "content": "https://docs.google.com/document/d/1j1izSyJvfk80N9DE6TR_73zoA_b1MRa5/edit?usp=dr",
-      "author": "al_leyway",
-      "reactions": 4,
-      "channel": ""
-    },
-    {
-      "id": "1484251623592038571",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "a._0320",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1484354829730975744",
-      "channel_id": "1131839817982947429",
-      "content": "<a:emoji_52:994500107116482600>",
-      "author": "kemomimi_",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

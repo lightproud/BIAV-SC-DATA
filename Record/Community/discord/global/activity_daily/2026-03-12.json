@@ -1,10 +1,29 @@
 {
   "date": "2026-03-12",
-  "messages": 10179,
-  "unique_authors": 190,
-  "reactions_total": 2062,
-  "attachments": 366,
+  "messages": 13674,
+  "unique_authors": 223,
+  "reactions_total": 2346,
+  "attachments": 605,
   "channel_activity": {
+    "🔸剧情交流": 22,
+    "🔸晒卡分享": 16,
+    "🔸相位对弈": 10,
+    "🔸课间休息闲聊": 3,
+    "🔸日本語チャンネル": 9,
+    "🔸한국어-채팅방": 14,
+    "🔸русский-канал": 66,
+    "🔸phòng-chat-tiếng-việt": 393,
+    "🔸canal-español": 149,
+    "🔸canal-português": 154,
+    "🔸ruang-obrolan-indonesia": 256,
+    "🔸ห้องสนทนาภาษาไทย": 357,
+    "🔸traphase": 45,
+    "🔸lore-chat": 73,
+    "🔸lets-count": 7,
+    "🔸team-building": 629,
+    "🔸general-chat": 251,
+    "🔸邀请码互助┊swap-invitation-codes": 16,
+    "🔸game-question": 1025,
     "🔸綜合討論": 711,
     "🔸阵容构建": 32,
     "🔸morimens-game-chat": 9305,
@@ -49,34 +68,35 @@
     "1477730088299663431": 2
   },
   "hourly_activity": {
-    "0": 490,
-    "2": 437,
-    "5": 305,
-    "7": 498,
-    "8": 350,
-    "9": 571,
-    "10": 415,
-    "11": 445,
-    "12": 513,
-    "13": 208,
-    "14": 582,
-    "15": 479,
-    "16": 354,
-    "17": 491,
-    "18": 454,
-    "19": 461,
-    "20": 380,
-    "21": 250,
-    "22": 222,
-    "23": 563,
-    "1": 450,
-    "3": 479,
-    "4": 601,
-    "6": 181
+    "13": 330,
+    "16": 431,
+    "17": 608,
+    "18": 640,
+    "19": 601,
+    "5": 387,
+    "8": 578,
+    "11": 621,
+    "0": 677,
+    "1": 602,
+    "6": 222,
+    "20": 473,
+    "22": 406,
+    "14": 732,
+    "12": 582,
+    "2": 619,
+    "3": 646,
+    "15": 694,
+    "23": 958,
+    "9": 775,
+    "10": 469,
+    "21": 378,
+    "4": 688,
+    "7": 557
   },
   "message_types": {
-    "0": 6367,
-    "19": 3794,
+    "0": 8991,
+    "19": 4664,
+    "20": 1,
     "46": 1,
     "4": 17
   },
@@ -120,6 +140,14 @@
       "author": "vxvendetta97",
       "reactions": 17,
       "channel": ""
+    },
+    {
+      "id": "1481448926526701751",
+      "channel_id": "1174983699935277147",
+      "content": "…",
+      "author": "taayoui",
+      "reactions": 15,
+      "channel": "🔸晒卡分享"
     },
     {
       "id": "1481548666886951053",
@@ -170,6 +198,14 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1481523029136900230",
+      "channel_id": "1174983699935277147",
+      "content": "90等的凱",
+      "author": "andy1123",
+      "reactions": 9,
+      "channel": "🔸晒卡分享"
+    },
+    {
       "id": "1481508563271553094",
       "channel_id": "1170692781216378960",
       "content": "I cant believe people are tomatospiring against me",
@@ -218,28 +254,12 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1481513040393277500",
-      "channel_id": "1131839817982947429",
-      "content": "【沙子在父母面前对着舞者打野炮】 https://www.bilibili.com/video/BV1TvcQz5EXn/?share_source=copy_",
-      "author": "lululu9858",
+      "id": "1481321901841322085",
+      "channel_id": "1300659662311526512",
+      "content": "eso no seria para nada hopeluly",
+      "author": "ancientbp",
       "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1481362048670498917",
-      "channel_id": "1170692781216378960",
-      "content": "Hi Megi! I am Chill/Corn! I used to be incredibly active during summer time and ",
-      "author": "disgustedingucci",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1481364747797528618",
-      "channel_id": "1170692781216378960",
-      "content": "behold, enough for +12 🔥",
-      "author": "blecnes.",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
+      "channel": "🔸canal-español"
     }
   ]
 }

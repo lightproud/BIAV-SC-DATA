@@ -1,10 +1,25 @@
 {
   "date": "2026-03-24",
-  "messages": 1150,
-  "unique_authors": 64,
-  "reactions_total": 263,
-  "attachments": 100,
+  "messages": 11701,
+  "unique_authors": 262,
+  "reactions_total": 1596,
+  "attachments": 596,
   "channel_activity": {
+    "🔸morimens-game-chat": 8144,
+    "🔸剧情交流": 8,
+    "🔸相位对弈": 318,
+    "🔸한국어-채팅방": 11,
+    "🔸русский-канал": 628,
+    "🔸phòng-chat-tiếng-việt": 340,
+    "🔸canal-español": 205,
+    "🔸canal-português": 82,
+    "🔸ruang-obrolan-indonesia": 6,
+    "🔸ห้องสนทนาภาษาไทย": 61,
+    "🔸traphase": 40,
+    "🔸lore-chat": 267,
+    "🔸lets-count": 10,
+    "🔸team-building": 247,
+    "🔸general-chat": 184,
     "🔸綜合討論": 653,
     "🔸阵容构建": 279,
     "🔸chaîne-française": 1,
@@ -42,34 +57,35 @@
     "1468895834199298215": 1
   },
   "hourly_activity": {
-    "0": 21,
-    "1": 15,
-    "2": 14,
-    "9": 28,
-    "10": 24,
-    "11": 15,
-    "12": 20,
-    "13": 237,
-    "14": 325,
-    "15": 61,
-    "16": 57,
-    "17": 17,
-    "18": 12,
-    "19": 8,
-    "20": 98,
-    "21": 59,
-    "22": 83,
-    "23": 14,
-    "3": 24,
-    "5": 8,
-    "6": 1,
-    "8": 4,
-    "4": 2,
-    "7": 3
+    "0": 1115,
+    "1": 610,
+    "2": 440,
+    "3": 686,
+    "4": 808,
+    "5": 516,
+    "6": 402,
+    "7": 697,
+    "8": 657,
+    "9": 316,
+    "10": 368,
+    "11": 359,
+    "12": 166,
+    "13": 517,
+    "14": 709,
+    "15": 565,
+    "16": 330,
+    "17": 153,
+    "18": 442,
+    "19": 296,
+    "20": 331,
+    "21": 270,
+    "22": 545,
+    "23": 403
   },
   "message_types": {
-    "0": 883,
-    "19": 267
+    "0": 8012,
+    "19": 3687,
+    "20": 2
   },
   "top_reacted_messages": [
     {
@@ -87,6 +103,22 @@
       "author": "princess.goth",
       "reactions": 14,
       "channel": ""
+    },
+    {
+      "id": "1485904888331239434",
+      "channel_id": "1170692781216378960",
+      "content": "stupid bird idiot",
+      "author": "princess.goth",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1485957010590662788",
+      "channel_id": "1173463482503536711",
+      "content": "~~那图鲁也是一位肥硕的王了~~",
+      "author": "ling_an_",
+      "reactions": 10,
+      "channel": "🔸剧情交流"
     },
     {
       "id": "1485716228684386315",
@@ -113,6 +145,54 @@
       "channel": "🔸忘却前夜┊morimens-tv"
     },
     {
+      "id": "1485673707329290441",
+      "channel_id": "1170692781216378960",
+      "content": "Honestly.. shud go back to polish the lower parts",
+      "author": "vaish6421",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1485671768344756345",
+      "channel_id": "1170692781216378960",
+      "content": "**Why Vortice is often labeled the “worst” awakener**\n\n- **Exalt‑dependency** – ",
+      "author": "Morimens",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1485738316803608760",
+      "channel_id": "1170692781216378960",
+      "content": "i just nearly died from eating an expired vitamin c pill",
+      "author": "chinkeeyong",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1485742177156993065",
+      "channel_id": "1170692781216378960",
+      "content": "and now after actually knowing how to play the game i look back at it and it's l",
+      "author": "arkaether",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1485776752046375146",
+      "channel_id": "1170692781216378960",
+      "content": "<#1485688845633585223>",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1485808907304697906",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "alistiel",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1485868472788324471",
       "channel_id": "1174983699935277147",
       "content": "媽媽我出雙金了",
@@ -137,100 +217,36 @@
       "channel": ""
     },
     {
-      "id": "1485830596298277065",
-      "channel_id": "1428784257534529586",
-      "content": "【我重生了，重生到忘却前夜宣布关服的那天（2）-哔哩哔哩】 https://b23.tv/G5eQw6j",
-      "author": "void_1546.",
+      "id": "1485671179397370031",
+      "channel_id": "1170692781216378960",
+      "content": "**Best Morimens content creator:** **Flares**  \n\n**Why:**  \n\n- **Comprehensive g",
+      "author": "Morimens",
       "reactions": 5,
-      "channel": ""
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1485970632876363888",
-      "channel_id": "1174983699935277147",
-      "content": "普池<:goliath_spend:1468259820875415728>",
-      "author": "_buqi",
-      "reactions": 5,
-      "channel": "🔸晒卡分享"
-    },
-    {
-      "id": "1486022929274896405",
-      "channel_id": "1450001353064714320",
-      "content": "<:doresain_proud:1468257815238938645>",
-      "author": "melwyn7591",
-      "reactions": 5,
-      "channel": ""
-    },
-    {
-      "id": "1485687215337242825",
-      "channel_id": "1131839817982947429",
+      "id": "1485680080851042445",
+      "channel_id": "1170692781216378960",
       "content": "",
-      "author": "0.0._.0_0.",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
+      "author": "zod.444",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1486008073767354439",
-      "channel_id": "1131839817982947429",
-      "content": "跳過二階段的打法",
-      "author": "0.0._.0_0.",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
+      "id": "1485680217791139991",
+      "channel_id": "1170692781216378960",
+      "content": "I rather BIAV HQ got raided",
+      "author": "idotly",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1485914200596545660",
-      "channel_id": "1131839874132090890",
-      "content": "調查行動-夢的崩析——戰鬥回放\n守密人：晴天雲（101293414）\n\n塔薇、隱世的轉輪、巨人之刃、入藥之夢\n珈倫、極夜與破曉、你我終將重逢、埋骨地絮語\n哈姆林",
-      "author": "iulargerthan3",
-      "reactions": 4,
-      "channel": "🔸阵容构建"
-    },
-    {
-      "id": "1485914300701737112",
-      "channel_id": "1131839874132090890",
-      "content": "調查行動-夢的崩析——戰鬥回放\n守密人：晴天雲（101293414）\n\n塔薇、隱世的轉輪、-、入藥之夢\n誕妄·墨菲、黑暗中的安眠、-、生機榨取\n戈利亞、極夜與破",
-      "author": "iulargerthan3",
-      "reactions": 4,
-      "channel": "🔸阵容构建"
-    },
-    {
-      "id": "1485832565943435475",
-      "channel_id": "1482997212354187324",
-      "content": "",
-      "author": "skyfallterminus",
-      "reactions": 4,
-      "channel": ""
-    },
-    {
-      "id": "1485967544022990969",
-      "channel_id": "1131839817982947429",
-      "content": "“我们发现大量玩家过于依赖自动模式并机械式的完成各种对局，无论是主线，融灾，试用关卡亦或是活动。\n这件事有悖于我们最初开发自动模式的理由\n虽然我们在稍早之前已经",
-      "author": "ling_an_",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1485987517906817084",
-      "channel_id": "1131839817982947429",
-      "content": "<@1298268532017991702> \n快看\n101%的樂音<:wish:1356084702468899117>",
-      "author": "water_heart",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1485875626937417788",
-      "channel_id": "1485202178816872468",
-      "content": "我已经摆脱了贫困。今天我会给儿子买些纸杯蛋糕作为奖励<:doresain_proud:1468257815238938645>",
-      "author": "that_one_chippy",
-      "reactions": 3,
-      "channel": ""
-    },
-    {
-      "id": "1485738901061501111",
-      "channel_id": "1485366013934436512",
-      "content": "wip\nman it's taking time",
-      "author": "sexysneakystoat1625",
-      "reactions": 3,
-      "channel": ""
+      "id": "1485720133744857260",
+      "channel_id": "1170692781216378960",
+      "content": "and savings have hit funny number posterity",
+      "author": "fishhazardthewizard",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }

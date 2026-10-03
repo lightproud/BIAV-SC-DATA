@@ -1,10 +1,25 @@
 {
   "date": "2026-03-22",
-  "messages": 1295,
-  "unique_authors": 48,
-  "reactions_total": 406,
-  "attachments": 60,
+  "messages": 10316,
+  "unique_authors": 239,
+  "reactions_total": 1729,
+  "attachments": 453,
   "channel_activity": {
+    "🔸morimens-game-chat": 6565,
+    "🔸相位对弈": 12,
+    "🔸한국어-채팅방": 5,
+    "🔸deutscher-chatraum": 41,
+    "🔸русский-канал": 278,
+    "🔸phòng-chat-tiếng-việt": 1156,
+    "🔸canal-español": 188,
+    "🔸canal-português": 214,
+    "🔸ruang-obrolan-indonesia": 23,
+    "🔸ห้องสนทนาภาษาไทย": 94,
+    "🔸traphase": 41,
+    "🔸lore-chat": 70,
+    "🔸lets-count": 14,
+    "🔸team-building": 129,
+    "🔸general-chat": 191,
     "🔸綜合討論": 1181,
     "🔸邀请码互助┊swap-invitation-codes": 8,
     "🔸忘却前夜┊morimens-tv": 1,
@@ -33,33 +48,36 @@
     "1477730088299663431": 3
   },
   "hourly_activity": {
-    "0": 67,
-    "1": 62,
-    "2": 50,
-    "4": 43,
-    "5": 26,
-    "7": 5,
-    "8": 3,
-    "9": 6,
-    "10": 23,
-    "11": 56,
-    "12": 126,
-    "13": 74,
-    "14": 5,
-    "15": 4,
-    "16": 10,
-    "17": 172,
-    "18": 37,
-    "19": 60,
-    "20": 13,
-    "21": 17,
-    "22": 314,
-    "23": 118,
-    "6": 4
+    "0": 962,
+    "1": 778,
+    "2": 369,
+    "3": 212,
+    "4": 163,
+    "5": 285,
+    "6": 447,
+    "7": 517,
+    "8": 775,
+    "9": 615,
+    "10": 175,
+    "11": 493,
+    "12": 475,
+    "13": 240,
+    "14": 115,
+    "15": 164,
+    "16": 425,
+    "17": 355,
+    "18": 326,
+    "19": 392,
+    "20": 410,
+    "21": 315,
+    "22": 612,
+    "23": 696
   },
   "message_types": {
-    "19": 235,
-    "0": 1060
+    "0": 7198,
+    "19": 3114,
+    "46": 2,
+    "20": 2
   },
   "top_reacted_messages": [
     {
@@ -95,6 +113,14 @@
       "channel": ""
     },
     {
+      "id": "1485049790520758466",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "bagels5899",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1485087122217242674",
       "channel_id": "1131839817982947429",
       "content": "12 天, 375",
@@ -127,6 +153,46 @@
       "channel": ""
     },
     {
+      "id": "1485202299188940870",
+      "channel_id": "1170692781216378960",
+      "content": "https://cdn.discordapp.com/attachments/1485020903673958440/1485202190774571048/F",
+      "author": "sexysneakystoat1625",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1485029164095377619",
+      "channel_id": "1170692781216378960",
+      "content": "<@1471414323883540501> <@212031841786527764> <@1228697861764550759> <@5954144299",
+      "author": "angbak",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1485072372473139301",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "dyssayah",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1485001105808294158",
+      "channel_id": "1170692781216378960",
+      "content": "Gave everyone on my team full pizza",
+      "author": "heightsflingplane",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1485195309008158771",
+      "channel_id": "1170692781216378960",
+      "content": "Guys...",
+      "author": "thekoriyama",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1485230881479069821",
       "channel_id": "1131839817982947429",
       "content": "薩摩不耶大人有在這個群嗎",
@@ -143,83 +209,35 @@
       "channel": ""
     },
     {
+      "id": "1485052015733117128",
+      "channel_id": "1170692781216378960",
+      "content": "(I'll delete if people don't want AI memes here, just wanted to drop this quick ",
+      "author": "dyssayah",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1485073040868900905",
+      "channel_id": "1170692781216378960",
+      "content": "<:angry1:1356053023272599668> <:Hameln_Discontent:1468258981444063303>",
+      "author": "fishhazardthewizard",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1485270120518516968",
+      "channel_id": "1170692781216378960",
+      "content": "man i wish there was a unit to remove this 99 fortress...",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1485209468311437466",
       "channel_id": "1131839817982947429",
       "content": "我又去補了一個",
       "author": "yy42974466",
       "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1485138917417291826",
-      "channel_id": "1435483703114596503",
-      "content": "An exceedingly brief summary of the Caro Vortice team as well as a Whale Gamepla",
-      "author": "frosthief",
-      "reactions": 6,
-      "channel": "🔸忘却前夜┊morimens-tv"
-    },
-    {
-      "id": "1485240379371683950",
-      "channel_id": "1485202178816872468",
-      "content": "我刚查了一下，发现还剩3个银芯",
-      "author": "that_one_chippy",
-      "reactions": 6,
-      "channel": ""
-    },
-    {
-      "id": "1485108617215606894",
-      "channel_id": "1450337762829144255",
-      "content": "",
-      "author": "fishhazardthewizard",
-      "reactions": 6,
-      "channel": ""
-    },
-    {
-      "id": "1485238850606333993",
-      "channel_id": "1174983699935277147",
-      "content": "常驻池<:please:1356053110375714817>",
-      "author": "be_queitplease",
-      "reactions": 6,
-      "channel": "🔸晒卡分享"
-    },
-    {
-      "id": "1485238870395195573",
-      "channel_id": "1485202178816872468",
-      "content": "砸摳養我",
-      "author": "ass191044",
-      "reactions": 5,
-      "channel": ""
-    },
-    {
-      "id": "1485210271059546223",
-      "channel_id": "1485202178816872468",
-      "content": "I'll give you some.",
-      "author": "void_1546.",
-      "reactions": 4,
-      "channel": ""
-    },
-    {
-      "id": "1485139140491214949",
-      "channel_id": "1131839817982947429",
-      "content": "“有Image Relic（专造）的水母和没有的水母之间的差距就如Bio•鳕鱼寿司与豆皮卷一般，不可谓不大”",
-      "author": "polkarain",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1485283942398431342",
-      "channel_id": "1131839817982947429",
-      "content": "不然你可能被拖進南通的深淵",
-      "author": "xingkongzhiyao_",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1485284366123929620",
-      "channel_id": "1131839817982947429",
-      "content": "不要玩忘卻前夜",
-      "author": "xingkongzhiyao_",
-      "reactions": 3,
       "channel": "🔸綜合討論"
     }
   ]

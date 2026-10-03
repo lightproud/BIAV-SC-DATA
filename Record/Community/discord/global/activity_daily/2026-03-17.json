@@ -1,10 +1,28 @@
 {
   "date": "2026-03-17",
-  "messages": 1535,
-  "unique_authors": 50,
-  "reactions_total": 667,
-  "attachments": 160,
+  "messages": 15619,
+  "unique_authors": 294,
+  "reactions_total": 2374,
+  "attachments": 804,
   "channel_activity": {
+    "🔸morimens-game-chat": 9392,
+    "🔸剧情交流": 2,
+    "🔸晒卡分享": 3,
+    "🔸相位对弈": 35,
+    "🔸한국어-채팅방": 5,
+    "🔸deutscher-chatraum": 9,
+    "🔸русский-канал": 223,
+    "🔸phòng-chat-tiếng-việt": 359,
+    "🔸canal-español": 633,
+    "🔸canal-português": 1482,
+    "🔸ruang-obrolan-indonesia": 579,
+    "🔸ห้องสนทนาภาษาไทย": 444,
+    "🔸traphase": 359,
+    "🔸lore-chat": 61,
+    "🔸lets-count": 11,
+    "🔸team-building": 94,
+    "🔸general-chat": 371,
+    "🔸邀请码互助┊swap-invitation-codes": 22,
     "🔸綜合討論": 1340,
     "🔸阵容构建": 14,
     "1483359118742917201": 22,
@@ -44,31 +62,36 @@
     "1477730088299663431": 8
   },
   "hourly_activity": {
-    "0": 11,
-    "1": 4,
-    "2": 8,
-    "5": 4,
-    "7": 29,
-    "8": 35,
-    "9": 94,
-    "10": 115,
-    "11": 262,
-    "12": 54,
-    "13": 18,
-    "14": 75,
-    "15": 237,
-    "16": 163,
-    "17": 40,
-    "18": 26,
-    "19": 21,
-    "20": 62,
-    "21": 29,
-    "22": 34,
-    "23": 214
+    "0": 796,
+    "1": 606,
+    "2": 356,
+    "3": 405,
+    "4": 476,
+    "5": 801,
+    "6": 864,
+    "7": 567,
+    "8": 769,
+    "9": 727,
+    "10": 905,
+    "11": 936,
+    "12": 662,
+    "13": 649,
+    "14": 534,
+    "15": 842,
+    "16": 761,
+    "17": 532,
+    "18": 415,
+    "19": 699,
+    "20": 432,
+    "21": 505,
+    "22": 433,
+    "23": 947
   },
   "message_types": {
-    "0": 1267,
-    "19": 262,
+    "0": 10976,
+    "19": 4634,
+    "20": 2,
+    "18": 1,
     "4": 6
   },
   "top_reacted_messages": [
@@ -169,6 +192,14 @@
       "channel": ""
     },
     {
+      "id": "1483227973615358086",
+      "channel_id": "1170692781216378960",
+      "content": "I might like it....",
+      "author": "climbkaly",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1483490443219173458",
       "channel_id": "1450337762829144255",
       "content": "",
@@ -177,60 +208,52 @@
       "channel": ""
     },
     {
-      "id": "1483329249908625519",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
+      "id": "1483338681174724608",
+      "channel_id": "1170692781216378960",
+      "content": "this is so funny that looks almost exactly like my adoptive dad when he was youn",
+      "author": "reya.li",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483157686580412552",
+      "channel_id": "1170692781216378960",
+      "content": "I     |I\nII    I_",
+      "author": "legendaryredz",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1483298866211324105",
+      "channel_id": "1170692781216378960",
+      "content": "<@285755067213152257> <@595414429957619725> i got the 400 again",
+      "author": "princess.goth",
       "reactions": 6,
-      "channel": "🔸綜合討論"
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1483307374860304446",
-      "channel_id": "1131839817982947429",
-      "content": "我說我心光明尼爾多龍嗎<:__:1298648453936709682>",
-      "author": "hon_ey0",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
+      "id": "1483302018058682479",
+      "channel_id": "1170692781216378960",
+      "content": "<@88644018673582080> SPEED RUN SAYA???",
+      "author": "angbak",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1483379994242846811",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
+      "id": "1483320119215259739",
+      "channel_id": "1170692781216378960",
+      "content": "pull ultra <:proud1:1356053120651755641>",
+      "author": "chinkeeyong",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1483475976552710144",
-      "channel_id": "1131839817982947429",
-      "content": "抽筋換小蛋糕給墨菲\n太值啦<:gogogo:1356053074560422118>",
-      "author": "xingxiu_0209",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483270000683778230",
-      "channel_id": "1131839817982947429",
-      "content": "那我要请神祕小图片登场了",
-      "author": "kemomimi_",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483278559173935178",
-      "channel_id": "1131839817982947429",
-      "content": "又有群友要分享剎那圖了🤣",
-      "author": "fool6692",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1483295039365971998",
-      "channel_id": "1131839817982947429",
-      "content": "<:hiclipart:647852999829487635>",
-      "author": "quackdayo",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
+      "id": "1483338971202191433",
+      "channel_id": "1170692781216378960",
+      "content": "First A3\nXu's relic is broken <:Helot_slack_off:1459092159465521184>",
+      "author": "ahmedamr30",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
     }
   ]
 }
