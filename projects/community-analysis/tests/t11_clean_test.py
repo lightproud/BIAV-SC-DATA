@@ -209,3 +209,21 @@ def test_cli_clean(tmp_path, monkeypatch, capsys):
     monkeypatch.setenv("AUTHOR_SALT", SALT)
     assert cli.main(["clean"]) == 0
     assert "送标 100.00%" in capsys.readouterr().out
+
+
+def test_resighted_message_flagged_once_from_earliest_row(tmp_path):
+    first = m("a", "同一条被采到两次的评价内容", 0, kind="review")
+    again = {
+        **first,
+        "ts_utc": first["ts_utc"] + timedelta(days=1),
+        "day_cn": date(2026, 9, 2),
+        "raw_ref": "fake/b.json#0",
+    }
+    data = tmp_path / "data"
+    write_partitioned(messages_root(data), [again, first], MESSAGES_SCHEMA, "a")
+    res = clean(data, PARAMS, SALT)
+    flags = read_rows(flags_root(data, res.clean_ver))
+    assert len(flags) == 1 and flags[0]["day_cn"] == date(2026, 9, 1)  # 只打一次标，取最早那一行
+    assert flags[0]["route"] == ROUTE_ANNOTATE and flags[0]["flags"] == []
+    assert res.total == 1 and res.duplicate_ids == 1 and res.report["duplicate_msg_ids"] == 1
+    assert len(read_rows(messages_root(data))) == 2  # messages 两行都在

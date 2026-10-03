@@ -235,3 +235,42 @@ def test_cli_requires_salt_and_runs(lake, tmp_path, monkeypatch, capsys):
     assert "新增 6 行" in out
     for name in NAMES:
         assert name not in out
+
+
+def _doc(path: Path, items: list[dict]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(items, ensure_ascii=False), encoding="utf-8")
+
+
+def test_content_key_merges_resightings_but_not_distinct_reviews(tmp_path):
+    lake = tmp_path / "lake"
+    body = "这一帖被采集器每天都重新采到一次"
+    for day, hh in (("2026-09-01", "08"), ("2026-09-02", "10")):
+        # 微博没 URL、没作者，time 是采集时间：两天是同一帖
+        ts = f"{day}T{hh}:00:00"
+        _doc(
+            lake / "weibo" / f"{day}.json",
+            [{"title": body, "summary": body, "author": "", "time": ts, "metadata": {"author_is_unknown": True}}],
+        )
+        # Steam 讨论同一 URL、同一作者、同一正文，跨天重复
+        _doc(
+            lake / "steam" / "global" / f"{day}.json",
+            [{"title": "t", "summary": "卡顿问题什么时候修", "url": "https://s/1", "author": "fake-a", "time": ts}],
+        )
+    # 商店评价：同一个商店页 URL 下两条不同评价、两条同文不同作者
+    _doc(lake / "appstore" / "global" / "2026-09-01.json", [
+        {"summary": "很好玩", "url": "https://store/app", "author": "fake-x", "time": "2026-09-01T01:00:00"},
+        {"summary": "太肝了", "url": "https://store/app", "author": "fake-y", "time": "2026-09-01T02:00:00"},
+        {"summary": "太肝了", "url": "https://store/app", "author": "fake-z", "time": "2026-09-01T03:00:00"},
+    ])  # fmt: skip
+    # 没 URL 没作者的短句：认不准，退回 raw_ref，不合并
+    _doc(lake / "taptap" / "cn" / "2026-09-01.json", [{"summary": "展开", "time": "2026-09-01T01:00:00"},
+                                                       {"summary": "展开", "time": "2026-09-01T02:00:00"}])  # fmt: skip
+    data = tmp_path / "out"
+    run(lake, data)
+    rows = read_rows(messages_root(data))
+    ids = lambda p: [r["msg_id"] for r in rows if r["platform"] == p]  # noqa: E731
+    assert len(ids("weibo")) == 2 and len(set(ids("weibo"))) == 1  # 两行都留（不删），编号相同
+    assert len(ids("steam")) == 2 and len(set(ids("steam"))) == 1
+    assert len(set(ids("appstore"))) == 3
+    assert len(set(ids("taptap"))) == 2

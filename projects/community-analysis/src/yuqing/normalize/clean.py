@@ -293,9 +293,10 @@ def _pq(root: Path) -> str:
     return f"read_parquet('{glob_of(root)}', hive_partitioning=false, union_by_name=true)"
 
 
+# 同一条被重复采到时 messages 里有多行（一行不删）；往下各层按 msg_id 只取最早采到的那一行
 MESSAGES_DEDUP_SQL = """
 SELECT * FROM {src}
-QUALIFY row_number() OVER (PARTITION BY msg_id ORDER BY raw_ref) = 1
+QUALIFY row_number() OVER (PARTITION BY msg_id ORDER BY ts_utc NULLS LAST, raw_ref) = 1
 """
 
 
@@ -459,7 +460,8 @@ def build_report(con, froot: Path, ver: str, duplicate_ids: int) -> dict:
             p: {"total": sum(c.values()), **{r: c.get(r, 0) for r in ROUTES}} for p, c in sorted(by_platform.items())
         },
         "duplicate_msg_ids": duplicate_ids,
-        "note": "多标签：一条可命中多个标记，flags 各项占比之和可大于 1；routes 三档之和为 1。",
+        "note": "多标签：一条可命中多个标记，flags 各项占比之和可大于 1；routes 三档之和为 1。"
+        "duplicate_msg_ids 是重复采到的行数（同一 msg_id 的额外行），只计数、不重复打标。",
     }
 
 
