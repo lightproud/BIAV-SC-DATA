@@ -55,6 +55,7 @@ SOURCE_MAP = {
     'steam_review': 'steam_review',
     'steam_discussion': 'steam_discussion',
     'weibo': 'weibo',
+    'taptap_review': 'taptap_review',
     'bahamut': 'bahamut',
     'appstore': 'appstore',
     'google_play': 'google_play',
@@ -180,8 +181,8 @@ def run_zero_cost_collectors() -> list[dict]:
     api_fetchers = [
         ('YouTube', c.fetch_youtube),
         ('Bahamut', c.fetch_bahamut),
-        ('Arca.live', c.fetch_arca_live),  # 守密人 2026-10-03 裁定重启（arca_live_collector.py）
-        # TapTap 采集器已整体删除（守密人 2026-09-30 裁定）
+        ('Arca.live', c.fetch_arca_live),  # 守密人 2026-10-03 裁定重启（arca_live_collector.py，T111）
+        ('TapTap', c.fetch_taptap_reviews),  # 守密人 2026-10-03 裁定重启（taptap_collector.py，T111）
         ('Google Play', c.fetch_google_play),
     ]
 
@@ -198,6 +199,7 @@ def run_zero_cost_collectors() -> list[dict]:
         'YouTube': 'youtube',
         'Bahamut': 'bahamut',
         'Arca.live': 'arca_live',
+        'TapTap': 'taptap_review',
         'Google Play': 'google_play',
     }
 

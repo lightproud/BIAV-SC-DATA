@@ -42,6 +42,8 @@ KNOWN_SOURCES = [
     'stopgame',
     # 中文补充
     'weixin',
+    # TapTap 国服评价（守密人 2026-10-03 裁定重启，T111）
+    'taptap_review',
 ]
 # twitter 已摘除（守密人 2026-07-30 裁定，归档完整性审计待裁项④）：挂名 1,126 天审计窗口
 # 零产出、归档目录从未存在（syndication 接口 API 墙）。采集器 fetch_twitter 保留在
@@ -53,11 +55,12 @@ KNOWN_SOURCES = [
 # 历史归档 Record/Community/arca_live/（2026-07-01~07-11）只读，新产出同构落回同目录。
 # 风险：Actions 运行机 IP 段仍可能被拦——被拦时列表返回空、不拖垮整轮，由静默源审计告警。
 #
-# taptap 族（taptap / taptap_review / taptap_post）采集器整体删除（守密人 2026-09-30 裁定）：
-#   自 2026-08-25 无成功——taptap_collector.py / fetch_taptap / fetch_taptap_playwright / backfill_taptap 均删。
-# 历史归档 Record/Community/taptap/ 保留不动；archive_layout 的 taptap
-# 读侧布局映射（taptap_review 折叠认领 review/ 子目录）保留，读方照常可读历史档。
-# taptap 归档目录在静默源审计里归入「遗留源（有归档但未注册采集）」只读展示，不再告警。
+# taptap 重启（守密人 2026-10-03 裁定，推翻 2026-09-30 的删除裁定，T111）：旧采集器
+# （taptap_collector 旧版 / fetch_taptap / fetch_taptap_playwright / backfill_taptap）源码不可恢复，
+# 改写为公开评价接口版 taptap_collector.fetch_taptap_reviews，注册源 taptap_review，
+# 产出落回既有 taptap/cn/review/（正式服 364992 + 测试服 374995 合并）。论坛帖子
+# （taptap/cn/post/）接口需 group_id、无登录态拿不到，暂不采；历史 post 档保留只读。
+# archive_layout 的 taptap 读侧映射一直保留。
 
 # 原始源名 → 规范源名
 SOURCE_ALIASES = {
@@ -73,7 +76,7 @@ SPARSE_SOURCES = {
     'weixin',
     'pixiv',
     'stopgame',
-    'note_com', 'ruliweb', 'bahamut', 'arca_live',   # taptap 族已删（2026-09-30）
+    'note_com', 'ruliweb', 'bahamut', 'arca_live', 'taptap_review',
     'discord',
 }
 
@@ -85,7 +88,7 @@ CORE_SOURCES = [
 
 # §4.2 R1 硬失败源：本次运行中崩溃且未被 fallback 救回即令整次失败（aggregator.py 据此）。
 # 严格子集，区别于 CORE_SOURCES（长期健康门控）：这两个是「单次跑必须有的命脉源」，
-# 不含 youtube/discord 等可因 AUTH_GATED 缺 cookie 而预期降级的源（taptap 2026-09-30 随源删除移出）。
+# 不含 youtube/discord 等可因 AUTH_GATED 缺 cookie 而预期降级的源（taptap 不在其内）。
 R1_HARD_FAIL_SOURCES = {'reddit', 'bilibili'}
 
 # 需登录态 cookie / API key 才能采集的源 → 所需环境变量名（单一真相源）。
@@ -100,7 +103,7 @@ AUTH_GATED = {
 ARCHIVE_PLATFORMS = [s for s in KNOWN_SOURCES if s != 'discord']
 
 # backfill_platforms.py 的 PLATFORM_BACKFILLERS 实际支持的源（务必与之同步）
-# taptap 回填器已随源删除（2026-09-30）；arca_live 重启（2026-10-03）暂无回填器。
+# arca_live、taptap 重启（2026-10-03）暂无回填器（旧回填器随 2026-09-30 删除）。
 BACKFILL_PLATFORMS = [
     'bilibili', 'appstore', 'steam_review',
     'pixiv', 'ruliweb', 'weixin',

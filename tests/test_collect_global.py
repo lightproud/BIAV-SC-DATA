@@ -132,6 +132,7 @@ class TestFailureAggregation(unittest.TestCase):
             "YouTube": "fetch_youtube",
             "Bahamut": "fetch_bahamut",
             "Arca.live": "fetch_arca_live",
+            "TapTap": "fetch_taptap_reviews",
             "Google Play": "fetch_google_play",
         }
         patches = []
