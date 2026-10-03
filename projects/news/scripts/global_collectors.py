@@ -719,6 +719,16 @@ def fetch_taptap_reviews():
     return taptap_collector.fetch_taptap_reviews(CUTOFF)
 
 
+def fetch_taptap_posts():
+    """TapTap 国服论坛帖子 + 回复（实现见 taptap_collector）；落 taptap/cn/post/。"""
+    return taptap_collector.fetch_taptap_posts(CUTOFF)
+
+
+def fetch_taptap_io_reviews():
+    """TapTap 国际版（taptap.io）评价（实现见 taptap_collector）；落 taptap/global/review/。"""
+    return taptap_collector.fetch_taptap_io_reviews(CUTOFF)
+
+
 def fetch_bluesky():
     """Bluesky 关键词搜索（实现见 bluesky_collector）；时窗沿用全局 CUTOFF。"""
     return bluesky_collector.fetch_bluesky(CUTOFF)

@@ -159,7 +159,7 @@
     },
     "taptap_collector": {
       "tier": "T1",
-      "why": "TapTap 国服评价公开接口采集（T111，守密人 2026-10-03 裁定重启），供 collect_global 调度"
+      "why": "TapTap 国服评价 + 国服论坛帖子与回复 + 国际版评价公开接口采集（T111，守密人 2026-10-03 裁定重启 / 批准），供 collect_global 调度"
     },
     "bluesky_collector": {
       "tier": "T1",

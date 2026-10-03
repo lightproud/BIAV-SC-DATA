@@ -44,6 +44,8 @@ KNOWN_SOURCES = [
     'weixin',
     # TapTap 国服评价（守密人 2026-10-03 裁定重启，T111）
     'taptap_review',
+    # TapTap 国服论坛帖子 + 回复（落 taptap/cn/post/，守密人 2026-10-03 批准）
+    'taptap',
     # Bluesky 公开帖搜索（X 不付费的替代，守密人 2026-10-03 裁定）
     'bluesky',
     # Telegram 公开频道（官方单向发布）+ Misskey 日本 Fediverse（守密人 2026-10-03 批准）
@@ -68,9 +70,10 @@ KNOWN_SOURCES = [
 # taptap 重启（守密人 2026-10-03 裁定，推翻 2026-09-30 的删除裁定，T111）：旧采集器
 # （taptap_collector 旧版 / fetch_taptap / fetch_taptap_playwright / backfill_taptap）源码不可恢复，
 # 改写为公开评价接口版 taptap_collector.fetch_taptap_reviews，注册源 taptap_review，
-# 产出落回既有 taptap/cn/review/（正式服 364992 + 测试服 374995 合并）。论坛帖子
-# （taptap/cn/post/）接口需 group_id、无登录态拿不到，暂不采；历史 post 档保留只读。
-# archive_layout 的 taptap 读侧映射一直保留。
+# 产出落回既有 taptap/cn/review/（正式服 364992 + 测试服 374995 合并）。论坛帖子 + 回复
+# 已于同日（守密人批准）实现：注册源 taptap，落 taptap/cn/post/，与历史 post 档同构；
+# 国际版评价（taptap.io）沿用 taptap_review + region=global 落 taptap/global/review/。
+# archive_layout 的 taptap 映射一直保留，无需新增。
 
 # 原始源名 → 规范源名
 SOURCE_ALIASES = {
@@ -86,7 +89,7 @@ SPARSE_SOURCES = {
     'weixin',
     'pixiv',
     'stopgame',
-    'note_com', 'ruliweb', 'bahamut', 'arca_live', 'taptap_review',
+    'note_com', 'ruliweb', 'bahamut', 'arca_live', 'taptap_review', 'taptap',
     'bluesky', 'facebook',
     'telegram', 'misskey',
     'reddit_comment', 'bilibili_comment',

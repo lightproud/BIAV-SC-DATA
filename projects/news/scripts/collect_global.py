@@ -58,6 +58,7 @@ SOURCE_MAP = {
     'steam_discussion': 'steam_discussion',
     'weibo': 'weibo',
     'taptap_review': 'taptap_review',
+    'taptap': 'taptap',
     'bluesky': 'bluesky',
     'telegram': 'telegram',
     'misskey': 'misskey',
@@ -189,6 +190,8 @@ def run_zero_cost_collectors() -> list[dict]:
         ('Bahamut', c.fetch_bahamut),
         ('Arca.live', c.fetch_arca_live),  # 守密人 2026-10-03 裁定重启（arca_live_collector.py，T111）
         ('TapTap', c.fetch_taptap_reviews),  # 守密人 2026-10-03 裁定重启（taptap_collector.py，T111）
+        ('TapTap Posts', c.fetch_taptap_posts),  # 国服论坛帖子 + 回复 → taptap/cn/post/（守密人 2026-10-03 批准）
+        ('TapTap Global', c.fetch_taptap_io_reviews),  # 国际版评价 → taptap/global/review/（守密人 2026-10-03 批准）
         ('Google Play', c.fetch_google_play),
         ('Bluesky', c.fetch_bluesky),  # 守密人 2026-10-03 裁定（bluesky_collector.py）
         ('Telegram', c.fetch_telegram),  # 官方公开频道（telegram_collector.py，守密人 2026-10-03 批准）
@@ -212,6 +215,8 @@ def run_zero_cost_collectors() -> list[dict]:
         'Bahamut': 'bahamut',
         'Arca.live': 'arca_live',
         'TapTap': 'taptap_review',
+        'TapTap Posts': 'taptap',
+        'TapTap Global': 'taptap_review_global',  # 仅健康追踪键；条目 source 仍是 taptap_review（region=global）
         'Google Play': 'google_play',
         'Bluesky': 'bluesky',
         'Telegram': 'telegram',
