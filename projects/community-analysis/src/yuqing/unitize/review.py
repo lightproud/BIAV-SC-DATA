@@ -25,7 +25,7 @@ from yuqing.config import ConfigError, check_not_in_lake, load_config
 from yuqing.normalize.clean import MESSAGES_DEDUP_SQL, current_clean_ver
 from yuqing.normalize.run import messages_root
 from yuqing.normalize.store import glob_of, parquet_files, read_rows
-from yuqing.unitize.run import unit_ver_of, units_root
+from yuqing.unitize.run import CONTENT_PARAMS, load_excluded_channels, unit_ver_of, units_root
 
 CODES = "甲乙丙丁戊己庚辛壬癸子丑寅卯辰巳午未申酉戌亥"
 _USER_MENTION = re.compile(r"<@!?(\d+)>")
@@ -53,11 +53,22 @@ def parse_days(specs: list[str] | None) -> set[date] | None:
     return out
 
 
-def pick_units(units: list[dict], channels: list[str] | None, days: set[date] | None, n: int, seed: int) -> list[dict]:
+def pick_units(
+    units: list[dict],
+    channels: list[str] | None,
+    days: set[date] | None,
+    n: int,
+    seed: int,
+    include_skipped: bool = False,
+) -> list[dict]:
+    """默认只抽要送标的单元（skip_reason 为空）；include_skipped 时连不送标的一起抽。"""
     pool = [
         u
         for u in units
-        if u["kind"] == "chat" and (not channels or u["channel"] in channels) and (days is None or u["day_cn"] in days)
+        if u["kind"] == "chat"
+        and (not channels or u["channel"] in channels)
+        and (days is None or u["day_cn"] in days)
+        and (include_skipped or not u.get("skip_reason"))
     ]
     pool.sort(key=lambda u: u["unit_id"])
     picked = random.Random(seed).sample(pool, min(n, len(pool)))
@@ -101,7 +112,9 @@ def build_segment(unit: dict, msgs: dict[str, dict]) -> list[Line]:
     body_set = set(body)
     pre = [i for i in order if i not in body_set and (start is None or msgs[i]["t"] is None or msgs[i]["t"] < start)]
     rest = [i for i in order if i not in pre]
-    lines = []
+    turn_of = dict(zip(unit["msg_ids"], unit.get("turn_ids") or range(len(unit["msg_ids"])), strict=True))
+    lines: list[Line] = []
+    last_turn = None
     for i in pre + rest:
         m = msgs[i]
         text = m["text"] or ""
@@ -112,7 +125,15 @@ def build_segment(unit: dict, msgs: dict[str, dict]) -> list[Line]:
             tgt = msgs.get(m["reply_to"]) if m["reply_to"] in in_page else None
             reply = f"回复 {codes.get(tgt['author_id'], '？')}" if tgt else "回复（不在本段）"
         who = codes.get(m["author_id"], "？")
-        lines.append(Line(i, m["t"], who, _clean_text(text, mention_codes), i not in body_set, reply))
+        text = _clean_text(text, mention_codes)
+        turn = turn_of.get(i) if i in body_set else None
+        if turn is not None and turn == last_turn and lines and not lines[-1].ctx:
+            # 连续发言并成一句：接在上一行后面换行显示
+            prev = lines[-1]
+            lines[-1] = Line(prev.msg_id, prev.t, prev.who, prev.text + "\n" + text, False, prev.reply or reply)
+            continue
+        last_turn = turn
+        lines.append(Line(i, m["t"], who, text, i not in body_set, reply))
     return lines
 
 
@@ -130,6 +151,7 @@ border-radius:10px;padding:12px;margin:14px 0}.seg.ok{border-color:var(--ok)}.se
 .m{display:flex;gap:8px;padding:3px 0;word-break:break-word;overflow-wrap:anywhere}
 .m .w{flex:0 0 auto;font-weight:600}.m .t{flex:0 0 auto;color:var(--muted);font-size:12px;padding-top:2px}
 .m.c{color:var(--ctx)}.m.c .w{font-weight:400}.r{color:var(--muted);font-size:12px;margin-right:4px}
+.m>span:last-child{white-space:pre-line}
 .sep{border-top:1px dashed var(--line);margin:6px 0;font-size:11px;color:var(--ctx)}
 .btns{display:flex;gap:8px;margin-top:10px}button{flex:1;padding:10px;border-radius:8px;border:1px solid var(--line);
 background:transparent;color:var(--fg);font-size:15px}.seg.ok .y{background:var(--okbg);border-color:var(--ok)}
@@ -177,7 +199,8 @@ def render_html(segments: list[tuple[dict, list[Line]]], meta: dict) -> str:
         cards.append(
             f'<section class="seg" data-unit="{e(u["unit_id"])}"><div class="sh">'
             f"<span>第 {k} 段 · 频道 {e(u['channel'] or '')} · {e(str(u['day_cn']))}</span>"
-            f"<span>正文 {u['n_msgs']} 条 · {u['n_authors']} 人 · 上下文 {len(u['ctx_msg_ids'])} 条</span></div>"
+            f"<span>正文 {u['n_msgs']} 条（{u.get('n_turns') or u['n_msgs']} 句） · {u['n_authors']} 人 · "
+            f"上下文 {len(u['ctx_msg_ids'])} 条</span></div>"
             f"{''.join(rows)}"
             '<div class="btns"><button class="y" type="button">看得懂</button>'
             '<button class="n" type="button">看不懂</button></div></section>'
@@ -232,11 +255,12 @@ def review(
     day_specs: list[str] | None,
     n: int,
     seed: int,
+    include_skipped: bool = False,
 ) -> tuple[str, int]:
     root = units_root(data_root, unit_ver)
     if not parquet_files(root):
         raise ConfigError(f"找不到 unit_ver={unit_ver} 的单元：先跑 yuqing unitize")
-    units = pick_units(read_rows(root), channels, parse_days(day_specs), n, seed)
+    units = pick_units(read_rows(root), channels, parse_days(day_specs), n, seed, include_skipped)
     want = {i for u in units for i in u["msg_ids"] + u["ctx_msg_ids"]}
     msgs = load_messages(data_root, want)
     segments = []
@@ -248,7 +272,7 @@ def review(
         "n": n,
         "channels": sorted(channels or []),
         "days": ",".join(day_specs or []),
-        "params": {k: params[k] for k in ("gap_minutes", "max_msgs", "overlap_msgs", "ctx_inline_max")},
+        "params": {k: params[k] for k in CONTENT_PARAMS if k in params},
     }
     return render_html(segments, meta), len(segments)
 
@@ -260,15 +284,16 @@ def add_args(p: argparse.ArgumentParser) -> None:
     p.add_argument("--seed", type=int, default=1, help="随机种子（默认 1）")
     p.add_argument("--out", required=True, help="输出的 HTML 路径（必须在仓库外）")
     p.add_argument("--unit-ver", help="用哪一版单元（默认按当前配置算出的 unit_ver）")
+    p.add_argument("--include-skipped", action="store_true", help="连不送标的单元（闲聊频道、低内容）一起抽")
 
 
 def run_cli(args: argparse.Namespace) -> int:
     cfg = load_config()
     data_root = cfg.data_root()
     params = cfg.params["unitize"]
-    unit_ver = args.unit_ver or unit_ver_of(params, args.clean_ver or current_clean_ver(cfg))
+    unit_ver = args.unit_ver or unit_ver_of(params, args.clean_ver or current_clean_ver(cfg), load_excluded_channels())
     out = check_not_in_lake(Path(args.out), "检查页")
-    page, k = review(data_root, unit_ver, params, args.channel, args.day, args.n, args.seed)
+    page, k = review(data_root, unit_ver, params, args.channel, args.day, args.n, args.seed, args.include_skipped)
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(page, encoding="utf-8")
     print(f"试切检查页：{k} 段（unit_ver {unit_ver}，seed {args.seed}）→ {out}")

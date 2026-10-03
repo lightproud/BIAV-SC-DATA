@@ -4,14 +4,18 @@
 - `unit_ver` = 切段规则版本 + 切段参数 + clean_ver 的哈希；`unit_id` = 哈希(unit_ver + 首条 msg_id)。
   同参数重跑编号不变、已有的单元不重写；参数一改就是新的 unit_ver 目录，旧的不动。
 - 封口：默认按当前时间，最后一条距今不足 seal_minutes 的段先不输出；`--replay` 回放历史时全部封口。
+- 不送标的单元照样切出来，只打 `skip_reason`（守密人 2026-10-03）：
+  `chitchat_channel`（config/channels.toml 里的纯闲聊频道）、
+  `low_content`（聊天单元里最长一句都不到 low_content_max_chars 字）。默认只把 skip_reason 为空的送标。
 """
 
 from __future__ import annotations
 
 import argparse
 import json
+import tomllib
 from collections.abc import Iterator
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import UTC, datetime
 from pathlib import Path
 
@@ -23,9 +27,18 @@ from yuqing.normalize.run import messages_root
 from yuqing.normalize.store import StagedWriter, duckdb_connect, glob_of, parquet_files, short_hash
 from yuqing.unitize.segment import ANNOTATE, Msg, Seg, n_authors, segment_chat, unit_lang
 
-UNIT_RULE_VER = "q9-1"
+UNIT_RULE_VER = "q9-2"  # 2：连续发言并句、skip_reason（2026-10-03）
 CTX_TEXT_MAX = 200
-CONTENT_PARAMS = ("gap_minutes", "max_msgs", "overlap_msgs", "ctx_inline_max")  # seal_minutes 只管时机，不进版本
+CONTENT_PARAMS = (
+    "gap_minutes", "max_msgs", "overlap_msgs", "ctx_inline_max", "turn_gap_seconds", "low_content_max_chars",
+)  # fmt: skip
+# seal_minutes 只管时机，不进版本
+SKIP_CHITCHAT, SKIP_LOW = "chitchat_channel", "low_content"
+# 低内容判定用的「字母当量」长度：汉字、假名、谚文一个顶三个字母（一个汉字的信息量约合英文三四个字母）
+TEXT_LEN_SQL = (
+    "length(trim(text)) + 2 * length(regexp_replace(text, '[^\\p{Han}\\p{Hiragana}\\p{Katakana}\\p{Hangul}]', '', 'g'))"
+    " AS text_len"
+)
 
 UNITS_SCHEMA = pa.schema(
     [
@@ -46,13 +59,34 @@ UNITS_SCHEMA = pa.schema(
         ("n_msgs", pa.int32()),
         ("n_authors", pa.int32()),
         ("clean_ver", pa.string()),
+        ("turn_ids", pa.list_(pa.int32())),
+        ("n_turns", pa.int32()),
+        ("skip_reason", pa.string()),
     ]
 )
 
 
-def unit_ver_of(unitize_params: dict, clean_ver: str) -> str:
+def channels_path() -> Path:
+    from yuqing.annotate.schema import config_dir
+    from yuqing.config import project_root
+
+    p = config_dir() / "channels.toml"
+    return p if p.is_file() else project_root() / "config" / "channels.toml"
+
+
+def load_excluded_channels(path: Path | None = None) -> frozenset[tuple[str, str]]:
+    path = path or channels_path()
+    if not Path(path).is_file():
+        return frozenset()
+    with Path(path).open("rb") as fh:
+        doc = tomllib.load(fh)
+    return frozenset((str(e["platform"]), str(e["channel"])) for e in doc.get("exclude", []))
+
+
+def unit_ver_of(unitize_params: dict, clean_ver: str, excluded: frozenset[tuple[str, str]] = frozenset()) -> str:
     p = {k: unitize_params[k] for k in CONTENT_PARAMS}
-    return short_hash(UNIT_RULE_VER, json.dumps(p, sort_keys=True), clean_ver, n=12)
+    chans = short_hash(*sorted(f"{a}\x1f{b}" for a, b in excluded))
+    return short_hash(UNIT_RULE_VER, json.dumps(p, sort_keys=True), clean_ver, chans, n=12)
 
 
 def unit_id_of(unit_ver: str, first_msg_id: str) -> str:
@@ -80,11 +114,12 @@ class UnitizeResult:
     unsealed: int = 0
     chat_units: int = 0
     root: Path | None = None
+    skipped: dict = field(default_factory=dict)
 
 
 _COLS = (
     "msg_id, platform, community, server, channel, kind, parent_ref, parent_text, author_id, "
-    "epoch(ts_utc) AS t, day_cn, lang, reply_to, route"
+    "epoch(ts_utc) AS t, day_cn, lang, reply_to, route, text_len"
 )
 
 
@@ -102,7 +137,19 @@ def _stream_rows(con, batch: int = 50_000) -> Iterator[dict]:
         yield from rb.to_pylist()
 
 
-def _unit_row(seg: Seg, head: dict, unit_ver: str, clean_ver: str, ctx_text: str | None) -> dict:
+def _skip_reason(seg: Seg, head: dict, excluded: frozenset[tuple[str, str]], low_max: int) -> str | None:
+    if (head["platform"], head["channel"]) in excluded:
+        return SKIP_CHITCHAT
+    if head["kind"] == "chat" and low_max > 0:
+        per_turn: dict[int, int] = {}
+        for m, k in zip(seg.body, seg.turns or range(len(seg.body)), strict=True):
+            per_turn[k] = per_turn.get(k, 0) + m.text_len
+        if max(per_turn.values()) < low_max:
+            return SKIP_LOW
+    return None
+
+
+def _unit_row(seg: Seg, head: dict, unit_ver: str, clean_ver: str, ctx_text: str | None, skip: str | None) -> dict:
     body = seg.body
     times = [m.t for m in body if m.t is not None]
     return {
@@ -123,11 +170,16 @@ def _unit_row(seg: Seg, head: dict, unit_ver: str, clean_ver: str, ctx_text: str
         "n_msgs": len(body),
         "n_authors": n_authors(body),
         "clean_ver": clean_ver,
+        "turn_ids": list(seg.turns) if seg.turns else list(range(len(body))),
+        "n_turns": seg.n_turns,
+        "skip_reason": skip,
     }
 
 
 def _msg(r: dict) -> Msg:
-    return Msg(r["msg_id"], r["t"], r["route"], r["author_id"], r["reply_to"], r["lang"], r["day_cn"])
+    return Msg(
+        r["msg_id"], r["t"], r["route"], r["author_id"], r["reply_to"], r["lang"], r["day_cn"], r["text_len"] or 0
+    )
 
 
 def unitize(
@@ -136,6 +188,7 @@ def unitize(
     clean_ver: str,
     now: datetime | None = None,
     replay: bool = False,
+    excluded: frozenset[tuple[str, str]] | None = None,
 ) -> UnitizeResult:
     data_root = Path(data_root)
     mroot = messages_root(data_root)
@@ -143,7 +196,8 @@ def unitize(
     if not parquet_files(froot):
         raise ConfigError(f"找不到 clean_ver={clean_ver} 的 msg_flags：先跑 yuqing clean")
     p = {k: int(unitize_params[k]) for k in (*CONTENT_PARAMS, "seal_minutes")}
-    ver = unit_ver_of(p, clean_ver)
+    excluded = load_excluded_channels() if excluded is None else excluded
+    ver = unit_ver_of(p, clean_ver, excluded)
     res = UnitizeResult(ver, clean_ver, root=units_root(data_root, ver))
     gap_s, seal_s = p["gap_minutes"] * 60, p["seal_minutes"] * 60
     now_t = None if replay else (now or datetime.now(UTC)).timestamp()
@@ -151,8 +205,8 @@ def unitize(
     con = duckdb_connect(data_root)
     cols = (
         "msg_id, platform, community, server, channel, kind, parent_ref, parent_text, author_id, ts_utc, "
-        "day_cn, lang, reply_to, raw_ref"
-    )  # 切段不用正文，不读进来
+        "day_cn, lang, reply_to, raw_ref, " + TEXT_LEN_SQL
+    )  # 切段不用正文，只读长度
     con.execute(f"CREATE TEMP TABLE m AS {MESSAGES_DEDUP_SQL.format(src=f'(SELECT {cols} FROM {_pq(mroot)})')}")
     con.execute(
         f"CREATE TEMP TABLE j AS SELECT m.*, f.route FROM m JOIN {_pq(froot)} f USING (msg_id) WHERE f.route <> 'skip'"
@@ -174,9 +228,13 @@ def unitize(
         if now_t is not None and seg.end is not None and now_t - seg.end < seal_s:
             res.unsealed += 1
             return
-        row = _unit_row(seg, head, ver, clean_ver, ctx_text)
+        row = _unit_row(
+            seg, head, ver, clean_ver, ctx_text, _skip_reason(seg, head, excluded, p["low_content_max_chars"])
+        )
         if row["kind"] == "chat":
             res.chat_units += 1
+        if row["skip_reason"]:
+            res.skipped[row["skip_reason"]] = res.skipped.get(row["skip_reason"], 0) + 1
         if row["unit_id"] not in have:
             out.add(row)
 
@@ -185,7 +243,10 @@ def unitize(
             return
         head = rows[0]
         msgs = [_msg(r) for r in rows]
-        for seg in segment_chat(msgs, gap_s, p["max_msgs"], p["overlap_msgs"], p["ctx_inline_max"], reply_ok):
+        segs = segment_chat(
+            msgs, gap_s, p["max_msgs"], p["overlap_msgs"], p["ctx_inline_max"], reply_ok, p["turn_gap_seconds"]
+        )
+        for seg in segs:
             emit(seg, head)
 
     key = None
@@ -195,7 +256,7 @@ def unitize(
             if r["route"] != ANNOTATE:
                 continue
             m = _msg(r)
-            seg = Seg(body=[m], ctx=[m.reply_to] if m.reply_to in reply_ok else [])
+            seg = Seg(body=[m], ctx=[m.reply_to] if m.reply_to in reply_ok else [], turns=[0])
             text = r["parent_text"]
             emit(seg, r, text[:CTX_TEXT_MAX] if text else None)
             continue
@@ -236,5 +297,8 @@ def run_cli(args: argparse.Namespace) -> int:
         f"切段完成（unit_ver {res.unit_ver}，clean_ver {res.clean_ver}）：共 {res.units:,} 段，"
         f"其中聊天 {res.chat_units:,} 段；本次新写 {res.written:,} 段，未封口留到下一轮 {res.unsealed:,} 段。"
     )
+    if res.skipped:
+        detail = "、".join(f"{k} {v:,}" for k, v in sorted(res.skipped.items()))
+        print(f"不送标（单元照留）：{detail}；送标 {res.units - res.unsealed - sum(res.skipped.values()):,} 段。")
     print(f"产出：{res.root}")
     return 0

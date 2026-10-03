@@ -18,13 +18,14 @@ from yuqing.normalize.clean import clean
 from yuqing.normalize.messages import MESSAGES_SCHEMA
 from yuqing.normalize.run import messages_root
 from yuqing.normalize.store import parquet_files, read_rows, write_partitioned
-from yuqing.unitize.run import unit_id_of, unit_ver_of, unitize, units_root
+from yuqing.unitize.run import load_excluded_channels, unit_id_of, unit_ver_of, unitize, units_root
 from yuqing.unitize.segment import ANNOTATE, CONTEXT, Msg, segment_chat
 
 T0 = datetime(2026, 9, 1, 4, 0, tzinfo=UTC)
 PARAMS = load_config(environ={}).params
 UP = PARAMS["unitize"]
 GAP = UP["gap_minutes"] * 60
+EXC = load_excluded_channels()
 
 
 def mk(i: int, t: float | None, route: str = ANNOTATE, author: str = "a", reply_to: str | None = None) -> Msg:
@@ -186,7 +187,7 @@ def test_seal_holds_back_recent_segment(tmp_path):
 
 
 def test_rerun_stable_and_param_change_new_version(tmp_path):
-    rows = [row("a", f"第{i}句正经话", i * 30) for i in range(12)]
+    rows = [row(f"u{i % 3}", f"第{i}句正经话", i * 30) for i in range(12)]  # 轮流发言：一条一句
     data, cv = build(tmp_path, rows)
     r1 = unitize(data, UP, cv, replay=True)
     files1 = parquet_files(r1.root)
@@ -201,10 +202,10 @@ def test_rerun_stable_and_param_change_new_version(tmp_path):
     assert sorted(u["unit_id"] for u in read_rows(r_other.root)) == ids1  # 换目录重跑编号也一样
     changed = {**UP, "max_msgs": 5}
     r3 = unitize(data, changed, cv, replay=True)
-    assert r3.unit_ver != r1.unit_ver and r3.unit_ver == unit_ver_of(changed, cv)
+    assert r3.unit_ver != r1.unit_ver and r3.unit_ver == unit_ver_of(changed, cv, EXC)
     assert [u["n_msgs"] for u in sorted(read_rows(r3.root), key=lambda u: u["ts_start"])] == [5, 5, 2]
     assert all(p.read_bytes() == b for p, b in snap.items()) and parquet_files(r1.root) == files1  # 旧分区不动
-    assert unit_ver_of({**UP, "seal_minutes": 99}, cv) == r1.unit_ver  # 封口时机不改版本
+    assert unit_ver_of({**UP, "seal_minutes": 99}, cv, EXC) == r1.unit_ver  # 封口时机不改版本
 
 
 def test_requires_clean_first(tmp_path):
@@ -219,4 +220,47 @@ def test_cli_unitize(tmp_path, monkeypatch, capsys):
     monkeypatch.setenv("DATA_ROOT", str(data))
     assert cli.main(["unitize", "--replay"]) == 0
     assert "共 1 段" in capsys.readouterr().out
-    assert units_root(data, unit_ver_of(UP, _)).is_dir()
+    assert units_root(data, unit_ver_of(UP, _, EXC)).is_dir()
+
+
+# ── 2026-10-03 改定：连续发言并句、纯闲聊频道与低内容单元打 skip_reason ──
+
+
+def test_consecutive_messages_merge_into_one_turn_and_cap_counts_turns():
+    a = lambda i, t, who: mk(i, t, author=who)  # noqa: E731
+    msgs = [a(0, 0, "x"), a(1, 10, "x"), a(2, 20, "x"), a(3, 30, "y"), a(4, 40, "x"), a(5, 50, "x"), a(6, 60, "z")]
+    segs = segment_chat(msgs, GAP, 3, 0, 30, turn_gap_s=120)
+    assert [ids(s) for s in segs] == [["m0000", "m0001", "m0002", "m0003", "m0004", "m0005"], ["m0006"]]
+    assert segs[0].turns == [0, 0, 0, 1, 2, 2] and segs[0].n_turns == 3  # 上限按句计：三句满了才开新段
+    far = segment_chat([a(0, 0, "x"), a(1, 100, "x"), a(2, 230, "x")], 10_000, 30, 0, 30, turn_gap_s=120)
+    assert far[0].turns == [0, 0, 1]  # 相邻超过 turn_gap 就是新的一句
+    off = segment_chat(msgs, GAP, 3, 0, 30, turn_gap_s=0)
+    assert [len(s.body) for s in off] == [3, 3, 1]  # 关掉合并：一条一句，同旧行为
+
+
+def test_skip_reason_chitchat_channel_and_low_content(tmp_path):
+    long_ = "这次更新以后战斗动画终于可以跳过了，好评"
+    rows = [
+        row("a", long_, 0),
+        row("b", "嗯嗯嗯", 3600),
+        row("c", "ok sure", 3610),  # 两人各一句短话：低内容（3 字 = 9，7 个字母 = 7，都不到 20）
+        row("d", long_, 0, channel="chit"),
+    ]
+    data, cv = build(tmp_path, rows)
+    res = unitize(data, UP, cv, replay=True, excluded=frozenset({("discord", "chit")}))
+    by_first = {u["msg_ids"][0]: u for u in read_rows(res.root)}
+    assert by_first[rows[0]["msg_id"]]["skip_reason"] is None
+    assert by_first[rows[1]["msg_id"]]["skip_reason"] == "low_content"
+    assert by_first[rows[3]["msg_id"]]["skip_reason"] == "chitchat_channel"
+    assert res.skipped == {"low_content": 1, "chitchat_channel": 1}
+    assert len(by_first) == 3  # 不送标的单元照样切出来，不删
+    other = unitize(data, UP, cv, replay=True, excluded=frozenset())
+    assert other.unit_ver != res.unit_ver  # 频道名单进版本
+
+
+def test_turn_merge_end_to_end_keeps_every_message(tmp_path):
+    rows = [row("a", "我想说的是", 0), row("a", "这个卡池的保底实在太深了", 5), row("b", "确实如此", 20)]
+    data, cv = build(tmp_path, rows)
+    u = read_rows(unitize(data, UP, cv, replay=True).root)[0]
+    assert u["msg_ids"] == [r["msg_id"] for r in rows] and u["turn_ids"] == [0, 0, 1] and u["n_turns"] == 2
+    assert u["n_msgs"] == 3 and u["skip_reason"] is None

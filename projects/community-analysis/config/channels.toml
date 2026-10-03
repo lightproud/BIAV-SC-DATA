@@ -1,0 +1,19 @@
+# 频道定性（守密人 2026-10-03）：只剔除纯闲聊频道；官方公告、晒卡、同人、各语种讨论区都保留（「其他都有帮助」）。
+# 剔除的频道照常切段，单元打 skip_reason = "chitchat_channel"、默认不送标；单元不删，查询时照样能翻。
+# 按「平台 + 频道（channel 列，Discord 即频道目录名）」认；name 只作注释。
+# 设了环境变量 YUQING_CONFIG_DIR 时改读那里的 channels.toml。
+
+[[exclude]]
+platform = "discord"
+channel = "08125010"
+name = "global / 🔸general-chat"
+
+[[exclude]]
+platform = "discord"
+channel = "19456266"
+name = "global / 🔸课间休息闲聊"
+
+[[exclude]]
+platform = "discord"
+channel = "25166160"
+name = "jp / 🍵雑談（论坛）"
