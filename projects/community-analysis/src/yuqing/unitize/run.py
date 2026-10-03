@@ -215,9 +215,17 @@ def add_args(p: argparse.ArgumentParser) -> None:
     p.add_argument("--replay", action="store_true", help="回放历史：全部封口（不等 seal_minutes）")
     p.add_argument("--now", help="当前时间（ISO 8601，测试与复算用；默认取系统时间）")
     p.add_argument("--clean-ver", help="用哪一版 msg_flags（默认按当前配置算出的 clean_ver）")
+    sub = p.add_subparsers(dest="unitize_cmd", metavar="<动作>")
+    from yuqing.unitize.review import add_args as add_review_args
+
+    add_review_args(sub.add_parser("review", help="试切检查包：抽 N 段出单文件 HTML（T13）"))
 
 
 def run_cli(args: argparse.Namespace) -> int:
+    if getattr(args, "unitize_cmd", None) == "review":
+        from yuqing.unitize.review import run_cli as review_cli
+
+        return review_cli(args)
     cfg = load_config()
     data_root = cfg.data_root()
     clean_ver = args.clean_ver or current_clean_ver(cfg)
