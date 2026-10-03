@@ -16,6 +16,20 @@
 HTTP/XML 错误向编排抛出，不用空列表掩盖故障；正常无新发布允许空结果。
 来源已登记为稀疏源、日期归档源及 T1 模块，进入现有审计。
 
+## 收件箱通道（arca.live，T111，守密人 2026-10-03「方案 A」）
+
+arca.live 对 GitHub Actions 机房 IP 返回 403，但 Claude 云会话容器带浏览器 UA 可访问，故采集改由每日云会话例程在容器里跑，
+产出经「收件箱分支」交回数据仓，不产生每日 PR：
+
+1. 例程：`git clone` 本仓 → `python projects/news/scripts/arca_live_collector.py --hours 36 --out arca/<YYYYMMDDTHHMM>.json`
+   （只写该文件，不写 `Record/`；被拦或零条也写文件，被拦带 `"blocked": true`）→ 把该文件提交到孤儿分支 `inbox/arca` 并推送。
+2. 入湖：`.github/workflows/arca-inbox-ingest.yml` 每 3 小时（或手动）拉 `origin/inbox/arca`，把 `arca/*.json` 交给
+   `projects/news/scripts/ingest_inbox.py`；后者沿用 `archive_platforms.write_archive` / `item_key`，按条目自身日期（UTC+8）
+   写 `Record/Community/arca_live/{date}.json`，与 collect_global 产出同构；已入湖文件登记在
+   `projects/news/data/inbox_ingested.json`（文件名 -> sha256），重复跑幂等；提交到 main，加 `[skip ci]`。
+3. 分支不存在时工作流正常退出；定时同样受仓库变量 `COLLECTION_ENABLED` 控制，手动触发不受限。
+   `update-news.yml` 里的 `Arca.live` 采集器在 Actions 上仍会被拦并降级为空，属预期。
+
 ## 每日补充检索
 
 已建立 ChatGPT 定时任务“忘却前夜新闻补充采集”，从 2026-10-02 起每天北京时间
@@ -25,7 +39,7 @@ HTTP/XML 错误向编排抛出，不用空列表掩盖故障；正常无新发�
 检索范围：X 官方英日账号、贴吧、Facebook、QooApp、theqoo、Bluesky、Tumblr、
 SomethingAwful、NGA、小红书，以及中英日韩俄语媒体遗漏。此清单是待复核范围，
 不代表这些来源均已证实无法机械化或都已成功读取；找到可靠公开 RSS/API 后继续
-实测接入。TapTap、arca_live 沿用退役决定，不恢复。
+实测接入。TapTap、arca_live 已于 2026-10-03 重启（arca_live 走上节收件箱通道）。
 
 检查结果落 `Record/NewsDiscovery/YYYY-MM-DD.json`，同日追加、不覆盖历史；包括
 来源访问状态、核验依据与新增条目，按原始 URL 跨日去重。使用搜索摘要/镜像的条目

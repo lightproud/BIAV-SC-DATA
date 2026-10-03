@@ -73,6 +73,8 @@ class Page:
         return self.snapshots[self.position]
 
     def evaluate(self, expression):
+        if 'scrollTo' not in expression:
+            return ''  # T109 DOM 骨架探针，不算滚动
         self.scrolls += 1
         self.position = min(self.position + 1, len(self.snapshots) - 1)
 

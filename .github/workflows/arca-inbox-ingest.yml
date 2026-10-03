@@ -1,0 +1,79 @@
+name: Arca Inbox Ingest
+
+# T111（守密人 2026-10-03「方案 A」）：arca.live 对 Actions 机房 IP 返回 403，
+# 改由 Claude 云会话例程每日采集，结果 JSON 提交到本仓孤儿分支 inbox/arca 的 arca/*.json（收件箱）。
+# 本工作流每 3 小时把收件箱并入 Record/Community/arca_live/ 并提交到 main。
+# 说明见 projects/news/NEWS_SOURCES.md「收件箱通道」。本仓公开，日志勿打印凭据。
+# 定时只在仓库变量 COLLECTION_ENABLED=true 后生效，手动触发不受限。
+on:
+  schedule:
+    - cron: '30 */3 * * *'
+  workflow_dispatch:
+
+# 与 update-news 同属写 Record/ 的作业，共用提交面：独立并发组，不取消排队中的运行。
+concurrency:
+  group: arca-inbox-ingest-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    if: (github.ref == 'refs/heads/main') && (github.event_name == 'workflow_dispatch' || vars.COLLECTION_ENABLED == 'true')
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      BIAV_SC_DATA_ROOT: ${{ github.workspace }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          sparse-checkout: |
+            projects/news
+            Record/Community/arca_live
+          sparse-checkout-cone-mode: true
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r projects/news/requirements.txt
+
+      - name: Fetch inbox branch
+        id: inbox
+        run: |
+          if git fetch --depth=1 origin inbox/arca:refs/remotes/origin/inbox/arca 2>/dev/null; then
+            rm -rf "$RUNNER_TEMP/inbox" && mkdir -p "$RUNNER_TEMP/inbox"
+            # 只取 arca/*.json，绕开稀疏检出限制
+            git archive refs/remotes/origin/inbox/arca arca 2>/dev/null | tar -x -C "$RUNNER_TEMP/inbox" || true
+            echo "found=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "inbox/arca 分支不存在，无事可做"
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Ingest inbox
+        if: steps.inbox.outputs.found == 'true'
+        run: python projects/news/scripts/ingest_inbox.py "$RUNNER_TEMP/inbox/arca"
+
+      - name: Commit archive + state → main
+        if: steps.inbox.outputs.found == 'true'
+        run: |
+          set -euo pipefail
+          git config user.name "Erica (BIAV-SC)"
+          git config user.email "lightproud@hotmail.com"
+          git add Record/Community/arca_live projects/news/data/inbox_ingested.json
+          if git diff --staged --quiet; then
+            echo "No inbox changes to commit"
+            exit 0
+          fi
+          git commit -m "data: arca.live 收件箱入湖 [skip ci]"
+          for i in 1 2 3 4; do
+            git pull --rebase origin main && git push origin main && exit 0
+            git rebase --abort 2>/dev/null || true
+            echo "Push attempt $i failed, retrying in ${i}s..."
+            sleep $i
+          done
+          echo "All push attempts failed"
+          exit 1
