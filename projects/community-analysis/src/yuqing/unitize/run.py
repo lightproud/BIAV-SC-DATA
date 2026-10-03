@@ -15,13 +15,12 @@ from dataclasses import dataclass
 from datetime import UTC, datetime
 from pathlib import Path
 
-import duckdb
 import pyarrow as pa
 
 from yuqing.config import ConfigError, load_config
 from yuqing.normalize.clean import MESSAGES_DEDUP_SQL, current_clean_ver, flags_root
 from yuqing.normalize.run import messages_root
-from yuqing.normalize.store import glob_of, parquet_files, short_hash, write_partitioned
+from yuqing.normalize.store import StagedWriter, duckdb_connect, glob_of, parquet_files, short_hash
 from yuqing.unitize.segment import ANNOTATE, Msg, Seg, n_authors, segment_chat, unit_lang
 
 UNIT_RULE_VER = "q9-1"
@@ -149,8 +148,12 @@ def unitize(
     gap_s, seal_s = p["gap_minutes"] * 60, p["seal_minutes"] * 60
     now_t = None if replay else (now or datetime.now(UTC)).timestamp()
 
-    con = duckdb.connect()
-    con.execute(f"CREATE TEMP TABLE m AS {MESSAGES_DEDUP_SQL.format(src=_pq(mroot))}")
+    con = duckdb_connect(data_root)
+    cols = (
+        "msg_id, platform, community, server, channel, kind, parent_ref, parent_text, author_id, ts_utc, "
+        "day_cn, lang, reply_to, raw_ref"
+    )  # 切段不用正文，不读进来
+    con.execute(f"CREATE TEMP TABLE m AS {MESSAGES_DEDUP_SQL.format(src=f'(SELECT {cols} FROM {_pq(mroot)})')}")
     con.execute(
         f"CREATE TEMP TABLE j AS SELECT m.*, f.route FROM m JOIN {_pq(froot)} f USING (msg_id) WHERE f.route <> 'skip'"
     )
@@ -164,7 +167,7 @@ def unitize(
     if parquet_files(res.root):
         have = {r[0] for r in con.execute(f"SELECT unit_id FROM {_pq(res.root)}").fetchall()}
 
-    out: list[dict] = []
+    out = StagedWriter(res.root, UNITS_SCHEMA, key="unit_id", order="day_cn, ts_start NULLS LAST, unit_id")
 
     def emit(seg: Seg, head: dict, ctx_text: str | None = None) -> None:
         res.units += 1
@@ -175,7 +178,7 @@ def unitize(
         if row["kind"] == "chat":
             res.chat_units += 1
         if row["unit_id"] not in have:
-            out.append(row)
+            out.add(row)
 
     def flush_stream(rows: list[dict]) -> None:
         if not rows:
@@ -202,12 +205,8 @@ def unitize(
             key, buf = k, []
         buf.append(r)
     flush_stream(buf)
+    res.written = out.close(con, ver)
     con.close()
-
-    if out:
-        tag = short_hash(ver, *sorted(u["unit_id"] for u in out))
-        write_partitioned(res.root, out, UNITS_SCHEMA, tag, sort_key=lambda u: (u["ts_start"] is None, u["unit_id"]))
-        res.written = len(out)
     return res
 
 

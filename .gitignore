@@ -32,3 +32,5 @@ data-repo/
 
 # 舆情系统：messages 能从数据湖原样重算（约 7 分钟），不进 git；其余产出进 git（守密人 2026-10-03）
 projects/community-analysis/data/messages/
+projects/community-analysis/data/.tmp/
+projects/community-analysis/data/**/.stage-*/
