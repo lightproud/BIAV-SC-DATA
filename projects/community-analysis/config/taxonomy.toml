@@ -1,0 +1,51 @@
+# 标注词表（样例版）。改任何一项都要升 taxo_ver。
+# 真实版本放仓库外目录，经环境变量 YUQING_CONFIG_DIR 注入；未设时回落本档（推进计划 §二.2）。
+# 每项：id（入库的值，小写蛇形）= 中文说明（写进提示词，供模型判断）。
+
+taxo_ver = "sample-1"
+
+[emotion]  # 数据契约固定六类，不随词表增减
+anger = "愤怒：骂、指责、不满到情绪化"
+disappointment = "失望：期待落空、觉得变差了"
+worry = "担忧：对未来走向不放心、怕出问题"
+anticipation = "期待：盼着某个内容、版本、角色"
+satisfaction = "满意：认可、喜欢、夸奖"
+joking = "玩梗：调侃、玩笑，态度不明显指向好坏"
+
+[aspects]
+gameplay = "玩法与战斗"
+balance = "数值与平衡"
+progression = "养成与肝度"
+gacha = "抽卡、概率与保底"
+monetization = "付费内容与定价"
+rewards = "福利与资源产出"
+story = "剧情与文案"
+character = "角色塑造与人设"
+art = "美术、立绘与动画"
+audio = "音乐、音效与配音"
+ui_ux = "界面与操作手感"
+performance = "性能、发热、加载"
+bug = "程序错误与异常"
+event = "活动与版本内容"
+collab = "联动"
+social = "社区与多人互动"
+localization = "翻译与本地化"
+operations = "运营、公告与沟通"
+customer_service = "客服与补偿"
+
+[self_identity]  # 只在原文明说时填
+newcomer = "新玩家"
+veteran = "老玩家"
+returning = "回流玩家"
+payer = "付费玩家"
+f2p = "零氪玩家"
+creator = "内容创作者"
+
+[self_intent]  # 只在原文明说时填
+quit = "已经或马上退坑"
+considering_quit = "考虑退坑"
+return = "回归"
+spend = "打算付费"
+stop_spending = "停止付费"
+recommend = "推荐给别人"
+stay = "继续玩"
