@@ -29,3 +29,9 @@
 - 内容：一条命令输入题目、选项、范围 → 先出 50–100 条抽验页（校准阈值）→ 过关后对全量单元运行 → 单文件 HTML 报告（命中数、独立发言人、代表原文加 raw_ref）。
 - 前提：第 1 阶段（T10–T12）完成；不依赖第 2 阶段。
 - 建议：第 1 阶段做完后再提请；属方案范围外，需守密人批。挂账 BIAV-SC-CODE `memory/todo.md` T108。
+
+## Q6 T20 / T21 施工中的取舍（2026-10-03，不阻塞）
+- `runs` 台账落 `DATA_ROOT/runs/` 的 JSONL（逐次调用行 + 运行汇总行 + 收尾报告），未用 Parquet：台账小、只追加，JSONL 零依赖。建议：T30 查询层需要时由 DuckDB 直接读 JSONL。
+- `yuqing llm ping` 同样受预算约束：人工验收时需临时设 `YUQING_BUDGET_TOKENS_PER_RUN` 与 `YUQING_BUDGET_TOKENS_PER_DAY`（各几百即可）。
+- 单元内任一反馈点不合契约即整单元判无效、重发一次（不只丢那个点）。理由：半截结果混进库里更难查。建议 G2 时看 failed 率，过高再放宽。
+- `self_identity`、`self_intent` 按词表枚举校验（样例里各 6、7 项）；真实词表随 `YUQING_CONFIG_DIR` 注入时由人定。
