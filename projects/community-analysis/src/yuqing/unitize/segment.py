@@ -6,6 +6,10 @@
   上下文不算正文、不占 max_msgs 名额，也不参与作者计数。
 - 连续发言（守密人 2026-10-03）：同一人连发、中间没有别人的正文、相邻不超过 turn_gap 秒，算同一「句」；
   max_msgs 按句计，一句不会被切到两段。turn_gap 为 0 时不合并，一条一句。
+- 冷门频道防碎（守密人 2026-10-03）：
+  回复关系——一条正文回复的是当前段里的消息，reply_window 秒内都不切开；
+  碎片并回——一段只有 attach_max_turns 句以内、离前一段不超过 attach 秒，就并进前一段（前一段并后不超过 max_msgs 句）。
+  两项为 0 时关闭，同旧行为。
 """
 
 from __future__ import annotations
@@ -65,13 +69,40 @@ def segment_chat(
     inline_max: int,
     reply_ok: set[str] | frozenset[str] = frozenset(),
     turn_gap_s: float = 0,
+    reply_window_s: float = 0,
+    attach_s: float = 0,
+    attach_max_turns: int = 2,
 ) -> list[Seg]:
     """msgs 须是同一条流、按 (t, msg_id) 排好；t 为空的正文各自成段（排在最后）。"""
     body = [m for m in msgs if m.route == ANNOTATE and m.t is not None]
     segs: list[Seg] = []
+    cur_ids: set[str] = set()
+
+    def absorb_fragment() -> None:
+        """当前最后一段若是碎片、离前一段够近，就并进前一段。"""
+        if attach_s <= 0 or len(segs) < 2:
+            return
+        prev, frag = segs[-2], segs[-1]
+        if frag.n_turns > attach_max_turns or frag.start - prev.end > attach_s:
+            return
+        if prev.n_turns + frag.n_turns > max_msgs:
+            return
+        base = prev.n_turns
+        prev.body += frag.body
+        prev.turns += [base + k for k in frag.turns]
+        segs.pop()
+
     for m in body:
         cur = segs[-1] if segs else None
-        if cur is not None and m.t - cur.end <= gap_s:
+        near = cur is not None and m.t - cur.end <= gap_s
+        replying = (
+            cur is not None
+            and reply_window_s > 0
+            and m.reply_to is not None
+            and m.reply_to in cur_ids
+            and m.t - cur.end <= reply_window_s
+        )
+        if near or replying:
             last = cur.body[-1]
             same_turn = (
                 turn_gap_s > 0 and m.author is not None and m.author == last.author and m.t - last.t <= turn_gap_s
@@ -79,12 +110,17 @@ def segment_chat(
             if same_turn:
                 cur.body.append(m)
                 cur.turns.append(cur.turns[-1])
+                cur_ids.add(m.msg_id)
                 continue
             if cur.n_turns < max_msgs:
                 cur.body.append(m)
                 cur.turns.append(cur.turns[-1] + 1)
+                cur_ids.add(m.msg_id)
                 continue
+        absorb_fragment()
         segs.append(Seg(body=[m], turns=[0]))
+        cur_ids = {m.msg_id}
+    absorb_fragment()
     timed = len(segs)
     segs += [Seg(body=[m], turns=[0]) for m in msgs if m.route == ANNOTATE and m.t is None]
 

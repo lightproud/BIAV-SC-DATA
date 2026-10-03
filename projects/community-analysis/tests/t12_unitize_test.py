@@ -26,6 +26,7 @@ PARAMS = load_config(environ={}).params
 UP = PARAMS["unitize"]
 GAP = UP["gap_minutes"] * 60
 EXC = load_excluded_channels()
+LEGACY = {**UP, "reply_window_minutes": 0, "attach_minutes": 0}
 
 
 def mk(i: int, t: float | None, route: str = ANNOTATE, author: str = "a", reply_to: str | None = None) -> Msg:
@@ -151,7 +152,7 @@ def test_end_to_end_chat_and_comments(tmp_path):
     long_title = "很长的父帖标题" * 40
     rv = row("e", "整体不错但是卡顿", 100, kind="review", channel="global/review", parent_text=long_title)
     data, cv = build(tmp_path, [a, b, c, bot, d, th, rv])
-    res = unitize(data, UP, cv, replay=True)
+    res = unitize(data, LEGACY, cv, replay=True)  # 关掉回复关系与碎片并回，验原有的重叠、回复拉入
     us = units_of(res)
     chat = [u for u in us if u["kind"] == "chat"]
     assert [u["msg_ids"] for u in chat] == [[a["msg_id"], c["msg_id"]], [th["msg_id"]], [d["msg_id"]]]
@@ -264,3 +265,50 @@ def test_turn_merge_end_to_end_keeps_every_message(tmp_path):
     u = read_rows(unitize(data, UP, cv, replay=True).root)[0]
     assert u["msg_ids"] == [r["msg_id"] for r in rows] and u["turn_ids"] == [0, 0, 1] and u["n_turns"] == 2
     assert u["n_msgs"] == 3 and u["skip_reason"] is None
+
+
+def test_fragment_attaches_to_previous_segment_within_window():
+    msgs = [mk(i, i * 10, author="xyz"[i % 3]) for i in range(5)] + [mk(9, 40 + 20 * 60, author="w")]
+    kept = segment_chat(msgs, GAP, 30, 0, 30, attach_s=30 * 60)
+    assert [ids(s) for s in kept] == [[f"m000{i}" for i in range(5)] + ["m0009"]]  # 20 分钟后的一句并回前段
+    assert kept[0].turns == [0, 1, 2, 3, 4, 5]
+    far = segment_chat([*msgs[:5], mk(9, 40 + 40 * 60, author="w")], GAP, 30, 0, 30, attach_s=30 * 60)
+    assert len(far) == 2  # 超过 30 分钟：单独成段
+    full = segment_chat(msgs, GAP, 5, 0, 30, attach_s=30 * 60)
+    assert len(full) == 2  # 前一段已满 5 句：不并
+    big = [mk(i, i * 10, author="xyz"[i % 3]) for i in range(3)] + [
+        mk(10 + i, 1000 + i * 10, author="uvw"[i]) for i in range(3)
+    ]
+    assert len(segment_chat(big, GAP, 30, 0, 30, attach_s=30 * 60)) == 2  # 三句的段不算碎片
+
+
+def test_reply_keeps_segment_open():
+    msgs = [mk(0, 0, author="x"), mk(1, 10, author="y"), mk(2, 3600, author="z", reply_to="m0001")]
+    assert len(segment_chat(msgs, GAP, 30, 0, 30, reply_window_s=6 * 3600)) == 1  # 一小时后回的是本段：不切
+    assert len(segment_chat(msgs, GAP, 30, 0, 30, reply_window_s=1800)) == 2  # 超出回复窗口：照常切
+    other = [mk(0, 0, author="x"), mk(1, 10, author="y"), mk(2, 3600, author="z", reply_to="nope")]
+    assert len(segment_chat(other, GAP, 30, 0, 30, reply_window_s=6 * 3600)) == 2
+
+
+def test_property_holds_with_all_rules_on():
+    rng = random.Random(11)
+    for _ in range(30):
+        t, msgs = 0.0, []
+        for i in range(rng.randrange(1, 300)):
+            t += rng.choice([1, 5, 30, 90, 200, 1000, 4000])
+            rep = f"m{rng.randrange(max(i, 1)):04d}" if rng.random() < 0.3 else None
+            msgs.append(mk(i, t, rng.choice([ANNOTATE, ANNOTATE, CONTEXT]), rng.choice("abcd"), reply_to=rep))
+        segs = segment_chat(msgs, GAP, 8, 3, 30, turn_gap_s=120, reply_window_s=6 * 3600, attach_s=1800)
+        seen = [m.msg_id for s in segs for m in s.body]
+        assert sorted(seen) == sorted(m.msg_id for m in msgs if m.route == ANNOTATE) and len(seen) == len(set(seen))
+        for s in segs:
+            assert s.n_turns <= 8 and len(s.turns) == len(s.body) and s.turns == sorted(s.turns)
+
+
+def test_end_to_end_reply_joins_segment(tmp_path):
+    a = row("a", "这次活动奖励太少了", 0)
+    c = row("c", "同意，体力也不够用", 40, reply_to=a["msg_id"])
+    d = row("a", "隔了十几分钟再回一句：真的少", 40 + GAP + 600, reply_to=a["msg_id"])
+    data, cv = build(tmp_path, [a, c, d])
+    u = units_of(unitize(data, UP, cv, replay=True))
+    assert len(u) == 1 and u[0]["msg_ids"] == [a["msg_id"], c["msg_id"], d["msg_id"]]

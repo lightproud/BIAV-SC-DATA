@@ -8,6 +8,9 @@ overlap_msgs = 5        # 每段开头附上前一段最后几句作只读上下
 seal_minutes = 30       # 静默多久才封口送标
 ctx_inline_max = 30     # 段内只读上下文（纯表情、极短、接龙等 context_only 消息）每段最多收几条
 turn_gap_seconds = 120  # 连续发言：同一人连发、中间没人插话、相邻不超过这么多秒并成一句；max_msgs 按句计；0 不合并
+reply_window_minutes = 360  # 回复关系：回复当前段里消息的正文，这么久之内都不切开；0 关闭
+attach_minutes = 30     # 碎片并回：只有 attach_max_turns 句以内的段，离前一段不超过这么久就并进前一段；0 关闭
+attach_max_turns = 2
 low_content_max_chars = 20  # 低内容单元：正文最长一句不到这么长（字母当量，汉字假名谚文一个算 3），打 skip_reason=low_content、默认不送标（只对聊天）
 
 [clean]
