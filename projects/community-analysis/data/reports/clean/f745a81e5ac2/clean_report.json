@@ -1,0 +1,197 @@
+{
+  "by_platform": {
+    "appstore": {
+      "annotate": 395,
+      "context_only": 2,
+      "skip": 160,
+      "total": 557
+    },
+    "arca_live": {
+      "annotate": 148,
+      "context_only": 1,
+      "skip": 0,
+      "total": 149
+    },
+    "bahamut": {
+      "annotate": 237,
+      "context_only": 0,
+      "skip": 38,
+      "total": 275
+    },
+    "bilibili": {
+      "annotate": 3410,
+      "context_only": 357,
+      "skip": 211,
+      "total": 3978
+    },
+    "discord": {
+      "annotate": 9187105,
+      "context_only": 695646,
+      "skip": 911698,
+      "total": 10794449
+    },
+    "google_play": {
+      "annotate": 1123,
+      "context_only": 6,
+      "skip": 119,
+      "total": 1248
+    },
+    "note_com": {
+      "annotate": 45,
+      "context_only": 0,
+      "skip": 0,
+      "total": 45
+    },
+    "pixiv": {
+      "annotate": 311,
+      "context_only": 4,
+      "skip": 6,
+      "total": 321
+    },
+    "prtimes": {
+      "annotate": 2,
+      "context_only": 0,
+      "skip": 0,
+      "total": 2
+    },
+    "reddit": {
+      "annotate": 2962,
+      "context_only": 0,
+      "skip": 1457,
+      "total": 4419
+    },
+    "ruliweb": {
+      "annotate": 89,
+      "context_only": 0,
+      "skip": 0,
+      "total": 89
+    },
+    "steam": {
+      "annotate": 5701,
+      "context_only": 43,
+      "skip": 4,
+      "total": 5748
+    },
+    "stopgame": {
+      "annotate": 2,
+      "context_only": 0,
+      "skip": 0,
+      "total": 2
+    },
+    "taptap": {
+      "annotate": 1798,
+      "context_only": 0,
+      "skip": 17,
+      "total": 1815
+    },
+    "weibo": {
+      "annotate": 720,
+      "context_only": 0,
+      "skip": 3,
+      "total": 723
+    },
+    "weixin": {
+      "annotate": 7939,
+      "context_only": 0,
+      "skip": 984,
+      "total": 8923
+    },
+    "youtube": {
+      "annotate": 2138,
+      "context_only": 0,
+      "skip": 805,
+      "total": 2943
+    },
+    "youtube_comments": {
+      "annotate": 3915,
+      "context_only": 42,
+      "skip": 5,
+      "total": 3962
+    }
+  },
+  "clean_ver": "f745a81e5ac2",
+  "duplicate_msg_ids": 22799,
+  "flags": {
+    "bot": {
+      "n": 31755,
+      "share": 0.0029
+    },
+    "bot_command": {
+      "n": 10444,
+      "share": 0.001
+    },
+    "burst": {
+      "n": 2849387,
+      "share": 0.2631
+    },
+    "chorus": {
+      "n": 20136,
+      "share": 0.0019
+    },
+    "dup_long_repost": {
+      "n": 97740,
+      "share": 0.009
+    },
+    "dup_near_same_author": {
+      "n": 43340,
+      "share": 0.004
+    },
+    "dup_same_author": {
+      "n": 645417,
+      "share": 0.0596
+    },
+    "emoji_only": {
+      "n": 741737,
+      "share": 0.0685
+    },
+    "empty": {
+      "n": 53972,
+      "share": 0.005
+    },
+    "image_only": {
+      "n": 163070,
+      "share": 0.0151
+    },
+    "link_only": {
+      "n": 140976,
+      "share": 0.013
+    },
+    "long_post": {
+      "n": 15719,
+      "share": 0.0015
+    },
+    "mention_only": {
+      "n": 18826,
+      "share": 0.0017
+    },
+    "short": {
+      "n": 240610,
+      "share": 0.0222
+    },
+    "system": {
+      "n": 2373,
+      "share": 0.0002
+    }
+  },
+  "image_only": {
+    "n": 163070,
+    "share": 0.0151
+  },
+  "note": "多标签：一条可命中多个标记，flags 各项占比之和可大于 1；routes 三档之和为 1。duplicate_msg_ids 是重复采到的行数（同一 msg_id 的额外行），只计数、不重复打标。",
+  "routes": {
+    "annotate": {
+      "n": 9218040,
+      "share": 0.8512
+    },
+    "context_only": {
+      "n": 696101,
+      "share": 0.0643
+    },
+    "skip": {
+      "n": 915507,
+      "share": 0.0845
+    }
+  },
+  "rule_ver": "q9-1",
+  "total": 10829648
+}
