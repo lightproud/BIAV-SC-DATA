@@ -131,6 +131,7 @@ class TestFailureAggregation(unittest.TestCase):
             "StopGame": "fetch_stopgame", "搜狗微信": "fetch_weixin",
             "YouTube": "fetch_youtube",
             "Bahamut": "fetch_bahamut",
+            "Arca.live": "fetch_arca_live",
             "Google Play": "fetch_google_play",
         }
         patches = []
