@@ -48,6 +48,7 @@ SOURCE_MAP = {
     'bilibili': 'bilibili',
     'reddit': 'reddit',
     'reddit_comment': 'reddit_comment',
+    'bilibili_comment': 'bilibili_comment',
     'youtube': 'youtube',
     # 'steam' 不再重映射：steam 三源采集器（2026-08-22 自 AC 栈迁入）各自直接产
     # steam / steam_review / steam_discussion，旧的 steam→steam_review 映射会把官方
@@ -57,7 +58,10 @@ SOURCE_MAP = {
     'steam_discussion': 'steam_discussion',
     'weibo': 'weibo',
     'taptap_review': 'taptap_review',
+    'taptap': 'taptap',
     'bluesky': 'bluesky',
+    'telegram': 'telegram',
+    'misskey': 'misskey',
     'facebook': 'facebook',
     'bahamut': 'bahamut',
     'appstore': 'appstore',
@@ -186,10 +190,15 @@ def run_zero_cost_collectors() -> list[dict]:
         ('Bahamut', c.fetch_bahamut),
         ('Arca.live', c.fetch_arca_live),  # 守密人 2026-10-03 裁定重启（arca_live_collector.py，T111）
         ('TapTap', c.fetch_taptap_reviews),  # 守密人 2026-10-03 裁定重启（taptap_collector.py，T111）
+        ('TapTap Posts', c.fetch_taptap_posts),  # 国服论坛帖子 + 回复 → taptap/cn/post/（守密人 2026-10-03 批准）
+        ('TapTap Global', c.fetch_taptap_io_reviews),  # 国际版评价 → taptap/global/review/（守密人 2026-10-03 批准）
         ('Google Play', c.fetch_google_play),
         ('Bluesky', c.fetch_bluesky),  # 守密人 2026-10-03 裁定（bluesky_collector.py）
+        ('Telegram', c.fetch_telegram),  # 官方公开频道（telegram_collector.py，守密人 2026-10-03 批准）
+        ('Misskey', c.fetch_misskey),  # 日本 Fediverse（misskey_collector.py，守密人 2026-10-03 批准）
         ('Facebook', c.fetch_facebook_page),  # 主页评论；FB_PAGE_ID / FB_PAGE_TOKEN 未配则返回空
         ('Reddit Comments', c.fetch_reddit_comments),  # Reddit 官方 OAuth 评论采集（缺凭据返回空，reddit_comments_collector.py）
+        ('Bilibili Comments', c.fetch_bilibili_comments),  # B 站视频评论（公开接口，风控降级，bilibili_comments_collector.py）
     ]
 
     all_fetchers = zero_cost_fetchers + api_fetchers
@@ -206,10 +215,15 @@ def run_zero_cost_collectors() -> list[dict]:
         'Bahamut': 'bahamut',
         'Arca.live': 'arca_live',
         'TapTap': 'taptap_review',
+        'TapTap Posts': 'taptap',
+        'TapTap Global': 'taptap_review_global',  # 仅健康追踪键；条目 source 仍是 taptap_review（region=global）
         'Google Play': 'google_play',
         'Bluesky': 'bluesky',
+        'Telegram': 'telegram',
+        'Misskey': 'misskey',
         'Facebook': 'facebook',
         'Reddit Comments': 'reddit_comment',
+        'Bilibili Comments': 'bilibili_comment',
     }
 
     # 各采集器互相独立、采集前无共享状态 → 用线程并行（阻塞 requests 用线程即可）。

@@ -25,6 +25,10 @@
       "tier": "T1",
       "why": "arca.live 忘却前夜频道列表 + 首帖正文采集（守密人 2026-10-03 裁定重启），供 collect_global 调度"
     },
+    "bilibili_comments_collector": {
+      "tier": "T1",
+      "why": "B 站视频评论采集（公开评论接口，风控码降级），供 collect_global 调度"
+    },
     "reddit_comments_collector": {
       "tier": "T1",
       "why": "Reddit 评论采集（官方 OAuth API，缺凭据整源跳过），供 collect_global 调度"
@@ -89,6 +93,10 @@
       "tier": "T2",
       "why": "店面日巡检：Steam 店面 / 评测摘要签名 → Record/store-patrol/ 日快照 + 变更日志，独立日更工作流（2026-09-28 自 maestro SDK 示例移植）"
     },
+    "behavior_snapshot": {
+      "tier": "T2",
+      "why": "行为数据日快照：Discord / Steam / TapTap / 商店评分 / YouTube / Fandom 非发言类热度指标 → Record/Behavior/ 时间序列，独立日更工作流（2026-10-03 守密人批准）"
+    },
     "collect_video_comments": {
       "tier": "T2",
       "why": "视频评论采集 + 旧评论归档（守密人要求不丢历史），独立日更工作流"
@@ -151,11 +159,19 @@
     },
     "taptap_collector": {
       "tier": "T1",
-      "why": "TapTap 国服评价公开接口采集（T111，守密人 2026-10-03 裁定重启），供 collect_global 调度"
+      "why": "TapTap 国服评价 + 国服论坛帖子与回复 + 国际版评价公开接口采集（T111，守密人 2026-10-03 裁定重启 / 批准），供 collect_global 调度"
     },
     "bluesky_collector": {
       "tier": "T1",
       "why": "Bluesky 公开帖关键词搜索采集（守密人 2026-10-03 裁定以 Bluesky 替代付费 X），供 collect_global 调度"
+    },
+    "telegram_collector": {
+      "tier": "T1",
+      "why": "Telegram 公开频道预览页采集（官方单向发布，守密人 2026-10-03 批准），供 collect_global 调度"
+    },
+    "misskey_collector": {
+      "tier": "T1",
+      "why": "Misskey 日本 Fediverse 公开笔记搜索采集（守密人 2026-10-03 批准），供 collect_global 调度"
     },
     "facebook_page_collector": {
       "tier": "T1",

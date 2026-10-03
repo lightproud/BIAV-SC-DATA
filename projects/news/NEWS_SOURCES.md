@@ -71,6 +71,9 @@ arca.live 对 GitHub Actions 机房 IP 返回 403，但 Claude 云会话容器�
 跳过（日志 info「未配置，跳过」，不算失败源）；额度 100 请求 / 分钟，按响应头 `X-Ratelimit-Remaining/Reset` 自适应，每轮请求总数、
 每子版块帖子数、每帖 `morechildren` 次数均有上限。凭据只经环境变量读取，不入日志、不入归档。
 
+B 站视频评论：采集器 `bilibili_comments_collector.py`（源名 `bilibili_comment`，归档 `Record/Community/bilibili/cn/comment/`），免登录免签名；
+视频取本轮搜索结果 + 近 7 天已归档热门视频，评论按时间序增量，每轮请求上限 80、间隔 ≥1 秒，遇 -412 / -352 风控码即停本轮降级（保留已采部分）。
+
 ## 每日补充检索
 
 已建立 ChatGPT 定时任务“忘却前夜新闻补充采集”，从 2026-10-02 起每天北京时间
@@ -107,3 +110,29 @@ SomethingAwful、NGA、小红书，以及中英日韩俄语媒体遗漏。此清
 也不跳过采集或关闭告警。像查看店铺最后上新日期：能帮助解释店里为何安静，
 但不能证明库存账本没有漏记。Steam 公告的健康键是 `official`，评论是 `steam`，
 与归档来源及健康登记保持一致。
+
+## 行为数据日快照（守密人 2026-10-03 批准）
+
+供舆情系统做「言行对照」：玩家说了什么之外，再看他们做了什么。每天一次，抓**非发言类**热度指标，
+存成时间序列。与 `store_patrol.py` 不重复——巡检盯 Steam 价格与评测总计的变更签名，本节记的是每日数值点。
+像每天早上给各家店门口拍一张人流照片，而不是只在店招换了才记一笔。
+
+- 脚本：`projects/news/scripts/behavior_snapshot.py`（标准库）；工作流 `.github/workflows/behavior-snapshot.yml`
+  （北京时间 08:20 = UTC 00:20；受 `COLLECTION_ENABLED` 控制；手动触发可勾 `backfill`）。
+- 落点：`Record/Behavior/<source>/<YYYY>.jsonl`，每行
+  `{"date": "<UTC+8 日期>", "ts": "<UTC ISO>", "source": ..., "target": ..., "metrics": {...}}`。
+  同一 `(date, source, target)` 重跑覆盖当天行，幂等。每源独立，一个失败只记 error（退出码 1），不影响其他源落盘。
+- 请求纪律：浏览器 UA、超时 25 秒、失败重试一次、请求间隔 >= 1 秒，steamcharts 为 >= 3 秒。
+
+| source / target | 指标（metrics 字段） | 说明 |
+|---|---|---|
+| `discord` / 邀请码 `morimens`（全球服）、`2hsGcAPcs9`（日服） | `member_count` `presence_count` `guild_id` | 邀请接口的近似总人数与近似在线数，无需 token |
+| `steam` / `global`(3052450)、`jp`(4226130) | `current_players` `peak_24h_steamcharts` `yesterday_date/up/down` `reviews.{schinese,japanese,english,all}.total_positive/total_negative` | 当前在线；steamcharts 最近 24 小时在线峰值（无页面则缺）；评价直方图 `recent[]` 中标签为北京时间昨日那天的好评 / 差评（Steam 日桶按 UTC 日，是近似对齐，当日无评价时该日缺行则只记 warning）；分语言评价累计（须带 `filter=all&purchase_type=all`，否则 `num_per_page=0` 返回全 0） |
+| `taptap` / `364992` | `rating_value`（满分 10）`rating_count`；`reserve_count` `fans_count` `wish_count` | 评分来自页面 JSON-LD；预约 / 粉丝 / 想玩来自 Nuxt `__NUXT_DATA__` 序列化数组里唯一含 `fans_count` 的统计对象，且其 `review_count` 必须等于 JSON-LD 的 `ratingCount`，否则只采 JSON-LD 并记 warning，不猜 |
+| `appstore` / `global`(us)、`jp` | `average_rating` `rating_count` `version` `current_version_release_date` | iTunes lookup；global 用 us 区、jp 用 jp 区 |
+| `google_play` / `global`(en-US)、`jp`(ja-JP) | `rating_value` `rating_count` `installs_tier` `package` | 详情页 JSON-LD 评分；安装档位取页面「Downloads / ダウンロード」前的档位文本（如 `100K+`、`10万+`），找不到则缺并记 warning |
+| `youtube` / 频道 `UCF6iFnr28T4KjmVvPakmU3g`（日本版公式） | `videos[]`：`video_id` `published` `views` `star_count` | 官方 RSS 近 15 条视频的播放数与点赞星数（RSS 的 starRating count） |
+| `fandom` / `morimens` | `pages` `articles` `edits` `activeusers` | MediaWiki `siteinfo` 统计 |
+| `steamcharts` / `global`、`jp` | `players` `granularity`（`month`/`day`/`hour`）`app_id` | **仅回填**：`--backfill-steamcharts` 把 chart-data.json 全部历史原样写入（按点的 UTC+8 日期分年）；粒度由相邻点间隔判定；按 `(ts, source, target)` 去重，幂等 |
+
+注意：Discord / Steam / TapTap 等数字是各平台公开页面的近似值与累计值，用于趋势对照，不当精确账本用。
