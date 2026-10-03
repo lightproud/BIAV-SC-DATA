@@ -1,0 +1,32 @@
+{
+ "date": "2026-09-01",
+ "items": [
+  {
+   "recommendationid": "r1",
+   "review": "Great game test",
+   "author": {
+    "steamid": "s1"
+   },
+   "timestamp_created": 1788220800,
+   "voted_up": true
+  },
+  {
+   "recommendationid": "r2",
+   "review": "",
+   "author": {
+    "steamid": "s2"
+   },
+   "timestamp_created": 1788224400,
+   "voted_up": false
+  },
+  {
+   "recommendationid": "r3",
+   "review": "不错的测试评价",
+   "author": {
+    "steamid": "s3"
+   },
+   "timestamp_created": 1788228000,
+   "voted_up": true
+  }
+ ]
+}

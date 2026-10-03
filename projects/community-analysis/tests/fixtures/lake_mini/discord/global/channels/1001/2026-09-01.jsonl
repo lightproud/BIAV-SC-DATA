@@ -1,0 +1,14 @@
+{"id": "9101", "channel_id": "1001", "author_id": "u1", "author_name": "测试甲", "content": "新版本测试一下", "timestamp": "2026-09-01T01:00:00+00:00"}
+{"id": "9102", "channel_id": "1001", "author_id": "u3", "author_name": "测试丙", "content": "テストです", "timestamp": "2026-09-01T01:02:00+00:00"}
+{"id": "9103", "channel_id": "1001", "author_id": "u4", "author_name": "测试丁", "content": "테스트입니다", "timestamp": "2026-09-01T01:03:00+00:00"}
+{"id": "9104", "channel_id": "1001", "author_id": "u5", "author_name": "测试戊", "content": "+1", "timestamp": "2026-09-01T01:04:00+00:00"}
+{"id": "9105", "channel_id": "1001", "author_id": "u6", "author_name": "测试己", "content": "+1", "timestamp": "2026-09-01T01:05:00+00:00"}
+{"id": "9106", "channel_id": "1001", "author_id": "u1", "author_name": "测试甲", "content": "新版本测试一下", "timestamp": "2026-09-01T01:06:00+00:00"}
+{"id": "9107", "channel_id": "1001", "author_id": "u7", "author_name": "测试庚", "content": "😀😀", "timestamp": "2026-09-01T01:07:00+00:00"}
+{"id": "9108", "channel_id": "1001", "author_id": "u8", "author_name": "测试辛", "content": "", "timestamp": "2026-09-01T01:08:00+00:00", "attachments": [{"id": "att1", "filename": "fake.png"}]}
+{"id": "9109", "channel_id": "1001", "author_id": "u9", "author_name": "测试机器人", "content": "自动播报", "timestamp": "2026-09-01T01:09:00+00:00", "author_bot": true}
+{"id": "9110", "channel_id": "1001", "author_id": "u2", "author_name": "测试乙", "content": "", "timestamp": "2026-09-01T01:10:00+00:00", "type": 7}
+{"id": "9111", "channel_id": "1001", "author_id": "u2", "author_name": "测试乙", "content": "这是一段用来测试长文转贴判定的合成文字，长度需要超过六十个字符，所以这里多写一些内容来凑足长度，测试测试测试测试，再补几个字。", "timestamp": "2026-09-01T01:30:00+00:00"}
+{"id": "9112", "channel_id": "1001", "author_id": "u3", "author_name": "测试丙", "content": "这是一段用来测试长文转贴判定的合成文字，长度需要超过六十个字符，所以这里多写一些内容来凑足长度，测试测试测试测试，再补几个字。", "timestamp": "2026-09-01T01:31:00+00:00"}
+{"id": "9113", "channel_id": "1001", "author_id": "u4", "author_name": "测试丁", "content": "回复测试", "timestamp": "2026-09-01T01:32:00+00:00", "type": 19, "reply_to": "9111"}
+{"id": "9114", "channel_id": "1001", "author_id": "u5", "author_name": "测试戊", "content": "", "timestamp": "2026-09-01T01:33:00+00:00"}

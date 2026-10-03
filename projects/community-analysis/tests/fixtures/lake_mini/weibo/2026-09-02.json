@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "w1",
+   "text": "微博测试文本",
+   "user": {
+    "id": "wu1",
+    "screen_name": "测试庚"
+   },
+   "created_at": "2026-09-02 10:00:00",
+   "pics": []
+  },
+  {
+   "id": "w2",
+   "text": "",
+   "user": {
+    "id": "wu2",
+    "screen_name": "测试辛"
+   },
+   "created_at": "2026-09-02 11:00:00",
+   "pics": [
+    "fake.jpg"
+   ]
+  }
+ ]
+}

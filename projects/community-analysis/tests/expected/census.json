@@ -1,0 +1,640 @@
+{
+  "assumptions_vs_actual": [
+    {
+      "actual": "28",
+      "assumed": "约 8,000,000",
+      "item": "原文总条数"
+    },
+    {
+      "actual": "文字脚本 5 类（粗分，非语种）",
+      "assumed": "12 种",
+      "item": "语言数"
+    },
+    {
+      "actual": "75.00%",
+      "assumed": "方案未给数",
+      "item": "聊天类占比"
+    },
+    {
+      "actual": "67.86%",
+      "assumed": "方案未给数",
+      "item": "清洗后留存率"
+    },
+    {
+      "actual": "2.33 条/段",
+      "assumed": "方案未给数",
+      "item": "按默认参数试切的平均段长"
+    },
+    {
+      "actual": "11",
+      "assumed": "方案未给数",
+      "item": "单元总数（聊天段 + 评论帖子各一）"
+    }
+  ],
+  "census_ver": "1",
+  "lake": {
+    "files": 8,
+    "skipped": {
+      "统计快照目录 activity_daily/": 1,
+      "非日期档（索引 / 状态等）": 1
+    }
+  },
+  "params": {
+    "clean.long_repost_min_chars": 60,
+    "clean.same_author_window_hours": 24,
+    "sample_per_platform": 1000,
+    "seed": 1,
+    "short_text_max_chars": 60,
+    "unitize.gap_minutes": 10,
+    "unitize.max_msgs": 30
+  },
+  "platforms": {
+    "discord": {
+      "author_missing": 0,
+      "authors_unique": 11,
+      "bad_records": 0,
+      "by_month": {
+        "2026-08": 2,
+        "2026-09": 19
+      },
+      "chat_channels": {
+        "discord/global/channels/1001": {
+          "days": 2,
+          "gap_seconds": {
+            "p50": 60,
+            "p90": 1200,
+            "p99": 53700
+          },
+          "messages": 16,
+          "per_day_mean": 8.0
+        },
+        "discord/global/channels/1002": {
+          "days": 2,
+          "gap_seconds": {
+            "p50": 60,
+            "p90": 89940,
+            "p99": 89940
+          },
+          "messages": 3,
+          "per_day_mean": 1.5
+        },
+        "discord/jp/channels/2001": {
+          "days": 1,
+          "gap_seconds": {
+            "p50": 300,
+            "p90": 300,
+            "p99": 300
+          },
+          "messages": 2,
+          "per_day_mean": 2.0
+        }
+      },
+      "clean_trial": {
+        "drops": {
+          "bot": 1,
+          "dup_long_repost": 1,
+          "dup_same_author": 1,
+          "emoji_only": 1,
+          "empty": 1,
+          "image_only（保留不送标）": 1,
+          "system": 1
+        },
+        "kept": 14,
+        "retention": 0.6667
+      },
+      "dup": {
+        "cross_author_short": 0.0556,
+        "same_author": 0.0556
+      },
+      "fields": {
+        "fields": {
+          "attachments": {
+            "non_null": 0.0476,
+            "present": 0.0476,
+            "types": [
+              "list"
+            ]
+          },
+          "author_bot": {
+            "non_null": 0.0476,
+            "present": 0.0476,
+            "types": [
+              "bool"
+            ]
+          },
+          "author_id": {
+            "non_null": 1.0,
+            "present": 1.0,
+            "types": [
+              "str"
+            ]
+          },
+          "author_name": {
+            "non_null": 1.0,
+            "present": 1.0,
+            "types": [
+              "str"
+            ]
+          },
+          "channel_id": {
+            "non_null": 1.0,
+            "present": 1.0,
+            "types": [
+              "str"
+            ]
+          },
+          "content": {
+            "non_null": 0.8571,
+            "present": 1.0,
+            "types": [
+              "str"
+            ]
+          },
+          "id": {
+            "non_null": 1.0,
+            "present": 1.0,
+            "types": [
+              "str"
+            ]
+          },
+          "reply_to": {
+            "non_null": 0.0476,
+            "present": 0.0476,
+            "types": [
+              "str"
+            ]
+          },
+          "timestamp": {
+            "non_null": 1.0,
+            "present": 1.0,
+            "types": [
+              "str"
+            ]
+          },
+          "type": {
+            "non_null": 0.0952,
+            "present": 0.0952,
+            "types": [
+              "int"
+            ]
+          }
+        },
+        "sample_n": 21
+      },
+      "files": 4,
+      "formats": {
+        "jsonl": 3,
+        "jsonl.gz": 1
+      },
+      "kind": {
+        "chat": 21
+      },
+      "layouts": {
+        "global/channels/{id}/{date}.jsonl": 2,
+        "global/channels/{id}/{date}.jsonl.gz": 1,
+        "jp/channels/{id}/{date}.jsonl": 1
+      },
+      "messages": 21,
+      "script": {
+        "ja": 3,
+        "ko": 1,
+        "latin": 2,
+        "none": 3,
+        "zh": 9
+      },
+      "share": {
+        "emoji_only": 0.0476,
+        "empty": 0.0952,
+        "image_only": 0.0476
+      },
+      "special": {
+        "attachment": {
+          "fields_in_sample": [
+            "attachments"
+          ],
+          "filled_share": 0.0476,
+          "label": "附件"
+        },
+        "bot": {
+          "fields_in_sample": [
+            "author_bot"
+          ],
+          "filled_share": 0.0476,
+          "label": "机器人标记"
+        },
+        "native_id": {
+          "fields_in_sample": [
+            "id"
+          ],
+          "filled_share": 1.0,
+          "label": "平台原生消息 ID"
+        },
+        "reply": {
+          "fields_in_sample": [
+            "reply_to"
+          ],
+          "filled_share": 0.0476,
+          "label": "回复指向"
+        }
+      },
+      "text_len_chars": {
+        "max": 63,
+        "p50": 5,
+        "p90": 16,
+        "p99": 63
+      },
+      "timestamp_missing": 0,
+      "tokens_est": {
+        "per_msg_mean": 9.19,
+        "total": 193
+      },
+      "unitize_trial": {
+        "avg_segment_len": 2.33,
+        "segments": 6,
+        "units_total": 6
+      }
+    },
+    "steam": {
+      "author_missing": 0,
+      "authors_unique": 3,
+      "bad_records": 0,
+      "by_month": {
+        "2026-09": 3
+      },
+      "chat_channels": {},
+      "clean_trial": {
+        "drops": {
+          "empty": 1
+        },
+        "kept": 2,
+        "retention": 0.6667
+      },
+      "dup": {
+        "cross_author_short": 0.0,
+        "same_author": 0.0
+      },
+      "fields": {
+        "fields": {
+          "author": {
+            "non_null": 1.0,
+            "present": 1.0,
+            "types": [
+              "object"
+            ]
+          },
+          "recommendationid": {
+            "non_null": 1.0,
+            "present": 1.0,
+            "types": [
+              "str"
+            ]
+          },
+          "review": {
+            "non_null": 0.6667,
+            "present": 1.0,
+            "types": [
+              "str"
+            ]
+          },
+          "timestamp_created": {
+            "non_null": 1.0,
+            "present": 1.0,
+            "types": [
+              "int"
+            ]
+          },
+          "voted_up": {
+            "non_null": 1.0,
+            "present": 1.0,
+            "types": [
+              "bool"
+            ]
+          }
+        },
+        "sample_n": 3
+      },
+      "files": 1,
+      "formats": {
+        "json": 1
+      },
+      "kind": {
+        "review": 3
+      },
+      "layouts": {
+        "global/review/{date}.json": 1
+      },
+      "messages": 3,
+      "script": {
+        "latin": 1,
+        "zh": 1
+      },
+      "share": {
+        "emoji_only": 0.0,
+        "empty": 0.3333,
+        "image_only": 0.0
+      },
+      "special": {
+        "attachment": {
+          "fields_in_sample": [],
+          "filled_share": 0.0,
+          "label": "附件"
+        },
+        "bot": {
+          "fields_in_sample": [
+            "author.bot?"
+          ],
+          "filled_share": 0.0,
+          "label": "机器人标记"
+        },
+        "native_id": {
+          "fields_in_sample": [
+            "recommendationid"
+          ],
+          "filled_share": 1.0,
+          "label": "平台原生消息 ID"
+        },
+        "reply": {
+          "fields_in_sample": [],
+          "filled_share": 0.0,
+          "label": "回复指向"
+        }
+      },
+      "text_len_chars": {
+        "max": 15,
+        "p50": 7,
+        "p90": 15,
+        "p99": 15
+      },
+      "timestamp_missing": 0,
+      "tokens_est": {
+        "per_msg_mean": 3.67,
+        "total": 11
+      },
+      "unitize_trial": {
+        "avg_segment_len": 0.0,
+        "segments": 0,
+        "units_total": 2
+      }
+    },
+    "weibo": {
+      "author_missing": 0,
+      "authors_unique": 2,
+      "bad_records": 0,
+      "by_month": {
+        "2026-09": 2
+      },
+      "chat_channels": {},
+      "clean_trial": {
+        "drops": {
+          "image_only（保留不送标）": 1
+        },
+        "kept": 1,
+        "retention": 0.5
+      },
+      "dup": {
+        "cross_author_short": 0.0,
+        "same_author": 0.0
+      },
+      "fields": {
+        "fields": {
+          "created_at": {
+            "non_null": 1.0,
+            "present": 1.0,
+            "types": [
+              "str"
+            ]
+          },
+          "id": {
+            "non_null": 1.0,
+            "present": 1.0,
+            "types": [
+              "str"
+            ]
+          },
+          "pics": {
+            "non_null": 0.5,
+            "present": 1.0,
+            "types": [
+              "list"
+            ]
+          },
+          "text": {
+            "non_null": 0.5,
+            "present": 1.0,
+            "types": [
+              "str"
+            ]
+          },
+          "user": {
+            "non_null": 1.0,
+            "present": 1.0,
+            "types": [
+              "object"
+            ]
+          }
+        },
+        "sample_n": 2
+      },
+      "files": 1,
+      "formats": {
+        "json": 1
+      },
+      "kind": {
+        "post": 2
+      },
+      "layouts": {
+        "{date}.json": 1
+      },
+      "messages": 2,
+      "script": {
+        "zh": 1
+      },
+      "share": {
+        "emoji_only": 0.0,
+        "empty": 0.0,
+        "image_only": 0.5
+      },
+      "special": {
+        "attachment": {
+          "fields_in_sample": [
+            "pics"
+          ],
+          "filled_share": 0.5,
+          "label": "附件"
+        },
+        "bot": {
+          "fields_in_sample": [],
+          "filled_share": 0.0,
+          "label": "机器人标记"
+        },
+        "native_id": {
+          "fields_in_sample": [
+            "id"
+          ],
+          "filled_share": 1.0,
+          "label": "平台原生消息 ID"
+        },
+        "reply": {
+          "fields_in_sample": [],
+          "filled_share": 0.0,
+          "label": "回复指向"
+        }
+      },
+      "text_len_chars": {
+        "max": 6,
+        "p50": 0,
+        "p90": 6,
+        "p99": 6
+      },
+      "timestamp_missing": 0,
+      "tokens_est": {
+        "per_msg_mean": 3.0,
+        "total": 6
+      },
+      "unitize_trial": {
+        "avg_segment_len": 0.0,
+        "segments": 0,
+        "units_total": 1
+      }
+    },
+    "youtube": {
+      "author_missing": 0,
+      "authors_unique": 2,
+      "bad_records": 0,
+      "by_month": {
+        "2026-09": 2
+      },
+      "chat_channels": {},
+      "clean_trial": {
+        "drops": {},
+        "kept": 2,
+        "retention": 1.0
+      },
+      "dup": {
+        "cross_author_short": 0.0,
+        "same_author": 0.0
+      },
+      "fields": {
+        "fields": {
+          "author": {
+            "non_null": 1.0,
+            "present": 1.0,
+            "types": [
+              "str"
+            ]
+          },
+          "comment_id": {
+            "non_null": 1.0,
+            "present": 1.0,
+            "types": [
+              "str"
+            ]
+          },
+          "parent_id": {
+            "non_null": 0.5,
+            "present": 0.5,
+            "types": [
+              "str"
+            ]
+          },
+          "published_at": {
+            "non_null": 1.0,
+            "present": 1.0,
+            "types": [
+              "str"
+            ]
+          },
+          "text": {
+            "non_null": 1.0,
+            "present": 1.0,
+            "types": [
+              "str"
+            ]
+          }
+        },
+        "sample_n": 2
+      },
+      "files": 2,
+      "formats": {
+        "json": 2
+      },
+      "kind": {
+        "comment": 2
+      },
+      "layouts": {
+        "global/comments/{date}.json": 2
+      },
+      "messages": 2,
+      "script": {
+        "latin": 2
+      },
+      "share": {
+        "emoji_only": 0.0,
+        "empty": 0.0,
+        "image_only": 0.0
+      },
+      "special": {
+        "attachment": {
+          "fields_in_sample": [],
+          "filled_share": 0.0,
+          "label": "附件"
+        },
+        "bot": {
+          "fields_in_sample": [
+            "author.bot?"
+          ],
+          "filled_share": 0.0,
+          "label": "机器人标记"
+        },
+        "native_id": {
+          "fields_in_sample": [
+            "comment_id"
+          ],
+          "filled_share": 1.0,
+          "label": "平台原生消息 ID"
+        },
+        "reply": {
+          "fields_in_sample": [
+            "parent_id"
+          ],
+          "filled_share": 0.5,
+          "label": "回复指向"
+        }
+      },
+      "text_len_chars": {
+        "max": 15,
+        "p50": 10,
+        "p90": 15,
+        "p99": 15
+      },
+      "timestamp_missing": 0,
+      "tokens_est": {
+        "per_msg_mean": 3.5,
+        "total": 7
+      },
+      "unitize_trial": {
+        "avg_segment_len": 0.0,
+        "segments": 0,
+        "units_total": 2
+      }
+    }
+  },
+  "reader": "内置读取器（裸文本与 .gz 透明双开）",
+  "totals": {
+    "chat_share": 0.75,
+    "kept_after_clean": 19,
+    "messages": 28,
+    "retention": 0.6786,
+    "script": {
+      "ja": 3,
+      "ko": 1,
+      "latin": 5,
+      "none": 3,
+      "zh": 11
+    },
+    "tokens_est_total": 217,
+    "trial_avg_segment_len": 2.33,
+    "trial_segments": 6,
+    "trial_units_total": 11
+  }
+}

@@ -9,6 +9,7 @@
 | `Record/Community/` | 社区全量档案（Discord 三区服 + 其余平台），按日期分档；上上个月及更早压成 `.gz` 冷层 |
 | `Record/media/` | 媒体回填台账（二进制本体在 Releases） |
 | `Record/store-patrol/` | 应用商店页面每日快照与变更日志 |
+| `projects/community-analysis/` | 玩家舆情分析系统（`yuqing` 包；2026-10-03 自私有仓 BIAV-SC-CODE 迁入，施工方案与进度见该目录 `docs/`） |
 | `projects/news/scripts/` | 采集、归档、回填、冷热压缩脚本（2026-09-29 自私有仓 BIAV-SC-CODE 迁入） |
 | `projects/news/data/` | 采集跨轮状态（源健康度、游标等） |
 | `.github/workflows/` | 定时采集工作流 |
