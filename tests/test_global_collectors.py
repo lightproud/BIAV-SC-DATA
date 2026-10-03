@@ -632,5 +632,127 @@ class TestPostHelper(unittest.TestCase):
                 gc._post("https://x")
 
 
+class TestBahamutFirstPostBody(unittest.TestCase):
+    """T109 论坛首帖：列表之后按链接补抓楼主正文（测试 HTML 全为自造最小片段）。"""
+
+    LIST_HTML = (
+        '<tr class="b-list__row b-list__row--sticky b-list-item">'
+        '<a href="C.php?bsn=78829&amp;snA=1&amp;tnum=1" class="b-list__main__title">置頂</a>'
+        '<p class="b-list__count__user"><a href="u">a</a></p>'
+        '<p class="b-list__time__edittime"><a href="x">2026-06-19</a></p></tr>'
+        '<tr class="b-list__row b-list-item">'
+        '<a href="C.php?bsn=78829&amp;snA=2&amp;tnum=9">'
+        '<p class="b-list__main__title">帖二</p></a>'
+        '<p class="b-list__count__user"><a href="u">bob</a></p>'
+        '<p class="b-list__time__edittime"><a href="x">2026-06-20</a></p></tr>'
+        '<tr class="b-list__row b-list-item">'
+        '<a href="C.php?bsn=78829&amp;snA=3&amp;tnum=2">'
+        '<p class="b-list__main__title">帖三</p></a>'
+        '<p class="b-list__count__user"><a href="u">cat</a></p>'
+        '<p class="b-list__time__edittime"><a href="x">2026-06-20</a></p></tr>'
+    )
+    THREAD_HTML = (
+        '<div class="c-post__body"><article class="c-article" id="cf1">'
+        '<div class="c-article__content"><div align=center><img src="a.jpg"></div>'
+        '<div>第一行<b><font color="#f00">粗體</font></b></div><div><br></div>'
+        '<div>第二行&amp;符號<br>換行</div><script>x()</script></div></article></div>'
+        '<div class="c-post__body"><article><div class="c-article__content">'
+        '<div>這是回覆不該出現</div></div></article></div>'
+    )
+
+    def setUp(self):
+        p = mock.patch.object(gc.time, "sleep")
+        self.sleep = p.start()
+        self.addCleanup(p.stop)
+
+    def _run(self, thread_side_effect):
+        calls = []
+
+        def fake_get(url, params=None, **k):
+            calls.append((url, params))
+            if "B.php" in url:
+                return FakeResp(text=self.LIST_HTML, status_code=200)
+            return thread_side_effect(url)
+
+        with mock.patch.dict(gc.os.environ, {}, clear=True), \
+                mock.patch.object(gc, "_get", side_effect=fake_get):
+            return gc.fetch_bahamut(), calls
+
+    def test_parse_first_post_only_and_strips_html(self):
+        text = gc._parse_bahamut_first_post(self.THREAD_HTML)
+        self.assertEqual(text, "第一行粗體\n第二行&符號\n換行")
+        self.assertNotIn("回覆", text)
+        self.assertNotIn("x()", text)
+
+    def test_parse_no_body_returns_empty(self):
+        self.assertEqual(gc._parse_bahamut_first_post("<html></html>"), "")
+        self.assertEqual(gc._parse_bahamut_first_post(None), "")
+
+    def test_parse_truncates(self):
+        html = '<div class="c-article__content"><div>' + "字" * 5000 + "</div></div>"
+        self.assertEqual(len(gc._parse_bahamut_first_post(html)), gc.BAHAMUT_BODY_MAX_CHARS)
+
+    def test_fills_summary_skips_sticky_keeps_author_and_url(self):
+        items, calls = self._run(lambda url: FakeResp(text=self.THREAD_HTML, status_code=200))
+        by_title = {i["title"]: i for i in items}
+        self.assertEqual(by_title["置頂"]["summary"], "")           # 置顶不补
+        self.assertEqual(by_title["帖二"]["summary"], "第一行粗體\n第二行&符號\n換行")
+        self.assertEqual(by_title["帖二"]["author"], "bob")
+        self.assertNotIn("metadata", by_title["帖二"])
+        thread_urls = [u for u, _ in calls if "C.php" in u]
+        # 请求用规范链接（去 tnum），item url 保持列表页原值
+        self.assertEqual(thread_urls, [
+            "https://forum.gamer.com.tw/C.php?bsn=78829&snA=2",
+            "https://forum.gamer.com.tw/C.php?bsn=78829&snA=3"])
+        self.assertTrue(by_title["帖二"]["url"].endswith("snA=2&tnum=9"))
+        self.assertEqual(self.sleep.call_count, 1)                 # 两次请求之间 1 次间隔
+
+    def test_dedup_keys_unchanged_by_body(self):
+        import collect_global as cg
+        import archive_platforms as ap
+        plain, _ = self._run(lambda url: FakeResp(text="<html></html>", status_code=200))
+        rich, _ = self._run(lambda url: FakeResp(text=self.THREAD_HTML, status_code=200))
+        self.assertNotEqual([i["summary"] for i in plain], [i["summary"] for i in rich])
+        self.assertEqual([cg.dedup_key(i) for i in plain], [cg.dedup_key(i) for i in rich])
+        self.assertEqual([ap.item_key(i) for i in plain], [ap.item_key(i) for i in rich])
+        merged = ap.merge_items(plain, rich)       # 补了正文的同帖不得变成新条目
+        self.assertEqual(len(merged), len(plain))
+
+    def test_failure_degrades_with_flag_and_never_raises(self):
+        def boom(url):
+            raise gc.requests.RequestException("down")
+        items, _ = self._run(boom)
+        self.assertEqual(len(items), 3)                            # 列表结果完整保留
+        for i in items:
+            self.assertEqual(i["summary"], "")
+        flagged = [i for i in items if i.get("metadata", {}).get("body_fetch_failed")]
+        self.assertEqual({i["title"] for i in flagged}, {"帖二", "帖三"})
+
+    def test_partial_failure_only_flags_failed_item(self):
+        def side(url):
+            if "snA=2" in url:
+                raise gc.requests.RequestException("x")
+            return FakeResp(text=self.THREAD_HTML, status_code=200)
+        items, _ = self._run(side)
+        by_title = {i["title"]: i for i in items}
+        self.assertTrue(by_title["帖二"]["metadata"]["body_fetch_failed"])
+        self.assertEqual(by_title["帖三"]["summary"], "第一行粗體\n第二行&符號\n換行")
+
+    def test_per_run_cap(self):
+        with mock.patch.object(gc, "BAHAMUT_BODY_MAX_PER_RUN", 1):
+            items, calls = self._run(lambda url: FakeResp(text=self.THREAD_HTML, status_code=200))
+        self.assertEqual(len([u for u, _ in calls if "C.php" in u]), 1)
+        by_title = {i["title"]: i for i in items}
+        self.assertEqual(by_title["帖三"]["summary"], "")
+        self.assertNotIn("metadata", by_title["帖三"])            # 超限未请求，不算失败
+
+    def test_circuit_breaker_after_consecutive_failures(self):
+        with mock.patch.object(gc, "BAHAMUT_BODY_MAX_CONSEC_FAIL", 1):
+            def boom(url):
+                raise gc.requests.RequestException("down")
+            _, calls = self._run(boom)
+        self.assertEqual(len([u for u, _ in calls if "C.php" in u]), 1)
+
+
 if __name__ == "__main__":
     unittest.main()
