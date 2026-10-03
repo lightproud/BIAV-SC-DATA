@@ -1,8 +1,8 @@
 {
   "date": "2026-10-02",
-  "archived_at": "2026-10-03T02:53:04.940512+00:00",
+  "archived_at": "2026-10-03T08:43:20.741383+00:00",
   "source": "youtube",
-  "item_count": 13,
+  "item_count": 14,
   "items": [
     {
       "title": "【忘却前夜】クレメンを好きになりに行こう【星辰編２章】",
@@ -102,6 +102,23 @@
       "lang": "",
       "platform_region": "",
       "media_url": "https://i.ytimg.com/vi/bad97wS3fVs/hqdefault.jpg",
+      "content_type": "video",
+      "region": "global",
+      "archive_subtype": "video"
+    },
+    {
+      "title": "ESSE JOGO TEM ALMA OU É SÓ MAIS UM FEITO POR IA?",
+      "summary": "morimens #cartas #jogodecarta.",
+      "source": "youtube",
+      "time": "2026-10-02T14:37:48Z",
+      "url": "https://www.youtube.com/watch?v=zgiNKNaWZrY",
+      "engagement": 5,
+      "is_hot": false,
+      "author": "Cross Dante",
+      "tags": [],
+      "lang": "",
+      "platform_region": "",
+      "media_url": "https://i.ytimg.com/vi/zgiNKNaWZrY/hqdefault.jpg",
       "content_type": "video",
       "region": "global",
       "archive_subtype": "video"

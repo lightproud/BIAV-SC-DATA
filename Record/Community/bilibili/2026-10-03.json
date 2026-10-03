@@ -1,9 +1,26 @@
 {
   "date": "2026-10-03",
-  "archived_at": "2026-10-03T02:53:04.939874+00:00",
+  "archived_at": "2026-10-03T08:43:20.739283+00:00",
   "source": "bilibili",
-  "item_count": 3,
+  "item_count": 7,
   "items": [
+    {
+      "title": "【忘却前夜】 新融灾9.28-10.11 低低的配445记录",
+      "summary": "建号两个月限定角色0-3启的低低的配。记录一下这次的，吃了3次灵芝。2图和5图总回合数都天荒地老，还都是从头凹了几次才过。。。什么叫回放已到达25回合的最大限制。？\n\n1-5 3启茉夏+阿拉克涅：虽然是1图但难5的小怪好超雄，不爆死扛的话70级茉夏一波爆发很难清掉。还好可以走蓝血池先拿造物，逃到只打一场道中，但因为想吃那口灰烬遗迹回血走了回头路，走地图白爆一次死扛（）不知道为什么两场战斗都roll到奥尔拉「喜」开局，试了下手里屯算力和攒打击给爆发。因为道中只想着怎么和怪爆了活下去没能做空间，超维空间轮次原",
+      "source": "bilibili",
+      "time": "2026-10-03T02:39:26+00:00",
+      "url": "https://www.bilibili.com/video/av117374611231917",
+      "engagement": 164,
+      "is_hot": false,
+      "author": "涉嫌下饭",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/9cadfd190ee6fd5484e05c89f1068a15b2cc6ff5.jpg",
+      "content_type": "video"
+    },
     {
       "title": "【忘却前夜】庞卡水船融灾禁区5-7「门之钥」",
       "summary": "拿了个白触直接脸接六翼不用动脑子了……",
@@ -19,6 +36,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/b9b75cd88f05032d827bfb59da5c7bbaa1c759e1.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "【忘却前夜】仲夏水母融灾禁区1-7撕裂维度之足",
+      "summary": "打击高手……",
+      "source": "bilibili",
+      "time": "2026-10-03T08:20:18+00:00",
+      "url": "https://www.bilibili.com/video/av117375986833572",
+      "engagement": 62,
+      "is_hot": false,
+      "author": "朝星-",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/c8a657eb3c128bdfaab468373ccb789ec7eab8e4.jpg",
       "content_type": "video"
     },
     {
@@ -39,6 +73,23 @@
       "content_type": "video"
     },
     {
+      "title": "〖忘却前夜/灾厄终点〗“灾厄并非终点。”",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-10-03T06:10:44+00:00",
+      "url": "https://www.bilibili.com/video/av117375483578683",
+      "engagement": 23,
+      "is_hot": false,
+      "author": "萝塔娜蒙-德洛斯丽尔",
+      "tags": [
+        "日常"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/6793813f1f64625e28d729f9c7ee8c5178abb5e3.jpg",
+      "content_type": "video"
+    },
+    {
       "title": "[忘却前夜]环尤5-5 雷娅神力",
       "summary": "n7出来以后我应该打不过uw顶难了，千万uw反正我应该不行，打点低难的混更新了\n虽然更新也没啥用（）\n很有戏剧性的一幕：最后一个道中我在讨论要不要打，进不进商店，我说了一句&quot;万一有uw专造呢&quot;，点进去之前说了一句uw，然后就这么出了\n就这么凹出来的专造……相信灵异事件……",
       "source": "bilibili",
@@ -53,6 +104,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/8ef35b1a442cfb1e565558a40cceed5617ecfcc5.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "萌新庆祝忘却篇结束",
+      "summary": "",
+      "source": "bilibili",
+      "time": "2026-10-03T08:39:08+00:00",
+      "url": "https://www.bilibili.com/video/av117376037163500",
+      "engagement": 1,
+      "is_hot": false,
+      "author": "乱跑的织夜",
+      "tags": [
+        "手机游戏"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i2.hdslb.com/bfs/archive/e99fe3fdb2ccbf6908c30348f78378e4e193dbe6.jpg",
       "content_type": "video"
     }
   ]

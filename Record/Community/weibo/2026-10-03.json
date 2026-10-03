@@ -1,8 +1,8 @@
 {
   "date": "2026-10-03",
-  "archived_at": "2026-10-03T02:53:05.036906+00:00",
+  "archived_at": "2026-10-03T08:43:20.791302+00:00",
   "source": "weibo",
-  "item_count": 20,
+  "item_count": 21,
   "items": [
     {
       "title": "给忘却前夜画的塔薇命轮解禁啦，感谢项目组指导",
@@ -503,6 +503,32 @@
       "source": "weibo",
       "time": "2026-10-03T02:52:59.249411+00:00",
       "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [
+        "weibo"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "reposts_count": null,
+        "comments_count": null,
+        "likes_count": null,
+        "engagement_total": null,
+        "engagement_is_unknown": true,
+        "engagement_basis": "known_counts_sort_fallback",
+        "counts_are_approximate": false,
+        "author_is_unknown": true
+      },
+      "time_is_approximate": true
+    },
+    {
+      "title": "#给阿嬷的情书# 有情有义的好故事，夫妻之情、同乡之义、同胞侨民在海外的守望相助，都塑造得朴实细腻。木生像火，重感情、讲义气，身上有血性，从马来到暹罗，苦力做得",
+      "summary": "#给阿嬷的情书# 有情有义的好故事，夫妻之情、同乡之义、同胞侨民在海外的守望相助，都塑造得朴实细腻。木生像火，重感情、讲义气，身上有血性，从马来到暹罗，苦力做得经商也做得，攒下想去跑船的积蓄在印度人的一把火里燃烧殆尽，为制服水匪倒在回家的前夜——木生的命运，好像在性格中就已经注定了 ...全文",
+      "source": "weibo",
+      "time": "2026-10-03T08:43:06.752793+00:00",
+      "url": "https://m.weibo.cn/detail/5349917507978754",
       "engagement": 0,
       "is_hot": false,
       "author": "",

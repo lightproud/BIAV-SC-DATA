@@ -1,8 +1,8 @@
 {
   "date": "2026-10-03",
-  "archived_at": "2026-10-03T02:53:04.942850+00:00",
+  "archived_at": "2026-10-03T08:43:20.742834+00:00",
   "source": "bahamut",
-  "item_count": 26,
+  "item_count": 27,
   "items": [
     {
       "title": "【討論】時間原點發問集中串，3天毀滅倒數",
@@ -318,6 +318,20 @@
       "source": "bahamut",
       "time": "2026-10-02T17:01:52.597774+00:00",
       "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1584&tnum=1",
+      "engagement": 8,
+      "is_hot": false,
+      "author": "t12345825",
+      "tags": [],
+      "lang": "zh",
+      "platform_region": "",
+      "time_is_approximate": true
+    },
+    {
+      "title": "【攻略】卡斯托爾、彌利、徐，三相復刻抽取建議",
+      "summary": "",
+      "source": "bahamut",
+      "time": "2026-10-03T08:42:57.548952+00:00",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=78829&snA=1598&tnum=1",
       "engagement": 8,
       "is_hot": false,
       "author": "t12345825",

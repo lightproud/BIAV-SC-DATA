@@ -1,8 +1,8 @@
 {
   "date": "2026-10-03",
-  "archived_at": "2026-10-03T02:53:05.035422+00:00",
+  "archived_at": "2026-10-03T08:43:20.789800+00:00",
   "source": "steam",
-  "item_count": 4,
+  "item_count": 6,
   "items": [
     {
       "title": "[负面] OK, I knew when I installed this that it would be...",
@@ -92,6 +92,52 @@
         "playtime_forever": 361,
         "votes_up": 0,
         "timestamp_created": 1790972723
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 怎么最近老是掉线？",
+      "summary": "怎么最近老是掉线？",
+      "source": "steam_review",
+      "time": "2026-10-03T06:05:38+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198406855055/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198406855055",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 7781,
+        "votes_up": 0,
+        "timestamp_created": 1791007538
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] caro solo",
+      "summary": "caro solo",
+      "source": "steam_review",
+      "time": "2026-10-03T04:13:08+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198637785321/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198637785321",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 113,
+        "votes_up": 0,
+        "timestamp_created": 1791000788
       },
       "region": "global",
       "archive_subtype": "review"
