@@ -12,7 +12,8 @@ from datetime import UTC, datetime, timedelta, timezone
 
 CN_TZ = timezone(timedelta(hours=8))
 
-TEXT_KEYS = ("content", "text", "review", "body", "message", "comment", "description", "desc", "title")
+# summary 在 title 之前：数据仓 news 体例的条目（评价、帖子、微博等）正文在 summary，title 是截断的标题
+TEXT_KEYS = ("content", "text", "review", "body", "message", "comment", "summary", "description", "desc", "title")
 AUTHOR_KEYS = (
     "author_id", "steamid", "user_id", "uid", "author", "user", "author_name",
     "username", "user_name", "screen_name", "nickname",

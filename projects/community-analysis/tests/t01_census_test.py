@@ -222,3 +222,12 @@ def test_default_lake_is_repo_record_community(monkeypatch, tmp_path):
 def test_fixture_lake_does_not_borrow_repo_reader():
     """小样本放在数据仓里，也不能误用本仓 archive_layout：只认 <仓库>/Record/Community。"""
     assert LakeReader(LAKE).source == BUILTIN_READER
+
+
+def test_news_style_item_reads_summary_not_title():
+    # 数据仓 news 体例：title 是截断标题，正文在 summary；普查要量正文
+    from yuqing.census import fields as F
+
+    rec = {"title": "[Google Play 好评] ★5 前四十字…", "summary": "完整的评价正文" * 10}
+    assert F.get_text(rec) == rec["summary"]
+    assert F.get_text({"title": "只有标题", "summary": ""}) == "只有标题"
