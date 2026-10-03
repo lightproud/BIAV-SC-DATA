@@ -1,0 +1,947 @@
+{
+  "date": "2026-10-03",
+  "archived_at": "2026-10-03T14:51:25.824449+00:00",
+  "source": "arca_live",
+  "item_count": 45,
+  "items": [
+    {
+      "title": "의욕이 안돌아오네",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T01:52:17.000Z",
+      "url": "https://arca.live/b/forgettingeve/184804615",
+      "engagement": 229,
+      "is_hot": false,
+      "author": "고양이냥이괭이",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 219,
+        "likes": 0,
+        "comments": 10
+      }
+    },
+    {
+      "title": "슬슬 떠날 때가 온 건가",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T07:52:57.000Z",
+      "url": "https://arca.live/b/forgettingeve/184833771",
+      "engagement": 220,
+      "is_hot": false,
+      "author": "RYCBARM",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 211,
+        "likes": 1,
+        "comments": 8
+      }
+    },
+    {
+      "title": "서지에는 설계미스인것 같음",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T07:35:48.000Z",
+      "url": "https://arca.live/b/forgettingeve/184832103",
+      "engagement": 215,
+      "is_hot": false,
+      "author": "ㅇㅇ",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 200,
+        "likes": 1,
+        "comments": 14
+      }
+    },
+    {
+      "title": "서지에 설계에 구멍이 있는 이유",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T07:47:06.000Z",
+      "url": "https://arca.live/b/forgettingeve/184833196",
+      "engagement": 179,
+      "is_hot": false,
+      "author": "ㄱㅁ",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 171,
+        "likes": 0,
+        "comments": 8
+      }
+    },
+    {
+      "title": "모스 토끼 새로결속해야겠다",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T02:09:45.000Z",
+      "url": "https://arca.live/b/forgettingeve/184805810",
+      "engagement": 176,
+      "is_hot": false,
+      "author": "망붕",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 170,
+        "likes": 0,
+        "comments": 6
+      }
+    },
+    {
+      "title": "안내쪽 번역 로컬라이징 나만 웃기냐",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T06:20:01.000Z",
+      "url": "https://arca.live/b/forgettingeve/184825640",
+      "engagement": 174,
+      "is_hot": false,
+      "author": "망겜러",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 164,
+        "likes": 4,
+        "comments": 6
+      }
+    },
+    {
+      "title": "한국어 패치 모드 같은건 없음??",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T08:23:58.000Z",
+      "url": "https://arca.live/b/forgettingeve/184836641",
+      "engagement": 172,
+      "is_hot": false,
+      "author": "mincat0126",
+      "tags": [
+        "질문"
+      ],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 165,
+        "likes": 0,
+        "comments": 7
+      }
+    },
+    {
+      "title": "여호수자 스토리에서 ㅈㄴ야한냄새 풍기고다니노",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T07:06:35.000Z",
+      "url": "https://arca.live/b/forgettingeve/184829397",
+      "engagement": 168,
+      "is_hot": false,
+      "author": "정실은아델라",
+      "tags": [
+        "스토리"
+      ],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 160,
+        "likes": 0,
+        "comments": 8
+      }
+    },
+    {
+      "title": "가챠 개고수ㄷㄷㄷㄷㄷㄷㄷㄷ",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T06:02:43.000Z",
+      "url": "https://arca.live/b/forgettingeve/184824245",
+      "engagement": 157,
+      "is_hot": false,
+      "author": "오레타의어린시절",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 153,
+        "likes": 0,
+        "comments": 4
+      }
+    },
+    {
+      "title": "나정도면 상위 몇퍼센트 망빙이임?",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T08:07:15.000Z",
+      "url": "https://arca.live/b/forgettingeve/184835058",
+      "engagement": 155,
+      "is_hot": false,
+      "author": "ㅇㅇ",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 142,
+        "likes": 2,
+        "comments": 11
+      }
+    },
+    {
+      "title": "ss 최소컷은 어느정도임?",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T08:23:26.000Z",
+      "url": "https://arca.live/b/forgettingeve/184836591",
+      "engagement": 154,
+      "is_hot": false,
+      "author": "로엔",
+      "tags": [
+        "질문"
+      ],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 144,
+        "likes": 0,
+        "comments": 10
+      }
+    },
+    {
+      "title": "수비인은 뭐여?",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T08:42:36.000Z",
+      "url": "https://arca.live/b/forgettingeve/184838282",
+      "engagement": 153,
+      "is_hot": false,
+      "author": "카르티시아가방전술핵폭격기",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 144,
+        "likes": 0,
+        "comments": 9
+      }
+    },
+    {
+      "title": "지금보니 영탄 hp +10%가 있구나",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T04:10:42.000Z",
+      "url": "https://arca.live/b/forgettingeve/184815123",
+      "engagement": 151,
+      "is_hot": false,
+      "author": "ㅇㅇ",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 145,
+        "likes": 0,
+        "comments": 6
+      }
+    },
+    {
+      "title": "당연하지만 영지체 5개 이상 얻는 꼼수는 안되는규만..",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T04:35:48.000Z",
+      "url": "https://arca.live/b/forgettingeve/184817133",
+      "engagement": 146,
+      "is_hot": false,
+      "author": "뉴비에욧",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 142,
+        "likes": 0,
+        "comments": 4
+      }
+    },
+    {
+      "title": "지금 각성체들 크툴루신화에 다 대응해요???",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T07:11:54.000Z",
+      "url": "https://arca.live/b/forgettingeve/184829887",
+      "engagement": 143,
+      "is_hot": false,
+      "author": "냄지",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 141,
+        "likes": 0,
+        "comments": 2
+      }
+    },
+    {
+      "title": "망붕이들특)",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T06:05:32.000Z",
+      "url": "https://arca.live/b/forgettingeve/184824479",
+      "engagement": 138,
+      "is_hot": false,
+      "author": "라sha",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 131,
+        "likes": 0,
+        "comments": 7
+      }
+    },
+    {
+      "title": "뉴비 융재금구 미는데 5금구 타비 무슨덱으로 가면 좋냐",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T02:33:32.000Z",
+      "url": "https://arca.live/b/forgettingeve/184807475",
+      "engagement": 135,
+      "is_hot": false,
+      "author": "dd",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 128,
+        "likes": 0,
+        "comments": 7
+      }
+    },
+    {
+      "title": "결속이 뭔지도 몰랐네",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T01:52:53.000Z",
+      "url": "https://arca.live/b/forgettingeve/184804656",
+      "engagement": 132,
+      "is_hot": false,
+      "author": "시아",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 127,
+        "likes": 1,
+        "comments": 4
+      }
+    },
+    {
+      "title": "망전에 각성체 모티브가 대부분 크툴루 신화에서 따왔지만",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T05:56:28.000Z",
+      "url": "https://arca.live/b/forgettingeve/184823732",
+      "engagement": 125,
+      "is_hot": false,
+      "author": "aaa111",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 120,
+        "likes": 0,
+        "comments": 5
+      }
+    },
+    {
+      "title": "레무리아 사람이 된거같음",
+      "summary": "신왕님 대체 몇 밤 자야 오시나요...... 현생 너무 힘들어 신국을 열어 주세요",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T11:05:27.000Z",
+      "url": "https://arca.live/b/forgettingeve/184851772",
+      "engagement": 124,
+      "is_hot": false,
+      "author": "망전고수가될거야",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 120,
+        "likes": 0,
+        "comments": 4,
+        "author_id": "@망전고수가될거야"
+      }
+    },
+    {
+      "title": "카티구라 스택은 인겜 어디서 확인 가능함?",
+      "summary": "융재 도전중인데 겜 길어지니까 스택 꽤 쌓였을거라 확인하려고 했는데 어딨는질 모르겠음",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T09:57:52.000Z",
+      "url": "https://arca.live/b/forgettingeve/184845319",
+      "engagement": 124,
+      "is_hot": false,
+      "author": "Sellestia",
+      "tags": [
+        "질문"
+      ],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 117,
+        "likes": 0,
+        "comments": 7,
+        "author_id": "@Sellestia/63730677"
+      }
+    },
+    {
+      "title": "모스팟 사야 대체 추천받아요.",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T04:51:35.000Z",
+      "url": "https://arca.live/b/forgettingeve/184818371",
+      "engagement": 124,
+      "is_hot": false,
+      "author": "익명",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 119,
+        "likes": 0,
+        "comments": 5
+      }
+    },
+    {
+      "title": "안녕하세요 뉴비인데 8-13 도저히 견적이 안나와요 공략 어디서 보나요 제발 ㅠㅠ",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T06:46:39.000Z",
+      "url": "https://arca.live/b/forgettingeve/184827763",
+      "engagement": 123,
+      "is_hot": false,
+      "author": "ade0033",
+      "tags": [
+        "질문"
+      ],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 116,
+        "likes": 0,
+        "comments": 7
+      }
+    },
+    {
+      "title": "아니 영탄 회복도 토끼를 받았어???",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T09:38:35.000Z",
+      "url": "https://arca.live/b/forgettingeve/184843324",
+      "engagement": 113,
+      "is_hot": false,
+      "author": "ㅇㅇ",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 112,
+        "likes": 0,
+        "comments": 1
+      }
+    },
+    {
+      "title": "망각편 한정, 성신편 한정은 뭐야??",
+      "summary": "캐릭좀 보고 있는데 망각편 한정이랑 성신편 한정 캐릭들은 뭐야?? 특정 맵에서만 쓸 수 있는거야??",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T11:39:17.000Z",
+      "url": "https://arca.live/b/forgettingeve/184854825",
+      "engagement": 112,
+      "is_hot": false,
+      "author": "mincat0126",
+      "tags": [
+        "질문"
+      ],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 105,
+        "likes": 0,
+        "comments": 7,
+        "author_id": "@mincat0126"
+      }
+    },
+    {
+      "title": "한정각성 스택 이월됨?",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T05:55:14.000Z",
+      "url": "https://arca.live/b/forgettingeve/184823631",
+      "engagement": 108,
+      "is_hot": false,
+      "author": "메멩",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 105,
+        "likes": 0,
+        "comments": 3
+      }
+    },
+    {
+      "title": "장미금권 너무 부족해서 그런데",
+      "summary": "일반이벤트 다 퍼먹은곳 더 파는게 나음\n아니면 막간훈련 금권수사 하는게 나음...?\n130%라 서지에 있는곳 퍼먹고있긴한데",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T12:38:01.000Z",
+      "url": "https://arca.live/b/forgettingeve/184860565",
+      "engagement": 106,
+      "is_hot": false,
+      "author": "ㅇㅇ",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 98,
+        "likes": 2,
+        "comments": 6,
+        "author_id": "@ㅇㅇ/88119283"
+      }
+    },
+    {
+      "title": "카티덱이 나쁜건 아닌데",
+      "summary": "지루함\n레무리아 예열은 재밌는데\n카티구라 예열은 고통스러움\n(취향에 맞는 사람도 있겠지만..)\n아직은 SS급 까지는 잘 버텨주니까 쓰는중..\n나중에 스릴 넘치는 반격 힘깎 방어 Zax 파티로 환생시켜줄게\n뒤틀린(궁극의 푸른눈의) 쌍둥이 백(룡) 세개의 위력을 보여주지\n클레멘 - 은열 + 딜감소 + 회복\n완다 - 메인 반격 + 힘깎\n오를라 - 허약 및 + 반격 효율 버프 + 회복\n판디아 - 광폭싸개 + 차원영상(임시반격 일부 영구반격으로)\n돌파 성장 명륜 계약이 완성 안돼서 아직 못쓰지만\n언젠가는 쓸 수 있을 듯함\n막상 써보면 똥이라 안쓸 수도 있긴함",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T12:14:39.000Z",
+      "url": "https://arca.live/b/forgettingeve/184858196",
+      "engagement": 106,
+      "is_hot": false,
+      "author": "익명",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 105,
+        "likes": 0,
+        "comments": 1,
+        "author_id": "@익명/45916139"
+      }
+    },
+    {
+      "title": "사야좋아",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T12:18:05.000Z",
+      "url": "https://arca.live/b/forgettingeve/184858506",
+      "engagement": 105,
+      "is_hot": false,
+      "author": "능이버섯",
+      "tags": [
+        "짤"
+      ],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 94,
+        "likes": 6,
+        "comments": 5,
+        "author_id": "@능이버섯"
+      }
+    },
+    {
+      "title": "슬슬 애들 80렙을 찍어야 하나",
+      "summary": "메인딜러 70렙은 이제 다 완성됐고\n메인탱커도 엘바 빼고는 다 찍어줬고\n서포터들은 70렙 중요한 애들 몇몇만 찍어줬고\n다음 영지심화는 엘바냐 아니면 메인딜러 80이냐가 슬슬 고민되는구나...",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T09:52:13.000Z",
+      "url": "https://arca.live/b/forgettingeve/184844727",
+      "engagement": 103,
+      "is_hot": false,
+      "author": "세리에",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 95,
+        "likes": 0,
+        "comments": 8,
+        "author_id": "@세리에"
+      }
+    },
+    {
+      "title": "쳇gpt한테 수비인이 먼지 물어봤다",
+      "summary": "gpt은근 똑똑하네",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T09:41:05.000Z",
+      "url": "https://arca.live/b/forgettingeve/184843563",
+      "engagement": 103,
+      "is_hot": false,
+      "author": "휘틀리는휘틀휘틀",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 100,
+        "likes": 0,
+        "comments": 3,
+        "author_id": "@휘틀리는휘틀휘틀"
+      }
+    },
+    {
+      "title": "모스 조합 추천해주셔서 감사합니다.",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T08:04:31.000Z",
+      "url": "https://arca.live/b/forgettingeve/184834806",
+      "engagement": 103,
+      "is_hot": false,
+      "author": "익명",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 100,
+        "likes": 1,
+        "comments": 2
+      }
+    },
+    {
+      "title": "3주년 전에 개발방향 로드맵같은거 안내주려나",
+      "summary": "슬슬 망각편 컨텐츠 싹 정리하고 성신편으로 통일해줬으면 좋겠는데 그런건 힘들겠지..",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T12:49:14.000Z",
+      "url": "https://arca.live/b/forgettingeve/184861584",
+      "engagement": 100,
+      "is_hot": false,
+      "author": "팬케이크",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 98,
+        "likes": 0,
+        "comments": 2,
+        "author_id": "@팬케이크"
+      }
+    },
+    {
+      "title": "융재 초기화해도 영지체 안돌려주는 거였음?",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T06:44:55.000Z",
+      "url": "https://arca.live/b/forgettingeve/184827625",
+      "engagement": 93,
+      "is_hot": false,
+      "author": "익명",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 92,
+        "likes": 0,
+        "comments": 1
+      }
+    },
+    {
+      "title": "영탄 쓸 수록 틴커트랑 잘 맞는거 같다",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T08:23:10.000Z",
+      "url": "https://arca.live/b/forgettingeve/184836558",
+      "engagement": 89,
+      "is_hot": false,
+      "author": "하투하",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 87,
+        "likes": 0,
+        "comments": 2
+      }
+    },
+    {
+      "title": "비계 다들 얼마나 걸렸음?",
+      "summary": "일단 딜러들만 70퍼 이상으로 해주려는데\n얼마나 걸릴 거 같음?",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T11:13:23.000Z",
+      "url": "https://arca.live/b/forgettingeve/184852477",
+      "engagement": 86,
+      "is_hot": false,
+      "author": "극악무도한글카스의진격",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 83,
+        "likes": 0,
+        "comments": 3,
+        "author_id": "@극악무도한글카스의진격/19461447"
+      }
+    },
+    {
+      "title": "타비 가챠로 탄피 3코, 0코 뜨면 기분ㅈㄴ좋음",
+      "summary": "3코는 예비로 묵히고\n0코 바로 쓰면 걍 너무 달달함\n탄피는 진짜 전설이다..",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T10:12:46.000Z",
+      "url": "https://arca.live/b/forgettingeve/184846939",
+      "engagement": 82,
+      "is_hot": false,
+      "author": "세라식",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 79,
+        "likes": 0,
+        "comments": 3,
+        "author_id": "@세라식"
+      }
+    },
+    {
+      "title": "융재 정상화에 겜안분 450점",
+      "summary": "쫄 전에서!!!장검이!!!안나와!!!!\n기어이 쫄도 아니고 물 밟고 영지체씀\n?????\n역겨움 조트!\n물론 침탄으로 보스 머리깨는건 좋았습니다\n얘들이 이 난이도에서 지면 안되는거임\n걍 쉽게 쉽게 가자고\n4파 5파 편하게 하려고 일부러 융식모드 깸\n너무 오래걸려서 진짜 마음 꺾임\n난이도 낮은걸로 하면서 걍 체급으로 누른느낌\n이거 그냥 모스 들고 갔어야 했던거 아닌가? 라는 생각이 많이 들었는데 봉인 조건 인지 못한상태로 어거지로 깬 느낌\n대부분은 스펙이 높으면 밀린다\n보상으로 침탄 90렙 달성 요오시",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T13:26:10.000Z",
+      "url": "https://arca.live/b/forgettingeve/184865116",
+      "engagement": 74,
+      "is_hot": false,
+      "author": "알론소키하노",
+      "tags": [
+        "융재금구"
+      ],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 64,
+        "likes": 4,
+        "comments": 6,
+        "author_id": "@알론소키하노"
+      }
+    },
+    {
+      "title": "스토리는 인겜 탐라 순설 읽으면 돼??",
+      "summary": "여기 이런거 있던데 그냥 1장부터 순서대로 읽으면 돼??",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T10:44:10.000Z",
+      "url": "https://arca.live/b/forgettingeve/184849825",
+      "engagement": 73,
+      "is_hot": false,
+      "author": "mincat0126",
+      "tags": [
+        "질문"
+      ],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 71,
+        "likes": 0,
+        "comments": 2,
+        "author_id": "@mincat0126"
+      }
+    },
+    {
+      "title": "아 융재하기 귀찮아....",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T08:00:42.000Z",
+      "url": "https://arca.live/b/forgettingeve/184834456",
+      "engagement": 70,
+      "is_hot": false,
+      "author": "극악무도한글카스의진격",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 67,
+        "likes": 0,
+        "comments": 3
+      }
+    },
+    {
+      "title": "융재 425 마무리",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T08:01:48.000Z",
+      "url": "https://arca.live/b/forgettingeve/184834564",
+      "engagement": 69,
+      "is_hot": false,
+      "author": "휘틀리는휘틀휘틀",
+      "tags": [
+        "융재금구"
+      ],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 65,
+        "likes": 2,
+        "comments": 2
+      }
+    },
+    {
+      "title": "귀찮아서 405점 마무리",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T07:53:32.000Z",
+      "url": "https://arca.live/b/forgettingeve/184833822",
+      "engagement": 65,
+      "is_hot": false,
+      "author": "라sha",
+      "tags": [
+        "융재금구"
+      ],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 60,
+        "likes": 3,
+        "comments": 2
+      }
+    },
+    {
+      "title": "2.5주년 인터뷰에서 재밌는거 가져옴",
+      "summary": "진짜 되면 좋겠네",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T14:17:14.000Z",
+      "url": "https://arca.live/b/forgettingeve/184870022",
+      "engagement": 61,
+      "is_hot": false,
+      "author": "Erich_Zann",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 57,
+        "likes": 1,
+        "comments": 3,
+        "author_id": "@Erich_Zann"
+      }
+    },
+    {
+      "title": "숙제 끝",
+      "summary": "",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T07:59:42.000Z",
+      "url": "https://arca.live/b/forgettingeve/184834360",
+      "engagement": 58,
+      "is_hot": false,
+      "author": "고양이냥이괭이",
+      "tags": [
+        "융재금구"
+      ],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 55,
+        "likes": 2,
+        "comments": 1
+      }
+    },
+    {
+      "title": "둔화 풀어주는 각성체 누구있지?",
+      "summary": "아이기스 둔화만 좀 해결하면 영지체 안 쓰고 SS 가능할 거 같은데\n누구 있지",
+      "source": "arca_live",
+      "platform_region": "kr",
+      "lang": "ko",
+      "time": "2026-10-03T14:11:07.000Z",
+      "url": "https://arca.live/b/forgettingeve/184869478",
+      "engagement": 56,
+      "is_hot": false,
+      "author": "RYCBARM",
+      "tags": [],
+      "content_type": "text",
+      "media_url": "",
+      "metadata": {
+        "views": 52,
+        "likes": 0,
+        "comments": 4,
+        "author_id": "@RYCBARM"
+      }
+    }
+  ]
+}
