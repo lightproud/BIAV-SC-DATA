@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T08:43:22.303253+00:00",
+  "updated_at": "2026-10-03T14:04:42.255346+00:00",
   "seeded_from": "silent_sources_audit",
   "audit_window": {
     "start": "2023-07-01",
@@ -7,7 +7,7 @@
     "days": 1191
   },
   "validation_drops": {
-    "generated_at": "2026-10-03T08:43:18.748788+00:00",
+    "generated_at": "2026-10-03T14:04:39.237498+00:00",
     "total_dropped": 1,
     "by_source": {
       "pixiv": 1
@@ -21,34 +21,18 @@
       "silent_days": 12,
       "cadence_days": 2,
       "stall_threshold": 7
-    },
-    {
-      "leaf": "appstore/global",
-      "source": "appstore",
-      "last_archive_date": "2026-09-25",
-      "silent_days": 8,
-      "cadence_days": 2,
-      "stall_threshold": 7
     }
   ],
   "source_date_checks": [
     {
       "leaf": "steam/global/news",
       "last_archive_date": "2026-09-21",
-      "checked_at": "2026-10-03T08:43:21.902604+00:00",
+      "checked_at": "2026-10-03T14:04:42.098630+00:00",
       "status": "no_newer_source_date",
       "scope": "latest_publication_date_only",
       "source_url": "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=3052450&count=3&maxlength=0&format=json",
       "latest_source_at": "2026-09-21T14:54:36+00:00",
       "latest_source_date": "2026-09-21"
-    },
-    {
-      "leaf": "appstore/global",
-      "last_archive_date": "2026-09-25",
-      "checked_at": "2026-10-03T08:43:22.302083+00:00",
-      "status": "unverified",
-      "scope": "latest_publication_date_only",
-      "reason": "no_checker"
     }
   ],
   "platforms": {
@@ -57,7 +41,7 @@
       "last_success_date": "2026-10-03",
       "last_check_date": "2026-10-03",
       "consecutive_silent_days": 0,
-      "total_items": 3998,
+      "total_items": 4000,
       "errors": []
     },
     "steam": {
@@ -65,7 +49,7 @@
       "last_success_date": "2026-10-03",
       "last_check_date": "2026-10-03",
       "consecutive_silent_days": 0,
-      "total_items": 5550,
+      "total_items": 5551,
       "errors": []
     },
     "discord": {
@@ -73,7 +57,7 @@
       "last_success_date": "2026-10-03",
       "last_check_date": "2026-06-20",
       "consecutive_silent_days": 0,
-      "total_items": 9781511,
+      "total_items": 10058598,
       "errors": []
     },
     "youtube": {
@@ -81,7 +65,7 @@
       "last_success_date": "2026-10-03",
       "last_check_date": "2026-10-03",
       "consecutive_silent_days": 0,
-      "total_items": 4284,
+      "total_items": 4285,
       "errors": []
     },
     "reddit": {
@@ -89,7 +73,7 @@
       "last_success_date": "2026-10-03",
       "last_check_date": "2026-10-03",
       "consecutive_silent_days": 0,
-      "total_items": 4415,
+      "total_items": 4419,
       "errors": []
     },
     "official": {
@@ -113,7 +97,7 @@
       "last_success_date": "2026-10-03",
       "last_check_date": "2026-10-03",
       "consecutive_silent_days": 0,
-      "total_items": 15399,
+      "total_items": 15400,
       "errors": []
     },
     "bahamut": {
@@ -126,10 +110,10 @@
     },
     "appstore": {
       "level": "active",
-      "last_success_date": "2026-10-01",
+      "last_success_date": "2026-10-02",
       "last_check_date": "2026-10-03",
-      "consecutive_silent_days": 2,
-      "total_items": 556,
+      "consecutive_silent_days": 1,
+      "total_items": 557,
       "errors": []
     },
     "google_play": {
@@ -180,6 +164,14 @@
       "total_items": 196,
       "errors": []
     },
+    "arca_live": {
+      "level": "dormant",
+      "last_success_date": "2026-07-11",
+      "last_check_date": "2026-10-03",
+      "consecutive_silent_days": 84,
+      "total_items": 104,
+      "errors": []
+    },
     "stopgame": {
       "level": "active",
       "last_success_date": "2026-10-03",
@@ -193,15 +185,23 @@
       "last_success_date": "2026-09-30",
       "last_check_date": "2026-10-03",
       "consecutive_silent_days": 3,
-      "total_items": 8922,
+      "total_items": 8925,
+      "errors": []
+    },
+    "taptap_review": {
+      "level": "active",
+      "last_success_date": "2026-10-03",
+      "last_check_date": "2026-10-03",
+      "consecutive_silent_days": 0,
+      "total_items": 5921,
       "errors": []
     },
     "youtube_comments": {
       "level": "active",
-      "last_success_date": "2026-10-02",
+      "last_success_date": "2026-10-03",
       "last_check_date": null,
-      "consecutive_silent_days": 1,
-      "total_items": 3955,
+      "consecutive_silent_days": 0,
+      "total_items": 3962,
       "errors": []
     }
   }

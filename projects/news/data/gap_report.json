@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-03T08:43:21.023165+00:00",
-  "total_gaps": 248,
+  "generated_at": "2026-10-03T14:04:41.080233+00:00",
+  "total_gaps": 254,
   "coverage": {
-    "sources_total": 19,
-    "sources_scanned": 17,
+    "sources_total": 21,
+    "sources_scanned": 19,
     "sources_insufficient": 2
   },
   "platforms": {
@@ -265,6 +265,17 @@
         "2026-08-21"
       ],
       "count": 3
+    },
+    "taptap_review": {
+      "missing_dates": [
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-10-01",
+        "2026-10-02"
+      ],
+      "count": 6
     },
     "weibo": {
       "missing_dates": [

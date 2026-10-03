@@ -643,6 +643,13 @@
       "title": "ESSE JOGO TEM ALMA OU É SÓ MAIS UM FEITO POR IA?",
       "time": "2026-10-02T14:37:48Z",
       "downloaded_at": "2026-10-03T08:43:20.275047+00:00"
+    },
+    "https://i.ytimg.com/vi/wPd_cR-IYUA/hqdefault_live.jpg": {
+      "filename": "youtube_8ff88ee70085c859.jpg",
+      "source": "youtube",
+      "title": "【忘却前夜　意識潜行】コーパサント　最後の航行案内【ローグライクで遊ぼうの会】",
+      "time": "2026-10-03T12:55:02Z",
+      "downloaded_at": "2026-10-03T14:04:40.265101+00:00"
     }
   },
   "failed": {
@@ -825,6 +832,16 @@
       "source": "bilibili",
       "reason": "download_failed",
       "attempted_at": "2026-10-03T08:43:20.575532+00:00"
+    },
+    "//i0.hdslb.com/bfs/archive/49d71dadd7120ae4edad055ae47814a23a0a9b93.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-03T14:04:39.721554+00:00"
+    },
+    "//i0.hdslb.com/bfs/archive/f42189e6a751531777ae892edbf33b80c67d70a8.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-03T14:04:40.565628+00:00"
     }
   },
   "archived": []
