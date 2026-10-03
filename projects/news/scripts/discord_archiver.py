@@ -20,6 +20,7 @@ Discord 全量数据归档器 v2 — 双轨并行 + 断点续传 + JSONL 去重
 import argparse
 import json
 import os
+import re
 import sys
 import time
 import logging
@@ -1367,6 +1368,68 @@ class DiscordArchiver:
             f'{len(text_channels)} channels, {elapsed}s'
         )
 
+    # ── 定向重抓（断档回填）────────────────────────────────────────────────────
+
+    def run_refetch_months(self, months: list[str]):
+        """定向重抓指定月份（断档回填，2026-10-03 守密人裁定补 2026-02/03）。
+
+        常规历史回填有两道闸会永远跳过断档月：`history_backfill_complete` 闩锁、
+        「已上 Releases 的月份不重抓」守卫（Releases 里存的是断档时的残缺工作树）。
+        本模式绕开两者，但不动它们：历史指针、闩锁、每频道历史游标原样保留；
+        断点续跑游标另存 state['refetch']。写入照常按消息 ID 去重（含冷层 .gz），重抓不会重复。
+        """
+        try:
+            self._run_refetch(months)
+        finally:
+            self._flush_on_exit()
+
+    def _run_refetch(self, months: list[str]):
+        channels = self.fetch_guild_meta()
+        text_channels = [ch for ch in channels if ch.get('type', 0) in {0, 5}]
+        pending = self.state.setdefault('refetch', {})
+        done = set(self.state.get('refetch_done', []))
+        for month_str in months:
+            if month_str in done:
+                logger.info(f'Refetch {month_str}: already done — skip')
+                continue
+            y, m = int(month_str[:4]), int(month_str[5:7])
+            after_sf, before_sf = _month_bounds(y, m)
+            cursors = pending.setdefault(month_str, {})
+            total = 0
+            for ch in text_channels:
+                if self._is_time_up():
+                    break
+                ch_key = str(ch['id'])
+                if int(cursors.get(ch_key, after_sf)) >= int(before_sf):
+                    continue
+                st = self._ch_state(ch_key)
+                saved = {k: st.get(k) for k in ('last_historical_month', 'last_historical_message_id', 'empty_months')}
+                # 借用历史抓取函数：临时换上本次重抓的游标、去掉该月的空月标记，抓完还原
+                st['last_historical_month'] = month_str
+                st['last_historical_message_id'] = cursors.get(ch_key, after_sf)
+                st['empty_months'] = [x for x in (saved['empty_months'] or []) if x != month_str]
+                try:
+                    count = self.fetch_channel_history_month(ch['id'], ch.get('name', ''), y, m)
+                    reached = st.get('last_historical_message_id', after_sf)
+                finally:
+                    for k, v in saved.items():
+                        if v is None:
+                            st.pop(k, None)
+                        else:
+                            st[k] = v
+                cursors[ch_key] = before_sf if count == -1 else reached
+                total += max(count, 0)
+                self._save_state()
+            finished = all(int(cursors.get(str(ch['id']), after_sf)) >= int(before_sf) for ch in text_channels
+                           if not self._ch_state(str(ch['id'])).get('forbidden'))
+            logger.info(f'Refetch {month_str}: {total} new messages, {"complete" if finished else "partial"}')
+            if not finished:
+                break  # 时间用完：下次运行从游标接着抓
+            done.add(month_str)
+            pending.pop(month_str, None)
+            self.state['refetch_done'] = sorted(done)
+            self._save_state()
+
 
 def main():
     parser = argparse.ArgumentParser(description='Discord data archiver v2')
@@ -1374,10 +1437,21 @@ def main():
         '--history-only', action='store_true',
         help='Skip incremental, dedicate full runtime to historical backfill'
     )
+    parser.add_argument(
+        '--refetch-months', default='',
+        help='逗号分隔的 YYYY-MM：定向重抓这些月份（断档回填），可断点续跑'
+    )
     args = parser.parse_args()
 
+    months = [x.strip() for x in args.refetch_months.split(',') if x.strip()]
+    bad = [x for x in months if not re.fullmatch(r'\d{4}-(0[1-9]|1[0-2])', x)]
+    if bad:
+        parser.error(f'--refetch-months 格式应为 YYYY-MM：{bad}')
+
     archiver = DiscordArchiver()
-    if args.history_only:
+    if months:
+        archiver.run_refetch_months(months)
+    elif args.history_only:
         archiver.run_history_only()
     else:
         archiver.run()
