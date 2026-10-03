@@ -27,6 +27,8 @@ class FixedDatetime(datetime):
 ])
 def test_temporal_provenance_pipeline(monkeypatch, tmp_path, fixture, reply):
     monkeypatch.setattr(gc, 'datetime', FixedDatetime)
+    # merge_and_dedup 的时效过滤读 collect_global 的时钟；不钉住，样本过了 24 小时就被当旧条目滤掉
+    monkeypatch.setattr(collect_global, 'datetime', FixedDatetime)
     monkeypatch.setattr(gc, 'HOURS_LOOKBACK', 24)
     monkeypatch.setattr(gc.time, 'sleep', lambda _: None)
     response = Mock(text=(FIXTURES / fixture).read_text(encoding='utf-8'))
