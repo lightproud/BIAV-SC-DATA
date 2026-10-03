@@ -1,0 +1,224 @@
+{
+  "date": "2026-02-28",
+  "messages": 8425,
+  "unique_authors": 176,
+  "reactions_total": 1453,
+  "attachments": 365,
+  "channel_activity": {
+    "🔸綜合討論": 388,
+    "🔸morimens-game-chat": 7774,
+    "🔸剧情交流": 2,
+    "🔸欢乐梗图": 2,
+    "🔸相位对弈": 20,
+    "🔸课间休息闲聊": 8,
+    "🔸日本語チャンネル": 2,
+    "🔸한국어-채팅방": 14,
+    "🔸deutscher-chatraum": 43,
+    "🔸русский-канал": 148,
+    "1477027346493079726": 1,
+    "1477259481023778901": 1,
+    "1477155675518926848": 1,
+    "1476995177863450685": 1,
+    "1476983272947978391": 1,
+    "1476991552147685590": 1,
+    "1477167202884124722": 1,
+    "1477254942199910431": 1,
+    "1477245567309578240": 1,
+    "1476988744601964656": 1,
+    "1477252772096380989": 1,
+    "🔸lets-count": 13
+  },
+  "hourly_activity": {
+    "0": 338,
+    "2": 483,
+    "6": 413,
+    "7": 324,
+    "8": 536,
+    "9": 571,
+    "10": 319,
+    "11": 198,
+    "12": 478,
+    "14": 183,
+    "15": 274,
+    "16": 237,
+    "17": 55,
+    "18": 158,
+    "19": 286,
+    "21": 418,
+    "22": 319,
+    "23": 393,
+    "1": 508,
+    "3": 589,
+    "4": 335,
+    "5": 105,
+    "13": 502,
+    "20": 403
+  },
+  "message_types": {
+    "0": 5649,
+    "19": 2775,
+    "20": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1477252772096380989",
+      "channel_id": "1477252772096380989",
+      "content": "Quick doodle of Sylvester <:MC_Jointhefun2:1468258739181195286> the caption is..",
+      "author": "that_one_chippy",
+      "reactions": 27,
+      "channel": ""
+    },
+    {
+      "id": "1476988744601964656",
+      "channel_id": "1476988744601964656",
+      "content": "因为使用了翻译器，所以可能会尴尬。 <@633215996508766229> \nIt can be awkward using a translator.",
+      "author": "gaedol.",
+      "reactions": 25,
+      "channel": ""
+    },
+    {
+      "id": "1477189160266891326",
+      "channel_id": "1180437373012672522",
+      "content": "",
+      "author": "heikwok",
+      "reactions": 13,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1476983272947978391",
+      "channel_id": "1476983272947978391",
+      "content": "Like the title suggests - there's a lot of cute/funny emotes in there, but I rar",
+      "author": "zzz1pp3rr",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1476995177863450685",
+      "channel_id": "1476995177863450685",
+      "content": "(Sorry for Using Google Translate)\n\nHello, I'm a newbie who recently started pla",
+      "author": "you_morio",
+      "reactions": 10,
+      "channel": ""
+    },
+    {
+      "id": "1477244574434066516",
+      "channel_id": "1170692781216378960",
+      "content": "but I prefer my layers stripped to the core",
+      "author": "jyeusu",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477254942199910431",
+      "channel_id": "1477254942199910431",
+      "content": "快速繪製西维斯特！<:rizz1:1356085398379692165>  標題嘛...不言自明啦～",
+      "author": "that_one_chippy",
+      "reactions": 9,
+      "channel": ""
+    },
+    {
+      "id": "1477077397995262065",
+      "channel_id": "1170692781216378960",
+      "content": "You're right, Thais is not Caro, she's a Goat Unit",
+      "author": "snorlax01",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477236796638105681",
+      "channel_id": "1170692781216378960",
+      "content": "https://tenor.com/view/walking-nautilus-wide-gif-17844364",
+      "author": "princess.goth",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477214369392623681",
+      "channel_id": "1131839817982947429",
+      "content": "造物和血量都很神秘",
+      "author": "ahong0727",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1477263619820617831",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "0.0._.0_0.",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1477099929322389616",
+      "channel_id": "1170692781216378960",
+      "content": "Have you tried having turn rewind",
+      "author": "syruponstrawberrycake",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477172958316204189",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "YAGPDB.xyz",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477286993233973439",
+      "channel_id": "1170692781216378960",
+      "content": "hes into that",
+      "author": "blecnes.",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477313417508294900",
+      "channel_id": "1170692781216378960",
+      "content": "leigh",
+      "author": "thymcguffinoomf",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477245567309578240",
+      "channel_id": "1477245567309578240",
+      "content": "5771npc粉丝有福了，npc制品来了，目前有下图这些npc制品供大家选购，其他npc也可以来群内蹲蹲后续的\n今晚8点开明信片手速排，想要拼谷的朋友们抓紧来了",
+      "author": "tianfang5580",
+      "reactions": 7,
+      "channel": ""
+    },
+    {
+      "id": "1477059754533851256",
+      "channel_id": "1170692781216378960",
+      "content": "hoping to E3 clem with this weeks pulls so i can use my dupes to OE kath",
+      "author": "tek2yuhdome",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477118537863663667",
+      "channel_id": "1170692781216378960",
+      "content": "pancake",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477292215247175720",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "arandomflamev2",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476982482179199020",
+      "channel_id": "1170692781216378960",
+      "content": "https://x.com/i/status/2027380238670323839",
+      "author": "kevsalvador",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

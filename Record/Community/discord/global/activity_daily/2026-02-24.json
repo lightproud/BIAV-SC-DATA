@@ -1,0 +1,216 @@
+{
+  "date": "2026-02-24",
+  "messages": 9488,
+  "unique_authors": 193,
+  "reactions_total": 1337,
+  "attachments": 315,
+  "channel_activity": {
+    "🔸綜合討論": 1467,
+    "🔸阵容构建": 25,
+    "🔸morimens-game-chat": 7626,
+    "🔸剧情交流": 151,
+    "🔸晒卡分享": 13,
+    "🔸deutscher-chatraum": 68,
+    "🔸chaîne-française": 6,
+    "🔸русский-канал": 107,
+    "1475583320975740968": 1,
+    "1475820428785090683": 1,
+    "1475688231235358840": 1,
+    "1475575350925725828": 1,
+    "1475529512912687205": 1,
+    "🔸lets-count": 20
+  },
+  "hourly_activity": {
+    "0": 254,
+    "1": 451,
+    "2": 380,
+    "3": 522,
+    "6": 436,
+    "7": 824,
+    "8": 510,
+    "9": 159,
+    "10": 342,
+    "11": 687,
+    "12": 361,
+    "13": 497,
+    "14": 483,
+    "15": 348,
+    "16": 460,
+    "17": 129,
+    "18": 120,
+    "19": 504,
+    "20": 172,
+    "21": 327,
+    "22": 447,
+    "23": 666,
+    "4": 146,
+    "5": 263
+  },
+  "message_types": {
+    "0": 6424,
+    "19": 3056,
+    "20": 8
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1475575350925725828",
+      "channel_id": "1475575350925725828",
+      "content": "Water-based marker on paper, no pencil 🫶\n\nAnyways I just think Mason is super pr",
+      "author": "fishhazardthewizard",
+      "reactions": 32,
+      "channel": ""
+    },
+    {
+      "id": "1475522955973754931",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "game.producer.light",
+      "reactions": 25,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475529512912687205",
+      "channel_id": "1475529512912687205",
+      "content": "\"Do you fancy there are such things as form or matter? I tell you, I have struck",
+      "author": "sexysneakystoat1625",
+      "reactions": 19,
+      "channel": ""
+    },
+    {
+      "id": "1475637490676404409",
+      "channel_id": "1170692781216378960",
+      "content": "IM THE STUPIDEST PERSON HERE",
+      "author": "spooky_penguin_",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475522959618867293",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "game.producer.light",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1475701839172341760",
+      "channel_id": "1131839817982947429",
+      "content": "我快刷到瘋魔了",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1475739866317717515",
+      "channel_id": "1170692781216378960",
+      "content": "Fck",
+      "author": "._.aahh",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475870607202713621",
+      "channel_id": "1170692781216378960",
+      "content": "You cannot control how people act in response to media rather than removing the ",
+      "author": "__alicization__",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475872861758427158",
+      "channel_id": "1170692781216378960",
+      "content": "Please respect my pronouns",
+      "author": "legendaryredz",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475873597707915265",
+      "channel_id": "1170692781216378960",
+      "content": "here have this",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475856370719920170",
+      "channel_id": "1174983699935277147",
+      "content": "偶尔一运气……嘿嘿嘿",
+      "author": "_haru555_",
+      "reactions": 6,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1475873300105138309",
+      "channel_id": "1355630588094320661",
+      "content": "3560 <:thinking1:1356068128936820929>",
+      "author": "sunstopshining",
+      "reactions": 6,
+      "channel": "🔸lets-count"
+    },
+    {
+      "id": "1475773650283139174",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "lululu9858",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1475637640807190650",
+      "channel_id": "1170692781216378960",
+      "content": "Villa, kill bagels",
+      "author": "spooky_penguin_",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475690138456559740",
+      "channel_id": "1170692781216378960",
+      "content": "Well, jsut say that hydra can have lots of heads above 9",
+      "author": "brainrot_in_a_vat",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475836334756204585",
+      "channel_id": "1170692781216378960",
+      "content": "i managed to get a5 <:Murphy_satisfy:1468258389850193960>",
+      "author": "chinkeeyong",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475861170836734086",
+      "channel_id": "1170692781216378960",
+      "content": "xu was so mid",
+      "author": "princess.goth",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475864839883853955",
+      "channel_id": "1170692781216378960",
+      "content": "six seven brought me back to life",
+      "author": "bagels5899",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475872307175227422",
+      "channel_id": "1170692781216378960",
+      "content": "Residents of this discord have a weird habit of assuming that everyone is female",
+      "author": "sirtealot",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475884557088587909",
+      "channel_id": "1170692781216378960",
+      "content": "Run Aequor",
+      "author": "frosthief",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "date": "2026-02-16",
+  "messages": 9817,
+  "unique_authors": 246,
+  "reactions_total": 1801,
+  "attachments": 687,
+  "channel_activity": {
+    "🔸綜合討論": 1631,
+    "🔸阵容构建": 132,
+    "🔸morimens-game-chat": 7142,
+    "🔸剧情交流": 74,
+    "🔸晒卡分享": 47,
+    "🔸欢乐梗图": 3,
+    "🔸한국어-채팅방": 7,
+    "🔸deutscher-chatraum": 56,
+    "🔸русский-канал": 357,
+    "🔸phòng-chat-tiếng-việt": 344,
+    "1472831885519618201": 1,
+    "1472865020864893020": 1,
+    "1472932637361438862": 1,
+    "1472808867732652205": 1,
+    "🔸lets-count": 20
+  },
+  "hourly_activity": {
+    "0": 277,
+    "1": 327,
+    "2": 312,
+    "3": 212,
+    "6": 473,
+    "7": 375,
+    "8": 136,
+    "9": 547,
+    "10": 499,
+    "11": 180,
+    "12": 318,
+    "13": 343,
+    "14": 209,
+    "15": 253,
+    "16": 321,
+    "17": 378,
+    "18": 616,
+    "19": 593,
+    "20": 709,
+    "21": 628,
+    "22": 622,
+    "23": 583,
+    "4": 509,
+    "5": 397
+  },
+  "message_types": {
+    "0": 6978,
+    "19": 2836,
+    "20": 3
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1472715295167614976",
+      "channel_id": "1170692781216378960",
+      "content": "Fuck im stupid",
+      "author": "spooky_penguin_",
+      "reactions": 47,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472742071688233207",
+      "channel_id": "1170692781216378960",
+      "content": "bruh I look like a single dad in his 30s",
+      "author": "_kito_kato_",
+      "reactions": 30,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472947059236798515",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "game.producer.light",
+      "reactions": 19,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472948056378048576",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "game.producer.light",
+      "reactions": 17,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472808867732652205",
+      "channel_id": "1472808867732652205",
+      "content": "",
+      "author": "h3ll0hu",
+      "reactions": 13,
+      "channel": ""
+    },
+    {
+      "id": "1472920854777299066",
+      "channel_id": "1170692781216378960",
+      "content": "Finally bought the preorder and look who i got from the random topup selector, i",
+      "author": "dreadful_grey_wolf",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472947862039035976",
+      "channel_id": "1170692781216378960",
+      "content": "Check In-game mailbox？",
+      "author": "game.producer.light",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472875033058738250",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "quackdayo",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1472947176391971062",
+      "channel_id": "1170692781216378960",
+      "content": "Hi",
+      "author": "game.producer.light",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472890994155458707",
+      "channel_id": "1131839817982947429",
+      "content": "沒有 但為了訓練外向我時不時會去跟路人慶祝",
+      "author": "xingxiu_0209",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1472891635812532286",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "cs001092",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1472938529490210973",
+      "channel_id": "1170692781216378960",
+      "content": "The New Morimens Discord-Reddit drama is Crazy",
+      "author": "arandomflamev2",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472941044059476090",
+      "channel_id": "1170692781216378960",
+      "content": "If male I'll say skip",
+      "author": "aurora3981",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472945004128501811",
+      "channel_id": "1170692781216378960",
+      "content": "forced to play A*quor",
+      "author": "bagels5899",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472672486217879602",
+      "channel_id": "1131839817982947429",
+      "content": "我意識到了\n比起熬夜到9點\n睡一覺鬧鐘設9點\n體感上會更快玩到遊戲\n所以我要來睡了",
+      "author": "xingxiu_0209",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1472917405444472875",
+      "channel_id": "1131839817982947429",
+      "content": "很想許願雙持下放到+4",
+      "author": "theal8893",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1472772288196907131",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472928247397482517",
+      "channel_id": "1131839817982947429",
+      "content": "萊克說列車能打滿他的被動 他要C一回\n融朵說要去和余組一輩子的毒隊結果死在星辰篇了\n哈姆林說這次列車他去其他隊當插件就不陪塔薇了\n關愛空巢老薇 喚醒體有責（野史",
+      "author": "vgvfvffcc",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1472811056085602376",
+      "channel_id": "1170692781216378960",
+      "content": "I'm F2P",
+      "author": "frosthief",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472935912374669513",
+      "channel_id": "1170692781216378960",
+      "content": "I agree flares guide shouldn't be removed on reddit cuz fuck reddit. I want to s",
+      "author": "aurora3981",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

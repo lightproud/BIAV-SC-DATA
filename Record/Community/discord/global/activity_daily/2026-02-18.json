@@ -1,0 +1,220 @@
+{
+  "date": "2026-02-18",
+  "messages": 8644,
+  "unique_authors": 201,
+  "reactions_total": 995,
+  "attachments": 367,
+  "channel_activity": {
+    "🔸綜合討論": 1163,
+    "🔸阵容构建": 4,
+    "🔸morimens-game-chat": 6008,
+    "🔸剧情交流": 14,
+    "🔸晒卡分享": 12,
+    "🔸相位对弈": 5,
+    "🔸한국어-채팅방": 2,
+    "🔸deutscher-chatraum": 6,
+    "🔸chaîne-française": 2,
+    "🔸русский-канал": 386,
+    "🔸phòng-chat-tiếng-việt": 1024,
+    "1473451650852061296": 1,
+    "1473585086791422074": 1,
+    "1473601284618850425": 1,
+    "1473652928085626974": 1,
+    "1473632625695658170": 1,
+    "🔸lets-count": 13
+  },
+  "hourly_activity": {
+    "0": 572,
+    "1": 522,
+    "2": 916,
+    "3": 282,
+    "4": 319,
+    "7": 254,
+    "9": 145,
+    "10": 263,
+    "11": 307,
+    "12": 220,
+    "13": 191,
+    "14": 124,
+    "15": 566,
+    "16": 152,
+    "17": 201,
+    "18": 355,
+    "19": 345,
+    "20": 633,
+    "21": 609,
+    "22": 300,
+    "23": 721,
+    "5": 113,
+    "6": 303,
+    "8": 231
+  },
+  "message_types": {
+    "0": 6062,
+    "19": 2577,
+    "20": 4,
+    "46": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1473652928085626974",
+      "channel_id": "1473652928085626974",
+      "content": "he is real!",
+      "author": "dollyxqyan",
+      "reactions": 31,
+      "channel": ""
+    },
+    {
+      "id": "1473632625695658170",
+      "channel_id": "1473632625695658170",
+      "content": "I’m still trying to get used to her design 🤪",
+      "author": "tealsnicker",
+      "reactions": 18,
+      "channel": ""
+    },
+    {
+      "id": "1473409176477892639",
+      "channel_id": "1131839817982947429",
+      "content": "困难解完了<:pray:1356053116260454534>   \n小水母好玩诶<:Aurita_pinch:1468258028271833119> <:",
+      "author": "sweet_25367",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1473357345181405468",
+      "channel_id": "1170692781216378960",
+      "content": "Guys I js finished ch1",
+      "author": "Deleted User",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1473490339661873173",
+      "channel_id": "1170692781216378960",
+      "content": "<@285755067213152257> <@1471414323883540501> i did it",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1473609629975183411",
+      "channel_id": "1170692781216378960",
+      "content": "excuse YOU????",
+      "author": "coff_6511",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1473634176346488914",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "zier.0",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1473456134315839499",
+      "channel_id": "1131839817982947429",
+      "content": "看來佬是水船高手",
+      "author": "Deleted User",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1473541156246917242",
+      "channel_id": "1170692781216378960",
+      "content": "casiah is ass",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1473656233503232070",
+      "channel_id": "1170692781216378960",
+      "content": "the <:24_Clown:1468259444423921871> is back",
+      "author": "spooky_penguin_",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1473592419361755167",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "akalanden",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1473384786981818398",
+      "channel_id": "1170692781216378960",
+      "content": "For the newbies out there, don't forget to redeem codes for freebies ( The timer",
+      "author": "angbak",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1473536401789423795",
+      "channel_id": "1170692781216378960",
+      "content": "He was just talking about Chinese New Year’s earlier",
+      "author": "frosthief",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1473387986036068605",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "akalanden",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1473391934478352465",
+      "channel_id": "1131839817982947429",
+      "content": "但獻祭無視轉階段還是太猛了",
+      "author": "ena04564",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1473624353806749933",
+      "channel_id": "1131839817982947429",
+      "content": "也有可能搞突袭\n早上放立绘\n中午放技能\n晚上放活动预览\n然后美美准时更新",
+      "author": "ling_an_",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1473662440825946235",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1473668372511195227",
+      "channel_id": "1131839817982947429",
+      "content": "<@567246096473128960> 老子刮刮樂中10000",
+      "author": "a._0320",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1473354109242310927",
+      "channel_id": "1170692781216378960",
+      "content": "also uh .. how does wanda work <:24_smile:1459073862544130131>",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1473380858235850826",
+      "channel_id": "1170692781216378960",
+      "content": "birth is just broken period",
+      "author": "arkaether",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

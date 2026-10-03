@@ -1,0 +1,229 @@
+{
+  "date": "2026-02-17",
+  "messages": 11381,
+  "unique_authors": 248,
+  "reactions_total": 1531,
+  "attachments": 600,
+  "channel_activity": {
+    "🔸綜合討論": 1671,
+    "🔸阵容构建": 24,
+    "🔸morimens-game-chat": 7748,
+    "🔸剧情交流": 24,
+    "🔸晒卡分享": 25,
+    "🔸欢乐梗图": 1,
+    "🔸课间休息闲聊": 13,
+    "🔸한국어-채팅방": 12,
+    "🔸deutscher-chatraum": 20,
+    "🔸chaîne-française": 7,
+    "🔸русский-канал": 192,
+    "🔸phòng-chat-tiếng-việt": 1610,
+    "1473088730817626232": 1,
+    "1473060193242845216": 1,
+    "1473025129322774812": 1,
+    "1473239520706170967": 1,
+    "1473178110831759402": 1,
+    "1472990612054737020": 1,
+    "1473094546219864219": 1,
+    "1473107244714295409": 1,
+    "1473345269792772157": 1,
+    "1473249126081761292": 1,
+    "1473110923907698751": 1,
+    "1473329092735668245": 1,
+    "1473248003945922684": 1,
+    "1473141784191176785": 1,
+    "🔸lets-count": 20
+  },
+  "hourly_activity": {
+    "0": 752,
+    "1": 429,
+    "2": 481,
+    "3": 291,
+    "4": 787,
+    "5": 481,
+    "6": 330,
+    "7": 570,
+    "8": 491,
+    "9": 518,
+    "10": 410,
+    "11": 104,
+    "12": 155,
+    "13": 273,
+    "14": 285,
+    "15": 242,
+    "16": 372,
+    "17": 379,
+    "18": 188,
+    "19": 560,
+    "20": 445,
+    "21": 588,
+    "22": 1279,
+    "23": 971
+  },
+  "message_types": {
+    "0": 7676,
+    "19": 3702,
+    "20": 3
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1473345269792772157",
+      "channel_id": "1473345269792772157",
+      "content": "報社記者在現場只找到髒骸城狗仔的相機和這張相紙，關於狗仔的下落我們仍舊未知。\n\n\n繪師：等於幾",
+      "author": "calmdreab",
+      "reactions": 27,
+      "channel": ""
+    },
+    {
+      "id": "1473248003945922684",
+      "channel_id": "1473248003945922684",
+      "content": "May luck and prosperity be with everyone on this special occasion~ As well as I ",
+      "author": "that_one_chippy",
+      "reactions": 25,
+      "channel": ""
+    },
+    {
+      "id": "1473329092735668245",
+      "channel_id": "1473329092735668245",
+      "content": "Getting back into the groove of doodling quick full body sprites, and what bette",
+      "author": "midnight_emporium",
+      "reactions": 24,
+      "channel": ""
+    },
+    {
+      "id": "1473141784191176785",
+      "channel_id": "1473141784191176785",
+      "content": "",
+      "author": "he_xuan33",
+      "reactions": 21,
+      "channel": ""
+    },
+    {
+      "id": "1473309037851443200",
+      "channel_id": "1180437373012672522",
+      "content": "",
+      "author": "r1nouo",
+      "reactions": 20,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1472990612054737020",
+      "channel_id": "1472990612054737020",
+      "content": "圖文不符\n今天初一新年\n那麼剛好是我推哈姆林的第520天\n所以速摸了一個比心的哈姆林<:Hameln_love:1468257934348783749> \n\n祝",
+      "author": "9ix_eternity",
+      "reactions": 17,
+      "channel": ""
+    },
+    {
+      "id": "1473239520706170967",
+      "channel_id": "1473239520706170967",
+      "content": "Remove the fog hiding the map when playing P Dive. \nThis is a game mode where pl",
+      "author": "aurora3981",
+      "reactions": 14,
+      "channel": ""
+    },
+    {
+      "id": "1473094546219864219",
+      "channel_id": "1473094546219864219",
+      "content": "",
+      "author": "shadiaodiaodeyu_89215",
+      "reactions": 12,
+      "channel": ""
+    },
+    {
+      "id": "1473025129322774812",
+      "channel_id": "1473025129322774812",
+      "content": "The emotes are incredibly cute and only being able to use them in traphase (bad ",
+      "author": "spooky_penguin_",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1473107244714295409",
+      "channel_id": "1473107244714295409",
+      "content": "小皮小皮你超可爱。",
+      "author": "dittoqwq",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1473213355949953077",
+      "channel_id": "1131839817982947429",
+      "content": "米粒雅母",
+      "author": "vgvfvffcc",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1473249126081761292",
+      "channel_id": "1473249126081761292",
+      "content": "值此特殊时刻，愿好运与繁荣常伴大家左右~ 也希望你能收到很多红包！！\n\n我画了杜勒赛因，为西维斯特准备了小礼物，献给这个日子🧧  两人之间的幸运信物！我今年的愿",
+      "author": "that_one_chippy",
+      "reactions": 9,
+      "channel": ""
+    },
+    {
+      "id": "1473072381781213304",
+      "channel_id": "1170692781216378960",
+      "content": "morimens is featured in steam china's lunar new year sales event \"free to play\" ",
+      "author": "thatfancypotato",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1473090891378856079",
+      "channel_id": "1170692781216378960",
+      "content": "<a:NOPERS:1288591428481712251> i think Horla is better",
+      "author": "cornonthemacabre_",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1473008976290517236",
+      "channel_id": "1131839817982947429",
+      "content": "初一㊗您玩忘却前夜\n初二㊗您玩忘却前夜\n初三㊗您玩忘却前夜\n初四㊗您玩忘却前夜\n初五㊗您玩忘却前夜\n初六㊗您玩忘却前夜\n初七㊗您玩忘却前夜\n初八㊗您玩忘却前夜\n",
+      "author": "nahida._90",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1473048488018317365",
+      "channel_id": "1170692781216378960",
+      "content": "Local roll also rated GMurphy at B tier, we need to report her also!",
+      "author": "spooky_penguin_",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1473232810331472007",
+      "channel_id": "1170692781216378960",
+      "content": "This ratio is the most optimal",
+      "author": "moyashi0672",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1473324456280592497",
+      "channel_id": "1170692781216378960",
+      "content": "Since they are not happy with your pfp, change it to this, it's new",
+      "author": "moyashi0672",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1473328295071318108",
+      "channel_id": "1170692781216378960",
+      "content": "🔼 this person is someone who does 425 in D-Tide for 0 additional reward beyond 4",
+      "author": "legendaryredz",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1473013125430120611",
+      "channel_id": "1170692781216378960",
+      "content": "Feel like it would be unplayable without hamel though lmao",
+      "author": "polkarain",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

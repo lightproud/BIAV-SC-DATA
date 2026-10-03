@@ -1,0 +1,216 @@
+{
+  "date": "2026-02-08",
+  "messages": 10119,
+  "unique_authors": 180,
+  "reactions_total": 1460,
+  "attachments": 425,
+  "channel_activity": {
+    "🔸綜合討論": 2068,
+    "🔸阵容构建": 27,
+    "🔸morimens-game-chat": 6413,
+    "🔸晒卡分享": 11,
+    "🔸欢乐梗图": 2,
+    "🔸课间休息闲聊": 171,
+    "🔸한국어-채팅방": 2,
+    "🔸chaîne-française": 1,
+    "🔸русский-канал": 1111,
+    "🔸phòng-chat-tiếng-việt": 300,
+    "1469879211790569482": 1,
+    "1470001139432030431": 1,
+    "1469984711660142696": 1,
+    "1469809548926648411": 1,
+    "🔸lets-count": 9
+  },
+  "hourly_activity": {
+    "0": 753,
+    "1": 884,
+    "2": 429,
+    "3": 344,
+    "7": 450,
+    "8": 403,
+    "9": 140,
+    "10": 344,
+    "11": 218,
+    "12": 408,
+    "13": 599,
+    "14": 287,
+    "15": 281,
+    "16": 199,
+    "17": 282,
+    "18": 299,
+    "19": 329,
+    "20": 330,
+    "21": 452,
+    "22": 518,
+    "23": 824,
+    "4": 267,
+    "5": 557,
+    "6": 522
+  },
+  "message_types": {
+    "0": 7317,
+    "19": 2802
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1470046492122415308",
+      "channel_id": "1170692781216378960",
+      "content": "https://tenor.com/view/aaaaaaaaaaaaaaaaaaa-getoutofmyhead-cat-gif-24215722",
+      "author": "bagels5899",
+      "reactions": 30,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469894833689858201",
+      "channel_id": "1170692781216378960",
+      "content": "Finally win without using death resistance",
+      "author": "Deleted User",
+      "reactions": 23,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469809548926648411",
+      "channel_id": "1469809548926648411",
+      "content": "喜欢戈利亚真的好萌好萌\n后面一段时间都会画的",
+      "author": "jijia5738",
+      "reactions": 20,
+      "channel": ""
+    },
+    {
+      "id": "1469927753217343581",
+      "channel_id": "1174983699935277147",
+      "content": "入坑12天以來的所有\n隨機限定全出紅夫人",
+      "author": "xingxiu_0209",
+      "reactions": 11,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1469984711660142696",
+      "channel_id": "1469984711660142696",
+      "content": "Hoy everyone, the **\"1 in a Million\" Banner** is coming soon and we wanted to cl",
+      "author": "vxvendetta97",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1469827987183505574",
+      "channel_id": "1170692781216378960",
+      "content": "STOP TOMATOINF ME",
+      "author": ".kleinod.",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1470006710251815108",
+      "channel_id": "1174983699935277147",
+      "content": "囤囤鼠大王<:pray:1356053116260454534>",
+      "author": "kalpiko.",
+      "reactions": 9,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1469888820102041694",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "Deleted User",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1469901531544293418",
+      "channel_id": "1170692781216378960",
+      "content": "+10...",
+      "author": "sooneruzuki",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1470086129691922474",
+      "channel_id": "1170692781216378960",
+      "content": "She's heree!!!",
+      "author": "spooky_penguin_",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1470009775172485205",
+      "channel_id": "1174983699935277147",
+      "content": "雙+12",
+      "author": "andy1123",
+      "reactions": 7,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1469995705576722543",
+      "channel_id": "1180437373012672522",
+      "content": "",
+      "author": "Deleted User",
+      "reactions": 7,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1469745031010058372",
+      "channel_id": "1131839817982947429",
+      "content": "突然想到阿遙和盤子的cp名叫遙控盤",
+      "author": "ahong0727",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1469993470746955958",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "Deleted User",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1469752981430861918",
+      "channel_id": "1170692781216378960",
+      "content": "Sorry im a filthy non 425 my opnions are automatically invalidated",
+      "author": "tnimreppep",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469848305075884198",
+      "channel_id": "1170692781216378960",
+      "content": "My pandia team was basically a meme, until i went into H9-3 and surprised people",
+      "author": "moyashi0672",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469891751522209924",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1470071807288803439",
+      "channel_id": "1131839817982947429",
+      "content": "誕墨也很簡單\n輪舞、輪舞、輪舞、輪舞、輪舞、輪舞、輪舞、輪舞、輪舞、輪舞、輪舞、輪舞",
+      "author": "dog794",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1469825031230984419",
+      "channel_id": "1170692781216378960",
+      "content": "We have a universally accessible turn rewind:\nthe reset button",
+      "author": "frosthief",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469834565316247604",
+      "channel_id": "1170692781216378960",
+      "content": "OKAY ALL CARO + MOUCHETTE DONE.\n\nTIME FOR AQ",
+      "author": "angbak",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

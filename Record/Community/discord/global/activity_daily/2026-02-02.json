@@ -1,0 +1,220 @@
+{
+  "date": "2026-02-02",
+  "messages": 8382,
+  "unique_authors": 174,
+  "reactions_total": 1208,
+  "attachments": 399,
+  "channel_activity": {
+    "🔸綜合討論": 676,
+    "🔸阵容构建": 4,
+    "🔸morimens-game-chat": 6060,
+    "🔸相位对弈": 5,
+    "🔸交友频道": 29,
+    "🔸日本語チャンネル": 6,
+    "🔸한국어-채팅방": 1,
+    "🔸русский-канал": 1171,
+    "🔸phòng-chat-tiếng-việt": 413,
+    "1467590496690901136": 1,
+    "1467848755364761776": 1,
+    "1467890449598644305": 1,
+    "1467777971782680651": 1,
+    "1467801756359589971": 1,
+    "1467760607678959862": 1,
+    "1467895177589821470": 1,
+    "1467804120873177242": 1,
+    "🔸lets-count": 9
+  },
+  "hourly_activity": {
+    "0": 1179,
+    "1": 738,
+    "2": 410,
+    "3": 83,
+    "4": 77,
+    "6": 152,
+    "7": 195,
+    "8": 171,
+    "9": 349,
+    "10": 196,
+    "11": 472,
+    "12": 213,
+    "13": 388,
+    "14": 355,
+    "15": 290,
+    "16": 368,
+    "17": 340,
+    "18": 245,
+    "19": 212,
+    "20": 275,
+    "21": 484,
+    "22": 547,
+    "23": 614,
+    "5": 29
+  },
+  "message_types": {
+    "19": 2154,
+    "0": 6227,
+    "20": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1467895177589821470",
+      "channel_id": "1467895177589821470",
+      "content": "",
+      "author": "sunstopshining",
+      "reactions": 28,
+      "channel": ""
+    },
+    {
+      "id": "1467804120873177242",
+      "channel_id": "1467804120873177242",
+      "content": "Hi, I drew cute manga about the massage with murphy, hope you'll like it !\nAt fi",
+      "author": "souri.10244",
+      "reactions": 23,
+      "channel": ""
+    },
+    {
+      "id": "1467823770449481841",
+      "channel_id": "1131839817982947429",
+      "content": "幫你做了一張圖 <:24_smile:1459073862544130131>",
+      "author": "a4485",
+      "reactions": 20,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467760607678959862",
+      "channel_id": "1467760607678959862",
+      "content": "Mod will release soon ig",
+      "author": "astellars",
+      "reactions": 19,
+      "channel": ""
+    },
+    {
+      "id": "1467801756359589971",
+      "channel_id": "1467801756359589971",
+      "content": "不定期更新忘Q前夜四格漫畫\n本來想說周更的但我畫一張畫了5天周更不來<:takenotes:1357186646294138890> \n目前的想法是把角色短訊跟",
+      "author": "souri.10244",
+      "reactions": 18,
+      "channel": ""
+    },
+    {
+      "id": "1467760023013822695",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "ernest_heart",
+      "reactions": 11,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467677303671885856",
+      "channel_id": "1170692781216378960",
+      "content": "New content <:Helot_slack_off:1459092159465521184>",
+      "author": "rain_scarlet",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1467767184402157652",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467854384049291469",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "angbak",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467857686476623943",
+      "channel_id": "1131839817982947429",
+      "content": "忘记发了<:T_sleep2:1356085993626665200>   \n收工<:pray:1356053116260454534>   \n修完bug艾尔瓦",
+      "author": "sweet_25367",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467876860888350721",
+      "channel_id": "1170692781216378960",
+      "content": "aurora the fun police",
+      "author": "lavache.",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1467806979719172097",
+      "channel_id": "1131839817982947429",
+      "content": "醬油香蕉蒸蛋佐乾燥紅藻",
+      "author": "ernest_heart",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467728545777320051",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "brainrot_in_a_vat",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1467848755364761776",
+      "channel_id": "1467848755364761776",
+      "content": "",
+      "author": "cornonthemacabre_",
+      "reactions": 7,
+      "channel": ""
+    },
+    {
+      "id": "1467708072716931285",
+      "channel_id": "1131839817982947429",
+      "content": "对面的茉夏好吵喔<:dead:1356082627509092372>",
+      "author": "sweet_25367",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467807817216950410",
+      "channel_id": "1131839817982947429",
+      "content": "大家再見",
+      "author": "ahuahuahua",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467653354250305640",
+      "channel_id": "1170692781216378960",
+      "content": "\"nice house btw. So which part you didn't like about my tierlist?\"",
+      "author": "arandomflamev2",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1467703243114283070",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467813365308067850",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "ahong0727",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467902417873010812",
+      "channel_id": "1131839817982947429",
+      "content": "~~把貓踢了換人來做~~",
+      "author": "yy42974466",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

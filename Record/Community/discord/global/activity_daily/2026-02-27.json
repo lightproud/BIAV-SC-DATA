@@ -1,0 +1,218 @@
+{
+  "date": "2026-02-27",
+  "messages": 9446,
+  "unique_authors": 193,
+  "reactions_total": 2032,
+  "attachments": 354,
+  "channel_activity": {
+    "🔸綜合討論": 479,
+    "🔸阵容构建": 29,
+    "🔸morimens-game-chat": 8483,
+    "🔸晒卡分享": 9,
+    "🔸欢乐梗图": 5,
+    "🔸相位对弈": 24,
+    "🔸课间休息闲聊": 3,
+    "🔸交友频道": 2,
+    "🔸한국어-채팅방": 24,
+    "🔸deutscher-chatraum": 12,
+    "🔸русский-канал": 363,
+    "1476657695724670987": 1,
+    "1476676408943312897": 1,
+    "1476779494521045002": 1,
+    "🔸lets-count": 9,
+    "1476647226779369492": 1
+  },
+  "hourly_activity": {
+    "0": 189,
+    "1": 492,
+    "4": 562,
+    "5": 300,
+    "7": 316,
+    "8": 671,
+    "9": 405,
+    "10": 464,
+    "12": 138,
+    "13": 332,
+    "14": 128,
+    "15": 92,
+    "16": 318,
+    "17": 316,
+    "18": 364,
+    "19": 212,
+    "20": 214,
+    "21": 514,
+    "22": 835,
+    "23": 916,
+    "11": 140,
+    "2": 736,
+    "3": 574,
+    "6": 218
+  },
+  "message_types": {
+    "0": 6237,
+    "19": 3208,
+    "20": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1476779494521045002",
+      "channel_id": "1476779494521045002",
+      "content": "https://x.com/raum_en/status/2027220064311591337?s=20",
+      "author": "raumbobulus",
+      "reactions": 47,
+      "channel": ""
+    },
+    {
+      "id": "1476803872218415114",
+      "channel_id": "1180437373012672522",
+      "content": "",
+      "author": "heikwok",
+      "reactions": 16,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1476678921914286291",
+      "channel_id": "1170692781216378960",
+      "content": "I don't like feet",
+      "author": "spooky_penguin_",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476741771848318987",
+      "channel_id": "1170692781216378960",
+      "content": "<@88644018673582080>",
+      "author": "angbak",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476962870892695656",
+      "channel_id": "1170692781216378960",
+      "content": "<:Wheezechamp:1353842839683072210>",
+      "author": "brainrot_in_a_vat",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476679547008319659",
+      "channel_id": "1170692781216378960",
+      "content": "I talk to some people here more than my shity parents",
+      "author": "spooky_penguin_",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476737852426551479",
+      "channel_id": "1170692781216378960",
+      "content": "C TIER MOUCHETTE BUFF CONFIRMED?",
+      "author": "angbak",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476881568109691010",
+      "channel_id": "1170692781216378960",
+      "content": "If I don't see a Jinx update in less than 3 hours I'll blame you personally for ",
+      "author": "zekiei",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476953082750570568",
+      "channel_id": "1170692781216378960",
+      "content": "Oh wow I guess the game is telling me what it wants me to play next",
+      "author": "linireo",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476919945165275176",
+      "channel_id": "1174983699935277147",
+      "content": "",
+      "author": "aaaa_00098",
+      "reactions": 8,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1476741665883684966",
+      "channel_id": "1180437373012672522",
+      "content": "<:Helot_slack_off:1459092159465521184>",
+      "author": "Deleted User",
+      "reactions": 8,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1476738137287032903",
+      "channel_id": "1170692781216378960",
+      "content": "Mouchette buff: deals 5% less damage so she can use her dr more <:ramona_tuff_:1",
+      "author": "syruponstrawberrycake",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476821436633972766",
+      "channel_id": "1170692781216378960",
+      "content": "There is",
+      "author": "spooky_penguin_",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476962504721829932",
+      "channel_id": "1170692781216378960",
+      "content": "<:Dawww:965272358959079454>",
+      "author": "brainrot_in_a_vat",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476962178526351544",
+      "channel_id": "1174983699935277147",
+      "content": "10抽3金看呆",
+      "author": "Deleted User",
+      "reactions": 7,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1476641012179796050",
+      "channel_id": "1170692781216378960",
+      "content": "<:DollStare:1439369743613034658>",
+      "author": "brainrot_in_a_vat",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476674998373453885",
+      "channel_id": "1170692781216378960",
+      "content": "KAT",
+      "author": "blecnes.",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476735860106985583",
+      "channel_id": "1170692781216378960",
+      "content": "funny thing, i used to win community thingies in reverse1999 and use the prize m",
+      "author": "null.pointer_exception",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476768764635775076",
+      "channel_id": "1170692781216378960",
+      "content": "corpo",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476821993956442122",
+      "channel_id": "1170692781216378960",
+      "content": "new unit is likely gay",
+      "author": "tnimreppep",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "date": "2026-02-20",
+  "messages": 10127,
+  "unique_authors": 253,
+  "reactions_total": 1430,
+  "attachments": 441,
+  "channel_activity": {
+    "🔸綜合討論": 1333,
+    "🔸阵容构建": 102,
+    "🔸morimens-game-chat": 8053,
+    "🔸剧情交流": 3,
+    "🔸晒卡分享": 12,
+    "🔸欢乐梗图": 2,
+    "🔸课间休息闲聊": 3,
+    "🔸日本語チャンネル": 12,
+    "🔸한국어-채팅방": 10,
+    "🔸deutscher-chatraum": 16,
+    "🔸русский-канал": 560,
+    "1474395522092503243": 1,
+    "1474225877788135679": 1,
+    "1474242616735563839": 1,
+    "1474159836244611216": 1,
+    "1474241504720588861": 1,
+    "🔸lets-count": 15,
+    "1474221466697470160": 1
+  },
+  "hourly_activity": {
+    "0": 600,
+    "1": 798,
+    "2": 744,
+    "3": 648,
+    "4": 386,
+    "5": 300,
+    "6": 590,
+    "7": 563,
+    "8": 314,
+    "9": 376,
+    "10": 390,
+    "11": 294,
+    "12": 524,
+    "13": 265,
+    "14": 301,
+    "15": 246,
+    "16": 169,
+    "17": 188,
+    "18": 222,
+    "19": 396,
+    "20": 528,
+    "21": 536,
+    "22": 332,
+    "23": 417
+  },
+  "message_types": {
+    "0": 6810,
+    "19": 3312,
+    "20": 3,
+    "46": 1,
+    "23": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1474159836244611216",
+      "channel_id": "1474159836244611216",
+      "content": "i was thinking about Murphy in a cute outfit... \nhere we are :)\n\n<:Murphy_satisf",
+      "author": "bluepomander",
+      "reactions": 43,
+      "channel": ""
+    },
+    {
+      "id": "1474157627649949757",
+      "channel_id": "1170692781216378960",
+      "content": "damn color me suprised",
+      "author": "dracozion",
+      "reactions": 35,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474343023948075100",
+      "channel_id": "1180437373012672522",
+      "content": "",
+      "author": "r1nouo",
+      "reactions": 17,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1474241504720588861",
+      "channel_id": "1474241504720588861",
+      "content": "\"Doresain! Doresain...?\"\n\nPart 2 of of the new year art! But a tiny doodle, I th",
+      "author": "that_one_chippy",
+      "reactions": 17,
+      "channel": ""
+    },
+    {
+      "id": "1474180407363895388",
+      "channel_id": "1170692781216378960",
+      "content": "Lmao",
+      "author": "spooky_penguin_",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474321838640468082",
+      "channel_id": "1170692781216378960",
+      "content": "i could have had lv 90 uvhash a month ago 😭😭",
+      "author": "crowlov1",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474074029924155516",
+      "channel_id": "1170692781216378960",
+      "content": "Tinct design is amazing. Fight me.",
+      "author": "aileenatsuki",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474098150028607718",
+      "channel_id": "1170692781216378960",
+      "content": "Fuck you",
+      "author": "spooky_penguin_",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474101947358380043",
+      "channel_id": "1170692781216378960",
+      "content": "i cant believe people skip instead of just whaling",
+      "author": "_kito_kato_",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474263109085561032",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "crowlov1",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474416519495811188",
+      "channel_id": "1170692781216378960",
+      "content": "<@756514927870476519> I heard new info on upcoming character, https://x.com/Idot",
+      "author": "sunless_echoing",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474098292160860273",
+      "channel_id": "1170692781216378960",
+      "content": "the world's first non binary awakener, thank you for being progressive light 🗣️🔥",
+      "author": "balls8",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474175505703112820",
+      "channel_id": "1170692781216378960",
+      "content": "tulu is good in any aequor team that relies on tent scaling realistically",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474209203106349116",
+      "channel_id": "1170692781216378960",
+      "content": "Will also not login for a while after this",
+      "author": "manitar",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474390576723132436",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "legendaryredz",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474394144599183563",
+      "channel_id": "1170692781216378960",
+      "content": "Confidential leaks, don't let anyone know <:Tulu_stare:1468258231078879325>",
+      "author": "not_blueberry",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474404655323807845",
+      "channel_id": "1170692781216378960",
+      "content": "Relevant",
+      "author": "._.aahh",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474242616735563839",
+      "channel_id": "1474242616735563839",
+      "content": "\"杜勒赛因！....杜勒赛因？\n\n新年艺术第二弹！这只是我随手画的小涂鸦，描绘西维斯特戴着马面具的样子。\n\n杜勒赛因可能有点困惑，至少他觉得挺有趣的。",
+      "author": "that_one_chippy",
+      "reactions": 6,
+      "channel": ""
+    },
+    {
+      "id": "1474101953633058877",
+      "channel_id": "1131839817982947429",
+      "content": "思考三四天了",
+      "author": "xingxiu_0209",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1474294601761427607",
+      "channel_id": "1131839817982947429",
+      "content": "一回合1000永力",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

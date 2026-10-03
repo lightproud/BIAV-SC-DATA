@@ -1,0 +1,225 @@
+{
+  "date": "2026-02-12",
+  "messages": 8355,
+  "unique_authors": 221,
+  "reactions_total": 1405,
+  "attachments": 413,
+  "channel_activity": {
+    "🔸綜合討論": 692,
+    "🔸阵容构建": 78,
+    "🔸morimens-game-chat": 6630,
+    "🔸剧情交流": 8,
+    "🔸晒卡分享": 12,
+    "🔸欢乐梗图": 2,
+    "🔸交友频道": 1,
+    "🔸日本語チャンネル": 8,
+    "🔸한국어-채팅방": 18,
+    "🔸deutscher-chatraum": 333,
+    "🔸chaîne-française": 2,
+    "🔸русский-канал": 321,
+    "🔸phòng-chat-tiếng-việt": 230,
+    "1471195094567751700": 1,
+    "1471324648179372072": 1,
+    "1471527239165149194": 1,
+    "1471386994771759104": 1,
+    "1471531485113614366": 1,
+    "1471242098513674345": 1,
+    "1471410827083911321": 1,
+    "1471356257708408843": 1,
+    "🔸lets-count": 12
+  },
+  "hourly_activity": {
+    "0": 394,
+    "1": 456,
+    "2": 258,
+    "3": 491,
+    "4": 296,
+    "6": 385,
+    "8": 329,
+    "9": 263,
+    "10": 158,
+    "11": 498,
+    "12": 433,
+    "13": 420,
+    "14": 380,
+    "15": 272,
+    "16": 587,
+    "17": 457,
+    "18": 319,
+    "19": 235,
+    "20": 193,
+    "21": 364,
+    "22": 307,
+    "23": 255,
+    "5": 271,
+    "7": 334
+  },
+  "message_types": {
+    "0": 5952,
+    "19": 2399,
+    "20": 3,
+    "23": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1471324648179372072",
+      "channel_id": "1471324648179372072",
+      "content": "The new game mode has a good core, but I think the community agree that it still",
+      "author": "rain_scarlet",
+      "reactions": 28,
+      "channel": ""
+    },
+    {
+      "id": "1471531485113614366",
+      "channel_id": "1471531485113614366",
+      "content": "十分貌美之……",
+      "author": "yuuuuuuu__0103",
+      "reactions": 25,
+      "channel": ""
+    },
+    {
+      "id": "1471356257708408843",
+      "channel_id": "1471356257708408843",
+      "content": "Dear Keepers,\n\nWe were blown away by how many of you stepped up to help with the",
+      "author": "morimens_15",
+      "reactions": 20,
+      "channel": ""
+    },
+    {
+      "id": "1471242098513674345",
+      "channel_id": "1471242098513674345",
+      "content": "I sketched this because I wanted to see a mahjong tile concept. I’d love to make",
+      "author": "gaedol.",
+      "reactions": 18,
+      "channel": ""
+    },
+    {
+      "id": "1471410827083911321",
+      "channel_id": "1471410827083911321",
+      "content": "I saw a twt post about this concept so I had to draw Mouchette and Salvador with",
+      "author": "sofiaebby",
+      "reactions": 12,
+      "channel": ""
+    },
+    {
+      "id": "1471185014086434928",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1471416379360935977",
+      "channel_id": "1131839817982947429",
+      "content": "<:pray:1356053116260454534>",
+      "author": "sweet_25367",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1471190346208772168",
+      "channel_id": "1170692781216378960",
+      "content": "Done <:pray:1356053116260454534>",
+      "author": "aurora3981",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1471418365397569677",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "navirecorbeau",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1471508553696018443",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "hitsu4",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1471364216651911251",
+      "channel_id": "1174983699935277147",
+      "content": "",
+      "author": "xingxiu_0209",
+      "reactions": 7,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1471408897066664033",
+      "channel_id": "1300659495550062592",
+      "content": "For the newbies out there, don't forget to redeem codes for freebies ( The timer",
+      "author": "moyashi0672",
+      "reactions": 7,
+      "channel": "🔸한국어-채팅방"
+    },
+    {
+      "id": "1471409065715568814",
+      "channel_id": "1300659552701648960",
+      "content": "For the newbies out there, don't forget to redeem codes for freebies ( The timer",
+      "author": "moyashi0672",
+      "reactions": 7,
+      "channel": "🔸chaîne-française"
+    },
+    {
+      "id": "1471347667211649086",
+      "channel_id": "1131839817982947429",
+      "content": "孩子们🤓",
+      "author": "galagalaguo",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1471426552960123044",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1471428958137487382",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1471414077820768276",
+      "channel_id": "1170692781216378960",
+      "content": "⁨⁨⁨``` 🔒 Message hidden ```⁩⁩⁩\n-# You need an OE Daffodil to see this message, a",
+      "author": "balls8",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1471217325775650916",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "abhartach_0",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1471374409452486781",
+      "channel_id": "1131839817982947429",
+      "content": "~~困難好像沒啥難度~~",
+      "author": "quackdayo",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1471400256032735425",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "navirecorbeau",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

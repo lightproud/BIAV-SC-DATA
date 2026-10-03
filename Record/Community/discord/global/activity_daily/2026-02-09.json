@@ -1,0 +1,231 @@
+{
+  "date": "2026-02-09",
+  "messages": 14737,
+  "unique_authors": 284,
+  "reactions_total": 1969,
+  "attachments": 879,
+  "channel_activity": {
+    "🔸綜合討論": 2538,
+    "🔸阵容构建": 69,
+    "🔸morimens-game-chat": 8283,
+    "🔸剧情交流": 12,
+    "🔸晒卡分享": 18,
+    "🔸相位对弈": 3,
+    "🔸课间休息闲聊": 40,
+    "🔸日本語チャンネル": 30,
+    "🔸chaîne-française": 242,
+    "🔸русский-канал": 3089,
+    "🔸phòng-chat-tiếng-việt": 383,
+    "1470313287731253300": 1,
+    "1470345929537097728": 1,
+    "1470334133770387531": 1,
+    "1470384254599823524": 1,
+    "1470279767390687514": 1,
+    "1470362131776934009": 1,
+    "1470266979595190333": 1,
+    "1470314444398530642": 1,
+    "1470336046486130778": 1,
+    "1470270601586413621": 1,
+    "1470271472508338186": 1,
+    "1470263650957791346": 1,
+    "1470172690353619084": 1,
+    "1470112935618547948": 1,
+    "1470421922704785652": 1,
+    "1470393527476289627": 1,
+    "🔸lets-count": 14
+  },
+  "hourly_activity": {
+    "0": 934,
+    "1": 839,
+    "2": 567,
+    "3": 988,
+    "4": 304,
+    "7": 464,
+    "8": 350,
+    "9": 317,
+    "10": 578,
+    "11": 611,
+    "12": 542,
+    "13": 794,
+    "14": 659,
+    "15": 760,
+    "16": 629,
+    "17": 487,
+    "18": 345,
+    "19": 428,
+    "20": 530,
+    "21": 573,
+    "22": 907,
+    "23": 1221,
+    "5": 406,
+    "6": 504
+  },
+  "message_types": {
+    "19": 3899,
+    "0": 10835,
+    "23": 1,
+    "46": 2
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1470421922704785652",
+      "channel_id": "1470421922704785652",
+      "content": "Celebration for maxing her dupes & cards + her WoD + Affinity Yippeeee",
+      "author": "laarzenman",
+      "reactions": 49,
+      "channel": ""
+    },
+    {
+      "id": "1470145896120324352",
+      "channel_id": "1300659580446969918",
+      "content": "Вайфу отряд сам себя не соберёт",
+      "author": "lcharowol",
+      "reactions": 44,
+      "channel": "🔸русский-канал"
+    },
+    {
+      "id": "1470313287731253300",
+      "channel_id": "1470313287731253300",
+      "content": "溅在漆黑帷幕上的第一滴血，宣告了这场杀戮游戏的开始。\n凄惨的死者，幽闭的列车，猜忌的种子已经悄悄种下。\n「可是……为什么会是她？」\n\n<:question2:1",
+      "author": "morimensstaff01",
+      "reactions": 22,
+      "channel": ""
+    },
+    {
+      "id": "1470279767390687514",
+      "channel_id": "1470279767390687514",
+      "content": "I was playing the new roguelike mode when I used the Doresain goblet card, follo",
+      "author": "fuckupa2",
+      "reactions": 18,
+      "channel": ""
+    },
+    {
+      "id": "1470441621375029419",
+      "channel_id": "1131839817982947429",
+      "content": "谁会赢？\n世界无上意志的目光\n所视之处皆为融蚀灾难\n每一种目光都代表着一种苦难，限制着你的意志和发挥\nVS\n三个拿着碎酒瓶的小孩",
+      "author": "akalanden",
+      "reactions": 12,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1470436974186725397",
+      "channel_id": "1170692781216378960",
+      "content": "Oops buying more emergency revives mid run doesn't update for that run.\nI have w",
+      "author": "mengluo",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1470415356475478191",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "mengluo",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1470112935618547948",
+      "channel_id": "1470112935618547948",
+      "content": "\"Darkness.\"\n\n\"All one could see across the cold void of the universe was Darknes",
+      "author": "lynexists",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1470091534375452735",
+      "channel_id": "1174983699935277147",
+      "content": "",
+      "author": "ahong0727",
+      "reactions": 10,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1470172690353619084",
+      "channel_id": "1470172690353619084",
+      "content": "sorry it's blurry im on mobile",
+      "author": "h3ll0hu",
+      "reactions": 10,
+      "channel": ""
+    },
+    {
+      "id": "1470340766219112651",
+      "channel_id": "1170692781216378960",
+      "content": "It is done",
+      "author": "akatora_",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1470363986393563350",
+      "channel_id": "1174983699935277147",
+      "content": "孩子们觉得我会被车创飞吗❤",
+      "author": "ahong0727",
+      "reactions": 8,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1470395261179396147",
+      "channel_id": "1174983699935277147",
+      "content": "",
+      "author": "xingxiu_0209",
+      "reactions": 8,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1470441339874447490",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "rain_scarlet",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1470441678165901547",
+      "channel_id": "1170692781216378960",
+      "content": "Review of HSR\nHard mode is too easy after you unlock all the metaprogression.\nMa",
+      "author": "mengluo",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1470442220782878906",
+      "channel_id": "1170692781216378960",
+      "content": "https://www.reddit.com/r/Morimens/s/eIWimIGhms",
+      "author": "angbak",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1470434910291492916",
+      "channel_id": "1174983699935277147",
+      "content": "好消息 有兄弟了\n壞消息 茉夏是我唯一一隻+12",
+      "author": "r8776",
+      "reactions": 7,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1470138827774492977",
+      "channel_id": "1131839817982947429",
+      "content": "沒抽了",
+      "author": "axe_proficient",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1470335288302637150",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1470407065422794804",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "rain_scarlet",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

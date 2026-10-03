@@ -1,0 +1,219 @@
+{
+  "date": "2026-02-22",
+  "messages": 6400,
+  "unique_authors": 174,
+  "reactions_total": 837,
+  "attachments": 317,
+  "channel_activity": {
+    "🔸綜合討論": 1618,
+    "🔸阵容构建": 13,
+    "🔸morimens-game-chat": 4488,
+    "🔸剧情交流": 77,
+    "🔸晒卡分享": 12,
+    "🔸课间休息闲聊": 6,
+    "🔸deutscher-chatraum": 7,
+    "🔸chaîne-française": 8,
+    "🔸русский-канал": 156,
+    "1474947525948473528": 1,
+    "1474975255339733160": 1,
+    "1475060782139052122": 1,
+    "1474948622066909244": 1,
+    "1475060100967432254": 1,
+    "1475057948857466920": 1,
+    "🔸lets-count": 9
+  },
+  "hourly_activity": {
+    "0": 442,
+    "1": 269,
+    "2": 304,
+    "3": 549,
+    "4": 316,
+    "5": 150,
+    "7": 207,
+    "8": 132,
+    "9": 127,
+    "10": 213,
+    "11": 259,
+    "12": 262,
+    "13": 129,
+    "14": 94,
+    "15": 287,
+    "16": 157,
+    "17": 232,
+    "18": 538,
+    "19": 251,
+    "20": 239,
+    "21": 253,
+    "22": 208,
+    "23": 335,
+    "6": 447
+  },
+  "message_types": {
+    "19": 1649,
+    "0": 4749,
+    "46": 1,
+    "20": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1475057948857466920",
+      "channel_id": "1475057948857466920",
+      "content": "I only realized today while scrolling that it was indeed cat day... I hadn't kno",
+      "author": "that_one_chippy",
+      "reactions": 22,
+      "channel": ""
+    },
+    {
+      "id": "1475060100967432254",
+      "channel_id": "1475060100967432254",
+      "content": "今天刷屏时才突然意识到，原来今天真是猫咪日啊…… 我事先并不知情，也无法提前准备。<:flop1:1356083604236800030><:flop1:135",
+      "author": "that_one_chippy",
+      "reactions": 10,
+      "channel": ""
+    },
+    {
+      "id": "1475102397964750981",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "moyashi0672",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474963464383496284",
+      "channel_id": "1131839817982947429",
+      "content": "<:smh:1356053161999335514>",
+      "author": "sweet_25367",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1475132140835442688",
+      "channel_id": "1170692781216378960",
+      "content": "This game might be peak...",
+      "author": "nerdmui",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475060782139052122",
+      "channel_id": "1475060782139052122",
+      "content": "恢复到未装备状态。意义在于满足强迫症",
+      "author": "shunia3055",
+      "reactions": 7,
+      "channel": ""
+    },
+    {
+      "id": "1475041327870771231",
+      "channel_id": "1174983699935277147",
+      "content": "普池已经捞出5只了",
+      "author": "txt101225.",
+      "reactions": 6,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1475127299816034548",
+      "channel_id": "1181152750319456266",
+      "content": "",
+      "author": "vivian35._.",
+      "reactions": 6,
+      "channel": "🔸课间休息闲聊"
+    },
+    {
+      "id": "1475074679440932916",
+      "channel_id": "1170692781216378960",
+      "content": "Just keep 24 in red and keep striking",
+      "author": "undeterredhomo",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475110472301805651",
+      "channel_id": "1170692781216378960",
+      "content": "D-Tide should be renamed Wuthering Waves\nJust like the train mode was named HSR",
+      "author": "legendaryredz",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475119040178421890",
+      "channel_id": "1170692781216378960",
+      "content": "no mention of my a5 clear with lower investment kath <:Helot_slack_off:145909215",
+      "author": "chinkeeyong",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475022776430760068",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1475086275248787600",
+      "channel_id": "1131839817982947429",
+      "content": "列車圖看多了突然竟然有1668x2的傷害很溫柔的感覺<:nocomment:1356053106038673610>",
+      "author": "partycatss.",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1475105457147216053",
+      "channel_id": "1131839817982947429",
+      "content": "弥利随手一刀砍掉七十五万<:cry3:1356082134447558748>",
+      "author": "akalanden",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1474808463145304175",
+      "channel_id": "1170692781216378960",
+      "content": "BLUE 24 IS OP",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474911118685372579",
+      "channel_id": "1170692781216378960",
+      "content": "this is why aigis is being nerfed to hell in jp version",
+      "author": "2ndselna",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474912926531063828",
+      "channel_id": "1170692781216378960",
+      "content": "is popping their cherry",
+      "author": "2ndselna",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474963676137263236",
+      "channel_id": "1170692781216378960",
+      "content": "I tried watching ur video it was probabaly very educational but I fell asleep so",
+      "author": "frosthief",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474964089452368033",
+      "channel_id": "1170692781216378960",
+      "content": "hope your health and stuff gets better",
+      "author": "2ndselna",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474978348953370687",
+      "channel_id": "1170692781216378960",
+      "content": "happy lunar new year :D",
+      "author": "balls8",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

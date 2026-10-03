@@ -1,0 +1,230 @@
+{
+  "date": "2026-02-01",
+  "messages": 9052,
+  "unique_authors": 157,
+  "reactions_total": 1138,
+  "attachments": 453,
+  "channel_activity": {
+    "🔸綜合討論": 1585,
+    "🔸阵容构建": 32,
+    "🔸morimens-game-chat": 5368,
+    "🔸晒卡分享": 15,
+    "🔸交友频道": 3,
+    "🔸日本語チャンネル": 2,
+    "🔸한국어-채팅방": 12,
+    "🔸русский-канал": 1018,
+    "🔸phòng-chat-tiếng-việt": 245,
+    "🔸general-chat": 136,
+    "🔸canal-español": 155,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "1467528129873707071": 1,
+    "1467452564705513495": 1,
+    "1467458024091422762": 1,
+    "1467348362725687432": 1,
+    "1467346920371650738": 1,
+    "1467514039717597328": 1,
+    "🔸traphase": 26,
+    "1467432939288531188": 1,
+    "🔸canal-português": 53,
+    "🔸lore-chat": 1,
+    "🔸ห้องสนทนาภาษาไทย": 108,
+    "🔸机器人命令┊bot-commands": 8,
+    "🔸team-building": 54,
+    "🔸lets-count": 10,
+    "🔸ruang-obrolan-indonesia": 5,
+    "🔸game-question": 204
+  },
+  "hourly_activity": {
+    "8": 182,
+    "9": 295,
+    "10": 381,
+    "11": 399,
+    "12": 566,
+    "13": 321,
+    "14": 158,
+    "15": 176,
+    "16": 287,
+    "17": 374,
+    "18": 420,
+    "19": 231,
+    "20": 537,
+    "21": 506,
+    "22": 650,
+    "23": 767,
+    "0": 472,
+    "1": 396,
+    "2": 312,
+    "3": 365,
+    "4": 415,
+    "5": 379,
+    "6": 210,
+    "7": 253
+  },
+  "message_types": {
+    "19": 2351,
+    "0": 6700,
+    "20": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1467432939288531188",
+      "channel_id": "1467432939288531188",
+      "content": "Havent really been posting much but its alright will probably post the speedpain",
+      "author": "j.i9star.",
+      "reactions": 22,
+      "channel": ""
+    },
+    {
+      "id": "1467348362725687432",
+      "channel_id": "1467348362725687432",
+      "content": "For team testing purposes and theory crafting, as well as a place where people c",
+      "author": "satachan",
+      "reactions": 20,
+      "channel": ""
+    },
+    {
+      "id": "1467339951636086855",
+      "channel_id": "1174983699935277147",
+      "content": "~~臭~~",
+      "author": "kalpiko.",
+      "reactions": 18,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1467346920371650738",
+      "channel_id": "1467346920371650738",
+      "content": "Please add a confirmation button for accidental clicks on the 60 silver prime si",
+      "author": "angbak",
+      "reactions": 12,
+      "channel": ""
+    },
+    {
+      "id": "1467348187911290880",
+      "channel_id": "1131839817982947429",
+      "content": "但鯊魚也耽誤了我的十萬三千塊",
+      "author": "ernest_heart",
+      "reactions": 11,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467329607953940500",
+      "channel_id": "1174983699935277147",
+      "content": "90啦<:pray:1356053116260454534>   \n然后区别大概是一张灵感24临力变成25临力<:takenotes:1357186646294",
+      "author": "sweet_25367",
+      "reactions": 11,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1467336394664972539",
+      "channel_id": "1174983699935277147",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 11,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1467546939301302454",
+      "channel_id": "1170692781216378960",
+      "content": "I am BRIAV",
+      "author": "brainrot_in_a_vat",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1467397801934721319",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467436354752348275",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "quackdayo",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467497939281907819",
+      "channel_id": "1131839817982947429",
+      "content": "快看你船的高傷害\nhttps://youtu.be/eVqJ_3mXSSY?si=wP9JQis47i7C6guY",
+      "author": "water_heart",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467510831511240744",
+      "channel_id": "1131839817982947429",
+      "content": "我要||~~高潮~~||了",
+      "author": "ling_an_",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467360988520251525",
+      "channel_id": "1170692781216378960",
+      "content": "For the first time in my life, I managed to avoid using Emergency Gnosis to beat",
+      "author": "wawafura",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1467547103206178848",
+      "channel_id": "1170692781216378960",
+      "content": "Why am i being clowned",
+      "author": "brainrot_in_a_vat",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1467330824058700020",
+      "channel_id": "1174983699935277147",
+      "content": "+12了 140抽出了11金 四隻徐其他全歪",
+      "author": "axe_proficient",
+      "reactions": 7,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1467541789027340420",
+      "channel_id": "1131839817982947429",
+      "content": "过了",
+      "author": "ling_an_",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467548540891955356",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "brainrot_in_a_vat",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1467514039717597328",
+      "channel_id": "1467514039717597328",
+      "content": "Finally updated after more than a year. <:LETSGO:1293646480934047879>",
+      "author": "cornonthemacabre_",
+      "reactions": 6,
+      "channel": ""
+    },
+    {
+      "id": "1467213563163709584",
+      "channel_id": "1300659580446969918",
+      "content": "Первое это брошь",
+      "author": "irrational_obelisk",
+      "reactions": 6,
+      "channel": "🔸русский-канал"
+    },
+    {
+      "id": "1467424333365510227",
+      "channel_id": "1131839817982947429",
+      "content": "狗肉湯麵往這裡走",
+      "author": "ernest_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

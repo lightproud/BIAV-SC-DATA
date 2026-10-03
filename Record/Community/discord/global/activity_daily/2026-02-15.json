@@ -1,0 +1,230 @@
+{
+  "date": "2026-02-15",
+  "messages": 8092,
+  "unique_authors": 200,
+  "reactions_total": 1406,
+  "attachments": 414,
+  "channel_activity": {
+    "🔸綜合討論": 690,
+    "🔸阵容构建": 194,
+    "🔸morimens-game-chat": 6229,
+    "🔸剧情交流": 47,
+    "🔸晒卡分享": 13,
+    "🔸欢乐梗图": 8,
+    "🔸日本語チャンネル": 9,
+    "🔸한국어-채팅방": 15,
+    "🔸deutscher-chatraum": 10,
+    "🔸chaîne-française": 2,
+    "🔸русский-канал": 525,
+    "🔸phòng-chat-tiếng-việt": 330,
+    "1472268632737452174": 1,
+    "1472375569919381729": 1,
+    "1472291889951805512": 1,
+    "1472272100650782972": 1,
+    "1472273310137192570": 1,
+    "1472265002789638337": 1,
+    "1472608584381759610": 1,
+    "1472457817427546154": 1,
+    "1472455555854372958": 1,
+    "1472536311599595551": 1,
+    "1472622326401990822": 1,
+    "1472620151634661499": 1,
+    "1472497014720696467": 1,
+    "1472529639112052840": 1,
+    "1472443433116237955": 1,
+    "🔸lets-count": 5
+  },
+  "hourly_activity": {
+    "0": 840,
+    "1": 641,
+    "2": 467,
+    "3": 205,
+    "4": 117,
+    "6": 259,
+    "7": 192,
+    "10": 441,
+    "11": 220,
+    "12": 246,
+    "13": 436,
+    "14": 407,
+    "15": 194,
+    "16": 80,
+    "17": 145,
+    "18": 68,
+    "19": 387,
+    "20": 322,
+    "21": 392,
+    "22": 386,
+    "23": 803,
+    "9": 168,
+    "5": 209,
+    "8": 467
+  },
+  "message_types": {
+    "19": 2696,
+    "0": 5395,
+    "20": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1472620151634661499",
+      "channel_id": "1472620151634661499",
+      "content": "",
+      "author": "no.tea.",
+      "reactions": 41,
+      "channel": ""
+    },
+    {
+      "id": "1472497014720696467",
+      "channel_id": "1472497014720696467",
+      "content": "why are his hands genuinely a concept",
+      "author": "dollyxqyan",
+      "reactions": 25,
+      "channel": ""
+    },
+    {
+      "id": "1472529639112052840",
+      "channel_id": "1472529639112052840",
+      "content": "just kidding",
+      "author": "gaedol.",
+      "reactions": 18,
+      "channel": ""
+    },
+    {
+      "id": "1472443433116237955",
+      "channel_id": "1472443433116237955",
+      "content": "Does anyone have other art/ref's of her legs I don't know what's going on lmao",
+      "author": "he_xuan33",
+      "reactions": 16,
+      "channel": ""
+    },
+    {
+      "id": "1472291889951805512",
+      "channel_id": "1472291889951805512",
+      "content": "When you play the game everything is fine but the longer you stay in the game, t",
+      "author": "moyashi0672",
+      "reactions": 12,
+      "channel": ""
+    },
+    {
+      "id": "1472269061655105558",
+      "channel_id": "1170692781216378960",
+      "content": "<:realm_aequor:1437283645051375777>  (derogatory)",
+      "author": "aurora3981",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472495174453297360",
+      "channel_id": "1131839817982947429",
+      "content": "||其實400也很好打||",
+      "author": "0.0._.0_0.",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1472350398932062210",
+      "channel_id": "1170692781216378960",
+      "content": "Remove aequor and replace it with jp ultra",
+      "author": "2ndselna",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472608584381759610",
+      "channel_id": "1472608584381759610",
+      "content": "This is a plea to ask the team at BIAV to evaluate how they normally implement s",
+      "author": "vxvendetta97",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1472536311599595551",
+      "channel_id": "1472536311599595551",
+      "content": "Custom difficulty like in pdive but when you choose what you want or don't want\n",
+      "author": "yeriko703",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1472529916489764986",
+      "channel_id": "1170692781216378960",
+      "content": "hi i just started 2 minutes ago how do i clear ch7",
+      "author": "liluaa",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472561268308312095",
+      "channel_id": "1180437373012672522",
+      "content": "",
+      "author": "Deleted User",
+      "reactions": 7,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1472450087274676355",
+      "channel_id": "1300659436804640788",
+      "content": "どうにか3000",
+      "author": "eyu17",
+      "reactions": 7,
+      "channel": "🔸日本語チャンネル"
+    },
+    {
+      "id": "1472279682064978143",
+      "channel_id": "1131839817982947429",
+      "content": "1200銀芯嘿嘿嘿\n希望淡墨能三啟",
+      "author": "xingxiu_0209",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1472603678748704889",
+      "channel_id": "1170692781216378960",
+      "content": "Flares propaganda ?\nYes I was part of the cult once\nLong ago\nUntil I decided to ",
+      "author": "legendaryredz",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472606424256483491",
+      "channel_id": "1170692781216378960",
+      "content": "i saved a bit for caraboo. and will continue doing",
+      "author": "arandomflamev2",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472611660727586992",
+      "channel_id": "1170692781216378960",
+      "content": "JUST BEAT CH3 BOSS WITH ONLY LVL 10 CHARACTERS",
+      "author": "totallyrealhumanperson",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472428203590029355",
+      "channel_id": "1174983699935277147",
+      "content": "神秘數字",
+      "author": "ena04564",
+      "reactions": 6,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1472437439217012939",
+      "channel_id": "1131839817982947429",
+      "content": "我的簡介怎麼還在更新次數",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1472444797095514214",
+      "channel_id": "1131839817982947429",
+      "content": "打了個8840<:wish:1356084702468899117>",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

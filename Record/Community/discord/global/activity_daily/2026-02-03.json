@@ -1,0 +1,217 @@
+{
+  "date": "2026-02-03",
+  "messages": 10405,
+  "unique_authors": 201,
+  "reactions_total": 1395,
+  "attachments": 494,
+  "channel_activity": {
+    "🔸綜合討論": 1759,
+    "🔸阵容构建": 57,
+    "🔸morimens-game-chat": 7083,
+    "🔸晒卡分享": 9,
+    "🔸相位对弈": 15,
+    "🔸日本語チャンネル": 10,
+    "🔸한국어-채팅방": 39,
+    "🔸русский-канал": 1401,
+    "🔸phòng-chat-tiếng-việt": 16,
+    "1467963678224683058": 1,
+    "1467940684618137632": 1,
+    "1467937008998678824": 1,
+    "1468218868777488605": 1,
+    "1468237146061279356": 1,
+    "🔸lets-count": 11
+  },
+  "hourly_activity": {
+    "0": 582,
+    "1": 523,
+    "2": 427,
+    "6": 299,
+    "7": 248,
+    "8": 400,
+    "9": 358,
+    "10": 198,
+    "11": 444,
+    "12": 617,
+    "13": 606,
+    "14": 267,
+    "15": 334,
+    "16": 354,
+    "17": 364,
+    "18": 484,
+    "19": 668,
+    "20": 572,
+    "21": 547,
+    "22": 452,
+    "23": 598,
+    "5": 357,
+    "3": 410,
+    "4": 296
+  },
+  "message_types": {
+    "0": 7436,
+    "19": 2968,
+    "20": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1468259387192770714",
+      "channel_id": "1131839817982947429",
+      "content": "家人要慶祝生日\n然後說要全家去KTV\n\n我是很喜歡唱歌啦\n但是 三個家人在旁邊\n根本唱不下去\n啊 壓力山大",
+      "author": "xingxiu_0209",
+      "reactions": 13,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1468069470659674215",
+      "channel_id": "1131839817982947429",
+      "content": "這張圖的含金量還在上升",
+      "author": "forg30215",
+      "reactions": 11,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1468175410595368971",
+      "channel_id": "1131839817982947429",
+      "content": "~~大佬大佬我這邊有四位最早的角色可以念舊~~",
+      "author": "wild_pansy",
+      "reactions": 11,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1468075600248836108",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "universe.dark",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1468268497766318253",
+      "channel_id": "1170692781216378960",
+      "content": "we did it chat",
+      "author": "princess.goth",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1468088432436707373",
+      "channel_id": "1131839817982947429",
+      "content": "佬融災都打425<:point:1356053112292511815>",
+      "author": "universe.dark",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1468259163325988893",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "Deleted User",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467952992484331600",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "bailuoxiao",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1468196635199672441",
+      "channel_id": "1131839817982947429",
+      "content": "我爸爸是校貓，你敢惹我，我就在你的手機裡面下載一款叫做「忘卻前夜」的遊戲",
+      "author": "a._0320",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1468260644662022356",
+      "channel_id": "1170692781216378960",
+      "content": "https://youtu.be/dCXq2sAQERw?si=ATX37pN4bct6WyX5",
+      "author": "flares117",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1468263745171230864",
+      "channel_id": "1170692781216378960",
+      "content": "people doing meme clears on H4-10 and i cant even clear full tryhard",
+      "author": "princess.goth",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1468204440472522990",
+      "channel_id": "1174983699935277147",
+      "content": "快了再過幾天...",
+      "author": "axe_proficient",
+      "reactions": 8,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1467963678224683058",
+      "channel_id": "1467963678224683058",
+      "content": "I made this post just to be sure, because the Pool in https://discord.com/channe",
+      "author": "vxvendetta97",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1468124603271352441",
+      "channel_id": "1131839817982947429",
+      "content": "我記得我當初羊媽主C也是打到第8章",
+      "author": "a4485",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467949507995238527",
+      "channel_id": "1170692781216378960",
+      "content": "I just assumed that was mouchettes name in chinese",
+      "author": "beenax.",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1468122250329985168",
+      "channel_id": "1170692781216378960",
+      "content": "no",
+      "author": "khykken",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1468164014063353999",
+      "channel_id": "1174983699935277147",
+      "content": "二的十次方",
+      "author": "akalanden",
+      "reactions": 6,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1468123845209751635",
+      "channel_id": "1131839817982947429",
+      "content": "不 我沒有他\n我要玩他的難度可能是0.12%",
+      "author": "xingxiu_0209",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1468223359224643835",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "Deleted User",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1467989037443973367",
+      "channel_id": "1131839874132090890",
+      "content": "成了  全常駐踏破忘卻篇<:M_satisfy:1400771690321154110> \n\n調查行動-蚍蜉——戰鬥回放\n守密人：Sora（101489547）",
+      "author": "partycatss.",
+      "reactions": 5,
+      "channel": "🔸阵容构建"
+    }
+  ]
+}

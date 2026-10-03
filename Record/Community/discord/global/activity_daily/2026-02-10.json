@@ -1,0 +1,223 @@
+{
+  "date": "2026-02-10",
+  "messages": 9966,
+  "unique_authors": 282,
+  "reactions_total": 1924,
+  "attachments": 622,
+  "channel_activity": {
+    "🔸綜合討論": 1825,
+    "🔸阵容构建": 24,
+    "🔸morimens-game-chat": 7013,
+    "🔸晒卡分享": 2,
+    "🔸课间休息闲聊": 10,
+    "🔸日本語チャンネル": 7,
+    "🔸deutscher-chatraum": 82,
+    "🔸русский-канал": 912,
+    "🔸phòng-chat-tiếng-việt": 67,
+    "1470477044516257836": 1,
+    "1470531293413380308": 1,
+    "1470802016707285113": 1,
+    "1470784241523753186": 1,
+    "1470758040457449525": 1,
+    "1470717401589878805": 1,
+    "1470625727392256020": 1,
+    "1470704486598184994": 1,
+    "1470699434085191762": 1,
+    "1470774602920886344": 1,
+    "1470763464728252521": 1,
+    "1470748188888797306": 1,
+    "🔸lets-count": 12
+  },
+  "hourly_activity": {
+    "0": 492,
+    "1": 286,
+    "2": 279,
+    "3": 469,
+    "4": 536,
+    "6": 348,
+    "7": 159,
+    "8": 377,
+    "9": 224,
+    "10": 356,
+    "11": 270,
+    "12": 331,
+    "13": 288,
+    "14": 416,
+    "15": 455,
+    "16": 450,
+    "17": 336,
+    "18": 537,
+    "19": 769,
+    "20": 506,
+    "21": 686,
+    "22": 603,
+    "23": 575,
+    "5": 218
+  },
+  "message_types": {
+    "0": 7427,
+    "19": 2539
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1470765091606626354",
+      "channel_id": "1170692781216378960",
+      "content": "https://discord.com/channels/1131791637933199470/1470748188888797306/14707481888",
+      "author": "game.producer.light",
+      "reactions": 135,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1470748188888797306",
+      "channel_id": "1470748188888797306",
+      "content": "# 【制作人公开信】你们曾拯救了忘却前夜——如今我们给出未来结局的承诺\n\n\nHello everyone! I am Light, the producer o",
+      "author": "game.producer.light",
+      "reactions": 129,
+      "channel": ""
+    },
+    {
+      "id": "1470774602920886344",
+      "channel_id": "1470774602920886344",
+      "content": "I hope Morimens would have a Valentines event one day... but for now, have this ",
+      "author": "sofiaebby",
+      "reactions": 26,
+      "channel": ""
+    },
+    {
+      "id": "1470477044516257836",
+      "channel_id": "1470477044516257836",
+      "content": "The rewards for beating the hard mode missions of the new Train game mode are li",
+      "author": "vxvendetta97",
+      "reactions": 22,
+      "channel": ""
+    },
+    {
+      "id": "1470777166391414784",
+      "channel_id": "1170692781216378960",
+      "content": "yay",
+      "author": "zier.0",
+      "reactions": 15,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1470782227075043453",
+      "channel_id": "1131839817982947429",
+      "content": "珊出傷很慢\n||珊珊來遲||",
+      "author": "xingxiu_0209",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1470773696816742576",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1470784241523753186",
+      "channel_id": "1470784241523753186",
+      "content": "感觉肉鸽有点偏离了应该有的方向\n整体来看简直就是重新打一遍主线加幻梦深浅，要是以后常驻肉鸽这样那根本没人会自己找虐\n对以后肉鸽提几个建议\n\n1.加地图，对于什么",
+      "author": "phenomena_298",
+      "reactions": 9,
+      "channel": ""
+    },
+    {
+      "id": "1470686505961001124",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "navirecorbeau",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1470778125179818066",
+      "channel_id": "1131839817982947429",
+      "content": "我的深海全家桶還在過海關中⋯⋯",
+      "author": "dog794",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1470787468784570368",
+      "channel_id": "1131839817982947429",
+      "content": "神经",
+      "author": "sweet_25367",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1470612285218099456",
+      "channel_id": "1170692781216378960",
+      "content": "it happened again",
+      "author": "aslechi",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1470672794982420621",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "spooky_penguin_",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1470673191558189136",
+      "channel_id": "1170692781216378960",
+      "content": "I spent 8h autoing",
+      "author": "spooky_penguin_",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1470765227048960112",
+      "channel_id": "1170692781216378960",
+      "content": "https://tenor.com/view/limbus-company-limbus-sancho-limbus-don-quixote-meme-gif-",
+      "author": "whirli_bri",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1470802016707285113",
+      "channel_id": "1470802016707285113",
+      "content": "如题。本人比较喜欢买喜欢的游戏的周边。上去淘宝一看结果只有灵犀互娱的镭射票和吧唧，甚至没货可补。感觉忘却前夜最顶的就是美术，私心想知道会不会出原画集。\n\n而且出",
+      "author": "encyoverride",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1470754421204975713",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1470780652939907234",
+      "channel_id": "1131839817982947429",
+      "content": "以防你们不知道大陆闲鱼哈姆林图鲁鸟弟稀有成交价有200",
+      "author": "navirecorbeau",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1470679925068402783",
+      "channel_id": "1170692781216378960",
+      "content": "I got a tumor removed",
+      "author": "flares117",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1470675683691724871",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "ahhot1217",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

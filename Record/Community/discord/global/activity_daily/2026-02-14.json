@@ -1,0 +1,231 @@
+{
+  "date": "2026-02-14",
+  "messages": 8303,
+  "unique_authors": 239,
+  "reactions_total": 1221,
+  "attachments": 461,
+  "channel_activity": {
+    "🔸綜合討論": 774,
+    "🔸阵容构建": 25,
+    "🔸morimens-game-chat": 6979,
+    "🔸剧情交流": 29,
+    "🔸晒卡分享": 2,
+    "🔸欢乐梗图": 1,
+    "🔸相位对弈": 11,
+    "🔸课间休息闲聊": 15,
+    "🔸日本語チャンネル": 6,
+    "🔸한국어-채팅방": 5,
+    "🔸deutscher-chatraum": 13,
+    "🔸русский-канал": 320,
+    "🔸phòng-chat-tiếng-việt": 99,
+    "1472253603669479555": 1,
+    "1471903688032522388": 1,
+    "1472013644727455745": 1,
+    "1472135642602274836": 1,
+    "1472154527938642051": 1,
+    "1472136108576870463": 1,
+    "1472134037308051486": 1,
+    "1472065459586207946": 1,
+    "1472110293311291658": 1,
+    "1472092197074501755": 1,
+    "1472089763187003403": 1,
+    "1472248622199472241": 1,
+    "1472101859756867825": 1,
+    "1471939172532097228": 1,
+    "1472177463282106369": 1,
+    "🔸lets-count": 9
+  },
+  "hourly_activity": {
+    "0": 619,
+    "1": 354,
+    "2": 504,
+    "5": 85,
+    "7": 205,
+    "9": 365,
+    "10": 564,
+    "11": 267,
+    "12": 197,
+    "13": 270,
+    "14": 284,
+    "15": 297,
+    "16": 366,
+    "17": 409,
+    "18": 276,
+    "19": 524,
+    "20": 387,
+    "21": 447,
+    "22": 336,
+    "23": 399,
+    "3": 348,
+    "4": 589,
+    "6": 75,
+    "8": 136
+  },
+  "message_types": {
+    "0": 5670,
+    "19": 2632,
+    "20": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1472154527938642051",
+      "channel_id": "1472154527938642051",
+      "content": "癫狂列车中，boss的一条血量如图，大概是30000K左右。\n而玩家血量，点满共鸣，大概在4000-7000左右. \n根据星辰篇规则，叠毒的最大上限此时大概在4",
+      "author": "xyakoto",
+      "reactions": 22,
+      "channel": ""
+    },
+    {
+      "id": "1471939172532097228",
+      "channel_id": "1471939172532097228",
+      "content": "🐳 🐳 🐳",
+      "author": "deldry8",
+      "reactions": 21,
+      "channel": ""
+    },
+    {
+      "id": "1472177463282106369",
+      "channel_id": "1472177463282106369",
+      "content": "this collab me and my friend did … my very first morimens fanart btw",
+      "author": "dollyxqyan",
+      "reactions": 20,
+      "channel": ""
+    },
+    {
+      "id": "1472248622199472241",
+      "channel_id": "1472248622199472241",
+      "content": "：媽媽！媽媽！你看有木雕！\n：神國指出來了沒有！？\n：😭💔",
+      "author": "rdkanami",
+      "reactions": 19,
+      "channel": ""
+    },
+    {
+      "id": "1472101859756867825",
+      "channel_id": "1472101859756867825",
+      "content": "祝彌撒格情人節快樂！\n雖然圖和情人節沒有關聯但是請（端）\n\n其實是自己夢圖的一部分但是為了發上來還是拆開來畫了，祝各位哈姆林P情人節幸福😋🌷",
+      "author": "9ix_eternity",
+      "reactions": 10,
+      "channel": ""
+    },
+    {
+      "id": "1472225761154039872",
+      "channel_id": "1170692781216378960",
+      "content": "EQUB-ATGJ-PJUV\nHKAJ-UQAG-BFTV\nZVFT-FMZJ-DTLS",
+      "author": "enumaellis",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472179029762244749",
+      "channel_id": "1131839817982947429",
+      "content": "共鳴開起來後 困難很簡單 幾乎每場都滿血<:thumbsup:1356086340298473574>",
+      "author": "_buqi",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1471964581814599720",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "_kito_kato_",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472216629722218621",
+      "channel_id": "1170692781216378960",
+      "content": "excuse me?!",
+      "author": "serene9935",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472239715406315723",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "aurora3981",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472199735837327370",
+      "channel_id": "1131839817982947429",
+      "content": "🌿 忘卻的春晚直播被判定掛機\n然後直接被封了1分鐘",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1472197841937105019",
+      "channel_id": "1170692781216378960",
+      "content": "Use the pizza which generates strike on odd turns + faros wheel on clem. With th",
+      "author": "aurora3981",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472169494372942000",
+      "channel_id": "1131839817982947429",
+      "content": "怎麼又是樂園",
+      "author": "xingxiu_0209",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1472049473483051110",
+      "channel_id": "1170692781216378960",
+      "content": "she has bugs",
+      "author": "polkarain",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472052743723028562",
+      "channel_id": "1170692781216378960",
+      "content": "I did it!!",
+      "author": "zenny1433",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472058651488292996",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "angbak",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472126665084633118",
+      "channel_id": "1170692781216378960",
+      "content": "Game back up",
+      "author": "syruponstrawberrycake",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472206521692721323",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "polkarain",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472218743969939596",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "polkarain",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472224940559433791",
+      "channel_id": "1170692781216378960",
+      "content": "Wtf the live stream event promised 400 silver but gave us 600. I want compensati",
+      "author": "aurora3981",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

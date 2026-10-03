@@ -1,0 +1,220 @@
+{
+  "date": "2026-02-06",
+  "messages": 11235,
+  "unique_authors": 203,
+  "reactions_total": 1567,
+  "attachments": 337,
+  "channel_activity": {
+    "🔸綜合討論": 877,
+    "🔸morimens-game-chat": 6501,
+    "🔸剧情交流": 2,
+    "🔸晒卡分享": 2,
+    "🔸欢乐梗图": 1,
+    "🔸相位对弈": 8,
+    "🔸日本語チャンネル": 2,
+    "🔸한국어-채팅방": 5,
+    "🔸deutscher-chatraum": 6,
+    "🔸chaîne-française": 4,
+    "🔸русский-канал": 3752,
+    "🔸phòng-chat-tiếng-việt": 59,
+    "1469163620683223193": 1,
+    "1469253894331961435": 1,
+    "1469231000226889769": 1,
+    "1469252918359232562": 1,
+    "1469307727724544044": 1,
+    "🔸lets-count": 11
+  },
+  "hourly_activity": {
+    "0": 378,
+    "1": 775,
+    "2": 780,
+    "3": 511,
+    "4": 733,
+    "5": 645,
+    "6": 499,
+    "7": 395,
+    "8": 553,
+    "9": 247,
+    "10": 281,
+    "11": 376,
+    "12": 96,
+    "13": 220,
+    "14": 84,
+    "15": 297,
+    "16": 277,
+    "17": 317,
+    "18": 742,
+    "19": 518,
+    "20": 873,
+    "21": 531,
+    "22": 528,
+    "23": 579
+  },
+  "message_types": {
+    "0": 7673,
+    "19": 3560,
+    "20": 2
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1469345188705992735",
+      "channel_id": "1170692781216378960",
+      "content": "my first action as mod would be to ban ppep",
+      "author": "princess.goth",
+      "reactions": 20,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469231000226889769",
+      "channel_id": "1469231000226889769",
+      "content": "",
+      "author": "moon.orchd",
+      "reactions": 19,
+      "channel": ""
+    },
+    {
+      "id": "1469087235377991927",
+      "channel_id": "1170692781216378960",
+      "content": "I like this one from reddit",
+      "author": "detectivedango",
+      "reactions": 15,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469307727724544044",
+      "channel_id": "1469307727724544044",
+      "content": "守密人你好：\n       弥萨格大学预计于2月9日08:00~11:00（UTC+8）进行校内设施维护。\n       维护结束后需要重新登入并更新资源，补给",
+      "author": "morimensstaff02",
+      "reactions": 14,
+      "channel": ""
+    },
+    {
+      "id": "1469252918359232562",
+      "channel_id": "1469252918359232562",
+      "content": "This had been one of my most favorite song for a long time! And I really enjoy m",
+      "author": "that_one_chippy",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1469244729156829288",
+      "channel_id": "1170692781216378960",
+      "content": "scambak",
+      "author": "arisuu0604",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469325435450949643",
+      "channel_id": "1300659580446969918",
+      "content": "this discussion doesn't get anywhere.",
+      "author": "craux.",
+      "reactions": 8,
+      "channel": "🔸русский-канал"
+    },
+    {
+      "id": "1469062970511458405",
+      "channel_id": "1131839817982947429",
+      "content": "這就是我最後一把忘卻前夜了",
+      "author": "ernest_heart",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1469115940259106928",
+      "channel_id": "1170692781216378960",
+      "content": "Im not stinky",
+      "author": "rain_scarlet",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469131691175051408",
+      "channel_id": "1170692781216378960",
+      "content": "better drink than tea, sorry Tea <:takenotes:1357186646294138890>",
+      "author": "arisuu0604",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469104045825462333",
+      "channel_id": "1131839817982947429",
+      "content": "在砍瓜切菜跟砍瓜切菜之間我分不出差別",
+      "author": "ernest_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1469036985225056367",
+      "channel_id": "1170692781216378960",
+      "content": "also lovecraft doesn't exist, it's cthulhu aesthetics thank you",
+      "author": "arkaether",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469110010276741163",
+      "channel_id": "1170692781216378960",
+      "content": "Elite was the goat",
+      "author": "rozu",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469244645329473642",
+      "channel_id": "1170692781216378960",
+      "content": "67",
+      "author": "angbak",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469254185794015328",
+      "channel_id": "1170692781216378960",
+      "content": "This",
+      "author": "legendaryredz",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469286272345575469",
+      "channel_id": "1170692781216378960",
+      "content": "Like flares said",
+      "author": "spooky_penguin_",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469291255400890483",
+      "channel_id": "1170692781216378960",
+      "content": "proud spender smh",
+      "author": "bagels5899",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469345027305242625",
+      "channel_id": "1170692781216378960",
+      "content": "i dont eat meat :/",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469346972904460339",
+      "channel_id": "1170692781216378960",
+      "content": "Ofc idiot killed the chat",
+      "author": "spooky_penguin_",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1469354797630226649",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "legendaryredz",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

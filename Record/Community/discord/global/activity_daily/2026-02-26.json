@@ -1,0 +1,218 @@
+{
+  "date": "2026-02-26",
+  "messages": 8640,
+  "unique_authors": 188,
+  "reactions_total": 1494,
+  "attachments": 365,
+  "channel_activity": {
+    "🔸綜合討論": 559,
+    "🔸morimens-game-chat": 7863,
+    "🔸晒卡分享": 3,
+    "🔸欢乐梗图": 2,
+    "🔸相位对弈": 29,
+    "🔸课间休息闲聊": 1,
+    "🔸交友频道": 50,
+    "🔸한국어-채팅방": 25,
+    "🔸deutscher-chatraum": 1,
+    "🔸chaîne-française": 5,
+    "🔸русский-канал": 79,
+    "1476398717383741440": 1,
+    "1476545510650282014": 1,
+    "1476411978842116199": 1,
+    "1476594122956734577": 1,
+    "1476466276695019603": 1,
+    "🔸lets-count": 18
+  },
+  "hourly_activity": {
+    "0": 436,
+    "1": 406,
+    "2": 270,
+    "3": 522,
+    "5": 515,
+    "6": 40,
+    "7": 359,
+    "9": 435,
+    "10": 417,
+    "11": 271,
+    "12": 116,
+    "14": 360,
+    "15": 399,
+    "16": 572,
+    "17": 349,
+    "18": 224,
+    "19": 208,
+    "20": 349,
+    "21": 457,
+    "22": 377,
+    "23": 443,
+    "4": 458,
+    "8": 431,
+    "13": 226
+  },
+  "message_types": {
+    "19": 2751,
+    "0": 5889
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1476594122956734577",
+      "channel_id": "1476594122956734577",
+      "content": "clementine,,, you deserved sm better",
+      "author": "mimiruku",
+      "reactions": 34,
+      "channel": ""
+    },
+    {
+      "id": "1476411978842116199",
+      "channel_id": "1476411978842116199",
+      "content": "Started drawing her just before her event rerun... My timing so good",
+      "author": "h3ll0hu",
+      "reactions": 21,
+      "channel": ""
+    },
+    {
+      "id": "1476569497560154245",
+      "channel_id": "1170692781216378960",
+      "content": "casiah is worse than aurita",
+      "author": "princess.goth",
+      "reactions": 16,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476499380285607977",
+      "channel_id": "1170692781216378960",
+      "content": "Yippeeee",
+      "author": "fishhazardthewizard",
+      "reactions": 14,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476398717383741440",
+      "channel_id": "1476398717383741440",
+      "content": "Allows Users to\n\n- Decrease / Increase the Edify Levels of their Awakeners\n- Dec",
+      "author": "snorlax01",
+      "reactions": 13,
+      "channel": ""
+    },
+    {
+      "id": "1476466276695019603",
+      "channel_id": "1476466276695019603",
+      "content": "",
+      "author": "nothing_of_wisdom",
+      "reactions": 13,
+      "channel": ""
+    },
+    {
+      "id": "1476364626697654448",
+      "channel_id": "1170692781216378960",
+      "content": "most mentally stable morimens player",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476577270721413233",
+      "channel_id": "1170692781216378960",
+      "content": "Okay no dreams miryam",
+      "author": "spooky_penguin_",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476586823651430592",
+      "channel_id": "1170692781216378960",
+      "content": "yes lien and bagels are dating..",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476607649612169257",
+      "channel_id": "1170692781216378960",
+      "content": "can i have plain noodles with no flavor ass character",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476522139027767337",
+      "channel_id": "1180437373012672522",
+      "content": "忘记发这了",
+      "author": "9ix_eternity",
+      "reactions": 7,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1476334997760901322",
+      "channel_id": "1170692781216378960",
+      "content": "This game needs SEGSSS",
+      "author": "andersen_2214",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476533522712756305",
+      "channel_id": "1170692781216378960",
+      "content": "Thank you so much for such a thoughtful breakdown of Leigh's design. It's clear ",
+      "author": "legendaryredz",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476571142700404789",
+      "channel_id": "1170692781216378960",
+      "content": "miryam chosen helps A LOT",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476606139423785170",
+      "channel_id": "1170692781216378960",
+      "content": "i spend all my money on morimens",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476312686320156968",
+      "channel_id": "1170692781216378960",
+      "content": "If the next character is hot enough I can just duct tape the part of my screen t",
+      "author": "megidola.",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476387372328550521",
+      "channel_id": "1170692781216378960",
+      "content": "MY TAWIL IS E0 SHE AINT CARRYING ANYONE",
+      "author": "nikolazuli",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476413642596679762",
+      "channel_id": "1170692781216378960",
+      "content": "That being said Draco’s Aurita post was funny.\nOne guy commented that I wa stupi",
+      "author": "frosthief",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476446659020849276",
+      "channel_id": "1170692781216378960",
+      "content": "Death isn't an option",
+      "author": "oatstemp",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476464387056210021",
+      "channel_id": "1170692781216378960",
+      "content": "If you laugh",
+      "author": "vinsette",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

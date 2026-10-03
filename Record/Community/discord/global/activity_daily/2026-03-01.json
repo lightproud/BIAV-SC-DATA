@@ -1,0 +1,194 @@
+{
+  "date": "2026-03-01",
+  "messages": 3436,
+  "unique_authors": 86,
+  "reactions_total": 477,
+  "attachments": 137,
+  "channel_activity": {
+    "🔸綜合討論": 253,
+    "🔸morimens-game-chat": 3087,
+    "🔸한국어-채팅방": 4,
+    "🔸deutscher-chatraum": 72,
+    "🔸русский-канал": 12,
+    "1477439262126379138": 1,
+    "1477577193063448628": 1,
+    "🔸lets-count": 6
+  },
+  "hourly_activity": {
+    "0": 483,
+    "1": 553,
+    "2": 350,
+    "3": 184,
+    "4": 398,
+    "5": 678,
+    "6": 426,
+    "7": 363,
+    "16": 1
+  },
+  "message_types": {
+    "0": 2055,
+    "19": 1381
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1477439262126379138",
+      "channel_id": "1477439262126379138",
+      "content": "I used the banner posters I could find for them. These aren't meant to be duplic",
+      "author": "golden_pumpking",
+      "reactions": 24,
+      "channel": ""
+    },
+    {
+      "id": "1477577193063448628",
+      "channel_id": "1477577193063448628",
+      "content": "Will start adding color or smth idk",
+      "author": "nothing_of_wisdom",
+      "reactions": 15,
+      "channel": ""
+    },
+    {
+      "id": "1477418437482516490",
+      "channel_id": "1170692781216378960",
+      "content": "i really don't have enough free time to do my dtides properly this week, it's pr",
+      "author": "reya.li",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477445649866821754",
+      "channel_id": "1170692781216378960",
+      "content": "https://cdn.discordapp.com/attachments/1324466276470624279/1427741591707189338/7",
+      "author": "blecnes.",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477351851740627005",
+      "channel_id": "1170692781216378960",
+      "content": "i also got like $500/semester of spending money cuz of this neat program from wi",
+      "author": "arkaether",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477415671607460000",
+      "channel_id": "1170692781216378960",
+      "content": "i cant read",
+      "author": "princess.goth",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477419978486714479",
+      "channel_id": "1170692781216378960",
+      "content": "there's dore",
+      "author": "ngying",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477441894706581515",
+      "channel_id": "1170692781216378960",
+      "content": "does nothing and kinda just exists",
+      "author": "megidola.",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477355474214060325",
+      "channel_id": "1170692781216378960",
+      "content": "ㅤ ㅤㅤ",
+      "author": "spooky_penguin_",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477405471869636759",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "princess.goth",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477416758246899712",
+      "channel_id": "1170692781216378960",
+      "content": "So only trash?",
+      "author": "lelouch045",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477434080512708808",
+      "channel_id": "1170692781216378960",
+      "content": "True\nEveryone in this channel can be wrong but me \nIt's fine\nI'll still try to h",
+      "author": "legendaryredz",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477438424205103346",
+      "channel_id": "1170692781216378960",
+      "content": "no stress",
+      "author": "blecnes.",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477441426827513916",
+      "channel_id": "1170692781216378960",
+      "content": "most people here think i am based and that i have a great aura",
+      "author": "blecnes.",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477348463996960921",
+      "channel_id": "1170692781216378960",
+      "content": "ye esepecially since its like my only hobby that costs money. I write and draw t",
+      "author": "dracozion",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477357041931649155",
+      "channel_id": "1170692781216378960",
+      "content": "<@113374123798859776> I forgot i sold the one that had more kills <:dead:1356082",
+      "author": "blecnes.",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477415756462559283",
+      "channel_id": "1170692781216378960",
+      "content": "eglish teacher... <:Tulu_stare:1468258231078879325>",
+      "author": "not_blueberry",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477419675372617944",
+      "channel_id": "1170692781216378960",
+      "content": "Ok I will reproduction frenzy every aequor",
+      "author": "megidola.",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477422355889258586",
+      "channel_id": "1170692781216378960",
+      "content": "is caro",
+      "author": "arandomflamev2",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477422952101183582",
+      "channel_id": "1170692781216378960",
+      "content": "U should be happy Clem will be buffed since she's so low on his tier list",
+      "author": "lelouch045",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

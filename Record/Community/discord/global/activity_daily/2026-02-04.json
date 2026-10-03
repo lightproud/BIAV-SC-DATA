@@ -1,0 +1,221 @@
+{
+  "date": "2026-02-04",
+  "messages": 10239,
+  "unique_authors": 187,
+  "reactions_total": 1293,
+  "attachments": 356,
+  "channel_activity": {
+    "🔸綜合討論": 1117,
+    "🔸阵容构建": 80,
+    "🔸morimens-game-chat": 5168,
+    "🔸剧情交流": 6,
+    "🔸晒卡分享": 2,
+    "🔸欢乐梗图": 3,
+    "🔸相位对弈": 9,
+    "🔸交友频道": 17,
+    "🔸한국어-채팅방": 187,
+    "🔸deutscher-chatraum": 1,
+    "🔸русский-канал": 3462,
+    "🔸phòng-chat-tiếng-việt": 177,
+    "1468324605570715691": 1,
+    "1468504629519192114": 1,
+    "1468515949555482796": 1,
+    "1468432358737969379": 1,
+    "1468635075364261888": 1,
+    "1468543997952917556": 1,
+    "🔸lets-count": 4
+  },
+  "hourly_activity": {
+    "0": 345,
+    "1": 574,
+    "2": 893,
+    "3": 857,
+    "4": 331,
+    "5": 101,
+    "6": 131,
+    "7": 159,
+    "8": 181,
+    "9": 81,
+    "10": 253,
+    "11": 211,
+    "12": 294,
+    "13": 262,
+    "14": 184,
+    "15": 180,
+    "16": 284,
+    "17": 222,
+    "18": 540,
+    "19": 368,
+    "20": 495,
+    "21": 596,
+    "22": 1447,
+    "23": 1250
+  },
+  "message_types": {
+    "0": 7622,
+    "19": 2614,
+    "20": 3
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1468432358737969379",
+      "channel_id": "1468432358737969379",
+      "content": "",
+      "author": "kirikonuto",
+      "reactions": 33,
+      "channel": ""
+    },
+    {
+      "id": "1468635075364261888",
+      "channel_id": "1468635075364261888",
+      "content": "Hola.",
+      "author": "hestion.1",
+      "reactions": 18,
+      "channel": ""
+    },
+    {
+      "id": "1468303587065987360",
+      "channel_id": "1170692781216378960",
+      "content": "who",
+      "author": "princess.goth",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1468462047602675799",
+      "channel_id": "1170692781216378960",
+      "content": "<@296679098703544321> bricking my acc",
+      "author": "arisuu0604",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1468520163434434571",
+      "channel_id": "1180437373012672522",
+      "content": "⚠️OOC預警\n：我也要死嗎\n：對",
+      "author": "souri.10244",
+      "reactions": 10,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1468303600873771088",
+      "channel_id": "1194835209242296410",
+      "content": "🛐🛐🛐🛐⬜⬜🛐🛐🛐🛐\n🛐🛐⬜⬜🛐🛐⬜⬜🛐🛐\n⬜⬜🛐🛐⬜⬜🛐🛐⬜⬜\n🛐🛐⬜🛐⬜⬜🛐🛐🛐🛐\n🛐🛐⬜⬜🛐⬜⬜🛐🛐🛐\n🛐🛐🛐🛐⬜⬜⬜⬜🛐🛐\n🛐🛐🛐🛐🛐🛐⬜⬜🛐🛐\n🛐🛐🛐",
+      "author": "akkom730",
+      "reactions": 9,
+      "channel": "🔸交友频道"
+    },
+    {
+      "id": "1468544901200351253",
+      "channel_id": "1131839817982947429",
+      "content": "懒得做视频了，发图带个节奏就跑路",
+      "author": "lurenjiao",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1468291032549429552",
+      "channel_id": "1194835209242296410",
+      "content": "好友++  求融朵 地瓜 鳥弟 誕墨 大佬~<:pray:1356053116260454534>",
+      "author": "yy42974466",
+      "reactions": 8,
+      "channel": "🔸交友频道"
+    },
+    {
+      "id": "1468324605570715691",
+      "channel_id": "1468324605570715691",
+      "content": "In the current iteration of the game, a lot of effects from wods have cooldowns,",
+      "author": "satachan",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1468533749238071348",
+      "channel_id": "1131839817982947429",
+      "content": "覺醒的15降力變17",
+      "author": "water_heart",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1468317644821237832",
+      "channel_id": "1170692781216378960",
+      "content": "Shes straight because she went straight into battle",
+      "author": "2ndselna",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1468561018740543499",
+      "channel_id": "1170692781216378960",
+      "content": "i invested so much in my irl builds but still cant beat life on normal mode <:pl",
+      "author": "chinkeeyong",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1468459235997122796",
+      "channel_id": "1131839817982947429",
+      "content": "再也不凹了<:dead:1356082627509092372>",
+      "author": "sweet_25367",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1468499481946226813",
+      "channel_id": "1131839817982947429",
+      "content": "我发现现在的容灾已经每关都沦为旺达玩具了（",
+      "author": "xuanxue007",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1468533663195992271",
+      "channel_id": "1131839817982947429",
+      "content": "90菲",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1468562535408996556",
+      "channel_id": "1170692781216378960",
+      "content": "Hell yea",
+      "author": "vaish6421",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1468547332541779988",
+      "channel_id": "1131839817982947429",
+      "content": "這位是薩摩大佬嗎",
+      "author": "yy42974466",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1468559754036252723",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1468575208209387593",
+      "channel_id": "1131839817982947429",
+      "content": "如果你的心力有5萬的話",
+      "author": "ernest_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1468589672597819474",
+      "channel_id": "1131839817982947429",
+      "content": "困难融朵",
+      "author": "akalanden",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

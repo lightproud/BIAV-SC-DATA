@@ -1,0 +1,222 @@
+{
+  "date": "2026-02-25",
+  "messages": 9907,
+  "unique_authors": 211,
+  "reactions_total": 1553,
+  "attachments": 443,
+  "channel_activity": {
+    "🔸綜合討論": 698,
+    "🔸阵容构建": 10,
+    "🔸morimens-game-chat": 8721,
+    "🔸剧情交流": 1,
+    "🔸晒卡分享": 3,
+    "🔸欢乐梗图": 3,
+    "🔸相位对弈": 10,
+    "🔸课间休息闲聊": 6,
+    "🔸交友频道": 15,
+    "🔸日本語チャンネル": 16,
+    "🔸한국어-채팅방": 69,
+    "🔸deutscher-chatraum": 93,
+    "🔸русский-канал": 237,
+    "1475923875392131273": 1,
+    "1475911172632088717": 1,
+    "1475908166221824122": 1,
+    "1476239209596457141": 1,
+    "1476233048503750778": 1,
+    "1476211921123410020": 1,
+    "🔸lets-count": 19
+  },
+  "hourly_activity": {
+    "0": 489,
+    "1": 594,
+    "2": 413,
+    "3": 560,
+    "4": 525,
+    "6": 187,
+    "7": 437,
+    "8": 655,
+    "9": 758,
+    "10": 279,
+    "11": 83,
+    "12": 311,
+    "13": 752,
+    "14": 289,
+    "15": 293,
+    "16": 364,
+    "17": 195,
+    "18": 226,
+    "19": 227,
+    "20": 416,
+    "21": 425,
+    "22": 423,
+    "23": 542,
+    "5": 464
+  },
+  "message_types": {
+    "0": 6395,
+    "19": 3511,
+    "46": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1476208081112269053",
+      "channel_id": "1170692781216378960",
+      "content": "https://x.com/i/status/2026640592994972085",
+      "author": "idotly",
+      "reactions": 24,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475899322477445171",
+      "channel_id": "1170692781216378960",
+      "content": "locked in",
+      "author": "dexetro",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476170955398185103",
+      "channel_id": "1131839817982947429",
+      "content": "<:24_smile:1459073862544130131>",
+      "author": "._.aahh",
+      "reactions": 11,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1476170429831053313",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "legendaryredz",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476216268922290348",
+      "channel_id": "1170692781216378960",
+      "content": "kill idot",
+      "author": "princess.goth",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475996423307919380",
+      "channel_id": "1170692781216378960",
+      "content": "https://www.reddit.com/r/Morimens/comments/1rdwdug/psa_please_be_careful_about_i",
+      "author": "dracozion",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476196428270272558",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "blecnes.",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476227928403480638",
+      "channel_id": "1300659436804640788",
+      "content": "偽マーフィーの専用遺物来てほしかったけどクリアできたから許しちゃう",
+      "author": "mta.576487576",
+      "reactions": 7,
+      "channel": "🔸日本語チャンネル"
+    },
+    {
+      "id": "1476160759665791078",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "navirecorbeau",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1475961596210712647",
+      "channel_id": "1170692781216378960",
+      "content": "Frost is boolie-able",
+      "author": "brainrot_in_a_vat",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475965571882422385",
+      "channel_id": "1170692781216378960",
+      "content": "yeah so this whole thing is kind of a clusterfuck of misunderstanding cuz transl",
+      "author": "arkaether",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475993022960238813",
+      "channel_id": "1170692781216378960",
+      "content": "I personally think Cas and Tinct are pretty bad\nAnd Liz is only good cuz Xu\nWink",
+      "author": "frosthief",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476028219181502575",
+      "channel_id": "1170692781216378960",
+      "content": "<:GDoll_Inferno_serenity:1468257540809822302>",
+      "author": "chinkeeyong",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476079999902548030",
+      "channel_id": "1170692781216378960",
+      "content": "he just like working in maid cafe",
+      "author": "polkarain",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476208373765767209",
+      "channel_id": "1170692781216378960",
+      "content": "https://x.com/morisommmm_/status/2026337447962141003",
+      "author": "blecnes.",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476236962867449857",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "snorlax01",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1476099336713535631",
+      "channel_id": "1131839817982947429",
+      "content": "摸一下就死",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1475890946234384445",
+      "channel_id": "1170692781216378960",
+      "content": "Lol the relic boxes are clipping",
+      "author": "linireo",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475891428101062782",
+      "channel_id": "1170692781216378960",
+      "content": "<a:Erica:1446523756322226359>",
+      "author": "brainrot_in_a_vat",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475903988040990915",
+      "channel_id": "1170692781216378960",
+      "content": "https://x.com/annaxxe_/status/2026325733543666127\n<@984787164875329586> is this ",
+      "author": "not_blueberry",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}
