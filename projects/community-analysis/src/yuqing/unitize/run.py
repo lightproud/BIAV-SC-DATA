@@ -27,10 +27,11 @@ from yuqing.normalize.run import messages_root
 from yuqing.normalize.store import StagedWriter, duckdb_connect, glob_of, parquet_files, short_hash
 from yuqing.unitize.segment import ANNOTATE, Msg, Seg, n_authors, segment_chat, unit_lang
 
-UNIT_RULE_VER = "q9-2"  # 2：连续发言并句、skip_reason（2026-10-03）
+UNIT_RULE_VER = "q9-3"  # 2：连续发言并句、skip_reason；3：回复关系、碎片并回（2026-10-03）
 CTX_TEXT_MAX = 200
 CONTENT_PARAMS = (
     "gap_minutes", "max_msgs", "overlap_msgs", "ctx_inline_max", "turn_gap_seconds", "low_content_max_chars",
+    "reply_window_minutes", "attach_minutes", "attach_max_turns",
 )  # fmt: skip
 # seal_minutes 只管时机，不进版本
 SKIP_CHITCHAT, SKIP_LOW = "chitchat_channel", "low_content"
@@ -244,7 +245,16 @@ def unitize(
         head = rows[0]
         msgs = [_msg(r) for r in rows]
         segs = segment_chat(
-            msgs, gap_s, p["max_msgs"], p["overlap_msgs"], p["ctx_inline_max"], reply_ok, p["turn_gap_seconds"]
+            msgs,
+            gap_s,
+            p["max_msgs"],
+            p["overlap_msgs"],
+            p["ctx_inline_max"],
+            reply_ok,
+            p["turn_gap_seconds"],
+            reply_window_s=p["reply_window_minutes"] * 60,
+            attach_s=p["attach_minutes"] * 60,
+            attach_max_turns=p["attach_max_turns"],
         )
         for seg in segs:
             emit(seg, head)
