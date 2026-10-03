@@ -10,12 +10,15 @@
 去重：url 规范为 https://arca.live/b/forgettingeve/<id>（去 ?p= 等会变的查询参数），
 collect_global.dedup_key 与 archive_platforms.item_key 都是 URL 优先，故键稳定。
 """
+import argparse
 import html as _html
+import json
 import logging
 import re
 import time
 from datetime import datetime, timedelta, UTC
 from html.parser import HTMLParser
+from pathlib import Path
 from urllib.parse import unquote
 
 import requests
@@ -288,3 +291,58 @@ def fetch_arca_live(cutoff=None, session=None):
     except Exception as e:  # 双保险
         logger.warning(f"arca_live body enrichment aborted: {e}")
     return items
+
+
+# ── 收件箱通道 CLI（守密人 2026-10-03「方案 A」，T111）────────────────────────
+# GitHub Actions 机房 IP 被 arca.live 拦（403），Claude 云会话容器带浏览器 UA 可访问：
+# 每日云会话例程在容器里跑本 CLI，把结果 JSON 提交到 inbox/arca 分支，
+# 由 arca-inbox-ingest 工作流经 ingest_inbox.py 入湖。CLI 只写 --out，不碰 Record/。
+DEFAULT_HOURS = 36
+
+
+def build_payload(items, collected_at, blocked=False):
+    """收件 JSON 结构：{source, collected_at, items[, blocked]}；被拦时 items 为空并带 blocked 标记。"""
+    payload = {"source": "arca_live", "collected_at": collected_at, "items": items}
+    if blocked:
+        payload["blocked"] = True
+    return payload
+
+
+def run_cli(hours, out, session=None):
+    """采集并写 out；被拦 / 失败 / 零条也写文件（被拦带 blocked 标记）。返回 payload。"""
+    now = datetime.now(UTC)
+    cutoff = now - timedelta(hours=hours)
+    blocked = False
+    try:
+        # 与 fetch_arca_live 同一套步骤（列表 -> build_items -> 补正文）；
+        # 区别只在被拦时记 blocked 标记，以区分「窗内确实零条」。
+        rows = parse_list(_fetch_page(ARCA_LIST_URL, "list", session))
+        items = build_items(rows, cutoff)
+        try:
+            _enrich_bodies(items, session)
+        except Exception as e:  # 双保险
+            logger.warning(f"arca_live body enrichment aborted: {e}")
+    except Exception as e:  # ArcaChallenge / 网络错误：降级为空并标记
+        logger.warning(f"arca_live 列表页被拦或失败，写空收件文件：{e}")
+        items, blocked = [], True
+    payload = build_payload(items, now.strftime("%Y-%m-%dT%H:%M:%SZ"), blocked)
+    path = Path(out)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
+    return payload
+
+
+def main(argv=None):
+    ap = argparse.ArgumentParser(description="arca.live 采集 CLI：结果写收件 JSON（不写 Record/）")
+    ap.add_argument("--hours", type=float, default=DEFAULT_HOURS, help="回看小时数（默认 36）")
+    ap.add_argument("--out", required=True, help="输出 JSON 路径")
+    args = ap.parse_args(argv)
+    logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
+    payload = run_cli(args.hours, args.out)
+    print(f"arca_live: {len(payload['items'])} 条"
+          f"{'（被拦，已写空文件）' if payload.get('blocked') else ''} -> {args.out}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

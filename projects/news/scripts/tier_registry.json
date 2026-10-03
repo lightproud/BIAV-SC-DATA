@@ -49,6 +49,10 @@
       "tier": "T1",
       "why": "采集条目的质量增强/打分"
     },
+    "ingest_inbox": {
+      "tier": "T2",
+      "why": "收件箱入湖（T111）：外部采集的 JSON 沿用 archive_platforms.write_archive 按日落全量档案层，不采集、不发请求"
+    },
     "archive_platforms": {
       "tier": "T1",
       "why": "把刚采的 news.json 按条目真实日期落 data/platforms/——T1 的下游落盘，不是 T2 归档引擎（2026-07-27 结构审视实地校正：曾按名字误归 T2）"
