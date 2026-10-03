@@ -63,6 +63,12 @@ def _refresh_cutoff():
 # 微博搜索每个关键词最多向后翻几页。取 5：单页约十余条，5 页 ≈ 每关键词每轮 50~70
 # 条，足以覆盖高峰日的刷新速度；再深就开始大量撞到时窗外的旧贴，纯烧请求。
 WEIBO_MAX_PAGES = int(os.environ.get("WEIBO_MAX_PAGES") or 5)
+# 长微博全文补取（T109）：搜索接口只回前约 140 字，isLongText 为真时再请求
+# m.weibo.cn/statuses/extend 取全文。每轮（fetch_weibo 一次调用）最多补取这么多条，
+# 补取请求之间隔 WEIBO_LONGTEXT_DELAY 秒，防止放大请求量触发风控。
+WEIBO_LONGTEXT_MAX_PER_RUN = 40
+WEIBO_LONGTEXT_DELAY = 1.0
+WEIBO_EXTEND_URL = "https://m.weibo.cn/statuses/extend"
 
 # 多语言搜索关键词
 KEYWORDS = {
@@ -574,6 +580,7 @@ def fetch_weibo():
     """
     cookie = os.environ.get("WEIBO_COOKIE", "")
     items = []
+    longtext_budget = [WEIBO_LONGTEXT_MAX_PER_RUN]  # 每轮全文补取额度（跨关键词 / 页共享）
     for keyword in KEYWORDS["zh"]:
         seen_ids: set[str] = set()
         for page in range(1, WEIBO_MAX_PAGES + 1):
@@ -600,7 +607,7 @@ def fetch_weibo():
                     break
                 seen_ids |= page_ids
 
-                _collect_weibo_cards(cards, items)
+                _collect_weibo_cards(cards, items, longtext_budget, cookie)
                 logger.info(f'Weibo "{keyword}" p{page}: {len(cards)} cards')
             except Exception as e:
                 logger.warning(f'Weibo "{keyword}" p{page} failed: {e}')
@@ -609,17 +616,76 @@ def fetch_weibo():
     return items
 
 
-def _collect_weibo_cards(cards, items):
-    """把一页搜索卡片解析成标准 item 追加进 items。"""
+def _strip_weibo_html(raw):
+    """去 HTML 标签并解转义（<br> 转换行）。"""
+    raw = re.sub(r"<br\s*/?>", "\n", raw or "", flags=re.I)
+    return _html.unescape(re.sub(r"<[^>]+>", "", raw)).strip()
+
+
+def _fetch_weibo_long_text(mblog_id, cookie=""):
+    """请求 m.weibo.cn 全文接口，返回去 HTML 后的全文；失败或为空返回 None（调用方降级）。
+
+    结构按接口公开已知形态：{"ok": 1, "data": {"longTextContent": "<html>"}}。
+    """
+    headers = {"Referer": f"https://m.weibo.cn/detail/{mblog_id}"}
+    if cookie:
+        headers["Cookie"] = cookie
+    try:
+        data = _get(WEIBO_EXTEND_URL, params={"id": mblog_id}, headers=headers).json()
+        content = ((data or {}).get("data") or {}).get("longTextContent") or ""
+    except Exception as e:
+        logger.warning(f"Weibo long text {mblog_id} failed: {e}")
+        return None
+    text = _strip_weibo_html(content)
+    return text or None
+
+
+def _weibo_author_id(mblog):
+    """稳定用户 ID：优先 mblog.user.id，其次 mblog.uid / user.idstr；取不到返回空串。"""
+    user = mblog.get("user") or {}
+    for v in (user.get("id"), user.get("idstr"), mblog.get("uid")):
+        if v not in (None, "", 0):
+            return str(v)
+    return ""
+
+
+def _collect_weibo_cards(cards, items, longtext_budget=None, cookie=""):
+    """把一页搜索卡片解析成标准 item 追加进 items。
+
+    longtext_budget: 单元素列表 [剩余额度]，None 表示不补取全文（保持旧行为）。
+    作者：author 只放 screen_name（缺则空串，不掺 uid:，以免污染作者统计）；
+    稳定用户 ID 写入 metadata['author_id']（metadata 全量透传到归档）。
+    去重键：weibo 的 url 恒为 detail/<id>，collect_global.dedup_key 与
+    archive_platforms.item_key 都是 URL 优先，author 不参与，故本改动不影响去重。
+    """
     for card in cards:
-        mblog = card.get("mblog", {})
+        mblog = card.get("mblog") or {}
         from weibo_common import metrics
         engagement, metadata = metrics(
             mblog.get("reposts_count"), mblog.get("comments_count"),
             mblog.get("attitudes_count"))
-        metadata['author_is_unknown'] = not bool((mblog.get("user") or {}).get("screen_name"))
+        screen_name = (mblog.get("user") or {}).get("screen_name") or ""
+        author_id = _weibo_author_id(mblog)
+        metadata['author_is_unknown'] = not bool(screen_name)
+        if author_id:
+            metadata['author_id'] = author_id
         parsed_time, time_approx = _parse_weibo_time(mblog.get("created_at", ""))
-        text_clean = re.sub(r"<[^>]+>", "", mblog.get("text", ""))
+        text_clean = _strip_weibo_html(mblog.get("text", ""))
+
+        mid = str(mblog.get("id", "") or "")
+        if mblog.get("isLongText") and mid and longtext_budget is not None:
+            if longtext_budget[0] > 0:
+                longtext_budget[0] -= 1
+                time.sleep(WEIBO_LONGTEXT_DELAY)
+                full = _fetch_weibo_long_text(mid, cookie)
+                if full:
+                    text_clean = full
+                else:
+                    metadata['long_text_truncated'] = True
+            else:
+                metadata['long_text_truncated'] = True  # 额度用尽，保留截断文本
+        elif mblog.get("isLongText"):
+            metadata['long_text_truncated'] = True
 
         item = _make_item(
             title=text_clean[:100],
@@ -630,7 +696,7 @@ def _collect_weibo_cards(cards, items):
             url=f"https://m.weibo.cn/detail/{mblog.get('id', '')}",
             engagement=engagement,
             is_hot=(metadata["likes_count"] or 0) > 500,
-            author=(mblog.get("user") or {}).get("screen_name", ""),
+            author=screen_name,
             lang="zh",
         )
         item["metadata"] = metadata
