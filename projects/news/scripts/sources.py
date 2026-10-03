@@ -46,6 +46,8 @@ KNOWN_SOURCES = [
     'taptap_review',
     # Bluesky 公开帖搜索（X 不付费的替代，守密人 2026-10-03 裁定）
     'bluesky',
+    # Telegram 公开频道（官方单向发布）+ Misskey 日本 Fediverse（守密人 2026-10-03 批准）
+    'telegram', 'misskey',
     # Facebook 官方主页评论（Studio 管理主页令牌，守密人 2026-10-03 裁定；未配 FB_PAGE_* 时 0 产出属预期）
     'facebook',
     # Reddit 评论（官方 OAuth API；归档 reddit/global/comment/，需 REDDIT_CLIENT_ID/SECRET）
@@ -84,6 +86,7 @@ SPARSE_SOURCES = {
     'stopgame',
     'note_com', 'ruliweb', 'bahamut', 'arca_live', 'taptap_review',
     'bluesky', 'facebook',
+    'telegram', 'misskey',
     'reddit_comment',
     'discord',
 }

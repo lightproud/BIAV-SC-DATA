@@ -157,6 +157,14 @@
       "tier": "T1",
       "why": "Bluesky 公开帖关键词搜索采集（守密人 2026-10-03 裁定以 Bluesky 替代付费 X），供 collect_global 调度"
     },
+    "telegram_collector": {
+      "tier": "T1",
+      "why": "Telegram 公开频道预览页采集（官方单向发布，守密人 2026-10-03 批准），供 collect_global 调度"
+    },
+    "misskey_collector": {
+      "tier": "T1",
+      "why": "Misskey 日本 Fediverse 公开笔记搜索采集（守密人 2026-10-03 批准），供 collect_global 调度"
+    },
     "facebook_page_collector": {
       "tier": "T1",
       "why": "Facebook 官方主页帖子评论采集（Graph API + 主页令牌，守密人 2026-10-03 裁定），供 collect_global 调度"

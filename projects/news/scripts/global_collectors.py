@@ -38,6 +38,8 @@ from four_gamer_collector import fetch_four_gamer
 from arca_live_collector import fetch_arca_live
 import taptap_collector
 import bluesky_collector
+import telegram_collector
+import misskey_collector
 import facebook_page_collector
 import reddit_comments_collector
 from sources import REGION_APPS  # 区服 app 标识单一真相源（2026-06-21 采集源命名规范）
@@ -719,6 +721,16 @@ def fetch_taptap_reviews():
 def fetch_bluesky():
     """Bluesky 关键词搜索（实现见 bluesky_collector）；时窗沿用全局 CUTOFF。"""
     return bluesky_collector.fetch_bluesky(CUTOFF)
+
+
+def fetch_telegram():
+    """Telegram 公开频道（实现见 telegram_collector）；时窗沿用全局 CUTOFF。"""
+    return telegram_collector.fetch_telegram(CUTOFF)
+
+
+def fetch_misskey():
+    """Misskey 公开笔记搜索（实现见 misskey_collector）；时窗沿用全局 CUTOFF。"""
+    return misskey_collector.fetch_misskey(CUTOFF)
 
 
 def fetch_facebook_page():

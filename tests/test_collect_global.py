@@ -133,7 +133,7 @@ class TestFailureAggregation(unittest.TestCase):
             "Bahamut": "fetch_bahamut",
             "Arca.live": "fetch_arca_live",
             "TapTap": "fetch_taptap_reviews",
-            "Bluesky": "fetch_bluesky", "Facebook": "fetch_facebook_page",
+            "Bluesky": "fetch_bluesky", "Telegram": "fetch_telegram", "Misskey": "fetch_misskey", "Facebook": "fetch_facebook_page",
             "Google Play": "fetch_google_play",
             "Reddit Comments": "fetch_reddit_comments",
         }

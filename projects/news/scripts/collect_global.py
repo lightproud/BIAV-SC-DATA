@@ -58,6 +58,8 @@ SOURCE_MAP = {
     'weibo': 'weibo',
     'taptap_review': 'taptap_review',
     'bluesky': 'bluesky',
+    'telegram': 'telegram',
+    'misskey': 'misskey',
     'facebook': 'facebook',
     'bahamut': 'bahamut',
     'appstore': 'appstore',
@@ -188,6 +190,8 @@ def run_zero_cost_collectors() -> list[dict]:
         ('TapTap', c.fetch_taptap_reviews),  # 守密人 2026-10-03 裁定重启（taptap_collector.py，T111）
         ('Google Play', c.fetch_google_play),
         ('Bluesky', c.fetch_bluesky),  # 守密人 2026-10-03 裁定（bluesky_collector.py）
+        ('Telegram', c.fetch_telegram),  # 官方公开频道（telegram_collector.py，守密人 2026-10-03 批准）
+        ('Misskey', c.fetch_misskey),  # 日本 Fediverse（misskey_collector.py，守密人 2026-10-03 批准）
         ('Facebook', c.fetch_facebook_page),  # 主页评论；FB_PAGE_ID / FB_PAGE_TOKEN 未配则返回空
         ('Reddit Comments', c.fetch_reddit_comments),  # Reddit 官方 OAuth 评论采集（缺凭据返回空，reddit_comments_collector.py）
     ]
@@ -208,6 +212,8 @@ def run_zero_cost_collectors() -> list[dict]:
         'TapTap': 'taptap_review',
         'Google Play': 'google_play',
         'Bluesky': 'bluesky',
+        'Telegram': 'telegram',
+        'Misskey': 'misskey',
         'Facebook': 'facebook',
         'Reddit Comments': 'reddit_comment',
     }
