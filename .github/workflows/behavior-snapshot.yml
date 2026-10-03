@@ -1,0 +1,89 @@
+name: Behavior Snapshot
+
+# 2026-10-03 守密人批准：行为数据日快照（非发言类热度指标的每日时间序列，供舆情系统做「言行对照」）。
+# 指标：Discord 邀请人数 / Steam 在线与评价 / TapTap 评分预约粉丝 / App Store 与 Google Play 评分 /
+# YouTube 近 15 条视频播放 / Fandom 统计。落 Record/Behavior/<source>/<YYYY>.jsonl，以 [skip ci] 提交。
+# 宿主 = projects/news/scripts/behavior_snapshot.py（纯标准库）；与 store-patrol（店面变更签名）不重复。
+# 定时只在仓库变量 COLLECTION_ENABLED=true 后生效，手动触发不受限。
+# 本仓公开，运行日志任何人可见——勿在步骤里打印凭据（本作业不使用任何凭据）。
+#
+# Daily slot: 北京时间 08:20 = UTC 00:20（cron 按 UTC 计，故写 '20 0 * * *'）。
+# 与 07:xx UTC 的兄弟日更错峰。
+#
+# workflow_dispatch 的 backfill=true：一次性回填 steamcharts 全部历史到 Record/Behavior/steamcharts/
+# （幂等，可重复跑），回填完成后仍照常跑当日快照。
+
+on:
+  schedule:
+    - cron: '20 0 * * *'
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: '一次性回填 steamcharts 全部历史（幂等）'
+        type: boolean
+        default: false
+
+concurrency:
+  group: behavior-snapshot
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    if: (github.event_name == 'workflow_dispatch' || vars.COLLECTION_ENABLED == 'true')
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          # Sparse: 排除多 GB 的归档层，只重新纳入本作业自己的写入目录 Record/Behavior/。
+          sparse-checkout: |
+            /*
+            !/Record/
+            /Record/Behavior/
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+      # 纯标准库，无需 pip install。
+      # 部分源失败不得丢弃成功源的快照：记下退出码、总是先提交，最后再让作业变红。
+      - name: Backfill steamcharts history
+        if: github.event_name == 'workflow_dispatch' && inputs.backfill
+        run: python projects/news/scripts/behavior_snapshot.py --out Record/Behavior --backfill-steamcharts
+      - name: Run behavior snapshot
+        id: snapshot
+        continue-on-error: true
+        run: python projects/news/scripts/behavior_snapshot.py --out Record/Behavior
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Record/Behavior/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: behavior snapshot [skip ci]"
+            for i in 1 2 3 4; do
+              if git pull --rebase origin main; then
+                git push origin main && exit 0
+              else
+                git checkout --theirs . 2>/dev/null || true
+                # 冲突解决也只 stage 本作业该提交的那棵子树。
+                git add -A Record/Behavior/
+                git -c core.editor=true rebase --continue \
+                  && git push origin main && exit 0
+                git rebase --abort 2>/dev/null || true
+              fi
+              echo "Push attempt $i failed, retrying in ${i}s..."
+              sleep $i
+            done
+            echo "All push attempts failed"
+            exit 1
+          fi
+      - name: Fail the job if the snapshot failed
+        if: steps.snapshot.outcome == 'failure'
+        run: |
+          echo "Behavior snapshot exited non-zero (partial failure); rows from successful sources were committed above."
+          exit 1
