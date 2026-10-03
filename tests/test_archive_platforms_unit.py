@@ -39,6 +39,16 @@ class TestItemKey(unittest.TestCase):
         b = ap.item_key({**base, "url": "/link?url=dn9a_BBB&type=2&token=9FC431AA"})
         self.assertEqual(a, b)
 
+    def test_weixin_author_backfill_keeps_same_key(self):
+        """T109：补上公众号名后，与历史（author 空）条目仍判为同一篇。"""
+        base = {"source": "weixin", "title": "T", "time": "2026-08-07T03:11:00+00:00", "url": "/link?x"}
+        self.assertEqual(ap.item_key({**base, "author": ""}), ap.item_key({**base, "author": "某号"}))
+
+    def test_non_weixin_author_still_in_fallback_key(self):
+        a = ap.item_key({"source": "x", "title": "T", "time": "t", "author": "a"})
+        b = ap.item_key({"source": "x", "title": "T", "time": "t", "author": "b"})
+        self.assertNotEqual(a, b)
+
     def test_stable_url_source_still_keys_on_url(self):
         """只有中转链源改键；URL 稳定的源不受影响（同标题不同贴仍是两条）。"""
         a = ap.item_key({"source": "reddit", "title": "T", "url": "https://x/1"})

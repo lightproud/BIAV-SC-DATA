@@ -585,3 +585,47 @@ class TestFetchStopgameExtra(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+# ─── weixin：真实结构（span 公众号名 + 带 id 的 txt-info 摘要）T109 ───────
+
+_SOGOU_LI = (
+    '<li id="sogou_vr_11002601_box_{n}"><div class="txt-box"><h3>'
+    '<a target="_blank" href="/link?url=AAA&amp;type=2&amp;token=T{n}" id="t{n}">'
+    '标题{n}<em><!--red_beg-->忘却前夜<!--red_end--></em></a></h3>'
+    '<p class="txt-info" id="sogou_vr_11002601_summary_{n}">摘要{n}<em><!--red_beg-->关键词<!--red_end--></em>...</p>'
+    '<div class="s-p"><span class="all-time-y2">号{n}</span>'
+    '<span class="s2"><script>document.write(timeConvert(\'171875520{n}\'))</script></span></div>'
+    '</div></li>'
+)
+
+
+class TestFetchWeixinAuthorSummary(unittest.TestCase):
+    def _run(self, html):
+        with mock.patch.object(gc, "_get_cf", return_value=FakeResp(text=html)):
+            return gc.fetch_weixin()
+
+    def test_author_and_summary_parsed_per_result(self):
+        items = self._run("<ul>" + _SOGOU_LI.format(n=1) + _SOGOU_LI.format(n=2) + "</ul>")
+        first = [i for i in items if "标题1" in i["title"]][0]
+        second = [i for i in items if "标题2" in i["title"]][0]
+        self.assertEqual((first["author"], first["summary"]), ("号1", "摘要1关键词..."))
+        self.assertEqual((second["author"], second["summary"]), ("号2", "摘要2关键词..."))
+        self.assertNotIn("&amp;", first["url"])
+        self.assertFalse(first.get("time_is_approximate"))
+
+    def test_missing_summary_does_not_borrow_next_result(self):
+        li1 = _SOGOU_LI.format(n=1).replace(
+            '<p class="txt-info" id="sogou_vr_11002601_summary_1">摘要1<em><!--red_beg-->关键词<!--red_end--></em>...</p>', '')
+        items = self._run(li1 + _SOGOU_LI.format(n=2))
+        first = [i for i in items if "标题1" in i["title"]][0]
+        self.assertEqual(first["summary"], "")
+        self.assertEqual(first["author"], "号1")
+
+    def test_old_and_new_item_share_archive_key(self):
+        """补上 author/summary 后，同一篇文章与历史条目（author 空）仍是同一条。"""
+        import archive_platforms as ap
+        new = self._run(_SOGOU_LI.format(n=1))[0]
+        old = {**new, "author": "", "summary": "", "url": "/link?url=OLD&type=2&token=X"}
+        self.assertTrue(new["author"])
+        self.assertEqual(ap.item_key(new), ap.item_key(old))
