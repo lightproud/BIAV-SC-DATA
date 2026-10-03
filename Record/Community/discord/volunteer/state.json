@@ -528,6 +528,10 @@
     }
   },
   "historical_month": null,
-  "last_run": "2026-10-03T21:11:57.232161+00:00",
-  "history_backfill_complete": true
+  "last_run": "2026-10-03T21:45:52.002756+00:00",
+  "history_backfill_complete": true,
+  "refetch": {},
+  "refetch_done": [
+    "2026-02"
+  ]
 }
