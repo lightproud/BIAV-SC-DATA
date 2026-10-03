@@ -136,6 +136,7 @@ class TestRunZeroCostBranches(unittest.TestCase):
             "Bahamut": "fetch_bahamut",
             "Arca.live": "fetch_arca_live",
             "TapTap": "fetch_taptap_reviews",
+            "Bluesky": "fetch_bluesky", "Facebook": "fetch_facebook_page",
             "Google Play": "fetch_google_play",
         }
         patches = []

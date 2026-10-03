@@ -37,6 +37,8 @@ from prtimes_collector import fetch_prtimes
 from four_gamer_collector import fetch_four_gamer
 from arca_live_collector import fetch_arca_live
 import taptap_collector
+import bluesky_collector
+import facebook_page_collector
 from sources import REGION_APPS  # 区服 app 标识单一真相源（2026-06-21 采集源命名规范）
 
 logging.basicConfig(
@@ -711,6 +713,16 @@ def _collect_weibo_cards(cards, items, longtext_budget=None, cookie=""):
 def fetch_taptap_reviews():
     """TapTap 国服评价（T111 重启，实现见 taptap_collector）；时窗沿用全局 CUTOFF。"""
     return taptap_collector.fetch_taptap_reviews(CUTOFF)
+
+
+def fetch_bluesky():
+    """Bluesky 关键词搜索（实现见 bluesky_collector）；时窗沿用全局 CUTOFF。"""
+    return bluesky_collector.fetch_bluesky(CUTOFF)
+
+
+def fetch_facebook_page():
+    """Facebook 官方主页评论（实现见 facebook_page_collector）；未配置返回空。"""
+    return facebook_page_collector.fetch_facebook_page(CUTOFF)
 
 
 # NOTE: divergent from aggregator_collectors.fetch_discord_local — see audit ARCH-01:

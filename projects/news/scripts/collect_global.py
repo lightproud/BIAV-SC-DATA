@@ -56,6 +56,8 @@ SOURCE_MAP = {
     'steam_discussion': 'steam_discussion',
     'weibo': 'weibo',
     'taptap_review': 'taptap_review',
+    'bluesky': 'bluesky',
+    'facebook': 'facebook',
     'bahamut': 'bahamut',
     'appstore': 'appstore',
     'google_play': 'google_play',
@@ -184,6 +186,8 @@ def run_zero_cost_collectors() -> list[dict]:
         ('Arca.live', c.fetch_arca_live),  # 守密人 2026-10-03 裁定重启（arca_live_collector.py，T111）
         ('TapTap', c.fetch_taptap_reviews),  # 守密人 2026-10-03 裁定重启（taptap_collector.py，T111）
         ('Google Play', c.fetch_google_play),
+        ('Bluesky', c.fetch_bluesky),  # 守密人 2026-10-03 裁定（bluesky_collector.py）
+        ('Facebook', c.fetch_facebook_page),  # 主页评论；FB_PAGE_ID / FB_PAGE_TOKEN 未配则返回空
     ]
 
     all_fetchers = zero_cost_fetchers + api_fetchers
@@ -201,6 +205,8 @@ def run_zero_cost_collectors() -> list[dict]:
         'Arca.live': 'arca_live',
         'TapTap': 'taptap_review',
         'Google Play': 'google_play',
+        'Bluesky': 'bluesky',
+        'Facebook': 'facebook',
     }
 
     # 各采集器互相独立、采集前无共享状态 → 用线程并行（阻塞 requests 用线程即可）。

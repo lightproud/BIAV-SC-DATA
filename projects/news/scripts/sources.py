@@ -44,6 +44,10 @@ KNOWN_SOURCES = [
     'weixin',
     # TapTap 国服评价（守密人 2026-10-03 裁定重启，T111）
     'taptap_review',
+    # Bluesky 公开帖搜索（X 不付费的替代，守密人 2026-10-03 裁定）
+    'bluesky',
+    # Facebook 官方主页评论（Studio 管理主页令牌，守密人 2026-10-03 裁定；未配 FB_PAGE_* 时 0 产出属预期）
+    'facebook',
 ]
 # twitter 已摘除（守密人 2026-07-30 裁定，归档完整性审计待裁项④）：挂名 1,126 天审计窗口
 # 零产出、归档目录从未存在（syndication 接口 API 墙）。采集器 fetch_twitter 保留在
@@ -77,6 +81,7 @@ SPARSE_SOURCES = {
     'pixiv',
     'stopgame',
     'note_com', 'ruliweb', 'bahamut', 'arca_live', 'taptap_review',
+    'bluesky', 'facebook',
     'discord',
 }
 
@@ -97,6 +102,7 @@ R1_HARD_FAIL_SOURCES = {'reddit', 'bilibili'}
 AUTH_GATED = {
     'youtube': 'YOUTUBE_API_KEY',
     'discord': 'DISCORD_BOT_TOKEN',
+    'facebook': 'FB_PAGE_TOKEN',  # 另需 FB_PAGE_ID；任一缺失采集器即返回空
 }
 
 # Discord 有独立归档器（discord_archiver.py），不走 archive_platforms 的按日归档
