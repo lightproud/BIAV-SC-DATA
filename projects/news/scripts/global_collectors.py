@@ -37,6 +37,9 @@ from prtimes_collector import fetch_prtimes
 from four_gamer_collector import fetch_four_gamer
 from arca_live_collector import fetch_arca_live
 import taptap_collector
+import bluesky_collector
+import facebook_page_collector
+import reddit_comments_collector
 from sources import REGION_APPS  # 区服 app 标识单一真相源（2026-06-21 采集源命名规范）
 
 logging.basicConfig(
@@ -711,6 +714,21 @@ def _collect_weibo_cards(cards, items, longtext_budget=None, cookie=""):
 def fetch_taptap_reviews():
     """TapTap 国服评价（T111 重启，实现见 taptap_collector）；时窗沿用全局 CUTOFF。"""
     return taptap_collector.fetch_taptap_reviews(CUTOFF)
+
+
+def fetch_bluesky():
+    """Bluesky 关键词搜索（实现见 bluesky_collector）；时窗沿用全局 CUTOFF。"""
+    return bluesky_collector.fetch_bluesky(CUTOFF)
+
+
+def fetch_facebook_page():
+    """Facebook 官方主页评论（实现见 facebook_page_collector）；未配置返回空。"""
+    return facebook_page_collector.fetch_facebook_page(CUTOFF)
+
+
+def fetch_reddit_comments():
+    """Reddit 评论（官方 OAuth API；凭据缺失返回 []，实现见 reddit_comments_collector）；时窗沿用全局 CUTOFF。"""
+    return reddit_comments_collector.fetch_reddit_comments(CUTOFF)
 
 
 # NOTE: divergent from aggregator_collectors.fetch_discord_local — see audit ARCH-01:
@@ -1897,7 +1915,252 @@ def _steam_discussion_timestamp(block: str):
     return parser.value
 
 
-def _fetch_steam_discussions_one(app_id, region, max_pages: int = 3):
+# ── Steam 讨论区：全板块 + 回帖（守密人 2026-10-03）─────────────────────────────
+# 板块来自讨论区首页 forumselector 下拉（实测 3 个：General Discussions=discussions/0、
+# Events & Announcements=eventcomments、Trading=tradingforum）；发现失败回落 General 一个。
+# 回帖与帖子同归 steam/<区服>/discussion（同源 steam_discussion，去重键 = url，
+# 回帖 url = 帖子 url + #c<评论id>，与帖子 url 天然不撞）；靠 tags=steam_reply、
+# metadata.kind=reply 区分，读方无需新增子类登记。
+STEAM_UA = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+            '(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36')
+STEAM_FORUM_FALLBACK = [('discussions/0', 'General Discussions')]
+STEAM_REQUEST_INTERVAL = 1.0       # 板块 / 帖子页请求间隔（秒）
+STEAM_MAX_THREADS_PER_RUN = 40     # 每区服每轮最多进几个帖子页
+STEAM_MAX_REPLY_PAGES = 5          # 单帖最多翻几页回帖（含首页）
+STEAM_MAX_REQUESTS_PER_RUN = 80    # 每区服每轮帖子页请求总上限
+STEAM_FAIL_BREAKER = 3             # 连续失败几次即熔断回帖阶段
+
+
+def _steam_discover_forums(app_id, headers):
+    """读讨论区首页下拉发现全部子板块 → [(path, 名称)]；失败 / 找不到回落 General。"""
+    import html as _html
+    try:
+        resp = requests.get(f'https://steamcommunity.com/app/{app_id}/discussions/',
+                            headers=headers, timeout=30)
+        resp.raise_for_status()
+        found, seen = [], set()
+        pattern = (r'<option\s+value="https://steamcommunity\.com/app/' + str(app_id) +
+                   r'/(discussions/\d+|eventcomments|tradingforum)/?"[^>]*>\s*([^<]*)')
+        for path, name in re.findall(pattern, resp.text):
+            if path not in seen:
+                seen.add(path)
+                found.append((path, _html.unescape(name).strip() or path))
+        if found:
+            return found
+    except Exception as e:
+        logger.warning(f'Steam Discussions: 板块发现失败，回落 General：{e}')
+    return list(STEAM_FORUM_FALLBACK)
+
+
+class _SteamThreadParser(HTMLParser):
+    """帖子页解析：楼主块（forum_op）+ 回帖块（commentthread_comment）。
+
+    正文用 div 深度计数截取（引用块里会嵌 div），<br> 转换行。
+    """
+
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.op = {'author': '', 'author_id': '', 'profile': '', 'time': None, 'text': ''}
+        self.comments = []
+        self.total = None
+        self.pagesize = None
+        self._cur = None         # 当前回帖 dict；None 表示仍在楼主区
+        self._cap = None         # [目标 dict, 字段, 深度]
+        self._in_author = False
+        self._author_t = None
+        self._author_buf = ''
+        self._skip = 0
+
+    def _target(self):
+        return self._cur if self._cur is not None else self.op
+
+    def handle_starttag(self, tag, attrs):
+        a = dict(attrs)
+        cls = (a.get('class') or '').split()
+        if tag in ('script', 'style'):
+            self._skip += 1
+            return
+        if self._cap is not None:
+            if tag == 'div':
+                self._cap[2] += 1
+            elif tag == 'br':
+                self._cap[0][self._cap[1]] += '\n'
+            return
+        if tag == 'div':
+            did = a.get('id') or ''
+            m = re.fullmatch(r'comment_(\d+)', did)
+            if m and 'commentthread_comment' in cls:
+                self._cur = {'id': m.group(1), 'author': '', 'author_id': '',
+                             'profile': '', 'time': None, 'text': ''}
+                self.comments.append(self._cur)
+            elif 'commentthread_comment_text' in cls and self._cur is not None:
+                self._cap = [self._cur, 'text', 1]
+            elif did.startswith('forum_op_content_') and self._cur is None:
+                self._cap = [self.op, 'text', 1]
+            elif 'commentthread_comment_timestamp' in cls and a.get('data-timestamp'):
+                t = self._target()
+                if t['time'] is None:
+                    try:
+                        t['time'] = datetime.fromtimestamp(int(a['data-timestamp']), tz=UTC)
+                    except (ValueError, OverflowError, OSError):
+                        pass
+        elif tag == 'a':
+            if 'commentthread_author_link' in cls and self._cur is not None:
+                t = self._cur
+            elif 'forum_op_author' in cls and self._cur is None:
+                t = self.op
+            else:
+                return
+            href = a.get('href') or ''
+            m = re.search(r'steamcommunity\.com(/(?:profiles|id)/[^/?#]+)', href)
+            t['profile'] = m.group(1) if m else ''
+            t['author_id'] = a.get('data-miniprofile') or ''
+            self._in_author = True
+            self._author_t = t
+            self._author_buf = ''
+
+    def handle_endtag(self, tag):
+        if tag in ('script', 'style'):
+            self._skip = max(0, self._skip - 1)
+            return
+        if self._cap is not None:
+            if tag == 'div':
+                self._cap[2] -= 1
+                if self._cap[2] <= 0:
+                    self._cap = None
+            return
+        if tag == 'a' and self._in_author:
+            self._in_author = False
+            self._author_t['author'] = self._author_buf.strip()
+
+    def handle_data(self, data):
+        if self._skip:
+            return
+        if self._cap is not None:
+            self._cap[0][self._cap[1]] += data
+        elif self._in_author:
+            self._author_buf += data
+
+    def close(self):
+        super().close()
+        for t in [self.op] + self.comments:
+            t['text'] = re.sub(r'[ \t]+\n', '\n', re.sub(r'\n{3,}', '\n\n', t['text'])).strip()
+
+
+def _steam_parse_thread_page(html):
+    """解析帖子页 → parser（含 total / pagesize；总数与页大小来自内嵌 JSON）。"""
+    p = _SteamThreadParser()
+    p.feed(html)
+    p.close()
+    m_total = re.search(r'"total_count"\s*:\s*(\d+)', html)
+    m_size = re.search(r'"pagesize"\s*:\s*(\d+)', html)
+    p.total = int(m_total.group(1)) if m_total else len(p.comments)
+    p.pagesize = int(m_size.group(1)) if m_size else 15
+    return p
+
+
+def _steam_enrich_threads(threads, cutoff, headers, region, fetched_at,
+                          max_threads, max_reply_pages, max_requests, breaker):
+    """进帖子页：补全首帖正文，抓时窗内回帖。返回回帖条目；失败降级保留列表数据。
+
+    回帖从最后一页往前翻，一页里出现早于时窗的回帖即止；熔断 / 总请求数封顶后停手。
+    """
+    replies = []
+    requests_used = 0
+    fails = 0
+    for it in threads[:max_threads]:
+        if fails >= breaker:
+            logger.warning(f'Steam Discussions: 连续 {fails} 次失败，熔断回帖阶段')
+            break
+        if requests_used >= max_requests:
+            logger.warning('Steam Discussions: 帖子页请求达每轮上限，余帖降级为仅列表数据')
+            break
+        thread_url = it['url']
+        pages = {}
+
+        def load(page):
+            nonlocal requests_used
+            time.sleep(STEAM_REQUEST_INTERVAL)
+            requests_used += 1
+            u = thread_url if page == 1 else f'{thread_url}?ctp={page}'
+            resp = requests.get(u, headers=headers, timeout=30)
+            resp.raise_for_status()
+            pages[page] = _steam_parse_thread_page(resp.text)
+            return pages[page]
+
+        try:
+            first = load(1)
+            fails = 0
+            if first.op['text']:
+                it['summary'] = first.op['text']
+            if first.op['time'] is not None:
+                it['created_at'] = first.op['time'].isoformat()
+            if first.op['author'] and not it.get('author'):
+                it['author'] = first.op['author']
+            md = it.setdefault('metadata', {})
+            if first.op['author_id']:
+                md['author_id'] = first.op['author_id']
+            if first.op['profile']:
+                md['author_profile'] = first.op['profile']
+            md['reply_total'] = first.total
+            total_pages = max(1, -(-first.total // max(first.pagesize, 1)))
+            order = [1] + list(range(total_pages, 1, -1))[:max(0, max_reply_pages - 1)]
+            for page in order:
+                if page not in pages:
+                    if requests_used >= max_requests:
+                        break
+                    load(page)
+                stop = False
+                for c in pages[page].comments:
+                    if c['time'] is not None and c['time'] < cutoff:
+                        stop = page != 1
+                        continue
+                    replies.append(_steam_reply_item(it, c, first.op, region, fetched_at))
+                if stop:
+                    break
+        except Exception as e:
+            fails += 1
+            logger.warning(f'Steam Discussions: 帖子页失败 {thread_url}（{e}），降级为列表数据')
+    return replies
+
+
+def _steam_reply_item(thread, c, op, region, fetched_at):
+    tmd = thread.get('metadata', {})
+    when = c['time'].isoformat() if c['time'] else fetched_at
+    is_op = bool(op['author_id']) and c['author_id'] == op['author_id']
+    item = {
+        'title': '[Steam论坛回帖] ' + thread['title'].replace('[Steam论坛] ', '', 1),
+        'summary': c['text'],
+        'source': 'steam_discussion',
+        'region': region,
+        'archive_subtype': 'discussion',
+        'time': when,
+        'time_basis': 'created_at' if c['time'] else 'fetched_at',
+        'created_at': c['time'].isoformat() if c['time'] else None,
+        'last_reply_at': None,
+        'fetched_at': fetched_at,
+        'url': f"{thread['url']}#c{c['id']}",
+        'engagement': 0,
+        'is_hot': False,
+        'author': c['author'],
+        'tags': ['steam_forum', 'steam_reply'],
+        'metadata': {
+            'kind': 'reply',
+            'thread_url': thread['url'],
+            'forum': tmd.get('forum', ''),
+            'forum_path': tmd.get('forum_path', ''),
+            'author_id': c['author_id'],
+            'author_profile': c['profile'],
+            'is_op': is_op,
+            'comment_id': c['id'],
+        },
+    }
+    if not c['time']:
+        item['time_is_approximate'] = True
+    return item
+
+
+def _fetch_steam_discussions_one(app_id, region, max_pages: int = 3, fetch_replies: bool = True):
     """Fetch recent Steam Community discussions for one (app_id, region).
 
     Steam has no public API for discussions, so we scrape the HTML listing page
@@ -1905,104 +2168,126 @@ def _fetch_steam_discussions_one(app_id, region, max_pages: int = 3):
     每帖为 <div class="forum_topic ..."> 块，内含 forum_topic_overlay 链接、
     forum_topic_name 标题、forum_topic_op 楼主、forum_topic_lastpost 的
     data-timestamp 真实时间戳，以及 data-tooltip-forum 里的正文预览。
+
+    2026-10-03 起：先发现全部子板块逐个抓列表，再进帖子页补全首帖正文并抓时窗内回帖
+    （fetch_replies=False 可关）。回帖阶段任何失败只降级，不影响列表采集结果。
     """
     import html as _html
     import re as _re
 
-    base_url = f'https://steamcommunity.com/app/{app_id}/discussions/0/'
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+        'User-Agent': STEAM_UA,
         'Accept-Language': 'en-US,en;q=0.9,zh-CN;q=0.8,ko;q=0.7,ja;q=0.6',
     }
     cutoff = datetime.now(UTC) - timedelta(hours=HOURS_LOOKBACK)
     items = []
     seen_urls = set()
 
-    try:
-        for page in range(max_pages):
-            url = base_url if page == 0 else f'{base_url}?fp={page}'
-            resp = requests.get(url, headers=headers, timeout=30)
-            resp.raise_for_status()
-            html = resp.text
+    forums = _steam_discover_forums(app_id, headers)
+    logger.info(f'Steam Discussions: app {app_id} 发现 {len(forums)} 个板块：'
+                + ', '.join(p for p, _ in forums))
 
-            # 按 forum_topic 块切分（每块以下一个块或容器结束为界）
-            fetched_at = datetime.now(UTC).isoformat()
-            blocks = _re.split(r'<div[^>]+class="forum_topic\s', html)[1:]
-            page_added = 0
-            for block in blocks:
-                m_url = _re.search(
-                    r'class="forum_topic_overlay"\s+href="(https://steamcommunity\.com/app/\d+/discussions/[^"]+)"',
-                    block)
-                m_title = _re.search(r'class="forum_topic_name\s*"[^>]*>\s*(.*?)\s*</div>', block, _re.DOTALL)
-                if not m_url or not m_title:
-                    continue
-                title = _strip_html_tags(m_title.group(1)).strip()
-                if not title:
-                    continue
+    for f_idx, (forum_path, forum_name) in enumerate(forums):
+        base_url = f'https://steamcommunity.com/app/{app_id}/{forum_path}/'
+        time.sleep(STEAM_REQUEST_INTERVAL)
+        try:
+            for page in range(max_pages):
+                url = base_url if page == 0 else f'{base_url}?fp={page}'
+                resp = requests.get(url, headers=headers, timeout=30)
+                resp.raise_for_status()
+                html = resp.text
 
-                m_replies = _re.search(r'class="forum_topic_reply_count">.*?>\s*([\d,]+)\s*</div>', block, _re.DOTALL)
-                replies = int(m_replies.group(1).replace(',', '')) if m_replies else 0
-
-                lastpost = _steam_discussion_timestamp(block)
-                if lastpost is not None:
-                    if lastpost < cutoff:
-                        # 列表页首部是**置顶帖**（class 同为 forum_topic），其最后回复
-                        # 往往是几个月前。原实现一见旧帖就 break 整页 —— 只要板块挂着
-                        # 一个陈旧置顶，第 0 个块就把整轮采集掐断，日志报
-                        # 「fetched 0 threads」，与「今天真没人发帖」完全无法区分。
-                        # 改为跳过该帖；整页无新帖时由下面 page_added == 0 收尾停翻。
+                # 按 forum_topic 块切分（每块以下一个块或容器结束为界）
+                fetched_at = datetime.now(UTC).isoformat()
+                blocks = _re.split(r'<div[^>]+class="forum_topic\s', html)[1:]
+                page_added = 0
+                for block in blocks:
+                    m_url = _re.search(
+                        r'class="forum_topic_overlay"\s+href="(https://steamcommunity\.com/app/\d+/[^"]+)"',
+                        block)
+                    m_title = _re.search(r'class="forum_topic_name[^"]*"[^>]*>\s*(.*?)\s*</div>', block, _re.DOTALL)
+                    if not m_url or not m_title:
                         continue
-                    last_reply_at = lastpost.isoformat()
-                else:
-                    last_reply_at = None
+                    title = _strip_html_tags(m_title.group(1)).strip()
+                    if not title:
+                        continue
 
-                m_author = _re.search(r'class="forum_topic_op"[^>]*>\s*([^<]+?)\s*</div>', block)
-                author = m_author.group(1).strip() if m_author else ''
+                    m_replies = _re.search(r'class="forum_topic_reply_count">.*?>\s*([\d,]+)\s*</div>', block, _re.DOTALL)
+                    replies = int(m_replies.group(1).replace(',', '')) if m_replies else 0
 
-                # 正文预览藏在 data-tooltip-forum 的转义 HTML 里
-                summary = ''
-                m_hover = _re.search(r'data-tooltip-forum="(.*?)">', block, _re.DOTALL)
-                if m_hover:
-                    hover = _html.unescape(m_hover.group(1))
-                    m_text = _re.search(r'class="topic_hover_text"\s*>\s*(.*?)\s*</div>', hover, _re.DOTALL)
-                    if m_text:
-                        summary = _html.unescape(_strip_html_tags(m_text.group(1))).strip()[:500]
+                    lastpost = _steam_discussion_timestamp(block)
+                    if lastpost is not None:
+                        if lastpost < cutoff:
+                            # 列表页首部是**置顶帖**（class 同为 forum_topic），其最后回复
+                            # 往往是几个月前。原实现一见旧帖就 break 整页 —— 只要板块挂着
+                            # 一个陈旧置顶，第 0 个块就把整轮采集掐断，日志报
+                            # 「fetched 0 threads」，与「今天真没人发帖」完全无法区分。
+                            # 改为跳过该帖；整页无新帖时由下面 page_added == 0 收尾停翻。
+                            continue
+                        last_reply_at = lastpost.isoformat()
+                    else:
+                        last_reply_at = None
 
-                item = {
-                    'title': f'[Steam论坛] {title}',
-                    'summary': summary,
-                    'source': 'steam_discussion',
-                    'region': region,                # 甲方案：global/jp 区服
-                    'archive_subtype': 'discussion', # 归档 steam/<区服>/discussion
-                    # Legacy activity/bucketing time, NOT the thread creation time.
-                    # Keep the existing last-reply -> fetch fallback for consumers.
-                    'time': last_reply_at or fetched_at,
-                    'time_basis': 'last_reply_at' if last_reply_at else 'fetched_at',
-                    # The listing provides no verified thread creation timestamp.
-                    'created_at': None,
-                    'last_reply_at': last_reply_at,
-                    'fetched_at': fetched_at,
-                    'url': m_url.group(1),
-                    'engagement': replies,
-                    'is_hot': replies >= 10,
-                    'author': author,
-                    'tags': ['steam_forum'],
-                }
-                if last_reply_at is None:
-                    item['time_is_approximate'] = True
-                if item["url"] in seen_urls:
-                    continue
-                seen_urls.add(item["url"])
-                items.append(item)
-                page_added += 1
+                    m_author = _re.search(r'class="forum_topic_op"[^>]*>\s*([^<]+?)\s*</div>', block)
+                    author = m_author.group(1).strip() if m_author else ''
 
-            if page_added == 0:
-                break
-            time.sleep(0.5)
+                    # 正文预览藏在 data-tooltip-forum 的转义 HTML 里
+                    summary = ''
+                    m_hover = _re.search(r'data-tooltip-forum="(.*?)">', block, _re.DOTALL)
+                    if m_hover:
+                        hover = _html.unescape(m_hover.group(1))
+                        m_text = _re.search(r'class="topic_hover_text"\s*>\s*(.*?)\s*</div>', hover, _re.DOTALL)
+                        if m_text:
+                            summary = _html.unescape(_strip_html_tags(m_text.group(1))).strip()[:500]
 
-        logger.info(f'Steam Discussions: fetched {len(items)} threads')
-    except Exception as e:
-        logger.warning(f'Steam Discussions failed: {e}')
+                    item = {
+                        'title': f'[Steam论坛] {title}',
+                        'summary': summary,
+                        'source': 'steam_discussion',
+                        'region': region,                # 甲方案：global/jp 区服
+                        'archive_subtype': 'discussion', # 归档 steam/<区服>/discussion
+                        # Legacy activity/bucketing time, NOT the thread creation time.
+                        # Keep the existing last-reply -> fetch fallback for consumers.
+                        'time': last_reply_at or fetched_at,
+                        'time_basis': 'last_reply_at' if last_reply_at else 'fetched_at',
+                        # 列表不给创建时间；进帖子页成功后由楼主块补 created_at。
+                        'created_at': None,
+                        'last_reply_at': last_reply_at,
+                        'fetched_at': fetched_at,
+                        'url': m_url.group(1),
+                        'engagement': replies,
+                        'is_hot': replies >= 10,
+                        'author': author,
+                        'tags': ['steam_forum'],
+                        'metadata': {'kind': 'thread', 'forum': forum_name,
+                                     'forum_path': forum_path},
+                    }
+                    if last_reply_at is None:
+                        item['time_is_approximate'] = True
+                    if item["url"] in seen_urls:
+                        continue
+                    seen_urls.add(item["url"])
+                    items.append(item)
+                    page_added += 1
 
+                if page_added == 0:
+                    break
+                time.sleep(STEAM_REQUEST_INTERVAL)
+        except Exception as e:
+            logger.warning(f'Steam Discussions: 板块 {forum_path} 列表失败：{e}')
+
+    thread_count = len(items)
+    reply_count = 0
+    if fetch_replies and items:
+        try:
+            reply_items = _steam_enrich_threads(
+                items, cutoff, headers, region, datetime.now(UTC).isoformat(),
+                STEAM_MAX_THREADS_PER_RUN, STEAM_MAX_REPLY_PAGES,
+                STEAM_MAX_REQUESTS_PER_RUN, STEAM_FAIL_BREAKER)
+            reply_count = len(reply_items)
+            items.extend(reply_items)
+        except Exception as e:
+            logger.warning(f'Steam Discussions: 回帖阶段异常，已降级：{e}')
+
+    logger.info(f'Steam Discussions: fetched {thread_count} threads, {reply_count} replies')
     return items
-

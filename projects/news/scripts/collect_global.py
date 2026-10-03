@@ -47,6 +47,7 @@ import news_common  # 原子写单一真源（dump_json_atomic）
 SOURCE_MAP = {
     'bilibili': 'bilibili',
     'reddit': 'reddit',
+    'reddit_comment': 'reddit_comment',
     'youtube': 'youtube',
     # 'steam' 不再重映射：steam 三源采集器（2026-08-22 自 AC 栈迁入）各自直接产
     # steam / steam_review / steam_discussion，旧的 steam→steam_review 映射会把官方
@@ -56,6 +57,8 @@ SOURCE_MAP = {
     'steam_discussion': 'steam_discussion',
     'weibo': 'weibo',
     'taptap_review': 'taptap_review',
+    'bluesky': 'bluesky',
+    'facebook': 'facebook',
     'bahamut': 'bahamut',
     'appstore': 'appstore',
     'google_play': 'google_play',
@@ -184,6 +187,9 @@ def run_zero_cost_collectors() -> list[dict]:
         ('Arca.live', c.fetch_arca_live),  # 守密人 2026-10-03 裁定重启（arca_live_collector.py，T111）
         ('TapTap', c.fetch_taptap_reviews),  # 守密人 2026-10-03 裁定重启（taptap_collector.py，T111）
         ('Google Play', c.fetch_google_play),
+        ('Bluesky', c.fetch_bluesky),  # 守密人 2026-10-03 裁定（bluesky_collector.py）
+        ('Facebook', c.fetch_facebook_page),  # 主页评论；FB_PAGE_ID / FB_PAGE_TOKEN 未配则返回空
+        ('Reddit Comments', c.fetch_reddit_comments),  # Reddit 官方 OAuth 评论采集（缺凭据返回空，reddit_comments_collector.py）
     ]
 
     all_fetchers = zero_cost_fetchers + api_fetchers
@@ -201,6 +207,9 @@ def run_zero_cost_collectors() -> list[dict]:
         'Arca.live': 'arca_live',
         'TapTap': 'taptap_review',
         'Google Play': 'google_play',
+        'Bluesky': 'bluesky',
+        'Facebook': 'facebook',
+        'Reddit Comments': 'reddit_comment',
     }
 
     # 各采集器互相独立、采集前无共享状态 → 用线程并行（阻塞 requests 用线程即可）。

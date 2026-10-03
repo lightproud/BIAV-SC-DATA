@@ -30,6 +30,47 @@ arca.live 对 GitHub Actions 机房 IP 返回 403，但 Claude 云会话容器�
 3. 分支不存在时工作流正常退出；定时同样受仓库变量 `COLLECTION_ENABLED` 控制，手动触发不受限。
    `update-news.yml` 里的 `Arca.live` 采集器在 Actions 上仍会被拦并降级为空，属预期。
 
+## Bluesky 与 Facebook 主页评论（守密人 2026-10-03 裁定：X 不付费，以 Bluesky 替代）
+
+- **Bluesky**（源名 `bluesky`，`bluesky_collector.py`）：公开接口 `api.bsky.app` 的 `searchPosts`，免登录；
+  `public.api.bsky.app` 对机房 IP 返回 403，不要用。关键词 `morimens` / `忘却前夜` / `忘卻前夜` / `モリメンス` / `망각전야`，
+  归档位置 `Record/Community/bluesky/`。`morimens` 命中但无游戏线索词的帖标 `metadata.keyword_only`。稀疏源。
+- **Facebook 官方主页**（源名 `facebook`，`facebook_page_collector.py`）：Graph API，取主页近期帖及其全部评论（含楼中楼）。
+  归档位置 `Record/Community/facebook/`（评论与官方帖同档，官方帖标 `metadata.is_official_post=true`）。
+  `FB_PAGE_ID` 或 `FB_PAGE_TOKEN` 任一缺失时采集器返回空并记「未配置，跳过」，不算失败。
+
+### Facebook 主页令牌怎么拿
+
+1. 在 Meta Business（business.facebook.com）的「商务设置 → 用户 → 系统用户」新建系统用户（角色选管理员），
+   并在「添加资产」里把官方主页授给它，权限给「完全控制」。
+2. 在 developers.facebook.com 建（或复用）一个商家类应用，关联到同一商务账户；应用需在
+   「商务设置 → 账户 → 应用」里添加给该系统用户。
+3. 在系统用户页点「生成令牌」，选该应用，令牌有效期选「永不过期」，勾选权限
+   `pages_read_engagement`、`pages_read_user_content`，以及 `pages_show_list`。
+4. 用该用户令牌调 `GET https://graph.facebook.com/v21.0/me/accounts?access_token=<用户令牌>`，
+   返回里目标主页的 `access_token` 就是**长期主页令牌**，`id` 就是主页编号。
+5. 存入数据仓（BIAV-SC-DATA）的 Actions 密钥 `FB_PAGE_TOKEN`；主页编号存为密钥或变量 `FB_PAGE_ID`
+   （`update-news.yml` 的采集步骤已同时接受 `secrets.FB_PAGE_ID` 与 `vars.FB_PAGE_ID`）。
+6. 令牌只经 `Authorization: Bearer` 头发送，不进日志。令牌失效或权限不足时采集器会抛错，该源出现在当轮「失败」清单里，
+   此时按本节重新生成即可。Graph API 版本号常量在 `facebook_page_collector.GRAPH_VERSION`（当前 v21.0）。
+
+## Reddit 应用怎么注册（评论采集，官方 OAuth API）
+
+帖子采集（`fetch_reddit`，RSS / 公开 JSON）不需要凭据；**评论**在机房 IP 下评论 RSS 返回 429、`.json` 返回 403，只能走 Reddit
+官方 OAuth API，所以需要守密人注册一个 script 类型应用（免费，一次性）：
+
+1. 登录 reddit.com，打开 <https://www.reddit.com/prefs/apps>，点页面底部 **create app**（或 create another app）。
+2. 类型选 **script**；name 随意（如 `biav-sc-news`）；redirect uri 填 `http://localhost:8080`（script 应用不真用它，但必填）。
+3. 创建后记下两串：**client id** = 应用名称下方那串短字符（在 "personal use script" 字样下面）；**secret** = 标着 secret 的那一串。
+4. 存入数据仓 BIAV-SC-DATA 的 Actions 密钥：`REDDIT_CLIENT_ID`、`REDDIT_CLIENT_SECRET`；可选 `REDDIT_USER_AGENT`
+   （写你的 Reddit 用户名，或完整 UA `python:biav-sc-news:1.0 (by /u/<用户名>)`）。
+5. 可选 `REDDIT_USERNAME` / `REDDIT_PASSWORD`（该应用所属账号，走 password grant）；不配则用 `client_credentials`（application-only），
+   读公开子版块评论已够用。
+
+采集器 `reddit_comments_collector.py`（源名 `reddit_comment`，归档 `Record/Community/reddit/global/comment/`）：id / secret 缺任一即整源
+跳过（日志 info「未配置，跳过」，不算失败源）；额度 100 请求 / 分钟，按响应头 `X-Ratelimit-Remaining/Reset` 自适应，每轮请求总数、
+每子版块帖子数、每帖 `morechildren` 次数均有上限。凭据只经环境变量读取，不入日志、不入归档。
+
 ## 每日补充检索
 
 已建立 ChatGPT 定时任务“忘却前夜新闻补充采集”，从 2026-10-02 起每天北京时间

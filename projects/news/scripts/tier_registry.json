@@ -25,6 +25,10 @@
       "tier": "T1",
       "why": "arca.live 忘却前夜频道列表 + 首帖正文采集（守密人 2026-10-03 裁定重启），供 collect_global 调度"
     },
+    "reddit_comments_collector": {
+      "tier": "T1",
+      "why": "Reddit 评论采集（官方 OAuth API，缺凭据整源跳过），供 collect_global 调度"
+    },
     "collect_global": {
       "tier": "T1",
       "why": "T1 唯一采集入口（2026-08-22「采集 → 直接入湖」裁定：aggregator 全家退役，本模块直接编排 GC 栈 + 迁入的 steam 三源，产运行期全量层交 T2 落档）"
@@ -148,6 +152,14 @@
     "taptap_collector": {
       "tier": "T1",
       "why": "TapTap 国服评价公开接口采集（T111，守密人 2026-10-03 裁定重启），供 collect_global 调度"
+    },
+    "bluesky_collector": {
+      "tier": "T1",
+      "why": "Bluesky 公开帖关键词搜索采集（守密人 2026-10-03 裁定以 Bluesky 替代付费 X），供 collect_global 调度"
+    },
+    "facebook_page_collector": {
+      "tier": "T1",
+      "why": "Facebook 官方主页帖子评论采集（Graph API + 主页令牌，守密人 2026-10-03 裁定），供 collect_global 调度"
     }
   }
 }

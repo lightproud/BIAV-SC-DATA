@@ -70,9 +70,9 @@ def test_steam_skips_old_pinned_thread_and_visits_page_one():
     first = mock.Mock(text=topic('pinned', last=old) + topic(1, last=int(now.timestamp())))
     second = mock.Mock(text=topic(2, last=int(now.timestamp())))
     third = mock.Mock(text=topic(2, last=int(now.timestamp())))
-    with mock.patch.object(gc.requests, 'get', side_effect=[first, second, third]) as get, mock.patch.object(gc.time, 'sleep'):
-        items = gc._fetch_steam_discussions_one('3052450', 'global', max_pages=3)
+    with mock.patch.object(gc.requests, 'get', side_effect=[mock.Mock(text=''), first, second, third]) as get, mock.patch.object(gc.time, 'sleep'):
+        items = gc._fetch_steam_discussions_one('3052450', 'global', max_pages=3, fetch_replies=False)
     assert len(items) == 2
-    assert get.call_args_list[1].args[0].endswith('?fp=1')
-    assert get.call_args_list[2].args[0].endswith('?fp=2')
+    assert get.call_args_list[2].args[0].endswith('?fp=1')
+    assert get.call_args_list[3].args[0].endswith('?fp=2')
     assert item_key(items[0]) == item_key(dict(items[0], last_reply_at='later', fetched_at='later'))

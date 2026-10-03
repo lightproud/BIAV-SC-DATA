@@ -29,7 +29,7 @@ def _write_via_layout(root: Path, source: str, date_str: str, payload=None) -> P
 # ── 写读往返：每个代表性源 ──────────────────────────────────────────────────
 
 @pytest.mark.parametrize("source", [
-    "steam", "official", "steam_discussion", "taptap_review",
+    "steam", "official", "steam_discussion", "taptap_review", "reddit_comment",
     "appstore", "google_play", "youtube", "bilibili", "weibo",
 ])
 def test_write_read_roundtrip(tmp_path, source):
@@ -48,6 +48,7 @@ def test_layout_targets_match_spec(tmp_path):
         "steam_discussion": "steam/global/discussion/2026-07-01.json",
         "taptap_review": "taptap/cn/review/2026-07-01.json",
         "taptap": "taptap/cn/post/2026-07-01.json",
+        "reddit_comment": "reddit/global/comment/2026-07-01.json",
         "appstore": "appstore/global/2026-07-01.json",
         "google_play": "google_play/global/2026-07-01.json",
         "youtube": "youtube/global/video/2026-07-01.json",
