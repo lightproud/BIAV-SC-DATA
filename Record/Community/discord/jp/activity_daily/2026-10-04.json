@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-04",
+  "messages": 35,
+  "unique_authors": 8,
+  "reactions_total": 11,
+  "attachments": 2,
+  "channel_activity": {
+    "💬なんでも雑談（ネタバレあり）": 32,
+    "🔰初心者質問": 3
+  },
+  "hourly_activity": {
+    "0": 35
+  },
+  "message_types": {
+    "0": 32,
+    "19": 3
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1555977981795635271",
+      "channel_id": "1377478664609857647",
+      "content": "初期の確信課題のアイコンってなんだったんだろうね。",
+      "author": "aku08158",
+      "reactions": 4,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1555974382306852866",
+      "channel_id": "1377478664609857647",
+      "content": "まあでもちょいと前に核心アイコンのラモンナとオジール追加されてたから今後もしかしたら？かもしれないので気長に待とう",
+      "author": "namenemue3",
+      "reactions": 2,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1555978192978968640",
+      "channel_id": "1377478664609857647",
+      "content": "じゃけん無形者の招待状集めましょうね〜",
+      "author": "namenemue3",
+      "reactions": 2,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1555976791665934527",
+      "channel_id": "1377478664609857647",
+      "content": "慣れたもんよ…",
+      "author": "owling_0w0",
+      "reactions": 1,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1555977649099374735",
+      "channel_id": "1377478664609857647",
+      "content": "キリリ目シレストさん",
+      "author": "aku08158",
+      "reactions": 1,
+      "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1555978251082530817",
+      "channel_id": "1391701560496623688",
+      "content": "回答してくれてありがとうございます！",
+      "author": "amema3",
+      "reactions": 1,
+      "channel": "🔰初心者質問"
+    }
+  ]
+}
