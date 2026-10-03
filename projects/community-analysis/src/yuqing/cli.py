@@ -61,8 +61,18 @@ def _run_normalize(args: argparse.Namespace) -> int:
     return run_cli(args)
 
 
-_ARGS = {"census": _add_census_args, "llm": _add_llm_args, "normalize": _add_normalize_args}
-_REAL = {"census": _run_census, "llm": _run_llm, "normalize": _run_normalize}
+def _add_clean_args(p: argparse.ArgumentParser) -> None:
+    del p  # 无参数：读 DATA_ROOT/messages，阈值取 config/default.toml 的 [clean]
+
+
+def _run_clean(args: argparse.Namespace) -> int:
+    from yuqing.normalize.clean import run_cli
+
+    return run_cli(args)
+
+
+_ARGS = {"census": _add_census_args, "llm": _add_llm_args, "normalize": _add_normalize_args, "clean": _add_clean_args}
+_REAL = {"census": _run_census, "llm": _run_llm, "normalize": _run_normalize, "clean": _run_clean}
 
 
 def build_parser() -> argparse.ArgumentParser:

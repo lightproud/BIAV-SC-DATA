@@ -8,8 +8,15 @@ overlap_msgs = 5        # 每段开头附上前一段最后几句作只读上下
 seal_minutes = 30       # 静默多久才封口送标
 
 [clean]
-same_author_window_hours = 24   # 同作者重复的判定窗口
+# Q9（2026-10-03）：多标签 msg_flags + 三档路由；阈值 G1 试切时校准
+same_author_window_hours = 24   # 同作者完全重复、近似重复的判定窗口
 long_repost_min_chars = 60      # 多长的相同文字算原样转贴
+short_max_chars = 2             # 极短内容：去掉空白与自定义表情后不超过几个字（只对聊天）
+long_post_min_chars = 500       # 长贴：只标不拦
+burst_window_s = 60             # 连发：同一人在这么多秒内……
+burst_min_msgs = 5              # ……发了至少这么多条（只作属性不拦）
+chorus_window_s = 120           # 接龙：这么多秒内……
+chorus_min_authors = 3          # ……至少这么多人发同一短句（短句即不到 long_repost_min_chars 字）
 
 [llm]
 protocol = "openai"     # openai（OpenAI 兼容 chat completions）或 anthropic（Messages）
