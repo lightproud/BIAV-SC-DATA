@@ -79,7 +79,10 @@ def item_key(item: dict) -> str:
     # 每轮都不一样，放进键里等于给同一条内容每轮发一个新身份——与上面 URL 轮换
     # 是同一个坑。近似时间一律不入键。
     time_part = '' if item.get('time_is_approximate') else item.get('time', '')
-    return f"{item.get('title', '')}|{time_part}|{item.get('author', '')}"
+    # 中转链源的 author 不入键：这类源 2026-10-03 起才补上公众号名，历史条目
+    # author 全为空；若入键，同一篇文章新旧两次采集会判成两条。
+    author_part = '' if source in _UNSTABLE_URL_SOURCES else item.get('author', '')
+    return f"{item.get('title', '')}|{time_part}|{author_part}"
 
 
 def load_news() -> list[dict]:

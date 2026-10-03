@@ -1231,6 +1231,32 @@ def fetch_bahamut():
     return items
 
 
+def _weixin_text(fragment):
+    """去标签（含 <!--red_beg--> 注释）、解实体、压空白。"""
+    import re as _re
+    fragment = _re.sub(r'<!--.*?-->', '', fragment, flags=_re.DOTALL)
+    fragment = _re.sub(r'<script.*?</script>', '', fragment, flags=_re.DOTALL)
+    return _re.sub(r'\s+', ' ', _html.unescape(_re.sub(r'<[^>]+>', '', fragment))).strip()
+
+
+def _split_weixin_results(html):
+    """按 <h3> 把搜狗结果页切成每条结果一段（首个 <h3> 之前的内容丢弃）。"""
+    import re as _re
+    starts = [m.start() for m in _re.finditer(r'<h3[\s>]', html)]
+    return [html[st:(starts[i + 1] if i + 1 < len(starts) else len(html))]
+            for i, st in enumerate(starts)]
+
+
+def _weixin_author(meta):
+    """从 s-p 节点取公众号名：优先 <span class="all-time-y2">，回退「微信公众号:」文字。"""
+    import re as _re
+    m = _re.search(r'class="all-time-y2"[^>]*>(.*?)</span>', meta, _re.DOTALL)
+    if m and _weixin_text(m.group(1)):
+        return _weixin_text(m.group(1))
+    m = _re.search(r'微信公众号\s*[:：]\s*([^\s<]+)', meta)
+    return m.group(1) if m else ""
+
+
 def fetch_weixin():
     """通过搜狗微信搜索抓取忘却前夜相关公众号文章。
 
@@ -1239,7 +1265,8 @@ def fetch_weixin():
     已知限制（技术原因，非 bug）：
     - engagement 始终为 0：搜狗搜索结果不包含阅读量/点赞等互动指标，
       微信官方 API 需要企业号 + 腾讯审批，暂不可行。
-    - summary 为空：搜狗结果页仅提供标题和链接，不含正文摘要。
+    - summary 取搜狗结果页的摘要片段（txt-info，约百字，非全文）；author 取 s-p 节点的公众号名。
+      按链接抓全文未做：/link 中转链对脚本一律 302 到 antispider 验证码页（2026-10-03 实测）。
     - 文章 URL 为搜狗中转链接，非微信直链。
     """
     items = []
@@ -1266,28 +1293,26 @@ def fetch_weixin():
             )
             ts_list = [int(t1 or t2 or t3) for t1, t2, t3 in sogou_timestamps]
 
-            # Parse search results — capture snippet text between <p> after title
+            # 按 <h3> 切成「一条结果一段」再分别取标题 / 摘要 / 公众号名。
+            # 旧写法用一条带可选组的惰性大正则，可选组总被惰性 .*? 跳过，
+            # 导致 summary 恒空；且 s-p 里公众号名在 <span> 内、旧正则只认
+            # 「微信公众号:」文字，author 也恒空。
             result_idx = 0
-            for match in _re.finditer(
-                r'<h3>.*?<a[^>]*href="([^"]+)"[^>]*>(.+?)</a>.*?'
-                r'(?:class="txt-info"[^>]*>(.+?)</p>)?.*?'
-                r'class="s-p"[^>]*>([^<]*)',
-                html, _re.DOTALL
-            ):
-                url, title_html, snippet_html, meta = match.groups()
-                # Clean HTML tags from title
-                title = _re.sub(r'<[^>]+>', '', title_html).strip()
+            for seg in _split_weixin_results(html):
+                head = _re.search(r'<h3[^>]*>.*?<a[^>]*href="([^"]+)"[^>]*>(.+?)</a>', seg, _re.DOTALL)
+                if not head:
+                    continue
+                url, title_html = head.groups()
+                title = _weixin_text(title_html)
                 if not title:
                     continue
 
-                # Extract summary from snippet
-                summary = ""
-                if snippet_html:
-                    summary = _re.sub(r'<[^>]+>', '', snippet_html).strip()[:300]
+                snippet_m = _re.search(r'class="txt-info"[^>]*>(.*?)</p>', seg, _re.DOTALL)
+                summary = _weixin_text(snippet_m.group(1))[:300] if snippet_m else ""
 
-                # Extract author from meta
-                author_match = _re.search(r'微信公众号\s*[:：]\s*([^\s<]+)', meta)
-                author = author_match.group(1) if author_match else ""
+                sp_m = _re.search(r'class="s-p"[^>]*>(.*?)(?:</div>|$)', seg, _re.DOTALL)
+                meta = sp_m.group(1) if sp_m else ""
+                author = _weixin_author(meta)
 
                 # Extract publish time from Sogou timestamps or meta text
                 time_str = ""
