@@ -1,18 +1,22 @@
 {
   "date": "2026-10-04",
-  "messages": 35,
+  "messages": 48,
   "unique_authors": 8,
-  "reactions_total": 11,
-  "attachments": 2,
+  "reactions_total": 12,
+  "attachments": 4,
   "channel_activity": {
-    "💬なんでも雑談（ネタバレあり）": 32,
-    "🔰初心者質問": 3
+    "🔰初心者質問": 4,
+    "ニムフィーアの毒パ研究日誌": 2,
+    "誰でもOKグロ版野次馬スレ　2世": 10,
+    "💬なんでも雑談（ネタバレあり）": 32
   },
   "hourly_activity": {
+    "2": 10,
+    "1": 3,
     "0": 35
   },
   "message_types": {
-    "0": 32,
+    "0": 45,
     "19": 3
   },
   "top_reacted_messages": [
@@ -39,6 +43,14 @@
       "author": "namenemue3",
       "reactions": 2,
       "channel": "💬なんでも雑談（ネタバレあり）"
+    },
+    {
+      "id": "1556005305899548675",
+      "channel_id": "1545007866060996629",
+      "content": "レーアです",
+      "author": "laguna051",
+      "reactions": 1,
+      "channel": "誰でもOKグロ版野次馬スレ　2世"
     },
     {
       "id": "1555976791665934527",
