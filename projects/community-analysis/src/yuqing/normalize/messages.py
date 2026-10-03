@@ -20,7 +20,7 @@ from yuqing.census import fields as F
 from yuqing.lake.layout import LakeFile
 from yuqing.normalize.store import short_hash
 
-NORM_VER = "1"
+NORM_VER = "2"  # 2：没有原生 ID 的条目改用内容键（2026-10-03）
 
 MESSAGES_SCHEMA = pa.schema(
     [
@@ -65,6 +65,27 @@ def msg_id_of(platform: str, native_id: str) -> str:
 
 def msg_id_of_ref(raw_ref: str) -> str:
     return short_hash("ref", raw_ref)
+
+
+# 没有 URL、也没有作者时，正文至少这么长才用内容键（短句不同人发的可能撞上）
+CONTENT_KEY_MIN_CHARS = 10
+
+
+def content_key(rec: dict, text: str, ident: str | None) -> str | None:
+    """没有原生 ID 的条目用「URL + 作者 + 正文」认同一条，不含时间。
+
+    新闻体例的平台会把同一帖跨天反复采进来（微博的 time 还是采集时间），
+    而同一个 URL 下可能挂着多条不同的评价（商店页、TapTap），所以只用 URL 或只用路径都不对。
+    认不准的（正文与 URL 都空；没 URL 没作者且正文太短）返回 None，退回 raw_ref。
+    """
+    url = rec.get("url")
+    url = url.strip() if isinstance(url, str) else ""
+    body = text.strip()
+    if not body and not url:
+        return None
+    if not url and ident is None and len(body) < CONTENT_KEY_MIN_CHARS:
+        return None
+    return "\x1f".join((url, ident or "", body))
 
 
 def author_ident(rec: dict) -> str | None:
@@ -177,11 +198,15 @@ def to_row(f: LakeFile, no: int, rec: dict, salt: str, communities: Communities)
     platform = f.platform
     ref = raw_ref_of(f, no)
     nid = native_id(rec)
-    msg_id = msg_id_of(platform, nid) if nid is not None else msg_id_of_ref(ref)
     text = F.get_text(rec)
     dt: datetime | None = F.parse_ts(rec)
     day = F.day_cn(dt) if dt else f.day
     ident = author_ident(rec)
+    if nid is not None:
+        msg_id = msg_id_of(platform, nid)
+    else:
+        key = content_key(rec, text, ident)
+        msg_id = short_hash("content", platform, _channel(f) or "", key) if key is not None else msg_id_of_ref(ref)
     community, server = communities.lookup(f)
     rep = reply_native(rec)
     parent_ref, parent_text = _parent(rec, text)
