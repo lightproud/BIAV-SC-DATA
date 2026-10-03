@@ -25,6 +25,7 @@ import sys
 import logging
 import time
 from datetime import datetime, timezone, timedelta, UTC
+from html.parser import HTMLParser
 from pathlib import Path
 
 
@@ -1052,6 +1053,113 @@ def _parse_bahamut_time(text):
     return news_common.parse_relative_time(s)
 
 
+# ─── T109 论坛首帖正文补抓（守密人批准，2026-10-03）──────────────────────────
+# 列表页只有标题；对本轮发现的帖子按链接再取首帖（楼主）正文写入 summary。
+BAHAMUT_BODY_MAX_PER_RUN = 15      # 每轮最多补抓帖数（请求上限）
+BAHAMUT_BODY_DELAY_S = 1.0         # 两次正文请求的间隔（秒）
+BAHAMUT_BODY_MAX_CHARS = 1000      # summary 截断长度
+BAHAMUT_BODY_MAX_CONSEC_FAIL = 3   # 连续失败达此数即停止本轮补抓（站点异常熔断）
+
+
+class _FirstPostExtractor(HTMLParser):
+    """取页面中**第一个** `c-article__content`（首帖正文）的纯文本。
+
+    正文是嵌套 div（`<div>行</div>`、`<br>`、图片锚点），靠 div 深度计数找闭合；
+    div/br/p 边界换成换行，script/style 内容丢弃。"""
+
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.depth = 0          # 0 = 尚未进入；>0 = 在首帖正文内
+        self.done = False
+        self.parts = []
+        self._skip = 0
+
+    def handle_starttag(self, tag, attrs):
+        if self.done:
+            return
+        if self.depth == 0:
+            classes = (dict(attrs).get("class") or "").split()
+            if tag == "div" and "c-article__content" in classes:
+                self.depth = 1
+            return
+        if tag == "div":
+            self.depth += 1
+            self.parts.append("\n")
+        elif tag in ("br", "p"):
+            self.parts.append("\n")
+        elif tag in ("script", "style"):
+            self._skip += 1
+
+    def handle_startendtag(self, tag, attrs):
+        if self.depth and not self.done and tag == "br":
+            self.parts.append("\n")
+
+    def handle_endtag(self, tag):
+        if self.done or self.depth == 0:
+            return
+        if tag == "div":
+            self.depth -= 1
+            if self.depth == 0:
+                self.done = True
+        elif tag in ("script", "style") and self._skip:
+            self._skip -= 1
+
+    def handle_data(self, data):
+        if self.depth and not self.done and not self._skip:
+            self.parts.append(data)
+
+
+def _parse_bahamut_first_post(page_html):
+    """从帖子页 HTML 取首帖正文纯文本（去标签、压空行、截断）；无正文返回 ""。"""
+    ex = _FirstPostExtractor()
+    ex.feed(page_html or "")
+    ex.close()
+    lines = [re.sub(r"[ \t\u3000\xa0]+", " ", ln).strip() for ln in "".join(ex.parts).split("\n")]
+    text = "\n".join(ln for ln in lines if ln)
+    return text[:BAHAMUT_BODY_MAX_CHARS]
+
+
+def _bahamut_thread_fetch_url(url):
+    """帖子链接 -> 取正文用的规范链接（只留 bsn+snA，去掉 tnum/last 等随回覆数变动的参数）。
+
+    仅用于请求；item["url"] 保持列表页原值，去重键（URL 优先）不受影响。"""
+    m = re.search(r"bsn=(\d+)&(?:amp;)?snA=(\d+)", url or "")
+    if not m:
+        return None
+    return f"https://forum.gamer.com.tw/C.php?bsn={m.group(1)}&snA={m.group(2)}"
+
+
+def _enrich_bahamut_bodies(items, sticky_urls=frozenset()):
+    """就地给 items 补首帖正文到 summary。失败降级：summary 留空 + metadata.body_fetch_failed。
+
+    永不抛错（整轮采集不能因正文失败而失败）；置顶帖不补；超出每轮上限的不请求、不标记。"""
+    fetched = consec_fail = 0
+    for item in items:
+        if fetched >= BAHAMUT_BODY_MAX_PER_RUN or consec_fail >= BAHAMUT_BODY_MAX_CONSEC_FAIL:
+            break
+        if item.get("url") in sticky_urls:
+            continue
+        fetch_url = _bahamut_thread_fetch_url(item.get("url"))
+        if not fetch_url:
+            continue
+        if fetched:
+            time.sleep(BAHAMUT_BODY_DELAY_S)
+        fetched += 1
+        try:
+            resp = _get(fetch_url, headers={
+                "Referer": "https://forum.gamer.com.tw/B.php",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            })
+            item["summary"] = _parse_bahamut_first_post(resp.text)
+            consec_fail = 0
+        except Exception as e:
+            consec_fail += 1
+            item["summary"] = ""
+            item.setdefault("metadata", {})["body_fetch_failed"] = True
+            logger.debug(f"Bahamut body fetch failed {fetch_url}: {e}")
+    logger.info(f"Bahamut bodies: requested {fetched}")
+
+
 def fetch_bahamut():
     """巴哈姆特忘却前夜专板帖列表（B.php 列表页 HTML）。台湾最大游戏社区。
 
@@ -1064,6 +1172,7 @@ def fetch_bahamut():
     """
     baha_bsn = os.environ.get("BAHAMUT_BSN") or BAHAMUT_DEFAULT_BSN
     items = []
+    sticky_urls = set()
     import re as _re
     try:
         resp = _get(
@@ -1108,10 +1217,17 @@ def fetch_bahamut():
                 lang="zh",
                 time_is_approximate=baha_approx,
             ))
+            if "b-list__row--sticky" in row[:200]:
+                sticky_urls.add(url)
         logger.info(f"Bahamut bsn={baha_bsn}: {len(items)} threads")
     except Exception as e:
         logger.warning(f"Bahamut bsn={baha_bsn} failed: {e}")
+        return items
 
+    try:
+        _enrich_bahamut_bodies(items, sticky_urls)
+    except Exception as e:  # 双保险：正文补抓任何异常都不影响列表结果
+        logger.warning(f"Bahamut body enrichment aborted: {e}")
     return items
 
 
