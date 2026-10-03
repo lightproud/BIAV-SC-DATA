@@ -37,8 +37,20 @@ def _run_census(args: argparse.Namespace) -> int:
     return run_census_cli(args)
 
 
-_ARGS = {"census": _add_census_args}
-_REAL = {"census": _run_census}
+def _add_llm_args(p: argparse.ArgumentParser) -> None:
+    sub = p.add_subparsers(dest="llm_cmd", metavar="<动作>", required=True)
+    ping = sub.add_parser("ping", help="连真网关发一次最小请求（人工验收用，不进自动测试）")
+    ping.add_argument("--model", help="模型名（默认取环境变量 MODEL_LOW）")
+
+
+def _run_llm(args: argparse.Namespace) -> int:
+    from yuqing.llm.cli import run_ping
+
+    return run_ping(args)
+
+
+_ARGS = {"census": _add_census_args, "llm": _add_llm_args}
+_REAL = {"census": _run_census, "llm": _run_llm}
 
 
 def build_parser() -> argparse.ArgumentParser:

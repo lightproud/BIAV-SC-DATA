@@ -32,7 +32,7 @@ task_tool = _load_task_tool()
 
 def test_defaults_loaded():
     cfg = load_config(environ={})
-    assert cfg.get("unitize", "gap_minutes") == 10
+    assert cfg.get("unitize", "gap_minutes") == 2
     assert cfg.get("issues", "tau_hi") == 0.80
     assert cfg.get("budget", "tokens_per_run") == 0
 

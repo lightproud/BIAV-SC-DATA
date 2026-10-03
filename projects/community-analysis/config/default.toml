@@ -2,7 +2,7 @@
 # 标「占位值」的须在金标集上校准。
 
 [unitize]
-gap_minutes = 10        # 相邻两句超过这个间隔就切段；G0 后按间隔分布调
+gap_minutes = 2         # 相邻两句超过这个间隔就切段；G0（2026-10-03）由 10 改 2：大频道间隔 P90 26 秒、P99 550 秒；单元只是阅读窗口，G1 再验
 max_msgs = 30           # 一段正文的条数上限
 overlap_msgs = 5        # 每段开头附上前一段最后几句作只读上下文
 seal_minutes = 30       # 静默多久才封口送标
@@ -10,6 +10,17 @@ seal_minutes = 30       # 静默多久才封口送标
 [clean]
 same_author_window_hours = 24   # 同作者重复的判定窗口
 long_repost_min_chars = 60      # 多长的相同文字算原样转贴
+
+[llm]
+protocol = "openai"     # openai（OpenAI 兼容 chat completions）或 anthropic（Messages）
+timeout_s = 60.0        # 单次请求超时（秒）
+max_retries = 4         # 429、5xx、超时的重试次数（不含首发）
+backoff_base_s = 1.0    # 指数退避起点（秒），带抖动
+backoff_max_s = 30.0    # 退避封顶（秒）
+max_concurrency = 4     # 并发上限
+rpm = 60                # 每分钟请求上限；0 不限
+max_tokens = 4096       # 单次输出上限
+log_bodies = false      # 台账默认不记正文，只记输入哈希
 
 [annotate]
 units_per_call = 20     # 每次调用装几个单元；金标集上比较 1、10、20
