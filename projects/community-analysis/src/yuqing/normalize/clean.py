@@ -22,14 +22,13 @@ from collections.abc import Iterator
 from dataclasses import dataclass, field
 from pathlib import Path
 
-import duckdb
 import pyarrow as pa
 import pyarrow.parquet as pq
 
 from yuqing.census import fields as F
 from yuqing.config import Config, load_config, project_root
 from yuqing.normalize.run import messages_root
-from yuqing.normalize.store import glob_of, parquet_files, short_hash, write_partitioned
+from yuqing.normalize.store import StagedWriter, duckdb_connect, glob_of, parquet_files, short_hash
 
 CLEAN_RULE_VER = "q9-1"
 
@@ -291,6 +290,7 @@ def _pq(root: Path) -> str:
 
 
 # 同一条被重复采到时 messages 里有多行（一行不删）；往下各层按 msg_id 只取最早采到的那一行
+_CLEAN_COLS = "msg_id, platform, channel, kind, author_id, ts_utc, day_cn, text, has_image, bot_flag, msg_type, raw_ref"
 MESSAGES_DEDUP_SQL = """
 SELECT * FROM {src}
 QUALIFY row_number() OVER (PARTITION BY msg_id ORDER BY ts_utc NULLS LAST, raw_ref) = 1
@@ -348,32 +348,30 @@ def clean(data_root: Path, cfg_params: dict, bots: list[tuple[str, str]] | None 
     res = CleanResult(ver)
     if not parquet_files(mroot):
         return res
-    con = duckdb.connect()
-    con.execute(f"CREATE TEMP TABLE m AS {MESSAGES_DEDUP_SQL.format(src=_pq(mroot))}")
+    con = duckdb_connect(data_root)
+    src = f"(SELECT {_CLEAN_COLS} FROM {_pq(mroot)})"
+    con.execute(f"CREATE TEMP TABLE m AS {MESSAGES_DEDUP_SQL.format(src=src)}")
     raw_n = con.execute(f"SELECT count(*) FROM {_pq(mroot)}").fetchone()[0]
     res.total = con.execute("SELECT count(*) FROM m").fetchone()[0]
     res.duplicate_ids = raw_n - res.total
     have = _existing_ids(con, froot)
     cleaner = Cleaner(params, bot_ids(bots), _long_dups(con, int(params["long_repost_min_chars"])))
-    out = []
+    out = StagedWriter(froot, FLAGS_SCHEMA, key="msg_id", order="day_cn, msg_id")
     for e in cleaner.run(_iter_messages(con)):
         if e.msg_id in have:
             continue
-        flags = sorted(e.flags)
-        out.append(
+        out.add(
             {
                 "msg_id": e.msg_id,
                 "day_cn": e.day_cn,
-                "flags": flags,
+                "flags": sorted(e.flags),
                 "route": route_of(e.flags),
                 "image_only": "image_only" in e.flags,
                 "clean_ver": ver,
             }
         )
-    if out:
-        tag = short_hash(ver, *sorted(e["msg_id"] for e in out))
-        write_partitioned(froot, out, FLAGS_SCHEMA, tag, sort_key=lambda r: r["msg_id"])
-        res.written = len(out)
+    del have
+    res.written = out.close(con, ver)
     min_cell = int(cfg_params.get("privacy", {}).get("min_authors_cell", 5))
     write_noise_daily(con, data_root, ver, min_cell)
     res.report = build_report(con, froot, ver, res.duplicate_ids)
@@ -431,15 +429,17 @@ def write_noise_daily(con, data_root: Path, ver: str, min_cell: int) -> Path | N
 
 
 def build_report(con, froot: Path, ver: str, duplicate_ids: int) -> dict:
-    rows = con.execute(f"SELECT f.flags, f.route, m.platform FROM {_pq(froot)} f JOIN m USING (msg_id)").fetchall()
-    n = len(rows)
-    flags: Counter = Counter()
-    routes: Counter = Counter()
+    f = _pq(froot)
+    n = con.execute(f"SELECT count(*) FROM {f}").fetchone()[0]
+    routes = Counter(dict(con.execute(f"SELECT route, count(*) FROM {f} GROUP BY 1").fetchall()))
+    flags = Counter(
+        dict(con.execute(f"SELECT flag, count(*) FROM (SELECT unnest(flags) AS flag FROM {f}) GROUP BY 1").fetchall())
+    )
     by_platform: dict[str, Counter] = {}
-    for fl, route, platform in rows:
-        flags.update(fl)
-        routes[route] += 1
-        by_platform.setdefault(platform, Counter())[route] += 1
+    for platform, route, k in con.execute(
+        f"SELECT m.platform, f.route, count(*) FROM {f} f JOIN m USING (msg_id) GROUP BY 1, 2"
+    ).fetchall():
+        by_platform.setdefault(platform, Counter())[route] = k
 
     def share(c: Counter, keys) -> dict:
         return {k: {"n": c.get(k, 0), "share": round(c.get(k, 0) / n, 4) if n else 0.0} for k in keys}
