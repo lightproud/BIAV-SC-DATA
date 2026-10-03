@@ -1,8 +1,8 @@
 {
   "date": "2026-10-03",
-  "archived_at": "2026-10-02T21:35:22.066295+00:00",
+  "archived_at": "2026-10-03T02:53:05.036906+00:00",
   "source": "weibo",
-  "item_count": 17,
+  "item_count": 20,
   "items": [
     {
       "title": "给忘却前夜画的塔薇命轮解禁啦，感谢项目组指导",
@@ -426,6 +426,83 @@
       "source": "weibo",
       "time": "2026-10-02T21:35:16.127934+00:00",
       "url": "https://m.weibo.cn/detail/5093779227019848",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [
+        "weibo"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "reposts_count": null,
+        "comments_count": null,
+        "likes_count": null,
+        "engagement_total": null,
+        "engagement_is_unknown": true,
+        "engagement_basis": "known_counts_sort_fallback",
+        "counts_are_approximate": false,
+        "author_is_unknown": true
+      },
+      "time_is_approximate": true
+    },
+    {
+      "title": "忘却前夜#忘却前夜#\n《忘却前夜》概念PV——「银芯」\n那是自融蚀降临后，人类最后的希望。\n◆◆◆◆◆◆\n官方玩家交流群：700587004 忘却前夜的微博视频",
+      "summary": "忘却前夜#忘却前夜#\n《忘却前夜》概念PV——「银芯」\n那是自融蚀降临后，人类最后的希望。\n◆◆◆◆◆◆\n官方玩家交流群：700587004 忘却前夜的微博视频",
+      "source": "weibo",
+      "time": "2026-10-03T01:21:00+00:00",
+      "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [
+        "weibo"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "reposts_count": null,
+        "comments_count": null,
+        "likes_count": null,
+        "engagement_total": null,
+        "engagement_is_unknown": true,
+        "engagement_basis": "known_counts_sort_fallback",
+        "counts_are_approximate": false,
+        "author_is_unknown": true
+      }
+    },
+    {
+      "title": "忘却前夜丨唤醒体展示✦蚀灭·萝坦\n\n「想挑战我？我欣赏你的勇气，也愿意给予你被打败的荣幸。」\n「来吧，向我证明，你是依靠着怎样的力量与渴望，站在我的面前。」",
+      "summary": "忘却前夜丨唤醒体展示✦蚀灭·萝坦\n\n「想挑战我？我欣赏你的勇气，也愿意给予你被打败的荣幸。」\n「来吧，向我证明，你是依靠着怎样的力量与渴望，站在我的面前。」\n\n✦ 蚀灭·萝坦CV：宫园美海\n忘却前夜#忘却前夜##Morimens##萝坦##蚀灭萝坦##宫园美海#",
+      "source": "weibo",
+      "time": "2026-10-03T02:52:58.984345+00:00",
+      "url": "",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "",
+      "tags": [
+        "weibo"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "reposts_count": null,
+        "comments_count": null,
+        "likes_count": null,
+        "engagement_total": null,
+        "engagement_is_unknown": true,
+        "engagement_basis": "known_counts_sort_fallback",
+        "counts_are_approximate": false,
+        "author_is_unknown": true
+      },
+      "time_is_approximate": true
+    },
+    {
+      "title": "忘却前夜送了100抽，爽抽",
+      "summary": "忘却前夜送了100抽，爽抽",
+      "source": "weibo",
+      "time": "2026-10-03T02:52:59.249411+00:00",
+      "url": "",
       "engagement": 0,
       "is_hot": false,
       "author": "",

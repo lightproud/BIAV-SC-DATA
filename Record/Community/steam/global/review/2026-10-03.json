@@ -1,8 +1,8 @@
 {
   "date": "2026-10-03",
-  "archived_at": "2026-10-02T21:35:22.065858+00:00",
+  "archived_at": "2026-10-03T02:53:05.035422+00:00",
   "source": "steam",
-  "item_count": 1,
+  "item_count": 4,
   "items": [
     {
       "title": "[负面] OK, I knew when I installed this that it would be...",
@@ -23,6 +23,75 @@
         "playtime_forever": 103,
         "votes_up": 0,
         "timestamp_created": 1790960144
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[负面] 不是为了美术，谁会来吃这口石",
+      "summary": "不是为了美术，谁会来吃这口石",
+      "source": "steam_review",
+      "time": "2026-10-03T00:50:21+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198879447421/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198879447421",
+      "tags": [
+        "schinese"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": false,
+        "playtime_forever": 1908,
+        "votes_up": 0,
+        "timestamp_created": 1790988621
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] GLORIOUS .",
+      "summary": "GLORIOUS .",
+      "source": "steam_review",
+      "time": "2026-10-02T20:40:58+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198695765138/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198695765138",
+      "tags": [
+        "english"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 644,
+        "votes_up": 0,
+        "timestamp_created": 1790973658
+      },
+      "region": "global",
+      "archive_subtype": "review"
+    },
+    {
+      "title": "[正面] il est tres interessant , je n ai pas asser jouer...",
+      "summary": "il est tres interessant , je n ai pas asser jouer pour pouvoir dire un avie totale mais je conseil vivement l histoire et interesente et les disign des personnage son incroyable",
+      "source": "steam_review",
+      "time": "2026-10-02T20:25:23+00:00",
+      "url": "https://steamcommunity.com/profiles/76561198759064024/recommended/3052450",
+      "engagement": 0,
+      "is_hot": false,
+      "author": "76561198759064024",
+      "tags": [
+        "french"
+      ],
+      "lang": "",
+      "platform_region": "",
+      "metadata": {
+        "voted_up": true,
+        "playtime_forever": 361,
+        "votes_up": 0,
+        "timestamp_created": 1790972723
       },
       "region": "global",
       "archive_subtype": "review"

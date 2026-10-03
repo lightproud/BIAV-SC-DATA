@@ -1,8 +1,8 @@
 {
   "date": "2026-10-03",
-  "archived_at": "2026-10-02T21:35:21.990418+00:00",
+  "archived_at": "2026-10-03T02:53:04.939874+00:00",
   "source": "bilibili",
-  "item_count": 2,
+  "item_count": 3,
   "items": [
     {
       "title": "【忘却前夜】庞卡水船融灾禁区5-7「门之钥」",
@@ -19,6 +19,23 @@
       "lang": "zh",
       "platform_region": "",
       "media_url": "//i1.hdslb.com/bfs/archive/b9b75cd88f05032d827bfb59da5c7bbaa1c759e1.jpg",
+      "content_type": "video"
+    },
+    {
+      "title": "你就是卡瓦尤伊星☆",
+      "summary": "好崩溃啊，好难受啊，好难剪啊，剪成一坨屎了⁽⁽(ཀ д ཀ)⁾⁾AM好难用啊，为什么选择组件它要自动减短时间啊？搞得我的视频一卡一卡的，还天天闪退，还不好修改，我已经气疯了，剪了两天就剪出一坨粑粑( ≖⃙⃚᷄ ⍘ ≖⃙⃚᷅ )再也不要剪这个了…………",
+      "source": "bilibili",
+      "time": "2026-10-03T00:48:09+00:00",
+      "url": "https://www.bilibili.com/video/av117374208448188",
+      "engagement": 54,
+      "is_hot": false,
+      "author": "小汐小希",
+      "tags": [
+        "动画综合"
+      ],
+      "lang": "zh",
+      "platform_region": "",
+      "media_url": "//i1.hdslb.com/bfs/archive/2b81f7f84c7658f7be9f01525bc071f12e0e8390.jpg",
       "content_type": "video"
     },
     {
