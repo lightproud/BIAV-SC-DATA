@@ -12,6 +12,11 @@ on:
   schedule:
     - cron: '30 */3 * * *'
   workflow_dispatch:
+    inputs:
+      refetch_months:
+        description: '定向重抓月份（逗号分隔 YYYY-MM，如 2026-02,2026-03）；留空 = 常规历史回填'
+        required: false
+        default: ''
 
 concurrency:
   # 与 discord-archive 共用同一把锁——见该工作流的同位注释。两者都 `git add
@@ -67,7 +72,14 @@ jobs:
       - name: Run history-only backfill
         env:
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
-        run: python projects/news/scripts/discord_archiver.py --history-only
+          # 经 env 传入，不把输入直接拼进 shell（防注入）；格式由脚本校验
+          REFETCH_MONTHS: ${{ github.event.inputs.refetch_months }}
+        run: |
+          if [ -n "${REFETCH_MONTHS:-}" ]; then
+            python projects/news/scripts/discord_archiver.py --refetch-months "$REFETCH_MONTHS"
+          else
+            python projects/news/scripts/discord_archiver.py --history-only
+          fi
 
       - name: Commit and push if changed → BIAV-SC-DATA
         run: |
