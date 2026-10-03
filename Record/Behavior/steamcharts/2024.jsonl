@@ -1,0 +1,5 @@
+{"date":"2024-08-01","ts":"2024-08-01T00:00:00Z","source":"steamcharts","target":"global","metrics":{"players":360,"granularity":"month","app_id":"3052450"}}
+{"date":"2024-09-01","ts":"2024-09-01T00:00:00Z","source":"steamcharts","target":"global","metrics":{"players":644,"granularity":"month","app_id":"3052450"}}
+{"date":"2024-10-01","ts":"2024-10-01T00:00:00Z","source":"steamcharts","target":"global","metrics":{"players":837,"granularity":"month","app_id":"3052450"}}
+{"date":"2024-11-01","ts":"2024-11-01T00:00:00Z","source":"steamcharts","target":"global","metrics":{"players":1266,"granularity":"month","app_id":"3052450"}}
+{"date":"2024-12-01","ts":"2024-12-01T00:00:00Z","source":"steamcharts","target":"global","metrics":{"players":1180,"granularity":"month","app_id":"3052450"}}
