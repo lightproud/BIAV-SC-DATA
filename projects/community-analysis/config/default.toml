@@ -3,10 +3,12 @@
 
 [unitize]
 gap_minutes = 2         # 相邻两句超过这个间隔就切段；G0（2026-10-03）由 10 改 2：大频道间隔 P90 26 秒、P99 550 秒；单元只是阅读窗口，G1 再验
-max_msgs = 30           # 一段正文的条数上限
+max_msgs = 30           # 一段正文的上限（开了连续发言合并时按句计）
 overlap_msgs = 5        # 每段开头附上前一段最后几句作只读上下文
 seal_minutes = 30       # 静默多久才封口送标
 ctx_inline_max = 30     # 段内只读上下文（纯表情、极短、接龙等 context_only 消息）每段最多收几条
+turn_gap_seconds = 120  # 连续发言：同一人连发、中间没人插话、相邻不超过这么多秒并成一句；max_msgs 按句计；0 不合并
+low_content_max_chars = 20  # 低内容单元：正文最长一句不到这么长（字母当量，汉字假名谚文一个算 3），打 skip_reason=low_content、默认不送标（只对聊天）
 
 [clean]
 # Q9（2026-10-03）：多标签 msg_flags + 三档路由；阈值 G1 试切时校准

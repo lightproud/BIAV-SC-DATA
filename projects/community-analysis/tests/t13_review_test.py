@@ -112,3 +112,18 @@ def test_cli_review(tmp_path, monkeypatch, capsys):
     text = capsys.readouterr().out
     assert "46 段" in text and "少于要求的 50 段" in text  # 9-02 只有 46 段
     assert out.read_text(encoding="utf-8").count('class="seg"') == 46
+
+
+def test_consecutive_turn_shown_as_one_line():
+    from yuqing.unitize.review import build_segment
+
+    t0 = datetime(2026, 9, 1, tzinfo=UTC)
+    msgs = {
+        f"k{i}": {"msg_id": f"k{i}", "platform": "discord", "author_id": a, "t": t0.timestamp() + i, "text": x,
+                  "reply_to": None, "has_image": False}
+        for i, (a, x) in enumerate([("p", "第一半句"), ("p", "第二半句"), ("q", "回应一句话")])
+    }  # fmt: skip
+    unit = {"msg_ids": ["k0", "k1", "k2"], "ctx_msg_ids": [], "turn_ids": [0, 0, 1], "ts_start": t0}
+    lines = build_segment(unit, msgs)
+    assert [ln.text for ln in lines] == ["第一半句\n第二半句", "回应一句话"]
+    assert [ln.who for ln in lines] == ["甲", "乙"]

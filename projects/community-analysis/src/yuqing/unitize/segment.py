@@ -4,6 +4,8 @@
 - 只读上下文（ctx_msg_ids）三个来源：同一流前一段正文的最后 overlap 条；正文回复的、不在本段正文里的那条；
   落在本段时间范围内（或紧贴段前段后、不超过 gap）的 context_only 消息（Q9），每段最多 inline_max 条。
   上下文不算正文、不占 max_msgs 名额，也不参与作者计数。
+- 连续发言（守密人 2026-10-03）：同一人连发、中间没有别人的正文、相邻不超过 turn_gap 秒，算同一「句」；
+  max_msgs 按句计，一句不会被切到两段。turn_gap 为 0 时不合并，一条一句。
 """
 
 from __future__ import annotations
@@ -25,12 +27,18 @@ class Msg:
     reply_to: str | None
     lang: str | None
     day_cn: object
+    text_len: int = 0
 
 
 @dataclass
 class Seg:
     body: list[Msg] = field(default_factory=list)
     ctx: list[str] = field(default_factory=list)
+    turns: list[int] = field(default_factory=list)  # 与 body 等长：每条正文属于段内第几句
+
+    @property
+    def n_turns(self) -> int:
+        return (self.turns[-1] + 1) if self.turns else len(self.body)
 
     @property
     def start(self) -> float | None:
@@ -56,17 +64,29 @@ def segment_chat(
     overlap: int,
     inline_max: int,
     reply_ok: set[str] | frozenset[str] = frozenset(),
+    turn_gap_s: float = 0,
 ) -> list[Seg]:
     """msgs 须是同一条流、按 (t, msg_id) 排好；t 为空的正文各自成段（排在最后）。"""
     body = [m for m in msgs if m.route == ANNOTATE and m.t is not None]
     segs: list[Seg] = []
     for m in body:
         cur = segs[-1] if segs else None
-        if cur is None or m.t - cur.end > gap_s or len(cur.body) >= max_msgs:
-            segs.append(Seg())
-        segs[-1].body.append(m)
+        if cur is not None and m.t - cur.end <= gap_s:
+            last = cur.body[-1]
+            same_turn = (
+                turn_gap_s > 0 and m.author is not None and m.author == last.author and m.t - last.t <= turn_gap_s
+            )
+            if same_turn:
+                cur.body.append(m)
+                cur.turns.append(cur.turns[-1])
+                continue
+            if cur.n_turns < max_msgs:
+                cur.body.append(m)
+                cur.turns.append(cur.turns[-1] + 1)
+                continue
+        segs.append(Seg(body=[m], turns=[0]))
     timed = len(segs)
-    segs += [Seg(body=[m]) for m in msgs if m.route == ANNOTATE and m.t is None]
+    segs += [Seg(body=[m], turns=[0]) for m in msgs if m.route == ANNOTATE and m.t is None]
 
     # 段内（及紧贴段前段后）的 context_only 消息
     inline: list[list[str]] = [[] for _ in range(timed)]
