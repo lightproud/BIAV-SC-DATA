@@ -1,53 +1,69 @@
 {
   "date": "2026-10-03",
-  "messages": 6014,
+  "messages": 8449,
   "unique_authors": 175,
-  "reactions_total": 619,
-  "attachments": 290,
+  "reactions_total": 849,
+  "attachments": 409,
   "channel_activity": {
-    "🔸綜合討論": 141,
-    "🔸morimens-game-chat": 4676,
+    "🔸綜合討論": 382,
+    "🔸morimens-game-chat": 5620,
+    "🔸课间休息闲聊": 2,
+    "🔸한국어-채팅방": 1,
+    "🔸phòng-chat-tiếng-việt": 542,
+    "🔸canal-português": 14,
+    "🔸ruang-obrolan-indonesia": 89,
+    "🔸ห้องสนทนาภาษาไทย": 55,
+    "🔸traphase": 19,
+    "🔸lore-chat": 26,
+    "🔸频道建议┊server-suggestions": 11,
+    "🔸team-building": 195,
+    "🔸general-chat": 551,
+    "🔸邀请码互助┊swap-invitation-codes": 9,
+    "🔸game-question": 685,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸游戏问题": 16,
+    "🔸机器人命令┊bot-commands": 13,
+    "關卡優化": 1,
+    "Primordial Chaos Posse Skill Rework": 6,
+    "D-tide Discussion": 38,
+    "Quadra / 4-Realm Rerun Banners": 7,
+    "V2.5.1.0 停服维护公告": 9,
+    "Halloween Sanga Concept!": 1,
+    "Ramona Dreamy vacation cosplay/adventure": 1,
+    "隊伍提升請教": 2,
+    "賣號": 1,
+    "Pull advice?": 3,
+    "1555842277619015700": 1,
     "🔸交友频道": 5,
-    "🔸phòng-chat-tiếng-việt": 237,
     "🔸canal-español": 117,
-    "🔸canal-português": 13,
-    "🔸ruang-obrolan-indonesia": 55,
-    "🔸ห้องสนทนาภาษาไทย": 23,
-    "🔸traphase": 14,
-    "🔸lore-chat": 19,
-    "🔸频道建议┊server-suggestions": 9,
-    "🔸team-building": 116,
-    "🔸general-chat": 172,
-    "🔸邀请码互助┊swap-invitation-codes": 7,
-    "🔸game-question": 332,
-    "🔸机器人命令┊bot-commands": 8,
     "Why doesn't this wave 4 dtide rotation have icefield?": 2,
     "The Counter archetype has been forgotten?": 1,
     "When will a passive ability be added to these characters?": 1,
     "Balance problem and enemy stats inflation": 1,
-    "D-tide Discussion": 31,
     "Impact of Version 2.6 Affinity Changes on Player Experience": 2,
-    "Quadra / 4-Realm Rerun Banners": 5,
-    "V2.5.1.0 停服维护公告": 3,
     "💖 表情丨Emotes": 1,
     "Medio sprite edits": 7,
     "V2.5.0 命运剧院┊Theater of Fate": 1,
-    "Pull advice?": 1,
     "🔸deutscher-chatraum": 2,
     "🔸русский-канал": 1,
     "🔸lets-count": 2,
-    "Primordial Chaos Posse Skill Rework": 4,
     "Where are you staying?": 1,
     "moss’s art dump": 1,
     "【English Translation】Opinions Collection": 1,
     "【Newcomer Help】Forum Introduction": 2
   },
   "hourly_activity": {
+    "13": 460,
+    "14": 373,
+    "15": 193,
+    "16": 275,
+    "18": 616,
+    "19": 311,
+    "17": 280,
     "9": 581,
     "10": 517,
     "11": 539,
     "12": 618,
-    "13": 73,
     "6": 194,
     "7": 369,
     "8": 536,
@@ -59,12 +75,38 @@
     "0": 706
   },
   "message_types": {
-    "0": 3861,
-    "19": 2137,
-    "20": 15,
+    "0": 5663,
+    "19": 2759,
+    "20": 24,
+    "46": 1,
+    "21": 1,
     "23": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1555896874878238830",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "breakingnew_bakagetlovinpatpat",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555837840364150946",
+      "channel_id": "1170692781216378960",
+      "content": "sanga halloween concept work (French Gargoyle)",
+      "author": "breakingnew_bakagetlovinpatpat",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555869998705156106",
+      "channel_id": "1300659603993923644",
+      "content": "https://klipy.com/gifs/femme-soule-vomit",
+      "author": "nguyendhuys76",
+      "reactions": 8,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
     {
       "id": "1555613826106400819",
       "channel_id": "1170692781216378960",
@@ -98,6 +140,22 @@
       "channel": "🔸phòng-chat-tiếng-việt"
     },
     {
+      "id": "1555852770601345076",
+      "channel_id": "1170692781216378960",
+      "content": "<@296679098703544321> THE ONLY SOREL IN MADNESS",
+      "author": "anicillia",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555877786864848896",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "tnimreppep",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1555759377367961671",
       "channel_id": "1170692781216378960",
       "content": "I knew I was feeling lucky",
@@ -119,6 +177,14 @@
       "content": "Curse simulator",
       "author": "cowit_moo22",
       "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555809377716543580",
+      "channel_id": "1170692781216378960",
+      "content": "who wouldn't want to be with a woman with such a velvety and dulcet voice",
+      "author": "reya.li",
+      "reactions": 4,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -175,54 +241,6 @@
       "content": "+11",
       "author": "gersona6",
       "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555622496806641725",
-      "channel_id": "1170692781216378960",
-      "content": "the person watching me stream was quite annoyed",
-      "author": "direhands",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555624807758962878",
-      "channel_id": "1170692781216378960",
-      "content": "dms with a friend and ALL of them are me shitting on doll at separate times btw",
-      "author": "direhands",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555796348874530938",
-      "channel_id": "1131839817982947429",
-      "content": "助戰",
-      "author": "fgoisaac",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1555802312105009294",
-      "channel_id": "1131839817982947429",
-      "content": "之前被嫌做任務的海老頭\n現在融災蠻吃香\n終於打完450\n吃靈芝打3-7後真的簡單很多\n這期是比較簡單吧",
-      "author": "fool6692",
-      "reactions": 3,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1555717553735737356",
-      "channel_id": "1170692781216378960",
-      "content": "lore wise kit wise EVERYTHING !!",
-      "author": "lukityswoogity",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555725545801515021",
-      "channel_id": "1170692781216378960",
-      "content": "draco got banned from qna for 5 minutes and has gone rogue",
-      "author": "violettaautumn",
-      "reactions": 3,
       "channel": "🔸morimens-game-chat"
     }
   ]
