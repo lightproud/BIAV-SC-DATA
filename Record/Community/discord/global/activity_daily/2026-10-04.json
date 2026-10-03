@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-04",
+  "messages": 160,
+  "unique_authors": 27,
+  "reactions_total": 23,
+  "attachments": 8,
+  "channel_activity": {
+    "🔸morimens-game-chat": 97,
+    "🔸课间休息闲聊": 1,
+    "🔸phòng-chat-tiếng-việt": 57,
+    "🔸canal-português": 1,
+    "🔸general-chat": 2,
+    "🔸机器人命令┊bot-commands": 1,
+    "Halloween Sanga Concept!": 1
+  },
+  "hourly_activity": {
+    "0": 160
+  },
+  "message_types": {
+    "19": 72,
+    "0": 87,
+    "20": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1555972976426614886",
+      "channel_id": "1170692781216378960",
+      "content": "can we kill them irl",
+      "author": "gersona6",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555974313088131105",
+      "channel_id": "1170692781216378960",
+      "content": "Daffodil needs a buff tbh",
+      "author": "yukichan06970",
+      "reactions": 3,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555972768603045889",
+      "channel_id": "1170692781216378960",
+      "content": "daff's entire purpose in traphase is to make your life as miserable as possible",
+      "author": "flocke999",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555974561982316576",
+      "channel_id": "1170692781216378960",
+      "content": "What do you mean, Last time I was daf was S teir. I saw bufodil post the teir li",
+      "author": "unknowable3333",
+      "reactions": 2,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555972845044109405",
+      "channel_id": "1300659603993923644",
+      "content": "đánh nhìu quen r tự canh dame thôi",
+      "author": "hoangziet.",
+      "reactions": 2,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
+      "id": "1555972735522308239",
+      "channel_id": "1170692781216378960",
+      "content": "My tabletop games will start up next week (after a 6 week break), I am a bit ner",
+      "author": "unknowable3333",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555972919199404144",
+      "channel_id": "1170692781216378960",
+      "content": "Man...",
+      "author": "syro_k",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555973299098615842",
+      "channel_id": "1170692781216378960",
+      "content": "holy yap <:Glorp:1280414261373440031>",
+      "author": "stargnh",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555973546281533571",
+      "channel_id": "1170692781216378960",
+      "content": "Noooo you aren’t ugly",
+      "author": "unknowable3333",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555973592519282689",
+      "channel_id": "1170692781216378960",
+      "content": "You are big and strong and groovy",
+      "author": "unknowable3333",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555973637692072109",
+      "channel_id": "1170692781216378960",
+      "content": "Some might even incandescent",
+      "author": "unknowable3333",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555973744718118956",
+      "channel_id": "1170692781216378960",
+      "content": "you're very groovy",
+      "author": "direhands",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555974396697382963",
+      "channel_id": "1170692781216378960",
+      "content": "I'm just better than everyone else",
+      "author": "direhands",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555974541283692687",
+      "channel_id": "1170692781216378960",
+      "content": "That's what matters most.",
+      "author": "syro_k",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555974556399829113",
+      "channel_id": "1170692781216378960",
+      "content": "cap she is op",
+      "author": "gersona6",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555974738516508885",
+      "channel_id": "1170692781216378960",
+      "content": "daff nerf soon",
+      "author": "direhands",
+      "reactions": 1,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

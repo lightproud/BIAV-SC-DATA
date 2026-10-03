@@ -1,41 +1,44 @@
 {
   "date": "2026-10-03",
-  "messages": 8449,
+  "messages": 11499,
   "unique_authors": 175,
-  "reactions_total": 849,
-  "attachments": 409,
+  "reactions_total": 1086,
+  "attachments": 587,
   "channel_activity": {
-    "🔸綜合討論": 382,
-    "🔸morimens-game-chat": 5620,
-    "🔸课间休息闲聊": 2,
-    "🔸한국어-채팅방": 1,
-    "🔸phòng-chat-tiếng-việt": 542,
-    "🔸canal-português": 14,
-    "🔸ruang-obrolan-indonesia": 89,
-    "🔸ห้องสนทนาภาษาไทย": 55,
-    "🔸traphase": 19,
-    "🔸lore-chat": 26,
+    "🔸綜合討論": 718,
+    "🔸morimens-game-chat": 6725,
+    "🔸课间休息闲聊": 242,
+    "🔸한국어-채팅방": 3,
+    "🔸phòng-chat-tiếng-việt": 798,
+    "🔸canal-español": 119,
+    "🔸canal-português": 15,
+    "🔸ruang-obrolan-indonesia": 145,
+    "🔸ห้องสนทนาภาษาไทย": 67,
+    "🔸traphase": 22,
+    "🔸lore-chat": 34,
+    "🔸team-building": 214,
+    "🔸general-chat": 1282,
+    "🔸邀请码互助┊swap-invitation-codes": 11,
+    "🔸game-question": 891,
+    "🔸机器人命令┊bot-commands": 19,
+    "Primordial Chaos Posse Skill Rework": 8,
+    "NOT ANSWERED: Jenkins": 1,
+    "D-tide Discussion": 54,
+    "Quadra / 4-Realm Rerun Banners": 9,
+    "💭「???」game client crashed...somewhat": 1,
+    "V2.5.1.0 停服维护公告": 16,
+    "I NEED GDOLL CONTENT😭😭😭😭": 1,
+    "隊伍提升請教": 31,
+    "賣號": 7,
     "🔸频道建议┊server-suggestions": 11,
-    "🔸team-building": 195,
-    "🔸general-chat": 551,
-    "🔸邀请码互助┊swap-invitation-codes": 9,
-    "🔸game-question": 685,
     "🔸忘却前夜┊morimens-tv": 1,
     "🔸游戏问题": 16,
-    "🔸机器人命令┊bot-commands": 13,
     "關卡優化": 1,
-    "Primordial Chaos Posse Skill Rework": 6,
-    "D-tide Discussion": 38,
-    "Quadra / 4-Realm Rerun Banners": 7,
-    "V2.5.1.0 停服维护公告": 9,
     "Halloween Sanga Concept!": 1,
     "Ramona Dreamy vacation cosplay/adventure": 1,
-    "隊伍提升請教": 2,
-    "賣號": 1,
     "Pull advice?": 3,
     "1555842277619015700": 1,
     "🔸交友频道": 5,
-    "🔸canal-español": 117,
     "Why doesn't this wave 4 dtide rotation have icefield?": 2,
     "The Counter archetype has been forgotten?": 1,
     "When will a passive ability be added to these characters?": 1,
@@ -53,12 +56,16 @@
     "【Newcomer Help】Forum Introduction": 2
   },
   "hourly_activity": {
+    "19": 652,
+    "20": 656,
+    "21": 662,
+    "22": 645,
+    "23": 746,
     "13": 460,
     "14": 373,
     "15": 193,
     "16": 275,
     "18": 616,
-    "19": 311,
     "17": 280,
     "9": 581,
     "10": 517,
@@ -75,9 +82,9 @@
     "0": 706
   },
   "message_types": {
-    "0": 5663,
-    "19": 2759,
-    "20": 24,
+    "0": 7858,
+    "19": 3612,
+    "20": 26,
     "46": 1,
     "21": 1,
     "23": 1
@@ -114,6 +121,14 @@
       "author": "direhands",
       "reactions": 8,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555922244436361379",
+      "channel_id": "1131839817982947429",
+      "content": "尸潮唤醒体都随便约...",
+      "author": "annabelle0868",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
     },
     {
       "id": "1555712637340221440",
@@ -180,6 +195,46 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1555922109145030727",
+      "channel_id": "1131839817982947429",
+      "content": "我看成屍潮..",
+      "author": "yjr123",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1555924774235148319",
+      "channel_id": "1131839817982947429",
+      "content": "取决于是否玩过5771",
+      "author": "kemomimi_",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1555945154953748583",
+      "channel_id": "1170692781216378960",
+      "content": "holy shit 🥹🥹",
+      "author": "lobotomiecorp337",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555959033561747509",
+      "channel_id": "1170692781216378960",
+      "content": "AA lotan",
+      "author": "thereaperinthedresss",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1555972207136473109",
+      "channel_id": "1170692781216378960",
+      "content": "D&d time, bye everyone",
+      "author": "wuyan_kana",
+      "reactions": 4,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1555809377716543580",
       "channel_id": "1170692781216378960",
       "content": "who wouldn't want to be with a woman with such a velvety and dulcet voice",
@@ -194,54 +249,6 @@
       "author": "fon_tain",
       "reactions": 4,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1555709789584228462",
-      "channel_id": "1170692781216378960",
-      "content": "alva classic",
-      "author": "reya.li",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555714259264999516",
-      "channel_id": "1170692781216378960",
-      "content": "🔥",
-      "author": "gersona6",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555757865346801694",
-      "channel_id": "1170692781216378960",
-      "content": "<@296679098703544321> I can't be bothered farming this Image.  About to attempt ",
-      "author": "syro_k",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555761650521346158",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "wuyan_kana",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555663466227040287",
-      "channel_id": "1170692781216378960",
-      "content": "so that solved that problem",
-      "author": "ihatepickinguniqueusernames",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1555676765135962147",
-      "channel_id": "1170692781216378960",
-      "content": "+11",
-      "author": "gersona6",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }
