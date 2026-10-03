@@ -84,7 +84,7 @@ class UnitizeResult:
 
 
 _COLS = (
-    "msg_id, platform, community, server, channel, kind, parent_ref, parent_text, author_hash, "
+    "msg_id, platform, community, server, channel, kind, parent_ref, parent_text, author_id, "
     "epoch(ts_utc) AS t, day_cn, lang, reply_to, route"
 )
 
@@ -128,7 +128,7 @@ def _unit_row(seg: Seg, head: dict, unit_ver: str, clean_ver: str, ctx_text: str
 
 
 def _msg(r: dict) -> Msg:
-    return Msg(r["msg_id"], r["t"], r["route"], r["author_hash"], r["reply_to"], r["lang"], r["day_cn"])
+    return Msg(r["msg_id"], r["t"], r["route"], r["author_id"], r["reply_to"], r["lang"], r["day_cn"])
 
 
 def unitize(

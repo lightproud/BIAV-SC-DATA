@@ -10,7 +10,7 @@ from pathlib import Path
 from yuqing.census.engine import Census
 from yuqing.census.fields import CN_TZ
 from yuqing.census.report import render_html
-from yuqing.config import ConfigError, check_outside_repo, load_config, repo_root
+from yuqing.config import ConfigError, check_not_in_lake, load_config, repo_root
 from yuqing.lake.layout import discover
 from yuqing.lake.reader import LakeReader
 
@@ -56,7 +56,7 @@ def run_census_cli(args: argparse.Namespace) -> int:
     lake = Path(args.lake or cfg.env.get("LAKE_ROOT") or default_lake() or cfg.require("LAKE_ROOT")["LAKE_ROOT"])
     now = datetime.now(CN_TZ)
     out = Path(args.out) if args.out else cfg.data_root() / "reports" / "census" / now.date().isoformat()
-    check_outside_repo(out, "报告目录")
+    check_not_in_lake(out, "报告目录", [lake])
     if _within(out, lake):
         raise ConfigError(f"报告目录不能放进数据湖（原文只读）：{out}")
     result = run_census(lake, cfg.params, sample_n=args.sample or DEFAULT_SAMPLE)

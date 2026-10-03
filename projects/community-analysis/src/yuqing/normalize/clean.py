@@ -28,7 +28,6 @@ import pyarrow.parquet as pq
 
 from yuqing.census import fields as F
 from yuqing.config import Config, load_config, project_root
-from yuqing.normalize.messages import author_hash
 from yuqing.normalize.run import messages_root
 from yuqing.normalize.store import glob_of, parquet_files, short_hash, write_partitioned
 
@@ -150,13 +149,15 @@ class _Stream:
 
 
 class Cleaner:
-    def __init__(self, params: dict, bot_hashes: frozenset[str] = frozenset(), long_dups: frozenset[str] = frozenset()):
+    def __init__(
+        self, params: dict, bots: frozenset[tuple[str, str]] = frozenset(), long_dups: frozenset[str] = frozenset()
+    ):
         p = {k: int(v) for k, v in params.items()}
         self.p = p
         self.window = p["same_author_window_hours"] * 3600
         self.long_min = p["long_repost_min_chars"]
         self.hold = max(p["burst_window_s"], p["chorus_window_s"])
-        self.bot_hashes = bot_hashes
+        self.bots = bots
         self.long_dups = long_dups
 
     def run(self, rows: Iterator[dict]) -> Iterator[_Entry]:
@@ -178,8 +179,8 @@ class Cleaner:
         mtype = r["msg_type"]
         if mtype is not None and mtype not in _NORMAL_TYPES:
             flags.add("bot_command" if mtype == _COMMAND_TYPE else "system")
-        author = r["author_hash"]
-        if r["bot_flag"] or (author is not None and author in self.bot_hashes):
+        author = r["author_id"]
+        if r["bot_flag"] or (author is not None and (r["platform"], author) in self.bots):
             flags.add("bot")
         if r["msg_id"] in self.long_dups:
             flags.add("dup_long_repost")
@@ -263,12 +264,8 @@ def load_bots(path: Path) -> list[tuple[str, str]]:
     return out
 
 
-def bot_hashes(bots: list[tuple[str, str]], salt: str | None) -> frozenset[str]:
-    if bots and not salt:
-        from yuqing.config import ConfigError
-
-        raise ConfigError("机器人名单要用 AUTHOR_SALT 现算哈希，缺少 AUTHOR_SALT")
-    return frozenset(author_hash(salt, p, ident) for p, ident in bots)
+def bot_ids(bots: list[tuple[str, str]]) -> frozenset[tuple[str, str]]:
+    return frozenset(bots)
 
 
 def clean_ver_of(params: dict, bots: list[tuple[str, str]]) -> str:
@@ -321,7 +318,7 @@ def _long_dups(con, long_min: int) -> frozenset[str]:
 def _iter_messages(con, batch: int = 50_000) -> Iterator[dict]:
     rel = con.execute(
         """
-        SELECT msg_id, platform, channel, kind, author_hash, epoch(ts_utc) AS t, day_cn, text,
+        SELECT msg_id, platform, channel, kind, author_id, epoch(ts_utc) AS t, day_cn, text,
                has_image, bot_flag, msg_type
         FROM m ORDER BY platform, channel NULLS FIRST, t NULLS LAST, msg_id
         """
@@ -341,9 +338,7 @@ class CleanResult:
     report_path: Path | None = None
 
 
-def clean(
-    data_root: Path, cfg_params: dict, salt: str | None, bots: list[tuple[str, str]] | None = None
-) -> CleanResult:
+def clean(data_root: Path, cfg_params: dict, bots: list[tuple[str, str]] | None = None) -> CleanResult:
     params = dict(cfg_params["clean"])
     bots = bots or []
     ver = clean_ver_of(params, bots)
@@ -359,7 +354,7 @@ def clean(
     res.total = con.execute("SELECT count(*) FROM m").fetchone()[0]
     res.duplicate_ids = raw_n - res.total
     have = _existing_ids(con, froot)
-    cleaner = Cleaner(params, bot_hashes(bots, salt), _long_dups(con, int(params["long_repost_min_chars"])))
+    cleaner = Cleaner(params, bot_ids(bots), _long_dups(con, int(params["long_repost_min_chars"])))
     out = []
     for e in cleaner.run(_iter_messages(con)):
         if e.msg_id in have:
@@ -404,15 +399,15 @@ def write_noise_daily(con, data_root: Path, ver: str, min_cell: int) -> Path | N
     rows = con.execute(
         f"""
         WITH f AS (
-          SELECT m.platform, m.channel, m.day_cn, m.author_hash, f.flags, f.route
+          SELECT m.platform, m.channel, m.day_cn, m.author_id, f.flags, f.route
           FROM {_pq(froot)} f JOIN m USING (msg_id)
         ),
         x AS (
-          SELECT platform, channel, day_cn, author_hash, unnest(flags) AS flag FROM f
-          UNION ALL SELECT platform, channel, day_cn, author_hash, '_all' FROM f
-          UNION ALL SELECT platform, channel, day_cn, author_hash, 'route:' || route FROM f
+          SELECT platform, channel, day_cn, author_id, unnest(flags) AS flag FROM f
+          UNION ALL SELECT platform, channel, day_cn, author_id, '_all' FROM f
+          UNION ALL SELECT platform, channel, day_cn, author_id, 'route:' || route FROM f
         )
-        SELECT platform, channel, day_cn, flag, count(*) AS n_msgs, count(DISTINCT author_hash) AS n_authors
+        SELECT platform, channel, day_cn, flag, count(*) AS n_msgs, count(DISTINCT author_id) AS n_authors
         FROM x GROUP BY ALL ORDER BY platform, channel NULLS FIRST, day_cn, flag
         """
     ).fetchall()
@@ -472,7 +467,7 @@ def current_clean_ver(cfg: Config) -> str:
 def run_cli(args: argparse.Namespace) -> int:
     cfg = load_config()
     data_root = cfg.data_root()
-    res = clean(data_root, cfg.params, cfg.env.get("AUTHOR_SALT"), load_bots(bots_path()))
+    res = clean(data_root, cfg.params, load_bots(bots_path()))
     if not res.total:
         print("messages 表为空：先跑 yuqing normalize。")
         return 1

@@ -1,4 +1,4 @@
-"""T10 规范化：字段与类型、重跑不变、raw_ref 可反查、同盐同人同哈希、换盐不同、产出里没有作者名。
+"""T10 规范化：字段与类型、重跑不变、raw_ref 可反查、作者存原 ID（同人同 ID）、产出里没有作者显示名。
 
 数据湖是测试里现造的合成样本（假名字、假文字），不含真实玩家原文。
 """
@@ -17,11 +17,10 @@ import pytest
 
 from yuqing import cli
 from yuqing.config import project_root
-from yuqing.normalize.messages import MESSAGES_SCHEMA, Communities, author_hash, msg_id_of
+from yuqing.normalize.messages import MESSAGES_SCHEMA, Communities, msg_id_of
 from yuqing.normalize.run import load_ledger, messages_root, normalize, resolve_raw_ref, select_files
 from yuqing.normalize.store import parquet_files, read_rows
 
-SALT = "test-salt-not-real"
 NAMES = ["假名甲甲", "FakeNameBob", "ダミー名"]
 
 
@@ -76,7 +75,7 @@ def make_lake(root: Path) -> Path:
     yt = lake / "youtube_comments" / "2026-09-02.json"
     yt.parent.mkdir(parents=True)
     yt.write_text(
-        json.dumps([{"id": "c1", "video_id": "v1", "video_title": "视频标题", "author": NAMES[2], "text": "nice",
+        json.dumps([{"id": "c1", "video_id": "v1", "video_title": "视频标题", "author": "yt-handle", "text": "nice",
                      "published": "2026-09-02T00:00:00Z"}], ensure_ascii=False),
         encoding="utf-8",
     )  # fmt: skip
@@ -92,8 +91,8 @@ def comms() -> Communities:
     return Communities.load(project_root() / "config" / "communities.toml")
 
 
-def run(lake: Path, data: Path, salt: str = SALT):
-    return normalize(lake, data, salt, comms())
+def run(lake: Path, data: Path):
+    return normalize(lake, data, comms())
 
 
 def rows_by_ref(data: Path) -> dict[str, dict]:
@@ -115,7 +114,7 @@ def test_fields_and_types(lake, tmp_path):
     assert m1["ts_utc"] == datetime(2026, 9, 1, 1, tzinfo=UTC)
     assert m1["day_cn"] == date(2026, 9, 1)
     assert m1["msg_id"] == msg_id_of("discord", "1")
-    assert len(m1["author_hash"]) == 16 and int(m1["author_hash"], 16) >= 0
+    assert m1["author_id"] == "u1"  # 守密人 2026-10-03：不加盐、留原 ID
     assert m1["has_image"] is False and m1["reply_to"] is None
     m2 = rows["discord/global/channels/111/2026-09-01.jsonl:L2"]
     assert m2["reply_to"] == m1["msg_id"]  # 回复指向换成同一套 msg_id
@@ -132,7 +131,7 @@ def test_fields_and_types(lake, tmp_path):
     assert w0["has_image"] is None  # 判断不了附件
     assert w0["msg_id"] != msg_id_of("weibo", "")
     w1 = rows["weibo/2026-09-02.json#1"]
-    assert w1["author_hash"] is None and w1["parent_text"] is None
+    assert w1["author_id"] is None and w1["parent_text"] is None
     yt = rows["youtube_comments/2026-09-02.json#0"]
     assert (
         yt["parent_ref"] == "video:v1"
@@ -145,7 +144,7 @@ def test_author_id_preferred_over_name_q8(lake, tmp_path):
     data = tmp_path / "out"
     run(lake, data)
     w0 = rows_by_ref(data)["weibo/2026-09-02.json#0"]
-    assert w0["author_hash"] == author_hash(SALT, "weibo", "w42")  # metadata.author_id，不是昵称
+    assert w0["author_id"] == "w42"  # metadata.author_id，不是昵称
 
 
 def test_rerun_is_stable_and_incremental(lake, tmp_path):
@@ -182,16 +181,14 @@ def test_raw_ref_resolves_back(lake, tmp_path):
         assert text == r["text"]
 
 
-def test_salt_same_person_same_hash_other_salt_differs(lake, tmp_path):
-    a, b = tmp_path / "a", tmp_path / "b"
-    run(lake, a, "salt-one")
-    run(lake, b, "salt-two")
-    ra, rb = rows_by_ref(a), rows_by_ref(b)
+def test_same_person_same_author_id(lake, tmp_path):
+    data = tmp_path / "out"
+    run(lake, data)
+    ra = rows_by_ref(data)
     u1 = ["discord/global/channels/111/2026-09-01.jsonl:L1", "discord/global/channels/111/2026-08-31.jsonl.gz:L1",
           "discord/jp/channels/222/2026-09-01.jsonl:L1"]  # fmt: skip
-    assert len({ra[k]["author_hash"] for k in u1}) == 1  # 同盐同人
-    assert ra[u1[0]]["author_hash"] != ra["discord/global/channels/111/2026-09-01.jsonl:L2"]["author_hash"]
-    assert ra[u1[0]]["author_hash"] != rb[u1[0]]["author_hash"]  # 换盐不同
+    assert {ra[k]["author_id"] for k in u1} == {"u1"}
+    assert ra["discord/global/channels/111/2026-09-01.jsonl:L2"]["author_id"] == "u2"
 
 
 def test_no_author_names_in_outputs(lake, tmp_path):
@@ -204,7 +201,7 @@ def test_no_author_names_in_outputs(lake, tmp_path):
         for col in t.columns:
             if pa.types.is_string(col.type):
                 cells += [v for v in col.to_pylist() if v]
-    for name in [*NAMES, "SomeBot", "u1", "w42", "bot1"]:
+    for name in [*NAMES, "SomeBot"]:  # 显示名不进产出（账号 ID 照留）
         assert name.encode("utf-8") not in blob
         assert not any(name in c for c in cells)
 
@@ -224,12 +221,9 @@ def test_select_files_filters():
     assert len(select_files(fs, since="2026-09-02")) == 1
 
 
-def test_cli_requires_salt_and_runs(lake, tmp_path, monkeypatch, capsys):
+def test_cli_runs_without_salt(lake, tmp_path, monkeypatch, capsys):
     monkeypatch.setenv("DATA_ROOT", str(tmp_path / "out"))
     monkeypatch.delenv("AUTHOR_SALT", raising=False)
-    assert cli.main(["normalize", "--lake", str(lake)]) == 2
-    assert "AUTHOR_SALT" in capsys.readouterr().err
-    monkeypatch.setenv("AUTHOR_SALT", SALT)
     assert cli.main(["normalize", "--lake", str(lake), "--platform", "discord"]) == 0
     out = capsys.readouterr().out
     assert "新增 6 行" in out

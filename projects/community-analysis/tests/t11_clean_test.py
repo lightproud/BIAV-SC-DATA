@@ -25,11 +25,10 @@ from yuqing.normalize.clean import (
     norm_text,
     route_of,
 )
-from yuqing.normalize.messages import MESSAGES_SCHEMA, author_hash
+from yuqing.normalize.messages import MESSAGES_SCHEMA
 from yuqing.normalize.run import messages_root
 from yuqing.normalize.store import parquet_files, read_rows, write_partitioned
 
-SALT = "test-salt-not-real"
 T0 = datetime(2026, 9, 1, 4, 0, tzinfo=UTC)
 PARAMS = load_config(environ={}).params
 
@@ -46,7 +45,7 @@ def m(author: str | None, text: str, sec: float = 0, *, channel="c1", kind="chat
         "server": None,
         "channel": channel,
         "kind": kind,
-        "author_hash": author_hash(SALT, "discord", author) if author else None,
+        "author_id": author,
         "ts_utc": ts,
         "day_cn": date(2026, 9, 1),
         "text": text,
@@ -67,7 +66,7 @@ def m(author: str | None, text: str, sec: float = 0, *, channel="c1", kind="chat
 def run_clean(tmp_path, rows: list[dict], bots=None) -> dict[str, dict]:
     data = tmp_path / "data"
     write_partitioned(messages_root(data), rows, MESSAGES_SCHEMA, f"t{len(list(data.rglob('*.parquet')))}")
-    res = clean(data, PARAMS, SALT, bots)
+    res = clean(data, PARAMS, bots)
     got = {r["msg_id"]: r for r in read_rows(flags_root(data, res.clean_ver))}
     return got
 
@@ -161,15 +160,15 @@ def test_nothing_deleted_and_append_only(tmp_path):
     rows = [m("a", "第一句"), m("a", "第一句", 1), m(None, "", 2)]
     data = tmp_path / "data"
     write_partitioned(messages_root(data), rows, MESSAGES_SCHEMA, "a")
-    r1 = clean(data, PARAMS, SALT)
+    r1 = clean(data, PARAMS)
     assert r1.written == 3 and r1.total == 3  # 每条都有一行标记
     files1 = parquet_files(flags_root(data, r1.clean_ver))
     snap = {p: p.read_bytes() for p in files1}
-    r2 = clean(data, PARAMS, SALT)
+    r2 = clean(data, PARAMS)
     assert r2.written == 0 and parquet_files(flags_root(data, r2.clean_ver)) == files1
     assert all(p.read_bytes() == b for p, b in snap.items())  # 旧文件不动
     write_partitioned(messages_root(data), [m("b", "新来的一句", 3)], MESSAGES_SCHEMA, "b")
-    r3 = clean(data, PARAMS, SALT)
+    r3 = clean(data, PARAMS)
     assert r3.written == 1 and len(read_rows(flags_root(data, r3.clean_ver))) == 4
     for p in files1:
         assert pq.read_table(p).column("clean_ver").to_pylist()[0] == r1.clean_ver
@@ -187,7 +186,7 @@ def test_report_and_noise_daily_are_group_level(tmp_path):
     rows = [m(f"u{i}", "<:ok:1>", i) for i in range(6)] + [m("z", "", 50, has_image=True), m("z", "说点正事", 60)]
     data = tmp_path / "data"
     write_partitioned(messages_root(data), rows, MESSAGES_SCHEMA, "a")
-    res = clean(data, PARAMS, SALT)
+    res = clean(data, PARAMS)
     rep = json.loads(res.report_path.read_text(encoding="utf-8"))
     assert rep["total"] == 8
     assert rep["routes"]["context_only"]["n"] == 7 and rep["routes"]["annotate"]["n"] == 1
@@ -195,7 +194,7 @@ def test_report_and_noise_daily_are_group_level(tmp_path):
     assert rep["flags"]["emoji_only"]["n"] == 6 and rep["image_only"]["n"] == 1
     noise = read_rows(noise_root(data, res.clean_ver))
     cols = set(noise[0])
-    assert "author_hash" not in cols and cols >= {"platform", "channel", "day_cn", "flag", "n_msgs", "n_authors"}
+    assert "author_id" not in cols and cols >= {"platform", "channel", "day_cn", "flag", "n_msgs", "n_authors"}
     by_flag = {r["flag"]: r for r in noise}
     assert by_flag["emoji_only"]["n_msgs"] == 6 and by_flag["emoji_only"]["n_authors"] == 6
     assert by_flag["image_only"]["n_msgs"] == 1 and by_flag["image_only"]["n_authors"] is None  # 不足 5 人只给条数
@@ -206,7 +205,6 @@ def test_cli_clean(tmp_path, monkeypatch, capsys):
     data = tmp_path / "data"
     write_partitioned(messages_root(data), [m("a", "一句话")], MESSAGES_SCHEMA, "a")
     monkeypatch.setenv("DATA_ROOT", str(data))
-    monkeypatch.setenv("AUTHOR_SALT", SALT)
     assert cli.main(["clean"]) == 0
     assert "送标 100.00%" in capsys.readouterr().out
 
@@ -221,7 +219,7 @@ def test_resighted_message_flagged_once_from_earliest_row(tmp_path):
     }
     data = tmp_path / "data"
     write_partitioned(messages_root(data), [again, first], MESSAGES_SCHEMA, "a")
-    res = clean(data, PARAMS, SALT)
+    res = clean(data, PARAMS)
     flags = read_rows(flags_root(data, res.clean_ver))
     assert len(flags) == 1 and flags[0]["day_cn"] == date(2026, 9, 1)  # 只打一次标，取最早那一行
     assert flags[0]["route"] == ROUTE_ANNOTATE and flags[0]["flags"] == []
