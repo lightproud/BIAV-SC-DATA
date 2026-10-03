@@ -622,6 +622,20 @@
       "title": "[Morimens] How to play Liz [Guide]",
       "time": "2026-10-02T19:12:01Z",
       "downloaded_at": "2026-10-02T21:35:21.825835+00:00"
+    },
+    "https://i.ytimg.com/vi/1GonZ86GHWE/hqdefault.jpg": {
+      "filename": "youtube_7b782b53d7205d03.jpg",
+      "source": "youtube",
+      "title": "La ruleta decide nuestro equipo 💀 | Directo relax Morimens",
+      "time": "2026-10-02T22:28:55Z",
+      "downloaded_at": "2026-10-03T02:53:04.074786+00:00"
+    },
+    "https://i.ytimg.com/vi/9hSjD1tz3EY/hqdefault.jpg": {
+      "filename": "youtube_3019b6f1c94b6f44.jpg",
+      "source": "youtube",
+      "title": "𝗺𝗶𝗿𝘆𝗮𝗺 💜 ( ๓໐ri๓ēຖŞ ē໓it ) #fyp #edit #viral #morimens",
+      "time": "2026-10-03T00:23:32Z",
+      "downloaded_at": "2026-10-03T02:53:04.437524+00:00"
     }
   },
   "failed": {
@@ -779,6 +793,11 @@
       "source": "bilibili",
       "reason": "download_failed",
       "attempted_at": "2026-10-02T21:35:20.931479+00:00"
+    },
+    "//i1.hdslb.com/bfs/archive/2b81f7f84c7658f7be9f01525bc071f12e0e8390.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-03T02:53:04.738388+00:00"
     }
   },
   "archived": []
