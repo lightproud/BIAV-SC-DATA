@@ -61,3 +61,10 @@
 5. **第 4 步切片回标**：Discord 最大频道 × 2026 年 7–9 月，862,228 条（占同期 Discord 2,160,864 条的 39.9%），约 4.05 万单元、粗估约 1,700 万 token（量级估算）；
    精确数以 T22 `--dry-run` 为准，届时另批预算。非 Discord 平台等第 2 项修好再纳入。
 6. **Q7 表情信号**：单开工单，第 5 步后做（见 Q7）。
+
+## Q8 T109 采集修复后的字段约定（2026-10-03，供 T10 用，不阻塞）
+- 微博：`author` 只放昵称（常为空），稳定用户 ID 在 `metadata.author_id`；`metadata.long_text_truncated` 标没补到全文的长微博。
+- 巴哈姆特：首帖正文进 `summary`（截 1,000 字）；补抓失败的标 `metadata.body_fetch_failed`。
+- 微信：`author` = 公众号名，`summary` = 搜狗结果摘要（截 300 字）；文章正文因搜狗反爬未抓。
+- 建议：T10 取作者标识时按 `author_id`（含 `metadata.author_id`）→ `author` 的顺序；普查 `AUTHOR_KEYS` 也补读 `metadata.author_id`。
+- 只影响今后采集；历史条目不回补。TapTap、arca.live 采集器已于 2026-09-30 删除，这两项待守密人定是否重启。
