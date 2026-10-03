@@ -4,7 +4,7 @@
 注意只能用 api.bsky.app——public.api.bsky.app 对机房 IP 返回 403，不要改用。
 关键词：morimens / 忘却前夜 / 忘卻前夜 / モリメンス / 망각전야，逐词检索后按帖去重合并。
 
-字段落点：source=bluesky / platform_region=global；url=https://bsky.app/profile/<handle>/post/<rkey>
+字段落点：source=bluesky / platform_region=global；url=https://bsky.app/profile/<did>/post/<rkey>（did 永久不变，作者改 handle 不改去重键）
 （collect_global.dedup_key 与 archive_platforms.item_key 都是 URL 优先，故键 = 该 URL）；
 author=displayName（空则 handle），稳定用户 ID（did）放 metadata.author_id；summary=全文；
 engagement=点赞+转发+回复；time=createdAt（UTC）；lang 取帖子 langs 首项。
@@ -86,11 +86,11 @@ def _parse_time(s):
 
 
 def post_url(post):
-    """https://bsky.app/profile/<handle>/post/<rkey>；缺 handle 回落 did，缺 uri 返回空。"""
+    """https://bsky.app/profile/<did>/post/<rkey>：用 did 而非 handle，作者改名后去重键不变；缺 did 回落 handle。"""
     uri = str(post.get('uri') or '')
     rkey = uri.rsplit('/', 1)[-1] if '/app.bsky.feed.post/' in uri else ''
     author = post.get('author') or {}
-    who = author.get('handle') or author.get('did') or ''
+    who = author.get('did') or author.get('handle') or ''
     if not rkey or not who:
         return ''
     return f'https://bsky.app/profile/{who}/post/{rkey}'

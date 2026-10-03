@@ -45,7 +45,7 @@ def _resp(posts, cursor=None):
 
 def test_parse_fields_and_layout():
     item = bc.parse_post(_post('3abc'), 'morimens', CUTOFF)
-    assert item['url'] == 'https://bsky.app/profile/user-a.example.test/post/3abc'
+    assert item['url'] == 'https://bsky.app/profile/did:plc:fake0001/post/3abc'
     assert item['author'] == '自造昵称'
     assert item['metadata']['author_id'] == 'did:plc:fake0001'
     assert item['summary'] == 'this gacha game is fun morimens'
@@ -140,7 +140,7 @@ def test_all_keywords_failed_raises():
 def test_dedup_keys_stable_across_text_edits_and_keywords():
     a = bc.parse_post(_post('9z', text='morimens game v1'), 'morimens', CUTOFF)
     b = bc.parse_post(_post('9z', text='忘却前夜 game v2', name='改名'), '忘却前夜', CUTOFF)
-    want = 'https://bsky.app/profile/user-a.example.test/post/9z'
+    want = 'https://bsky.app/profile/did:plc:fake0001/post/9z'
     assert collect_global.dedup_key(a) == collect_global.dedup_key(b) == want
     assert archive_platforms.item_key(a) == archive_platforms.item_key(b) == want
 
@@ -155,3 +155,11 @@ def test_registered_as_sparse_source_and_wired():
     from pathlib import Path
     reg = json.loads((Path(sources.__file__).parent / 'tier_registry.json').read_text(encoding='utf-8'))
     assert reg['modules']['bluesky_collector']['tier'] == 'T1'
+
+
+def test_url_uses_did_so_handle_change_keeps_key():
+    a = bc.parse_post(_post('7k'), 'morimens', CUTOFF)
+    p = _post('7k')
+    p['author'] = dict(p['author'], handle='renamed.example.test')
+    b = bc.parse_post(p, 'morimens', CUTOFF)
+    assert a['url'] == b['url'] and 'did:plc:fake0001' in a['url']
