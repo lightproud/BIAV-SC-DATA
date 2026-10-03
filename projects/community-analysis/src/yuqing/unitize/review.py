@@ -1,7 +1,7 @@
 """`yuqing unitize review`（T13）：抽 N 段出单文件 HTML，让人判断「单看这一段能不能懂」。
 
 - 每段先显示段前的只读上下文（灰色），再显示正文；段内的只读上下文（纯表情、极短等）按时间夹在正文里，也是灰色。
-- 作者只显示段内代号（甲、乙、丙……），不显示名字或哈希；正文里的 Discord @提及换成段内代号或「@某人」。
+- 作者只显示段内代号（甲、乙、丙……），不显示名字或账号 ID；正文里的 Discord @提及换成段内代号或「@某人」。
 - 每段「看得懂」「看不懂」两个按钮，页面底部实时显示比例；结果可导出为一段 JSON 文本供复制。
   页面不联网、不落盘（不用 localStorage），关掉就没了。
 - 同 seed 同输入，页面逐字节相同。
@@ -21,9 +21,8 @@ from pathlib import Path
 import duckdb
 
 from yuqing.census.fields import CN_TZ
-from yuqing.config import ConfigError, check_outside_repo, load_config
+from yuqing.config import ConfigError, check_not_in_lake, load_config
 from yuqing.normalize.clean import MESSAGES_DEDUP_SQL, current_clean_ver
-from yuqing.normalize.messages import author_hash
 from yuqing.normalize.run import messages_root
 from yuqing.normalize.store import glob_of, parquet_files, read_rows
 from yuqing.unitize.run import unit_ver_of, units_root
@@ -86,25 +85,18 @@ def _hhmm(t: float | None) -> str:
     return datetime.fromtimestamp(t, tz=UTC).astimezone(CN_TZ).strftime("%m-%d %H:%M:%S") if t is not None else "--"
 
 
-def build_segment(unit: dict, msgs: dict[str, dict], platform_salt: tuple[str, str] | None) -> list[Line]:
+def build_segment(unit: dict, msgs: dict[str, dict]) -> list[Line]:
     body = [i for i in unit["msg_ids"] if i in msgs]
     ctx = [i for i in unit["ctx_msg_ids"] if i in msgs]
     order = sorted(set(body) | set(ctx), key=lambda i: (msgs[i]["t"] is None, msgs[i]["t"] or 0, i))
     in_page = set(order)
     codes: dict[str | None, str] = {}
     for i in order:
-        a = msgs[i]["author_hash"]
+        a = msgs[i]["author_id"]
         if a is not None and a not in codes:
             codes[a] = code_of(len(codes))
-    # @提及：用盐现算被提及者的哈希，是段内的人就显示代号
-    mention_codes: dict[str, str] = {}
-    if platform_salt:
-        platform, salt = platform_salt
-        for i in order:
-            for uid in _USER_MENTION.findall(msgs[i]["text"] or ""):
-                h = author_hash(salt, platform, uid)
-                if h in codes:
-                    mention_codes[uid] = codes[h]
+    # @提及：被提及者是段内的人就显示代号，否则显示「某人」
+    mention_codes = {uid: codes[uid] for uid in codes if uid is not None}
     start = unit["ts_start"].timestamp() if unit["ts_start"] else None
     body_set = set(body)
     pre = [i for i in order if i not in body_set and (start is None or msgs[i]["t"] is None or msgs[i]["t"] < start)]
@@ -118,8 +110,8 @@ def build_segment(unit: dict, msgs: dict[str, dict], platform_salt: tuple[str, s
         reply = None
         if m["reply_to"]:
             tgt = msgs.get(m["reply_to"]) if m["reply_to"] in in_page else None
-            reply = f"回复 {codes.get(tgt['author_hash'], '？')}" if tgt else "回复（不在本段）"
-        who = codes.get(m["author_hash"], "？")
+            reply = f"回复 {codes.get(tgt['author_id'], '？')}" if tgt else "回复（不在本段）"
+        who = codes.get(m["author_id"], "？")
         lines.append(Line(i, m["t"], who, _clean_text(text, mention_codes), i not in body_set, reply))
     return lines
 
@@ -224,11 +216,11 @@ def load_messages(data_root: Path, ids: set[str]) -> dict[str, dict]:
     con.executemany("INSERT INTO want VALUES (?)", [(i,) for i in sorted(ids)])
     src = MESSAGES_DEDUP_SQL.format(src=_pq(messages_root(data_root)))
     rows = con.execute(
-        f"""SELECT m.msg_id, m.platform, m.author_hash, epoch(m.ts_utc) AS t, m.text, m.reply_to, m.has_image
+        f"""SELECT m.msg_id, m.platform, m.author_id, epoch(m.ts_utc) AS t, m.text, m.reply_to, m.has_image
             FROM ({src}) m JOIN want USING (msg_id)"""
     ).fetchall()
     con.close()
-    keys = ("msg_id", "platform", "author_hash", "t", "text", "reply_to", "has_image")
+    keys = ("msg_id", "platform", "author_id", "t", "text", "reply_to", "has_image")
     return {r[0]: dict(zip(keys, r, strict=True)) for r in rows}
 
 
@@ -240,7 +232,6 @@ def review(
     day_specs: list[str] | None,
     n: int,
     seed: int,
-    salt: str | None,
 ) -> tuple[str, int]:
     root = units_root(data_root, unit_ver)
     if not parquet_files(root):
@@ -250,8 +241,7 @@ def review(
     msgs = load_messages(data_root, want)
     segments = []
     for u in units:
-        platform = next((msgs[i]["platform"] for i in u["msg_ids"] if i in msgs), None)
-        segments.append((u, build_segment(u, msgs, (platform, salt) if salt and platform else None)))
+        segments.append((u, build_segment(u, msgs)))
     meta = {
         "unit_ver": unit_ver,
         "seed": seed,
@@ -277,8 +267,8 @@ def run_cli(args: argparse.Namespace) -> int:
     data_root = cfg.data_root()
     params = cfg.params["unitize"]
     unit_ver = args.unit_ver or unit_ver_of(params, args.clean_ver or current_clean_ver(cfg))
-    out = check_outside_repo(Path(args.out), "检查页")
-    page, k = review(data_root, unit_ver, params, args.channel, args.day, args.n, args.seed, cfg.env.get("AUTHOR_SALT"))
+    out = check_not_in_lake(Path(args.out), "检查页")
+    page, k = review(data_root, unit_ver, params, args.channel, args.day, args.n, args.seed)
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(page, encoding="utf-8")
     print(f"试切检查页：{k} 段（unit_ver {unit_ver}，seed {args.seed}）→ {out}")

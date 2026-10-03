@@ -9,9 +9,8 @@ from pathlib import Path
 
 # 环境变量清单（方案「环境变量」节）。值只来自运行环境，不进仓库。
 ENV_VARS: dict[str, str] = {
-    "DATA_ROOT": "产出目录，必须在仓库之外",
+    "DATA_ROOT": "产出目录；不设则用本子项目 data/（守密人 2026-10-03：产出留仓内）",
     "LAKE_ROOT": "数据湖路径，只读",
-    "AUTHOR_SALT": "作者哈希用的盐，由人生成并保管",
     "GATEWAY_BASE_URL": "模型网关地址",
     "GATEWAY_API_KEY": "模型网关密钥",
     "MODEL_LOW": "低价档模型名",
@@ -55,12 +54,25 @@ def _is_within(path: Path, root: Path) -> bool:
     return True
 
 
-def check_outside_repo(path: Path, what: str, repo: Path | None = None) -> Path:
-    """产出目录必须在仓库之外，否则拒绝运行。"""
-    repo = repo or repo_root()
-    if _is_within(path, repo):
-        raise ConfigError(f"{what} 必须在仓库目录之外：{path} 位于 {repo} 内")
+def lake_roots(environ: dict[str, str] | None = None) -> list[Path]:
+    """数据湖所在：本仓 Record/Community，以及设了的 LAKE_ROOT。"""
+    env = os.environ if environ is None else environ
+    roots = [repo_root() / "Record" / "Community"]
+    if env.get("LAKE_ROOT"):
+        roots.append(Path(env["LAKE_ROOT"]))
+    return roots
+
+
+def check_not_in_lake(path: Path, what: str, lakes: list[Path] | None = None) -> Path:
+    """产出可以在仓库里（守密人 2026-10-03），但不能写进数据湖：原文只读。"""
+    for lake in lakes if lakes is not None else lake_roots():
+        if _is_within(path, lake):
+            raise ConfigError(f"{what} 不能放进数据湖（原文只读）：{path} 位于 {lake} 内")
     return path.resolve()
+
+
+def default_data_root() -> Path:
+    return project_root() / "data"
 
 
 def _coerce(raw: str, default: object, name: str) -> object:
@@ -84,6 +96,7 @@ def _coerce(raw: str, default: object, name: str) -> object:
 class Config:
     params: dict[str, dict[str, object]]
     env: dict[str, str] = field(default_factory=dict)
+    lakes: list[Path] | None = None
 
     def get(self, section: str, key: str) -> object:
         try:
@@ -100,7 +113,8 @@ class Config:
         return {n: self.env[n] for n in names}
 
     def data_root(self) -> Path:
-        return check_outside_repo(Path(self.require("DATA_ROOT")["DATA_ROOT"]), "DATA_ROOT")
+        path = Path(self.env["DATA_ROOT"]) if self.env.get("DATA_ROOT") else default_data_root()
+        return check_not_in_lake(path, "DATA_ROOT", self.lakes)
 
 
 def load_config(path: Path | None = None, environ: dict[str, str] | None = None) -> Config:
@@ -116,7 +130,7 @@ def load_config(path: Path | None = None, environ: dict[str, str] | None = None)
             if name in environ:
                 values[key] = _coerce(environ[name], default, name)
     env = {name: environ[name] for name in ENV_VARS if environ.get(name)}
-    cfg = Config(params=params, env=env)
-    if "DATA_ROOT" in env:  # 启动即检查：设了就必须在仓库外
+    cfg = Config(params=params, env=env, lakes=lake_roots(environ))
+    if "DATA_ROOT" in env:  # 启动即检查：设了就不能在数据湖里
         cfg.data_root()
     return cfg

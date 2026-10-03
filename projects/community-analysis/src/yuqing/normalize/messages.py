@@ -2,13 +2,11 @@
 
 字段按数据契约 `messages`；另加四个后面几层要用、原文里又只有这时能取到的列：
 `parent_text`（父帖标题或本帖与正文不同的标题，T12 填 ctx_text）、`bot_flag`、`msg_type`（T11 判机器人与系统消息）、
-`norm_ver`。作者名只在这里读一次，立刻换成 HMAC 哈希，不进任何一列。
+`norm_ver`。作者存平台原生标识 `author_id`（守密人 2026-10-03：不加盐、留原 ID）；作者显示名不进任何一列。
 """
 
 from __future__ import annotations
 
-import hashlib
-import hmac
 import tomllib
 from dataclasses import dataclass
 from datetime import datetime
@@ -30,7 +28,7 @@ MESSAGES_SCHEMA = pa.schema(
         ("server", pa.string()),
         ("channel", pa.string()),
         ("kind", pa.string()),
-        ("author_hash", pa.string()),
+        ("author_id", pa.string()),
         ("ts_utc", pa.timestamp("us", tz="UTC")),
         ("day_cn", pa.date32()),
         ("text", pa.string()),
@@ -52,11 +50,6 @@ _SCRIPT_LANG = {"zh": "zh", "ja": "ja", "ko": "ko", "cyrillic": "ru", "thai": "t
 # 有附件字段的平台：字段缺省即「没有附件」（紧凑存法），能判断；其余平台判断不了，留空
 _ATTACHMENT_PLATFORMS = frozenset({"discord"})
 _STICKER_KEYS = ("stickers", "sticker_items")
-
-
-def author_hash(salt: str, platform: str, ident: str) -> str:
-    mac = hmac.new(salt.encode("utf-8"), f"{platform}\x1f{ident}".encode(), hashlib.sha256)
-    return mac.hexdigest()[:16]
 
 
 def msg_id_of(platform: str, native_id: str) -> str:
@@ -194,7 +187,7 @@ def _parent(rec: dict, text: str) -> tuple[str | None, str | None]:
     return None, None
 
 
-def to_row(f: LakeFile, no: int, rec: dict, salt: str, communities: Communities) -> dict:
+def to_row(f: LakeFile, no: int, rec: dict, communities: Communities) -> dict:
     platform = f.platform
     ref = raw_ref_of(f, no)
     nid = native_id(rec)
@@ -218,7 +211,7 @@ def to_row(f: LakeFile, no: int, rec: dict, salt: str, communities: Communities)
         "server": server,
         "channel": _channel(f),
         "kind": f.kind,
-        "author_hash": author_hash(salt, platform, ident) if ident is not None else None,
+        "author_id": ident,
         "ts_utc": dt,
         "day_cn": datetime.strptime(day, "%Y-%m-%d").date(),  # noqa: DTZ007 只取日期
         "text": text,

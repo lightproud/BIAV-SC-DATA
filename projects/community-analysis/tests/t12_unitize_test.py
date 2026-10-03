@@ -15,13 +15,12 @@ import pytest
 from yuqing import cli
 from yuqing.config import load_config
 from yuqing.normalize.clean import clean
-from yuqing.normalize.messages import MESSAGES_SCHEMA, author_hash
+from yuqing.normalize.messages import MESSAGES_SCHEMA
 from yuqing.normalize.run import messages_root
 from yuqing.normalize.store import parquet_files, read_rows, write_partitioned
 from yuqing.unitize.run import unit_id_of, unit_ver_of, unitize, units_root
 from yuqing.unitize.segment import ANNOTATE, CONTEXT, Msg, segment_chat
 
-SALT = "test-salt-not-real"
 T0 = datetime(2026, 9, 1, 4, 0, tzinfo=UTC)
 PARAMS = load_config(environ={}).params
 UP = PARAMS["unitize"]
@@ -114,7 +113,7 @@ def row(author, text, sec, *, channel="c1", kind="chat", reply_to=None, parent_r
         "server": "global",
         "channel": channel,
         "kind": kind,
-        "author_hash": author_hash(SALT, "discord", author),
+        "author_id": author,
         "ts_utc": ts,
         "day_cn": (ts + timedelta(hours=8)).date(),
         "text": text,
@@ -133,7 +132,7 @@ def row(author, text, sec, *, channel="c1", kind="chat", reply_to=None, parent_r
 def build(tmp_path, rows):
     data = tmp_path / "data"
     write_partitioned(messages_root(data), rows, MESSAGES_SCHEMA, "a")
-    cv = clean(data, PARAMS, SALT).clean_ver
+    cv = clean(data, PARAMS).clean_ver
     return data, cv
 
 
@@ -197,7 +196,7 @@ def test_rerun_stable_and_param_change_new_version(tmp_path):
     assert r2.unit_ver == r1.unit_ver and r2.written == 0 and parquet_files(r2.root) == files1
     other = tmp_path / "other"
     write_partitioned(messages_root(other), rows, MESSAGES_SCHEMA, "a")
-    clean(other, PARAMS, SALT)
+    clean(other, PARAMS)
     r_other = unitize(other, UP, cv, replay=True)
     assert sorted(u["unit_id"] for u in read_rows(r_other.root)) == ids1  # 换目录重跑编号也一样
     changed = {**UP, "max_msgs": 5}
@@ -218,7 +217,6 @@ def test_requires_clean_first(tmp_path):
 def test_cli_unitize(tmp_path, monkeypatch, capsys):
     data, _ = build(tmp_path, [row("a", "一句正经话", 0)])
     monkeypatch.setenv("DATA_ROOT", str(data))
-    monkeypatch.setenv("AUTHOR_SALT", SALT)
     assert cli.main(["unitize", "--replay"]) == 0
     assert "共 1 段" in capsys.readouterr().out
     assert units_root(data, unit_ver_of(UP, _)).is_dir()

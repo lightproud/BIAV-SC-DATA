@@ -12,7 +12,7 @@ from collections.abc import Iterable
 from dataclasses import dataclass, field
 from pathlib import Path
 
-from yuqing.config import Config, ConfigError, check_outside_repo, load_config, project_root
+from yuqing.config import Config, ConfigError, load_config, project_root
 from yuqing.lake.layout import LakeFile, discover
 from yuqing.lake.reader import LakeReader
 from yuqing.normalize.messages import MESSAGES_SCHEMA, Communities, to_row
@@ -73,7 +73,6 @@ def select_files(
 def normalize(
     lake: Path,
     data_root: Path,
-    salt: str,
     communities: Communities,
     files: list[LakeFile] | None = None,
 ) -> NormalizeResult:
@@ -117,7 +116,7 @@ def normalize(
             if rec.get("__bad__"):
                 res.bad_records += 1
                 continue
-            buf.append(to_row(f, no, rec, salt, communities))
+            buf.append(to_row(f, no, rec, communities))
             added += 1
         if last > done:
             res.files_read += 1
@@ -179,14 +178,12 @@ def add_args(p: argparse.ArgumentParser) -> None:
 
 def run_cli(args: argparse.Namespace) -> int:
     cfg = load_config()
-    salt = cfg.require("AUTHOR_SALT")["AUTHOR_SALT"]
     data_root = cfg.data_root()
     lake = Path(args.lake) if args.lake else default_lake(cfg)
     if not lake.is_dir():
         raise ConfigError(f"数据湖目录不存在：{lake}")
-    check_outside_repo(data_root, "DATA_ROOT")
     files = select_files(discover(lake).files, args.platform, args.path, args.since, args.until)
-    res = normalize(lake, data_root, salt, Communities.load(communities_path()), files)
+    res = normalize(lake, data_root, Communities.load(communities_path()), files)
     print(
         f"规范化完成：扫描 {res.files_seen:,} 个文件，读入新内容 {res.files_read:,} 个，"
         f"新增 {res.rows:,} 行，坏记录 {res.bad_records:,} 条，写出 {len(res.parts):,} 个分区文件。"

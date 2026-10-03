@@ -11,7 +11,7 @@ from pathlib import Path
 import pytest
 
 from yuqing import cli
-from yuqing.config import ConfigError, check_outside_repo, load_config, project_root
+from yuqing.config import ConfigError, check_not_in_lake, load_config, project_root, repo_root
 
 ROOT = Path(__file__).resolve().parent.parent
 EXPECTED_SUBCOMMANDS = [
@@ -54,18 +54,22 @@ def test_missing_required_names_the_variable():
         cfg.require("LAKE_ROOT")
 
 
-def test_data_root_inside_repo_refused():
+def test_data_root_defaults_to_project_data_and_refuses_lake():
+    # 守密人 2026-10-03：产出留仓内；只是不能写进数据湖（原文只读）
+    assert load_config(environ={}).data_root() == (project_root() / "data").resolve()
     with pytest.raises(ConfigError, match="DATA_ROOT"):
-        load_config(environ={"DATA_ROOT": str(project_root() / "data")})
+        load_config(environ={"DATA_ROOT": str(repo_root() / "Record" / "Community" / "out")})
 
 
-def test_data_root_outside_repo_accepted(tmp_path):
+def test_data_root_anywhere_but_lake(tmp_path):
     repo = tmp_path / "repo"
     (repo / ".git").mkdir(parents=True)
     outside = tmp_path / "data"
-    assert check_outside_repo(outside, "DATA_ROOT", repo) == outside.resolve()
+    lake = repo / "lake"
+    assert check_not_in_lake(outside, "DATA_ROOT", [lake]) == outside.resolve()
+    assert check_not_in_lake(repo / "out", "DATA_ROOT", [lake]) == (repo / "out").resolve()
     with pytest.raises(ConfigError):
-        check_outside_repo(repo / "out", "DATA_ROOT", repo)
+        check_not_in_lake(lake / "out", "DATA_ROOT", [lake])
 
 
 def test_cli_registers_all_subcommands():
