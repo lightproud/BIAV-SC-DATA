@@ -180,7 +180,8 @@ def run_zero_cost_collectors() -> list[dict]:
     api_fetchers = [
         ('YouTube', c.fetch_youtube),
         ('Bahamut', c.fetch_bahamut),
-        # Arca.live / TapTap 采集器已整体删除（守密人 2026-09-30 裁定删除两个断档源）
+        ('Arca.live', c.fetch_arca_live),  # 守密人 2026-10-03 裁定重启（arca_live_collector.py）
+        # TapTap 采集器已整体删除（守密人 2026-09-30 裁定）
         ('Google Play', c.fetch_google_play),
     ]
 
@@ -196,6 +197,7 @@ def run_zero_cost_collectors() -> list[dict]:
         'StopGame': 'stopgame', '搜狗微信': 'weixin', 'PR TIMES': 'prtimes', '4Gamer': 'four_gamer',
         'YouTube': 'youtube',
         'Bahamut': 'bahamut',
+        'Arca.live': 'arca_live',
         'Google Play': 'google_play',
     }
 

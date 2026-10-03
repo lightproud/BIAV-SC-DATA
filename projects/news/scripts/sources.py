@@ -37,6 +37,7 @@ KNOWN_SOURCES = [
     'four_gamer',
     # 韩语扩展
     'ruliweb',
+    'arca_live',   # 守密人 2026-10-03 裁定重启
     # 俄语平台
     'stopgame',
     # 中文补充
@@ -46,19 +47,17 @@ KNOWN_SOURCES = [
 # 零产出、归档目录从未存在（syndication 接口 API 墙）。采集器 fetch_twitter 保留在
 # global_collectors 但不再入 collect_global 编排；未来要采集须重新登记并接回编排。
 #
-# arca_live 已摘除（守密人 2026-08-16 裁定，明文放弃）：Cloudflare 三路封死 Actions
-# 机房 IP（HTTP 403 / PW 挑战页超时 / App API 403）。2026-07-10 方案 2 本要改由每日
-# 云端例程绕行，但那条 Routine 从未建立——数据停在 2026-07-11，归档共 10 个文件。
-# 韩区实际声量主要在 YouTube 创作者侧而非 arca，为它单挂一条云端例程投入产出不成立。
+# arca_live 曾于 2026-08-16 摘除（Cloudflare 封 Actions 机房 IP）、2026-09-30 采集器整体删除；
+# **守密人 2026-10-03 裁定重启**（推翻删除裁定）：容器机房 IP 实测带桌面浏览器 UA 的列表页 / 帖子页均 200，
+# 采集器重写为 arca_live_collector.py（列表 + 首帖正文补抓，挑战页识别降级），回归正常源（已出遗留源）。
+# 历史归档 Record/Community/arca_live/（2026-07-01~07-11）只读，新产出同构落回同目录。
+# 风险：Actions 运行机 IP 段仍可能被拦——被拦时列表返回空、不拖垮整轮，由静默源审计告警。
 #
-# arca_live / taptap 采集器整体删除（守密人 2026-09-30 裁定删除两个断档源）：
-#   - arca_live 自 2026-07-11 无数据（原靠已不存在的 Claude Code 例程日采）——
-#     fetch_arca_live / fetch_arca_live_playwright / backfill_arca_live / collect_arca_daily.py 均删；
-#   - taptap 族（taptap / taptap_review / taptap_post）自 2026-08-25 无成功——
-#     taptap_collector.py / fetch_taptap / fetch_taptap_playwright / backfill_taptap 均删。
-# 历史归档 Record/Community/arca_live/、taptap/ 保留不动；archive_layout 的 taptap
+# taptap 族（taptap / taptap_review / taptap_post）采集器整体删除（守密人 2026-09-30 裁定）：
+#   自 2026-08-25 无成功——taptap_collector.py / fetch_taptap / fetch_taptap_playwright / backfill_taptap 均删。
+# 历史归档 Record/Community/taptap/ 保留不动；archive_layout 的 taptap
 # 读侧布局映射（taptap_review 折叠认领 review/ 子目录）保留，读方照常可读历史档。
-# 两源归档目录在静默源审计里归入「遗留源（有归档但未注册采集）」只读展示，不再告警。
+# taptap 归档目录在静默源审计里归入「遗留源（有归档但未注册采集）」只读展示，不再告警。
 
 # 原始源名 → 规范源名
 SOURCE_ALIASES = {
@@ -74,7 +73,7 @@ SPARSE_SOURCES = {
     'weixin',
     'pixiv',
     'stopgame',
-    'note_com', 'ruliweb', 'bahamut',   # arca_live / taptap 族已删（2026-09-30）
+    'note_com', 'ruliweb', 'bahamut', 'arca_live',   # taptap 族已删（2026-09-30）
     'discord',
 }
 
@@ -101,7 +100,7 @@ AUTH_GATED = {
 ARCHIVE_PLATFORMS = [s for s in KNOWN_SOURCES if s != 'discord']
 
 # backfill_platforms.py 的 PLATFORM_BACKFILLERS 实际支持的源（务必与之同步）
-# arca_live / taptap 回填器已随源删除（2026-09-30）。
+# taptap 回填器已随源删除（2026-09-30）；arca_live 重启（2026-10-03）暂无回填器。
 BACKFILL_PLATFORMS = [
     'bilibili', 'appstore', 'steam_review',
     'pixiv', 'ruliweb', 'weixin',
