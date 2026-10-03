@@ -636,6 +636,13 @@
       "title": "𝗺𝗶𝗿𝘆𝗮𝗺 💜 ( ๓໐ri๓ēຖŞ ē໓it ) #fyp #edit #viral #morimens",
       "time": "2026-10-03T00:23:32Z",
       "downloaded_at": "2026-10-03T02:53:04.437524+00:00"
+    },
+    "https://i.ytimg.com/vi/zgiNKNaWZrY/hqdefault.jpg": {
+      "filename": "youtube_a0aa8324a6aa57fc.jpg",
+      "source": "youtube",
+      "title": "ESSE JOGO TEM ALMA OU É SÓ MAIS UM FEITO POR IA?",
+      "time": "2026-10-02T14:37:48Z",
+      "downloaded_at": "2026-10-03T08:43:20.275047+00:00"
     }
   },
   "failed": {
@@ -798,6 +805,26 @@
       "source": "bilibili",
       "reason": "download_failed",
       "attempted_at": "2026-10-03T02:53:04.738388+00:00"
+    },
+    "//i1.hdslb.com/bfs/archive/9cadfd190ee6fd5484e05c89f1068a15b2cc6ff5.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-03T08:43:19.226537+00:00"
+    },
+    "//i1.hdslb.com/bfs/archive/c8a657eb3c128bdfaab468373ccb789ec7eab8e4.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-03T08:43:19.527070+00:00"
+    },
+    "//i1.hdslb.com/bfs/archive/6793813f1f64625e28d729f9c7ee8c5178abb5e3.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-03T08:43:19.827577+00:00"
+    },
+    "//i2.hdslb.com/bfs/archive/e99fe3fdb2ccbf6908c30348f78378e4e193dbe6.jpg": {
+      "source": "bilibili",
+      "reason": "download_failed",
+      "attempted_at": "2026-10-03T08:43:20.575532+00:00"
     }
   },
   "archived": []
