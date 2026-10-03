@@ -13,6 +13,11 @@ on:
   schedule:
     - cron: '15 */3 * * *'
   workflow_dispatch:
+    inputs:
+      refetch_months:
+        description: '定向重抓月份（逗号分隔 YYYY-MM，如 2026-02）；留空 = 常规增量归档'
+        required: false
+        default: ''
 
 concurrency:
   group: discord-archive-volunteer-${{ github.ref }}
@@ -67,7 +72,14 @@ jobs:
         env:
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
           DISCORD_GUILD_ID: ${{ env.VOLUNTEER_GUILD_ID }}
-        run: python projects/news/scripts/discord_archiver.py
+          # 经 env 传入，不把输入直接拼进 shell（防注入）；格式由脚本校验
+          REFETCH_MONTHS: ${{ github.event.inputs.refetch_months }}
+        run: |
+          if [ -n "${REFETCH_MONTHS:-}" ]; then
+            python projects/news/scripts/discord_archiver.py --refetch-months "$REFETCH_MONTHS"
+          else
+            python projects/news/scripts/discord_archiver.py
+          fi
 
       - name: Commit and push if changed → BIAV-SC-DATA
         run: |
