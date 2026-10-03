@@ -1,0 +1,34 @@
+# 参数与阈值。环境变量 YUQING_<段>_<键> 可覆盖（如 YUQING_UNITIZE_GAP_MINUTES=15）。
+# 标「占位值」的须在金标集上校准。
+
+[unitize]
+gap_minutes = 10        # 相邻两句超过这个间隔就切段；G0 后按间隔分布调
+max_msgs = 30           # 一段正文的条数上限
+overlap_msgs = 5        # 每段开头附上前一段最后几句作只读上下文
+seal_minutes = 30       # 静默多久才封口送标
+
+[clean]
+same_author_window_hours = 24   # 同作者重复的判定窗口
+long_repost_min_chars = 60      # 多长的相同文字算原样转贴
+
+[annotate]
+units_per_call = 20     # 每次调用装几个单元；金标集上比较 1、10、20
+low_conf = 0.6          # 低于它就交中档模型复核；占位值
+
+[issues]
+tau_hi = 0.80           # 直归门槛；占位值
+tau_lo = 0.60           # 进未归属池门槛；占位值
+min_points = 20         # 成为候选议题的规模门槛
+min_authors = 10
+
+[lifecycle]
+emerging_hours = 72     # 萌芽期时长
+cooling_ratio = 0.2     # 低于峰值的这个比例算消退
+dormant_days = 30       # 多久没有新反馈点算沉寂
+
+[privacy]
+min_authors_cell = 5    # 小样本保护的人数下限
+
+[budget]
+tokens_per_run = 0      # 0 表示未设置；未设置时拒绝调用真模型
+tokens_per_day = 0

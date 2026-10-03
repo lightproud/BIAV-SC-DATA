@@ -1,0 +1,15 @@
+[
+ {
+  "comment_id": "c1",
+  "text": "Nice video test",
+  "author": "测试壬",
+  "published_at": "2026-09-01T12:00:00Z"
+ },
+ {
+  "comment_id": "c2",
+  "text": "Reply test",
+  "author": "测试癸",
+  "published_at": "2026-09-01T12:05:00Z",
+  "parent_id": "c1"
+ }
+]
