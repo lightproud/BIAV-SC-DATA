@@ -29,7 +29,8 @@ SECRET_KEYS = {"author_name", "author", "screen_name", "content", "text", "revie
 
 
 def _params() -> dict:
-    return load_config(environ={}).params
+    # 小样本期望值按 gap_minutes=10 手算；G0 把默认改成 2 后在此钉住，免得参数调整牵动普查回归
+    return load_config(environ={"YUQING_UNITIZE_GAP_MINUTES": "10"}).params
 
 
 def _result() -> dict:
