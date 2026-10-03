@@ -1,10 +1,24 @@
 {
   "date": "2026-02-24",
-  "messages": 9488,
+  "messages": 14501,
   "unique_authors": 193,
-  "reactions_total": 1337,
-  "attachments": 315,
+  "reactions_total": 1778,
+  "attachments": 590,
   "channel_activity": {
+    "🔸phòng-chat-tiếng-việt": 1827,
+    "🔸canal-español": 272,
+    "🔸canal-português": 685,
+    "🔸ruang-obrolan-indonesia": 119,
+    "🔸ห้องสนทนาภาษาไทย": 270,
+    "🔸traphase": 235,
+    "🔸lore-chat": 123,
+    "🔸频道建议┊server-suggestions": 2,
+    "🔸team-building": 510,
+    "🔸general-chat": 247,
+    "🔸邀请码互助┊swap-invitation-codes": 8,
+    "🐱light’s-nest": 1,
+    "🔸game-question": 675,
+    "🔸机器人命令┊bot-commands": 39,
     "🔸綜合討論": 1467,
     "🔸阵容构建": 25,
     "🔸morimens-game-chat": 7626,
@@ -21,37 +35,45 @@
     "🔸lets-count": 20
   },
   "hourly_activity": {
-    "0": 254,
-    "1": 451,
-    "2": 380,
-    "3": 522,
-    "6": 436,
-    "7": 824,
-    "8": 510,
-    "9": 159,
-    "10": 342,
-    "11": 687,
-    "12": 361,
-    "13": 497,
-    "14": 483,
-    "15": 348,
-    "16": 460,
-    "17": 129,
-    "18": 120,
-    "19": 504,
-    "20": 172,
-    "21": 327,
-    "22": 447,
-    "23": 666,
-    "4": 146,
-    "5": 263
+    "0": 1096,
+    "1": 1420,
+    "2": 785,
+    "4": 196,
+    "6": 484,
+    "8": 629,
+    "9": 380,
+    "10": 516,
+    "11": 810,
+    "12": 404,
+    "13": 665,
+    "14": 709,
+    "15": 449,
+    "17": 213,
+    "18": 179,
+    "19": 559,
+    "20": 342,
+    "21": 530,
+    "22": 631,
+    "23": 1061,
+    "3": 709,
+    "5": 353,
+    "7": 875,
+    "16": 506
   },
   "message_types": {
-    "0": 6424,
-    "19": 3056,
-    "20": 8
+    "0": 10010,
+    "19": 4477,
+    "20": 14
   },
   "top_reacted_messages": [
+    {
+      "id": "1475522650875887760",
+      "channel_id": "1426837316533747823",
+      "content": "Adorable fan art from Remon (@noty_forget) on X! Is this the most characters I’v",
+      "author": "game.producer.light",
+      "reactions": 155,
+      "channel": "🐱light’s-nest"
+    },
     {
       "id": "1475575350925725828",
       "channel_id": "1475575350925725828",
@@ -77,12 +99,36 @@
       "channel": ""
     },
     {
+      "id": "1475581486693617905",
+      "channel_id": "1300659662311526512",
+      "content": "Sirven estas dos?",
+      "author": "hectorwolffox",
+      "reactions": 12,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1475532112840097873",
+      "channel_id": "1300659603993923644",
+      "content": "thế tuii chs ... nhá",
+      "author": "hoangziet.",
+      "reactions": 11,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
       "id": "1475637490676404409",
       "channel_id": "1170692781216378960",
       "content": "IM THE STUPIDEST PERSON HERE",
       "author": "spooky_penguin_",
       "reactions": 8,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475857859333066895",
+      "channel_id": "1326453763355185215",
+      "content": "I PLAY MORIMENS FOR THE PLOT",
+      "author": "thymcguffinoomf",
+      "reactions": 6,
+      "channel": "🔸lore-chat"
     },
     {
       "id": "1475522959618867293",
@@ -177,38 +223,6 @@
       "channel_id": "1170692781216378960",
       "content": "i managed to get a5 <:Murphy_satisfy:1468258389850193960>",
       "author": "chinkeeyong",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1475861170836734086",
-      "channel_id": "1170692781216378960",
-      "content": "xu was so mid",
-      "author": "princess.goth",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1475864839883853955",
-      "channel_id": "1170692781216378960",
-      "content": "six seven brought me back to life",
-      "author": "bagels5899",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1475872307175227422",
-      "channel_id": "1170692781216378960",
-      "content": "Residents of this discord have a weird habit of assuming that everyone is female",
-      "author": "sirtealot",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1475884557088587909",
-      "channel_id": "1170692781216378960",
-      "content": "Run Aequor",
-      "author": "frosthief",
       "reactions": 5,
       "channel": "🔸morimens-game-chat"
     }

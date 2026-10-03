@@ -1,0 +1,246 @@
+{
+  "date": "2026-03-04",
+  "messages": 11198,
+  "unique_authors": 224,
+  "reactions_total": 2978,
+  "attachments": 403,
+  "channel_activity": {
+    "🔸綜合討論": 549,
+    "🔸阵容构建": 169,
+    "🔸morimens-game-chat": 10336,
+    "1478648573959606292": 29,
+    "1471675733301788856": 2,
+    "1464565649803186217": 4,
+    "1456019117805932636": 3,
+    "1471356257708408843": 3,
+    "1455882869410103458": 2,
+    "1477717724615544870": 2,
+    "1441326394817908736": 1,
+    "1472375569919381729": 2,
+    "1472831885519618201": 2,
+    "🔸服务器公告┊server-announcement": 3,
+    "1241345906826153984": 1,
+    "1478779212377751775": 2,
+    "1450337762829144255": 3,
+    "1466474773830959144": 1,
+    "1478662167031971860": 5,
+    "1471903688032522388": 3,
+    "1455874176534712330": 1,
+    "1471083811935617105": 1,
+    "1473060193242845216": 2,
+    "1477936435343527947": 2,
+    "1478270401644859463": 3,
+    "1466475080245842064": 2,
+    "1478496000959316059": 5,
+    "🔸游戏问题": 2,
+    "1478231405552210053": 3,
+    "1471097648554442878": 1,
+    "1473976132058746901": 2,
+    "1467308113660215326": 1,
+    "1465417385170309318": 1,
+    "1478034582472360067": 24,
+    "1466793227372724398": 2,
+    "1478399593183186997": 2,
+    "1477167202884124722": 1,
+    "1478623865986093219": 1,
+    "1455453095592071269": 1,
+    "1475923875392131273": 2,
+    "1476239209596457141": 3,
+    "1468895834199298215": 12,
+    "1478386943799857172": 2
+  },
+  "hourly_activity": {
+    "0": 591,
+    "1": 560,
+    "2": 622,
+    "4": 335,
+    "6": 133,
+    "7": 101,
+    "9": 387,
+    "10": 214,
+    "11": 83,
+    "12": 149,
+    "13": 200,
+    "14": 1013,
+    "15": 674,
+    "16": 481,
+    "17": 558,
+    "18": 810,
+    "19": 955,
+    "20": 643,
+    "21": 456,
+    "22": 544,
+    "23": 510,
+    "3": 527,
+    "5": 400,
+    "8": 252
+  },
+  "message_types": {
+    "0": 6662,
+    "19": 4519,
+    "4": 16,
+    "20": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1478634567639240795",
+      "channel_id": "1354754985119846581",
+      "content": "Although some of the above behaviors occurred outside of this discord server, th",
+      "author": "morimensstaff01",
+      "reactions": 440,
+      "channel": "🔸服务器公告┊server-announcement"
+    },
+    {
+      "id": "1478633294261260409",
+      "channel_id": "1354754985119846581",
+      "content": "<@&1440133908661534790>\n** 关于用户 flares 违规处理及社区规范重申的声明**\n\n致各位守密人：\n\n  《忘却前夜》社区是大家共",
+      "author": "morimensstaff01",
+      "reactions": 56,
+      "channel": "🔸服务器公告┊server-announcement"
+    },
+    {
+      "id": "1478662167031971860",
+      "channel_id": "1478662167031971860",
+      "content": "",
+      "author": "noeyebunny.nobunsu",
+      "reactions": 33,
+      "channel": ""
+    },
+    {
+      "id": "1478648573959606292",
+      "channel_id": "1478648573959606292",
+      "content": "「阳光☀️、沙滩🏖️、海浪🌊.....莫丝的家！莫丝的家人，在海里！」\n「弥萨格，不熟悉......介绍，新朋友！」\n\n守密人会用哪些字句来向莫丝介绍弥萨格的大",
+      "author": "morimensstaff01",
+      "reactions": 32,
+      "channel": ""
+    },
+    {
+      "id": "1478659364209426554",
+      "channel_id": "1478648573959606292",
+      "content": "",
+      "author": "aurora3981",
+      "reactions": 23,
+      "channel": ""
+    },
+    {
+      "id": "1478646790277431296",
+      "channel_id": "1170692781216378960",
+      "content": "hi everyone i just wanted to say i am new and morimens has quickly become one of",
+      "author": "yanderefemcelgf",
+      "reactions": 19,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1478496000959316059",
+      "channel_id": "1478496000959316059",
+      "content": "",
+      "author": "happyskull",
+      "reactions": 19,
+      "channel": ""
+    },
+    {
+      "id": "1478663415106113660",
+      "channel_id": "1478648573959606292",
+      "content": "",
+      "author": "chinkeeyong",
+      "reactions": 16,
+      "channel": ""
+    },
+    {
+      "id": "1478768398929236042",
+      "channel_id": "1477936435343527947",
+      "content": "脸好看。但是这衣服是要复刻某游的神圣大姐姐吗？我点开的不是克系游戏忘却前夜吗？怎么角色越做越像卖肉游戏了。求你游角色设计水准回退🙏",
+      "author": "encyoverride",
+      "reactions": 15,
+      "channel": ""
+    },
+    {
+      "id": "1478666556690137118",
+      "channel_id": "1478648573959606292",
+      "content": "今天可能要餓著了<:Karen_Happy_Birthday:1459076984251486413>",
+      "author": "morimensstaff01",
+      "reactions": 13,
+      "channel": ""
+    },
+    {
+      "id": "1478698882140475532",
+      "channel_id": "1170692781216378960",
+      "content": "If he makes a second drama video I'm emailing my YouTube support contact. Him ac",
+      "author": "thpdom",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1478745848580935828",
+      "channel_id": "1478648573959606292",
+      "content": "",
+      "author": "ice_storys",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1478638568279773277",
+      "channel_id": "1455453095592071269",
+      "content": "We sincerely apologize for the delay, which was caused by our team attending to ",
+      "author": "morimensstaff01",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1478675327650758736",
+      "channel_id": "1170692781216378960",
+      "content": "OMG, im scared!\nSomeone pin Light, QUICK!!!!",
+      "author": "enumaellis",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1478641366610481294",
+      "channel_id": "1170692781216378960",
+      "content": "Ngl we should go back to the days where this chat could hold legible proper conv",
+      "author": "fishhazardthewizard",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1478693821226156074",
+      "channel_id": "1170692781216378960",
+      "content": "I mean flares is being a lil stupid, thinking that a vdieo where he just spouts ",
+      "author": "thpdom",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1478700454987694225",
+      "channel_id": "1170692781216378960",
+      "content": "i only said i like caecus and uvhash and im getting tomatoed <:HorlaNoted:143937",
+      "author": "digitalstar.exe",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1478702775536717855",
+      "channel_id": "1170692781216378960",
+      "content": "everyone should have tulu OE",
+      "author": "princess.goth",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1478723867613724682",
+      "channel_id": "1170692781216378960",
+      "content": "You were the one who said it would happen!",
+      "author": "megidola.",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1478422483928481844",
+      "channel_id": "1170692781216378960",
+      "content": "https://www.reddit.com/r/Morimens/comments/1qvrkr6/short_guide_to_liz_gaming/",
+      "author": "jyeusu",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

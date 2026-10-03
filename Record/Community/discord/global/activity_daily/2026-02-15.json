@@ -1,10 +1,22 @@
 {
   "date": "2026-02-15",
-  "messages": 8092,
+  "messages": 10544,
   "unique_authors": 200,
-  "reactions_total": 1406,
-  "attachments": 414,
+  "reactions_total": 1585,
+  "attachments": 542,
   "channel_activity": {
+    "🔸canal-español": 346,
+    "🔸canal-português": 133,
+    "🔸ruang-obrolan-indonesia": 15,
+    "🔸ห้องสนทนาภาษาไทย": 96,
+    "🔸traphase": 20,
+    "🔸lore-chat": 10,
+    "🔸team-building": 425,
+    "🔸general-chat": 587,
+    "🔸邀请码互助┊swap-invitation-codes": 16,
+    "🔸game-question": 761,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 42,
     "🔸綜合討論": 690,
     "🔸阵容构建": 194,
     "🔸morimens-game-chat": 6229,
@@ -35,35 +47,35 @@
     "🔸lets-count": 5
   },
   "hourly_activity": {
-    "0": 840,
-    "1": 641,
-    "2": 467,
-    "3": 205,
-    "4": 117,
-    "6": 259,
-    "7": 192,
-    "10": 441,
-    "11": 220,
-    "12": 246,
-    "13": 436,
-    "14": 407,
-    "15": 194,
-    "16": 80,
-    "17": 145,
-    "18": 68,
-    "19": 387,
-    "20": 322,
-    "21": 392,
-    "22": 386,
-    "23": 803,
-    "9": 168,
-    "5": 209,
-    "8": 467
+    "0": 958,
+    "1": 741,
+    "2": 666,
+    "3": 322,
+    "4": 169,
+    "5": 265,
+    "6": 305,
+    "7": 337,
+    "8": 528,
+    "9": 278,
+    "10": 568,
+    "11": 484,
+    "12": 368,
+    "13": 500,
+    "14": 635,
+    "15": 210,
+    "21": 468,
+    "22": 432,
+    "23": 1124,
+    "18": 92,
+    "20": 345,
+    "16": 108,
+    "17": 225,
+    "19": 416
   },
   "message_types": {
-    "19": 2696,
-    "0": 5395,
-    "20": 1
+    "0": 7291,
+    "19": 3247,
+    "20": 6
   },
   "top_reacted_messages": [
     {
@@ -113,6 +125,14 @@
       "author": "aurora3981",
       "reactions": 9,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1472430252415516743",
+      "channel_id": "1400750050208125010",
+      "content": "maybe im too fat",
+      "author": "arisuu0604",
+      "reactions": 8,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1472495174453297360",
@@ -211,20 +231,12 @@
       "channel": "🔸晒卡分享"
     },
     {
-      "id": "1472437439217012939",
-      "channel_id": "1131839817982947429",
-      "content": "我的簡介怎麼還在更新次數",
-      "author": "water_heart",
+      "id": "1472441524179570890",
+      "channel_id": "1400749543288475770",
+      "content": "6 7",
+      "author": "fibrinogen",
       "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1472444797095514214",
-      "channel_id": "1131839817982947429",
-      "content": "打了個8840<:wish:1356084702468899117>",
-      "author": "water_heart",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
+      "channel": "🔸team-building"
     }
   ]
 }

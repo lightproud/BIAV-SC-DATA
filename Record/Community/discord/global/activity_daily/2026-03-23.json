@@ -1,0 +1,244 @@
+{
+  "date": "2026-03-23",
+  "messages": 1217,
+  "unique_authors": 79,
+  "reactions_total": 578,
+  "attachments": 88,
+  "channel_activity": {
+    "🔸綜合討論": 942,
+    "🔸阵容构建": 32,
+    "1485575438674825226": 39,
+    "🔸chaîne-française": 6,
+    "1348458617203986532": 2,
+    "1485667855805710527": 2,
+    "1485456007407865926": 6,
+    "1485477316644831444": 14,
+    "🔸deutscher-chatraum": 9,
+    "🔸邀请码互助┊swap-invitation-codes": 9,
+    "🔸忘却前夜┊morimens-tv": 2,
+    "1484212697015914496": 1,
+    "1485530758516052049": 2,
+    "1441326394817908736": 1,
+    "1484467018118987888": 7,
+    "🔸课间休息闲聊": 3,
+    "1350058928020656178": 1,
+    "1471164034622427448": 1,
+    "1485344233635315814": 5,
+    "1485654793983758447": 2,
+    "1485645122677899426": 11,
+    "1485508365194104922": 6,
+    "1484457112628363284": 1,
+    "1450337762829144255": 3,
+    "1467225902029996154": 2,
+    "1485366013934436512": 10,
+    "1428784257534529586": 10,
+    "1472620151634661499": 3,
+    "1485628489939030187": 3,
+    "1484144971341762641": 1,
+    "1485319851697242262": 2,
+    "1485613870176276531": 6,
+    "1485551802974998739": 2,
+    "🔸频道建议┊server-suggestions": 4,
+    "🔸游戏问题": 9,
+    "1462840887553032335": 4,
+    "🔸两周年纪念反馈┊2yr-anniv-feedback": 1,
+    "1482997212354187324": 32,
+    "1484804984855068702": 1,
+    "1485579402971582495": 3,
+    "1450001353064714320": 9,
+    "1485201668470739068": 7,
+    "1468895834199298215": 1
+  },
+  "hourly_activity": {
+    "0": 32,
+    "1": 6,
+    "2": 9,
+    "7": 6,
+    "8": 6,
+    "9": 20,
+    "10": 22,
+    "11": 276,
+    "12": 29,
+    "13": 11,
+    "14": 188,
+    "15": 83,
+    "16": 125,
+    "17": 60,
+    "18": 81,
+    "19": 23,
+    "20": 87,
+    "21": 52,
+    "22": 40,
+    "23": 46,
+    "3": 6,
+    "4": 8,
+    "6": 1
+  },
+  "message_types": {
+    "19": 236,
+    "0": 975,
+    "4": 6
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1485613870176276531",
+      "channel_id": "1485613870176276531",
+      "content": "It's a WIP because this is zoomed in the canvas, there will lots of elements aro",
+      "author": "zzio_",
+      "reactions": 90,
+      "channel": ""
+    },
+    {
+      "id": "1485366013934436512",
+      "channel_id": "1485366013934436512",
+      "content": "Colors soon.",
+      "author": "sexysneakystoat1625",
+      "reactions": 35,
+      "channel": ""
+    },
+    {
+      "id": "1485654793983758447",
+      "channel_id": "1485654793983758447",
+      "content": "Hi all,\n\nThere are a lot of us players that think this sub should have a few mor",
+      "author": "climbkaly",
+      "reactions": 22,
+      "channel": ""
+    },
+    {
+      "id": "1485575438674825226",
+      "channel_id": "1485575438674825226",
+      "content": "以下是来自Arlyeon进行的脑缸组专访文字版，我们取得Arlyeon授权后，将会把文本版分成四部分持续发布在《忘却前夜》Discord频道内，完整视频版请点击",
+      "author": "morimensstaff01",
+      "reactions": 18,
+      "channel": ""
+    },
+    {
+      "id": "1485313912894390303",
+      "channel_id": "1471164034622427448",
+      "content": "doodle again",
+      "author": "gaedol.",
+      "reactions": 17,
+      "channel": ""
+    },
+    {
+      "id": "1485612210960203786",
+      "channel_id": "1385040039448412170",
+      "content": "",
+      "author": "._.aahh",
+      "reactions": 13,
+      "channel": "🔸频道建议┊server-suggestions"
+    },
+    {
+      "id": "1485344233635315814",
+      "channel_id": "1485344233635315814",
+      "content": "我記得終章融朵出現時明明有露臉CG阿<:doll_ign:1468259900655145213> ，怎麼不再典藏館加上這張CG。星辰一連一張紙都可以有兩張圖，",
+      "author": "shaw_51",
+      "reactions": 12,
+      "channel": ""
+    },
+    {
+      "id": "1485594295808561263",
+      "channel_id": "1485575438674825226",
+      "content": "每回合能釋放狂氣爆發會使其不重要，但不正是因為重要所以才會想辦法每回合釋放狂氣爆發嗎？\n狂氣調和的本意是增加選擇增加取捨，但新角色大部分給予了額外獲取狂氣的能力",
+      "author": "wild_pansy",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1485347840824709212",
+      "channel_id": "1131839817982947429",
+      "content": "快看我的0死抗茉夏暴打墨菲",
+      "author": "water_heart",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1485555333211357265",
+      "channel_id": "1450337762829144255",
+      "content": "She's just a silly goober (98)",
+      "author": "fishhazardthewizard",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1485551802974998739",
+      "channel_id": "1485551802974998739",
+      "content": "guys I finally finished this \nclem looks so cute and stupid man",
+      "author": "peanutgod_ofsaturn",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1485665647303196754",
+      "channel_id": "1485575438674825226",
+      "content": "Bro好像以為自己把神國隊做的很平衡",
+      "author": "ena04564",
+      "reactions": 7,
+      "channel": ""
+    },
+    {
+      "id": "1485596855797547102",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1485379152776527962",
+      "channel_id": "1435483703114596503",
+      "content": "https://youtu.be/rqFkcBDuNeo?si=-x3o_HVhFF9zz37n - mecánicas de Liz - habilidade",
+      "author": "yaoshidoppa",
+      "reactions": 5,
+      "channel": "🔸忘却前夜┊morimens-tv"
+    },
+    {
+      "id": "1485530758516052049",
+      "channel_id": "1485530758516052049",
+      "content": "Dear Developers and Management Team,\n\nHello, I am one of the organizers of the P",
+      "author": "gacha_ping",
+      "reactions": 5,
+      "channel": ""
+    },
+    {
+      "id": "1485536251569373245",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "l8989c",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1485577817780518952",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "0.0._.0_0.",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1485487538347970661",
+      "channel_id": "1131839817982947429",
+      "content": "不可以呀",
+      "author": "l8989c",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1485532586901242030",
+      "channel_id": "1131839817982947429",
+      "content": "6️⃣",
+      "author": "Deleted User",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1485536748770693252",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "yy42974466",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

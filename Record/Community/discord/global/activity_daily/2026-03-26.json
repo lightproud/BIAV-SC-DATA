@@ -1,0 +1,228 @@
+{
+  "date": "2026-03-26",
+  "messages": 1033,
+  "unique_authors": 64,
+  "reactions_total": 486,
+  "attachments": 55,
+  "channel_activity": {
+    "🔸綜合討論": 749,
+    "1486315550400577606": 1,
+    "1486642972224393216": 35,
+    "1486707533002571979": 2,
+    "1486316491904126986": 2,
+    "🔸日本語チャンネル": 39,
+    "🔸deutscher-chatraum": 9,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "1467514039717597328": 1,
+    "1483101438719557662": 5,
+    "1486559551393235006": 10,
+    "1486556243450658896": 3,
+    "1486411433087602802": 6,
+    "1486663322332827738": 2,
+    "1485672193634467960": 33,
+    "1485344233635315814": 1,
+    "1482702865041588315": 4,
+    "🔸交友频道": 69,
+    "1483359118742917201": 4,
+    "1485477316644831444": 32,
+    "1486728811956670475": 3,
+    "🔸한국어-채팅방": 6,
+    "1482997212354187324": 9,
+    "1384533675789783141": 1,
+    "1468895834199298215": 1
+  },
+  "hourly_activity": {
+    "0": 261,
+    "1": 88,
+    "2": 10,
+    "8": 17,
+    "9": 3,
+    "10": 11,
+    "11": 14,
+    "12": 20,
+    "13": 62,
+    "14": 102,
+    "15": 12,
+    "16": 27,
+    "17": 97,
+    "18": 28,
+    "19": 7,
+    "20": 12,
+    "21": 12,
+    "22": 7,
+    "23": 201,
+    "3": 13,
+    "4": 20,
+    "7": 5,
+    "6": 4
+  },
+  "message_types": {
+    "0": 831,
+    "19": 198,
+    "4": 3,
+    "6": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1486642972224393216",
+      "channel_id": "1486642972224393216",
+      "content": "📅 **活动时间**\n在4月6日9:00至4月20日9:00期间，幻衣活动「钩吻葬盛」限时开放。\n\n📑 **活动内容**\n✦ 活动期间完成任务累计可获得：「无垢",
+      "author": "morimensstaff01",
+      "reactions": 71,
+      "channel": ""
+    },
+    {
+      "id": "1486411433087602802",
+      "channel_id": "1486411433087602802",
+      "content": "( ˶ ❛ ꁞ ❛ ˶ )",
+      "author": "shadiaodiaodeyu_89215",
+      "reactions": 32,
+      "channel": ""
+    },
+    {
+      "id": "1486707533002571979",
+      "channel_id": "1486707533002571979",
+      "content": "I tried to draw something new and failed, so I'm just leaving it as a wip foreve",
+      "author": "gaje0ng",
+      "reactions": 25,
+      "channel": ""
+    },
+    {
+      "id": "1486728811956670475",
+      "channel_id": "1486728811956670475",
+      "content": "Suggestions are open!",
+      "author": "cooked_chicken99",
+      "reactions": 24,
+      "channel": ""
+    },
+    {
+      "id": "1486694177298321498",
+      "channel_id": "1486642972224393216",
+      "content": "靠北我現在才發現是在說立繪圖~~我以為是說留言區的我們~~",
+      "author": "ass191044",
+      "reactions": 17,
+      "channel": ""
+    },
+    {
+      "id": "1486663322332827738",
+      "channel_id": "1486663322332827738",
+      "content": "",
+      "author": "floriography",
+      "reactions": 17,
+      "channel": ""
+    },
+    {
+      "id": "1486662090470064219",
+      "channel_id": "1486642972224393216",
+      "content": "<@1131790839291596841> release Helot 1* skin too pls 🥹 🙏",
+      "author": "_venush",
+      "reactions": 14,
+      "channel": ""
+    },
+    {
+      "id": "1486662270388932669",
+      "channel_id": "1486642972224393216",
+      "content": "Русская версия постера <:wanda_proud:1468258146551333088> \n—— сделана российской",
+      "author": "morimensstaff01",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1486435810378252406",
+      "channel_id": "1435483703114596503",
+      "content": "https://www.twitch.tv/makibaachan - Showing off my chat the characters from the ",
+      "author": "kyoubaachan",
+      "reactions": 6,
+      "channel": "🔸忘却前夜┊morimens-tv"
+    },
+    {
+      "id": "1486556243450658896",
+      "channel_id": "1486556243450658896",
+      "content": "Could you please look at buffing the amount of counter Wanda generates?\n\nFor cur",
+      "author": "climbkaly",
+      "reactions": 6,
+      "channel": ""
+    },
+    {
+      "id": "1486614402793869364",
+      "channel_id": "1131839817982947429",
+      "content": "f佬怎么可以这样怀疑我<:takenotes:1357186646294138890> \n||我可是很努力的描写繁衍狂热||",
+      "author": "ling_an_",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1486615761202974841",
+      "channel_id": "1131839817982947429",
+      "content": "我夢到這個<:Brown_think:1459080117308620996> \n為了成就最強，決定成為世界級偶像\n蘿坦\n偶像道，堂堂連載",
+      "author": "heikwok",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1486431310145916928",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "a._0320",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1486747539939135629",
+      "channel_id": "1131839817982947429",
+      "content": "~~致敬傳奇1.5周年~~",
+      "author": "water_heart",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1486747121691525150",
+      "channel_id": "1194835209242296410",
+      "content": "雖然練度高很多應該沒有參考價值而且還凹了4X%死抗😅  繁育刻普莫逆流 智識刻誕墨圓舞",
+      "author": "cpu7954",
+      "reactions": 3,
+      "channel": "🔸交友频道"
+    },
+    {
+      "id": "1486403399934017627",
+      "channel_id": "1131839817982947429",
+      "content": "~~補+12吧~~",
+      "author": "hon_ey0",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1486404283661422672",
+      "channel_id": "1131839817982947429",
+      "content": "~~我們24也是曾經的數值怪啊~~",
+      "author": "ena04564",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1486596574636412940",
+      "channel_id": "1131839817982947429",
+      "content": "感觉星辰篇一年半了，其实是忘却篇半年的产能",
+      "author": "lurenjiao",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1486601093080289370",
+      "channel_id": "1131839817982947429",
+      "content": "||我感覺他們員工現在也在玩這個||",
+      "author": "arr5721",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1486678205724229754",
+      "channel_id": "1131839817982947429",
+      "content": "喔幹對欸那是18",
+      "author": "hon_ey0",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

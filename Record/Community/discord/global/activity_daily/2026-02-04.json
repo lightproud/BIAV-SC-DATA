@@ -1,10 +1,23 @@
 {
   "date": "2026-02-04",
-  "messages": 10239,
+  "messages": 12959,
   "unique_authors": 187,
-  "reactions_total": 1293,
-  "attachments": 356,
+  "reactions_total": 1486,
+  "attachments": 499,
   "channel_activity": {
+    "🔸canal-español": 431,
+    "🔸canal-português": 134,
+    "🔸ruang-obrolan-indonesia": 100,
+    "🔸ห้องสนทนาภาษาไทย": 166,
+    "🔸traphase": 92,
+    "🔸lore-chat": 9,
+    "🔸频道建议┊server-suggestions": 2,
+    "🔸team-building": 224,
+    "🔸general-chat": 1190,
+    "🔸邀请码互助┊swap-invitation-codes": 10,
+    "🔸game-question": 343,
+    "🔸游戏问题": 1,
+    "🔸机器人命令┊bot-commands": 18,
     "🔸綜合討論": 1117,
     "🔸阵容构建": 80,
     "🔸morimens-game-chat": 5168,
@@ -26,35 +39,35 @@
     "🔸lets-count": 4
   },
   "hourly_activity": {
-    "0": 345,
-    "1": 574,
-    "2": 893,
-    "3": 857,
-    "4": 331,
-    "5": 101,
-    "6": 131,
-    "7": 159,
-    "8": 181,
-    "9": 81,
-    "10": 253,
-    "11": 211,
-    "12": 294,
-    "13": 262,
-    "14": 184,
-    "15": 180,
-    "16": 284,
-    "17": 222,
-    "18": 540,
-    "19": 368,
-    "20": 495,
-    "21": 596,
-    "22": 1447,
-    "23": 1250
+    "0": 549,
+    "1": 637,
+    "2": 981,
+    "3": 896,
+    "4": 378,
+    "5": 230,
+    "6": 180,
+    "7": 180,
+    "8": 231,
+    "9": 147,
+    "10": 285,
+    "12": 508,
+    "13": 422,
+    "19": 538,
+    "22": 1932,
+    "23": 1335,
+    "11": 273,
+    "17": 273,
+    "20": 561,
+    "21": 896,
+    "14": 391,
+    "16": 306,
+    "18": 591,
+    "15": 239
   },
   "message_types": {
-    "0": 7622,
-    "19": 2614,
-    "20": 3
+    "0": 9636,
+    "19": 3315,
+    "20": 8
   },
   "top_reacted_messages": [
     {
@@ -186,6 +199,22 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1468472425099296853",
+      "channel_id": "1300659662311526512",
+      "content": "Estoy muerto <:dead:1356082627509092372>",
+      "author": "duxadcloria",
+      "reactions": 5,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1468522091325427753",
+      "channel_id": "1433513650299076780",
+      "content": "omg i havent been olaying in a while",
+      "author": "dollyxqyan",
+      "reactions": 5,
+      "channel": "🔸game-question"
+    },
+    {
       "id": "1468547332541779988",
       "channel_id": "1131839817982947429",
       "content": "這位是薩摩大佬嗎",
@@ -198,22 +227,6 @@
       "channel_id": "1131839817982947429",
       "content": "",
       "author": "water_heart",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1468575208209387593",
-      "channel_id": "1131839817982947429",
-      "content": "如果你的心力有5萬的話",
-      "author": "ernest_heart",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1468589672597819474",
-      "channel_id": "1131839817982947429",
-      "content": "困难融朵",
-      "author": "akalanden",
       "reactions": 5,
       "channel": "🔸綜合討論"
     }

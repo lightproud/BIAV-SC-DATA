@@ -1,0 +1,235 @@
+{
+  "date": "2026-03-05",
+  "messages": 12543,
+  "unique_authors": 234,
+  "reactions_total": 2509,
+  "attachments": 474,
+  "channel_activity": {
+    "🔸綜合討論": 1244,
+    "🔸阵容构建": 214,
+    "🔸morimens-game-chat": 10943,
+    "1479049630200107069": 2,
+    "1479105767289393264": 1,
+    "1471356257708408843": 1,
+    "1455882869410103458": 7,
+    "🔸忘却前夜┊morimens-tv": 2,
+    "1479041964916736002": 5,
+    "1478923108122365967": 29,
+    "1478791297656422671": 12,
+    "1478787631495250041": 2,
+    "1478952251056980080": 2,
+    "1479112276437893163": 4,
+    "1479040225685798932": 4,
+    "1478984182725349407": 6,
+    "1477439262126379138": 1,
+    "1450337762829144255": 4,
+    "1444886130540548231": 2,
+    "1478270401644859463": 1,
+    "1479090067745149018": 3,
+    "1462840887553032335": 1,
+    "1475263387553501427": 2,
+    "1457468446353653792": 1,
+    "1478648573959606292": 23,
+    "1478034582472360067": 2,
+    "1472608584381759610": 3,
+    "1350060973083590666": 4,
+    "1357184174485671966": 1,
+    "1478623865986093219": 1,
+    "1468895834199298215": 16
+  },
+  "hourly_activity": {
+    "0": 577,
+    "1": 207,
+    "2": 478,
+    "3": 649,
+    "4": 664,
+    "6": 558,
+    "7": 563,
+    "8": 718,
+    "9": 477,
+    "10": 313,
+    "11": 484,
+    "12": 232,
+    "13": 241,
+    "14": 112,
+    "15": 202,
+    "16": 487,
+    "17": 257,
+    "18": 588,
+    "19": 533,
+    "20": 499,
+    "21": 916,
+    "22": 1221,
+    "23": 1029,
+    "5": 538
+  },
+  "message_types": {
+    "19": 4402,
+    "0": 8135,
+    "46": 2,
+    "4": 3,
+    "6": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1479090067745149018",
+      "channel_id": "1479090067745149018",
+      "content": "2nd time drawing him!",
+      "author": "rolypoly_rose",
+      "reactions": 21,
+      "channel": ""
+    },
+    {
+      "id": "1479105767289393264",
+      "channel_id": "1479105767289393264",
+      "content": "——高清切图可在评论区查看！\n——High-resolution cutouts can be viewed in the comments section!",
+      "author": "morimensstaff01",
+      "reactions": 17,
+      "channel": ""
+    },
+    {
+      "id": "1479115102480502929",
+      "channel_id": "1170692781216378960",
+      "content": "Meta? ❌ (probably idk) \nBeautiful woman? ✅\nMeta is barely anything for me\nVortic",
+      "author": "forsmile0",
+      "reactions": 14,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1478811164635955251",
+      "channel_id": "1435483703114596503",
+      "content": "A quick in real life unboxing video of one of the blind badge merch boxes we wer",
+      "author": "reya.li",
+      "reactions": 14,
+      "channel": "🔸忘却前夜┊morimens-tv"
+    },
+    {
+      "id": "1479093861652627456",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "muliupan",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1479041964916736002",
+      "channel_id": "1479041964916736002",
+      "content": "Barrier, on the player side, is a powerful effect that is very rare to obtain, o",
+      "author": "vxvendetta97",
+      "reactions": 12,
+      "channel": ""
+    },
+    {
+      "id": "1479034737732354201",
+      "channel_id": "1170692781216378960",
+      "content": "KID IS OUT",
+      "author": "angbak",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1479038173207199848",
+      "channel_id": "1170692781216378960",
+      "content": "IT'S OUT",
+      "author": "spooky_penguin_",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1478966588005945374",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1478860904136441938",
+      "channel_id": "1170692781216378960",
+      "content": "if you want to see old morimens discord vibes it would just be me spamming <:bow",
+      "author": "reya.li",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1478861607038877800",
+      "channel_id": "1170692781216378960",
+      "content": "I think Xu didn't powercrept, she just solve poison issue in general",
+      "author": "melwyn7591",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1478913320932216945",
+      "channel_id": "1131839817982947429",
+      "content": "布希希",
+      "author": "ice_storys",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1478845860354724053",
+      "channel_id": "1170692781216378960",
+      "content": "Hello everyone im the noobies and probably newest guy here. I started playing Mo",
+      "author": "ralavros",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1478859548910551050",
+      "channel_id": "1170692781216378960",
+      "content": "until she releases I will keep milking this meme",
+      "author": "megidola.",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1478865284365422704",
+      "channel_id": "1170692781216378960",
+      "content": "**Gulp the Tea**",
+      "author": "brainrot_in_a_vat",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1479087410028482650",
+      "channel_id": "1170692781216378960",
+      "content": "Should I msg goya?...",
+      "author": "spooky_penguin_",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1479088946767200349",
+      "channel_id": "1170692781216378960",
+      "content": "Your two important points about Vortice—her design philosophy and understanding ",
+      "author": "legendaryredz",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1479110789431431289",
+      "channel_id": "1170692781216378960",
+      "content": "No line",
+      "author": "legendaryredz",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1479063465879666901",
+      "channel_id": "1471356257708408843",
+      "content": "Hi Keepers, we have finalize our list of accepted volunteers! Thank you so much ",
+      "author": "morimens_15",
+      "reactions": 7,
+      "channel": ""
+    },
+    {
+      "id": "1478910365260583003",
+      "channel_id": "1435483703114596503",
+      "content": "A brief discussion about current D-tide, going over important mechanics as well ",
+      "author": "syruponstrawberrycake",
+      "reactions": 7,
+      "channel": "🔸忘却前夜┊morimens-tv"
+    }
+  ]
+}

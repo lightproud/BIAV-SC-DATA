@@ -1,0 +1,238 @@
+{
+  "date": "2026-03-08",
+  "messages": 9413,
+  "unique_authors": 191,
+  "reactions_total": 1890,
+  "attachments": 391,
+  "channel_activity": {
+    "🔸綜合討論": 921,
+    "🔸阵容构建": 13,
+    "🔸morimens-game-chat": 8271,
+    "1471356257708408843": 4,
+    "1480014857809039471": 2,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "1464228375316136072": 1,
+    "1479908568319660142": 2,
+    "1479859913420312606": 7,
+    "1350058928020656178": 13,
+    "1470774602920886344": 1,
+    "1480161123574743081": 6,
+    "1480157032249298987": 2,
+    "1480093685944422580": 37,
+    "1480043656332181584": 6,
+    "1478984182725349407": 3,
+    "1479983531852562483": 2,
+    "1479979789329633340": 7,
+    "1479955865758073044": 3,
+    "1480053170746036265": 4,
+    "1450337762829144255": 5,
+    "1478662167031971860": 2,
+    "1475263387553501427": 1,
+    "1479847255555965089": 26,
+    "1479737727556653106": 3,
+    "1480068843799052288": 53,
+    "1477577193063448628": 1,
+    "1479378880467959889": 3,
+    "1458187614879486146": 1,
+    "1445556242381672559": 4,
+    "1451677796085661888": 1,
+    "1357184174485671966": 3,
+    "1479533422186598420": 2,
+    "1479428860591210528": 1,
+    "1468895834199298215": 1
+  },
+  "hourly_activity": {
+    "0": 373,
+    "1": 546,
+    "2": 183,
+    "3": 406,
+    "4": 656,
+    "6": 671,
+    "10": 79,
+    "11": 307,
+    "12": 438,
+    "13": 346,
+    "14": 313,
+    "15": 362,
+    "16": 491,
+    "17": 668,
+    "18": 285,
+    "19": 308,
+    "20": 283,
+    "21": 242,
+    "22": 484,
+    "23": 347,
+    "5": 408,
+    "7": 524,
+    "8": 312,
+    "9": 381
+  },
+  "message_types": {
+    "19": 3397,
+    "0": 6008,
+    "20": 7,
+    "4": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1480093685944422580",
+      "channel_id": "1480093685944422580",
+      "content": "Seeing from the new patch notes that auto-battle will be disabled from character",
+      "author": "xagarath",
+      "reactions": 21,
+      "channel": ""
+    },
+    {
+      "id": "1479979789329633340",
+      "channel_id": "1479979789329633340",
+      "content": "遊戲內的UID:100829186,等待活動的同時,畫了一張阿拉克涅",
+      "author": "tw9580",
+      "reactions": 20,
+      "channel": ""
+    },
+    {
+      "id": "1479899238522425435",
+      "channel_id": "1170692781216378960",
+      "content": "<@285755067213152257> <@693983290423509042> <@266297152911835147> <@147141432388",
+      "author": "sirtealot",
+      "reactions": 16,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1480093337188040714",
+      "channel_id": "1170692781216378960",
+      "content": "<:takenotes:1357186646294138890>",
+      "author": "_venush",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1480035510654074963",
+      "channel_id": "1479859913420312606",
+      "content": "I sincerely believe that the skin should be included in the login rewards for 1 ",
+      "author": "salami_87",
+      "reactions": 12,
+      "channel": ""
+    },
+    {
+      "id": "1480085242092978257",
+      "channel_id": "1480068843799052288",
+      "content": "<@633215996508766229> 0人想打pvp，你前作难道是因为太好玩了才死的吗？？为了点日活把auto刷牌给堵死了，不知道的还以为你族谱都被刷干净",
+      "author": "nailong0565",
+      "reactions": 12,
+      "channel": ""
+    },
+    {
+      "id": "1479896511981682889",
+      "channel_id": "1445556242381672559",
+      "content": "secret deleted cg from chapter 2 <:Brown_think:1459080117308620996>",
+      "author": "zzio_",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1479984419505963008",
+      "channel_id": "1170692781216378960",
+      "content": "Pls let Aequor have a real dps.\nNot a support cosplaying one, with her overexalt",
+      "author": "frosthief",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1480225975672373422",
+      "channel_id": "1170692781216378960",
+      "content": "I had a mild mental episode and started pulling on blue standard banner for Faro",
+      "author": "climbkaly",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1480174987120869621",
+      "channel_id": "1480093685944422580",
+      "content": "I rarely use auto (only on easy train to gain unlocks), but I see no point in th",
+      "author": "silencio3507",
+      "reactions": 10,
+      "channel": ""
+    },
+    {
+      "id": "1479968409167859923",
+      "channel_id": "1170692781216378960",
+      "content": "Idot is idot",
+      "author": "brainrot_in_a_vat",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1480214441038712963",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "legendaryredz",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1480100163820322957",
+      "channel_id": "1480093685944422580",
+      "content": "It's a targeted remove designed to stop people autoing dailies\nThere's no myster",
+      "author": "xagarath",
+      "reactions": 9,
+      "channel": ""
+    },
+    {
+      "id": "1480158569616769114",
+      "channel_id": "1480068843799052288",
+      "content": "",
+      "author": "beenax.",
+      "reactions": 9,
+      "channel": ""
+    },
+    {
+      "id": "1480079990245691404",
+      "channel_id": "1131839817982947429",
+      "content": "~~列车不是没有回放嘛，这是修了啥~~",
+      "author": "sweet_25367",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1479882075715670016",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "legendaryredz",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1479925465866174464",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "khykken",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1480102295948496947",
+      "channel_id": "1480068843799052288",
+      "content": "有病吧为什么改自动，自动招你惹你了？每个玩家都要在你游坐牢吗？不知道降低门槛吗？你这样改我只能说祝好似\n产能提不上去，不改改弱智自动逻辑，现在恨不得把自动删了，",
+      "author": "jiangjiu9443",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1480114103082291264",
+      "channel_id": "1480068843799052288",
+      "content": "好感人",
+      "author": "navirecorbeau",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1479895410712772771",
+      "channel_id": "1170692781216378960",
+      "content": "Better than people who tries to cheat for free",
+      "author": "brainrot_in_a_vat",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

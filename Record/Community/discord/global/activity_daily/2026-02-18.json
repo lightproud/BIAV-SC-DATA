@@ -1,10 +1,24 @@
 {
   "date": "2026-02-18",
-  "messages": 8644,
+  "messages": 12031,
   "unique_authors": 201,
-  "reactions_total": 995,
-  "attachments": 367,
+  "reactions_total": 1158,
+  "attachments": 502,
   "channel_activity": {
+    "🔸phòng-chat-tiếng-việt": 1153,
+    "🔸canal-español": 52,
+    "🔸canal-português": 1592,
+    "🔸ruang-obrolan-indonesia": 414,
+    "🔸ห้องสนทนาภาษาไทย": 124,
+    "🔸traphase": 63,
+    "🔸lore-chat": 43,
+    "🔸频道建议┊server-suggestions": 5,
+    "🔸team-building": 371,
+    "🔸general-chat": 77,
+    "🔸邀请码互助┊swap-invitation-codes": 8,
+    "🔸game-question": 485,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 23,
     "🔸綜合討論": 1163,
     "🔸阵容构建": 4,
     "🔸morimens-game-chat": 6008,
@@ -15,7 +29,6 @@
     "🔸deutscher-chatraum": 6,
     "🔸chaîne-française": 2,
     "🔸русский-канал": 386,
-    "🔸phòng-chat-tiếng-việt": 1024,
     "1473451650852061296": 1,
     "1473585086791422074": 1,
     "1473601284618850425": 1,
@@ -24,35 +37,35 @@
     "🔸lets-count": 13
   },
   "hourly_activity": {
-    "0": 572,
-    "1": 522,
-    "2": 916,
-    "3": 282,
-    "4": 319,
-    "7": 254,
-    "9": 145,
-    "10": 263,
-    "11": 307,
-    "12": 220,
-    "13": 191,
-    "14": 124,
-    "15": 566,
-    "16": 152,
-    "17": 201,
-    "18": 355,
-    "19": 345,
-    "20": 633,
-    "21": 609,
-    "22": 300,
-    "23": 721,
-    "5": 113,
-    "6": 303,
-    "8": 231
+    "19": 606,
+    "20": 941,
+    "21": 833,
+    "22": 802,
+    "23": 940,
+    "0": 785,
+    "2": 1043,
+    "4": 402,
+    "5": 177,
+    "6": 421,
+    "11": 352,
+    "16": 200,
+    "17": 238,
+    "1": 685,
+    "3": 398,
+    "8": 489,
+    "9": 293,
+    "10": 405,
+    "12": 271,
+    "18": 382,
+    "7": 357,
+    "13": 219,
+    "14": 190,
+    "15": 602
   },
   "message_types": {
-    "0": 6062,
-    "19": 2577,
-    "20": 4,
+    "19": 3531,
+    "0": 8489,
+    "20": 10,
     "46": 1
   },
   "top_reacted_messages": [
@@ -71,6 +84,22 @@
       "author": "tealsnicker",
       "reactions": 18,
       "channel": ""
+    },
+    {
+      "id": "1473707245706674258",
+      "channel_id": "1326453763355185215",
+      "content": "",
+      "author": "nikolazuli",
+      "reactions": 15,
+      "channel": "🔸lore-chat"
+    },
+    {
+      "id": "1473656671732498556",
+      "channel_id": "1435483703114596503",
+      "content": "Ryker Exalt DPS is very silly, you guys.\n\nhttps://youtu.be/N8oJpen_JcY",
+      "author": "zier.0",
+      "reactions": 8,
+      "channel": "🔸忘却前夜┊morimens-tv"
     },
     {
       "id": "1473409176477892639",
@@ -137,6 +166,22 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1473383293927035134",
+      "channel_id": "1300659662311526512",
+      "content": "ramona supero dafo",
+      "author": "zulsoma",
+      "reactions": 5,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1473590553689194620",
+      "channel_id": "1300659662311526512",
+      "content": "XD",
+      "author": "duxadcloria",
+      "reactions": 5,
+      "channel": "🔸canal-español"
+    },
+    {
       "id": "1473592419361755167",
       "channel_id": "1131839817982947429",
       "content": "",
@@ -183,38 +228,6 @@
       "author": "ling_an_",
       "reactions": 4,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1473662440825946235",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1473668372511195227",
-      "channel_id": "1131839817982947429",
-      "content": "<@567246096473128960> 老子刮刮樂中10000",
-      "author": "a._0320",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1473354109242310927",
-      "channel_id": "1170692781216378960",
-      "content": "also uh .. how does wanda work <:24_smile:1459073862544130131>",
-      "author": "princess.goth",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1473380858235850826",
-      "channel_id": "1170692781216378960",
-      "content": "birth is just broken period",
-      "author": "arkaether",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }

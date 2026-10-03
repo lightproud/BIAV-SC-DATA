@@ -1,10 +1,24 @@
 {
   "date": "2026-02-21",
-  "messages": 7728,
+  "messages": 11641,
   "unique_authors": 192,
-  "reactions_total": 911,
-  "attachments": 307,
+  "reactions_total": 1135,
+  "attachments": 438,
   "channel_activity": {
+    "🔸phòng-chat-tiếng-việt": 423,
+    "🔸canal-español": 140,
+    "🔸canal-português": 1105,
+    "🔸ruang-obrolan-indonesia": 140,
+    "🔸ห้องสนทนาภาษาไทย": 125,
+    "🔸traphase": 155,
+    "🔸lore-chat": 84,
+    "🔸频道建议┊server-suggestions": 5,
+    "🔸team-building": 143,
+    "🔸general-chat": 513,
+    "🔸邀请码互助┊swap-invitation-codes": 9,
+    "🔸game-question": 1033,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 37,
     "🔸綜合討論": 1570,
     "🔸阵容构建": 53,
     "🔸morimens-game-chat": 5590,
@@ -19,39 +33,48 @@
     "🔸lets-count": 10
   },
   "hourly_activity": {
-    "0": 530,
-    "1": 372,
-    "2": 368,
-    "3": 588,
-    "4": 299,
-    "8": 353,
-    "9": 465,
-    "10": 171,
-    "11": 174,
-    "12": 375,
-    "13": 131,
-    "14": 27,
-    "15": 282,
-    "16": 143,
-    "17": 277,
-    "18": 368,
-    "19": 156,
-    "20": 373,
-    "21": 405,
-    "22": 503,
-    "23": 447,
-    "5": 208,
-    "6": 513,
-    "7": 200
+    "0": 1104,
+    "1": 867,
+    "8": 587,
+    "10": 236,
+    "11": 239,
+    "12": 396,
+    "13": 234,
+    "14": 272,
+    "18": 415,
+    "19": 262,
+    "20": 550,
+    "21": 628,
+    "22": 726,
+    "23": 652,
+    "3": 766,
+    "4": 449,
+    "5": 359,
+    "6": 626,
+    "9": 529,
+    "2": 497,
+    "7": 368,
+    "15": 374,
+    "17": 336,
+    "16": 169
   },
   "message_types": {
-    "0": 5420,
-    "19": 2304,
+    "19": 3259,
+    "0": 8372,
+    "20": 6,
     "46": 2,
     "23": 1,
     "6": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1474748352066359410",
+      "channel_id": "1435483703114596503",
+      "content": "A gratuitously long video going over every single part of Xu's kit, builds, as w",
+      "author": "reya.li",
+      "reactions": 23,
+      "channel": "🔸忘却前夜┊morimens-tv"
+    },
     {
       "id": "1474704817027809352",
       "channel_id": "1474704817027809352",
@@ -69,6 +92,14 @@
       "channel": ""
     },
     {
+      "id": "1474796785892331695",
+      "channel_id": "1300659603993923644",
+      "content": "dạy em chơi đi ank",
+      "author": "vermiyy",
+      "reactions": 10,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
       "id": "1474583447677829251",
       "channel_id": "1131839817982947429",
       "content": "",
@@ -83,6 +114,14 @@
       "author": "busy_chipmunk_73748_41947",
       "reactions": 8,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1474796456731738313",
+      "channel_id": "1300659603993923644",
+      "content": "giỏi wa trời",
+      "author": "vermiyy",
+      "reactions": 7,
+      "channel": "🔸phòng-chat-tiếng-việt"
     },
     {
       "id": "1474695027589644501",
@@ -157,6 +196,14 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1474463912148734074",
+      "channel_id": "1400750050208125010",
+      "content": "yay im neutral",
+      "author": "dyssayah",
+      "reactions": 4,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1474449595839807588",
       "channel_id": "1131839817982947429",
       "content": "交往了七年的傢伙怎麼可能沒有www",
@@ -179,38 +226,6 @@
       "author": "yy42974466",
       "reactions": 4,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1474776669137928223",
-      "channel_id": "1131839817982947429",
-      "content": "終於過了普通<:takenotes:1357186646294138890>",
-      "author": "watercomet",
-      "reactions": 4,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1474463365526061272",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "legendaryredz",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1474480146093310103",
-      "channel_id": "1170692781216378960",
-      "content": "reddit is actually like 200 different people with different opinions <:Helot_sla",
-      "author": "chinkeeyong",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1474526456251158538",
-      "channel_id": "1170692781216378960",
-      "content": "Spooky is my favorite content creator with no content",
-      "author": "vinsette",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }

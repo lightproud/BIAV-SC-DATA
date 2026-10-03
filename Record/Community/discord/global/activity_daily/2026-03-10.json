@@ -1,0 +1,250 @@
+{
+  "date": "2026-03-10",
+  "messages": 12066,
+  "unique_authors": 234,
+  "reactions_total": 2647,
+  "attachments": 617,
+  "channel_activity": {
+    "🔸綜合討論": 2160,
+    "🔸morimens-game-chat": 9698,
+    "1480932416100110557": 14,
+    "1480508385500725430": 6,
+    "1480844865909821561": 2,
+    "1480714817915453600": 7,
+    "🔸欢乐梗图": 4,
+    "🔸忘却前夜┊morimens-tv": 2,
+    "1480521077015838830": 1,
+    "1464228375316136072": 1,
+    "1480751817318072320": 4,
+    "1480751560018624585": 9,
+    "1480698140419166392": 2,
+    "1350058928020656178": 4,
+    "1305430084420898868": 2,
+    "1480918027921915944": 2,
+    "1480695722461368461": 24,
+    "1480644874326900737": 10,
+    "1480607476234584185": 10,
+    "1480905167988719677": 2,
+    "1480877864386691216": 4,
+    "1480870291365433374": 5,
+    "1480855209755414560": 4,
+    "1480852688286515242": 2,
+    "1480776040061337783": 7,
+    "1480855686123622472": 3,
+    "1477439262126379138": 3,
+    "1480578739426426982": 3,
+    "1480844678327701534": 12,
+    "1450337762829144255": 6,
+    "1479979789329633340": 4,
+    "1480774039533387816": 3,
+    "1181147096234065920": 1,
+    "1429401798439080028": 1,
+    "1476411978842116199": 2,
+    "1480093685944422580": 3,
+    "1475263387553501427": 5,
+    "1480558608365125632": 2,
+    "1480535314165399682": 4,
+    "1479378880467959889": 2,
+    "🔸礼包码┊gift-codes": 1,
+    "1480582691475689644": 2,
+    "1442647324575928441": 1,
+    "1445556242381672559": 4,
+    "1479428860591210528": 2,
+    "1480247826297389147": 1,
+    "1480588178598658169": 8,
+    "1468895834199298215": 7
+  },
+  "hourly_activity": {
+    "0": 328,
+    "1": 305,
+    "2": 293,
+    "3": 452,
+    "6": 290,
+    "7": 587,
+    "8": 703,
+    "9": 813,
+    "10": 835,
+    "11": 655,
+    "12": 494,
+    "13": 468,
+    "14": 275,
+    "15": 226,
+    "16": 639,
+    "17": 717,
+    "18": 425,
+    "19": 593,
+    "20": 543,
+    "21": 224,
+    "22": 567,
+    "23": 697,
+    "4": 607,
+    "5": 330
+  },
+  "message_types": {
+    "0": 7881,
+    "19": 4173,
+    "4": 12
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1480750710567211079",
+      "channel_id": "1355094251775459399",
+      "content": "🎁DC 37000守密人达成礼 / DC 37000 Keepers Achievement Gift\n\n感谢每一位守密人的喜爱与陪伴，守密人可复制下方兑换码在",
+      "author": "morimensstaff01",
+      "reactions": 542,
+      "channel": "🔸礼包码┊gift-codes"
+    },
+    {
+      "id": "1480758635888906315",
+      "channel_id": "1170692781216378960",
+      "content": "did it",
+      "author": "fishhazardthewizard",
+      "reactions": 25,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1480772397195071591",
+      "channel_id": "1180437373012672522",
+      "content": "進行一個超低技術力的P",
+      "author": "lingcheng.0",
+      "reactions": 21,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1480925991915487264",
+      "channel_id": "1131839817982947429",
+      "content": "願當你們一邊閒聊一邊離開此地時指引前路",
+      "author": "kevin.yienwenst",
+      "reactions": 12,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1480896195030159400",
+      "channel_id": "1464228375316136072",
+      "content": "not 100 % happy w this tbh but i tried smth new w lighting at least!!!!  maid mo",
+      "author": "mimiruku",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1480855686123622472",
+      "channel_id": "1480855686123622472",
+      "content": "前瞻？\n\n為了仿官方排版而弄出來的兩張必定不會用的廢稿，怎麼說還是很想發一下\n\n（P2）是初稿，當時沒有特別的靈感來源/原型，後來的二稿（P1）有稍微去看了下，",
+      "author": "ix_eternity",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1480714400414302422",
+      "channel_id": "1445556242381672559",
+      "content": "wip (this one may take a while to finish <:thinking1:1356068128936820929> )",
+      "author": "zzio_",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1480888403028607047",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "navirecorbeau",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1480908814877196379",
+      "channel_id": "1131839817982947429",
+      "content": "給你張圖當你們一邊閒聊，一邊離開此地時",
+      "author": "xingxiu_0209",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1480914193514496022",
+      "channel_id": "1131839817982947429",
+      "content": "哈基米到時候會不會出一個氪金的東西然後就是當你們一邊閒聊，一邊離開此地時",
+      "author": "ice_storys",
+      "reactions": 10,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1480941851161788427",
+      "channel_id": "1170692781216378960",
+      "content": "https://cdn.discordapp.com/attachments/1170692781216378960/1480709512225624136/v",
+      "author": "chinkeeyong",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1480947333104664779",
+      "channel_id": "1170692781216378960",
+      "content": "my baby gurl",
+      "author": "craux.",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1480695722461368461",
+      "channel_id": "1480695722461368461",
+      "content": "You can lose tentacle but you don't care if you lose all tentacle in \"Raging Wav",
+      "author": "yeriko703",
+      "reactions": 10,
+      "channel": ""
+    },
+    {
+      "id": "1480640106376466587",
+      "channel_id": "1479428860591210528",
+      "content": "啊啊啊啊啊我怎么才看到这个不要改阿拉克涅的立绘啊啊啊啊啊啊我就要最开始pv里那个啊啊啊啊为啥你们老爱负面优化啊啊啊上次诞墨也是，第一版诞墨立绘那个白色瞳孔真的很",
+      "author": "censini1122",
+      "reactions": 10,
+      "channel": ""
+    },
+    {
+      "id": "1480900880814444605",
+      "channel_id": "1131839817982947429",
+      "content": "当你说當你們一邊閒聊，一邊離開此地時是不是真的再说當你們一邊閒聊，一邊離開此地時还是只是因为bug的问题说當你們一邊閒聊，一邊離開此地時，或者是故意不小心當你們",
+      "author": "dittoqwq",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1480918697353810165",
+      "channel_id": "1131839817982947429",
+      "content": "我去突然痊愈了但是我的莫絲當你們一邊閒聊，一邊離開此地時...",
+      "author": "ahong0727",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1480729831766229122",
+      "channel_id": "1170692781216378960",
+      "content": "the way that the strikethrough line goes behind caecus instead of in front of hi",
+      "author": "arkaether",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1480731731329028227",
+      "channel_id": "1170692781216378960",
+      "content": "the devs told me they designed vortice \"for lens in discord\"",
+      "author": "princess.goth",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1480736234929393735",
+      "channel_id": "1170692781216378960",
+      "content": "Ok guys I have all my resources saved and ready for Arachne",
+      "author": "frosthief",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1480908622035685407",
+      "channel_id": "1170692781216378960",
+      "content": "Cheri's guide blowing up <:Catsiah:1441868724226228265>",
+      "author": "sirtealot",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "date": "2026-03-22",
+  "messages": 1295,
+  "unique_authors": 48,
+  "reactions_total": 406,
+  "attachments": 60,
+  "channel_activity": {
+    "🔸綜合討論": 1181,
+    "🔸邀请码互助┊swap-invitation-codes": 8,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "1485202178816872468": 7,
+    "1484467018118987888": 1,
+    "1350058928020656178": 1,
+    "1485263124826423376": 2,
+    "1485134529478922401": 3,
+    "1484457112628363284": 3,
+    "1450337762829144255": 4,
+    "🔸晒卡分享": 1,
+    "1484197027435905116": 2,
+    "1483901221344379060": 2,
+    "1485020903673958440": 16,
+    "1485271899348008970": 8,
+    "1485201668470739068": 5,
+    "🔸频道建议┊server-suggestions": 5,
+    "1482997212354187324": 3,
+    "1484804984855068702": 9,
+    "1485094734371225640": 3,
+    "1485200160173588480": 5,
+    "1484936409675464905": 13,
+    "1484503817683865610": 6,
+    "1483461060185817318": 2,
+    "1468895834199298215": 1,
+    "1477730088299663431": 3
+  },
+  "hourly_activity": {
+    "0": 67,
+    "1": 62,
+    "2": 50,
+    "4": 43,
+    "5": 26,
+    "7": 5,
+    "8": 3,
+    "9": 6,
+    "10": 23,
+    "11": 56,
+    "12": 126,
+    "13": 74,
+    "14": 5,
+    "15": 4,
+    "16": 10,
+    "17": 172,
+    "18": 37,
+    "19": 60,
+    "20": 13,
+    "21": 17,
+    "22": 314,
+    "23": 118,
+    "6": 4
+  },
+  "message_types": {
+    "19": 235,
+    "0": 1060
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1485201668470739068",
+      "channel_id": "1485201668470739068",
+      "content": "I love him like my son, but I can't help but think of how poor he would be under",
+      "author": "that_one_chippy",
+      "reactions": 39,
+      "channel": ""
+    },
+    {
+      "id": "1485020903673958440",
+      "channel_id": "1485020903673958440",
+      "content": "",
+      "author": "julip326",
+      "reactions": 31,
+      "channel": ""
+    },
+    {
+      "id": "1485202178816872468",
+      "channel_id": "1485202178816872468",
+      "content": "我視他如己出，但總忍不住想，若由我照顧他，他會過得多麼清貧。我們倆都身無分文，而我目前能給他的，僅僅只有一顆銀芯 <:flop1:135608360423680",
+      "author": "that_one_chippy",
+      "reactions": 16,
+      "channel": ""
+    },
+    {
+      "id": "1485263124826423376",
+      "channel_id": "1485263124826423376",
+      "content": "Enjoy this dumb meme",
+      "author": "celrxn",
+      "reactions": 14,
+      "channel": ""
+    },
+    {
+      "id": "1485087122217242674",
+      "channel_id": "1131839817982947429",
+      "content": "12 天, 375",
+      "author": "angbak",
+      "reactions": 12,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1485134529478922401",
+      "channel_id": "1485134529478922401",
+      "content": "UID:100336921\n\n畫爛了（\n耨個500銀\n~~主要是終章捏他，所以是個薛丁格的水仙~~",
+      "author": "foxcatfurry",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1485271899348008970",
+      "channel_id": "1485271899348008970",
+      "content": "",
+      "author": "noeyebunny.nobunsu",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1485202191043137647",
+      "channel_id": "1485020903673958440",
+      "content": "sorry but I had to",
+      "author": "sexysneakystoat1625",
+      "reactions": 10,
+      "channel": ""
+    },
+    {
+      "id": "1485230881479069821",
+      "channel_id": "1131839817982947429",
+      "content": "薩摩不耶大人有在這個群嗎",
+      "author": "li_qing_",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1485041122752331787",
+      "channel_id": "1485020903673958440",
+      "content": "",
+      "author": "julip326",
+      "reactions": 7,
+      "channel": ""
+    },
+    {
+      "id": "1485209468311437466",
+      "channel_id": "1131839817982947429",
+      "content": "我又去補了一個",
+      "author": "yy42974466",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1485138917417291826",
+      "channel_id": "1435483703114596503",
+      "content": "An exceedingly brief summary of the Caro Vortice team as well as a Whale Gamepla",
+      "author": "frosthief",
+      "reactions": 6,
+      "channel": "🔸忘却前夜┊morimens-tv"
+    },
+    {
+      "id": "1485240379371683950",
+      "channel_id": "1485202178816872468",
+      "content": "我刚查了一下，发现还剩3个银芯",
+      "author": "that_one_chippy",
+      "reactions": 6,
+      "channel": ""
+    },
+    {
+      "id": "1485108617215606894",
+      "channel_id": "1450337762829144255",
+      "content": "",
+      "author": "fishhazardthewizard",
+      "reactions": 6,
+      "channel": ""
+    },
+    {
+      "id": "1485238850606333993",
+      "channel_id": "1174983699935277147",
+      "content": "常驻池<:please:1356053110375714817>",
+      "author": "be_queitplease",
+      "reactions": 6,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1485238870395195573",
+      "channel_id": "1485202178816872468",
+      "content": "砸摳養我",
+      "author": "ass191044",
+      "reactions": 5,
+      "channel": ""
+    },
+    {
+      "id": "1485210271059546223",
+      "channel_id": "1485202178816872468",
+      "content": "I'll give you some.",
+      "author": "void_1546.",
+      "reactions": 4,
+      "channel": ""
+    },
+    {
+      "id": "1485139140491214949",
+      "channel_id": "1131839817982947429",
+      "content": "“有Image Relic（专造）的水母和没有的水母之间的差距就如Bio•鳕鱼寿司与豆皮卷一般，不可谓不大”",
+      "author": "polkarain",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1485283942398431342",
+      "channel_id": "1131839817982947429",
+      "content": "不然你可能被拖進南通的深淵",
+      "author": "xingkongzhiyao_",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1485284366123929620",
+      "channel_id": "1131839817982947429",
+      "content": "不要玩忘卻前夜",
+      "author": "xingkongzhiyao_",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

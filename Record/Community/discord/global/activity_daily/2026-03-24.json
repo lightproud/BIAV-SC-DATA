@@ -1,0 +1,236 @@
+{
+  "date": "2026-03-24",
+  "messages": 1150,
+  "unique_authors": 64,
+  "reactions_total": 263,
+  "attachments": 100,
+  "channel_activity": {
+    "🔸綜合討論": 653,
+    "🔸阵容构建": 279,
+    "🔸chaîne-française": 1,
+    "1379534998704488528": 3,
+    "1485960018887970967": 2,
+    "🔸deutscher-chatraum": 55,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "1485202178816872468": 1,
+    "1485879825217486918": 6,
+    "🔸课间休息闲聊": 5,
+    "1350058928020656178": 2,
+    "1485921490078662706": 3,
+    "1485809841552228363": 16,
+    "1485688845633585223": 2,
+    "1450337762829144255": 3,
+    "1485366013934436512": 2,
+    "1485672193634467960": 10,
+    "1428784257534529586": 5,
+    "1472620151634661499": 2,
+    "🔸晒卡分享": 2,
+    "1483901221344379060": 28,
+    "1485477316644831444": 3,
+    "1482997212354187324": 20,
+    "1450001353064714320": 5,
+    "1485201668470739068": 9,
+    "1485575438674825226": 3,
+    "1485613870176276531": 5,
+    "1485654793983758447": 11,
+    "1484503817683865610": 1,
+    "1479040225685798932": 1,
+    "1443848396585828363": 2,
+    "1384533675789783141": 2,
+    "1484491337695760396": 1,
+    "1468895834199298215": 1
+  },
+  "hourly_activity": {
+    "0": 21,
+    "1": 15,
+    "2": 14,
+    "9": 28,
+    "10": 24,
+    "11": 15,
+    "12": 20,
+    "13": 237,
+    "14": 325,
+    "15": 61,
+    "16": 57,
+    "17": 17,
+    "18": 12,
+    "19": 8,
+    "20": 98,
+    "21": 59,
+    "22": 83,
+    "23": 14,
+    "3": 24,
+    "5": 8,
+    "6": 1,
+    "8": 4,
+    "4": 2,
+    "7": 3
+  },
+  "message_types": {
+    "0": 883,
+    "19": 267
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1485879825217486918",
+      "channel_id": "1485879825217486918",
+      "content": "<:Nautila_think:1459077762684948500> uid：100652322",
+      "author": "chapelete5234",
+      "reactions": 20,
+      "channel": ""
+    },
+    {
+      "id": "1485688845633585223",
+      "channel_id": "1485688845633585223",
+      "content": "I really like Vortice so i decided to make a video about her as a showcase :)\nht",
+      "author": "princess.goth",
+      "reactions": 14,
+      "channel": ""
+    },
+    {
+      "id": "1485716228684386315",
+      "channel_id": "1450337762829144255",
+      "content": "cat upon request <@1164303137293729792> (99)",
+      "author": "fishhazardthewizard",
+      "reactions": 10,
+      "channel": ""
+    },
+    {
+      "id": "1485731809911242884",
+      "channel_id": "1482997212354187324",
+      "content": "we peaked",
+      "author": "bagels5899",
+      "reactions": 10,
+      "channel": ""
+    },
+    {
+      "id": "1485800314253607022",
+      "channel_id": "1435483703114596503",
+      "content": "https://www.youtube.com/watch?v=Zs2nc1waFPs  - 1h video going over Vortice made ",
+      "author": "syruponstrawberrycake",
+      "reactions": 9,
+      "channel": "🔸忘却前夜┊morimens-tv"
+    },
+    {
+      "id": "1485868472788324471",
+      "channel_id": "1174983699935277147",
+      "content": "媽媽我出雙金了",
+      "author": "shostakovich524",
+      "reactions": 6,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1485750706991403038",
+      "channel_id": "1482997212354187324",
+      "content": "it's like multiplying a negative by a negative. misinformation * genAI\nsee, that",
+      "author": "clair3682",
+      "reactions": 6,
+      "channel": ""
+    },
+    {
+      "id": "1485940997463478394",
+      "channel_id": "1482997212354187324",
+      "content": "Teaser tomorrow, trust",
+      "author": "crowlov1",
+      "reactions": 6,
+      "channel": ""
+    },
+    {
+      "id": "1485830596298277065",
+      "channel_id": "1428784257534529586",
+      "content": "【我重生了，重生到忘却前夜宣布关服的那天（2）-哔哩哔哩】 https://b23.tv/G5eQw6j",
+      "author": "void_1546.",
+      "reactions": 5,
+      "channel": ""
+    },
+    {
+      "id": "1485970632876363888",
+      "channel_id": "1174983699935277147",
+      "content": "普池<:goliath_spend:1468259820875415728>",
+      "author": "_buqi",
+      "reactions": 5,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1486022929274896405",
+      "channel_id": "1450001353064714320",
+      "content": "<:doresain_proud:1468257815238938645>",
+      "author": "melwyn7591",
+      "reactions": 5,
+      "channel": ""
+    },
+    {
+      "id": "1485687215337242825",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "0.0._.0_0.",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1486008073767354439",
+      "channel_id": "1131839817982947429",
+      "content": "跳過二階段的打法",
+      "author": "0.0._.0_0.",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1485914200596545660",
+      "channel_id": "1131839874132090890",
+      "content": "調查行動-夢的崩析——戰鬥回放\n守密人：晴天雲（101293414）\n\n塔薇、隱世的轉輪、巨人之刃、入藥之夢\n珈倫、極夜與破曉、你我終將重逢、埋骨地絮語\n哈姆林",
+      "author": "iulargerthan3",
+      "reactions": 4,
+      "channel": "🔸阵容构建"
+    },
+    {
+      "id": "1485914300701737112",
+      "channel_id": "1131839874132090890",
+      "content": "調查行動-夢的崩析——戰鬥回放\n守密人：晴天雲（101293414）\n\n塔薇、隱世的轉輪、-、入藥之夢\n誕妄·墨菲、黑暗中的安眠、-、生機榨取\n戈利亞、極夜與破",
+      "author": "iulargerthan3",
+      "reactions": 4,
+      "channel": "🔸阵容构建"
+    },
+    {
+      "id": "1485832565943435475",
+      "channel_id": "1482997212354187324",
+      "content": "",
+      "author": "skyfallterminus",
+      "reactions": 4,
+      "channel": ""
+    },
+    {
+      "id": "1485967544022990969",
+      "channel_id": "1131839817982947429",
+      "content": "“我们发现大量玩家过于依赖自动模式并机械式的完成各种对局，无论是主线，融灾，试用关卡亦或是活动。\n这件事有悖于我们最初开发自动模式的理由\n虽然我们在稍早之前已经",
+      "author": "ling_an_",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1485987517906817084",
+      "channel_id": "1131839817982947429",
+      "content": "<@1298268532017991702> \n快看\n101%的樂音<:wish:1356084702468899117>",
+      "author": "water_heart",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1485875626937417788",
+      "channel_id": "1485202178816872468",
+      "content": "我已经摆脱了贫困。今天我会给儿子买些纸杯蛋糕作为奖励<:doresain_proud:1468257815238938645>",
+      "author": "that_one_chippy",
+      "reactions": 3,
+      "channel": ""
+    },
+    {
+      "id": "1485738901061501111",
+      "channel_id": "1485366013934436512",
+      "content": "wip\nman it's taking time",
+      "author": "sexysneakystoat1625",
+      "reactions": 3,
+      "channel": ""
+    }
+  ]
+}

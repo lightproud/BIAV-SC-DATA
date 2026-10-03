@@ -1,0 +1,238 @@
+{
+  "date": "2026-03-28",
+  "messages": 1235,
+  "unique_authors": 78,
+  "reactions_total": 368,
+  "attachments": 110,
+  "channel_activity": {
+    "🔸綜合討論": 859,
+    "🔸chaîne-française": 5,
+    "1487437533401841898": 4,
+    "🔸剧情交流": 93,
+    "1487356490007183491": 3,
+    "🔸相位对弈": 15,
+    "1487263182165774537": 47,
+    "🔸deutscher-chatraum": 3,
+    "🔸邀请码互助┊swap-invitation-codes": 6,
+    "1484212697015914496": 1,
+    "1487469049716805753": 2,
+    "🔸课间休息闲聊": 7,
+    "1487152754722865344": 2,
+    "1487366344226766912": 2,
+    "1487333848076259349": 32,
+    "1450337762829144255": 8,
+    "1485672193634467960": 1,
+    "🔸晒卡分享": 5,
+    "1487196532066484409": 16,
+    "1487389233852452874": 6,
+    "1487273969148100698": 3,
+    "🔸频道建议┊server-suggestions": 5,
+    "🔸한국어-채팅방": 15,
+    "1487111853652840448": 10,
+    "1462840887553032335": 2,
+    "🔸两周年纪念反馈┊2yr-anniv-feedback": 2,
+    "1482997212354187324": 16,
+    "1486728811956670475": 2,
+    "1487420216257417276": 2,
+    "🔸机器人命令┊bot-commands": 17,
+    "1403373754175721657": 3,
+    "1485613870176276531": 1,
+    "1487087062581514392": 1,
+    "🔸erica-playground": 38,
+    "1468895834199298215": 1
+  },
+  "hourly_activity": {
+    "0": 110,
+    "1": 140,
+    "2": 65,
+    "3": 275,
+    "8": 2,
+    "9": 6,
+    "10": 17,
+    "11": 23,
+    "12": 18,
+    "13": 17,
+    "14": 26,
+    "15": 79,
+    "16": 46,
+    "17": 63,
+    "18": 97,
+    "19": 90,
+    "20": 32,
+    "21": 12,
+    "22": 69,
+    "23": 36,
+    "5": 7,
+    "7": 3,
+    "4": 1,
+    "6": 1
+  },
+  "message_types": {
+    "19": 239,
+    "0": 992,
+    "4": 1,
+    "20": 3
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1487389233852452874",
+      "channel_id": "1487389233852452874",
+      "content": "I just started this stupid drawing and 5 minutes in I feel like dying already",
+      "author": "peanutgod_ofsaturn",
+      "reactions": 39,
+      "channel": ""
+    },
+    {
+      "id": "1487366344226766912",
+      "channel_id": "1487366344226766912",
+      "content": "This is just a small QOL change, but I would find useful if we could have the op",
+      "author": "vxvendetta97",
+      "reactions": 15,
+      "channel": ""
+    },
+    {
+      "id": "1487196532066484409",
+      "channel_id": "1487196532066484409",
+      "content": "Wasn’t told really any specific things on if only fanart can be added here but m",
+      "author": "bandoh36",
+      "reactions": 15,
+      "channel": ""
+    },
+    {
+      "id": "1487273969148100698",
+      "channel_id": "1487273969148100698",
+      "content": "UID: 100664344\n\nsee https://discord.com/channels/1131791637933199470/14503377628",
+      "author": "fishhazardthewizard",
+      "reactions": 15,
+      "channel": ""
+    },
+    {
+      "id": "1487469049716805753",
+      "channel_id": "1487469049716805753",
+      "content": "For a first time full art, turned out pretty well I'd say <:Uvhash_power:1468258",
+      "author": "artigosaurus",
+      "reactions": 12,
+      "channel": ""
+    },
+    {
+      "id": "1487152754722865344",
+      "channel_id": "1487152754722865344",
+      "content": "ROMA",
+      "author": "deldry8",
+      "reactions": 12,
+      "channel": ""
+    },
+    {
+      "id": "1487271696023945489",
+      "channel_id": "1450337762829144255",
+      "content": "THANK YOU ALL FOR 100 ARACHNE IN 100 DAYS (+ 1 week)",
+      "author": "fishhazardthewizard",
+      "reactions": 10,
+      "channel": ""
+    },
+    {
+      "id": "1487123993059131393",
+      "channel_id": "1487111853652840448",
+      "content": "rahhhhh i was supposed to make jenkin too but i'm lazy and wigglypaint only has ",
+      "author": "glitzy_x",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1487416739250835538",
+      "channel_id": "1174983699935277147",
+      "content": "10抽3金",
+      "author": "be_queitplease",
+      "reactions": 7,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1487143531754557752",
+      "channel_id": "1131839817982947429",
+      "content": "我再也不诋毁攻势推演了<:ramona_wisdom:1468258669341966452>",
+      "author": "sweet_25367",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487446981302288476",
+      "channel_id": "1300659552701648960",
+      "content": "Le Vortice c’est de la merde",
+      "author": "bagels5899",
+      "reactions": 6,
+      "channel": "🔸chaîne-française"
+    },
+    {
+      "id": "1487333848076259349",
+      "channel_id": "1487333848076259349",
+      "content": "I only see a blank screen when clicking on daily quest. Re-starting makes no dif",
+      "author": "xagarath",
+      "reactions": 5,
+      "channel": ""
+    },
+    {
+      "id": "1487231986874716310",
+      "channel_id": "1450337762829144255",
+      "content": "Going to make an effort to doodle something small today even though everything i",
+      "author": "fishhazardthewizard",
+      "reactions": 5,
+      "channel": ""
+    },
+    {
+      "id": "1487138733881823354",
+      "channel_id": "1131839817982947429",
+      "content": "超猛",
+      "author": "0.0._.0_0.",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487156977984471050",
+      "channel_id": "1131839817982947429",
+      "content": "空闲创造价值",
+      "author": "ponponnyaru",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487450426659045527",
+      "channel_id": "1131839817982947429",
+      "content": "有人要来玩我的娜娜嘛，戳女王剑好快乐<:pray:1356053116260454534>   \n我喜欢带骑士诗，想要藏品也可以换喔",
+      "author": "sweet_25367",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487138885992579235",
+      "channel_id": "1173463482503536711",
+      "content": "親愛的神偉大的神 你可以怪我想法太過無知但我只是人 我不信人因為人也不信我不要問我為什麼 我最多只能告訴你這就是我 我願意懺悔並獻祭阿冰做1的機會 請讓sp奧吉",
+      "author": "ahong0727",
+      "reactions": 4,
+      "channel": "🔸剧情交流"
+    },
+    {
+      "id": "1487403762845749419",
+      "channel_id": "1131839817982947429",
+      "content": "調查行動-融災禁區·第3波·V級警報——戰鬥回放\n守密人：TheAL（100829965）\n\n雷婭、饕餮寓言、重生於湮土、埋骨地絮語\n克萊門汀、隱沒的痛楚、催眠",
+      "author": "theal8893",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487131770964017183",
+      "channel_id": "1131839817982947429",
+      "content": "誰他媽聯動池出完沒多久就倒",
+      "author": "hon_ey0",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487144394044870788",
+      "channel_id": "1131839817982947429",
+      "content": "大水母，垃圾临时加固🚮",
+      "author": "sweet_25367",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

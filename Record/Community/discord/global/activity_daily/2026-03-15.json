@@ -1,0 +1,234 @@
+{
+  "date": "2026-03-15",
+  "messages": 5667,
+  "unique_authors": 156,
+  "reactions_total": 1247,
+  "attachments": 249,
+  "channel_activity": {
+    "🔸綜合討論": 405,
+    "🔸morimens-game-chat": 5116,
+    "1482727556003139635": 3,
+    "🔸日本語チャンネル": 12,
+    "1482676813304955092": 2,
+    "1482653493465448448": 7,
+    "🔸欢乐梗图": 3,
+    "1482485254018302144": 2,
+    "🔸课间休息闲聊": 17,
+    "1482421188365127690": 16,
+    "1482743333041344623": 2,
+    "1482702865041588315": 15,
+    "1482676949188087849": 2,
+    "1482651954588029130": 13,
+    "1482614157957267566": 3,
+    "1482582420862664916": 3,
+    "1482628066084782123": 4,
+    "1450337762829144255": 2,
+    "1479979789329633340": 1,
+    "1482627182831599688": 8,
+    "1473178110831759402": 7,
+    "🐱light’s-nest": 1,
+    "1234769700735418368": 1,
+    "1350059696945500171": 1,
+    "1482707568991408373": 6,
+    "🔸两周年纪念反馈┊2yr-anniv-feedback": 1,
+    "1481894447762378813": 4,
+    "1482623756470980709": 2,
+    "1403373754175721657": 2,
+    "1481958417085235343": 1,
+    "1384533675789783141": 4,
+    "1468895834199298215": 1
+  },
+  "hourly_activity": {
+    "0": 126,
+    "1": 385,
+    "2": 256,
+    "3": 229,
+    "4": 340,
+    "8": 198,
+    "10": 158,
+    "11": 282,
+    "12": 508,
+    "13": 406,
+    "14": 387,
+    "15": 232,
+    "16": 471,
+    "17": 332,
+    "18": 257,
+    "19": 306,
+    "20": 8,
+    "21": 15,
+    "22": 21,
+    "23": 10,
+    "5": 123,
+    "6": 222,
+    "7": 212,
+    "9": 183
+  },
+  "message_types": {
+    "19": 1905,
+    "0": 3760,
+    "20": 2
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1482573621103820930",
+      "channel_id": "1426837316533747823",
+      "content": "**Bird Soaring in the Azure Sky**\n*by 鸢尾诗(Iris Poetry) on QQ Channel*\n\n\"I often ",
+      "author": "game.producer.light",
+      "reactions": 120,
+      "channel": "🐱light’s-nest"
+    },
+    {
+      "id": "1482707568991408373",
+      "channel_id": "1482707568991408373",
+      "content": "I love leigh <:leigh_like:1468258513405870121>",
+      "author": "peanutgod_ofsaturn",
+      "reactions": 54,
+      "channel": ""
+    },
+    {
+      "id": "1482702865041588315",
+      "channel_id": "1482702865041588315",
+      "content": "There are several characters that could benefit from small adjustments or tweaks",
+      "author": "sonatadocantora",
+      "reactions": 35,
+      "channel": ""
+    },
+    {
+      "id": "1482627182831599688",
+      "channel_id": "1482627182831599688",
+      "content": "I do not have any excuse, I guess other than hand practice that is <:MC_Jointhef",
+      "author": "that_one_chippy",
+      "reactions": 25,
+      "channel": ""
+    },
+    {
+      "id": "1482421188365127690",
+      "channel_id": "1482421188365127690",
+      "content": "For the love of god,  almost no one in the community likes, or even plays this g",
+      "author": "zzz1pp3rr",
+      "reactions": 21,
+      "channel": ""
+    },
+    {
+      "id": "1482468157171171520",
+      "channel_id": "1450337762829144255",
+      "content": "",
+      "author": "fishhazardthewizard",
+      "reactions": 13,
+      "channel": ""
+    },
+    {
+      "id": "1482651954588029130",
+      "channel_id": "1482651954588029130",
+      "content": "It makes absolutely ZERO sense that Vortice, a random nobody inspired from EAP s",
+      "author": "skyfallterminus",
+      "reactions": 12,
+      "channel": ""
+    },
+    {
+      "id": "1482727556003139635",
+      "channel_id": "1482727556003139635",
+      "content": "It would be nice if either:\n1) You edited the main page so that a screenshot con",
+      "author": "jollysquire",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1482574076294856866",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "game.producer.light",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482699970443215024",
+      "channel_id": "1170692781216378960",
+      "content": "<@939547142090018816> <@464582708325122049>  👍",
+      "author": "re_x_er",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482743333041344623",
+      "channel_id": "1482743333041344623",
+      "content": "Hello, i'm grateful for the features allowing background and BGM customization -",
+      "author": "nactra",
+      "reactions": 10,
+      "channel": ""
+    },
+    {
+      "id": "1482628066084782123",
+      "channel_id": "1482628066084782123",
+      "content": "我其實沒什麼理由畫這幅畫……我想你可以說我真的很想練習畫手<:MC_Jointhefun2:1468258739181195286> \n\n祝你度過一個充滿愛的美",
+      "author": "that_one_chippy",
+      "reactions": 10,
+      "channel": ""
+    },
+    {
+      "id": "1482531945647837345",
+      "channel_id": "1481894447762378813",
+      "content": "https://youtu.be/bPy0giz8RaI?is=5FM-Nj4xNy5d-DOm\n\nFor the uneducated. You are we",
+      "author": "crowlov1",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1482634467750187021",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1482675707325845650",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1482614157957267566",
+      "channel_id": "1482614157957267566",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": ""
+    },
+    {
+      "id": "1482418343456804914",
+      "channel_id": "1170692781216378960",
+      "content": "Imagine co-op morimens...",
+      "author": "fishhazardthewizard",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482597548819615905",
+      "channel_id": "1170692781216378960",
+      "content": "bro i papercut myself",
+      "author": "dracozion",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482683763325665321",
+      "channel_id": "1170692781216378960",
+      "content": "hmmmmm",
+      "author": "whirli_twirli",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482694105405456496",
+      "channel_id": "1170692781216378960",
+      "content": "\"are you overweight or are you mpregged\"",
+      "author": "whirli_twirli",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

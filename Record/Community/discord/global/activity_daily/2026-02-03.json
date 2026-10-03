@@ -1,10 +1,23 @@
 {
   "date": "2026-02-03",
-  "messages": 10405,
+  "messages": 12509,
   "unique_authors": 201,
-  "reactions_total": 1395,
-  "attachments": 494,
+  "reactions_total": 2274,
+  "attachments": 610,
   "channel_activity": {
+    "🔸canal-español": 351,
+    "🔸canal-português": 248,
+    "🔸ruang-obrolan-indonesia": 45,
+    "🔸ห้องสนทนาภาษาไทย": 96,
+    "🔸traphase": 67,
+    "🔸lore-chat": 71,
+    "🔸服务器公告┊server-announcement": 2,
+    "🔸频道建议┊server-suggestions": 3,
+    "🔸team-building": 319,
+    "🔸general-chat": 353,
+    "🔸邀请码互助┊swap-invitation-codes": 2,
+    "🔸game-question": 506,
+    "🔸机器人命令┊bot-commands": 41,
     "🔸綜合討論": 1759,
     "🔸阵容构建": 57,
     "🔸morimens-game-chat": 7083,
@@ -22,37 +35,53 @@
     "🔸lets-count": 11
   },
   "hourly_activity": {
-    "0": 582,
-    "1": 523,
-    "2": 427,
-    "6": 299,
-    "7": 248,
-    "8": 400,
-    "9": 358,
-    "10": 198,
-    "11": 444,
-    "12": 617,
-    "13": 606,
-    "14": 267,
-    "15": 334,
-    "16": 354,
-    "17": 364,
-    "18": 484,
-    "19": 668,
-    "20": 572,
-    "21": 547,
-    "22": 452,
-    "23": 598,
-    "5": 357,
-    "3": 410,
-    "4": 296
+    "0": 767,
+    "1": 827,
+    "2": 546,
+    "3": 497,
+    "4": 534,
+    "5": 379,
+    "6": 356,
+    "7": 331,
+    "8": 472,
+    "9": 383,
+    "10": 235,
+    "12": 652,
+    "13": 685,
+    "14": 332,
+    "17": 405,
+    "19": 800,
+    "20": 655,
+    "22": 536,
+    "23": 802,
+    "21": 558,
+    "11": 476,
+    "15": 356,
+    "16": 399,
+    "18": 526
   },
   "message_types": {
-    "0": 7436,
-    "19": 2968,
+    "19": 3487,
+    "0": 9021,
     "20": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1467951696121692272",
+      "channel_id": "1354754985119846581",
+      "content": "Hey everyone! 👋\n\nHard to believe it, but we’ve officially hit the 2-year mark! 🎂",
+      "author": "cometovilla",
+      "reactions": 600,
+      "channel": "🔸服务器公告┊server-announcement"
+    },
+    {
+      "id": "1467952587868471357",
+      "channel_id": "1354754985119846581",
+      "content": "",
+      "author": "cometovilla",
+      "reactions": 147,
+      "channel": "🔸服务器公告┊server-announcement"
+    },
     {
       "id": "1468259387192770714",
       "channel_id": "1131839817982947429",
@@ -190,28 +219,12 @@
       "channel": "🔸晒卡分享"
     },
     {
-      "id": "1468123845209751635",
-      "channel_id": "1131839817982947429",
-      "content": "不 我沒有他\n我要玩他的難度可能是0.12%",
-      "author": "xingxiu_0209",
+      "id": "1468257316909613219",
+      "channel_id": "1385040039448412170",
+      "content": "aight, i will edit the emoji, might take some time",
+      "author": "craux.",
       "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1468223359224643835",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "Deleted User",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1467989037443973367",
-      "channel_id": "1131839874132090890",
-      "content": "成了  全常駐踏破忘卻篇<:M_satisfy:1400771690321154110> \n\n調查行動-蚍蜉——戰鬥回放\n守密人：Sora（101489547）",
-      "author": "partycatss.",
-      "reactions": 5,
-      "channel": "🔸阵容构建"
+      "channel": "🔸频道建议┊server-suggestions"
     }
   ]
 }

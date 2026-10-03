@@ -1,10 +1,22 @@
 {
   "date": "2026-02-12",
-  "messages": 8355,
+  "messages": 11746,
   "unique_authors": 221,
-  "reactions_total": 1405,
-  "attachments": 413,
+  "reactions_total": 1699,
+  "attachments": 602,
   "channel_activity": {
+    "🔸canal-español": 813,
+    "🔸canal-português": 112,
+    "🔸ruang-obrolan-indonesia": 162,
+    "🔸ห้องสนทนาภาษาไทย": 192,
+    "🔸traphase": 38,
+    "🔸lore-chat": 91,
+    "🔸team-building": 268,
+    "🔸general-chat": 440,
+    "🔸邀请码互助┊swap-invitation-codes": 8,
+    "🔸game-question": 1227,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 39,
     "🔸綜合討論": 692,
     "🔸阵容构建": 78,
     "🔸morimens-game-chat": 6630,
@@ -29,35 +41,35 @@
     "🔸lets-count": 12
   },
   "hourly_activity": {
-    "0": 394,
-    "1": 456,
-    "2": 258,
-    "3": 491,
-    "4": 296,
-    "6": 385,
-    "8": 329,
-    "9": 263,
-    "10": 158,
-    "11": 498,
-    "12": 433,
-    "13": 420,
-    "14": 380,
-    "15": 272,
-    "16": 587,
-    "17": 457,
-    "18": 319,
-    "19": 235,
-    "20": 193,
-    "21": 364,
-    "22": 307,
-    "23": 255,
-    "5": 271,
-    "7": 334
+    "0": 594,
+    "1": 580,
+    "2": 472,
+    "3": 865,
+    "4": 384,
+    "5": 486,
+    "6": 484,
+    "7": 706,
+    "8": 624,
+    "9": 421,
+    "10": 206,
+    "11": 532,
+    "12": 514,
+    "14": 444,
+    "15": 426,
+    "16": 672,
+    "19": 304,
+    "22": 466,
+    "23": 385,
+    "21": 458,
+    "13": 463,
+    "17": 565,
+    "20": 250,
+    "18": 445
   },
   "message_types": {
-    "0": 5952,
-    "19": 2399,
-    "20": 3,
+    "19": 3224,
+    "0": 8509,
+    "20": 12,
     "23": 1
   },
   "top_reacted_messages": [
@@ -94,6 +106,14 @@
       "channel": ""
     },
     {
+      "id": "1471188808044249280",
+      "channel_id": "1435483703114596503",
+      "content": "https://youtu.be/r1Q0Zv_1Lnw\nPollux getting fixed makes him one of the best carr",
+      "author": "zier.0",
+      "reactions": 12,
+      "channel": "🔸忘却前夜┊morimens-tv"
+    },
+    {
       "id": "1471410827083911321",
       "channel_id": "1471410827083911321",
       "content": "I saw a twt post about this concept so I had to draw Mouchette and Salvador with",
@@ -108,6 +128,14 @@
       "author": "water_heart",
       "reactions": 10,
       "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1471361017341542430",
+      "channel_id": "1300659662311526512",
+      "content": "Me complace anunciar que cumplí un mes ya jugando este juegazo <:Karen_Happy_Bir",
+      "author": "waka_mole",
+      "reactions": 9,
+      "channel": "🔸canal-español"
     },
     {
       "id": "1471416379360935977",
@@ -202,22 +230,6 @@
       "channel_id": "1131839817982947429",
       "content": "",
       "author": "abhartach_0",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1471374409452486781",
-      "channel_id": "1131839817982947429",
-      "content": "~~困難好像沒啥難度~~",
-      "author": "quackdayo",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1471400256032735425",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "navirecorbeau",
       "reactions": 5,
       "channel": "🔸綜合討論"
     }

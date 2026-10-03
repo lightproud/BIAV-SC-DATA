@@ -1,10 +1,23 @@
 {
   "date": "2026-02-05",
-  "messages": 12845,
+  "messages": 15587,
   "unique_authors": 218,
-  "reactions_total": 1889,
-  "attachments": 400,
+  "reactions_total": 2131,
+  "attachments": 512,
   "channel_activity": {
+    "🔸canal-español": 264,
+    "🔸canal-português": 80,
+    "🔸ruang-obrolan-indonesia": 29,
+    "🔸ห้องสนทนาภาษาไทย": 351,
+    "🔸traphase": 7,
+    "🔸lore-chat": 267,
+    "🔸频道建议┊server-suggestions": 11,
+    "🔸team-building": 213,
+    "🔸general-chat": 557,
+    "🔸邀请码互助┊swap-invitation-codes": 9,
+    "🔸game-question": 920,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 33,
     "🔸綜合討論": 1790,
     "🔸阵容构建": 79,
     "🔸morimens-game-chat": 8031,
@@ -26,35 +39,35 @@
     "🔸lets-count": 15
   },
   "hourly_activity": {
-    "0": 892,
-    "1": 844,
-    "3": 365,
-    "6": 193,
-    "7": 168,
-    "8": 239,
-    "9": 260,
-    "10": 313,
-    "11": 270,
-    "12": 116,
-    "13": 180,
-    "14": 472,
-    "15": 857,
-    "16": 915,
-    "17": 1146,
-    "18": 1127,
-    "19": 696,
-    "20": 869,
-    "21": 722,
-    "22": 582,
-    "23": 548,
-    "2": 493,
-    "4": 181,
-    "5": 397
+    "0": 1132,
+    "1": 877,
+    "3": 430,
+    "4": 296,
+    "5": 463,
+    "8": 317,
+    "9": 293,
+    "10": 368,
+    "11": 334,
+    "13": 260,
+    "14": 548,
+    "15": 1032,
+    "16": 1044,
+    "17": 1613,
+    "18": 1169,
+    "20": 1133,
+    "21": 977,
+    "23": 642,
+    "6": 211,
+    "7": 211,
+    "22": 838,
+    "19": 726,
+    "2": 510,
+    "12": 163
   },
   "message_types": {
-    "19": 3531,
-    "0": 9311,
-    "20": 1,
+    "19": 4167,
+    "0": 11416,
+    "20": 2,
     "46": 2
   },
   "top_reacted_messages": [
@@ -131,6 +144,14 @@
       "channel": "🔸晒卡分享"
     },
     {
+      "id": "1468645165391675426",
+      "channel_id": "1385040039448412170",
+      "content": "To clarify, our jurisdiction is limited to this server. We should not be passing",
+      "author": "cometovilla",
+      "reactions": 8,
+      "channel": "🔸频道建议┊server-suggestions"
+    },
+    {
       "id": "1468769229900611664",
       "channel_id": "1170692781216378960",
       "content": "One day you’ll find out there are men in the game",
@@ -145,6 +166,14 @@
       "author": "princess.goth",
       "reactions": 8,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1468975140661628978",
+      "channel_id": "1385040039448412170",
+      "content": "The ban should've happened a long time ago. People keep enabling him to do whate",
+      "author": "velmi",
+      "reactions": 7,
+      "channel": "🔸频道建议┊server-suggestions"
     },
     {
       "id": "1468657775604142313",
@@ -179,6 +208,14 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1468964279989436448",
+      "channel_id": "1400750050208125010",
+      "content": "<@214749389632176129> i sleep and next day, i can make 1mil+ in valley",
+      "author": "arisuu0604",
+      "reactions": 6,
+      "channel": "🔸general-chat"
+    },
+    {
       "id": "1468782118673842268",
       "channel_id": "1131839817982947429",
       "content": "",
@@ -193,30 +230,6 @@
       "author": "water_heart",
       "reactions": 6,
       "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1468868623006433291",
-      "channel_id": "1131839817982947429",
-      "content": "🤓 怎么找到我的",
-      "author": "galagalaguo",
-      "reactions": 6,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1468879408130424915",
-      "channel_id": "1170692781216378960",
-      "content": "the new gamemode is where daff will shine",
-      "author": "princess.goth",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1468933931696001167",
-      "channel_id": "1170692781216378960",
-      "content": "Pull 24 for \"Yes I tried blue 24 and it sucks\" badge",
-      "author": "2ndselna",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
     }
   ]
 }

@@ -1,0 +1,245 @@
+{
+  "date": "2026-03-12",
+  "messages": 10179,
+  "unique_authors": 190,
+  "reactions_total": 2062,
+  "attachments": 366,
+  "channel_activity": {
+    "🔸綜合討論": 711,
+    "🔸阵容构建": 32,
+    "🔸morimens-game-chat": 9305,
+    "1480932416100110557": 1,
+    "1480484107304828968": 2,
+    "1471356257708408843": 3,
+    "1480844865909821561": 9,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "1480698140419166392": 7,
+    "1305430084420898868": 4,
+    "1481417778190880913": 6,
+    "1481403794272161903": 9,
+    "1481679674882003124": 4,
+    "1481656078340067449": 3,
+    "1481542628645408850": 6,
+    "1480855686123622472": 1,
+    "1480505857824522371": 1,
+    "1480987640126771340": 1,
+    "1480644874326900737": 2,
+    "1481227735027154974": 2,
+    "1450337762829144255": 6,
+    "1480774039533387816": 1,
+    "1481301904435712060": 4,
+    "1481311980336972006": 1,
+    "1481319632450228344": 10,
+    "1480855209755414560": 2,
+    "1481228956958195762": 1,
+    "1480509345467728045": 2,
+    "1479378880467959889": 1,
+    "1473787301178904847": 1,
+    "1481278716981149807": 1,
+    "1481244497584062545": 3,
+    "1481105700984721439": 2,
+    "1480852688286515242": 3,
+    "1448648649486635128": 2,
+    "1480905167988719677": 1,
+    "1479428860591210528": 4,
+    "1455453095592071269": 10,
+    "1480418105694883900": 1,
+    "1480444697997479977": 7,
+    "1468895834199298215": 4,
+    "1477730088299663431": 2
+  },
+  "hourly_activity": {
+    "0": 490,
+    "2": 437,
+    "5": 305,
+    "7": 498,
+    "8": 350,
+    "9": 571,
+    "10": 415,
+    "11": 445,
+    "12": 513,
+    "13": 208,
+    "14": 582,
+    "15": 479,
+    "16": 354,
+    "17": 491,
+    "18": 454,
+    "19": 461,
+    "20": 380,
+    "21": 250,
+    "22": 222,
+    "23": 563,
+    "1": 450,
+    "3": 479,
+    "4": 601,
+    "6": 181
+  },
+  "message_types": {
+    "0": 6367,
+    "19": 3794,
+    "46": 1,
+    "4": 17
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1481396414260187271",
+      "channel_id": "1170692781216378960",
+      "content": "You should through apples like Caraboo.",
+      "author": "climbkaly",
+      "reactions": 37,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481508061758623838",
+      "channel_id": "1170692781216378960",
+      "content": "Me: Hello Chat.\nEllie: Tomatos me",
+      "author": "brainrot_in_a_vat",
+      "reactions": 33,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481493258965221527",
+      "channel_id": "1305430084420898868",
+      "content": "NO.30",
+      "author": "morimensstaff01",
+      "reactions": 26,
+      "channel": ""
+    },
+    {
+      "id": "1481359562526425171",
+      "channel_id": "1170692781216378960",
+      "content": "Hello, everyone! I had finally reached Doresain E3+4 and I am very happy, felt l",
+      "author": "disgustedingucci",
+      "reactions": 19,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481403794272161903",
+      "channel_id": "1481403794272161903",
+      "content": "to unlock Ramona, one of the starting awakeners and your biggest companion in th",
+      "author": "vxvendetta97",
+      "reactions": 17,
+      "channel": ""
+    },
+    {
+      "id": "1481548666886951053",
+      "channel_id": "1455453095592071269",
+      "content": "",
+      "author": "morimensstaff01",
+      "reactions": 15,
+      "channel": ""
+    },
+    {
+      "id": "1481476519204491346",
+      "channel_id": "1170692781216378960",
+      "content": "That's supposed to be Flares",
+      "author": "zamzamwithanextrazam",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481587458171863171",
+      "channel_id": "1170692781216378960",
+      "content": "1. Add \"【互刷】\" after your name, e.g., \"夏茉琳PVP 互刷\".\n2. When you encounter someone ",
+      "author": "muliupan",
+      "reactions": 13,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481578078974246963",
+      "channel_id": "1479428860591210528",
+      "content": "一边为了赚氪佬单推的钱要出唤醒体+12的强化，一边莫斯这个角色又设计的高配低配没多大差别，数值策划还是引咎辞职吧。",
+      "author": "lingyujiling",
+      "reactions": 13,
+      "channel": ""
+    },
+    {
+      "id": "1481337070483017758",
+      "channel_id": "1170692781216378960",
+      "content": "Wow actually guys i just try vortice with her posse and its better than i though",
+      "author": "2ndselna",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481477767429230766",
+      "channel_id": "1170692781216378960",
+      "content": "who needs damage when you have utilty (5 gnosis used)",
+      "author": "legalizedcarnage",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481508563271553094",
+      "channel_id": "1170692781216378960",
+      "content": "I cant believe people are tomatospiring against me",
+      "author": "brainrot_in_a_vat",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481345504485965924",
+      "channel_id": "1170692781216378960",
+      "content": "**SKIP Vortice NOW!** ⛈️  📉 Because the community 🧑‍🤝‍🧑 realized 💡 that she is a",
+      "author": "bagels5899",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481553856776376494",
+      "channel_id": "1170692781216378960",
+      "content": "can we use AI",
+      "author": "l8989c",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481587591907377263",
+      "channel_id": "1170692781216378960",
+      "content": "We plan to match into each other and take turns winning rounds to quickly farm t",
+      "author": "muliupan",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481587689651441735",
+      "channel_id": "1170692781216378960",
+      "content": "So we want players in the English server region to know about this as well.",
+      "author": "muliupan",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481630522852638750",
+      "channel_id": "1170692781216378960",
+      "content": "Hello gang",
+      "author": "fruetloops",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481513040393277500",
+      "channel_id": "1131839817982947429",
+      "content": "【沙子在父母面前对着舞者打野炮】 https://www.bilibili.com/video/BV1TvcQz5EXn/?share_source=copy_",
+      "author": "lululu9858",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1481362048670498917",
+      "channel_id": "1170692781216378960",
+      "content": "Hi Megi! I am Chill/Corn! I used to be incredibly active during summer time and ",
+      "author": "disgustedingucci",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481364747797528618",
+      "channel_id": "1170692781216378960",
+      "content": "behold, enough for +12 🔥",
+      "author": "blecnes.",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

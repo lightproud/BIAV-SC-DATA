@@ -1,0 +1,244 @@
+{
+  "date": "2026-03-30",
+  "messages": 2336,
+  "unique_authors": 163,
+  "reactions_total": 232,
+  "attachments": 218,
+  "channel_activity": {
+    "🔸綜合討論": 1173,
+    "1482261084101541969": 1,
+    "1487437533401841898": 4,
+    "🔸剧情交流": 6,
+    "🔸general-chat": 99,
+    "🔸相位对弈": 4,
+    "1486936365110136832": 3,
+    "🔸canal-español": 90,
+    "🔸deutscher-chatraum": 7,
+    "🔸欢乐梗图": 4,
+    "1488150923212750938": 5,
+    "🔸邀请码互助┊swap-invitation-codes": 20,
+    "1487519396921479289": 1,
+    "1487892571677134898": 2,
+    "1487861511497060384": 4,
+    "1488204690226282697": 2,
+    "1488034886081319055": 2,
+    "1487986256057995470": 2,
+    "1487974727736754317": 2,
+    "🔸traphase": 93,
+    "1450337762829144255": 6,
+    "🔸阵容构建": 37,
+    "1487677251632762970": 2,
+    "1428784257534529586": 2,
+    "🔸晒卡分享": 5,
+    "🔸русский-канал": 86,
+    "🔸한국어-채팅방": 58,
+    "1487111853652840448": 15,
+    "🔸canal-português": 85,
+    "1482997212354187324": 9,
+    "🔸lore-chat": 71,
+    "🔸ห้องสนทนาภาษาไทย": 70,
+    "1446091938456539279": 3,
+    "1486728811956670475": 4,
+    "🔸机器人命令┊bot-commands": 47,
+    "1421408684776357929": 10,
+    "🔸erica-playground": 17,
+    "1357184174485671966": 1,
+    "🔸team-building": 100,
+    "🔸ruang-obrolan-indonesia": 99,
+    "🔸game-question": 80,
+    "1468895834199298215": 5
+  },
+  "hourly_activity": {
+    "0": 147,
+    "1": 157,
+    "2": 128,
+    "4": 5,
+    "5": 9,
+    "7": 24,
+    "8": 67,
+    "9": 80,
+    "10": 129,
+    "11": 47,
+    "12": 87,
+    "13": 35,
+    "14": 92,
+    "15": 100,
+    "16": 24,
+    "17": 55,
+    "18": 99,
+    "19": 92,
+    "20": 230,
+    "21": 206,
+    "22": 287,
+    "6": 23,
+    "23": 201,
+    "3": 12
+  },
+  "message_types": {
+    "0": 1821,
+    "19": 499,
+    "20": 16
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1488014540875501628",
+      "channel_id": "1174983699935277147",
+      "content": "常駐是我一輩子的神",
+      "author": "oiia_0216",
+      "reactions": 9,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1488078641022631956",
+      "channel_id": "1131839817982947429",
+      "content": "打完了",
+      "author": "ponponnyaru",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1488146654015262793",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "lurenjiao",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1488204690226282697",
+      "channel_id": "1488204690226282697",
+      "content": "The poison that goes over the cap will be reduced if you choose to enter Ultra T",
+      "author": "2ndselna",
+      "reactions": 6,
+      "channel": ""
+    },
+    {
+      "id": "1488049732055072828",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1488057575713931308",
+      "channel_id": "1131839817982947429",
+      "content": "425",
+      "author": "0.0._.0_0.",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1488058773472808981",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "polkarain",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1488147887568457788",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "arthasiv",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1488130193750233088",
+      "channel_id": "1174983699935277147",
+      "content": "謝謝官方補償",
+      "author": "ena04564",
+      "reactions": 5,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1488089560981442672",
+      "channel_id": "1482997212354187324",
+      "content": "We also had to wait a lot for mist sequence to arrive, but no one was really yea",
+      "author": "dyssayah",
+      "reactions": 5,
+      "channel": ""
+    },
+    {
+      "id": "1488090545862611034",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1488092752880074883",
+      "channel_id": "1131839817982947429",
+      "content": "不好玩\n別來融災了\n根本不想打",
+      "author": "water_heart",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1488141935108686024",
+      "channel_id": "1131839817982947429",
+      "content": "依舊沒啥壓力",
+      "author": "quackdayo",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487855933391634483",
+      "channel_id": "1173463482503536711",
+      "content": "🤩",
+      "author": "ice_storys",
+      "reactions": 4,
+      "channel": "🔸剧情交流"
+    },
+    {
+      "id": "1487934101926183073",
+      "channel_id": "1300659662311526512",
+      "content": "",
+      "author": "salami_87",
+      "reactions": 4,
+      "channel": "🔸canal-español"
+    },
+    {
+      "id": "1487892571677134898",
+      "channel_id": "1487892571677134898",
+      "content": "這是被塔薇奪舍了吧",
+      "author": "shaw_51",
+      "reactions": 4,
+      "channel": ""
+    },
+    {
+      "id": "1488008348853993562",
+      "channel_id": "1131839817982947429",
+      "content": "逆屬性打贏",
+      "author": "dog794",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1488084126975135825",
+      "channel_id": "1131839817982947429",
+      "content": "感覺是 我最近40多級的小號 暴食吃完血量有1K",
+      "author": "theal8893",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1488132483525382274",
+      "channel_id": "1131839817982947429",
+      "content": "是回文数诶<:pray:1356053116260454534>",
+      "author": "sweet_25367",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1488110486728998943",
+      "channel_id": "1131839874132090890",
+      "content": "拼尽全力终于战胜，感觉我好菜啊\n有什么适合打列车的队伍吗",
+      "author": "txt101225.",
+      "reactions": 3,
+      "channel": "🔸阵容构建"
+    }
+  ]
+}

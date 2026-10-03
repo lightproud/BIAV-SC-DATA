@@ -1,12 +1,25 @@
 {
   "date": "2026-03-01",
-  "messages": 3436,
-  "unique_authors": 86,
-  "reactions_total": 477,
-  "attachments": 137,
+  "messages": 9384,
+  "unique_authors": 198,
+  "reactions_total": 1099,
+  "attachments": 437,
   "channel_activity": {
-    "🔸綜合討論": 253,
-    "🔸morimens-game-chat": 3087,
+    "🔸phòng-chat-tiếng-việt": 378,
+    "🔸canal-español": 274,
+    "🔸canal-português": 106,
+    "🔸ruang-obrolan-indonesia": 1,
+    "🔸ห้องสนทนาภาษาไทย": 73,
+    "🔸traphase": 7,
+    "🔸lore-chat": 9,
+    "🔸team-building": 289,
+    "🔸general-chat": 12,
+    "🔸邀请码互助┊swap-invitation-codes": 1,
+    "🔸game-question": 293,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 15,
+    "🔸綜合討論": 1233,
+    "🔸morimens-game-chat": 6596,
     "🔸한국어-채팅방": 4,
     "🔸deutscher-chatraum": 72,
     "🔸русский-канал": 12,
@@ -15,19 +28,35 @@
     "🔸lets-count": 6
   },
   "hourly_activity": {
-    "0": 483,
-    "1": 553,
-    "2": 350,
-    "3": 184,
-    "4": 398,
-    "5": 678,
-    "6": 426,
-    "7": 363,
-    "16": 1
+    "0": 631,
+    "1": 911,
+    "2": 485,
+    "7": 461,
+    "4": 442,
+    "5": 1080,
+    "6": 572,
+    "3": 312,
+    "8": 310,
+    "9": 352,
+    "10": 154,
+    "11": 39,
+    "12": 153,
+    "13": 116,
+    "14": 86,
+    "15": 268,
+    "16": 99,
+    "17": 417,
+    "18": 177,
+    "19": 326,
+    "20": 383,
+    "21": 703,
+    "22": 572,
+    "23": 335
   },
   "message_types": {
-    "0": 2055,
-    "19": 1381
+    "19": 3084,
+    "0": 6287,
+    "20": 13
   },
   "top_reacted_messages": [
     {
@@ -55,11 +84,59 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1477658022179373096",
+      "channel_id": "1170692781216378960",
+      "content": "ellie if u cant handle me moving your waifu lower on a tier list maybe u should ",
+      "author": "chinkeeyong",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1477445649866821754",
       "channel_id": "1170692781216378960",
       "content": "https://cdn.discordapp.com/attachments/1324466276470624279/1427741591707189338/7",
       "author": "blecnes.",
       "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477658688444432496",
+      "channel_id": "1170692781216378960",
+      "content": "i put this in my guide",
+      "author": "chinkeeyong",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477680776135835668",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "good.th",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477566792657539256",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1477648535125233666",
+      "channel_id": "1131839817982947429",
+      "content": "~~你們長草期長草到開始PVP了嗎~~",
+      "author": "heikwok",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1477666147989192885",
+      "channel_id": "1170692781216378960",
+      "content": "25",
+      "author": "whirli_bri",
+      "reactions": 6,
       "channel": "🔸morimens-game-chat"
     },
     {
@@ -79,6 +156,30 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1477636772300198052",
+      "channel_id": "1170692781216378960",
+      "content": "The reason its taking so long is because theyre waiting for the Guilty Gear fran",
+      "author": "cornonthemacabre_",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477650693589569608",
+      "channel_id": "1170692781216378960",
+      "content": "Yeah she's ugly",
+      "author": "spooky_penguin_",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1477672738821767239",
+      "channel_id": "1170692781216378960",
+      "content": "Clem Pickman Thais",
+      "author": "vinsette",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
       "id": "1477419978486714479",
       "channel_id": "1170692781216378960",
       "content": "there's dore",
@@ -95,99 +196,27 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1477355474214060325",
-      "channel_id": "1170692781216378960",
-      "content": "ㅤ ㅤㅤ",
-      "author": "spooky_penguin_",
+      "id": "1477402422153576590",
+      "channel_id": "1400750050208125010",
+      "content": "Although my stay here was short, I am very grateful for the warm welcome I recei",
+      "author": "junyuricchi",
       "reactions": 4,
-      "channel": "🔸morimens-game-chat"
+      "channel": "🔸general-chat"
     },
     {
-      "id": "1477405471869636759",
-      "channel_id": "1170692781216378960",
-      "content": "",
-      "author": "princess.goth",
+      "id": "1477674859264999517",
+      "channel_id": "1131839817982947429",
+      "content": "所以我們玩爆發吧",
+      "author": "water_heart",
       "reactions": 4,
-      "channel": "🔸morimens-game-chat"
+      "channel": "🔸綜合討論"
     },
     {
-      "id": "1477416758246899712",
+      "id": "1477548480741249176",
       "channel_id": "1170692781216378960",
-      "content": "So only trash?",
-      "author": "lelouch045",
+      "content": "God I wish they put Gtulu in fishnet stockings",
+      "author": "joker_0108",
       "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1477434080512708808",
-      "channel_id": "1170692781216378960",
-      "content": "True\nEveryone in this channel can be wrong but me \nIt's fine\nI'll still try to h",
-      "author": "legendaryredz",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1477438424205103346",
-      "channel_id": "1170692781216378960",
-      "content": "no stress",
-      "author": "blecnes.",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1477441426827513916",
-      "channel_id": "1170692781216378960",
-      "content": "most people here think i am based and that i have a great aura",
-      "author": "blecnes.",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1477348463996960921",
-      "channel_id": "1170692781216378960",
-      "content": "ye esepecially since its like my only hobby that costs money. I write and draw t",
-      "author": "dracozion",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1477357041931649155",
-      "channel_id": "1170692781216378960",
-      "content": "<@113374123798859776> I forgot i sold the one that had more kills <:dead:1356082",
-      "author": "blecnes.",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1477415756462559283",
-      "channel_id": "1170692781216378960",
-      "content": "eglish teacher... <:Tulu_stare:1468258231078879325>",
-      "author": "not_blueberry",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1477419675372617944",
-      "channel_id": "1170692781216378960",
-      "content": "Ok I will reproduction frenzy every aequor",
-      "author": "megidola.",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1477422355889258586",
-      "channel_id": "1170692781216378960",
-      "content": "is caro",
-      "author": "arandomflamev2",
-      "reactions": 3,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1477422952101183582",
-      "channel_id": "1170692781216378960",
-      "content": "U should be happy Clem will be buffed since she's so low on his tier list",
-      "author": "lelouch045",
-      "reactions": 3,
       "channel": "🔸morimens-game-chat"
     }
   ]

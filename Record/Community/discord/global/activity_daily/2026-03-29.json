@@ -1,0 +1,238 @@
+{
+  "date": "2026-03-29",
+  "messages": 885,
+  "unique_authors": 88,
+  "reactions_total": 442,
+  "attachments": 97,
+  "channel_activity": {
+    "🔸綜合討論": 389,
+    "🔸阵容构建": 161,
+    "1482261084101541969": 1,
+    "🔸剧情交流": 1,
+    "🔸deutscher-chatraum": 2,
+    "🔸欢乐梗图": 2,
+    "🔸邀请码互助┊swap-invitation-codes": 11,
+    "1487508365814005972": 6,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "1487519396921479289": 8,
+    "1487707118621556846": 2,
+    "1487511891634032841": 4,
+    "1487819314634690560": 2,
+    "1487706656958713937": 2,
+    "1450337762829144255": 5,
+    "1487677251632762970": 7,
+    "🐱light’s-nest": 2,
+    "🔸晒卡分享": 8,
+    "🔸交友频道": 21,
+    "1487485175796465907": 3,
+    "1487836650557149294": 2,
+    "1487817386856939690": 2,
+    "🔸频道建议┊server-suggestions": 4,
+    "1487389233852452874": 1,
+    "1487111853652840448": 13,
+    "1482997212354187324": 2,
+    "🔸lore-chat": 29,
+    "🔸ห้องสนทนาภาษาไทย": 10,
+    "1480558608365125632": 1,
+    "1487263182165774537": 40,
+    "1486251108971319386": 1,
+    "🔸机器人命令┊bot-commands": 35,
+    "1403373754175721657": 5,
+    "1487333848076259349": 48,
+    "🔸erica-playground": 45,
+    "1456239100989542555": 9
+  },
+  "hourly_activity": {
+    "0": 86,
+    "1": 42,
+    "2": 38,
+    "3": 16,
+    "4": 7,
+    "5": 20,
+    "7": 11,
+    "9": 18,
+    "10": 21,
+    "11": 23,
+    "12": 6,
+    "13": 28,
+    "14": 34,
+    "15": 28,
+    "16": 29,
+    "17": 63,
+    "19": 32,
+    "20": 35,
+    "21": 48,
+    "22": 102,
+    "23": 151,
+    "8": 10,
+    "18": 7,
+    "6": 30
+  },
+  "message_types": {
+    "19": 154,
+    "0": 730,
+    "20": 1
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1487649400292511935",
+      "channel_id": "1426837316533747823",
+      "content": "大家好！非常抱歉，我的旧帐号不慎丢失了，今后将通过这个帐号与大家保持联系。因此，最近私信我的朋友们我也无法继续回复了，非常抱歉！特此告知，也提醒各位注意帐号安全",
+      "author": "lightproud",
+      "reactions": 105,
+      "channel": "🐱light’s-nest"
+    },
+    {
+      "id": "1487519396921479289",
+      "channel_id": "1487519396921479289",
+      "content": "Hope you like it!",
+      "author": "piereenee",
+      "reactions": 46,
+      "channel": ""
+    },
+    {
+      "id": "1487836650557149294",
+      "channel_id": "1487836650557149294",
+      "content": "Art for my queen Liz",
+      "author": "piereenee",
+      "reactions": 38,
+      "channel": ""
+    },
+    {
+      "id": "1487485175796465907",
+      "channel_id": "1487485175796465907",
+      "content": "I recently got her. I thought she was so cute, so here she is",
+      "author": "maackiacartis",
+      "reactions": 28,
+      "channel": ""
+    },
+    {
+      "id": "1487497599190827089",
+      "channel_id": "1174983699935277147",
+      "content": "?",
+      "author": "ahong0727",
+      "reactions": 12,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1487498941447798819",
+      "channel_id": "1174983699935277147",
+      "content": "10抽",
+      "author": "ahong0727",
+      "reactions": 7,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1487753887275548773",
+      "channel_id": "1180437373012672522",
+      "content": "好久沒畫新怪圖了（浮出",
+      "author": "ass191044",
+      "reactions": 6,
+      "channel": "🔸欢乐梗图"
+    },
+    {
+      "id": "1487817386856939690",
+      "channel_id": "1487817386856939690",
+      "content": "This tournament will take place on April 4th (Saturday) at 20:00 (KST).\nThe artw",
+      "author": "gacha_ping",
+      "reactions": 6,
+      "channel": ""
+    },
+    {
+      "id": "1487819314634690560",
+      "channel_id": "1487819314634690560",
+      "content": "We currently have around seven participants gathered so far.\nThere are also memb",
+      "author": "gacha_ping",
+      "reactions": 5,
+      "channel": ""
+    },
+    {
+      "id": "1487723750735741063",
+      "channel_id": "1194835209242296410",
+      "content": "100371741",
+      "author": "harowolf",
+      "reactions": 5,
+      "channel": "🔸交友频道"
+    },
+    {
+      "id": "1487597657621794901",
+      "channel_id": "1435483703114596503",
+      "content": "First choice Standards to help new account\n\nhttps://youtu.be/4Qaw3qB0LYc",
+      "author": "climbkaly",
+      "reactions": 4,
+      "channel": "🔸忘却前夜┊morimens-tv"
+    },
+    {
+      "id": "1487526355691114659",
+      "channel_id": "1450337762829144255",
+      "content": "Here’s the piece i initially did for yesterday btw but I lost it in car",
+      "author": "fishhazardthewizard",
+      "reactions": 4,
+      "channel": ""
+    },
+    {
+      "id": "1487501470369579189",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487662216345026570",
+      "channel_id": "1131839817982947429",
+      "content": "<@1487626955791663208> \n~~倒是記得把日服dc加回去~~",
+      "author": "foxcatfurry",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487816244580061244",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "kevin.yienwenst",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487715443354374214",
+      "channel_id": "1194835209242296410",
+      "content": "",
+      "author": "trevorsuyu",
+      "reactions": 3,
+      "channel": "🔸交友频道"
+    },
+    {
+      "id": "1487689141675098183",
+      "channel_id": "1131839817982947429",
+      "content": "五點的班",
+      "author": "xingxiu_0209",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487689265084235827",
+      "channel_id": "1131839817982947429",
+      "content": "他看起來很塞",
+      "author": "xingxiu_0209",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487690472196673667",
+      "channel_id": "1131839817982947429",
+      "content": "<:Corpo_advance:1459080545882341376>",
+      "author": "Deleted User",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487737461852602418",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "sense25.",
+      "reactions": 2,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

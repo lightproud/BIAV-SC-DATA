@@ -1,10 +1,23 @@
 {
   "date": "2026-02-13",
-  "messages": 5980,
+  "messages": 8321,
   "unique_authors": 192,
-  "reactions_total": 1043,
-  "attachments": 309,
+  "reactions_total": 1256,
+  "attachments": 423,
   "channel_activity": {
+    "🔸canal-español": 133,
+    "🔸canal-português": 84,
+    "🔸ruang-obrolan-indonesia": 31,
+    "🔸ห้องสนทนาภาษาไทย": 44,
+    "🔸traphase": 15,
+    "🔸lore-chat": 215,
+    "🔸频道建议┊server-suggestions": 6,
+    "🔸team-building": 161,
+    "🔸general-chat": 759,
+    "🔸邀请码互助┊swap-invitation-codes": 7,
+    "🔸game-question": 865,
+    "🔸游戏问题": 1,
+    "🔸机器人命令┊bot-commands": 20,
     "🔸綜合討論": 598,
     "🔸阵容构建": 8,
     "🔸morimens-game-chat": 5006,
@@ -25,36 +38,36 @@
     "🔸lets-count": 12
   },
   "hourly_activity": {
-    "0": 244,
-    "1": 201,
-    "3": 48,
-    "7": 233,
-    "8": 60,
-    "9": 111,
-    "10": 180,
-    "11": 453,
-    "12": 129,
-    "13": 219,
-    "14": 68,
-    "15": 169,
-    "16": 481,
-    "17": 373,
-    "18": 541,
-    "19": 345,
-    "20": 163,
-    "21": 385,
-    "22": 438,
-    "23": 654,
-    "4": 291,
-    "2": 91,
-    "5": 46,
-    "6": 57
+    "0": 348,
+    "2": 167,
+    "3": 76,
+    "4": 368,
+    "5": 89,
+    "6": 77,
+    "7": 293,
+    "8": 94,
+    "9": 230,
+    "10": 237,
+    "11": 584,
+    "12": 202,
+    "13": 397,
+    "20": 285,
+    "23": 817,
+    "1": 258,
+    "16": 572,
+    "21": 412,
+    "22": 764,
+    "18": 637,
+    "19": 453,
+    "17": 616,
+    "14": 129,
+    "15": 216
   },
   "message_types": {
-    "0": 4182,
-    "19": 1793,
-    "23": 1,
-    "20": 4
+    "19": 2366,
+    "0": 5946,
+    "20": 8,
+    "23": 1
   },
   "top_reacted_messages": [
     {
@@ -72,6 +85,14 @@
       "author": "shadiaodiaodeyu_89215",
       "reactions": 15,
       "channel": ""
+    },
+    {
+      "id": "1471826457822232597",
+      "channel_id": "1400750050208125010",
+      "content": "<@296679098703544321> try this",
+      "author": "arisuu0604",
+      "reactions": 11,
+      "channel": "🔸general-chat"
     },
     {
       "id": "1471763288579637328",
@@ -154,6 +175,14 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1471719633244520538",
+      "channel_id": "1326453763355185215",
+      "content": "||also i love how xu's note doesn't mention wanda lmao||",
+      "author": "insigible",
+      "reactions": 6,
+      "channel": "🔸lore-chat"
+    },
+    {
       "id": "1471695306851745929",
       "channel_id": "1131839817982947429",
       "content": "<@806384001895890965>",
@@ -198,22 +227,6 @@
       "channel_id": "1170692781216378960",
       "content": "She ate like 7 Thais babies and 5 normal babies",
       "author": "linireo",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1471786513003184190",
-      "channel_id": "1170692781216378960",
-      "content": "say I should go back to the hospital",
-      "author": "flares117",
-      "reactions": 6,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1471830920507035679",
-      "channel_id": "1170692781216378960",
-      "content": "Oh wait im stupid",
-      "author": "spooky_penguin_",
       "reactions": 6,
       "channel": "🔸morimens-game-chat"
     }

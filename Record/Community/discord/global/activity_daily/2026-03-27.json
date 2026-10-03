@@ -1,0 +1,225 @@
+{
+  "date": "2026-03-27",
+  "messages": 1325,
+  "unique_authors": 63,
+  "reactions_total": 456,
+  "attachments": 102,
+  "channel_activity": {
+    "🔸綜合討論": 1123,
+    "1487022864304570439": 6,
+    "🔸日本語チャンネル": 2,
+    "1486959459405398157": 8,
+    "🔸相位对弈": 79,
+    "1486936365110136832": 5,
+    "1486757176612622566": 3,
+    "🔸邀请码互助┊swap-invitation-codes": 13,
+    "1458371914018979971": 1,
+    "🔸课间休息闲聊": 2,
+    "1487087062581514392": 2,
+    "1486968631970500769": 12,
+    "1486948650750971914": 6,
+    "1486642972224393216": 4,
+    "1467225902029996154": 1,
+    "1485672193634467960": 14,
+    "1486993726738796646": 3,
+    "🔸交友频道": 6,
+    "1487111853652840448": 3,
+    "🔸한국어-채팅방": 16,
+    "1486728811956670475": 2,
+    "1450001353064714320": 1,
+    "1485613870176276531": 11,
+    "1468895834199298215": 2
+  },
+  "hourly_activity": {
+    "0": 68,
+    "1": 183,
+    "3": 16,
+    "6": 5,
+    "7": 10,
+    "8": 27,
+    "9": 25,
+    "10": 10,
+    "11": 13,
+    "12": 25,
+    "13": 16,
+    "14": 201,
+    "15": 52,
+    "16": 12,
+    "17": 131,
+    "18": 17,
+    "19": 106,
+    "20": 71,
+    "21": 94,
+    "22": 41,
+    "23": 200,
+    "2": 1,
+    "5": 1
+  },
+  "message_types": {
+    "0": 1062,
+    "19": 258,
+    "4": 5
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1487111853652840448",
+      "channel_id": "1487111853652840448",
+      "content": "i did this instead of reviewing for exams dear lord help me",
+      "author": "glitzy_x",
+      "reactions": 84,
+      "channel": ""
+    },
+    {
+      "id": "1486763294839799908",
+      "channel_id": "1485613870176276531",
+      "content": "finally done, this took a while <:W_falldown:1400771812542906389>",
+      "author": "zzio_",
+      "reactions": 35,
+      "channel": ""
+    },
+    {
+      "id": "1486959459405398157",
+      "channel_id": "1486959459405398157",
+      "content": "because someone wants more Morimens art",
+      "author": "floralynn",
+      "reactions": 30,
+      "channel": ""
+    },
+    {
+      "id": "1486757176612622566",
+      "channel_id": "1486757176612622566",
+      "content": "",
+      "author": "ice_storys",
+      "reactions": 13,
+      "channel": ""
+    },
+    {
+      "id": "1487115498150826125",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487015363484061806",
+      "channel_id": "1180850818509971466",
+      "content": "800分...莫丝...牛逼...! (昏倒",
+      "author": "ahong0727",
+      "reactions": 6,
+      "channel": "🔸相位对弈"
+    },
+    {
+      "id": "1486970233230200882",
+      "channel_id": "1131839817982947429",
+      "content": "425!",
+      "author": "angbak",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487000308608401531",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "kevin.yienwenst",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487020358791069786",
+      "channel_id": "1131839817982947429",
+      "content": "100429960",
+      "author": "water_heart",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487097821139173428",
+      "channel_id": "1131839817982947429",
+      "content": "~~㓇草男娘~~",
+      "author": "kemomimi_",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1486869313863286805",
+      "channel_id": "1485613870176276531",
+      "content": "Hello, your drawing is excellent!\nI am the creator of the Morimens Mod and Oriso",
+      "author": "_cwz_",
+      "reactions": 4,
+      "channel": ""
+    },
+    {
+      "id": "1486974932356431922",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "angbak",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487026686091460720",
+      "channel_id": "1131839817982947429",
+      "content": "血希",
+      "author": "water_heart",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487110316771774565",
+      "channel_id": "1131839817982947429",
+      "content": "~~新手入坑嗎\n我建議退坑~~",
+      "author": "foxcatfurry",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487111993042272456",
+      "channel_id": "1131839817982947429",
+      "content": "aaa沒有魅力",
+      "author": "foxcatfurry",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487112331208036393",
+      "channel_id": "1131839817982947429",
+      "content": "那有人能幫我課金嗎",
+      "author": "ass191044",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487114298164777114",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487115201718255686",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "0.0._.0_0.",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487116410940428389",
+      "channel_id": "1131839817982947429",
+      "content": "這也不需要凹啊",
+      "author": "water_heart",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1487118776632610967",
+      "channel_id": "1131839817982947429",
+      "content": "我每期都還得靠這種神秘隊伍才能拖住4-5",
+      "author": "water_heart",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

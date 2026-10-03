@@ -1,10 +1,23 @@
 {
   "date": "2026-02-02",
-  "messages": 8382,
+  "messages": 10331,
   "unique_authors": 174,
-  "reactions_total": 1208,
-  "attachments": 399,
+  "reactions_total": 1374,
+  "attachments": 528,
   "channel_activity": {
+    "🔸canal-español": 370,
+    "🔸canal-português": 43,
+    "🔸ruang-obrolan-indonesia": 9,
+    "🔸ห้องสนทนาภาษาไทย": 458,
+    "🔸traphase": 14,
+    "🔸lore-chat": 33,
+    "🔸频道建议┊server-suggestions": 1,
+    "🔸team-building": 188,
+    "🔸general-chat": 312,
+    "🔸邀请码互助┊swap-invitation-codes": 3,
+    "🔸game-question": 499,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 18,
     "🔸綜合討論": 676,
     "🔸阵容构建": 4,
     "🔸morimens-game-chat": 6060,
@@ -25,35 +38,35 @@
     "🔸lets-count": 9
   },
   "hourly_activity": {
-    "0": 1179,
-    "1": 738,
-    "2": 410,
-    "3": 83,
-    "4": 77,
-    "6": 152,
-    "7": 195,
-    "8": 171,
-    "9": 349,
-    "10": 196,
-    "11": 472,
-    "12": 213,
-    "13": 388,
-    "14": 355,
-    "15": 290,
-    "16": 368,
-    "17": 340,
-    "18": 245,
-    "19": 212,
-    "20": 275,
-    "21": 484,
-    "22": 547,
-    "23": 614,
-    "5": 29
+    "0": 1208,
+    "1": 770,
+    "2": 453,
+    "3": 111,
+    "4": 109,
+    "5": 49,
+    "6": 169,
+    "7": 217,
+    "8": 260,
+    "9": 385,
+    "10": 262,
+    "11": 523,
+    "12": 248,
+    "13": 437,
+    "14": 390,
+    "15": 323,
+    "16": 486,
+    "17": 366,
+    "19": 252,
+    "21": 644,
+    "22": 1107,
+    "23": 850,
+    "18": 391,
+    "20": 321
   },
   "message_types": {
-    "19": 2154,
-    "0": 6227,
-    "20": 1
+    "0": 7709,
+    "19": 2620,
+    "20": 2
   },
   "top_reacted_messages": [
     {
@@ -169,6 +182,14 @@
       "channel": ""
     },
     {
+      "id": "1467908468835877162",
+      "channel_id": "1300659662311526512",
+      "content": "es que tienes que entender dux",
+      "author": "ancientbp",
+      "reactions": 6,
+      "channel": "🔸canal-español"
+    },
+    {
       "id": "1467708072716931285",
       "channel_id": "1131839817982947429",
       "content": "对面的茉夏好吵喔<:dead:1356082627509092372>",
@@ -193,28 +214,20 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1467703243114283070",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "water_heart",
+      "id": "1467858938610323619",
+      "channel_id": "1433513650299076780",
+      "content": "Game with no content and no new players, ofc we will fight between each other fo",
+      "author": "spooky_penguin_",
       "reactions": 5,
-      "channel": "🔸綜合討論"
+      "channel": "🔸game-question"
     },
     {
-      "id": "1467813365308067850",
-      "channel_id": "1131839817982947429",
-      "content": "",
-      "author": "ahong0727",
+      "id": "1467890386205675601",
+      "channel_id": "1433513650299076780",
+      "content": "Flex btw",
+      "author": "spooky_penguin_",
       "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1467902417873010812",
-      "channel_id": "1131839817982947429",
-      "content": "~~把貓踢了換人來做~~",
-      "author": "yy42974466",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
+      "channel": "🔸game-question"
     }
   ]
 }

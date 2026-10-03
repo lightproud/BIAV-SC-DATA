@@ -1,0 +1,236 @@
+{
+  "date": "2026-03-20",
+  "messages": 1542,
+  "unique_authors": 59,
+  "reactions_total": 296,
+  "attachments": 100,
+  "channel_activity": {
+    "🔸綜合討論": 1155,
+    "🔸阵容构建": 50,
+    "🔸chaîne-française": 1,
+    "🔸日本語チャンネル": 8,
+    "1431233782605807666": 1,
+    "1484500847911239871": 10,
+    "1484457112628363284": 9,
+    "1484451981773901947": 4,
+    "🔸邀请码互助┊swap-invitation-codes": 3,
+    "1484212697015914496": 7,
+    "1484467018118987888": 29,
+    "🔸课间休息闲聊": 7,
+    "1350058928020656178": 1,
+    "1484222166051586078": 4,
+    "1484348005346840678": 3,
+    "1450337762829144255": 2,
+    "1428784257534529586": 59,
+    "🔸晒卡分享": 11,
+    "1484197027435905116": 1,
+    "1482002768637071370": 4,
+    "1484144971341762641": 5,
+    "1484481613445468272": 3,
+    "1484400599561801799": 4,
+    "1482090443851432056": 1,
+    "1462840887553032335": 1,
+    "1450001353064714320": 8,
+    "1483319878071877792": 1,
+    "1482043230072864960": 1,
+    "1403373754175721657": 4,
+    "1484405129414443209": 3,
+    "1484503817683865610": 24,
+    "1484491337695760396": 99,
+    "1384533675789783141": 5,
+    "1181998821291606097": 1,
+    "1484048299894902926": 11,
+    "1468895834199298215": 2
+  },
+  "hourly_activity": {
+    "0": 161,
+    "1": 13,
+    "2": 21,
+    "7": 17,
+    "8": 13,
+    "9": 6,
+    "10": 30,
+    "11": 61,
+    "12": 226,
+    "13": 120,
+    "14": 41,
+    "15": 67,
+    "16": 206,
+    "17": 70,
+    "18": 213,
+    "19": 164,
+    "20": 64,
+    "21": 32,
+    "22": 12,
+    "23": 3,
+    "3": 1,
+    "6": 1
+  },
+  "message_types": {
+    "0": 1247,
+    "19": 292,
+    "4": 3
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1484400599561801799",
+      "channel_id": "1484400599561801799",
+      "content": "",
+      "author": "floriography",
+      "reactions": 15,
+      "channel": ""
+    },
+    {
+      "id": "1484467090726584522",
+      "channel_id": "1484467018118987888",
+      "content": "**V2.4.3.3 Online Maintenance Announcement**\n\nDear Keeper,\nThe Mythag Administra",
+      "author": "morimensstaff02",
+      "reactions": 9,
+      "channel": ""
+    },
+    {
+      "id": "1484347039591432192",
+      "channel_id": "1450337762829144255",
+      "content": "My two favorite existences",
+      "author": "fishhazardthewizard",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1484481613445468272",
+      "channel_id": "1484481613445468272",
+      "content": "Funny little Horla/Sanga fic. Leave it to the French artistry lesbians to push \"",
+      "author": "al_leyway",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1484467018118987888",
+      "channel_id": "1484467018118987888",
+      "content": "守密人你好：\n       弥萨格大学校务处将于3月20日16:30(UTC+8) 进行校内设施修复，更新完成后您将得到通知，重新进入游戏。对于更新可能给大家带",
+      "author": "morimensstaff02",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1484467226336559198",
+      "channel_id": "1484467018118987888",
+      "content": "[Event]\n● Fixed an issue in the event \"Phase Reversal\" where Keepers who had pre",
+      "author": "morimensstaff02",
+      "reactions": 7,
+      "channel": ""
+    },
+    {
+      "id": "1484474479106330634",
+      "channel_id": "1131839817982947429",
+      "content": "我現在可以看到我忘生抽了8331次",
+      "author": "water_heart",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1484475032108400701",
+      "channel_id": "1131839817982947429",
+      "content": "发现已经看不了这个成就的次数了",
+      "author": "navirecorbeau",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1484476439465295872",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "navirecorbeau",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1484228123787530340",
+      "channel_id": "1450001353064714320",
+      "content": "At least you got a response. Goyo san is pretending the post about '24' doesn't ",
+      "author": "yeriko703",
+      "reactions": 5,
+      "channel": ""
+    },
+    {
+      "id": "1484228768448118834",
+      "channel_id": "1450001353064714320",
+      "content": "Goya is just waiting for it to hit 23999k messages so they can say no as message",
+      "author": "bagels5899",
+      "reactions": 5,
+      "channel": ""
+    },
+    {
+      "id": "1484222037278064814",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "a._0320",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1484405830429442108",
+      "channel_id": "1131839817982947429",
+      "content": "深海毒只要優化掉深海就完美了",
+      "author": "ice_storys",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1484469193666723930",
+      "channel_id": "1131839817982947429",
+      "content": "他很好笑的是\n前一兩週日服才更新5抽2金這條上去",
+      "author": "foxcatfurry",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1484480690551656478",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "0.0._.0_0.",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1484495288197578804",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "ahong0727",
+      "reactions": 4,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1484259675435438271",
+      "channel_id": "1174983699935277147",
+      "content": "",
+      "author": "hon_ey0",
+      "reactions": 4,
+      "channel": "🔸晒卡分享"
+    },
+    {
+      "id": "1484481645821296761",
+      "channel_id": "1484481613445468272",
+      "content": "https://docs.google.com/document/d/1j1izSyJvfk80N9DE6TR_73zoA_b1MRa5/edit?usp=dr",
+      "author": "al_leyway",
+      "reactions": 4,
+      "channel": ""
+    },
+    {
+      "id": "1484251623592038571",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "a._0320",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1484354829730975744",
+      "channel_id": "1131839817982947429",
+      "content": "<a:emoji_52:994500107116482600>",
+      "author": "kemomimi_",
+      "reactions": 3,
+      "channel": "🔸綜合討論"
+    }
+  ]
+}

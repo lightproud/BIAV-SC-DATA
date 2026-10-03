@@ -1,10 +1,20 @@
 {
   "date": "2026-02-14",
-  "messages": 8303,
+  "messages": 12953,
   "unique_authors": 239,
-  "reactions_total": 1221,
-  "attachments": 461,
+  "reactions_total": 1594,
+  "attachments": 603,
   "channel_activity": {
+    "🔸canal-español": 250,
+    "🔸canal-português": 72,
+    "🔸ruang-obrolan-indonesia": 24,
+    "🔸ห้องสนทนาภาษาไทย": 103,
+    "🔸lore-chat": 52,
+    "🔸team-building": 116,
+    "🔸general-chat": 2274,
+    "🔸邀请码互助┊swap-invitation-codes": 10,
+    "🔸game-question": 1726,
+    "🔸机器人命令┊bot-commands": 23,
     "🔸綜合討論": 774,
     "🔸阵容构建": 25,
     "🔸morimens-game-chat": 6979,
@@ -36,35 +46,35 @@
     "🔸lets-count": 9
   },
   "hourly_activity": {
-    "0": 619,
-    "1": 354,
-    "2": 504,
-    "5": 85,
-    "7": 205,
-    "9": 365,
-    "10": 564,
-    "11": 267,
-    "12": 197,
-    "13": 270,
-    "14": 284,
-    "15": 297,
-    "16": 366,
-    "17": 409,
-    "18": 276,
-    "19": 524,
-    "20": 387,
-    "21": 447,
-    "22": 336,
-    "23": 399,
-    "3": 348,
-    "4": 589,
-    "6": 75,
-    "8": 136
+    "0": 927,
+    "1": 638,
+    "2": 562,
+    "3": 436,
+    "4": 645,
+    "5": 176,
+    "6": 152,
+    "7": 416,
+    "8": 292,
+    "9": 694,
+    "10": 761,
+    "12": 282,
+    "13": 413,
+    "20": 581,
+    "22": 897,
+    "23": 769,
+    "11": 653,
+    "19": 608,
+    "21": 940,
+    "16": 430,
+    "17": 456,
+    "18": 373,
+    "14": 459,
+    "15": 393
   },
   "message_types": {
-    "0": 5670,
-    "19": 2632,
-    "20": 1
+    "19": 3911,
+    "0": 9037,
+    "20": 5
   },
   "top_reacted_messages": [
     {
@@ -106,6 +116,14 @@
       "author": "9ix_eternity",
       "reactions": 10,
       "channel": ""
+    },
+    {
+      "id": "1472054392101539902",
+      "channel_id": "1300659662311526512",
+      "content": "🇧 🇴 🇲 🇧 🇦",
+      "author": "duxadcloria",
+      "reactions": 9,
+      "channel": "🔸canal-español"
     },
     {
       "id": "1472225761154039872",
@@ -216,14 +234,6 @@
       "channel_id": "1170692781216378960",
       "content": "",
       "author": "polkarain",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1472224940559433791",
-      "channel_id": "1170692781216378960",
-      "content": "Wtf the live stream event promised 400 silver but gave us 600. I want compensati",
-      "author": "aurora3981",
       "reactions": 5,
       "channel": "🔸morimens-game-chat"
     }

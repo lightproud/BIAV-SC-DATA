@@ -1,0 +1,234 @@
+{
+  "date": "2026-03-07",
+  "messages": 8624,
+  "unique_authors": 191,
+  "reactions_total": 2890,
+  "attachments": 417,
+  "channel_activity": {
+    "🔸綜合討論": 741,
+    "🔸阵容构建": 4,
+    "🔸morimens-game-chat": 7639,
+    "1479737727556653106": 10,
+    "1479855628506632304": 2,
+    "1440735573206761734": 9,
+    "1479736301807997100": 3,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "1479041964916736002": 1,
+    "1479859913420312606": 2,
+    "1350058928020656178": 5,
+    "1479533422186598420": 5,
+    "1479847255555965089": 4,
+    "1478984182725349407": 10,
+    "1477439262126379138": 2,
+    "1479523264245010586": 3,
+    "1479311791820374036": 2,
+    "1479573516058755336": 8,
+    "1479736833272451216": 10,
+    "1450337762829144255": 1,
+    "1478662167031971860": 2,
+    "1181147096234065920": 1,
+    "1234769700735418368": 1,
+    "1479475299237494888": 53,
+    "🔸频道建议┊server-suggestions": 1,
+    "🔸礼包码┊gift-codes": 1,
+    "1357184174485671966": 1,
+    "1479040225685798932": 1,
+    "1478623865986093219": 4,
+    "1479428860591210528": 92,
+    "1468895834199298215": 5
+  },
+  "hourly_activity": {
+    "0": 469,
+    "1": 326,
+    "2": 171,
+    "6": 306,
+    "7": 152,
+    "8": 401,
+    "9": 271,
+    "10": 325,
+    "11": 330,
+    "12": 724,
+    "13": 531,
+    "14": 180,
+    "15": 128,
+    "16": 288,
+    "17": 262,
+    "18": 207,
+    "19": 251,
+    "20": 363,
+    "21": 201,
+    "22": 508,
+    "23": 509,
+    "3": 593,
+    "4": 514,
+    "5": 614
+  },
+  "message_types": {
+    "0": 5929,
+    "19": 2691,
+    "46": 1,
+    "6": 3
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1479707446330134570",
+      "channel_id": "1355094251775459399",
+      "content": "@everyone \n2023年，我们站在一位 Deckbuilder 的先行者巨人的肩膀上，\n做出了《忘却前夜》这款作品。\n\n如今，这位巨人的续作——《杀戮尖",
+      "author": "morimensstaff02",
+      "reactions": 915,
+      "channel": "🔸礼包码┊gift-codes"
+    },
+    {
+      "id": "1479567233343819776",
+      "channel_id": "1479428860591210528",
+      "content": "@everyone 大家的意见我们收到了。值得一提的是，皮克曼回调后广受好评的版本，正是出自阿拉克涅这次新立绘的同一位画师之手。这位画师是长期为《忘却前夜》贡献",
+      "author": "game.producer.light",
+      "reactions": 36,
+      "channel": ""
+    },
+    {
+      "id": "1479737727556653106",
+      "channel_id": "1479737727556653106",
+      "content": "「旋转，旋转，无休止的旋转。」\n「沉溺，破坏，吞噬，摧毁。」\n「莫丝，拘束。」\n「莫丝，朋友，保护！」\n\n✦ 莫丝 CV：松元菜菜海\n\n——✦——✦—— ✦✦✦",
+      "author": "morimensstaff01",
+      "reactions": 32,
+      "channel": ""
+    },
+    {
+      "id": "1479736301807997100",
+      "channel_id": "1479736301807997100",
+      "content": "I don't know how to draw muscle, but I though this would fit him <:goliath_spend",
+      "author": "that_one_chippy",
+      "reactions": 27,
+      "channel": ""
+    },
+    {
+      "id": "1479518829171310644",
+      "channel_id": "1479475299237494888",
+      "content": "As someone who’s been eagerly awaiting Arachne for a while now, please don’t cha",
+      "author": "fishhazardthewizard",
+      "reactions": 17,
+      "channel": ""
+    },
+    {
+      "id": "1479538622335160412",
+      "channel_id": "1385040039448412170",
+      "content": "Could I please have the content creator tag? Id like to post in the morimens TV ",
+      "author": "climbkaly",
+      "reactions": 16,
+      "channel": "🔸频道建议┊server-suggestions"
+    },
+    {
+      "id": "1479759949495009401",
+      "channel_id": "1479428860591210528",
+      "content": "我居然忘了这张图",
+      "author": "be_queitplease",
+      "reactions": 16,
+      "channel": ""
+    },
+    {
+      "id": "1479708675433042030",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "game.producer.light",
+      "reactions": 15,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1479858984289697834",
+      "channel_id": "1479428860591210528",
+      "content": "我的阿拉克涅就這樣被整容失敗😭",
+      "author": "ena04564",
+      "reactions": 15,
+      "channel": ""
+    },
+    {
+      "id": "1479593151265112285",
+      "channel_id": "1479428860591210528",
+      "content": "I don't think anyone is bashing the artist. People have just had the image of Ar",
+      "author": "jollysquire",
+      "reactions": 14,
+      "channel": ""
+    },
+    {
+      "id": "1479736833272451216",
+      "channel_id": "1479736833272451216",
+      "content": "我不知道如何畫肌肉<:dead:1356082627509092372> 我已經盡力了……我只能畫出美麗又可愛的人<:flop1:135608360423680",
+      "author": "that_one_chippy",
+      "reactions": 13,
+      "channel": ""
+    },
+    {
+      "id": "1479588358975131970",
+      "channel_id": "1479428860591210528",
+      "content": "If you don't accuse the artist of using AI (which you shouldn't) why is AI even ",
+      "author": "silencio3507",
+      "reactions": 13,
+      "channel": ""
+    },
+    {
+      "id": "1479567574483337319",
+      "channel_id": "1479428860591210528",
+      "content": "Thank you, Arachne is a character dear to my heart, and I appreciate all the wor",
+      "author": "fishhazardthewizard",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1479607658997874870",
+      "channel_id": "1170692781216378960",
+      "content": "The virgin sloptuber : Okay I'll adapt my content to your taste\nThe chad Frosthi",
+      "author": "legendaryredz",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1479756540314521600",
+      "channel_id": "1479736301807997100",
+      "content": "my situation when drawing",
+      "author": "that_one_chippy",
+      "reactions": 10,
+      "channel": ""
+    },
+    {
+      "id": "1479599915335155732",
+      "channel_id": "1479428860591210528",
+      "content": "at worse it was this artist fell short of capturing the original feeling of the ",
+      "author": "zuraznable",
+      "reactions": 10,
+      "channel": ""
+    },
+    {
+      "id": "1479694591186833609",
+      "channel_id": "1479428860591210528",
+      "content": "All of that extreme overexaggeration imo",
+      "author": "the._.nox",
+      "reactions": 10,
+      "channel": ""
+    },
+    {
+      "id": "1479588950808203345",
+      "channel_id": "1170692781216378960",
+      "content": "well caro best realm",
+      "author": "iksbat13",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1479808276756697199",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "._.aahh",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1479573516058755336",
+      "channel_id": "1479573516058755336",
+      "content": "模板:D\n\n名称：\n品阶：\n生日：\n性别：\n身高：\n体重：\n诺斯指数：\n界域天赋：\n角色定位：\n\n属性\n\n体质：\n攻击：\n防御：\n暴击率：（）%\n暴击伤害：（）",
+      "author": "antshpo",
+      "reactions": 9,
+      "channel": ""
+    }
+  ]
+}

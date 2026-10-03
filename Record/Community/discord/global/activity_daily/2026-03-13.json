@@ -1,0 +1,246 @@
+{
+  "date": "2026-03-13",
+  "messages": 11528,
+  "unique_authors": 209,
+  "reactions_total": 2607,
+  "attachments": 399,
+  "channel_activity": {
+    "🔸綜合討論": 1853,
+    "🔸morimens-game-chat": 9276,
+    "1481894447762378813": 93,
+    "1480508385500725430": 1,
+    "1471356257708408843": 1,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "1481848729416765471": 5,
+    "1481913386118807676": 2,
+    "1480698140419166392": 1,
+    "🔸课间休息闲聊": 10,
+    "🔸服务器公告┊server-announcement": 2,
+    "1481812292822765712": 7,
+    "1482043230072864960": 2,
+    "1482002768637071370": 2,
+    "1481968778647437453": 72,
+    "1481958939250790410": 5,
+    "1481958417085235343": 2,
+    "1481908605748777163": 9,
+    "1481853610856943758": 3,
+    "1477439262126379138": 1,
+    "1450337762829144255": 1,
+    "1429401798439080028": 36,
+    "1481656078340067449": 7,
+    "1480431268947693792": 1,
+    "1296113810549112874": 5,
+    "1259494029251575898": 6,
+    "1480504835152547851": 4,
+    "1462840887553032335": 2,
+    "1481228956958195762": 7,
+    "1481947163159429201": 9,
+    "1481690260067844178": 9,
+    "1479378880467959889": 1,
+    "1480582691475689644": 1,
+    "1403373754175721657": 16,
+    "1481679674882003124": 4,
+    "1481105700984721439": 1,
+    "1197183401388683386": 9,
+    "1384533675789783141": 48,
+    "1479353419792650301": 1,
+    "1245036608894271591": 8,
+    "1480588178598658169": 2,
+    "1468895834199298215": 2
+  },
+  "hourly_activity": {
+    "0": 376,
+    "1": 667,
+    "7": 195,
+    "9": 395,
+    "10": 394,
+    "11": 494,
+    "12": 337,
+    "13": 545,
+    "14": 654,
+    "15": 1422,
+    "16": 892,
+    "17": 293,
+    "18": 577,
+    "19": 846,
+    "20": 747,
+    "21": 350,
+    "22": 483,
+    "2": 549,
+    "3": 206,
+    "4": 200,
+    "5": 142,
+    "6": 130,
+    "8": 164,
+    "23": 470
+  },
+  "message_types": {
+    "0": 7637,
+    "19": 3877,
+    "46": 1,
+    "20": 1,
+    "4": 12
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1481894447762378813",
+      "channel_id": "1481894447762378813",
+      "content": "耳丷ｨ3ｴ动ﾅQ...ﾋ!z确ﾑｷ9疋(ﾃAﾉ冫)...ｸ?\n訫ﾑ!息ｴz齉Qﾋ[近ｨ9ﾃ巛期Aﾉ龥...(予ｷﾅ)告ｲ...！",
+      "author": "morimensstaff01",
+      "reactions": 75,
+      "channel": ""
+    },
+    {
+      "id": "1481959493456887940",
+      "channel_id": "1354754985119846581",
+      "content": "Notice regarding disciplinary action against user jynn\n\nTo all Keepers:\n\nFollowi",
+      "author": "morimensstaff01",
+      "reactions": 66,
+      "channel": "🔸服务器公告┊server-announcement"
+    },
+    {
+      "id": "1481693004447092990",
+      "channel_id": "1170692781216378960",
+      "content": "2",
+      "author": "su_pp",
+      "reactions": 15,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481925133172998275",
+      "channel_id": "1131839817982947429",
+      "content": "怎麼不聯動mygo",
+      "author": "heikwok",
+      "reactions": 14,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1481959251176980666",
+      "channel_id": "1354754985119846581",
+      "content": "关于用户 Jynn 违规处理的通知\n\n致各位守密人：\n\n经用户举报并核实，用户 Jynn （zier.0）曾针对特定社区成员发表涉及其个人健康状况的侮辱性言论，",
+      "author": "morimensstaff01",
+      "reactions": 12,
+      "channel": "🔸服务器公告┊server-announcement"
+    },
+    {
+      "id": "1481709564993732638",
+      "channel_id": "1170692781216378960",
+      "content": "i have taken zero mod actions in it in two years",
+      "author": "arkaether",
+      "reactions": 11,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481817069782831174",
+      "channel_id": "1450337762829144255",
+      "content": "",
+      "author": "fishhazardthewizard",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1481840011862081657",
+      "channel_id": "1170692781216378960",
+      "content": "<@706262934485073951>",
+      "author": "arisuu0604",
+      "reactions": 10,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481940272173813854",
+      "channel_id": "1170692781216378960",
+      "content": "Said cg parody in question if you're curious",
+      "author": "fishhazardthewizard",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481976847133704387",
+      "channel_id": "1170692781216378960",
+      "content": "Ello",
+      "author": "brainrot_in_a_vat",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481934337405485137",
+      "channel_id": "1131839817982947429",
+      "content": "~~圖魯其實也類似於精神交流了只是需要含一根~~",
+      "author": "ass191044",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1481976777650864160",
+      "channel_id": "1170692781216378960",
+      "content": "Must be my lucky day...",
+      "author": "sugarspawn",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481991425989284005",
+      "channel_id": "1170692781216378960",
+      "content": "I've done it, +12 Incalculable Factor, I don't have to brick myself anymore",
+      "author": "az123456789",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481992553371799694",
+      "channel_id": "1170692781216378960",
+      "content": "Morimens x Tectone",
+      "author": "_venush",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481993582574309437",
+      "channel_id": "1170692781216378960",
+      "content": "Morimens x flares",
+      "author": "bagels5899",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481981979187478558",
+      "channel_id": "1481894447762378813",
+      "content": "mad respect if nothing else",
+      "author": "skyfallterminus",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1481917286611812352",
+      "channel_id": "1131839817982947429",
+      "content": "性愛是哪個部分",
+      "author": "ahong0727",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1481922543949713509",
+      "channel_id": "1131839817982947429",
+      "content": "毕竟风评不好的是你游不是沙耶",
+      "author": "navirecorbeau",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1481708690611507340",
+      "channel_id": "1170692781216378960",
+      "content": "firstly, i apologize for being inactive in the community. also yeah i also want ",
+      "author": "craux.",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481921507599974400",
+      "channel_id": "1170692781216378960",
+      "content": "Saya no Uta spoilers: ||The MC's perception is reversed : things that are normal",
+      "author": "lyrhe",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

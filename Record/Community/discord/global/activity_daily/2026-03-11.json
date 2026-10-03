@@ -1,0 +1,248 @@
+{
+  "date": "2026-03-11",
+  "messages": 8510,
+  "unique_authors": 201,
+  "reactions_total": 1408,
+  "attachments": 401,
+  "channel_activity": {
+    "🔸綜合討論": 1752,
+    "🔸阵容构建": 38,
+    "🔸morimens-game-chat": 6481,
+    "1480484107304828968": 1,
+    "1390375103707218041": 1,
+    "1471356257708408843": 5,
+    "1481210093310578870": 25,
+    "1452951234712571996": 1,
+    "1480714817915453600": 1,
+    "1464228375316136072": 1,
+    "1480751817318072320": 5,
+    "1480751560018624585": 1,
+    "1350058928020656178": 2,
+    "1305430084420898868": 1,
+    "1480918027921915944": 3,
+    "1481319632450228344": 4,
+    "1481311980336972006": 3,
+    "1481301904435712060": 3,
+    "1481278716981149807": 4,
+    "1481244497584062545": 4,
+    "1481228956958195762": 93,
+    "1481227735027154974": 2,
+    "1481105700984721439": 8,
+    "1480987640126771340": 2,
+    "1480844678327701534": 2,
+    "1450337762829144255": 3,
+    "1479979789329633340": 1,
+    "1480774039533387816": 1,
+    "1181147096234065920": 1,
+    "1480607476234584185": 2,
+    "1234769700735418368": 12,
+    "🔸频道建议┊server-suggestions": 2,
+    "1462840887553032335": 2,
+    "1480855209755414560": 2,
+    "1480776040061337783": 2,
+    "1480695722461368461": 5,
+    "1479486014266544158": 1,
+    "1403373754175721657": 2,
+    "1480877864386691216": 2,
+    "1480905167988719677": 5,
+    "1479428860591210528": 1,
+    "1479210453295955988": 20,
+    "1468895834199298215": 2,
+    "1477730088299663431": 1
+  },
+  "hourly_activity": {
+    "0": 596,
+    "1": 532,
+    "2": 262,
+    "3": 337,
+    "6": 132,
+    "7": 192,
+    "8": 141,
+    "9": 345,
+    "10": 120,
+    "11": 125,
+    "12": 205,
+    "13": 543,
+    "14": 449,
+    "15": 387,
+    "16": 209,
+    "17": 596,
+    "18": 492,
+    "19": 770,
+    "20": 468,
+    "21": 458,
+    "22": 241,
+    "23": 264,
+    "4": 439,
+    "5": 207
+  },
+  "message_types": {
+    "0": 5753,
+    "19": 2750,
+    "46": 2,
+    "20": 1,
+    "4": 4
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1480987640126771340",
+      "channel_id": "1480987640126771340",
+      "content": "Ryker, this is like the 3rd or 4th time you ask for some stripping via card game",
+      "author": "ellezard",
+      "reactions": 24,
+      "channel": ""
+    },
+    {
+      "id": "1481228956958195762",
+      "channel_id": "1481228956958195762",
+      "content": "Hello, everyone. Today I want to present some ideas for improving the variety an",
+      "author": "salami_87",
+      "reactions": 18,
+      "channel": ""
+    },
+    {
+      "id": "1481292631467233392",
+      "channel_id": "1385040039448412170",
+      "content": "We should have an evil version of team building which is called \"team lying\" whe",
+      "author": "thpdom",
+      "reactions": 14,
+      "channel": "🔸频道建议┊server-suggestions"
+    },
+    {
+      "id": "1481301128409776179",
+      "channel_id": "1385040039448412170",
+      "content": "I cleared Wave 5 A5 MADNESS mode with this team, Ramona really synergies well wi",
+      "author": "fjantsa",
+      "reactions": 13,
+      "channel": "🔸频道建议┊server-suggestions"
+    },
+    {
+      "id": "1481036013622001776",
+      "channel_id": "1450337762829144255",
+      "content": "<:blowkiss:1356053035780014150>",
+      "author": "fishhazardthewizard",
+      "reactions": 9,
+      "channel": ""
+    },
+    {
+      "id": "1481009228066852995",
+      "channel_id": "1170692781216378960",
+      "content": "Gtulu said 5 more minutes and kept sleeping for 3 more years",
+      "author": "not_blueberry",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481019883083792668",
+      "channel_id": "1170692781216378960",
+      "content": "<@285755067213152257>",
+      "author": "princess.goth",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481066368001380435",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "arkaether",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481181754822758511",
+      "channel_id": "1131839817982947429",
+      "content": "不給他玩其他角色就不知道這隻有多爛",
+      "author": "lululu9858",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1481100025609195603",
+      "channel_id": "1170692781216378960",
+      "content": "2nd 400 in a row",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481154545877909546",
+      "channel_id": "1170692781216378960",
+      "content": "did cheri block me",
+      "author": "princess.goth",
+      "reactions": 7,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481182363869380689",
+      "channel_id": "1131839817982947429",
+      "content": "对呀 我都没那么过分\n我最多只是在我朋友要用菲茵特C打通主线的时候支持他而已",
+      "author": "ling_an_",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1481278716981149807",
+      "channel_id": "1481278716981149807",
+      "content": "In the past it was asked if it was possible to make a separate testing server to",
+      "author": "vxvendetta97",
+      "reactions": 6,
+      "channel": ""
+    },
+    {
+      "id": "1481254805770080276",
+      "channel_id": "1131839817982947429",
+      "content": "當你們一邊閒聊，一邊離開此地時",
+      "author": "arr5721",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1481036348415676529",
+      "channel_id": "1170692781216378960",
+      "content": "got 390 tide good enough",
+      "author": "arandomflamev2",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481148627408654417",
+      "channel_id": "1170692781216378960",
+      "content": "My Kath team is finally good now <:Ogier_Cheerup:1468259351889318049>",
+      "author": "az123456789",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481191582916149249",
+      "channel_id": "1170692781216378960",
+      "content": "does helot really have white hair? i never noticed",
+      "author": "zier.0",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481226097608888351",
+      "channel_id": "1170692781216378960",
+      "content": "But does posse agree with you",
+      "author": "._.aahh",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481234661727535165",
+      "channel_id": "1170692781216378960",
+      "content": "Im the smartest person here btw",
+      "author": "spooky_penguin_",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1481234915818209320",
+      "channel_id": "1170692781216378960",
+      "content": "I am smartest person here and I think Aqueor stinks!!!",
+      "author": "spooky_penguin_",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    }
+  ]
+}

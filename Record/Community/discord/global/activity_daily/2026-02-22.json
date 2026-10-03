@@ -1,10 +1,24 @@
 {
   "date": "2026-02-22",
-  "messages": 6400,
+  "messages": 9475,
   "unique_authors": 174,
-  "reactions_total": 837,
-  "attachments": 317,
+  "reactions_total": 1063,
+  "attachments": 495,
   "channel_activity": {
+    "🔸phòng-chat-tiếng-việt": 463,
+    "🔸canal-español": 218,
+    "🔸canal-português": 474,
+    "🔸ruang-obrolan-indonesia": 62,
+    "🔸ห้องสนทนาภาษาไทย": 35,
+    "🔸traphase": 2,
+    "🔸lore-chat": 257,
+    "🔸频道建议┊server-suggestions": 1,
+    "🔸team-building": 575,
+    "🔸general-chat": 198,
+    "🔸邀请码互助┊swap-invitation-codes": 8,
+    "🔸game-question": 764,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 17,
     "🔸綜合討論": 1618,
     "🔸阵容构建": 13,
     "🔸morimens-game-chat": 4488,
@@ -23,36 +37,36 @@
     "🔸lets-count": 9
   },
   "hourly_activity": {
-    "0": 442,
-    "1": 269,
-    "2": 304,
-    "3": 549,
-    "4": 316,
-    "5": 150,
-    "7": 207,
-    "8": 132,
-    "9": 127,
-    "10": 213,
-    "11": 259,
-    "12": 262,
-    "13": 129,
-    "14": 94,
-    "15": 287,
-    "16": 157,
-    "17": 232,
-    "18": 538,
-    "19": 251,
-    "20": 239,
-    "21": 253,
-    "22": 208,
-    "23": 335,
-    "6": 447
+    "0": 639,
+    "1": 391,
+    "3": 651,
+    "8": 244,
+    "9": 276,
+    "10": 245,
+    "11": 343,
+    "13": 363,
+    "14": 242,
+    "15": 340,
+    "16": 218,
+    "17": 319,
+    "18": 722,
+    "19": 501,
+    "20": 353,
+    "21": 593,
+    "22": 372,
+    "23": 437,
+    "2": 401,
+    "4": 388,
+    "5": 337,
+    "7": 242,
+    "12": 380,
+    "6": 478
   },
   "message_types": {
-    "19": 1649,
-    "0": 4749,
-    "46": 1,
-    "20": 1
+    "0": 6972,
+    "19": 2495,
+    "20": 7,
+    "46": 1
   },
   "top_reacted_messages": [
     {
@@ -78,6 +92,14 @@
       "author": "moyashi0672",
       "reactions": 9,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1475159481930485811",
+      "channel_id": "1385040039448412170",
+      "content": "For level roles, add e3, OE, and +12 Awakener roles, too many people have a key ",
+      "author": "syruponstrawberrycake",
+      "reactions": 8,
+      "channel": "🔸频道建议┊server-suggestions"
     },
     {
       "id": "1474963464383496284",
@@ -120,6 +142,14 @@
       "channel": "🔸课间休息闲聊"
     },
     {
+      "id": "1474801824199479419",
+      "channel_id": "1300659603993923644",
+      "content": "Wave 1: boss này khá dễ, máu ít, mechanic cũng không phức tạp, weakness, fragile",
+      "author": "komugi0506",
+      "reactions": 5,
+      "channel": "🔸phòng-chat-tiếng-việt"
+    },
+    {
       "id": "1475074679440932916",
       "channel_id": "1170692781216378960",
       "content": "Just keep 24 in red and keep striking",
@@ -144,76 +174,60 @@
       "channel": "🔸morimens-game-chat"
     },
     {
-      "id": "1475022776430760068",
-      "channel_id": "1131839817982947429",
+      "id": "1474880528191590573",
+      "channel_id": "1300659662311526512",
       "content": "",
-      "author": "water_heart",
+      "author": "sayokolefay",
       "reactions": 4,
-      "channel": "🔸綜合討論"
+      "channel": "🔸canal-español"
     },
     {
-      "id": "1475086275248787600",
-      "channel_id": "1131839817982947429",
-      "content": "列車圖看多了突然竟然有1668x2的傷害很溫柔的感覺<:nocomment:1356053106038673610>",
-      "author": "partycatss.",
+      "id": "1474929747774410823",
+      "channel_id": "1300659662311526512",
+      "content": "Literal cambié a Aequor pensando \"ojalá en una de esas me salga Tulu\" tiro y que",
+      "author": "waka_mole",
       "reactions": 4,
-      "channel": "🔸綜合討論"
+      "channel": "🔸canal-español"
     },
     {
-      "id": "1475105457147216053",
-      "channel_id": "1131839817982947429",
-      "content": "弥利随手一刀砍掉七十五万<:cry3:1356082134447558748>",
-      "author": "akalanden",
+      "id": "1474947579304218684",
+      "channel_id": "1300659662311526512",
+      "content": "",
+      "author": "ellenmiku_74894",
       "reactions": 4,
-      "channel": "🔸綜合討論"
+      "channel": "🔸canal-español"
     },
     {
-      "id": "1474808463145304175",
-      "channel_id": "1170692781216378960",
-      "content": "BLUE 24 IS OP",
-      "author": "princess.goth",
+      "id": "1474983287985410138",
+      "channel_id": "1300659662311526512",
+      "content": "trensito acabado",
+      "author": "ancientbp",
       "reactions": 4,
-      "channel": "🔸morimens-game-chat"
+      "channel": "🔸canal-español"
     },
     {
-      "id": "1474911118685372579",
-      "channel_id": "1170692781216378960",
-      "content": "this is why aigis is being nerfed to hell in jp version",
-      "author": "2ndselna",
+      "id": "1475099505388163196",
+      "channel_id": "1400749543288475770",
+      "content": "This was mine. Whale to win",
+      "author": "angbak",
       "reactions": 4,
-      "channel": "🔸morimens-game-chat"
+      "channel": "🔸team-building"
     },
     {
-      "id": "1474912926531063828",
-      "channel_id": "1170692781216378960",
-      "content": "is popping their cherry",
-      "author": "2ndselna",
+      "id": "1475100077553881151",
+      "channel_id": "1400749543288475770",
+      "content": "I'll push 415 next weekend f",
+      "author": "angbak",
       "reactions": 4,
-      "channel": "🔸morimens-game-chat"
+      "channel": "🔸team-building"
     },
     {
-      "id": "1474963676137263236",
-      "channel_id": "1170692781216378960",
-      "content": "I tried watching ur video it was probabaly very educational but I fell asleep so",
-      "author": "frosthief",
+      "id": "1475101103434498078",
+      "channel_id": "1400749543288475770",
+      "content": "",
+      "author": "angbak",
       "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1474964089452368033",
-      "channel_id": "1170692781216378960",
-      "content": "hope your health and stuff gets better",
-      "author": "2ndselna",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1474978348953370687",
-      "channel_id": "1170692781216378960",
-      "content": "happy lunar new year :D",
-      "author": "balls8",
-      "reactions": 4,
-      "channel": "🔸morimens-game-chat"
+      "channel": "🔸team-building"
     }
   ]
 }

@@ -1,10 +1,23 @@
 {
   "date": "2026-02-17",
-  "messages": 11381,
+  "messages": 15194,
   "unique_authors": 248,
-  "reactions_total": 1531,
-  "attachments": 600,
+  "reactions_total": 1740,
+  "attachments": 754,
   "channel_activity": {
+    "🔸canal-español": 239,
+    "🔸canal-português": 1547,
+    "🔸ruang-obrolan-indonesia": 75,
+    "🔸ห้องสนทนาภาษาไทย": 129,
+    "🔸traphase": 44,
+    "🔸lore-chat": 129,
+    "🔸频道建议┊server-suggestions": 20,
+    "🔸team-building": 431,
+    "🔸general-chat": 383,
+    "🔸邀请码互助┊swap-invitation-codes": 12,
+    "🔸game-question": 768,
+    "🔸忘却前夜┊morimens-tv": 3,
+    "🔸机器人命令┊bot-commands": 33,
     "🔸綜合討論": 1671,
     "🔸阵容构建": 24,
     "🔸morimens-game-chat": 7748,
@@ -34,35 +47,35 @@
     "🔸lets-count": 20
   },
   "hourly_activity": {
-    "0": 752,
-    "1": 429,
-    "2": 481,
-    "3": 291,
-    "4": 787,
-    "5": 481,
-    "6": 330,
-    "7": 570,
-    "8": 491,
-    "9": 518,
-    "10": 410,
-    "11": 104,
-    "12": 155,
-    "13": 273,
-    "14": 285,
-    "15": 242,
-    "16": 372,
-    "17": 379,
-    "18": 188,
-    "19": 560,
-    "20": 445,
-    "21": 588,
-    "22": 1279,
-    "23": 971
+    "0": 967,
+    "1": 583,
+    "2": 543,
+    "4": 1192,
+    "5": 815,
+    "8": 583,
+    "9": 731,
+    "10": 495,
+    "11": 139,
+    "12": 253,
+    "16": 395,
+    "21": 778,
+    "23": 1355,
+    "3": 691,
+    "6": 550,
+    "7": 692,
+    "20": 525,
+    "22": 1404,
+    "14": 445,
+    "18": 278,
+    "13": 415,
+    "15": 349,
+    "17": 427,
+    "19": 589
   },
   "message_types": {
-    "0": 7676,
-    "19": 3702,
-    "20": 3
+    "19": 4719,
+    "0": 10468,
+    "20": 7
   },
   "top_reacted_messages": [
     {
@@ -162,6 +175,14 @@
       "channel": ""
     },
     {
+      "id": "1472998250633105428",
+      "channel_id": "1385040039448412170",
+      "content": "Can we have Goliath stronk stonks sticker",
+      "author": "._.aahh",
+      "reactions": 8,
+      "channel": "🔸频道建议┊server-suggestions"
+    },
+    {
       "id": "1473072381781213304",
       "channel_id": "1170692781216378960",
       "content": "morimens is featured in steam china's lunar new year sales event \"free to play\" ",
@@ -215,14 +236,6 @@
       "content": "🔼 this person is someone who does 425 in D-Tide for 0 additional reward beyond 4",
       "author": "legendaryredz",
       "reactions": 7,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1473013125430120611",
-      "channel_id": "1170692781216378960",
-      "content": "Feel like it would be unplayable without hamel though lmao",
-      "author": "polkarain",
-      "reactions": 6,
       "channel": "🔸morimens-game-chat"
     }
   ]

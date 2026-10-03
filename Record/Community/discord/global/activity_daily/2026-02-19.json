@@ -1,10 +1,24 @@
 {
   "date": "2026-02-19",
-  "messages": 11568,
+  "messages": 16311,
   "unique_authors": 312,
-  "reactions_total": 2666,
-  "attachments": 434,
+  "reactions_total": 3880,
+  "attachments": 617,
   "channel_activity": {
+    "🔸phòng-chat-tiếng-việt": 897,
+    "🔸canal-español": 269,
+    "🔸canal-português": 968,
+    "🔸ruang-obrolan-indonesia": 60,
+    "🔸ห้องสนทนาภาษาไทย": 581,
+    "🔸traphase": 119,
+    "🔸lore-chat": 265,
+    "🔸服务器公告┊server-announcement": 2,
+    "🔸team-building": 529,
+    "🔸general-chat": 550,
+    "🔸邀请码互助┊swap-invitation-codes": 9,
+    "🐱light’s-nest": 2,
+    "🔸game-question": 442,
+    "🔸机器人命令┊bot-commands": 50,
     "🔸綜合討論": 1737,
     "🔸morimens-game-chat": 9688,
     "🔸剧情交流": 8,
@@ -31,38 +45,55 @@
     "🔸lets-count": 8
   },
   "hourly_activity": {
-    "0": 845,
-    "1": 411,
-    "2": 409,
-    "3": 413,
-    "4": 527,
-    "7": 270,
-    "8": 513,
-    "9": 274,
-    "10": 569,
-    "11": 416,
-    "12": 278,
-    "13": 277,
-    "14": 406,
-    "15": 323,
-    "16": 245,
-    "17": 108,
-    "18": 218,
-    "19": 173,
-    "20": 363,
-    "21": 563,
-    "22": 1599,
-    "23": 1242,
-    "5": 532,
-    "6": 594
+    "0": 1182,
+    "1": 547,
+    "5": 754,
+    "8": 636,
+    "9": 602,
+    "10": 712,
+    "11": 461,
+    "12": 306,
+    "13": 347,
+    "15": 370,
+    "16": 441,
+    "17": 161,
+    "18": 282,
+    "19": 384,
+    "20": 785,
+    "21": 882,
+    "22": 2418,
+    "23": 1951,
+    "2": 459,
+    "4": 601,
+    "6": 762,
+    "7": 386,
+    "3": 456,
+    "14": 426
   },
   "message_types": {
-    "0": 7085,
-    "19": 4479,
-    "20": 3,
+    "0": 10524,
+    "19": 5777,
+    "18": 1,
+    "20": 8,
     "23": 1
   },
   "top_reacted_messages": [
+    {
+      "id": "1474045849934893107",
+      "channel_id": "1426837316533747823",
+      "content": "https://discord.com/channels/1131791637933199470/1354754985119846581/14740310672",
+      "author": "game.producer.light",
+      "reactions": 504,
+      "channel": "🐱light’s-nest"
+    },
+    {
+      "id": "1474031067223822428",
+      "channel_id": "1354754985119846581",
+      "content": "**Statement on the Norms for Building a Friendly Community**\n\nTo all Keepers:\n  ",
+      "author": "morimensstaff02",
+      "reactions": 351,
+      "channel": "🔸服务器公告┊server-announcement"
+    },
     {
       "id": "1474046725944643745",
       "channel_id": "1170692781216378960",
@@ -72,12 +103,28 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1474030807155867678",
+      "channel_id": "1354754985119846581",
+      "content": "<@&1440133908661534790> \n**关于共建友善社区的规范声明**\n\n致各位守密人：\n\n    我们的社区，是所有热爱忘却前夜的玩家与创作者共",
+      "author": "morimensstaff02",
+      "reactions": 75,
+      "channel": "🔸服务器公告┊server-announcement"
+    },
+    {
       "id": "1474048357662986370",
       "channel_id": "1170692781216378960",
       "content": "The delay is just a delay — it has nothing to do with the recent situation.\nWe’l",
       "author": "game.producer.light",
       "reactions": 58,
       "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1474045882524504266",
+      "channel_id": "1426837316533747823",
+      "content": "说说自己的心里话：\n\n忘却前夜有一个不大却很珍贵的社区，看到为这里付出过重要贡献的创作者之间产生不快，我们真的很失落。而冷静下来我也清楚，很多矛盾本可以通过我们",
+      "author": "game.producer.light",
+      "reactions": 42,
+      "channel": "🐱light’s-nest"
     },
     {
       "id": "1474049525197832272",
@@ -190,38 +237,6 @@
       "author": "moyashi0672",
       "reactions": 13,
       "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1474060677982457956",
-      "channel_id": "1170692781216378960",
-      "content": "SEVEN MILLION PEOPLE CALLING FOR THE DEATH OF FLARES BY DEFAULT",
-      "author": "nevcrotism",
-      "reactions": 13,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1474046956908187832",
-      "channel_id": "1170692781216378960",
-      "content": "Was this because of flares lmaooo",
-      "author": "dascte",
-      "reactions": 12,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1474048882294915132",
-      "channel_id": "1170692781216378960",
-      "content": "RELEASE THE FLARES FILES",
-      "author": "nezutachyon",
-      "reactions": 12,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1474030309048717322",
-      "channel_id": "1474030309048717322",
-      "content": "He's too useless, a dps revolved entirely around killing enemies yet he can't ev",
-      "author": "skyfallterminus",
-      "reactions": 12,
-      "channel": ""
     }
   ]
 }

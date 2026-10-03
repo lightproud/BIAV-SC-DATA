@@ -1,0 +1,226 @@
+{
+  "date": "2026-03-14",
+  "messages": 7886,
+  "unique_authors": 182,
+  "reactions_total": 1493,
+  "attachments": 378,
+  "channel_activity": {
+    "🔸綜合討論": 622,
+    "🔸morimens-game-chat": 7174,
+    "1482261084101541969": 5,
+    "🔸日本語チャンネル": 5,
+    "🔸忘却前夜┊morimens-tv": 3,
+    "🔸课间休息闲聊": 4,
+    "1481812292822765712": 5,
+    "1482090443851432056": 2,
+    "1450337762829144255": 4,
+    "🐱light’s-nest": 1,
+    "1429401798439080028": 1,
+    "1458491651239710851": 2,
+    "1481968778647437453": 18,
+    "1259494029251575898": 1,
+    "1462840887553032335": 2,
+    "1481947163159429201": 1,
+    "1481894447762378813": 4,
+    "1451125609068757074": 3,
+    "1445556242381672559": 11,
+    "1448648649486635128": 1,
+    "1384533675789783141": 11,
+    "1455453095592071269": 2,
+    "1479353419792650301": 3,
+    "1468895834199298215": 1
+  },
+  "hourly_activity": {
+    "0": 399,
+    "1": 420,
+    "2": 407,
+    "3": 108,
+    "4": 89,
+    "6": 389,
+    "8": 98,
+    "9": 487,
+    "10": 586,
+    "11": 251,
+    "12": 116,
+    "13": 86,
+    "14": 271,
+    "15": 122,
+    "16": 147,
+    "17": 297,
+    "18": 383,
+    "19": 644,
+    "20": 523,
+    "21": 585,
+    "22": 518,
+    "23": 447,
+    "5": 125,
+    "7": 388
+  },
+  "message_types": {
+    "19": 2848,
+    "0": 5036,
+    "20": 2
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1482316649632628847",
+      "channel_id": "1426837316533747823",
+      "content": "From the QQ Channel [Anonymous] creator: N! Does anyone hope he’ll become an Awa",
+      "author": "game.producer.light",
+      "reactions": 237,
+      "channel": "🐱light’s-nest"
+    },
+    {
+      "id": "1482177458022125690",
+      "channel_id": "1445556242381672559",
+      "content": "",
+      "author": "zzio_",
+      "reactions": 22,
+      "channel": ""
+    },
+    {
+      "id": "1482112627772756140",
+      "channel_id": "1170692781216378960",
+      "content": "To be honest\nI don't think a reddit mod saying that someone is ugly does hold an",
+      "author": "legendaryredz",
+      "reactions": 20,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482197409252511967",
+      "channel_id": "1170692781216378960",
+      "content": "- if saya no uta is a great work of horror art with a complete narrative, why ar",
+      "author": "reya.li",
+      "reactions": 17,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482369927934640331",
+      "channel_id": "1170692781216378960",
+      "content": "40000 DAMAGE IN ONE TURN",
+      "author": "lia_j0",
+      "reactions": 12,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482364950898020464",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 9,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1482266973944676372",
+      "channel_id": "1170692781216378960",
+      "content": "I got Thais!!",
+      "author": "thetucanare",
+      "reactions": 9,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482175262085873846",
+      "channel_id": "1435483703114596503",
+      "content": "Final Thoughts on Vortice, her best teams, and  some short gameplay showcases\nht",
+      "author": "frosthief",
+      "reactions": 9,
+      "channel": "🔸忘却前夜┊morimens-tv"
+    },
+    {
+      "id": "1482356681902919851",
+      "channel_id": "1170692781216378960",
+      "content": "",
+      "author": "not_blueberry",
+      "reactions": 8,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482317016357666847",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "sunless_echoing",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1482339772851556352",
+      "channel_id": "1131839817982947429",
+      "content": "<:proud1:1356053120651755641>",
+      "author": "blecnes.",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1482065624514564307",
+      "channel_id": "1170692781216378960",
+      "content": "Im getting tomato'd",
+      "author": "brainrot_in_a_vat",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482213173540032512",
+      "channel_id": "1170692781216378960",
+      "content": "no. I'm not a human...,,,",
+      "author": "climbkaly",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482358564118069279",
+      "channel_id": "1170692781216378960",
+      "content": "My income this week",
+      "author": "monchi3524",
+      "reactions": 6,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482341397293043793",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "ponponnyaru",
+      "reactions": 5,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1482081485543440645",
+      "channel_id": "1170692781216378960",
+      "content": "<@285755067213152257> <@264894122148495362> <@706262934485073951>",
+      "author": "brainrot_in_a_vat",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482136150117449828",
+      "channel_id": "1170692781216378960",
+      "content": "0 gnosis on paradise",
+      "author": "angbak",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482208298609541313",
+      "channel_id": "1170692781216378960",
+      "content": "soon for me...",
+      "author": "climbkaly",
+      "reactions": 5,
+      "channel": "🔸morimens-game-chat"
+    },
+    {
+      "id": "1482096877293015263",
+      "channel_id": "1450337762829144255",
+      "content": "",
+      "author": "fishhazardthewizard",
+      "reactions": 5,
+      "channel": ""
+    },
+    {
+      "id": "1482317359656997006",
+      "channel_id": "1384533675789783141",
+      "content": "成功了\n我終於把原本忘卻4.1的spine轉成尖塔用的4.2的spine了",
+      "author": "_cwz_",
+      "reactions": 5,
+      "channel": ""
+    }
+  ]
+}

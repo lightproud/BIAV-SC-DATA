@@ -1,0 +1,239 @@
+{
+  "date": "2026-03-19",
+  "messages": 2862,
+  "unique_authors": 57,
+  "reactions_total": 665,
+  "attachments": 114,
+  "channel_activity": {
+    "🔸綜合討論": 2645,
+    "🔸阵容构建": 53,
+    "1484144971341762641": 29,
+    "1445334381404094475": 1,
+    "1379534998704488528": 1,
+    "1483847204010590208": 2,
+    "1483973977884852224": 6,
+    "1484212697015914496": 3,
+    "1441326394817908736": 2,
+    "🔸课间休息闲聊": 13,
+    "1479402787124154449": 1,
+    "1483901221344379060": 29,
+    "1483753515825365062": 13,
+    "1450337762829144255": 1,
+    "1482627182831599688": 1,
+    "1483389014332407839": 1,
+    "1484169895234113687": 2,
+    "🔸晒卡分享": 3,
+    "1484197027435905116": 2,
+    "1350060160739184690": 4,
+    "1484208157478883450": 2,
+    "1484208863371722983": 2,
+    "1484048299894902926": 3,
+    "1484022604783161354": 2,
+    "🔸频道建议┊server-suggestions": 3,
+    "1483801680754769930": 2,
+    "1450001353064714320": 9,
+    "1479486014266544158": 3,
+    "1483484484971135068": 2,
+    "1483319878071877792": 1,
+    "1481403794272161903": 1,
+    "1479040225685798932": 1,
+    "1483461060185817318": 1,
+    "1384533675789783141": 10,
+    "1181998821291606097": 2,
+    "1483744488198242407": 3,
+    "1468895834199298215": 1,
+    "1477730088299663431": 2
+  },
+  "hourly_activity": {
+    "0": 107,
+    "1": 11,
+    "2": 51,
+    "3": 10,
+    "9": 27,
+    "10": 51,
+    "11": 291,
+    "12": 182,
+    "13": 170,
+    "14": 668,
+    "15": 161,
+    "16": 272,
+    "17": 154,
+    "18": 109,
+    "19": 45,
+    "20": 9,
+    "21": 133,
+    "22": 238,
+    "23": 154,
+    "5": 5,
+    "7": 10,
+    "8": 3,
+    "6": 1
+  },
+  "message_types": {
+    "0": 2253,
+    "19": 606,
+    "4": 3
+  },
+  "top_reacted_messages": [
+    {
+      "id": "1484144971341762641",
+      "channel_id": "1484144971341762641",
+      "content": "以下是来自Arlyeon进行的脑缸组专访文字版，我们取得Arlyeon授权后，将会把文本版分成四部分持续发布在《忘却前夜》Discord频道内，完整视频版请点击",
+      "author": "morimensstaff02",
+      "reactions": 40,
+      "channel": ""
+    },
+    {
+      "id": "1484048299894902926",
+      "channel_id": "1484048299894902926",
+      "content": "",
+      "author": "floriography",
+      "reactions": 34,
+      "channel": ""
+    },
+    {
+      "id": "1484163253604192278",
+      "channel_id": "1484144971341762641",
+      "content": "Light knows ball, she is the best",
+      "author": "chiedgaf",
+      "reactions": 29,
+      "channel": ""
+    },
+    {
+      "id": "1484147676634419321",
+      "channel_id": "1484144971341762641",
+      "content": "release GDoll story! <:Doll_Inferno_ha:1459091434958360760>",
+      "author": "_venush",
+      "reactions": 27,
+      "channel": ""
+    },
+    {
+      "id": "1484169895234113687",
+      "channel_id": "1484169895234113687",
+      "content": "Caraboo leleleleeelele 😘😘😘",
+      "author": "zharysche",
+      "reactions": 18,
+      "channel": ""
+    },
+    {
+      "id": "1484022604783161354",
+      "channel_id": "1484022604783161354",
+      "content": "",
+      "author": "gwenisleirah",
+      "reactions": 18,
+      "channel": ""
+    },
+    {
+      "id": "1484197027435905116",
+      "channel_id": "1484197027435905116",
+      "content": "something something wip something something simple quick drawing",
+      "author": "peanutgod_ofsaturn",
+      "reactions": 17,
+      "channel": ""
+    },
+    {
+      "id": "1484153917012181043",
+      "channel_id": "1484144971341762641",
+      "content": "Release GDoll story<:GDoll_Inferno_serenity:1468257540809822302>",
+      "author": "shaw_51",
+      "reactions": 11,
+      "channel": ""
+    },
+    {
+      "id": "1484149330498683011",
+      "channel_id": "1131839874132090890",
+      "content": "剎那打不過1，所以才會去當0",
+      "author": "shchng.",
+      "reactions": 9,
+      "channel": "🔸阵容构建"
+    },
+    {
+      "id": "1484146373975871519",
+      "channel_id": "1484144971341762641",
+      "content": "以上是访谈的第一部分，更多内容请守密人关注后续的持续发布，或点击贴文内链接前往查看哦！\nThat wraps up the first part of the ",
+      "author": "morimensstaff02",
+      "reactions": 9,
+      "channel": ""
+    },
+    {
+      "id": "1484069590572072971",
+      "channel_id": "1131839817982947429",
+      "content": "我剛看成等阿宏操",
+      "author": "yy42974466",
+      "reactions": 8,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1484149801556643850",
+      "channel_id": "1484144971341762641",
+      "content": "I need to see Alistair doing wheelchair tricks to capture her!!!",
+      "author": "thpdom",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1484208863371722983",
+      "channel_id": "1484208863371722983",
+      "content": "",
+      "author": "efaria.ria",
+      "reactions": 8,
+      "channel": ""
+    },
+    {
+      "id": "1484079607253831783",
+      "channel_id": "1131839817982947429",
+      "content": "搞不好可以投稿10000銀新餒",
+      "author": "yy42974466",
+      "reactions": 7,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1484026313470640288",
+      "channel_id": "1131839874132090890",
+      "content": "~~不管怎樣，你都不要從阿宏身上下來~~",
+      "author": "cameliia._.",
+      "reactions": 7,
+      "channel": "🔸阵容构建"
+    },
+    {
+      "id": "1484018563500216455",
+      "channel_id": "1181998821291606097",
+      "content": "突然想畫的仿郵票感覺沒有新開帖的必要那反正請看我oc<:happy:1356053849894420683>",
+      "author": "navirecorbeau",
+      "reactions": 7,
+      "channel": ""
+    },
+    {
+      "id": "1484036264117276722",
+      "channel_id": "1131839817982947429",
+      "content": "普池角色增强也在计划中，预计是用纯白银芯来增强",
+      "author": "polkarain",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1484138978734244010",
+      "channel_id": "1131839817982947429",
+      "content": "",
+      "author": "water_heart",
+      "reactions": 6,
+      "channel": "🔸綜合討論"
+    },
+    {
+      "id": "1483887185181806772",
+      "channel_id": "1445334381404094475",
+      "content": "心血來潮打個皮皮慶生圖草稿，這樣完成剛好明年二月水啦（？",
+      "author": "ass191044",
+      "reactions": 6,
+      "channel": ""
+    },
+    {
+      "id": "1483901221344379060",
+      "channel_id": "1483901221344379060",
+      "content": "Who are the top 5 damage dealers? What about healers? Keyflare? Mob clearers? ..",
+      "author": "climbkaly",
+      "reactions": 6,
+      "channel": ""
+    }
+  ]
+}

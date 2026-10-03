@@ -1,10 +1,22 @@
 {
   "date": "2026-02-08",
-  "messages": 10119,
+  "messages": 12762,
   "unique_authors": 180,
-  "reactions_total": 1460,
-  "attachments": 425,
+  "reactions_total": 1607,
+  "attachments": 539,
   "channel_activity": {
+    "🔸canal-español": 150,
+    "🔸canal-português": 97,
+    "🔸ruang-obrolan-indonesia": 58,
+    "🔸ห้องสนทนาภาษาไทย": 240,
+    "🔸traphase": 41,
+    "🔸lore-chat": 15,
+    "🔸team-building": 142,
+    "🔸general-chat": 237,
+    "🔸邀请码互助┊swap-invitation-codes": 9,
+    "🔸game-question": 1611,
+    "🔸游戏问题": 13,
+    "🔸机器人命令┊bot-commands": 30,
     "🔸綜合討論": 2068,
     "🔸阵容构建": 27,
     "🔸morimens-game-chat": 6413,
@@ -22,34 +34,35 @@
     "🔸lets-count": 9
   },
   "hourly_activity": {
-    "0": 753,
-    "1": 884,
-    "2": 429,
-    "3": 344,
-    "7": 450,
-    "8": 403,
-    "9": 140,
-    "10": 344,
-    "11": 218,
-    "12": 408,
-    "13": 599,
-    "14": 287,
-    "15": 281,
-    "16": 199,
-    "17": 282,
-    "18": 299,
-    "19": 329,
-    "20": 330,
-    "21": 452,
-    "22": 518,
-    "23": 824,
-    "4": 267,
-    "5": 557,
-    "6": 522
+    "0": 827,
+    "1": 982,
+    "2": 479,
+    "3": 377,
+    "4": 305,
+    "5": 565,
+    "8": 435,
+    "10": 433,
+    "20": 407,
+    "21": 500,
+    "22": 682,
+    "23": 905,
+    "6": 588,
+    "7": 507,
+    "12": 453,
+    "16": 244,
+    "11": 401,
+    "13": 622,
+    "14": 479,
+    "15": 435,
+    "17": 682,
+    "18": 689,
+    "19": 421,
+    "9": 344
   },
   "message_types": {
-    "0": 7317,
-    "19": 2802
+    "0": 9423,
+    "19": 3334,
+    "20": 5
   },
   "top_reacted_messages": [
     {
@@ -91,6 +104,14 @@
       "author": "vxvendetta97",
       "reactions": 11,
       "channel": ""
+    },
+    {
+      "id": "1469878632477495450",
+      "channel_id": "1326453763355185215",
+      "content": "lore accurate image of xu",
+      "author": "reya.li",
+      "reactions": 9,
+      "channel": "🔸lore-chat"
     },
     {
       "id": "1469827987183505574",
@@ -201,14 +222,6 @@
       "channel_id": "1170692781216378960",
       "content": "We have a universally accessible turn rewind:\nthe reset button",
       "author": "frosthief",
-      "reactions": 5,
-      "channel": "🔸morimens-game-chat"
-    },
-    {
-      "id": "1469834565316247604",
-      "channel_id": "1170692781216378960",
-      "content": "OKAY ALL CARO + MOUCHETTE DONE.\n\nTIME FOR AQ",
-      "author": "angbak",
       "reactions": 5,
       "channel": "🔸morimens-game-chat"
     }

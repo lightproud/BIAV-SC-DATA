@@ -1,10 +1,24 @@
 {
   "date": "2026-02-23",
-  "messages": 8531,
+  "messages": 14385,
   "unique_authors": 233,
-  "reactions_total": 1501,
-  "attachments": 457,
+  "reactions_total": 1817,
+  "attachments": 742,
   "channel_activity": {
+    "🔸phòng-chat-tiếng-việt": 1264,
+    "🔸canal-español": 330,
+    "🔸canal-português": 1433,
+    "🔸ruang-obrolan-indonesia": 240,
+    "🔸ห้องสนทนาภาษาไทย": 255,
+    "🔸traphase": 60,
+    "🔸lore-chat": 88,
+    "🔸频道建议┊server-suggestions": 1,
+    "🔸team-building": 607,
+    "🔸general-chat": 210,
+    "🔸邀请码互助┊swap-invitation-codes": 5,
+    "🔸game-question": 1333,
+    "🔸忘却前夜┊morimens-tv": 1,
+    "🔸机器人命令┊bot-commands": 27,
     "🔸綜合討論": 1342,
     "🔸阵容构建": 76,
     "🔸morimens-game-chat": 6738,
@@ -28,35 +42,36 @@
     "1475354903701356564": 1
   },
   "hourly_activity": {
-    "0": 425,
-    "1": 170,
-    "2": 300,
-    "4": 264,
-    "5": 388,
-    "6": 346,
-    "7": 226,
-    "8": 427,
-    "9": 254,
-    "10": 352,
-    "11": 258,
-    "12": 306,
-    "13": 339,
-    "14": 244,
-    "15": 486,
-    "16": 356,
-    "17": 409,
-    "18": 427,
-    "19": 346,
-    "20": 278,
-    "21": 471,
-    "22": 802,
-    "23": 413,
-    "3": 244
+    "0": 601,
+    "1": 317,
+    "9": 460,
+    "10": 621,
+    "11": 611,
+    "12": 385,
+    "13": 505,
+    "14": 440,
+    "15": 864,
+    "16": 633,
+    "17": 663,
+    "18": 534,
+    "19": 448,
+    "20": 534,
+    "21": 760,
+    "22": 1565,
+    "23": 1543,
+    "2": 488,
+    "3": 419,
+    "4": 360,
+    "5": 449,
+    "6": 367,
+    "8": 542,
+    "7": 276
   },
   "message_types": {
-    "0": 5944,
-    "19": 2586,
-    "20": 1
+    "0": 10148,
+    "19": 4232,
+    "23": 1,
+    "20": 4
   },
   "top_reacted_messages": [
     {
@@ -148,6 +163,14 @@
       "channel": "🔸morimens-game-chat"
     },
     {
+      "id": "1475297998639599757",
+      "channel_id": "1326453763355185215",
+      "content": "<@702167871144591461> very important winkle lore hidden behind one-time only cut",
+      "author": "nikolazuli",
+      "reactions": 6,
+      "channel": "🔸lore-chat"
+    },
+    {
       "id": "1475425076076609643",
       "channel_id": "1131839817982947429",
       "content": "<:wish:1356084702468899117>",
@@ -196,26 +219,18 @@
       "channel": "🔸晒卡分享"
     },
     {
+      "id": "1475330592190107719",
+      "channel_id": "1300659662311526512",
+      "content": "En vez de Sangas me salen Murphys... xD",
+      "author": "sayokolefay",
+      "reactions": 5,
+      "channel": "🔸canal-español"
+    },
+    {
       "id": "1475401334055243776",
       "channel_id": "1131839817982947429",
       "content": "",
       "author": "navirecorbeau",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1475413076676186227",
-      "channel_id": "1131839817982947429",
-      "content": "<:please:1356053110375714817>",
-      "author": "sweet_25367",
-      "reactions": 5,
-      "channel": "🔸綜合討論"
-    },
-    {
-      "id": "1475428143031652523",
-      "channel_id": "1131839817982947429",
-      "content": "~~遲來的新年快樂jojo~~",
-      "author": "ass191044",
       "reactions": 5,
       "channel": "🔸綜合討論"
     }
